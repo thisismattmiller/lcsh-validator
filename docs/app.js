@@ -46,7 +46,7 @@
   function statusClass(st) {
     st = String(st || "").toLowerCase();
     if (st.startsWith("invalid")) return "bad";
-    if (st.startsWith("uncertain")) return "unsure";
+    if (st.startsWith("uncertain") || st.startsWith("questionable")) return "unsure";
     return "ok";
   }
   function fmtTokens(u) {
@@ -127,6 +127,7 @@
     const badge = $(".verdict-badge", node);
     badge.className = "verdict-badge " + (v.verdict || "uncertain");
     badge.textContent = (v.verdict || "uncertain").toUpperCase();
+    if (v.verdict === "questionable") badge.title = "Constructed from authorized elements, but a usage statement does not clearly cover this heading type; a cataloger should check it.";
     $(".heading-type", node).textContent = [v.heading_type, v.confidence != null ? `confidence ${v.confidence}` : ""].filter(Boolean).join(" · ");
     $(".status", node).replaceChildren();
     const norm = $(".normalized", node);

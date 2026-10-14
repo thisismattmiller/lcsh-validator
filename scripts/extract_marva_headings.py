@@ -131,7 +131,9 @@ def write_lcsh_list(out: Path, rows) -> int:
     seen = set()
     with open(out / "lcsh.txt", "w", encoding="utf-8") as fh:
         for (scheme, label), n in rows:
-            label = unicodedata.normalize("NFC", " ".join(label.split()))
+            # id.loc.gov's BIBFRAME labels render the MARC subfield boundaries as U+2011 pairs; the
+            # catalogers never typed those, so write the conventional "--" separator
+            label = unicodedata.normalize("NFC", " ".join(label.replace("\u2011\u2011", "--").replace("\u2011", "-").split()))
             if scheme in ("lcsh", "naf", "") and label and label not in seen:
                 seen.add(label)
                 fh.write(label + "\n")

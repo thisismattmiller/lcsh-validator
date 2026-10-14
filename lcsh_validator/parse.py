@@ -79,9 +79,33 @@ def _strip_trailing_period(text: str, notes: list[str]) -> str:
     return t
 
 
+SEPARATOR_VARIANTS = re.compile(r"\s*(?:--+|—|–|\u2011\u2011|(?<=\S)\s+-\s+(?=\S))\s*")
+
+
+def normalize_separators(s: str) -> tuple[str, str | None]:
+    """Rewrite the element separators to the canonical '--' with no surrounding spaces.
+
+    Accepted variants: spaces around '--', three or more hyphens, em/en dashes, U+2011 non-breaking
+    hyphen pairs (how id.loc.gov renders subfield boundaries) and a spaced single hyphen ' - '.
+    Returns the cleaned string and a note describing what changed (None if nothing did). Hyphens
+    inside an element ('Tang-Five dynasties', '1969-') are left alone.
+    """
+    if SUBFIELD_RE.search(s):
+        return s, None  # MARC subfield form: separators are the subfield codes
+    cleaned = SEPARATOR_VARIANTS.sub("--", s)
+    cleaned = cleaned.replace("\u2011", "-")
+    if cleaned == s:
+        return s, None
+    return cleaned, f"Separator syntax normalized to '--' before validation (supplied: {s!r})."
+
+
 def parse_heading(raw: str) -> ParsedHeading:
     s = raw.strip()
     notes: list[str] = []
+    s, sep_note = normalize_separators(s)
+    if sep_note:
+        notes.append(sep_note)
+    raw = s  # downstream checks look at the normalized form; the original is kept in the note
     tag = indicators = None
     m = TAG_RE.match(s)
     if m:
@@ -94,9 +118,14 @@ def parse_heading(raw: str) -> ParsedHeading:
         parts = SUBFIELD_RE.split(s)
         # parts = [pre, code, text, code, text, ...]
         pre = parts[0].strip()
-        if pre:
-            notes.append(f"Ignored text before the first subfield: {pre!r}")
         pairs = [(parts[i], parts[i + 1].strip()) for i in range(1, len(parts) - 1, 2)]
+        if pre:
+            if not any(code == "a" for code, _ in pairs):
+                # "Syria ‡x History ‡y 750-1260": display form with the $a marker omitted
+                pairs.insert(0, ("a", pre))
+                notes.append(f"Text before the first subfield marker taken as $a: {pre!r}")
+            else:
+                notes.append(f"Ignored text before the first subfield: {pre!r}")
         main_sub = []
         subdivs: list[Component] = []
         for code, text in pairs:
@@ -121,8 +150,6 @@ def parse_heading(raw: str) -> ParsedHeading:
     parts = [p.strip() for p in DASH_SPLIT.split(s) if p.strip()]
     if not parts:
         raise ValueError("empty heading")
-    if "--" not in s and ("—" in s or "–" in s):
-        notes.append("Subdivisions were delimited with an em/en dash; LCSH convention is a double hyphen '--'.")
     main = parts[0]
     subdivs = [Component(p, None, "unknown") for p in parts[1:]]
     if subdivs:

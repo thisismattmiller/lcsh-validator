@@ -14,8 +14,15 @@ Two layers:
 2. **Turn-based reasoning** (Claude Haiku 5.5 via the Anthropic API): reads the facts, consults
    the SHM through tools (`get_rule`, `search_rules`, `lookup_subdivision`, `lookup_place`,
    `established_under`, `pattern_list`, ...), and returns a structured verdict
-   (`valid` / `invalid` / `uncertain`) with per-element status, issues, rule citations,
+   (`valid` / `invalid` / `questionable` / `uncertain`) with per-element status, issues, rule citations,
    suggested corrections and LC-practice notes.
+
+Verdicts: `invalid` is reserved for defects the data or rule text establish outright (surface
+defects, elements found nowhere, explicit prohibitions and UF conflicts, wrong geographic chains,
+order violations). `questionable` (orange QUESTIONABLE badge on the web page) means every element is
+authorized somewhere and nothing forbids the combination, but a usage statement does not clearly
+cover this heading type or a category membership is inferred: a cataloger should look. `uncertain`
+means something could not be verified with the tools.
 
 ## Setup
 
@@ -45,8 +52,11 @@ uv run lcsh-validate -v --effort high "Joints--Biopsy"      # show tool calls; r
 uv run scripts/run_eval.py                                  # run tests/headings.jsonl and score
 ```
 
-Input forms accepted: `A--B--C` (also em/en dashes), MARC `650 _0 $a A $x B $z C $y D $v E`,
-MarcEdit `=650  \0$aA$xB`.
+Input forms accepted: `A--B--C`, MARC `650 _0 $a A $x B $z C $y D $v E` (also `‡` delimiters,
+with or without `$a`), MarcEdit `=650  \0$aA$xB`. Separator syntax is normalized before
+validation and only noted, never judged: spaces around `--`, a spaced single hyphen ` - `,
+em/en dashes and the U+2011 non-breaking hyphen pairs that id.loc.gov emits all become `--`.
+Capitalization, spelling and qualifier punctuation are still judged.
 
 Python API:
 

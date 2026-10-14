@@ -43,7 +43,7 @@
 {"heading": "Rocks--Moon", "expect": "invalid", "why": "celestial bodies are not geographic subdivisions; use Lunar petrology (H 830 sec. C.8)"}
 {"heading": "Mars (Planet)--Geology", "expect": "valid", "why": "H 830 sec. C.8"}
 {"heading": "tacos--history", "expect": "invalid", "why": "capitalization (Appendix B)"}
-{"heading": "Tacos -- History", "expect": "invalid", "why": "spaces around the double hyphen"}
+{"heading": "Tacos -- History", "expect": "valid", "why": "spaces around the double hyphen are separator syntax, normalized before validation and only noted"}
 {"heading": "Tacos--Histroy", "expect": "invalid", "why": "misspelled subdivision"}
 {"heading": "Great Britain--Kings and rulers--Travel--Canada--Pictorial works", "expect": "valid", "why": "H 1075 sec. D.1 example"}
 {"heading": "Railroads--France--Maintenance and repair--History--19th century", "expect": "valid", "why": "H 1075 sec. D.2 example"}
@@ -59,3 +59,6 @@
 {"heading": "Chinatown (San Francisco, Calif.)--History", "expect": "valid", "why": "city section as a geographic heading with free-floating --History (H 720, H 1140)"}
 {"heading": "Tourism--California--Chinatown (San Francisco)", "expect": "invalid", "why": "headings qualified by a city are not used as geographic subdivisions (H 830 sec. C.1)"}
 {"heading": "Rudolf, Lake, Region (Kenya and Ethiopia)", "expect": "invalid", "why": "base heading renamed to Turkana, Lake (Kenya and Ethiopia); H 362 phrases are built on the established current name"}
+{"heading": "Indians of South America--Ecuador--Philosophy", "expect": "invalid", "why": "H 1929 sec. 2 explicitly bars [group]--Philosophy under ethnic and Indian groups (use the uninverted form, e.g. Maya philosophy); an explicit prohibition, so invalid rather than questionable"}
+{"heading": "Ferroelectricity--Materials", "expect": "questionable", "why": "--Materials usage covers scientific/technical disciplines and equipment; a physical phenomenon is a borderline fit and nothing forbids it: review, not invalid"}
+{"heading": "Bible. Psalms--Paraphrases, French", "expect": "valid", "note": "H 1188 multiple --Paraphrases, English, [French, German, etc.] admits any language"}

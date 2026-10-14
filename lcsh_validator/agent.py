@@ -30,22 +30,28 @@ A heading string is VALID when all of these hold:
 4. No conflict with an established heading (phrase heading vs. subdivision form, UF references, deprecated/cancelled headings, H 1095 sec. E.2) and the subdivision is not already implied by the heading (H 1095 sec. E.3).
 5. The literal form is right: exact wording and capitalization of the authorized forms, '--' between elements, parenthetical qualifiers and inverted forms as established, no terminal punctuation issues (Appendices B, C, D).
 
-The verdict applies to the string exactly as supplied. Surface-form defects — wrong capitalization, spaces around '--', a single hyphen or dash instead of '--', misspellings, wrong qualifier punctuation — make the supplied string "invalid" (severity "error"), with the corrected form in normalized_string. A terminal period is NOT a defect (MARC strings end with one); never add one to normalized_string. Severity "warning" is for usage doubts that do not by themselves invalidate the string; "note" is informational.
+Element-separator syntax (spaces around '--', a spaced single hyphen, em/en dashes, non-breaking hyphens) is normalized to '--' BEFORE validation; when the facts carry a "Separator syntax normalized" note, mention it as severity "note" only and judge the normalized string. Other surface-form defects — wrong capitalization, misspellings, wrong qualifier punctuation, missing periods in 'etc.' — make the supplied string "invalid" (severity "error"), with the corrected form in normalized_string. A terminal period is NOT a defect (MARC strings end with one); never add one to normalized_string. Severity "warning" is for usage doubts that do not by themselves invalidate the string; "note" is informational.
 
 Headings not found in any authority file may still be valid free-floating phrase headings: H 362 authorizes "[city] Metropolitan Area ([qualifier])", "[city] Region (...)", "[city] Suburban Area (...)", "[geographic feature or river] Region (...)" built on an established name (with an extra comma after an inverted base heading), and H 1917.5 authorizes music form headings with medium-of-performance qualifiers. When the facts report a "free_floating_phrase_candidate", verify the base heading and the pattern rather than rejecting the string for being unestablished. An established precoordinated string in the authority file (whole_string_established) is valid as established even if a free-floating list would not have authorized it.
 
-Distinguish three outcomes: "valid", "invalid", "uncertain" (use "uncertain" when the string could be valid only under an interpretation you cannot confirm, e.g. a pattern-category membership or a name heading you could not verify). Also distinguish general LCSH validity from current *LC practice*: since 2025/2026 LC catalogers do not assign form subdivisions ($v) and use LCGFT instead, but form subdivisions remain valid LCSH for other institutions — a string with a correctly used form subdivision is "valid" with an LC-practice note, not "invalid".
+Distinguish four outcomes:
+- "valid": every criterion above holds.
+- "invalid": reserve this for defects that the facts or the rule text establish outright: a surface-form defect; an element found nowhere (not in LCSH, not in LCNAF, not in any free-floating or pattern list, not established under the prefix); an explicit prohibition ("Do not use under ...", a scope note, a UF/see reference to a different form, a deprecated or cancelled heading, H 1095 sec. E.2/E.3 conflicts); a geographic chain that contradicts the authorized 781 subdivision form or H 830; a prescribed-order violation; a place following a subdivision that is not (May Subd Geog). Report these with severity "error".
+- "questionable": every element is authorized somewhere and nothing explicitly forbids the combination, but the applicable usage statement does not clearly name this heading's type (or names it only by a general phrase such as "topical headings"), or the pattern-category membership is inferred rather than established, or the combination is unusual enough that a cataloger should check it. Report the doubt with severity "warning", never "error". Do not stretch an inference ("ethnic-group headings have their own list, so a general H 1095 subdivision is barred") into an "invalid": a usage statement that names "topical headings" covers any topical (150) heading, including headings for ethnic groups, classes of persons, organizations, etc., unless the governing special sheet or list explicitly excludes it.
+- "uncertain": the string could be valid only under an interpretation you could not confirm with the tools (e.g. a name heading you could not verify).
+Also distinguish general LCSH validity from current *LC practice*: since 2025/2026 LC catalogers do not assign form subdivisions ($v) and use LCGFT instead, but form subdivisions remain valid LCSH for other institutions — a string with a correctly used form subdivision is "valid" with an LC-practice note, not "invalid".
 
 Method (turn by turn):
 - Read the facts. Identify the heading type (topical, geographic/jurisdiction, personal/corporate name, uniform title, class of persons, ethnic group, pattern category member, etc.).
 - For each subdivision decide which of (a)-(d) applies; when it is free-floating, confirm with lookup_subdivision / get_rule that the usage statement covers this heading type and read any "Do not use ..." restrictions; consult the special instruction sheet for that subdivision when one exists (sheets_for_subdivision / shm_index).
+- List entries written as multiples, e.g. "--Paraphrases, English, [French, German, etc.]" or "--Films for French, [Spanish, etc.] speakers", authorize any language, name or term in that slot; "--Paraphrases, French" is therefore on the list. When a lookup reports "matched_pattern", treat the string as that list entry.
 - For geographic subdivisions, verify the chain against the authorized subdivision form (781) reported in the facts and H 830.
 - When something is not found, use search_headings / established_under to find what *is* established and suggest the correct form.
 - Do not guess rule content from memory when a tool can show it; cite the sheet and section you relied on. Keep tool calls purposeful (typically 3–10 calls).
 
 When done, reply with ONLY a JSON object (no prose before or after) with this shape:
 {
-  "verdict": "valid" | "invalid" | "uncertain",
+  "verdict": "valid" | "invalid" | "questionable" | "uncertain",
   "confidence": 0.0-1.0,
   "normalized_string": "the heading as it should be written if valid (or best correction), elements joined by -- with no terminal period",
   "heading_type": "short description",
@@ -61,7 +67,7 @@ When done, reply with ONLY a JSON object (no prose before or after) with this sh
 VERDICT_SCHEMA = {
     "type": "object",
     "properties": {
-        "verdict": {"type": "string", "enum": ["valid", "invalid", "uncertain"]},
+        "verdict": {"type": "string", "enum": ["valid", "invalid", "questionable", "uncertain"]},
         "confidence": {"type": "number"},
         "normalized_string": {"type": "string"},
         "heading_type": {"type": "string"},
@@ -344,9 +350,15 @@ def _fix_escapes(s: str) -> str:
 def _reconcile(verdict: dict) -> dict:
     """Keep the verdict consistent with the issues: any severity-'error' issue means the string as supplied is not valid."""
     issues = verdict.get("issues") or []
-    if verdict.get("verdict") == "valid" and any((i or {}).get("severity") == "error" for i in issues):
+    has_error = any((i or {}).get("severity") == "error" for i in issues)
+    has_warning = any((i or {}).get("severity") == "warning" for i in issues)
+    if verdict.get("verdict") in ("valid", "questionable") and has_error:
+        verdict["verdict_note"] = f"verdict changed from '{verdict['verdict']}' to 'invalid' because the model reported error-severity issues"
         verdict["verdict"] = "invalid"
-        verdict["verdict_note"] = "verdict changed from 'valid' to 'invalid' because the model reported error-severity issues"
+    elif verdict.get("verdict") == "invalid" and not has_error:
+        # the model found nothing it could call an outright defect: a doubt, not a verdict
+        verdict["verdict_note"] = "verdict changed from 'invalid' to 'questionable' because no error-severity issue was reported" + ("" if has_warning else " (no issues at all)")
+        verdict["verdict"] = "questionable"
     ns = verdict.get("normalized_string")
     if isinstance(ns, str) and ns.endswith(".") and not re.search(r"\b(etc|[A-Z])\.$", ns):
         verdict["normalized_string"] = ns[:-1]
