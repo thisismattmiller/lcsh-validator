@@ -279,7 +279,8 @@
     const head = await fetch(idUrl, { method: "HEAD", redirect: "follow", headers: { accept: "application/rdf+xml" } });
     if (!head.ok) throw new Error(`id.loc.gov returned ${head.status} for LCCN ${lccn}`);
     const instanceUrl = head.url.replace(/\.(rdf|html)$/, "");
-    if (!/\/resources\/instances\/\d+/.test(instanceUrl)) throw new Error(`LCCN ${lccn} did not resolve to an instance (got ${instanceUrl})`);
+    // instance ids are numeric (22881244) or prefixed (in00024910740)
+    if (!/\/resources\/instances\/[A-Za-z0-9]+$/.test(instanceUrl)) throw new Error(`LCCN ${lccn} did not resolve to an instance (got ${instanceUrl})`);
     const rdf = await fetch(instanceUrl + ".cbd.rdf");
     if (!rdf.ok) throw new Error(`could not fetch ${instanceUrl}.cbd.rdf (${rdf.status})`);
     const xml = new DOMParser().parseFromString(await rdf.text(), "application/xml");
