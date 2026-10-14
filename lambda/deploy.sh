@@ -75,9 +75,13 @@ else
     --description "LCSH subject heading validator (SHM rules + Claude Haiku 5.5)" >/dev/null
   aws lambda wait function-active --function-name "$NAME" --region "$REGION"
 fi
-# cap concurrent runs so a public URL cannot run up an unbounded API bill
-aws lambda put-function-concurrency --function-name "$NAME" --region "$REGION" \
-  --reserved-concurrent-executions "${LCSH_LAMBDA_CONCURRENCY:-10}" >/dev/null
+# no reserved-concurrency cap (it made parallel batches fail with HTTP 429); set
+# LCSH_LAMBDA_CONCURRENCY to cap spend if the public URL ever gets abused
+if [[ -n "${LCSH_LAMBDA_CONCURRENCY:-}" ]]; then
+  aws lambda put-function-concurrency --function-name "$NAME" --region "$REGION" --reserved-concurrent-executions "$LCSH_LAMBDA_CONCURRENCY" >/dev/null
+else
+  aws lambda delete-function-concurrency --function-name "$NAME" --region "$REGION" >/dev/null 2>&1 || true
+fi
 
 # --- public URL ----------------------------------------------------------------------------------
 CORS='{"AllowOrigins":["*"],"AllowMethods":["GET","POST"],"AllowHeaders":["content-type"],"MaxAge":86400}'

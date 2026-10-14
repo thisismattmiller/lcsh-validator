@@ -55,19 +55,32 @@
   }
 
   // ---------------------------------------------------------------- validation
-  async function callApi(heading, effort) {
+  const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+  async function callApi(heading, effort, onRetry) {
     const url = apiUrl();
     if (!url) throw new Error("No API URL configured: deploy the Lambda (lambda/deploy.sh writes docs/config.js) or pass ?api=.");
-    const resp = await fetch(url, {
-      method: "POST",
-      headers: { "content-type": "application/json" },
-      body: JSON.stringify({ heading, effort }),
-    });
-    const text = await resp.text();
-    let data;
-    try { data = JSON.parse(text); } catch (e) { throw new Error(`API returned ${resp.status}: ${text.slice(0, 300)}`); }
-    if (!resp.ok || data.error) throw new Error(data.error || `API returned ${resp.status}`);
-    return data;
+    // 429/502/503 are transient (Lambda throttling, model rate limits, cold-start hiccups): retry with backoff
+    for (let attempt = 0; ; attempt++) {
+      let resp, text;
+      try {
+        resp = await fetch(url, { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ heading, effort }) });
+        text = await resp.text();
+      } catch (e) {
+        if (attempt >= 5) throw e;
+        if (onRetry) onRetry(attempt + 1, "network error");
+        await sleep(1500 * 2 ** attempt);
+        continue;
+      }
+      if ([429, 502, 503, 504].includes(resp.status) && attempt < 6) {
+        if (onRetry) onRetry(attempt + 1, `HTTP ${resp.status}`);
+        await sleep(1500 * 2 ** attempt + Math.random() * 1000);
+        continue;
+      }
+      let data;
+      try { data = JSON.parse(text); } catch (e) { throw new Error(`API returned ${resp.status}: ${text.slice(0, 300)}`); }
+      if (!resp.ok || data.error) throw new Error(data.error || `API returned ${resp.status}`);
+      return data;
+    }
   }
 
   function newResultCard(heading) {
@@ -203,7 +216,7 @@
   // after LEAD_MS (or as soon as it finishes) the rest run in parallel, up to MAX_PARALLEL at a time
   // (the function's reserved concurrency). The gate closes again after IDLE_MS without traffic,
   // since by then the cache entry and the warm containers are gone.
-  const MAX_PARALLEL = 10, LEAD_MS = 10000, IDLE_MS = 5 * 60 * 1000;
+  const MAX_PARALLEL = 20, LEAD_MS = 10000, IDLE_MS = 5 * 60 * 1000;
   const queue = [];
   let active = 0, gateOpen = false, lastDone = 0;
   function openGate() { if (!gateOpen) { gateOpen = true; pump(); } }
@@ -222,7 +235,8 @@
     if (!heading) return;
     const node = newResultCard(heading);
     queue.push(async () => {
-      try { renderResult(node, await callApi(heading, effort)); }
+      const onRetry = (n, why) => { const e = $(".elapsed", node); if (e) e.textContent = `retrying (${why}, attempt ${n})…`; };
+      try { renderResult(node, await callApi(heading, effort, onRetry)); }
       catch (e) { renderError(node, e); }
     });
     pump();
@@ -294,22 +308,17 @@
     box.replaceChildren();
     box.append(el("div", { class: "record-title", text: rec.title }),
       el("div", { class: "record-meta" }, `LCCN ${rec.lccn} · `, el("a", { href: rec.instanceUrl, target: "_blank", rel: "noopener", text: rec.instanceUrl.replace("https://", "") }),
-        ` · ${rec.subjects.length} subject${rec.subjects.length === 1 ? "" : "s"}`));
+        ` · ${rec.subjects.length} subject${rec.subjects.length === 1 ? "" : "s"}, all queued for validation`));
     if (!rec.subjects.length) { box.append(el("p", { class: "hint", text: "No subjects on this record." })); return; }
-    const effort = () => $("#effort").value;
     const list = el("ul", { class: "subjects" });
     for (const s of rec.subjects) {
-      const cb = el("input", { type: "checkbox" });
-      cb.checked = s.scheme.startsWith("LCSH") || s.scheme === "LCNAF" || !s.scheme;
-      list.append(el("li", {}, cb, el("span", { class: "tag", text: [s.tag, s.scheme].filter(Boolean).join(" · ") }),
-        el("span", { class: "label", text: s.label }),
-        el("button", { type: "button", class: "secondary", text: "Validate", onclick: () => validate(s.label, effort()) })));
-      s._cb = cb;
+      list.append(el("li", {}, el("span", { class: "tag", text: [s.tag, s.scheme].filter(Boolean).join(" · ") }),
+        el("span", { class: "label", text: s.label })));
     }
-    box.append(list, el("div", { class: "record-actions" },
-      el("button", { type: "button", text: "Validate selected", onclick: () => { for (const s of rec.subjects) if (s._cb.checked) validate(s.label, effort()); } }),
-      el("button", { type: "button", class: "secondary", text: "Select all", onclick: () => rec.subjects.forEach((s) => (s._cb.checked = true)) }),
-      el("button", { type: "button", class: "secondary", text: "Select none", onclick: () => rec.subjects.forEach((s) => (s._cb.checked = false)) })));
+    box.append(list);
+    // validate every subject on the record straight away (lead request first, then parallel)
+    const effort = $("#effort").value;
+    for (const s of rec.subjects) validate(s.label, effort);
   }
 
   // ---------------------------------------------------------------- wiring

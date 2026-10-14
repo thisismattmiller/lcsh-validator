@@ -69,9 +69,9 @@ echo 'ANTHROPIC_KEY=sk-ant-...' > .env            # the key the function will us
 ./lambda/deploy.sh --no-build                     # configuration / URL only
 ```
 
-`lambda/deploy.sh` is idempotent. It writes the Function URL into `docs/config.js`, caps the
-function at 10 concurrent executions (`LCSH_LAMBDA_CONCURRENCY`) so the public URL cannot run up
-an unbounded API bill, and falls back to the existing `lambda_basic_execution` role when the AWS
+`lambda/deploy.sh` is idempotent. It writes the Function URL into `docs/config.js`, leaves the
+function uncapped (set `LCSH_LAMBDA_CONCURRENCY` to add a reserved-concurrency cap; a cap makes
+parallel batches fail with HTTP 429), and falls back to the existing `lambda_basic_execution` role when the AWS
 user is not allowed to create roles (`LCSH_LAMBDA_ROLE` names any other existing role).
 The image holds the package, `rules/` and `data/derived/{lcsh,rules,name_cache}.sqlite`; the two
 writable SQLite files are copied to `/tmp` at cold start (`lambda/handler.py`).
@@ -100,7 +100,7 @@ touches `docs/`; the repository's Pages source is set to "GitHub Actions". To ru
 `https://id.loc.gov/resources/instances/identifier/<lccn>` (following the `Location` redirect with
 an RDF `Accept` header, because the `.html` landing page is served without CORS headers), loads the
 instance's `.cbd.rdf`, lists every `bf:subject` on the Work with its MARC tag and scheme, and
-validates the selected ones. When several headings are queued, the first request runs alone so it
+validates all of them immediately. When several headings are queued, the first request runs alone so it
 warms a container and writes the prompt cache; after 10 s (or when it finishes) the rest run in
 parallel, up to 10 at a time, and the gate closes again after 5 idle minutes. The API URL can be
 overridden with `?api=`.

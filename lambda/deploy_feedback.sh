@@ -25,7 +25,7 @@ else
     --environment "$ENV_JSON" --description "LCSH validator: stores 'report incorrect validation' feedback in S3" >/dev/null
   aws lambda wait function-active --function-name "$NAME" --region "$REGION"
 fi
-aws lambda put-function-concurrency --function-name "$NAME" --region "$REGION" --reserved-concurrent-executions 5 >/dev/null
+aws lambda delete-function-concurrency --function-name "$NAME" --region "$REGION" >/dev/null 2>&1 || true
 CORS='{"AllowOrigins":["*"],"AllowMethods":["POST"],"AllowHeaders":["content-type"],"MaxAge":86400}'
 if aws lambda get-function-url-config --function-name "$NAME" --region "$REGION" >/dev/null 2>&1; then
   aws lambda update-function-url-config --function-name "$NAME" --region "$REGION" --auth-type NONE --cors "$CORS" >/dev/null
