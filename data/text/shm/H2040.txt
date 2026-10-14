@@ -1,0 +1,74 @@
+
+
+<<<PAGE 1>>>
+ 
+Simulation Methods in Special Fields  H 2040 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2040 Page 1 
+ 
+June 2013 
+1.  BSimulation methods.  Use BSimulation methods as a free-floating subdivision under 
+topical headings for works that discuss comprehensively the development or use of several types 
+of models for studying particular systems, processes, or concepts.  Do not use for works that 
+discuss a single simulation method, except in the field of education (see H 2110, sec. 10). 
+ 
+ 
+ 
+2.  Simulation methods using a single model type.  For works that discuss the simulation of a 
+particular system, process, or concept using only one model type, assign only the heading 
+appropriate for the model type.  Examples: 
+ 
+Abstract or symbolic models: 
+ 
+650 #0 $a Shipping $x Mathematical models. 
+650 #0 $a Electronics $x Graphic methods. 
+650 #0 $a Seepage $x Electromechanical analogies. 
+650 #0 $a Interest rates $x Econometric models. 
+650 #0 $a Carcinogenesis $x Computer simulation. 
+ 
+Physical or working models: 
+ 
+650 #0 $a Engineering models. 
+650 #0 $a Hydraulic models. 
+650 #0 $a Ship models. 
+650 #0 $a Wind tunnel models. 
+650 #0 $a Airplanes $x Models. 
+ 
+Simulators (training devices representing real-life situations): 
+ 
+650 #0 $a Flight simulators. 
+650 #0 $a Link trainers. 
+650 #0 $a Railroad simulators. 
+650 #0 $a Space simulators. 
+ 
+Gaming models (mock competitive situations where two or more persons 
+encounter each other in the context of a real-life problem): 
+ 
+650 #0 $a Simulation games. 
+650 #0 $a Management games. 
+650 #0 $a Educational games. 
+650 #0 $a War games. 
+
+
+<<<PAGE 2>>>
+H 2040  Simulation Methods in Special Fields 
+ 
+ 
+ 
+H 2040 Page 2 
+Subject Headings Manual 
+June 2013 
+3.  General computer simulation or digital computer simulation in a particular field.  Use the 
+free-floating subdivision BComputer simulation under the pertinent topic. 
+ 
+ 
+ 
+4.  Analog computer simulation in a particular field.  Bring out such a topic by using two 
+headings: 
+ 
+650 #0 $a [topic] $x Electromechanical analogies. 
+650 #0 $a [topic] $x Data processing. 
+ 

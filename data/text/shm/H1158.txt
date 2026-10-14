@@ -1,0 +1,231 @@
+
+
+<<<PAGE 1>>>
+ 
+Pattern Headings: Materials  H 1158 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1158 Page 1 
+ 
+August 2020 
+PATTERNS:  Concrete; Metals 
+ 
+TYPES OF HEADINGS COVERED BY THE PATTERN:  Headings for individual materials 
+and types of materials.  Examples:  Dental materials; Foam rubber; Glass; Laminated 
+metals; Plastics; Plywood; Porous materials.  Included are headings formed using the 
+free-floating subdivision –Materials under scientific and technical disciplines and under types of 
+equipment and construction, for example, Telecommunication–Materials; Space 
+vehicles–Materials; Nuclear reactors–Materials.  The category does not include the heading 
+Materials.  Some overlap exists with the category for chemicals (H 1149).  Headings for 
+individual substances and types of substances such as Polyethylene and Nonferrous metals 
+should follow the pattern for materials when they are discussed as basic substances from which 
+something can be made, including their engineering properties, processing, suitability for 
+intended use, etc.  They should follow the pattern for chemicals when discussed from the 
+standpoint of their chemical structure, effects, reactions, etc. 
+ 
+CONFLICTS:  Any subdivision listed here can be used as a free-floating subdivision under any 
+heading belonging to the category if it is appropriate and no conflict exists in the subject 
+authority file.  Subject authority records may exist for headings employing variant phrases or 
+subdivisions equivalent to subdivisions on this list. 
+ 
+LC practice: 
+If an exceptional variant form is to be retained, make a UF reference from the equivalent 
+free-floating subdivision form following the procedures in H 195 if the reference does not yet 
+exist.  Otherwise, submit a proposal to change the variant form along with all bibliographic 
+records requiring correction following the procedures in H 193. 
+ 
+Note:  Most form subdivisions coded $v in this list may also be used as topical 
+subdivisions coded $x when assigned to works about the form (see H 1075, sec. 1.d.). 
+ 
+$x Abrasion resistance  (May Subd Geog) 
+$x Acoustic properties  (May Subd Geog) 
+$x Additives  (May Subd Geog) 
+$x Air content  (May Subd Geog) 
+$x Air content $x Measurement 
+$x Air content $x Measurement $x Instruments 
+$x Analysis 
+$x Anodic oxidation  (May Subd Geog) 
+$x Biocompatibility  (May Subd Geog) 
+$x Biodegradation  (May Subd Geog) 
+
+
+<<<PAGE 2>>>
+H 1158  Pattern Headings: Materials  
+ 
+ 
+ 
+H 1158 Page 2 
+Subject Headings Manual 
+August 2020 
+$x Brittleness  (May Subd Geog) 
+$x Carbon content  (May Subd Geog) 
+$x Cavitation erosion  (May Subd Geog) 
+$x Chemical resistance 
+$x Cobalt content  (May Subd Geog) 
+$x Cold working  (May Subd Geog) 
+$x Coloring 
+$x Combustion  (May Subd Geog) 
+$x Compression testing  (May Subd Geog) 
+$x Conservation  (May Subd Geog) 
+$x Cooling  (May Subd Geog) 
+$x Corrosion1  (May Subd Geog) 
+$x Corrosion fatigue  (May Subd Geog) 
+$x Cracking  (May Subd Geog) 
+$x Creep  (May Subd Geog) 
+$x Curing  (May Subd Geog) 
+$x Defects  (May Subd Geog) 
+$x Defects $x Reporting  (May Subd Geog) 
+$x Density 
+$x Deoxidizing  (May Subd Geog) 
+$x Desulfurization  (May Subd Geog) 
+$x Deterioration  (May Subd Geog) 
+$x Dewatering  (May Subd Geog) 
+$x Dissolution 
+$x Drying  (May Subd Geog) 
+$x Ductility 
+$x Effect of high temperatures on  (May Subd Geog) 
+$x Effect of lasers on  (May Subd Geog) 
+$x Effect of low temperatures on  (May Subd Geog) 
+$x Effect of radiation on  (May Subd Geog) 
+$x Effect of salt on  (May Subd Geog) 
+$x Effect of temperature on  (May Subd Geog) 
+$x Elastic properties  (May Subd Geog) 
+$x Electric properties  (May Subd Geog) 
+$x Embrittlement 
+$x Environmental aspects  (May Subd Geog) 
+$x Environmental testing  (May Subd Geog) 
+$x Erosion  (May Subd Geog) 
+$x Etching  (May Subd Geog) 
+
+
+<<<PAGE 3>>>
+ 
+Pattern Headings: Materials  H 1158 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1158 Page 3 
+ 
+August 2020 
+$x Expansion and contraction (May Subd Geog) 
+$x Extrusion  (May Subd Geog) 
+$x Fatigue  (May Subd Geog) 
+$x Finishing  (May Subd Geog) 
+$x Finishing $x Waste disposal  (May Subd Geog) 
+$x Finishing $x Waste minimization  (May Subd Geog) 
+$x Fire testing  (May Subd Geog) 
+$x Fires and fire prevention  (May Subd Geog) 
+$x Flammability  (May Subd Geog) 
+$x Fluid dynamics 
+$x Formability 
+$x Fracture  (May Subd Geog) 
+$x Galvanomagnetic properties  (May Subd Geog) 
+$x Hardenability  (May Subd Geog) 
+$x Heat treatment  (May Subd Geog) 
+$x Heating  (May Subd Geog) 
+$x Helium content  (May Subd Geog) 
+$x Hot working  (May Subd Geog) 
+$x Hydrogen content  (May Subd Geog) 
+$x Hydrogen embrittlement 
+$x Imaging  (May Subd Geog) 
+$x Impact testing  (May Subd Geog) 
+$x Inclusions  (May Subd Geog) 
+$x Law and legislation2  (May Subd Geog) 
+$x Machinability 
+$x Magnetic properties  (May Subd Geog)  
+$x Mechanical properties 
+$x Metallography3 
+$x Metallurgy3 
+$x Microbiology  (May Subd Geog) 
+$x Microscopy4  (May Subd Geog) 
+$x Microstructure 
+$x Mixing  (May Subd Geog)  
+$x Moisture  (May Subd Geog) 
+$x Nitrogen content  (May Subd Geog) 
+$x Nondestructive testing  (May Subd Geog) 
+$x Optical properties 
+$x Oxygen content  (May Subd Geog) 
+$x Painting  (May Subd Geog)  
+$x Penetration resistance 
+
+
+<<<PAGE 4>>>
+H 1158  Pattern Headings: Materials  
+ 
+ 
+ 
+H 1158 Page 4 
+Subject Headings Manual 
+August 2020 
+$x Permeability 
+$x Physiological effect  (May Subd Geog) 
+$x Pickling  (May Subd Geog) 
+$x Pickling $x By-products 
+$x Pickling $x Waste disposal  (May Subd Geog) 
+$x Plastic properties 
+$x Prices  (May Subd Geog) 
+$x Pump placing  (May Subd Geog) 
+$x Quality control 
+$x Quenching   (May Subd Geog) 
+$x Radioactive contamination5  (May Subd Geog) 
+$x Radiography  (May Subd Geog) 
+$x Rapid solidification processing  (May Subd Geog) 
+$x Recycling  (May Subd Geog) 
+$x Refining   (May Subd Geog) 
+$x Religious aspects6 
+$x Sampling  (May Subd Geog) 
+$x Service life  (May Subd Geog) 
+$x Skid resistance  (May Subd Geog) 
+$x Solubility  (May Subd Geog) 
+$v Specifications  (May Subd Geog) 
+$x Spectra 
+$x Stress corrosion  (May Subd Geog) 
+$x Surfaces 
+$x Surfaces $x Defects  (May Subd Geog) 
+$x Surfaces $x Optical properties 
+$x Testing 
+$x Texture  (May Subd Geog) 
+$x Thermal conductivity  (May Subd Geog) 
+$x Thermal fatigue  (May Subd Geog) 
+$x Thermal properties  (May Subd Geog) 
+$x Thermomechanical properties 
+$x Thermomechanical treatment  (May Subd Geog) 
+$x Toxicology  (May Subd Geog) 
+$x Transport properties  (May Subd Geog) 
+$x Transportation  (May Subd Geog) 
+$x Transportation $x Law and legislation2  (May Subd Geog) 
+$x Tritium content  (May Subd Geog) 
+
+
+<<<PAGE 5>>>
+ 
+Pattern Headings: Materials  H 1158 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1158 Page 5 
+ 
+August 2020 
+$x Viscosity  (May Subd Geog) 
+$x War use  (May Subd Geog) 
+$x Weldability  (May Subd Geog) 
+ 
+ 
+ 
+ 
+NOTES 
+ 
+1Not valid under the heading Metals. 
+2See H 1154.5 for further subdivisions used under legal topics. 
+3Not valid under the heading Metals.  Use only under individual metals and groups of metals. 
+4Not valid under the heading Metals.  Use under individual materials and groups of materials other than metals.  
+Use –Metallography under individual metals and groups of metals. 
+5Not valid under materials and types of materials that are inherently radioactive. 
+6May be subdivided topically by a religion or Christian denomination. Editorially establish each heading of the type 
+[material]–Religious aspects–[name of religion or denomination]. For instructions on the use of the subdivision, 
+see H 1998. 
+ 

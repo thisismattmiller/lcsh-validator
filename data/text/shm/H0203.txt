@@ -1,0 +1,259 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Citation of Sources  H 203 | Page 1 
+ 
+ 
+ 
+Citation of Sources 
+H 203 
+A. Background ............................................................................................................................... 1 
+B. Recent revisions ........................................................................................................................ 2 
+C. General rules for citing sources ................................................................................................. 2 
+C.1. Subfield $w in the work cat. citation .................................................................................. 2 
+C.2. Data found .......................................................................................................................... 3 
+D. Citing publications .................................................................................................................... 3 
+D.1. When to omit volume and page numbers .......................................................................... 3 
+D.2. When to include volume and page numbers ...................................................................... 4 
+D.3. Citing serial publications .................................................................................................... 4 
+D.4. Citing web sites .................................................................................................................. 5 
+D.5. Citing web-based video and audio sources ........................................................................ 5 
+E. Citing sources that are not publications .................................................................................... 6 
+E.1. U.S. Board on Geographic Names (BGN) ............................................................................ 6 
+E.2. Citing the Library of Congress database .............................................................................. 6 
+E.3. Citing telephone calls and email correspondence .............................................................. 6 
+E.4. Citing the Old Catalog heading ........................................................................................... 7 
+F. Citing sources in which the heading was not found .................................................................. 7 
+Revision history ............................................................................................................................. 7 
+A. Background 
+Subject authority records include 670 (Sources found) and 675 (Sources not found) fields. 
+Because these records are distributed to bibliographic utilities and other subscribers, the 
+sources in these fields should be cited in a style that is brief, but clear and understandable to 
+users of the authority records. This instruction sheet describes a suggested method of citing 
+sources. However, as long as the appropriate data elements are present, the exact style of the 
+citation is left to cataloger’s judgment. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Citation of Sources  H 203 | Page 2 
+ 
+ 
+ 
+B. Recent revisions 
+2026-03: Updated template. Corrected faulty metadata. Reorganized and updated text and 
+added examples. 
+C. General rules for citing sources 
+Provide the primary contributor (when applicable), title, and date of publication in subfield $a. 
+Provide the data found in that source in subfield $b.  The following format and punctuation 
+style are suggested: 
+Example: 
+670 ## $a [author]. [title], [date of publication]: $b [volume, page, etc.] 
+([data found]) 
+C.1. Subfield $w in the work cat. citation 
+When citing the work being cataloged (work cat.), include a $w subfield containing the work 
+cat.’s bibliographic control number or identifier.   
+C.1.a. LC catalogers and CIP partners 
+In the $w field, LC catalogers should give the LCCN of the work, if the work being is being 
+cataloged at the Library of Congress or is a CIP that is being cataloged as part of the CIP 
+Partnership Program. Input DLC enclosed in parentheses at the beginning of the subfield and 
+then input the LCCN. Do not leave a space between the closing parenthesis and the number. 
+Example: 
+$w (DLC)2019300716 
+C.1.b. SACO catalogers 
+SACO libraries may input either their local bibliographic record control number or the 
+bibliographic record control number from a bibliographic utility (e.g., an OCLC number), but not 
+an LCCN, into the $w subfield if the work being cataloged is not an LC CIP. Precede the control 
+number by the MARC organization code for the agency to which the number applies, enclosed 
+in parentheses. Do not leave a space between the closing parenthesis and the number. 
+Example: 
+$w (OCoLC)198765401 
+Note: Provide only one $w subfield per 670 field. The subfield is repeatable, but it is not 
+repeated in LCSH authority records. 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Citation of Sources  H 203 | Page 3 
+ 
+ 
+ 
+C.2. Data found 
+Provide the terminology and any variant terms, and definitions or descriptions found in the 
+cited source. Put this information in parentheses following the citation in a $b subfield. Use 
+punctuation as needed to separate pieces of data. If information is quoted from the source 
+exactly, place it in quotation marks. 
+Examples: 
+Heading proposed: Draco (Constellation) 
+670 ## $a Astronomy encyclopedia, 2002 $b (Draco; eighth-largest constellation, 
+representing the dragon Ladon in Greek mythology; lies between Ursa Major 
+and Cepheus, near the north celestial pole, and surrounds Ursa Minor on 
+three sides)  
+Heading proposed: Bandolin 
+670 ## $a Garland encyclopedia of world music: $b v. 2, p. 417 ((Ecuador): The 
+bandolín is a type of flat-backed mandolin with five courses of triple 
+strings struck with a plectrum. It is played by Quichua and Iberian-
+Ecuadorians in the highlands; certain Imbabura villages, such as Ilumán, 
+used to be famous for their proliferation of bandolines)  
+D. Citing publications 
+D.1. When to omit volume and page numbers 
+As a general rule, omit the volume and page number where information relevant to the 
+proposal was found, if (a) the source being cited is alphabetically arranged, and (b) the heading 
+being proposed, or a reference to it, is found in its normal alphabetical location in the source. 
+Examples: 
+• If a heading for the Battle of Chemulpo is proposed and The Dictionary of Battles and 
+Sieges is cited as a source, the volume and page number in the dictionary may be 
+omitted since the dictionary is an alphabetically arranged list of battles and the entry for 
+Chemulpo is found under the letter “C”. 
+• If *Empire State Building (New York, N.Y.)* is proposed, and Americana is cited as a 
+source, the volume and page number may be omitted, since an article on the building 
+appears directly under the letter “E” in the encyclopedia. 
+Also omit volume and page numbers when citing as a source a publication that has the 
+proposed heading within its title. 
+Example: 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Citation of Sources  H 203 | Page 4 
+ 
+ 
+ 
+If the heading *Privatization* is proposed, no page number is required when citing the 
+following as a source: Goldman, H. The privatization book, 1984. 
+Note: When citing a work such as this in order to justify variant forms that are found in the text 
+and that have been provided as UFs, or to provide other information about the term, cite the 
+page number(s) where the variants and/or information is found. 
+D.2. When to include volume and page numbers 
+As a general rule, include the volume and page number where relevant information was found 
+if either (a) the source is not an alphabetically arranged work, and it is necessary to browse or 
+use the table of contents and/or index to locate information that supports the proposal or (b) 
+the source is alphabetically arranged, but the information that supports the proposal being 
+made appears in a place other than the alphabetical position of the proposed heading. 
+Example: 
+If the heading *Coit Memorial Tower (San Francisco, Calif.)* is proposed and 
+Americana is cited as a source, the volume and page number are required 
+because this term appears only in the article about San Francisco, and 
+there is no entry or reference to it under the letter *C*. 
+When including a volume and/or page number, place them following the source citation in a $b 
+subfield. 
+Example: 
+670 ## $a Americana: $b v. 24, p. 199 (in article on San Francisco: Coit Tower; 
+rises 210 feet (64 meters) atop Telegraph Hill) 
+D.3. Citing serial publications 
+ 
+When citing any serial as a source, provide the volume number (or date) of the issue(s) 
+consulted, in addition to the other information specified above. 
+Examples: 
+670 ## $a Biol. & agr. index: $b v. 38 ([data found]) 
+670 ## $a Southwestern naturalist, via JSTOR, viewed Aug. 16, 2007: $b v. 9, 
+no. 2, 1964 ([data found]) 
+670 ## $a NYT index, 1984 $b ([data found]) 
+670 ## $a Journal of colloid and interface science, viewed Aug 23, 2021: $b v. 
+521 (July 2018), p. 69 ([data found]) 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Citation of Sources  H 203 | Page 5 
+ 
+ 
+ 
+670 ## $a Pharmaceutical trends, Jan. 1978: $b p. 2 ([data found]) 
+D.4. Citing web sites 
+Give the name of the web site and the date it was consulted. In subfield $b, give a location, if 
+appropriate, and the information found. Include the date viewed in the $a subfield. 
+Example: 
+Heading proposed: DataTimes (Information retrieval system) 
+670 ## $a DataTimes web site, viewed May 16, 1996: $b main menu (DataTimes 
+information network) 
+Names of search engines should be cited only when it is useful to provide hit counts for variant 
+terminology. 
+Example: 
+Heading proposed: Benghazi Consulate Attack, Banghāzī, Libya, 2012 
+670 ## $a Google, Jan. 25, 2013 $b (hit counts: US Consulate attack, 2,610,000; 
+Benghazi Consulate attack, 1,580,000; US Mission attack, 190,000; 
+Benghazi Mission attack, 274,000) 
+Note: Catalogers are strongly discouraged from providing a URI (Uniform Resource Identifier) in 
+the 670 field, since URIs are unstable and addresses often change. However, when the work 
+being cataloged is a digital resource, provide a URI if possible. Prefer a persistent URI over a URI 
+produced via search. If there is no persistent URI, do not create one. In the situations where it is 
+necessary to cite a URI, the 670 $u subfield must be used for this purpose. 
+Example: 
+670 $a Charles H. Bronson Commissioner of Agriculture, Florida Department of 
+Agriculture and Consumer Services, Technical Bulletin Number 3, August 9, 
+2002, viewed online August 30, 2019: $b page 2 (Apple snails belong to 
+the phylum Mollusca, class Gastropoda (snails), subclass Prosobranchia, 
+order Mesogastropoda, family Ampullariidae (apple snails).) $u 
+http://edocs.dlis.state.fl.us/fldocs/doacs/aquaculture/techbull/2002no3.p
+df 
+D.5. Citing web-based video and audio sources 
+In the $a subfield, provide the name of the resource, the platform or service used to access it, 
+and the date it was consulted. Include the information and its location in the resource in the $b 
+subfield. 
+Example: 
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | Citation of Sources  H 203 | Page 6 
+ 
+ 
+ 
+670 ## $a Useful Charts channel, via YouTube, viewed July 29, 2022: $b Writing 
+systems of the World (abjads, alphabets, abugidas, syllabaries, 
+logosyllabaries) $u https://youtu.be/Mmz42awTRsA?si=R8vRbK11vIR91mDE 
+E. Citing sources that are not publications 
+E.1. U.S. Board on Geographic Names (BGN) 
+In most cases, information is obtained from BGN via the Internet, using the Geographic Names 
+Information System (GNIS) or the Geographic Names Server (GNS) (cf. H 690, D. Form of 
+heading). Cite these sources in the following manner: 
+670 ## $a GNIS [or GNS], [date searched]: $b ([approved form, location and type 
+of feature, coordinates]; variants: [variants provided]) 
+See also the instructions in DCM Z1—670 Source Data Found—Special types of citations—U.S. 
+Board on Geographic Names (BGN) to see all the options for how to record the information for 
+geographic features. 
+Examples: 
+670 ## $a GEOnet, July 29, 2015: $b (Tokaji Hegy, mountain in Borsod-Abaúj-
+Zemplén, Hungary; 48°07ʹ00ʺN 021°23ʹ00ʺE; variants: Kopasz, Tokaj Hegy, 
+Kopasz, Hegy, Nagy-Kopasz, Tokaj, Tokaj Hegy) 
+670 ## $a GNIS, Feb. 10, 2023: $b (Chimney Rock Bluff; cliff; Newton County, 
+Arkansas; 36.0078540, -93.0804523) 
+E.2. Citing the Library of Congress database 
+Use the phrase *LC database* as a standard way of indicating that the term being proposed as 
+a heading or reference was found in titles in bibliographic records in the LC Database. Use *LC 
+name authority file* to cite the Library of Congress name authority file (LC/NAF). 
+Example: 
+Heading proposed: Environmental auditing 
+670 ## $a LC database, Sept. 9, 1984 $b (environmental audit; environmental 
+compliance auditing; environmental auditing) 
+E.3. Citing telephone calls and email correspondence  
+In order to use information obtained by telephone or over email to support a subject heading 
+proposal, use one of the following citation forms: *Phone call to [name of person]*; *Email 
+from [name of person]*. Include the date of the contact and also include, when pertinent and 
+available, the person’s title and the organization with which the person is affiliated. Provide in 
+
+
+<<<PAGE 7>>>
+Subject Headings Manual | Citation of Sources  H 203 | Page 7 
+ 
+ 
+ 
+parentheses a brief summary of the relevant information provided by the person in a $b 
+subfield. 
+Example: 
+Heading proposed: Public history 
+670 ## $a Phone call to M. Cantelon, Natl. Council on Public History, Sept. 15, 
+2000 $b (term “public history” has not yet acquired a fixed meaning) 
+E.4. Citing the Old Catalog heading  
+When proposing a heading for a named entity, geographic feature, chemical, biological 
+organism, etc., for which an Old Catalog heading exists and has been found, cite it by the 
+phrase *Old catalog heading* followed by the heading in parentheses in a $b subfield. 
+Example: 
+Heading proposed: Marion Reservoir (Kan.) 
+670 ## $a Old catalog heading $b (Marion Lake, Kan.) 
+F. Citing sources in which the heading was not found  
+Use the 675 field to cite sources that were consulted but do not use the term or any variation 
+of it. The same style as that used for citing sources that support the proposal may be used. No 
+further data should be provided. The 675 field is not repeatable. Multiple sources appear in 
+sequential $a subfields, separated by semicolons. Use no other subfield coding. 
+Example: 
+675 ## $a Soprintendenza per i beni archeologici della Puglia website, viewed 
+Dec. 31, 2014; $a Princeton encyc. classic. Sites 
+Revision history 
+2026-03: Updated template. Corrected faulty metadata. Reorganized text and added examples. 

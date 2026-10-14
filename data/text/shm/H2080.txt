@@ -1,0 +1,408 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Sources H 2080 | Page 1 
+ 
+ 
+Sources 
+H 2080 
+A. Background ................................................................................................................................. 1 
+B. Recent revisions .......................................................................................................................... 2 
+C. Definitions ................................................................................................................................... 2 
+D. History......................................................................................................................................... 2 
+D.1. Collections ............................................................................................................................ 2 
+D.2. Discussions ........................................................................................................................... 4 
+E. Individual works .......................................................................................................................... 4 
+F. Literature ..................................................................................................................................... 5 
+F.1. General ................................................................................................................................. 5 
+F.2. Individual literary authors .................................................................................................... 5 
+G. Names of persons ....................................................................................................................... 5 
+H. Law .............................................................................................................................................. 6 
+H.1. Systems of law ..................................................................................................................... 6 
+H.2. Legal topics .......................................................................................................................... 7 
+I. Bibliographies and catalogs ......................................................................................................... 8 
+I.1. Bibliographies ........................................................................................................................ 8 
+I.2. Catalogs ................................................................................................................................. 8 
+J. Extended examples ...................................................................................................................... 9 
+Revision history ............................................................................................................................. 11 
+A. Background 
+The free-floating subdivision *--Sources* is used under historical topics, author-title and 
+uniform title headings, certain types of literature headings, and headings for systems of law, for 
+collections of writings such as documents, letters, etc., compiled for use by students, scholars, 
+etc., in their research on the history of those topics, and for works discussing source materials 
+of all types. It is also used under names of persons for works discussing the individual's sources 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Sources H 2080 | Page 2 
+ 
+ 
+of ideas or inspiration for their endeavors or creative works and for collections of those source 
+materials. This instruction sheet provides guidelines for assigning this subdivision. 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. For 
+resources that would use form subdivisions, assign the LCGFT term appropriate to the genre 
+and/or form of the resource in hand. 
+B. Recent revisions 
+2026-01: Updated template. Added instructions related to LCGFT implementation. 
+C. Definitions 
+Sources: Collections of writings such as documents, letters, etc., compiled for use by students, 
+scholars, etc.  
+D. History 
+Assign the free-floating subdivision *--Sources* under historical headings for collections or 
+discussions of historical source materials. The subdivision *--Sources* is used directly after 
+headings and subdivisions that denote history or a historical event or have an obvious historical 
+connotation. The subdivision *--History--Sources*, or *--History--[period subdivision]--
+Sources* is used after other headings to denote historical source materials. See H 1647 for 
+instructions on use of the subdivision *--History* and a discussion of headings and subdivisions 
+that are treated as inherently historical. 
+LC practice: For discussions of historical sources materials, use the general subdivision *--
+Sources* in conjunction with the appropriate topical subject headings. For collections of 
+primary source materials, assign the appropriate subject headings for the topical focus of the 
+resources. Also assign the LCGFT term(s) appropriate to the genre and/or form of the resource, 
+e.g. LCGFT *Primary sources* or *Notebooks*. If it is a compilation of different types of 
+primary source materials, add *Primary sources* and, if appropriate, also assign more specific 
+terms. If the resource contains many different types of genre and/or forms, including one or 
+more databases, consider the needs of specificity according to LCGFT Manual J 110. 
+D.1. Collections 
+Assign the free-floating form subdivision *--Sources* as a form subdivision under historical 
+headings for collections of contemporary writings or records, such as legal documents, letters, 
+diaries, family papers, etc., assembled at a later time to serve as source materials for use by 
+students, scholars, etc., in their study or research on the subject. 
+Examples: 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Sources H 2080 | Page 3 
+ 
+ 
+Title: Human documents of Adam Smith's time. 
+651 #0 $a Great Britain $x Economic conditions $y 1760-1860 $v 
+Sources. 
+651 #0 $a Great Britain $x Social conditions $y 18th century $v 
+Sources. 
+LC practice: 
+651 #0 $a Great Britain $x Economic conditions $y 1760-1860. 
+651 #0 $a Great Britain $x Social conditions $y 18th century. 
+655 #7 $a Primary sources. $2 lcgft 
+655 #7 $a Excerpts. $2 lcgft 
+655 #7 $a Literature. $2 lcgft 
+655 #7 $a Illustrated works. $2 lcgft 
+ 
+Title: Documents illustrative of the Continental Reformation. 
+650 #0 $a Reformation $v Sources. 
+LC practice: 
+650 #0 $a Reformation. 
+655 #7 $a Primary sources. $2 lcgft 
+655 #7 $a Religious materials. $2 lcgft 
+655 #7 $a Records (Documents) $2 lcgft 
+ 
+Title: Dance as a theatre art : source readings in dance history from 
+1581 to the present. 
+650 #0 $a Dance $x History $v Sources. 
+LC practice: 
+650 #0 $a Dance $x History. 
+655 #7 $a Primary sources. $2 lcgft 
+655 #7 $a Essays. $2 lcgft 
+655 #7 $a Excerpts. $2 lcgft 
+Since the correspondence or diaries of an individual person may or may not be regarded as 
+historical source material, depending on the viewpoint of the reader, do not add the 
+subdivision *--Sources* or *--History--Sources* to the headings assigned to works of this type. 
+See H 1480 or H 1538 for instructions on assigning headings to the correspondence or diaries of 
+individuals. 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Sources H 2080 | Page 4 
+ 
+ 
+For the assignment of headings to collections of government documents, see H 1643 sec. 6. 
+D.2. Discussions 
+Assign the free-floating topical subdivision *--Sources* under historical headings for discussions 
+of historical source materials of all types, including written, visual, moving image, oral, etc., 
+materials. 
+Example: 
+Title: A critical study of prehispanic source materials for the study 
+of Philippine history. 
+651 #0 $a Philippines $x History $y To 1521 $x Sources. 
+LC practice: 
+No change. 
+Example: 
+Title: Sport--a guide to historical sources in the UK. 
+650 #0 $a Sports $z Great Britain $x History $x Sources. 
+LC practice: 
+No change. 
+Example: 
+Title: The sources of social and economic history of Rajasthan. 
+651 #0 $a Rajasthan (India) $x Social conditions $x Sources. 
+651 #0 $a Rajasthan (India) $x Economic conditions $x Sources. 
+LC practice: 
+651 #0 $a Rajasthan (India) $x Social conditions $x Sources. 
+651 #0 $a Rajasthan (India) $x Economic conditions $x Sources. 
+LC practice: 
+No change. 
+655 #7 $a Essays. $2 lcgft 
+E. Individual works 
+Assign the free-floating topical subdivision *--Sources* under author-title or uniform title 
+headings for individual works in any field for discussions of the sources used by the author or 
+authors in writing the work. 
+Examples: 
+630 00 $a Beowulf $x Sources. 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Sources H 2080 | Page 5 
+ 
+ 
+630 00 $a Bible $x Sources. 
+600 10 $a Gibbon, Edward, $d 1737-1794. $t History of the decline 
+and fall of the Roman Empire $x Sources. 
+600 10 $a Shakespeare, William, $d 1564-1616. $t Hamlet $x Sources. 
+LC practice: 
+No change. 
+F. Literature 
+F.1. General 
+Assign the free-floating topical subdivision *--Sources* under literatures, including individual 
+genres, for discussions of sources of ideas or inspiration for these literary works, for example, 
+*English poetry--Early modern, 1500-1700--Sources*. 
+F.2. Individual literary authors 
+In accordance with H 1110, assign the free-floating subdivision *--Sources* under names of 
+individual literary authors for works discussing the individual's sources of ideas or inspiration 
+for their literary works and for collections of those source materials, for example, 
+*Shakespeare, William, 1564-1616--Sources*. 
+LC practice: For discussions of source materials, assign the subject heading *[name of person]--
+Sources*, using the topical subdivision. For collections of source materials, assign the subject 
+heading *[name of person]* and other appropriate subject headings. Also assign the LCGFT 
+term appropriate to the genre and/or form of the resource, e.g. LCGFT *Primary sources* or 
+*Personal correspondence*. If the resource contains many different types of genre and/or 
+forms, including one or more databases, consider the needs of specificity according to LCGFT 
+Manual J 110. 
+G. Names of persons 
+In accordance with H 1110, assign the free-floating subdivision *--Sources* under names of 
+persons for works discussing the individual's sources of ideas or inspiration for their endeavors 
+or creative works, and for collections of those source materials. 
+LC practice: For discussions of source materials, assign the subject heading *[name of person]--
+Sources*, using the topical subdivision. For collections of source materials, assign the subject 
+heading *[name of person]* and other appropriate subject headings. Also assign the LCGFT 
+term appropriate to the genre and/or form of the resource, e.g. LCGFT *Primary sources* or 
+*Personal correspondence*. If the resource contains many different types of genre and/or 
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | Sources H 2080 | Page 6 
+ 
+ 
+forms, including one or more databases, consider the needs of specificity according to LCGFT 
+Manual J 110. 
+Example: 
+Title: Artist on the witness stand. 
+[The artist, who works mostly in wood engravings, writes about his 
+creative process. Also contains wood engravings by the artist.] 
+600 10 $a Eichenberg, Fritz, $d 1901-1990 $x Sources. 
+600 10 $a Eichenberg, Fritz, $d 1901-1990 $x Psychology. 
+LC practice: 
+No change. 
+655 #7 $a Wood engravings. $2 lcgft 
+655 #7 $a Autobiographies. $2 lcgft 
+Do not further subdivide headings of the type *[name of person]--[topic]* by *--Sources* or *--
+History--Sources*. For collections of source material on a special topic about a person, assign a 
+heading of the type *[name of person]--[topic]*, and the additional topical headings required 
+by H 1110, sec. 8, subdivided by *--Sources*. 
+LC practice: See LC practice stated above. 
+Example: 
+Title: The great impeachment and trial of Andrew Johnson, president of 
+the United States. 
+600 10 $a Johnson, Andrew, $d 1808-1875 $x Impeachment. 
+650 #0 $a Impeachments $z United States $x History $y 19th century 
+$v Sources. 
+LC practice: 
+600 10 $a Johnson, Andrew, $d 1808-1875 $x Impeachment. 
+650 #0 $a Impeachments $z United States $x History $y 19th century. 
+655 #7 $a Trial and arbitral proceedings. $2 lcgft 
+H. Law 
+LC practice: For discussions of source materials, assign the appropriate subject headings for the 
+topical focus of the discussion, using the free-floating topical subdivision *--Sources*. For 
+collections of source materials, assign appropriate subject headings for the topic of the 
+collection. Also assign the LCGFT term appropriate to the genre and/or form of the resource, 
+e.g. LCGFT *Law materials* or *Legal instruments*. If the resource contains many different 
+
+
+<<<PAGE 7>>>
+Subject Headings Manual | Sources H 2080 | Page 7 
+ 
+ 
+types of genre and/or forms, including one or more databases, consider the needs of specificity 
+according to LCGFT Manual J 110. 
+H.1. Systems of law 
+Assign the free-floating subdivision *--Sources* under systems of law for works containing 
+historical documents such as acts, customs, court decisions and records, jurists' writings, etc., 
+that led to the formation of a particular legal system, and for works discussing these 
+documents. 
+LC practice: See LC practice stated above. 
+Examples: 
+650 #0 $a Canon law $v Sources. 
+650 #0 $a Islamic law $v Sources. 
+650 #0 $a Law $z Burma $v Sources. 
+650 #0 $a Law, Cherokee $v Sources. 
+LC practice: 
+650 #0 $a Canon law. 
+650 #0 $a Islamic law. 
+650 #0 $a Law $z Burma. 
+650 #0 $a Law, Cherokee. 
+655 #7 $a Primary sources. $2 lcgft 
+655 #7 $a Law materials. $2 lcgft 
+H.2. Legal topics 
+Assign the free-floating subdivision *--Sources* under headings of the type *[legal topic]--
+History* for collections and discussions of documents serving as source materials for the 
+history of the topic. For collections, code *--Sources* $v; for discussions of sources, code *--
+Sources* $x. 
+LC practice: See LC practice stated above. 
+Examples: 
+650 #0 $a Feudal law $z Italy $x History $v Sources. 
+650 #0 $a Press law $z Uruguay $x History $x Sources. 
+650 #0 $a Educational law and legislation $z France $x History $x 
+Sources. 
+
+
+<<<PAGE 8>>>
+Subject Headings Manual | Sources H 2080 | Page 8 
+ 
+ 
+650 #0 $a Slavery $x Law and legislation $z United States $x History 
+$v Sources. 
+LC practice: 
+650 #0 $a Feudal law $z Italy $x History. 
+655 #7 $a Primary sources. $2 lcgft 
+655 #7 $a Law materials. $2 lcgft 
+ 
+650 #0 $a Slavery $x Law and legislation $z United States $x 
+History. 
+655 #7 $a Primary sources. $2 lcgft 
+655 #7 $a Statutes and codes. $2 lcgft 
+I. Bibliographies and catalogs 
+I.1. Bibliographies 
+Assign the free-floating subdivision *--Bibliography* under headings of the type *[topic]--
+Sources* or *[topic]--History--Sources* for bibliographies of source materials on the topic. 
+LC practice: Assign the appropriate subject headings for the topical focus of the bibliography. 
+Also assign the LCGFT term appropriate to the genre and/or form of the resource, e.g. LCGFT 
+*Bibliographies*. 
+Examples: 
+650 #0 $a Crusades $x Sources $v Bibliography. 
+650 #0 $a Technology $x History $x Sources $v Bibliography. 
+LC practice: 
+650 #0 $a Crusades $x Sources. 
+655 #7 $a Bibliographies. $2 lcgft 
+ 
+650 #0 $a Technology $x History $x Sources. 
+655 #7 $a Bibliographies. $2 lcgft 
+I.2. Catalogs 
+Assign the free-floating subdivision *--Catalogs* under headings of the type *[topic]--Sources--
+Bibliography* or *[topic]--History--Sources--Bibliography* for catalogs of individual collections 
+of source materials. Assign additional headings, in accordance with the instructions in H 1361. 
+
+
+<<<PAGE 9>>>
+Subject Headings Manual | Sources H 2080 | Page 9 
+ 
+ 
+LC practice: Assign the appropriate subject headings for the topical focus of the catalog. Also 
+assign the LCGFT term appropriate to the genre and/or form of the resource, e.g. LCGFT 
+*Catalogs*. 
+Example: 
+Title: Guide to the manuscript collections of Friends Historical 
+Library of Swarthmore College. 
+650 #0 $a Society of Friends $z United States $x Manuscripts $v 
+Catalogs. 
+650 #0 $a Society of Friends $z United States $x History $x Sources 
+$v Bibliography $v Catalogs. 
+610 20 $a Friends Historical Library of Swarthmore College $v 
+Catalogs. 
+LC practice: 
+650 #0 $a Society of Friends $z United States $x Manuscripts. 
+650 #0 $a Society of Friends $z United States $x History. 
+610 20 $a Friends Historical Library of Swarthmore College. 
+655 #7 $a Bibliographies. $2 lcgft 
+655 #7 $a Catalogs. $2 lcgft 
+J. Extended examples 
+Title: Akan people in Africa and the diaspora. 
+505 00 $t Volume 1. Akan cultural history: an overview / $r Kenya 
+Shujaa -- $t History in the oral traditions of the Akan / $r 
+Kwame Daaku -- $t History of the Gold Coast and Asante / $r 
+Carl Christian Reindorf -- $t Oral historical case studies -- 
+$t Iberian sources -- $t French and Dutch sources -- $t 
+English sources -- $t Islamic sources. 
+650 #0 $a Akan (African people) $x History $v Sources. 
+650 #0 $a Akan (African people) $x Social conditions $v Sources. 
+650 #0 $a Akan (African people) $x Social life and customs $v 
+Sources. 
+651 #0 $a Africa, West $x Social life and customs $v Sources. 
+650 #0 $a African diaspora $v Sources. 
+LC practice: 
+650 #0 $a Akan (African people) $x History. 
+650 #0 $a Akan (African people) $x Social conditions. 
+
+
+<<<PAGE 10>>>
+Subject Headings Manual | Sources H 2080 | Page 10 
+ 
+ 
+650 #0 $a Akan (African people) $x Social life and customs. 
+651 #0 $a Africa, West $x Social life and customs. 
+650 #0 $a African diaspora. 
+655 #7 $a Essays. $2 lcgft 
+ 
+Title: Land and labor, 1866-1867. 
+650 #0 $a Freed persons $z Southern States $x History $v Sources. 
+650 #0 $a Freed persons $z Southern States $x Economic conditions $v 
+Sources. 
+650 #0 $a African Americans $x History $y 1863-1877 $v Sources. 
+650 #0 $a African Americans $x Land tenure $z Southern States $x 
+History $y 19th century $v Sources. 
+650 #0 $a African Americans $x Employment $z Southern States $x 
+History $y 19th century $v Sources. 
+651 #0 $a Southern States $x History $y 1865-1877 $v Sources  
+651 #0 $a Southern States $x Race relations $x History $y 19th 
+century $v Sources. 
+651 #0 $a United States $x Race relations $x History $y 19th century 
+$v Sources. 
+LC practice: 
+650 #0 $a Freed persons $z Southern States $x History. 
+650 #0 $a Freed persons $z Southern States $x Economic conditions. 
+650 #0 $a African Americans $x History $y 1863-1877. 
+650 #0 $a African Americans $x Land tenure $z Southern States $x 
+History $y 19th century. 
+650 #0 $a African Americans $x Employment $z Southern States $x 
+History $y 19th century. 
+651 #0 $a Southern States $x History $y 1865-1877  
+651 #0 $a Southern States $x Race relations $x History $y 19th 
+century. 
+651 #0 $a United States $x Race relations $x History $y 19th 
+century. 
+655 #7 $a Primary sources. $2 lcgft 
+655 #7 $a Essays. $2 lcgft 
+655 #7 $a Records (Documents) $2 lcgft 
+ 
+
+
+<<<PAGE 11>>>
+Subject Headings Manual | Sources H 2080 | Page 11 
+ 
+ 
+Title: Manifesto : a century of isms. 
+650 #0 $a Civilization, Modern $y 20th century $v Sources. 
+650 #0 $a Intellectual life $x History $y 20th century $v Sources. 
+650 #0 $a Arts, Modern $y 20th century $v Sources. 
+650 #0 $a Social movements $x History $y 20th century $v Sources. 
+650 #0 $a Europe $x Civilization $y 20th century $v Sources. 
+650 #0 $a America $x Civilization $y 20th century $v Sources. 
+LC practice: 
+650 #0 $a Civilization, Modern $y 20th century. 
+650 #0 $a Intellectual life $x History $y 20th century. 
+650 #0 $a Arts, Modern $y 20th century. 
+650 #0 $a Social movements $x History $y 20th century. 
+650 #0 $a Europe $x Civilization $y 20th century. 
+650 #0 $a America $x Civilization $y 20th century. 
+655 #7 $a Primary sources. $2 lcgft 
+655 #7 $a Essays. $2 lcgft 
+655 #7 $a Excerpts. $2 lcgft 
+Revision history 
+2026-01: Updated template. Added instructions related to LCGFT implementation. 

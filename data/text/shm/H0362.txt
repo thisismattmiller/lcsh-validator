@@ -1,0 +1,130 @@
+
+
+<<<PAGE 1>>>
+ 
+Free-Floating Terms and Phrases  H 362 
+ 
+ 
+ 
+Subject Headings Manual 
+H 362 Page 1 
+ 
+June 2013 
+BACKGROUND:  Except for free-floating music phrase headings, the construction of which is 
+explained in H 1917.5, the terms and phrases described in this instruction sheet constitute a 
+complete list of those that have been authorized for use on a free-floating basis in constructing 
+phrase headings.  This instruction sheet serves only to list and illustrate the construction of 
+such headings; separate instruction sheets describe in greater detail the assignment of many of 
+these categories of headings.  These are cited in parentheses following the examples listed for 
+the category. 
+ 
+ 
+Note:  The following former free-floating phrase headings have been replaced by 
+free-floating subdivisions or by separately established headings.  The phrase heading 
+[personal name] in fiction, drama, poetry, etc. was discontinued in August 1993 and 
+replaced by the free-floating subdivision BIn literature used under names of individual 
+persons and literary authors.  The phrase heading [name heading (except personal 
+names)] in literature was discontinued in August 1993 and replaced by the free-floating 
+subdivision BIn literature used under names of individual families, dynasties, royal 
+houses, corporate bodies, countries, cities, etc., and uniform titles of sacred works.  The 
+phrase heading [name heading (except personal names)] in art was discontinued in 
+January 1997 and replaced by the free-floating subdivision BIn art used under names of 
+individual corporate bodies and under countries, cities, etc.  The phrase headings [topic] 
+in literature and [topic] in art are no longer free-floating and must now be individually 
+established. 
+ 
+ 
+ 
+1.  Formulating headings.  Formulate and assign the following types of phrase headings 
+without submitting proposals to establish them in the subject authority file: 
+ 
+ 
+! [name of city] Metropolitan Area ([geographic qualifier]).  Examples: 
+ 
+651 #0 $a Atlanta Metropolitan Area (Ga.) 
+651 #0 $a Salt Lake City Metropolitan Area (Utah) 
+ 
+ 
+(H 790) 
+ 
+Exception:  Add no geographic qualifier to the following headings for 
+metropolitan areas: 
+Jerusalem Metropolitan Area, New York Metropolitan 
+Area, and Washington Metropolitan Area. 
+
+
+<<<PAGE 2>>>
+H 362  Free-Floating Terms and Phrases 
+ 
+ 
+ 
+H 362 Page 2 
+Subject Headings Manual 
+June 2013 
+1.  Formulating headings.  (Continued) 
+ 
+! [name of city] Region ([geographic qualifier]).  Example: 
+ 
+651 #0 $a Dallas Region (Tex.) 
+ 
+ 
+(H 790) 
+ 
+Exception:  Add no geographic qualifier to the following headings for regions:  
+Jerusalem Region, New York Region, and Washington Region. 
+ 
+! [name of city] Suburban Area ([geographic qualifier]).  Examples: 
+ 
+651 #0 $a Atlanta Suburban Area (Ga.) 
+651 #0 $a Salt Lake City Suburban Area (Utah) 
+ 
+ 
+(H 790) 
+ 
+Exception:  Add no geographic qualifier to the following headings for suburban 
+areas:  Jerusalem Suburban Area, New York Suburban Area, and 
+Washington Suburban Area. 
+ 
+! [name of geographic feature, as established in the subject authority file] Region 
+([geographic qualifier, if part of the name as established]).  Examples: 
+ 
+651 #0 $a Red Sea Region. 
+651 #0 $a Bull Shoals Lake Region (Ark. and Mo.) 
+651 #0 $a Rudolf, Lake, Region (Kenya and Ethiopia) 
+651 #0 $a Himalaya Mountains Region. 
+651 #0 $a Bearpaw Mountains Region (Mont.) 
+ 
+ 
+(H 760) 
+ 
+! [name of river, as established in the subject authority file] Region ([geographic 
+qualifier, if part of the name as established]).  Example: 
+ 
+651 #0 $a Tweed River Region (Scotland and England) 
+ 
+(H 800, H 1145.5) 
+ 
+Note:  The use of Estuary and Valley as free-floating terms added to names of 
+rivers, and Watershed added to names of rivers and lakes, has been discontinued. 
+Headings for estuaries, valleys, and watersheds are now individually established. 
+See H 800, sec. 7-9 for instructions. 
+
+
+<<<PAGE 3>>>
+ 
+Free-Floating Terms and Phrases  H 362 
+ 
+ 
+ 
+Subject Headings Manual 
+H 362 Page 3 
+ 
+June 2013 
+2.  Use of commas.  When constructing headings of this type based on headings that are 
+inverted or that include a comma not enclosed within a parenthetical qualifier, place an 
+additional comma between the basic heading and the free-floating term or phrase.  Example: 
+ 
+651 #0 $a Rudolf, Lake, Region (Kenya and Ethiopia) 
+   
+                  
+             comma added here 

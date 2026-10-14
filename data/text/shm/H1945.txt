@@ -1,0 +1,88 @@
+
+
+<<<PAGE 1>>>
+ 
+Postage Stamps on Specific Topics  H 1945 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1945 Page 1 
+ 
+June 2013 
+BACKGROUND:  Until 1993, works about the portrayal of specific subjects on postage stamps 
+were entered under the heading Postage-stampsBTopicsB[name of topic].  Because this was an 
+awkward construction and because the subfield coding could be confusing, especially when the 
+topic portrayed is the name of a place, this heading was replaced in 1993 by the natural 
+language phrase [topic] on postage stamps, or, in the case of topics that are tagged 100, 110, 
+111, 130, or 151, by headings of the type [topic]BOn postage stamps.  The latter formulation is 
+used so that the tagging of the basic heading does not change to 150.  These headings are not 
+to be divided by place, because the resulting construction would be ambiguous as to whether the 
+place refers to the location of the topic or the place of issue of the stamps.  The latter place may 
+be brought out by assigning an additional heading.  This instruction sheet provides guidelines 
+for constructing and assigning headings of this type. 
+ 
+ 
+ 
+1.  Topics portrayed on postage stamps.  For works about the portrayal of a specific topic on 
+postage stamps, establish a subject heading according to the following model: 
+ 
+ 
+150 ## $a [topic] on postage stamps 
+550 ## $w g $a Postage stamps 
+ 
+ 
+Do not divide these headings by place. 
+ 
+ 
+ 
+2.  Individual persons, corporate bodies, meeting, uniform titles, or places portrayed on 
+postage stamps.  For works about the portrayal of entities tagged 100, 110, 111, 130, or 151 on 
+postage stamps, assign the free-floating subdivision BOn postage stamps under the heading for 
+the entity.  Examples: 
+ 
+ 
+600 10 $a Presley, Elvis, $d 1935-1977 $x On postage stamps. 
+610 20 $a United Nations $x On postage stamps. 
+611 20 $a Woodstock Festival $d (1969 : $c Bethel, N.Y.) 
+            $x On postage stamps. 
+630 00 $a Bible $x On postage stamps. 
+651 #0 $a New York (N.Y.) $x On postage stamps. 
+ 
+ 
+Do not further subdivide these headings by place. 
+
+
+<<<PAGE 2>>>
+H 1945  Postage Stamps on Specific Topics 
+ 
+ 
+ 
+H 1945 Page 2 
+Subject Headings Manual 
+June 2013 
+3.  Place of issue.  If the work is limited to postage stamps issued in a specific place, and it is 
+useful to bring out the place, do so by assigning the additional heading Postage stampsB [place], 
+or, if appropriate, a more specific heading such as Commemorative postage stampsB[place].   
+ 
+ 
+4.  Examples. 
+ 
+Title:  Ships on stamps. 
+650 #0 $a Ships on postage stamps. 
+ 
+ 
+Title:  The Woodstock catalogue of British Elizabethan postage stamps. 
+600 00 $a Elizabeth $b II, $c Queen of Great Britain,  
+            $d 1926- $x On postage stamps $v Catalogs. 
+650 #0 $a Postage stamps $z Great Britain $v Catalogs. 
+ 
+ 
+Title:  Rotary International on stamps. 
+610 20 $a Rotary International $x On postage stamps. 
+ 
+ 
+Title:  American history through United States stamps. 
+651 #0 $a United States $x History $x On postage stamps. 
+650 #0 $a Postage stamps $z United States. 
+ 

@@ -1,0 +1,76 @@
+
+
+<<<PAGE 1>>>
+ 
+Popular Works  H 1943.5 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1943.5 Page 1 
+ 
+June 2013 
+BACKGROUND:  The subdivision BPopular works is used under scientific, technical, and 
+legal subjects for works on these topics intended for the layperson.  The practice of using 
+BPopular works as a free-floating subdivision under any theological topic was discontinued in 
+1987.  This instruction sheet provides guidelines for assigning this subdivision. 
+ 
+ 
+ 
+1.  General.  Assign the free-floating form subdivision BPopular works under scientific, 
+technical, and legal subjects for works in these fields addressed to the layperson.  Examples: 
+ 
+650 #0 $a Automobiles $v Popular works. 
+650 #0 $a Chemistry $v Popular works. 
+650 #0 $a Divorce $x Law and legislation $z California $v Popular 
+          works. 
+650 #0 $a Labor laws and legislation $v Popular works. 
+650 #0 $a Oceanography $v Popular works. 
+ 
+Assign this subdivision only under those scientific, technical, and legal disciplines and topics in 
+which works for the nonspecialist are distinctly different from those written for specialists in the 
+field and are identified as being specifically for the layperson. 
+ 
+Do not use this subdivision for textbooks on a topic. 
+ 
+ 
+ 
+2.  Medicine.  Assign the heading Medicine, Popular to general works on medicine written for 
+the layperson.  Example: 
+ 
+Title:  A layman's guide to modern medicine. 
+650 #0 $a Medicine, Popular. 
+ 
+Assign the free-floating subdivision BPopular works under medical disciplines, individual 
+diseases, and under headings of the type [part of the body]BDiseases for materials written for the 
+layperson on the subject.  Examples: 
+ 
+Title:  Your heart ; questions you have, answers you need. 
+650 #0 $a Heart $x Diseases $v Popular works. 
+ 
+Title:  How to get your money's worth out of psychiatry. 
+650 #0 $a Psychiatry $v Popular works. 
+
+
+<<<PAGE 2>>>
+H 1943.5  Popular Works 
+ 
+ 
+ 
+H 1943.5 Page 2 
+Subject Headings Manual 
+June 2013 
+3.  Special topics.  Under other topics, where BPopular works is not authorized for use as a 
+free-floating subdivision, establish the subdivision editorially if appropriate for the subject 
+matter, for example, Theology, DoctrinalBPopular works. 
+ 
+ 
+4.  Manuals.  Under technical subjects, assign the free-floating form subdivision BAmateurs' 
+manuals for "do-it-yourself" or "how-to" manuals for the layperson on these subjects.  Do not 
+interpose the subdivision BPopular works between the topic and the subdivision BAmateurs' 
+manuals.  Example: 
+ 
+Title:  Household repairs : a manual for homeowners. 
+650 #0 $a Dwellings $x Maintenance and repair $v Amateurs' 
+            manuals. 
+ 

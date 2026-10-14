@@ -1,0 +1,2675 @@
+{
+  "sheet": "H 1105",
+  "title": "Free-floating Subdivisions: Corporate Bodies",
+  "kind": "corporate-bodies",
+  "scope": "Topical and form subdivisions usable on a free-floating basis, within the limits of the usage notes, under names of individual corporate bodies established in the name authority file (businesses, institutions, associations, religious organizations, political parties, government agencies, exhibitions, fairs, etc.); not under conferences/meetings, jurisdictions, or types of organizations",
+  "pattern_headings": [],
+  "pattern_category": "",
+  "general_notes": [
+    "LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. *Textbooks*.",
+    "Additional or varying subdivisions may be used under names of individual corporate bodies that fall within categories covered by specific pattern headings: H 1151 for individual educational institutions; H 1155 for individual legislative bodies; H 1159 for individual military services; H 1186 for individual religious and monastic orders; H 1187 for individual Christian denominations.",
+    "Some subdivisions on this list represent classes of person, for example, *--Employees* and *--Officials and employees*. See H 1100 for further subdivisions used under classes of persons.",
+    "This list has no May Subd Geog column; geographic subdivision is stated in the notes (\"May subd geog.\" / \"Not subd geog.\"). may_subd_geog is true only where the note authorizes it; all other entries are not subdivided geographically."
+  ],
+  "entries": [
+    {
+      "subdivision": "--Abstracts",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under corporate bodies for works about abstracts of works by or about the corporate body",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1205"
+      ],
+      "endnote": "",
+      "marc": "$x Abstracts"
+    },
+    {
+      "subdivision": "--Accounting",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1624"
+      ],
+      "endnote": "",
+      "marc": "$x Accounting"
+    },
+    {
+      "subdivision": "--Accreditation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Not subd geog under names of corporate bodies.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Accreditation"
+    },
+    {
+      "subdivision": "--Administration",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of individual libraries and institutions in the spheres of health, social services, and education, under types of such institutions, and under types of education and programs in the field of education",
+      "notes": "Under names of other corporate bodies, including government agencies, galleries, museums, parks, etc., use the subdivision *--Management*.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Administration"
+    },
+    {
+      "subdivision": "--Anniversaries, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use for works merely published on the occasion of an anniversary.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Anniversaries, etc."
+    },
+    {
+      "subdivision": "--Appropriations and expenditures",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of individual government agencies and institutions for discussions of their financial affairs. Use *--Finance* under names of individual government agencies for works limited to their management of non-appropriated funds. Use *--Finance* under names of other individual nongovernmental corporate bodies for discussions of their budgets and the raising and expenditure of funds",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1624"
+      ],
+      "endnote": "",
+      "marc": "$x Appropriations and expenditures"
+    },
+    {
+      "subdivision": "--Appropriations and expenditures--Effect of inflation on",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of countries, cities, etc., and individual government agencies",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1580"
+      ],
+      "endnote": "",
+      "marc": "$x Appropriations and expenditures $x Effect of inflation on"
+    },
+    {
+      "subdivision": "--Archaeological collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names corporate bodies for works about their collections of archaeological items or artifacts",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Archaeological collections"
+    },
+    {
+      "subdivision": "--Archives",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under corporate bodies for works about documents or historical records, including notes, correspondence, minutes, photographs, legal papers, etc., pertaining to those organizations",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1230"
+      ],
+      "endnote": "",
+      "marc": "$x Archives"
+    },
+    {
+      "subdivision": "--Art collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of individual corporate bodies provided that the corporate body is the owner or the collector of the art and the corporate body is not itself an art gallery or museum",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Art collections"
+    },
+    {
+      "subdivision": "--Art patronage",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Art patronage"
+    },
+    {
+      "subdivision": "--Auditing",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1624"
+      ],
+      "endnote": "",
+      "marc": "$x Auditing"
+    },
+    {
+      "subdivision": "--Automation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Automation"
+    },
+    {
+      "subdivision": "--Awards",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Awards"
+    },
+    {
+      "subdivision": "--Biography",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of countries, cities, etc., and names of individual corporate bodies for works about collective or individual biography",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1330"
+      ],
+      "endnote": "",
+      "marc": "$x Biography"
+    },
+    {
+      "subdivision": "--Biography--History and criticism",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Biography $x History and criticism"
+    },
+    {
+      "subdivision": "--Biography--Portraits",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of countries, cities, etc., individual corporate bodies, and military services for works about portraits of persons in or from those places, corporate bodies, and military services",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1935"
+      ],
+      "endnote": "",
+      "marc": "$x Biography $x Portraits"
+    },
+    {
+      "subdivision": "--Blogs",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under corporate bodies for works about blogs by or about those groups",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Blogs"
+    },
+    {
+      "subdivision": "--Bonsai collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Bonsai collections"
+    },
+    {
+      "subdivision": "--Buildings",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use for works that discuss collectively the buildings occupied or owned by an individual corporate body",
+      "notes": "Establish individual named buildings according to H 1334.",
+      "see_also": [],
+      "consult": [
+        "H 1334"
+      ],
+      "endnote": "",
+      "marc": "$x Buildings"
+    },
+    {
+      "subdivision": "--By-laws",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of individual corporate bodies and under types of corporate bodies for works about by-laws of those bodies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x By-laws"
+    },
+    {
+      "subdivision": "--Calendars",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of countries, cities, etc., and names of individual corporate bodies for works about lists of recurring, coming, or past events occurring in those places or associated with those organizations",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Calendars"
+    },
+    {
+      "subdivision": "--Caricatures and cartoons",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under corporate bodies for works about caricatures or pictorial humor about those corporate bodies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Caricatures and cartoons"
+    },
+    {
+      "subdivision": "--Case studies",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under corporate bodies for works about case studies",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1350"
+      ],
+      "endnote": "",
+      "marc": "$x Case studies"
+    },
+    {
+      "subdivision": "--Catalogs",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of individual corporate bodies and types of organizations for works about lists of objects, art works, products, etc., produced by, located in, or available from those organizations",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1360"
+      ],
+      "endnote": "",
+      "marc": "$x Catalogs"
+    },
+    {
+      "subdivision": "--Centennial celebrations, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Centennial celebrations, etc."
+    },
+    {
+      "subdivision": "--Chaplains",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Not subd geog. Consult H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "",
+      "marc": "$x Chaplains"
+    },
+    {
+      "subdivision": "--Charities",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use for works on charities sponsored by the corporate body",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Charities"
+    },
+    {
+      "subdivision": "--Charters",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of individual corporate bodies for works about charters of those corporate bodies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Charters"
+    },
+    {
+      "subdivision": "--Claims vs. ..",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under corporate bodies for works on legal claims filed by the corporate body",
+      "notes": "Complete the subdivision with the name of the jurisdiction against which the claim was brought.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Claims vs. ..."
+    },
+    {
+      "subdivision": "--Coin collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Coin collections"
+    },
+    {
+      "subdivision": "--Collectibles",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "May subd geog.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Collectibles"
+    },
+    {
+      "subdivision": "--Communication systems",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Communication systems"
+    },
+    {
+      "subdivision": "--Constitution",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of individual corporate bodies for works about constitutions of those bodies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Constitution"
+    },
+    {
+      "subdivision": "--Corrupt practices",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Not subd geog.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Corrupt practices"
+    },
+    {
+      "subdivision": "--Customer services",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Not subd geog.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Customer services"
+    },
+    {
+      "subdivision": "--Data processing",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Data processing"
+    },
+    {
+      "subdivision": "--Decision making",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Decision making"
+    },
+    {
+      "subdivision": "--Discipline",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Discipline"
+    },
+    {
+      "subdivision": "--Discography",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under corporate bodies for works about discography of those corporate bodies",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1361"
+      ],
+      "endnote": "",
+      "marc": "$x Discography"
+    },
+    {
+      "subdivision": "--Elections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Elections"
+    },
+    {
+      "subdivision": "--Employees",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of individual nongovernmental corporate bodies. Use *--Officials and employees* under names of individual international, government, or quasi-governmental agencies",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "",
+      "marc": "$x Employees"
+    },
+    {
+      "subdivision": "--Endowments",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Endowments"
+    },
+    {
+      "subdivision": "--Equipment and supplies",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Equipment and supplies"
+    },
+    {
+      "subdivision": "--Ethnological collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Ethnological collections"
+    },
+    {
+      "subdivision": "--Ethnomusicological collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Ethnomusicological collections"
+    },
+    {
+      "subdivision": "--Evaluation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1591"
+      ],
+      "endnote": "",
+      "marc": "$x Evaluation"
+    },
+    {
+      "subdivision": "--Examinations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2186"
+      ],
+      "endnote": "",
+      "marc": "$x Examinations"
+    },
+    {
+      "subdivision": "--Explosion, [date]",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Also use under names of individual buildings, structures, etc.",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1078",
+        "H 1560"
+      ],
+      "endnote": "",
+      "marc": "$x Explosion, [date]"
+    },
+    {
+      "subdivision": "--Finance",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of individual nongovernmental corporate bodies for discussions of their budgets and the raising and expenditure of funds. Also use under individual government agencies for works limited to their management of non-appropriated funds. Use *--Appropriations and expenditures* under names of individual government agencies and institutions for discussions of their financial affairs",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1624"
+      ],
+      "endnote": "",
+      "marc": "$x Finance"
+    },
+    {
+      "subdivision": "--Fire, [date]",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Also use under names of individual buildings, structures, etc.",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1078",
+        "H 1560"
+      ],
+      "endnote": "",
+      "marc": "$x Fire, [date]"
+    },
+    {
+      "subdivision": "--Genealogy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1631"
+      ],
+      "endnote": "",
+      "marc": "$x Genealogy"
+    },
+    {
+      "subdivision": "--Heraldry",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Heraldry"
+    },
+    {
+      "subdivision": "--Herbarium",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of individual corporate bodies that have herbariums for which no corporate heading exists or can be established",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Herbarium"
+    },
+    {
+      "subdivision": "--Historiography",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Historiography"
+    },
+    {
+      "subdivision": "--History",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1647"
+      ],
+      "endnote": "",
+      "marc": "$x History"
+    },
+    {
+      "subdivision": "--History--16th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1647"
+      ],
+      "endnote": "",
+      "marc": "$x History $y 16th century"
+    },
+    {
+      "subdivision": "--History--17th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1647"
+      ],
+      "endnote": "",
+      "marc": "$x History $y 17th century"
+    },
+    {
+      "subdivision": "--History--18th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1647"
+      ],
+      "endnote": "",
+      "marc": "$x History $y 18th century"
+    },
+    {
+      "subdivision": "--History--19th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1647"
+      ],
+      "endnote": "",
+      "marc": "$x History $y 19th century"
+    },
+    {
+      "subdivision": "--History--20th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1647"
+      ],
+      "endnote": "",
+      "marc": "$x History $y 20th century"
+    },
+    {
+      "subdivision": "--History--21st century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1647"
+      ],
+      "endnote": "",
+      "marc": "$x History $y 21st century"
+    },
+    {
+      "subdivision": "--History--Sources",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of countries, cities, etc., and individual corporate bodies for works about materials of all types, such as legal documents, letters, diaries, family papers, visual and moving image materials, available as source materials for use by students, scholars, etc., in their research on the subject",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2080"
+      ],
+      "endnote": "",
+      "marc": "$x History $x Sources"
+    },
+    {
+      "subdivision": "--Homes and haunts",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "names of performing groups of all types, for example, *Beatles--Homes and haunts*, for works on the actual homes of individual members of the group. Also use the subdivision for works on the favorite places of group members or places they habitually frequent or with which they are associated",
+      "notes": "May subd geog.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Homes and haunts"
+    },
+    {
+      "subdivision": "--Humor",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Humor"
+    },
+    {
+      "subdivision": "--In art",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 362",
+        "H 1250",
+        "H 1935"
+      ],
+      "endnote": "",
+      "marc": "$x In art"
+    },
+    {
+      "subdivision": "--In bookplates",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x In bookplates"
+    },
+    {
+      "subdivision": "--In comics",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x In comics"
+    },
+    {
+      "subdivision": "--In literature",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 362",
+        "H 1780",
+        "H 1790",
+        "H 1800"
+      ],
+      "endnote": "",
+      "marc": "$x In literature"
+    },
+    {
+      "subdivision": "--In mass media",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x In mass media"
+    },
+    {
+      "subdivision": "--In motion pictures",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x In motion pictures"
+    },
+    {
+      "subdivision": "--Influence",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1675"
+      ],
+      "endnote": "",
+      "marc": "$x Influence"
+    },
+    {
+      "subdivision": "--Information resources management",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "May subd geog.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Information resources management"
+    },
+    {
+      "subdivision": "--Information services",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1675.5"
+      ],
+      "endnote": "",
+      "marc": "$x Information services"
+    },
+    {
+      "subdivision": "--Information technology",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Not subd geog.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Information technology"
+    },
+    {
+      "subdivision": "--Insignia",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Insignia"
+    },
+    {
+      "subdivision": "--Interviews",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use for works about interviews with people associated with the corporate body in general",
+      "notes": "If appropriate, use under more specific subdivisions that represent classes of persons, for example, *--Employees* or *--Presidents*.",
+      "see_also": [],
+      "consult": [
+        "H 1678"
+      ],
+      "endnote": "",
+      "marc": "$x Interviews"
+    },
+    {
+      "subdivision": "--Inventory control",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Inventory control"
+    },
+    {
+      "subdivision": "--Job descriptions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Job descriptions"
+    },
+    {
+      "subdivision": "--Language",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Language"
+    },
+    {
+      "subdivision": "--Libraries",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of individual corporate bodies having library systems of more than one library for which no corporate heading exists or can be established",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Libraries"
+    },
+    {
+      "subdivision": "--Library",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of individual corporate bodies provided that the corporate body is the owner or collector and the collection is not a formally organized library",
+      "notes": "If the collection is a formally organized library, it should be established as a name heading.",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Library"
+    },
+    {
+      "subdivision": "--Library resources",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Library resources"
+    },
+    {
+      "subdivision": "--Management",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of individual corporate bodies, including government agencies, galleries, museums, parks, etc. Use *--Administration* under names of individual libraries and individual institutions in the spheres of health, social services, and education",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Management"
+    },
+    {
+      "subdivision": "--Map collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Map collections"
+    },
+    {
+      "subdivision": "--Maps",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Maps"
+    },
+    {
+      "subdivision": "--Medals",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of individual corporate bodies other than military services for commemorative or honorary medals issued or awarded in relation to the body. Use *--Medals, badges, decorations, etc.*, under military services",
+      "notes": "Not subd geog.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Medals"
+    },
+    {
+      "subdivision": "--Membership",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use for works on the conditions of belonging to the organization",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Membership"
+    },
+    {
+      "subdivision": "--Museums",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Not subd geog.",
+      "see_also": [],
+      "consult": [
+        "H 1916"
+      ],
+      "endnote": "",
+      "marc": "$x Museums"
+    },
+    {
+      "subdivision": "--Musical instrument collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Musical instrument collections"
+    },
+    {
+      "subdivision": "--Name",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1919"
+      ],
+      "endnote": "",
+      "marc": "$x Name"
+    },
+    {
+      "subdivision": "--Natural history collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Natural history collections"
+    },
+    {
+      "subdivision": "--Numismatic collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Numismatic collections"
+    },
+    {
+      "subdivision": "--Officials and employees",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of individual international, government, or quasi-governmental agencies. Use *--Employees* under names of individual nongovernmental corporate bodies",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "",
+      "marc": "$x Officials and employees"
+    },
+    {
+      "subdivision": "--Officials and employees--Accidents",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Not subd geog.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Officials and employees $x Accidents"
+    },
+    {
+      "subdivision": "--Officials and employees--Furloughs",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of countries, cities, etc., and individual government agencies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Officials and employees $x Furloughs"
+    },
+    {
+      "subdivision": "--Officials and employees--Leave regulations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of countries, cities, etc., and individual government agencies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Officials and employees $x Leave regulations"
+    },
+    {
+      "subdivision": "--Officials and employees--Salaries, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "Use as a topical subdivision under names of countries, cities, etc., individual government agencies, and individual legislative bodies",
+      "notes": "Subdivide geographically only under names of countries, cities, etc.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Officials and employees $x Salaries, etc."
+    },
+    {
+      "subdivision": "--Officials and employees--Salaries, etc.--Regional disparities",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of countries, etc., and individual government agencies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Officials and employees $x Salaries, etc. $x Regional disparities"
+    },
+    {
+      "subdivision": "--Officials and employees--Turnover",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of countries, cities, etc., and individual government agencies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Officials and employees $x Turnover"
+    },
+    {
+      "subdivision": "--On postage stamps",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1945"
+      ],
+      "endnote": "",
+      "marc": "$x On postage stamps"
+    },
+    {
+      "subdivision": "--Organs",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of individual corporate bodies having one or more organs, especially churches, concert halls, etc.",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Organs"
+    },
+    {
+      "subdivision": "--Party work",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of individual political parties",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Party work"
+    },
+    {
+      "subdivision": "--Performances",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "performing groups of all types for works about their performances",
+      "notes": "May subd geog.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Performances"
+    },
+    {
+      "subdivision": "--Personnel management",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Personnel management"
+    },
+    {
+      "subdivision": "--Personnel records",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Personnel records"
+    },
+    {
+      "subdivision": "--Photograph collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Photograph collections"
+    },
+    {
+      "subdivision": "--Planning",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Planning"
+    },
+    {
+      "subdivision": "--Platforms",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of individual political parties",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Platforms"
+    },
+    {
+      "subdivision": "--Political activity",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "May subd geog.",
+      "see_also": [],
+      "consult": [
+        "H 1942"
+      ],
+      "endnote": "",
+      "marc": "$x Political activity"
+    },
+    {
+      "subdivision": "--Positions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of individual government agencies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Positions"
+    },
+    {
+      "subdivision": "--Poster collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Poster collections"
+    },
+    {
+      "subdivision": "--Posters",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1945.5"
+      ],
+      "endnote": "",
+      "marc": "$x Posters"
+    },
+    {
+      "subdivision": "--Presidents",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "",
+      "marc": "$x Presidents"
+    },
+    {
+      "subdivision": "--Press coverage",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "May subd geog.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Press coverage"
+    },
+    {
+      "subdivision": "--Privileges and immunities",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of individual international agencies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Privileges and immunities"
+    },
+    {
+      "subdivision": "--Procurement",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of individual government agencies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Procurement"
+    },
+    {
+      "subdivision": "--Public opinion",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1955"
+      ],
+      "endnote": "",
+      "marc": "$x Public opinion"
+    },
+    {
+      "subdivision": "--Public records",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of individual government agencies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Public records"
+    },
+    {
+      "subdivision": "--Public relations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "May subd geog.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Public relations"
+    },
+    {
+      "subdivision": "--Publishing",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "May subd geog.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Publishing"
+    },
+    {
+      "subdivision": "--Purges",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of individual political parties",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Purges"
+    },
+    {
+      "subdivision": "--Records and correspondence",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Records and correspondence"
+    },
+    {
+      "subdivision": "--Religion",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1997"
+      ],
+      "endnote": "",
+      "marc": "$x Religion"
+    },
+    {
+      "subdivision": "--Reorganization",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Reorganization"
+    },
+    {
+      "subdivision": "--Research",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "May subd geog.",
+      "see_also": [],
+      "consult": [
+        "H 2020"
+      ],
+      "endnote": "",
+      "marc": "$x Research"
+    },
+    {
+      "subdivision": "--Research grants",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Research grants"
+    },
+    {
+      "subdivision": "--Rituals",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of individual secret societies and under individual religions other than Judaism and its sects",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Rituals"
+    },
+    {
+      "subdivision": "--Rules and practice",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under types of, and names of individual courts, legislative bodies, constitutional conventions, and administrative or regulatory agencies, for works about the rules and practice of those bodies",
+      "notes": "Do not use under individual educational institutions and military services. Use *--Regulations* instead (cf. H 1151; H 1159).",
+      "see_also": [],
+      "consult": [
+        "H 1151",
+        "H 1159"
+      ],
+      "endnote": "",
+      "marc": "$x Rules and practice"
+    },
+    {
+      "subdivision": "--Sanitation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Not subd geog.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Sanitation"
+    },
+    {
+      "subdivision": "--Scientific apparatus collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Scientific apparatus collections"
+    },
+    {
+      "subdivision": "--Seal",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Seal"
+    },
+    {
+      "subdivision": "--Security measures",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Not subd geog.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Security measures"
+    },
+    {
+      "subdivision": "--Slide collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Slide collections"
+    },
+    {
+      "subdivision": "--Societies, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2060"
+      ],
+      "endnote": "",
+      "marc": "$x Societies, etc."
+    },
+    {
+      "subdivision": "--Songs and music",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2075"
+      ],
+      "endnote": "",
+      "marc": "$x Songs and music"
+    },
+    {
+      "subdivision": "--Songs and music--History and criticism",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2075"
+      ],
+      "endnote": "",
+      "marc": "$x Songs and music $x History and criticism"
+    },
+    {
+      "subdivision": "--Stamp collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Stamp collections"
+    },
+    {
+      "subdivision": "--Statistics",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2095"
+      ],
+      "endnote": "",
+      "marc": "$x Statistics"
+    },
+    {
+      "subdivision": "--Terminology",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2184"
+      ],
+      "endnote": "",
+      "marc": "$x Terminology"
+    },
+    {
+      "subdivision": "--Textbooks",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Textbooks"
+    },
+    {
+      "subdivision": "--Travel",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "May subd geog.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Travel"
+    },
+    {
+      "subdivision": "--Trials, litigation, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2228"
+      ],
+      "endnote": "",
+      "marc": "$x Trials, litigation, etc."
+    },
+    {
+      "subdivision": "--Uniforms",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Uniforms"
+    },
+    {
+      "subdivision": "--Vocational guidance",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "May subd geog.",
+      "see_also": [],
+      "consult": [
+        "H 2232"
+      ],
+      "endnote": "",
+      "marc": "$x Vocational guidance"
+    },
+    {
+      "subdivision": "--Abstracts",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use as a form subdivision under corporate bodies for abstracts of works by or about the corporate body",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1205"
+      ],
+      "endnote": "",
+      "marc": "$v Abstracts"
+    },
+    {
+      "subdivision": "--Anecdotes",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use as a form subdivision under corporate bodies for collections of brief narratives of incidents about those corporate bodies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Anecdotes"
+    },
+    {
+      "subdivision": "--Archives",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use as a form subdivision under corporate bodies for collections of documents or historical records, including notes, correspondence, minutes, photographs, legal papers, etc., pertaining to those organizations",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1230"
+      ],
+      "endnote": "",
+      "marc": "$v Archives"
+    },
+    {
+      "subdivision": "--Archives--Microform catalogs",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use this subdivision combination as a form subdivision under corporate bodies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Archives $v Microform catalogs"
+    },
+    {
+      "subdivision": "--Audiocassette catalogs",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use as a form subdivision under corporate bodies for lists or catalogs of sound recordings on audiocassettes",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1361"
+      ],
+      "endnote": "",
+      "marc": "$v Audiocassette catalogs"
+    },
+    {
+      "subdivision": "--Audiotape catalogs",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use as a form subdivision under corporate bodies for lists or catalogs of sound recordings on audiotapes",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1361"
+      ],
+      "endnote": "",
+      "marc": "$v Audiotape catalogs"
+    },
+    {
+      "subdivision": "--Bibliography",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use as a form subdivision under corporate bodies for lists of works by or about the corporate body",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Bibliography"
+    },
+    {
+      "subdivision": "--Biography",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use as a form subdivision under names of countries, cities, etc., and names of individual corporate bodies for works of collective or individual biography",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1330"
+      ],
+      "endnote": "",
+      "marc": "$v Biography"
+    },
+    {
+      "subdivision": "--Biography--Dictionaries",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1540"
+      ],
+      "endnote": "",
+      "marc": "$v Biography $v Dictionaries"
+    },
+    {
+      "subdivision": "--Biography--Portraits",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use as a form subdivision under names of countries, cities, etc., individual corporate bodies, and military services for collections of portraits of persons in or from those places, corporate bodies, or military services",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1935"
+      ],
+      "endnote": "",
+      "marc": "$v Biography $v Portraits"
+    },
+    {
+      "subdivision": "--Blogs",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use as a form subdivision under names of corporate bodies for blogs by or about those bodies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Blogs"
+    },
+    {
+      "subdivision": "--By-laws",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use as a form subdivision under names of individual corporate bodies and under types of corporate bodies for collections of by-laws of those bodies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v By-laws"
+    },
+    {
+      "subdivision": "--Calendars",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use as a form subdivision under names of countries, cities, etc., and names of individual corporate bodies for works that list recurring, coming, or past events occurring in those places or associated with those organizations",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Calendars"
+    },
+    {
+      "subdivision": "--Caricatures and cartoons",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use as a form subdivision under corporate bodies for collections of caricatures or pictorial humor about those corporate bodies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Caricatures and cartoons"
+    },
+    {
+      "subdivision": "--Case studies",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use as a form subdivision under corporate bodies for individual or collected case studies",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1350"
+      ],
+      "endnote": "",
+      "marc": "$v Case studies"
+    },
+    {
+      "subdivision": "--Catalogs",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use as a form subdivision under names of individual corporate bodies and types of organizations for works listing objects, art works, products, etc., produced by, located in, or available from those organizations",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1360"
+      ],
+      "endnote": "",
+      "marc": "$v Catalogs"
+    },
+    {
+      "subdivision": "--Charters",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use as a form subdivision under names of individual corporate bodies for individual or collections of charters of those corporate bodies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Charters"
+    },
+    {
+      "subdivision": "--Comic books, strips, etc.",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Comic books, strips, etc."
+    },
+    {
+      "subdivision": "--Compact disc catalogs",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1361"
+      ],
+      "endnote": "",
+      "marc": "$v Compact disc catalogs"
+    },
+    {
+      "subdivision": "--Constitution",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use as a form subdivision under names of individual corporate bodies for individual or collections of constitutions of those bodies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Constitution"
+    },
+    {
+      "subdivision": "--Directories",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1558"
+      ],
+      "endnote": "",
+      "marc": "$v Directories"
+    },
+    {
+      "subdivision": "--Discography",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use as a form subdivision under corporate bodies for lists or catalogs of sound recordings by or about those corporate bodies",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1361"
+      ],
+      "endnote": "",
+      "marc": "$v Discography"
+    },
+    {
+      "subdivision": "--Drama",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1780"
+      ],
+      "endnote": "",
+      "marc": "$v Drama"
+    },
+    {
+      "subdivision": "--Examinations--Study guides",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use this subdivision combination as a form subdivision under names of individual corporate bodies, for study guides for examinations given by, for, or about those corporate bodies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Examinations $v Study guides"
+    },
+    {
+      "subdivision": "--Fiction",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1790"
+      ],
+      "endnote": "",
+      "marc": "$v Fiction"
+    },
+    {
+      "subdivision": "--Forms",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use as a form subdivision under names of individual corporate bodies for works consisting of, or containing, substantial numbers of blank forms",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Forms"
+    },
+    {
+      "subdivision": "--Genealogy",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1631"
+      ],
+      "endnote": "",
+      "marc": "$v Genealogy"
+    },
+    {
+      "subdivision": "--Guidebooks",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1645"
+      ],
+      "endnote": "",
+      "marc": "$v Guidebooks"
+    },
+    {
+      "subdivision": "--History--Chronology",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use this subdivision combination as a form subdivision under names of countries, cities, etc., and individual corporate bodies",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1367"
+      ],
+      "endnote": "",
+      "marc": "$x History $v Chronology"
+    },
+    {
+      "subdivision": "--History--Sources",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use this subdivision combination as a form subdivision under names of countries, cities, etc., and individual corporate bodies for collections of materials of all types, such as legal documents, letters, diaries, family papers, visual and moving image materials, assembled at a later time to serve as source materials for use by students, scholars, etc., in their research on the subject",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2080"
+      ],
+      "endnote": "",
+      "marc": "$x History $v Sources"
+    },
+    {
+      "subdivision": "--Humor",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Humor"
+    },
+    {
+      "subdivision": "--In art",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 362",
+        "H 1250",
+        "H 1935"
+      ],
+      "endnote": "",
+      "marc": "$v In art"
+    },
+    {
+      "subdivision": "--Interviews",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use for interviews with people associated with the corporate body in general",
+      "notes": "If appropriate, use under more specific subdivisions that represent classes of persons, for example, *--Employees* or *--Presidents*.",
+      "see_also": [],
+      "consult": [
+        "H 1678"
+      ],
+      "endnote": "",
+      "marc": "$v Interviews"
+    },
+    {
+      "subdivision": "--Job descriptions",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Job descriptions"
+    },
+    {
+      "subdivision": "--Juvenile drama",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1690"
+      ],
+      "endnote": "",
+      "marc": "$v Juvenile drama"
+    },
+    {
+      "subdivision": "--Juvenile fiction",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1690"
+      ],
+      "endnote": "",
+      "marc": "$v Juvenile fiction"
+    },
+    {
+      "subdivision": "--Juvenile humor",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1690"
+      ],
+      "endnote": "",
+      "marc": "$v Juvenile humor"
+    },
+    {
+      "subdivision": "--Juvenile poetry",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1690"
+      ],
+      "endnote": "",
+      "marc": "$v Juvenile poetry"
+    },
+    {
+      "subdivision": "--Literary collections",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Literary collections"
+    },
+    {
+      "subdivision": "--Maps",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1865"
+      ],
+      "endnote": "",
+      "marc": "$v Maps"
+    },
+    {
+      "subdivision": "--Maps--Bibliography",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use this subdivision combination as a form subdivision under names of countries, cities, etc., and individual corporate bodies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Maps $v Bibliography"
+    },
+    {
+      "subdivision": "--Microform catalogs",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1361"
+      ],
+      "endnote": "",
+      "marc": "$v Microform catalogs"
+    },
+    {
+      "subdivision": "--Pictorial works",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1935"
+      ],
+      "endnote": "",
+      "marc": "$v Pictorial works"
+    },
+    {
+      "subdivision": "--Platforms",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "names of individual political parties",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Platforms"
+    },
+    {
+      "subdivision": "--Poetry",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1800"
+      ],
+      "endnote": "",
+      "marc": "$v Poetry"
+    },
+    {
+      "subdivision": "--Posters",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1945.5"
+      ],
+      "endnote": "",
+      "marc": "$v Posters"
+    },
+    {
+      "subdivision": "--Records and correspondence",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Records and correspondence"
+    },
+    {
+      "subdivision": "--Registers",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1558"
+      ],
+      "endnote": "",
+      "marc": "$v Registers"
+    },
+    {
+      "subdivision": "--Rules and practice",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "types and names of individual courts, legislative bodies, constitutional conventions, and administrative or regulatory agencies, for works containing the rules and practice of those bodies",
+      "notes": "Do not use under individual educational institutions and military services. Use *--Regulations* instead (cf. H 1151; H 1159)",
+      "see_also": [],
+      "consult": [
+        "H 1151",
+        "H 1159"
+      ],
+      "endnote": "",
+      "marc": "$v Rules and practice"
+    },
+    {
+      "subdivision": "--Songs and music",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2075"
+      ],
+      "endnote": "",
+      "marc": "$v Songs and music"
+    },
+    {
+      "subdivision": "--Songs and music--Discography",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use this subdivision combination as a form subdivision under names of countries, cities, etc., and corporate bodies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Songs and music $v Discography"
+    },
+    {
+      "subdivision": "--Songs and music--Texts",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use as a form subdivision under names of corporate bodies for texts of songs about those bodies",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2190"
+      ],
+      "endnote": "",
+      "marc": "$v Songs and music $v Texts"
+    },
+    {
+      "subdivision": "--Statistics",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2095"
+      ],
+      "endnote": "",
+      "marc": "$v Statistics"
+    },
+    {
+      "subdivision": "--Telephone directories",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1558"
+      ],
+      "endnote": "",
+      "marc": "$v Telephone directories"
+    },
+    {
+      "subdivision": "--Terminology",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2184"
+      ],
+      "endnote": "",
+      "marc": "$v Terminology"
+    },
+    {
+      "subdivision": "--Textbooks",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Textbooks"
+    },
+    {
+      "subdivision": "--Tours",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1645"
+      ],
+      "endnote": "",
+      "marc": "$v Tours"
+    },
+    {
+      "subdivision": "--Trials, litigation, etc.",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2228"
+      ],
+      "endnote": "",
+      "marc": "$v Trials, litigation, etc."
+    }
+  ]
+}

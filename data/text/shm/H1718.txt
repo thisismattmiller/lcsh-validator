@@ -1,0 +1,186 @@
+
+
+<<<PAGE 1>>>
+ 
+Legal Materials: Systems of Law  H 1718 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1718 Page 1 
+ 
+November 2021 
+BACKGROUND: Systems of law are represented in LCSH by phrase headings such as Canon 
+law, Jewish law, Dakota law, etc., or by inverted phrase headings such as Law, Ashanti; Law, 
+Bantu; etc..  Headings for specific topics within a legal system are established in the form 
+[topic] ([qualifier for legal system]), for example, Domestic relations (Adat law), Criminal law 
+(Roman law), etc.  This instruction sheet provides guidelines for establishing and assigning 
+headings of this type.  
+ 
+ 
+1.  Headings for legal systems in general.   
+ 
+ 
+a.  Establishing new headings.  Establish new headings for systems of law, including 
+those of specific ethnic groups, as phrase headings.  If the adjectival qualifier designates 
+an ethnic group of the United States or a group of North or South American Indians, 
+establish the heading in straight form.  If the adjectival qualifier designates any other 
+ethnic group, establish the heading in inverted form, as specified in H 320, sec. 2.  If the 
+heading is established in straight form, provide an inverted UF.  If it is established in 
+inverted form, provide a UF in direct order.  Also provide an appropriate BT.  In the 
+case of headings that designate the system of law of a specific ethnic group, the BT is 
+Customary law–[place].  Do not provide for geographic subdivision of the heading.  
+Use the fill character  ( | - No attempt to code) in field 008/06.  Examples: 
+ 
+ 
+150 ## $a Tlingit law 
+450 ## $a Law, Tlingit 
+550 ## $w g $a Customary law $z Alaska 
+ 
+ 
+150 ## $a Law, Kusu 
+450 ## $a Kusu law 
+550 ## $w g $a Customary law $z Kenya  
+ 
+ 
+ 
+b.  Assigning headings.  When assigning these headings to individual bibliographic 
+works, do not divide them geographically, since in most cases they represent legal 
+systems that are limited to a specific place. 
+ 
+ 
+Note:  The headings Adat law, Feudal law, Islamic law, and Law, Primitive, 
+are exceptions to this rule, and may be divided geographically. 
+
+
+<<<PAGE 2>>>
+H 1718  Legal Materials: Systems of Law 
+ 
+ 
+ 
+H 1718 Page 2 
+Subject Headings Manual 
+November 2021 
+1.  Headings for legal systems in general.   
+ 
+b.  Assigning headings.  (Continued) 
+ 
+   Examples: 
+ 
+Title:  Navajo tribal code. 
+          650 #0 &a Navajo law. 
+ 
+ 
+Title:  Adat law in Indonesia. 
+          650 #0 $a Adat law &z Indonesia. 
+ 
+ 
+ 
+ 
+2.  Headings for specific topics in legal systems.   
+ 
+ 
+a.  Establishing new headings.  Establish new headings for specific topics or classes of 
+persons within a legal system using the following model: 
+ 
+ 
+150 ## $a [topic or class of persons] (qualifier for legal 
+            system, in direct order) 
+550 ## $w g $a [established heading for the legal system] 
+ 
+ 
+Note:  Do not interpose the subdivision –Law and legislation  or –Legal status, 
+laws, etc. between the topic and the qualifier, even if the topic is not inherently 
+legal.  Examples: 
+ 
+ 
+150 ## $a Mass media (Islamic law) 
+  [not 150 ## $a Mass media $x Law and legislation (Islamic 
+          law)] 
+ 
+ 
+ 
+150 ## $a People with disabilities (Jewish law) 
+  [not 150 ## $a People with disabilities $x Legal status,  
+            laws, etc. (Jewish law)] 
+
+
+<<<PAGE 3>>>
+ 
+Legal Materials: Systems of Law  H 1718 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1718 Page 3 
+ 
+November 2021 
+2.  Headings for specific topics in legal systems.   
+ 
+a.  Establishing new headings.  (Continued)  
+ 
+If the heading for the topic or class of persons includes a parenthetical qualifier, include it 
+in the heading for the topic or class of persons in the legal system. Append the qualifier 
+for the legal system in a separate set of parentheses. Examples:  
+ 
+ 
+150 ## $a Fines (Penalties) (Roman law) 
+550 $w g $a Roman law 
+ 
+150 ## $a Mines (Military explosives) (International law) 
+550 #w g $a International law 
+ 
+ 
+For headings that have the qualifier (Islamic law), provide for geographic subdivision by 
+coding field 008/06 i (Subdivided geographically - indirect).  For headings that have any 
+other system of law as the qualifier, do not provide for geographic subdivision.  Use the 
+fill character ( | - No attempt to code) in field 008/06.  Examples: 
+ 
+150 ## $a Birth control (Canon law) [coded | in 008/06] 
+550 ## $w g $a Canon law 
+ 
+150 ## $a Contracts (Frankish law) [coded | in 008/06] 
+550 ## $w g Law, Frankish 
+ 
+150 ## $a Criminal law (Islamic law)  [coded i in 008/06] 
+550 ## $w g $a Islamic law 
+ 
+ 
+b.  Assigning headings.  When assigning headings of this type to individual items 
+being cataloged, do not divide them geographically.   When it is necessary and 
+appropriate to do so, bring out specific places by assigning an additional heading or 
+headings. 
+ 
+ 
+Note:  Since Islam serves as the basis for the legal systems of many countries, 
+headings that are qualified by (Islamic law) are exceptions to this rule, and may 
+be divided geographically. 
+ 
+ 
+
+
+<<<PAGE 4>>>
+H 1718  Legal Materials: Systems of Law 
+ 
+ 
+ 
+H 1718 Page 4 
+Subject Headings Manual 
+November 2021 
+2.  Headings for specific topics in legal systems.  
+ 
+b.  Assigning headings.  (Continued)  
+ 
+ 
+Examples: 
+ 
+Title:  Traditional family law and change in Tanzania :  a study of the 
+     Kuria social system. 
+     650 #0 $a Domestic relations (Kuria law) 
+     650 #0 $a Domestic relations $z Tanzania. 
+     650 #0 $a Kuria (African people) $z Tanzania $x Social 
+          life and customs. 
+ 
+Title:  Muslim criminal law in Indo-Pakistan sub-continent. 
+     650 #0 $a Criminal law (Islamic law) $z India. 
+     650 #0 $a Criminal law (Islamic law) $z Pakistan. 

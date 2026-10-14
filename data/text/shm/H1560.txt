@@ -1,0 +1,301 @@
+
+
+<<<PAGE 1>>>
+ 
+Disasters, Riots, Demonstrations, etc.  H 1560 
+  
+ 
+ 
+Subject Headings Manual 
+H 1560 Page 1 
+ 
+June 2013 
+BACKGROUND:  Until the "city flip" was discontinued in 1985 (cf. H 832), many headings for 
+natural disasters, accidents, and a few other events were constructed in the form 
+[place]B[category of event], [date], for example, Florence (Italy)BFlood, 1966.  In many cases, 
+headings of this type were constructed in that form even for events occurring in places larger 
+than cities, such as regions, countries, states, etc., for example, Atlantic StatesBHurricane, 
+1972. 
+ 
+ 
+ 
+When the "city flip" was discontinued, most headings of this type were converted to standard 
+geographic subdivision of the topic in question, and the general see also references that had 
+described the now-obsolete form of constructing these headings were cancelled from the subject 
+authority file.  The following are the headings that were converted in this manner: 
+ 
+ 
+Avalanches 
+Blizzards 
+Bombings 
+Cyclones 
+Demonstrations 
+Earthquakes 
+Explosions 
+Famines 
+Fires 
+Floods 
+Hurricanes 
+Landslides 
+Massacres 
+Riots 
+Storms 
+Tornadoes 
+Tsunamis 
+Typhoons 
+ 
+ 
+ 
+This instruction sheet describes the procedures to be followed when assigning these and similar 
+headings to new works being cataloged.  It also lists, on the following page, those formerly 
+valid subdivisions of this type for which special treatment decisions were made. 
+
+
+<<<PAGE 2>>>
+H 1560  Disasters, Riots, Demonstrations, etc. 
+ 
+ 
+ 
+H 1560 Page 2 
+Subject Headings Manual 
+June 2013 
+BACKGROUND  (Continued) 
+ 
+The following subdivisions, rather than being converted to simple geographic subdivision of the 
+topic, were changed as indicated: 
+ 
+BBombardment, [date] 
+Converted to Bombardment (May Subd Geog), or, in the case of an 
+individual bombardment, to the subdivision BHistoryBBombardment, [date] 
+established under the name of the place. 
+ 
+Note: The subdivision BBombardment, [date] may be established under 
+names of castles, forts, etc. 
+ 
+ 
+BCapture, [date] 
+Discontinued; replaced by [place]BHistory, [place]BHistoryB[period 
+subdivision], or by a specific heading or subdivision to be established for the 
+event in question. 
+ 
+Note:  The subdivision BCapture, [date] may be established under names 
+of castles, forts, etc. 
+ 
+ 
+BDestruction, [date] 
+Discontinued; replaced by [place]BHistory, [place]BHistoryB[period 
+subdivision], or by a specific heading or subdivision to be established for the 
+event in question. 
+ 
+ 
+BSiege, [date] 
+Converted to Sieges (May Subd Geog), or, in the case of an individual 
+siege, to the subdivision BHistoryBSiege, [date] established under the name of the 
+place. 
+ 
+Note:  The subdivision BSiege, [date] may be established under names of 
+castles, forts, etc. 
+ 
+ 
+BTheater disaster, [date] 
+Discontinued; replaced by the existing heading TheatersBAccidentsB 
+[place]. 
+
+
+<<<PAGE 3>>>
+ 
+Disasters, Riots, Demonstrations, etc.  H 1560 
+  
+ 
+ 
+Subject Headings Manual 
+H 1560 Page 3 
+ 
+June 2013 
+1.  General rule.  To a work that discusses either several instances or a single instance of one of 
+the types of events listed on p. 1 of this instruction sheet, assign the heading for the type of event 
+and divide it geographically according to the standard rules for geographic subdivision in H 830. 
+Examples: 
+ 
+Title:  Magnitude and frequency of floods in Alaska. 
+650 #0 $a Floods $z Alaska. 
+ 
+ 
+Title:  Tornadoes and their occurrence in India. 
+650 #0 $a Tornadoes $z India. 
+ 
+ 
+Title:  The Minneapolis tornadoes, May 6, 1965 : notes on the warning process. 
+650 #0 $a Tornado warning systems $z Minnesota  
+           $z Minneapolis Region. 
+650 #0 $a Tornadoes $z Minnesota $z Minneapolis Region. 
+ 
+2.  Names of events in phrase form.  Most natural disasters can be adequately designated by the 
+[topic]B[place] headings described in sec. 1, above.  Examples: 
+ 
+650 #0 $a Landslides $z Utah $z Manti Region. 
+650 #0 $a Fires $z Illinois $z Chicago. 
+ 
+Individual instances of some types of natural disasters are known by proper or conventional 
+names and may be established as headings.  For individual hurricanes, see sec. 3, below.  For 
+individual earthquakes, see sec. 4, below. 
+ 
+Many human events that do not have a conventional name may also be expressed by generic 
+headings, for example, RiotsBCaliforniaBLos Angeles.  However, if a particular human event 
+has acquired a conventional name, it may be established as a phrase heading in accordance with 
+the provisions of H 1592.  Examples: 
+ 
+150 ## $a Bhopal Union Carbide Plant Disaster, Bhopal, India, 1984 
+150 ## $a Scotia Mine Disaster, Oven Fork, Ky., 1976 
+150 ## $a Great Fire, Chicago, Ill., 1871 
+ 
+Note:  Phrase headings of this type may be established for human events even if the 
+conventional name consists only of a generic term modified by the name of a place and a 
+date, for example, Nanking Massacre, Nanjing, Jiangsu Sheng, China, 1937. 
+
+
+<<<PAGE 4>>>
+H 1560  Disasters, Riots, Demonstrations, etc. 
+ 
+ 
+ 
+H 1560 Page 4 
+Subject Headings Manual 
+June 2013 
+3.  Names of individual hurricanes.  Hurricanes are tropical cyclones that are accompanied by 
+thunderstorms and the circulation of winds near the Earth=s surface.  The practice of using 
+female names for hurricanes was introduced during World War II.  By international agreement, 
+tropical cyclones with sustained winds above a threshold magnitude are now given names from 
+rotating lists of alternating male and female names.  Information about hurricanes and their 
+names may be found on the Web site of the National Hurricane Center of the National Weather 
+Service, the National Oceanographic and Atmospheric Administration.  
+ 
+ 
+Establish the name of an individual hurricane in phrase form according to the following pattern: 
+ 
+ 
+150 ## $a Hurricane [...], [year] 
+450 ## $a [...], Hurricane, [year] 
+450 ## $a [other variant forms, if any], [year] 
+550 ## $w g $a Hurricanes 
+ 
+ 
+Example: 
+ 
+ 
+150 ## $a Hurricane Flora, 1963 
+450 ## $a Ciclón Flora, 1963 
+450 ## $a Flora, Hurricane, 1963 
+450 ## $a Huracán Flora, 1963 
+550 ## $w g $a Hurricanes 
+ 
+ 
+ 
+If the work discusses the hurricane in a specific place, assign both the heading for the hurricane 
+and the heading HurricanesB[place] to the work.  In addition, if the work is of interest to local 
+historians, assign a heading of the type [place]B[topic], as described in sec. 6, below.  Example: 
+ 
+ 
+Title:  Hurricane Frederic, September 12-13, 1979 : pictorial review of 
+Hurricane Frederic in Ocean Springs, Mississippi. 
+650 #0 $a Hurricane Frederic, 1979 $v Pictorial works. 
+650 #0 $a Hurricanes $z Mississippi $z Ocean Springs  
+            $v Pictorial works. 
+651 #0 $a Ocean Springs (Miss.) $v Pictorial works. 
+      
+
+
+<<<PAGE 5>>>
+ 
+Disasters, Riots, Demonstrations, etc.  H 1560 
+  
+ 
+ 
+Subject Headings Manual 
+H 1560 Page 5 
+ 
+June 2013 
+4.  Names of individual earthquakes.  Notable earthquakes generally come to be known by 
+conventional names, which are usually based on their epicenters even though they may affect or 
+cause damage to a larger area.  Establish headings for individual earthquakes that have acquired 
+conventional names.  Determine those names by checking authoritative sources, such as 
+publications of the U.S. Geological Survey, lists of earthquakes on the U.S. Geological Survey 
+Web site, and headings in the GeoRef Thesaurus of the American Geological Institute, as well as 
+terminology used in the general news media.  Headings should follow the general pattern for 
+event headings in phrase form:     
+ 
+150 ## $a [...]Earthquake, [country or first order political 
+            division], [year] 
+450 ## $a [other variant forms, if any] Earthquake, [country or 
+            first order political division], [year] 
+550 ## $w g $a Earthquakes $z [country or first order division] 
+ 
+ 
+Example: 
+ 
+150 ## $a Loma Prieta Earthquake, Calif., 1989 
+450 ## $a Santa Cruz Mountains Earthquake, Calif., 1989 
+550 ## $w g $a Earthquakes $z California 
+ 
+ 
+If the work discusses the earthquake or its effects in a specific place, assign both the heading for 
+the earthquake and the heading EarthquakesB[place] to the work.  Assign headings for 
+additional topics  as needed.  In addition, if the work is of interest to local historians, assign a 
+heading of the type [place]B[topic], as described in sec. 6, below.  Examples: 
+ 
+Title:  Ground breakage and associated effects in the Cook Inlet area, Alaska, 
+resulting from the March 27, 1964 earthquake. 
+650 #0 $a Earth movements $z Alaska $z Cook Inlet 
+            Region. 
+650 #0 $a Alaska Earthquake, Alaska, 1964. 
+650 #0 $a Earthquakes $z Alaska $z Cook Inlet Region. 
+ 
+ 
+Title:  The death of old Yokohama in the great Japanese earthquake of 
+September 1, 1923. 
+650 #0 $a Kanto Earthquake, Japan, 1923. 
+650 #0 $a Earthquakes $z Japan $z Yokohama-shi. 
+651 #0 $a Yokohama-shi (Japan) $x History $y 20th 
+            century.  
+
+
+<<<PAGE 6>>>
+H 1560  Disasters, Riots, Demonstrations, etc. 
+ 
+ 
+ 
+H 1560 Page 6 
+Subject Headings Manual 
+June 2013 
+5.  Event headings as subdivisions.  Headings for individual instances of some types of 
+disastrous events may be constructed with free-floating subdivisions.  The subdivision 
+BEruption, [date] may be used under names of individual volcanoes.  The subdivisions 
+BExplosion, [date] and BFire, [date] may be used under names of individual corporate bodies, 
+buildings, structures, etc.  The subdivision BRiot, [date] is used under names of individual 
+educational institutions.  See H 1078 for guidelines on formulating the date element.  
+Examples: 
+ 
+ 
+651 #0 $a Pinatubo, Mount (Philippines) $x Eruption, 1991. 
+610 20 $a Ardeer Explosives Factory $x Explosion, 1965. 
+610 20 $a MGM Grand Hotel $x Fire, 1980. 
+610 20 $a Universität München $x Riot, 1943. 
+ 
+ 
+ 
+6.  Local history.  Many works of this type, particularly those dealing with a single occurrence 
+of one of these events, are of interest to local historians.  In such cases, add a heading for the 
+locality, subdivided by the appropriate topical subdivision, usually BHistory (further subdivided 
+by a period subdivision if established and appropriate) (cf. H 1845).  Examples: 
+ 
+ 
+Title:  Landslides in the Nashville, Tennessee area, winter 1975. 
+650 #0 $a Landslides $z Tennessee $z Nashville Metropolitan 
+            Area. 
+651 #0 $a Nashville Metropolitan Area (Tenn.) $x History. 
+ 
+ 
+Title:  Buffalo buried : the blizzard of '77. 
+650 #0 $a Blizzards $z New York (State) $z Buffalo. 
+651 #0 $a Buffalo (N.Y.) $x History. 
+ 

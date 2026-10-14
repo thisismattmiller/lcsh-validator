@@ -1,0 +1,212 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Guidebooks H 1645 | Page 1 
+ 
+ 
+Guidebooks 
+H 1645 
+A. Background ............................................................................................................................... 1 
+B. Recent revisions ........................................................................................................................ 1 
+C. Definitions ................................................................................................................................. 1 
+D. General rule .............................................................................................................................. 2 
+E. Types of authorized headings .................................................................................................... 2 
+F. Place names .............................................................................................................................. 3 
+G. Named entities ......................................................................................................................... 3 
+H. Topical headings ....................................................................................................................... 4 
+I. Tours .......................................................................................................................................... 5 
+Revision history ............................................................................................................................. 6 
+A. Background 
+The form subdivision *--Guidebooks* is used as a free-floating form subdivision for handbooks 
+for travelers, sightseers, etc., containing information about routes, facilities and 
+accommodations, items of interest, etc., that is, "how to get there and what to see and do" 
+information. The related form subdivision *--Tours* is used as a free-floating subdivision for 
+works providing planned itineraries. For guidelines on the topical subdivision *--Description 
+and travel*, see H 1530. 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Textbooks*.  To replace a form subdivision that includes a demographic group, also assign 
+Library of Congress Demographic Groups Terms (LCDGT) to bring out the audience of the 
+resource being cataloged, e.g. *German speakers* or *Arabic, Students of*. 
+B. Recent revisions 
+2026-02: Corrected typos. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Guidebooks H 1645 | Page 2 
+ 
+ 
+C. Definitions 
+Guidebooks: resources for travelers, sightseers, etc., containing information about routes, 
+facilities and accommodations, items of interest, etc., that is, "how to get there and what to see 
+and do" information 
+D. General rule 
+Use *--Guidebooks* under appropriate subject headings for works containing information of 
+interest to persons en route or in the field. 
+Use the subdivision only under subjects that have a connotation of place within them, thus 
+allowing for the possibility of travel and viewing. For example, the subdivision may not be used 
+under a discipline such as *Economics* since it has no connotation of place. It may, however, 
+be used under a heading such as *Geology* for field guides to particular places. 
+Some works called "guides" may actually be representative of other forms of publications. If the 
+"guide" is simply a textbook on a topic, no form subdivision is needed (see also H 2187). If it is a 
+reference work, the form subdivision *--Handbooks, manuals, etc.* may be applicable (cf. H 
+1646). If it is a work describing methods for gaining practical experience through first-hand 
+observation and collection of data, the topical subdivision *--Fieldwork* may be appropriate. 
+LC practice: For resources that contain information of interest to travelers to a place, assign 
+subject headings for the topic, place, etc., that is the focus of the travel. Assign the LCGFT 
+appropriate to the form and/or genre of the resource in hand, e.g. LCGFT *Guidebooks*. This 
+instruction applies to sections E-I below. 
+E. Types of authorized headings 
+Use *--Guidebooks* under the following types of headings: 
+• Place names, and named geographic entities such as parks, archaeological sites, etc. 
+• Types of lands, land uses, geographic features, etc., such as gardens, resorts, refuges, 
+trails, rivers, etc. 
+• Structures, buildings, institutions, including both named entities and types of the same 
+• Types of architecture 
+• Activities involving travel in the field, for example, agriculture, backpacking, bird 
+watching, geology, hiking, mountaineering, viticulture, fishing, etc. 
+• Art and antiquities, including specific art genres 
+• Classes of persons and ethnic groups followed by the subdivision *--Travel* 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Guidebooks H 1645 | Page 3 
+ 
+ 
+F. Place names 
+Use the subdivision *--Guidebooks* directly following a particular place name. 
+Examples: 
+651 #0 $a Baltimore (Md.) $v Guidebooks. 
+LC practice: 
+651 #0 $a Baltimore (Md.) 
+655 #7 $a Guidebooks. $2 lcgft 
+ 
+651 #0 $a Hawaii $v Guidebooks. 
+LC practice: 
+651 #0 $a Hawaii. 
+655 #7 $a Guidebooks. $2 lcgft 
+ 
+651 #0 $a Blue Ridge Mountains $v Guidebooks. 
+LC practice: 
+651 #0 $a Blue Ridge Mountains. 
+655 #7 $a Guidebooks. $2 lcgft 
+G. Named entities 
+Use *--Guidebooks* directly under the name of the individual entity for guides to named parks, 
+reserves, roads, battlefields, institutions, and other named lands. 
+Example: 
+651 #0 $a Yellowstone National Park $v Guidebooks. 
+651 #0 $a Martin's Hundred Site (Va.) $v Guidebooks. 
+610 20 $a Library of Congress $v Guidebooks. 
+610 20 $a Harvard University $v Guidebooks. 
+LC practice: 
+651 #0 $a Yellowstone National Park. 
+655 #7 $a Guidebooks. $2 lcgft 
+ 
+651 #0 $a Martin's Hundred Site (Va.) 
+655 #7 $a Guidebooks. $2 lcgft 
+ 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Guidebooks H 1645 | Page 4 
+ 
+ 
+610 20 $a Library of Congress. 
+655 #7 $a Guidebooks. $2 lcgft 
+ 
+610 20 $a Harvard University. 
+655 #7 $a Guidebooks. $2 lcgft 
+H. Topical headings 
+When using *--Guidebooks* under locally subdivided topical headings, make an additional 
+entry, also subdivided by *--Guidebooks*, either under the corresponding place name, or 
+under the entity, such as a park, used as the local subdivision. 
+LC practice: For resources that contain information of interest to travelers related to a specific 
+topic, assign subject headings for both the *[topic]--Place* and the *[place]*. If there is a 
+specific focus on the type of travel or tourism, also assign a subject heading for that type of 
+travel or tourism. Assign the LCGFT appropriate to the form and/or genre of the resource in 
+hand, e.g. LCGFT *Guidebooks*. 
+Examples: 
+650 #0 $a Cemeteries $z New England $v Guidebooks. 
+651 #0 $a New England $v Guidebooks. 
+LC practice: 
+650 #0 $a Cemeteries $z New England. 
+651 #0 $a New England. 
+655 #7 $a Guidebooks. $2 lcgft 
+ 
+650 #0 $a Lakes $z California $z Sierra National Forest $v Guidebooks. 
+651 #0 $a Sierra National Forest (Calif.) $v Guidebooks. 
+LC practice: 
+650 #0 $a Lakes $z California $z Sierra National Forest. 
+651 #0 $a Sierra National Forest (Calif.) 
+655 #7 $a Guidebooks. $2 lcgft 
+ 
+650 #0 $a White-water canoeing $z Québec (Province) $v Guidebooks. 
+651 #0 $a Québec (Province) $v Guidebooks. 
+LC practice: 
+650 #0 $a White-water canoeing $z Québec (Province) 
+651 #0 $a Québec (Province) 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Guidebooks H 1645 | Page 5 
+ 
+ 
+655 #7 $a Guidebooks. $2 lcgft 
+ 
+650 #0 $a Mountaineering $z Colorado $z Rocky Mountain National Park $v 
+Guidebooks. 
+651 #0 $a Rocky Mountain National Park (Colo.) $v Guidebooks. 
+LC practice: 
+650 #0 $a Mountaineering $z Colorado $z Rocky Mountain National Park. 
+651 #0 $a Rocky Mountain National Park (Colo.) 
+655 #7 $a Guidebooks. $2 lcgft 
+ 
+650 #0 $a Historic buildings $z Pennsylvania $z Philadelphia $v Guidebooks. 
+651 #0 $a Philadelphia (Pa.) $v Guidebooks. 
+651 #0 $a Philadelphia (Pa.) $x Buildings, structures, etc. $v Guidebooks. 
+LC practice: 
+650 #0 $a Historic buildings $z Pennsylvania $z Philadelphia. 
+651 #0 $a Philadelphia (Pa.) 
+651 #0 $a Philadelphia (Pa.) $x Buildings, structures, etc. 
+655 #7 $a Guidebooks. $2 lcgft 
+ 
+650 #0 $a Painting $z France $z Paris $v Guidebooks. 
+651 #0 $a Paris (France) $v Guidebooks. 
+LC practice: 
+650 #0 $a Painting $z France $z Paris. 
+651 #0 $a Paris (France) 
+655 #7 $a Guidebooks. $2 lcgft 
+I. Tours 
+Use the free-floating form subdivision *--Tours* after names of places and corporate bodies for 
+works providing planned itineraries for travelers in those places or visitors to those 
+organizations. 
+LC practice: Assign subject headings for names of places and corporate bodies for works 
+providing planned itineraries for travelers in those places or visitors to those organizations. Also 
+assign the LCGFT term appropriate to the form and/or genre of the resource in hand, i.e. LCGFT 
+*Guidebooks*. 
+Examples: 
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | Guidebooks H 1645 | Page 6 
+ 
+ 
+Title: 10 tours of Boston and Cambridge. 
+651 #0 $a Boston (Mass.) $v Tours. 
+651 #0 $a Cambridge (Mass.) $v Tours. 
+LC practice: 
+651 #0 $a Boston (Mass.) 
+651 #0 $a Cambridge (Mass.) 
+655 #7 $a Guidebooks. $2 lcgft 
+ 
+Title: Engstrom's guide to treasure tours of 278 masterpieces in the 
+Louvre Museum. 
+610 20 $a Musée du Louvre $v Tours. 
+651 #0 $a Paris (France) $v Tours. 
+LC practice: 
+610 20 $a Musée du Louvre. 
+651 #0 $a Paris (France) 
+655 #7 $a Guidebooks. $2 lcgft 
+Revision history 
+2026-02: Corrected typos. 
+2026-01: Updated template. Added instructions related to LCGFT implementation. 

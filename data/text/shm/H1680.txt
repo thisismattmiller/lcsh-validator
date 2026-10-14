@@ -1,0 +1,46 @@
+
+
+<<<PAGE 1>>>
+ 
+Islam  H 1680 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1680 Page 1 
+ 
+June 2013 
+BACKGROUND:  The heading Islam denotes the religion of which Muhammad is the prophet. 
+ Other connotations of the term Islam are (1) the community of believers, (2) their cultural 
+system or civilization, and (3) the countries that share the Islamic religion.  These concepts are 
+represented by specific subject headings which are respectively: (1) Muslims; (2) Islamic 
+civilization; (3) Islamic countries.  The obsolete forms Mohammedan and Mohammedanism, 
+and related headings, were changed in LCSH in 1964. 
+ 
+ 
+ 
+ 
+ 
+1.  Islamic.  Use Islamic as an adjective indicating "of, relating to, or characteristic of Islam" as 
+a religion, cultural system, or civilization, as well as the group of national political units that 
+share the Islamic religion, for example, Islamic sects; Islamic literature; Islamic law; Islamic 
+pottery; Islamic countries. 
+ 
+ 
+ 
+2.  Muslim.  Use Muslim as an adjective whenever the noun modified refers to persons, the 
+believers of Islam, for example, Muslim converts; Muslim saints; Muslim women.  The 
+adjective Muslim may also be used in other instances when this is warranted by predominant 
+usage. 
+ 
+ 
+ 
+3.  References.  When establishing headings qualified by the terms Islamic or Muslim, add 450 
+fields with the alternative forms.  Examples: 
+ 
+150 ## $a Muslim converts 
+450 ## $a Islamic converts 
+ 
+150 ## $a Islamic shrines 
+450 ## $a Muslim shrines 
+ 

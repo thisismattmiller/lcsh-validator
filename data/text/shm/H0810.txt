@@ -1,0 +1,545 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Qualification of Geographic Headings H 810 | Page 1 
+ 
+Qualification of Geographic Headings 
+H 810 
+A. Background ................................................................................................................................. 2 
+B. Recent revisions .......................................................................................................................... 2 
+C. Definitions ................................................................................................................................... 2 
+D. Choice of geographic qualifiers .................................................................................................. 2 
+D.1. General rule ......................................................................................................................... 2 
+D.2. Exceptions to the general rule ............................................................................................. 2 
+E. Form of geographic qualifiers ..................................................................................................... 4 
+E.1. Latest name .......................................................................................................................... 4 
+E.2. Abbreviations ....................................................................................................................... 4 
+E.3. Final form of qualifier ........................................................................................................... 4 
+F. Entities wholly within one jurisdiction ........................................................................................ 5 
+F.1. General rule .......................................................................................................................... 5 
+F.2. Conflicts ................................................................................................................................ 5 
+F.3. Entities in cities ..................................................................................................................... 6 
+F.4. Entities on islands ................................................................................................................. 7 
+G. Entities in two jurisdictions ........................................................................................................ 8 
+H. Entities in more than two jurisdictions ...................................................................................... 8 
+H.1. General rule ......................................................................................................................... 8 
+H.2. International bodies of water .............................................................................................. 9 
+Appendix A. First Order Political Divisions of the Exceptional Countries ....................................... 9 
+Appendix A.1. Australia ............................................................................................................... 9 
+Appendix A.2. Canada ................................................................................................................. 9 
+Appendix A.3. Great Britain ...................................................................................................... 10 
+Appendix A.4. Malaysia ............................................................................................................. 10 
+Appendix A.5. United States ..................................................................................................... 11 
+Appendix A.6. Other jurisdictions ............................................................................................. 12 
+Revision history ............................................................................................................................. 12 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Qualification of Geographic Headings H 810 | Page 2 
+ 
+A. Background 
+Geographic headings that do not represent potential descriptive access points, including 
+headings for geographic features, regions, parks, etc., are generally established in the subject 
+authority file. Since 1981 the rules used by subject catalogers in formulating these names have 
+been essentially the same as those used for establishing jurisdictional headings, that is, the 
+Anglo-American Cataloguing Rules (and, beginning in 2013, Resource Description & Access). 
+With the adoption of AACR2, subject cataloging practices were modified to conform with the 
+new rules. The procedures described in this instruction sheet apply only to the choice and form 
+of the qualifiers for geographic headings. For procedures for formulating the substantive 
+portion of these headings, see H 690. 
+B. Recent revisions 
+2025-02: Updated template. Added some examples. 
+C. Definitions 
+Exceptional Countries: five specific countries for which there are special rules regarding 
+geographic qualifiers. The countries are Australia, Canada, Great Britain, Malaysia, and the 
+United States. 
+Qualifier: text added in parentheses after the primary term to make a specific meaning 
+unambiguous, as well as to differentiate the character string, also known as qualification. 
+D. Choice of geographic qualifiers 
+D.1. General rule 
+Generally, qualify subject headings representing geographic entities by the name of the country 
+or countries in which they are located.  
+For entities on the continent of Antarctica or within the Antarctic regions, use *(Antarctica)* as 
+the qualifier. 
+D.2. Exceptions to the general rule 
+D.2.a. Exceptional Countries 
+Australia, Canada, Great Britain, Malaysia, and the United States are called “Exceptional 
+Countries”. Qualify geographic headings in these countries by the name of the first order 
+political division in which the entity is located. 
+Examples: 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Qualification of Geographic Headings H 810 | Page 3 
+ 
+151 ## $a Brisbane Forest Park (Qld.) 
+151 ## $a Boothia Peninsula (Nunavut) 
+151 ## $a Brenig Lake (Wales) 
+151 ## $a Taman Negeri Perlis (Perlis, Malaysia) 
+151 ## $a Hardscrabble Gulch (Idaho) 
+For a list of the political divisions of these five exceptions, and the forms to be used as 
+qualifiers, see Appendix A at the end of this document. 
+Note: Serbia and Montenegro, the successor of Yugoslavia, is no longer an exception because it 
+split into two separate countries in 2006. 
+D.2.b. Entities in cities 
+Qualify archaeological sites, parks and gardens, streets and roads, and other man-made 
+geographic structures, by the name of the city; qualify natural features by the name of the 
+larger jurisdiction except in cases of conflict (see sec. F.3). 
+Examples: 
+151 ## $a Central Park (New York, N.Y.) 
+151 ## $a Gaer Fawr Site (Powys, Wales) 
+151 ## $a Leaning Tower (Pisa, Italy) 
+D.2.c. Headings for non-jurisdictional islands 
+See H 807. 
+D.2.d. Entities on islands 
+Qualify by the name of the island or larger jurisdiction as described in sec. F.4. 
+D.2.e. Names of extinct cities 
+Use the qualifier *(Extinct city)*. See H 715. 
+D.2.f. Rivers 
+See H 800. 
+D.2.g. Undersea features 
+Generally do not qualify undersea features in international waters, for example, *East Pacific 
+Rise* or *Aleutian Trench*. If it is necessary to resolve a conflict or remove ambiguity, add the 
+body of water as a qualifier, for example, *Gully, The (North Atlantic Ocean)*. For undersea 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Qualification of Geographic Headings H 810 | Page 4 
+ 
+features within territorial limits, qualify by the name of the appropriate jurisdiction, for 
+example, *Old Orchard Shoal (N.Y.)* or *Grand Bahama Bank (Bahamas)*. 
+E. Form of geographic qualifiers 
+E.1. Latest name 
+Use, as a geographic qualifier, only the latest form of the name of a jurisdiction, for example, 
+*(Zimbabwe)* [not (Rhodesia, Southern)]. 
+E.2. Abbreviations 
+When using one of the first order political divisions (ADM1s) of the Exceptional Countries as a 
+qualifier, abbreviate the name according to the tables in Appendix A. Do not abbreviate any 
+other place names when using them as qualifiers. 
+E.3. Final form of qualifier 
+Qualify a geographic heading by placing the name of the appropriate jurisdiction(s) within a 
+single set of parentheses after the substantive portion of the heading. 
+Example: 
+151 ## $a Hawaii Volcanoes National Park (Hawaii) 
+When using the names of two jurisdictions as a qualifier, place both names within a single set of 
+parentheses, linking them with the word *and*. 
+Example: 
+151 ## $a Chesapeake Bay (Md. and Va.) 
+When qualifying by the name of a city (or at any level lower than the level specified in sec. D.1, 
+above), use the established heading for the city or other entity, but reformulate it by placing it 
+within a single set of parentheses, separating the basic name from the name of the larger 
+qualifying jurisdiction with a comma, and omitting any additional information that is part of the 
+established heading. 
+Examples: 
+Form of heading for city 
+Form when used as qualifier 
+Chicago (Ill.) 
+(Chicago, Ill.) 
+Black Creek (Wis. : Village) 
+(Black Creek, Wis.) 
+Veracruz (Veracruz-Llave, Mexico) 
+(Veracruz, Veracruz-Llave, Mexico) 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Qualification of Geographic Headings H 810 | Page 5 
+ 
+When the jurisdiction being used as a qualifier is itself qualified by a term designating the 
+nature of the jurisdiction, omit the latter term, and if necessary, reformulate the resulting name 
+in the same manner as described above for cities. 
+Examples: 
+Form of heading for jurisdiction 
+Form when used as qualifier 
+Washington (State) 
+(Wash.) 
+Micronesia (Federated States) 
+(Micronesia) 
+Arequipa (Peru : Dept.) 
+(Arequipa, Peru) 
+F. Entities wholly within one jurisdiction 
+F.1. General rule 
+Qualify by the name of the jurisdiction in which the entity is located, formulating the qualifier in 
+accordance with the general provisions above. 
+Examples: 
+151 ## $a Columbia Dam (Tenn.) 
+151 ## $a Great Barrier Reef (Qld.)  
+151 ## $a Saint Helens, Mount (Wash.) 
+151 ## $a Taunus (Germany) 
+151 ## $a Valdai Hills (Russia) 
+151 ## $a Lake District (England) 
+151 ## $a Cairngorms (Scotland) 
+151 ## $a Diamond Mountains (Korea) 
+Note: Use *(Korea)* to qualify all entities located in Korea, whether in North Korea, South 
+Korea, or both. 
+F.2. Conflicts 
+If there are two or more entities with the same name in the same jurisdiction, formulate a 
+distinctive qualifier according to the following methods. 
+F.2.a. Entities of the same type 
+Add to the qualifier the name of the next smaller jurisdiction (county, department, province, 
+etc.). 
+Examples: 
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | Qualification of Geographic Headings H 810 | Page 6 
+ 
+151 ## $a Pelican Lake (Otter Tail County, Minn.) 
+151 ## $a Pelican Lake (Saint Louis County, Minn.) 
+ 
+151 ## $a Blackwater River (Essex, England) 
+151 ## $a Blackwater River (Hampshire and Berkshire, England) 
+Note: Do not differentiate among multiple features of the same type, with the same name, 
+within a single county in the United States, except for features in cities (see sec. F.3). Include a 
+667 field to indicate that the heading is not differentiated, using standard phrasing as follows. 
+Model: 
+667 ## $a Undifferentiated geographic heading. Covers all [type of feature] 
+named [name of feature] in [county]. 
+Example: 
+151 ## $a Lookout Mountain (Whatcom County, Wash.) 
+667 ## $a Undifferentiated geographic heading. Covers all mountains named 
+Lookout Mountain in Whatcom County, Wash.  
+Follow the same principle for multiple features of the same type, with the same name, within a 
+single first-level administrative subdivision of a country other than the United States. Adjust the 
+wording of the note in the 667 field as appropriate. 
+Example: 
+151 ## $a Enz River (Baden-Württemberg, Germany) 
+667 ## $a Undifferentiated geographic heading. Covers all rivers named Enz 
+River in Baden-Württemberg, Germany.  
+F.2.b. Entities of different types 
+Add to the qualifier a generic term, in English, designating the type of entity. Separate this term 
+from the geographic term within the qualifier by a space, a colon, and another space. 
+Example: 
+151 ## $a Cold Lake (Alta. : Lake) 
+[This designation is necessary because there is also a city in Alberta with the 
+name Cold Lake, for which the heading is *Cold Lake (Alta.)*] 
+Note: Provide information about such conflicts in 670 fields in order to justify the addition of 
+extra names or terms in qualifiers. 
+F.3. Entities in cities 
+Note: Do not use names of townships in the United States as qualifiers. Instead, qualify by the 
+specific city, town, village, etc., within the township. 
+
+
+<<<PAGE 7>>>
+Subject Headings Manual | Qualification of Geographic Headings H 810 | Page 7 
+ 
+F.3.a. Parks and gardens 
+Qualify by the name of the city, formulating the qualifier according to the general provisions 
+above. 
+Examples: 
+151 ## $a Vauxhall Gardens (London, England) 
+151 ## $a Jardin du Luxembourg (Paris, France) 
+F.3.b. Streets and roads, and other man-made geographic structures 
+Qualify by the name of the city. See H 2098, sec. 2.b. 
+F.3.c. Archaeological sites 
+Qualify by the name of the city. 
+F.3.d. Natural features 
+Do not qualify lakes, hills, etc. within cities by the name of the city except to resolve conflicts. 
+Qualify by the name of the larger jurisdiction, in accordance with the general rule for 
+qualification of entities wholly within a single jurisdiction. 
+F.3.e. Buildings and structures 
+See H 1334. 
+F.4. Entities on islands 
+F.4.a. Islands established as name headings without qualifiers 
+Qualify the entity on the island by the name of the island as established in the Name Authority 
+File. 
+Examples: 
+Island 
+Entity on the island 
+Taiwan 
+Tan shui River (Taiwan) 
+Greenland 
+Disko Bay (Greenland) 
+F.4.b. Islands established as name or subject headings with qualifiers for larger jurisdictions 
+Qualify the entity on the island by the name of the larger jurisdiction, not by the island name. 
+Examples: 
+Island 
+Entity on the island 
+
+
+<<<PAGE 8>>>
+Subject Headings Manual | Qualification of Geographic Headings H 810 | Page 8 
+ 
+Sicily (Italy) 
+Etna, Mount (Italy) 
+Crete (Greece) 
+Kommos Site (Greece) 
+Exception: Use the specific island name when necessary to resolve conflicts. 
+Examples: 
+151 ## $a Kailua Bay (Oahu, Hawaii) 
+151 ## $a Kailua Bay (Hawaii Island, Hawaii) 
+F.4.c. Entities on islands that comprise more than one jurisdiction 
+Qualify the entity on the island by the name of the jurisdiction in which the entity is located. For 
+example, use the qualifier *(Haiti)* rather than (Hispaniola) for an entity in Haiti. 
+G. Entities in two jurisdictions 
+Qualify by the names of both jurisdictions in which the entity is located, formulating the 
+qualifier in accordance with the general provisions above. 
+As a general rule, put the names of the two jurisdictions in alphabetical order. However, if the 
+entity is located primarily in one of the two, put the name of that jurisdiction first. For special 
+provisions applicable to the qualification of rivers in two jurisdictions, see H 800. 
+Examples: 
+151 ## $a Somport Pass (France and Spain) 
+151 ## $a Chesapeake Bay (Md. and Va.) 
+151 ## $a Bull Shoals Lake (Ark. and Mo.) 
+151 ## $a White Mountains (N.H. and Me.) 
+H. Entities in more than two jurisdictions 
+H.1. General rule 
+Use no qualifier unless it is necessary to distinguish between two entities of the same name or 
+to clarify an ambiguous term. 
+Examples: 
+151 ## $a Euphrates River 
+151 ## $a Middle East 
+151 ## $a Mediterranean Sea 
+151 ## $a Atlas Mountains 
+151 ## $a Southern States 
+151 ## $a Hudson Bay 
+
+
+<<<PAGE 9>>>
+Subject Headings Manual | Qualification of Geographic Headings H 810 | Page 9 
+ 
+151 ## $a Great Dividing Range 
+151 ## $a West (U.S.) 
+Qualification of such entities to resolve conflicts occurs most frequently with rivers. For special 
+provisions applicable to this situation, see H 800. 
+H.2. International bodies of water 
+Do not qualify bodies of water touching two or more countries and open to the sea except to 
+resolve a conflict. In accordance with this rule, headings such as English Channel and Bering Sea 
+are established without qualifiers. 
+Apply the standard provisions for geographic qualification, as presented in this instruction sheet 
+and in H 800, to inland bodies of water such as lakes and rivers (associated watersheds, 
+estuaries, etc.), as well as for bodies of water touching two or more jurisdictions below the 
+country level. 
+Appendix A. First Order Political Divisions of the Exceptional Countries 
+Appendix A.1. Australia 
+First Order Division 
+Form in Qualifier 
+Australian Capital Territory 
+(A.C.T.) 
+New South Wales 
+(N.S.W.) 
+Northern Territory 
+(N.T.) 
+Queensland 
+(Qld.) 
+South Australia 
+(S.A.) 
+Tasmania 
+(Tas.) 
+Victoria 
+(Vic.) 
+Western Australia 
+(W.A.) 
+Appendix A.2. Canada 
+First Order Division 
+Form in Qualifier 
+Alberta 
+(Alta.) 
+British Columbia 
+(B.C.) 
+Manitoba 
+(Man.) 
+New Brunswick 
+(N.B.) 
+Newfoundland and Labrador 
+(N.L.) 
+Northwest Territories 
+(N.W.T.) 
+
+
+<<<PAGE 10>>>
+Subject Headings Manual | Qualification of Geographic Headings H 810 | Page 10 
+ 
+First Order Division 
+Form in Qualifier 
+Nova Scotia 
+(N.S.) 
+Nunavut 
+(Nunavut) 
+Ontario 
+(Ont.) 
+Prince Edward Island 
+(P.E.I.) 
+Québec (Province) 
+(Québec) 
+Saskatchewan 
+(Sask.) 
+Yukon 
+(Yukon) 
+Appendix A.3. Great Britain 
+First Order Division 
+Form in Qualifier 
+England 
+(England) 
+Northern Ireland 
+(Northern Ireland) 
+Scotland 
+(Scotland) 
+Wales 
+(Wales) 
+Appendix A.4. Malaysia 
+First Order Division 
+Form in Qualifier 
+Johor 
+(Johor, Malaysia) 
+Kedah 
+(Kedah, Malaysia) 
+Kelantan 
+(Kelantan, Malaysia) 
+Kuala Lumpur (Malaysia) 
+(Kuala Lumpur, Malaysia) 
+Labuan, Federal Territory of 
+(Labuan, Malaysia) 
+Malacca (State) 
+(Malacca, Malaysia) 
+Negeri Sembilan 
+(Negeri Sembilan, Malaysia) 
+Pahang 
+(Pahang, Malaysia) 
+Perak 
+(Perak, Malaysia) 
+Perlis 
+(Perlis, Malaysia) 
+Pulau Pinang 
+(Pulau Pinang, Malaysia) 
+Putrajaya 
+(Putrajaya, Malaysia) 
+Sabah 
+(Sabah, Malaysia) 
+Sarawak 
+(Sarawak, Malaysia) 
+Selangor 
+(Selangor, Malaysia) 
+Terengganu 
+(Terengganu, Malaysia) 
+
+
+<<<PAGE 11>>>
+Subject Headings Manual | Qualification of Geographic Headings H 810 | Page 11 
+ 
+Appendix A.5. United States 
+First Order Division 
+Form in Qualifier 
+Alabama 
+(Ala.) 
+Alaska 
+(Alaska) 
+Arizona 
+(Ariz.) 
+Arkansas 
+(Ark.) 
+California 
+(Calif.) 
+Colorado 
+(Colo.) 
+Connecticut 
+(Conn.) 
+Delaware 
+(Del.) 
+District of Columbia 
+(D.C.) 
+Florida 
+(Fla.) 
+Georgia 
+(Ga.) 
+Hawaii 
+(Hawaii) 
+Idaho 
+(Idaho) 
+Illinois 
+(Ill.) 
+Indiana 
+(Ind.) 
+Iowa 
+(Iowa) 
+Kansas 
+(Kan.) 
+Kentucky 
+(Ky.) 
+Louisiana 
+(La.) 
+Maine 
+(Me.) 
+Maryland 
+(Md.) 
+Massachusetts 
+(Mass.) 
+Michigan 
+(Mich.) 
+Minnesota 
+(Minn.) 
+Mississippi 
+(Miss.) 
+Missouri 
+(Mo.) 
+Montana 
+(Mont.) 
+Nebraska 
+(Neb.) 
+Nevada 
+(Nev.) 
+New Hampshire 
+(N.H.) 
+New Jersey 
+(N.J.) 
+
+
+<<<PAGE 12>>>
+Subject Headings Manual | Qualification of Geographic Headings H 810 | Page 12 
+ 
+First Order Division 
+Form in Qualifier 
+New Mexico 
+(N.M.) 
+New York (State) 
+(N.Y.) 
+North Carolina 
+(N.C.) 
+North Dakota 
+(N.D.) 
+Ohio 
+(Ohio) 
+Oklahoma 
+(Okla.) 
+Oregon 
+(Or.) 
+Pennsylvania 
+(Pa.) 
+Rhode Island 
+(R.I.) 
+South Carolina 
+(S.C.) 
+South Dakota 
+(S.D.) 
+Tennessee 
+(Tenn.) 
+Texas 
+(Tex.) 
+Utah 
+(Utah) 
+Vermont 
+(Vt.) 
+Virginia 
+(Va.) 
+Washington (State) 
+(Wash.) 
+West Virginia 
+(W. Va.) 
+Wisconsin 
+(Wis.) 
+Wyoming 
+(Wyo.) 
+Appendix A.6. Other jurisdictions 
+First Order Division 
+Form in Qualifier 
+New Zealand 
+(N.Z.) 
+Puerto Rico 
+(P.R.) 
+United States 
+(U.S.) 
+Note: Until 2013, the British Virgin Islands and United States Virgin Islands were both 
+abbreviated (V.I.). The full name is now used in qualifiers, i.e., (British Virgin Islands); (United 
+States Virgin Islands). 
+Revision history 
+2025-06: Updated template. Added some examples. 
+2025-02: Updated to new template. Corrected typo and updated example. 

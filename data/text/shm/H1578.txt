@@ -1,0 +1,106 @@
+
+
+<<<PAGE 1>>>
+ 
+Economic Conditions  H 1578 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1578 Page 1 
+ 
+June 2013 
+BACKGROUND:  This instruction sheet provides guidelines for assigning the subdivision 
+BEconomic conditions.  The subdivision BSocioeconomic status was formerly used under 
+headings for special occupational groups.  This subdivision has been discontinued and 
+replaced by BEconomic conditions and/or BSocial conditions, as appropriate. 
+ 
+ 
+1.  General rule.  Use the free-floating subdivision BEconomic conditions under names of 
+regions, countries, cities, etc.; under names of ethnic groups; and under classes of persons, 
+including occupational groups, for works discussing the economic history or economic 
+conditions in general of a place, ethnic group, or class of persons. 
+ 
+Use BEconomic conditions under headings for specific occupational groups, when appropriate.  
+The former practice of assigning only the heading for the occupational group for general works 
+on their economic conditions and status has been discontinued. 
+ 
+Examples: 
+ 
+651 #0 $a Europe $x Economic conditions. 
+651 #0 $a Zimbabwe $x Economic conditions. 
+651 #0 $a Buffalo (N.Y.) $x Economic conditions. 
+650 #0 $a African Americans $z Rhode Island $x Economic  
+          conditions. 
+650 #0 $a Indians of North America $x Economic conditions. 
+650 #0 $a Older people $z Iowa $x Economic conditions. 
+650 #0 $a Fishers $z United States $x Economic conditions. 
+650 #0 $a Carpenters $z Ohio $z Canton $x Economic conditions. 
+ 
+ 
+2.  BSocioeconomic status.  The obsolete subdivision BSocioeconomic status under headings for 
+special occupational groups is no longer used.  Instead, use the free-floating subdivision(s) 
+BEconomic conditions and/or BSocial conditions, as appropriate. 
+ 
+ 
+3.  Further form or topical subdivisions.  Further subdivide BEconomic conditions by 
+standard free-floating form or topical subdivisions when appropriate for the work cataloged.  
+Examples: 
+ 
+651 #0 $a Europe $x Economic conditions $x Mathematical models. 
+650 #0 $a Women $x Economic conditions $v Statistics. 
+ 
+Do not further subdivide BEconomic conditions by BHistory. 
+
+
+<<<PAGE 2>>>
+H 1578  Economic Conditions 
+ 
+ 
+ 
+H 1578 Page 2 
+Subject Headings Manual 
+June 2013 
+4.  Chronological subdivisions.  Further subdivide [place]BEconomic conditions by 
+established chronological subdivisions or by the free-floating century subdivisions listed under 
+BEconomic conditions in H 1140:  B16th, [17th, 18th, 19th, 20th, 21st] century.  Assign 
+century subdivisions only when they do not conflict with established subdivisions for specific 
+time periods.  Establish new subdivisions for other significant periods under headings of the 
+type [place]BEconomic conditions where there is sufficient material to warrant it.  Examples: 
+ 
+651 #0 $a Europe $x Economic conditions $y 1918-1945. 
+651 #0 $a Great Britain $x Economic conditions $y 20th century. 
+651 #0 $a Haiti $x Economic conditions $y 1971- 
+651 #0 $a Paris (France) $x Economic conditions $y 19th century. 
+ 
+When appropriate, further subdivide [place]BEconomic conditionsB[period subdivision] by 
+standard free-floating form or topical subdivisions used after BEconomic conditions.  
+Examples: 
+ 
+651 #0 $a Europe $x Economic conditions $y 20th century  
+            $v Periodicals. 
+651 #0 $a Hungary $x Economic conditions $y 1945-1968  
+            $v Statistics. 
+651 #0 $a India $x Economic conditions $y 1947- $x Mathematical 
+            models. 
+ 
+When appropriate, further subdivide headings of the type [class of persons]BEconomic 
+conditions or [ethnic group]BEconomic conditions by the free-floating century subdivisions 
+listed under BEconomic conditions in H 1100 and H 1103: B16th, [17th, 18th, 19th,  20th, or 
+21st] century. 
+ 
+5.  Examples of assignment of headings. 
+ 
+Title:  The economic history of the United States. 
+651 #0 $a United States $x Economic conditions. 
+ 
+Title:  Regional economic disparity in India since Independence. 
+651 #0 $a India $x Economic conditions $y 1947- $x Regional 
+            disparities. 
+ 
+Title:  Carpenters in Hawaii : a general economic study. 
+650 #0 $a Carpenters $z Hawaii $x Economic conditions. 
+ 
+Title:  The socioeconomic status of librarians. 
+650 #0 $a Librarians $x Economic conditions.   
+650 #0 $a Librarians $x Social conditions. 

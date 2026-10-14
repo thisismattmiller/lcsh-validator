@@ -1,0 +1,233 @@
+
+
+<<<PAGE 1>>>
+ 
+Industries Based on Products  H 1673 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1673 Page 1 
+ 
+June 2013 
+BACKGROUND:  Subject headings designating individual industries based on products have, 
+in the past, been formulated in several different ways: 
+ 
+ 
+[product heading] industries  
+[product heading] industry 
+Group I 
+[product heading] industries and trade  
+[product heading] industry and trade  
+[product heading] trade 
+ 
+ 
+ 
+ 
+[product heading] manufacture and trade 
+Group II 
+[product heading]BIndustry and trade  
+[product heading]BTrade and manufacture 
+ 
+ 
+ 
+In order to simplify and standardize headings for industries based on products, new industry 
+headings are now being established using only the formulation [product heading] industry. 
+ 
+Existing industry headings in Group I continue to be valid.  Those in Group II are obsolete, and 
+have, for the most part, been cancelled from the subject authority file. 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  General rule.  Use the industry heading for works that discuss the economic and 
+manufacturing aspects connected with the production and trade of types of commodities or 
+products.  Do not assign the industry heading to cover a discussion of the product itself. 
+ 
+For works that discuss the process of moving goods from the producer through the trade 
+channels to the consumer, use the subdivision BMarketing under types of commodities or 
+products.  Do not use the subdivision BMarketing under industry headings.  For instructions 
+on the use of the subdivision BMarketing, see H 1870. 
+
+
+<<<PAGE 2>>>
+H 1673  Industries Based on Products 
+ 
+ 
+ 
+H 1673 Page 2 
+Subject Headings Manual 
+June 2013 
+2.  Establishing new headings.  Establish headings for industries based on products by adding 
+the word industry to the heading for the specific product whenever possible.  Examples: 
+ 
+ 
+ 
+    Product Heading     
+ 
+ 
+    Industry Heading      
+ 
+ 
+Macadamia nut 
+ 
+ 
+ 
+Macadamia nut industry 
+Pollution control equipment  
+ 
+Pollution control equipment industry 
+Annuals (Plants) 
+ 
+ 
+ 
+Annuals (Plants) industry 
+ 
+ 
+ 
+ 
+ 
+If the resulting heading is awkward and does not conform to common usage, make necessary 
+adjustments, such as adding industry to the singular form of a product that is established in the 
+plural form, or adding industry to the uninverted form of a product that is established in inverted 
+form.  Examples: 
+ 
+ 
+ 
+    Product Heading     
+ 
+ 
+    Industry Heading      
+  
+ 
+Cigarettes 
+ 
+ 
+ 
+ 
+Cigarette industry 
+Cigars  
+ 
+ 
+ 
+ 
+Cigar industry 
+Household appliances, Electric 
+ 
+Electric household appliances 
+industry 
+ 
+ 
+ 
+ 
+ 
+If the heading for the product is not in the subject authority file, establish the product heading at 
+the same time. 
+
+
+<<<PAGE 3>>>
+ 
+Industries Based on Products  H 1673 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1673 Page 3 
+ 
+June 2013 
+3.  Industries based on products formulated as [topic]BEquipment and supplies.  If the 
+product heading is of the type [topic]BEquipment and supplies, construct the heading for the 
+industry by adding the phrase equipment industry to the heading for the topic. 
+ 
+If the product heading is of the type [topic]B[topic]BEquipment and supplies, construct the 
+heading for the industry by first changing [topic]B[topic] to phrase form and then adding the 
+phrase equipment industry.   Examples: 
+ 
+ 
+    Product Heading     
+ 
+ 
+    Industry Heading      
+ 
+ 
+Fetal heart rate monitoringB  
+ 
+Fetal heart rate monitoring 
+Equipment and supplies            
+equipment industry 
+Food serviceBEquipment and  
+ 
+Food service equipment industry 
+supplies 
+GolfBEquipment and supplies 
+Golf equipment industry 
+WaterBPurificationBEquipment 
+ 
+Water purification equipment 
+and supplies  
+ 
+ 
+ 
+industry 
+ 
+ 
+4.  Reference patterns. 
+ 
+a.  UF references.  Whenever possible, add the necessary 450 fields at the product 
+heading level rather than at the industry level.  Example: 
+ 
+ 
+150 ## $a Macadamia nut  
+ 
+450 ## $a Queensland nut 
+ 
+  [not 150 ## $a Macadamia nut industry 
+450 ## $a Queensland nut industry] 
+ 
+ 
+If the 450 field cannot be added to the product heading or if the term refers only to the 
+industy, add it to the industry heading.  Example: 
+ 
+ 
+150 ## $a Agricultural industries 
+450 ## $a Agribusiness 
+
+
+<<<PAGE 4>>>
+H 1673  Industries Based on Products 
+ 
+ 
+ 
+H 1673 Page 4 
+Subject Headings Manual 
+June 2013 
+4.  Reference patterns.  (Continued) 
+ 
+ 
+b.  Broader terms.  If the industry heading at the next higher level of the hierarchy 
+comes readily to mind and has been established, add it as a 550 (broader term) field for 
+the new heading being established.  If the appropriate broader term has not been 
+established, it may be established or the 550 field may be omitted.  Example: 
+ 
+ 
+150 ## $a Macadamia nut industry 
+550 ## $w g $a Nut industry 
+ 
+ 
+ 
+c.  Related terms.   Link the heading for the product and the heading for the industry as 
+related terms by means of 550 fields if the two headings do not begin with the same word 
+or word stem.  Example: 
+ 
+ 
+150 ## $a Electric household appliances industry 
+550 ## $a Household appliances, Electric 
+ 
+150 ## $a Household appliances, Electric 
+550 ## $a Electric household appliances industry 
+ 
+ 
+ 
+5.  Subdivisions used under types of industries.  See H 1153. 

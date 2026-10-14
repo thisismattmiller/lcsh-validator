@@ -1,0 +1,4908 @@
+
+
+<<<PAGE 1>>>
+ 
+Subject Headings Manual 
+Index - Page 1 
+ 
+August 2023 
+   
+INDEX 
+ 
+ 
+Subject headings and subdivisions are displayed in bold type.   Where 
+multiple references are provided under a topic, the primary reference, if 
+any, is displayed in bold type.  References to lists of free-floating 
+subdivisions in H 1095 - H 1200 are not included. 
+ 
+ 
+008 field for subject-related codes 
+ 
+Books:  Appendix F 
+ 
+Continuing resources (Serials):  Appendix G 
+043 field for geographic area codes 
+SEE  Geographic area codes 
+653 field for uncontrolled subject terms:  H 160 
+781 field for geographic subdivision form: H 200, H 830, H 835, H 836 
+ 
+ 
+- A - 
+ 
+AACR2 name headings 
+SEE RDA name headings  
+Abbeys 
+Established as name headings:  H 405   
+Abbreviations 
+Capitalization of:  Appendix B   
+Geographic qualifiers:  H 810 
+Geographic subject headings:  H 690   
+Spaces within:  Appendix D   
+Used as subject headings:  Appendix A, H 373   
+Ability:  H 2186   
+Ability testing as a subdivision:  H 2186   
+Abstracting and indexing as a subdivision:  H 1205, H 1670   
+Abstracts:  H 1205 
+Distinguished from annotated bibliographies:  H 1205   
+Abstracts as a subdivision:  H 1205 
+Not used under —Congresses:  H 1460 
+Academies 
+Established as name headings:  H 405   
+Accidents 
+Formulating headings for specific accidents:  H 1592 
+
+
+<<<PAGE 2>>>
+ 
+Index - Page 2 
+Subject Headings Manual 
+August 2023 
+Accompaniment 
+Instrumental music headings:  H 250, H 1917.5  
+Vocal music headings:  H 250, H 1917.5 
+Accounting as a subdivision:  H 1624   
+Acquisition of government publications:  H 1643 
+Acronyms 
+Establishing as subject headings:  Appendix A   
+UF references:  H 373   
+Plurals:  Appendix A   
+Usage of the subject heading Acronyms:  H 1206.5 
+Acronyms as a subdivision:  H 1206.5 
+Activity programs:  H 2110   
+Acts, Legislative:  H 1715 
+Adaptations, Film:  H 2230   
+Added entries, Partial title 
+SEE  Partial title added entries 
+Addenda:  H 2145 
+Addresses, essays, lectures as a subdivision 
+Discontinued:  H 1210 
+Addresses, Street 
+Buildings established as street addresses:  H 1334   
+Aerial photography:  H 1210.5 
+Aerial views as a subdivision:  H 1210.5   
+Affairs, Political 
+Formulating headings:  H 1592 
+African Americans 
+--Music: H 1917   
+Airplanes, Named 
+Established as name headings:  H 405   
+Airports 
+Assigning headings for names of individual airports:  H 1211 
+Established as name headings:  H 405   
+Aliens 
+Definition and use:  H 1581 
+Almshouses 
+Established as name headings:  H 405   
+Amateurs' manuals as a subdivision:  H 1943.5   
+Amendments, Constitutional:  H 1465 
+America--Discovery and exploration:  H 1564   
+
+
+<<<PAGE 3>>>
+ 
+Subject Headings Manual 
+Index - Page 3 
+ 
+August 2023 
+[ . . . ] Americans 
+United States not used as geographic subdivision under:  H 1919.5   
+Ampersands:  Appendix C, Appendix A   
+Amusement parks 
+SEE ALSO   Parks 
+Established as subject headings:  H 405   
+Analog computer simulation:  H 2040   
+Ancient and classical works:  H 1412 
+Ancient cities (pre-1500) 
+SEE  Extinct cities (pre-1500) 
+Ancient jurisdictions (other than cities) 
+As geographic subdivisions:  H 830 
+Established as name headings:  H 405   
+Ancient peoples 
+Assigning headings:  H 1225   
+Civilizations:  H 1370   
+and 
+In music form/genre headings: H 1917.5 
+[ . . . ] and [ . . . ] headings:  H 310 
+Broader terms:  H 370   
+Religion headings:  H 1998 
+[ . . . ] and state 
+SEE  Government policy as a subdivision 
+Anecdotes as a subdivision 
+Pets:  H 1720   
+Animals 
+SEE ALSO   Domestic animals 
+[ . . . ] as [ . . . ] headings:  H 360 
+Assigning classification numbers:  H 1332   
+Assigning headings for fictional works:  H 1790   
+Headings previously unprinted in Library of Congress Subject Headings:  H 1332   
+Free-floating subdivisions in H 1110 not used:  H 1110 
+Geographic subdivision allowed at any taxonomic level:  H 1332   
+Individual named animals established as name headings:  H 405, H 1332 
+—Legends and stories not used:  H 1627, H 1720   
+Pattern heading:  H 1147 
+Subdivisions for legends and stories:  H 1720 
+Subject heading proposals:  H 1332 
+Individual animals with proper names:  H 1332 
+Annotated bibliographies 
+Distinguished from collections of abstracts:  H 1205   
+
+
+<<<PAGE 4>>>
+ 
+Index - Page 4 
+Subject Headings Manual 
+August 2023 
+Antarctica 
+As geographic qualifier:  H 810   
+Geographic subdivision:  H 830   
+Antiquities as a subdivision:  H 1225 
+Not used under extinct cities:  H 715   
+Apartment houses 
+Established as subject headings:  H 405   
+Apologetic works as a subdivision:  H 1472   
+Appendices:  H 2145 
+Appropriations and expenditures as a subdivision:  H 1624   
+Aquariums, Public 
+Established as name headings:  H 405   
+Aqueducts 
+Established as subject headings:  H 405   
+Arab as a qualifier:  H 1223 
+Arab countries:  H 1223 
+Arabian as qualifier:  H 1223 
+Arabic as a qualifier:  H 1223 
+Arabic subject headings:  H 181 
+Arboretums 
+Established as name headings:  H 405   
+Archaeological collections as a subdivision:  H 1427   
+Archaeological periods and cultures:  H 1225   
+Archaeological sites 
+Assigning subject headings:  H 1225   
+Contrasted with extinct cities:  H 715   
+Established as subject headings:  H 690   
+Geographic subdivision:  H 830   
+Subject heading proposals:  H 1225   
+Archaeological works 
+Assigning subject headings:  H 1225 
+Specific named peoples:  H 1225   
+Arches 
+Established as subject headings:  H 405   
+Archival resources as a subdivision:  H 1230   
+Archives as a subdivision:  H 1230 
+Manuscript catalogs:  H 1361   
+Area studies:  H 2110   
+Arenas 
+Established as subject headings:  H 405   
+
+
+<<<PAGE 5>>>
+ 
+Subject Headings Manual 
+Index - Page 5 
+ 
+August 2023 
+Aristocratic families 
+Subject heading proposals:  H 1574   
+Armed forces 
+Pattern heading:  H 1159 
+Regimental histories:  H 1995 
+Armenia (Republic):  H 1023 
+Armories 
+Established as name headings:  H 405   
+Arranged as a qualifier of music form/genre headings:  H 250, H 1160, H 1917.5 
+Arsenals 
+Established as name headings:  H 405   
+Art 
+Historical periods:  H 1250 
+Pattern heading:  H 1148 
+Qualifiers for art headings:  H 306, H 1250 
+Single works of art:  H 1250   
+Style:  H 1250 
+Works of art by a single artist:  H 1250
+Works of art by more than one artist:  H 1250 
+Art, Chinese 
+Free-floating subdivisions under:  H 1148 
+Art, Italian 
+Free-floating subdivisions under:  H 1148 
+Art, Japanese 
+Free-floating subdivisions under:  H 1148 
+Art, Korean 
+Free-floating subdivisions under:  H 1148 
+Art collections:  H 1250   
+Art collections as a subdivision:  H 1427   
+Manuscript collections:  H 1855   
+Art movements:  H 1250   
+Art objects 
+Catalogs:  H 1360   
+Art works, Individual 
+Established as name headings: H 405   
+Arthurian romances:  H 1795   
+Articles in the initial position in subject headings 
+Geographic names:  H 690   
+Titles of publications used as subject headings:  H 290 
+Topical headings:  H 290 
+
+
+<<<PAGE 6>>>
+ 
+Index - Page 6 
+Subject Headings Manual 
+August 2023 
+Artificial languages 
+—Textbooks for English, [French, etc.] speakers:  H 2187   
+Artificial satellites 
+Established as name headings:  H 405   
+Artillery as a subdivision:  H 1159   
+Artistic photography:  H 1255 
+Artistic style qualifiers for subject headings:  H 306   
+Artists 
+SEE ALSO Manuscript illuminators 
+Qualifying art headings to show nationality, ethnic, or religious affiliation of artists: 
+H 1250   
+Artists' groups 
+Established as subject headings:  H 405   
+Arts, The 
+SEE ALSO   Art 
+Literatures 
+Performing arts 
+Definition:  H 1250   
+Usage of the heading Arts:  H 1250   
+[ . . . ] as [ . . . ] headings:  H 360 
+Broader terms:  H 370   
+Asian conglomerate corporations 
+Established as subject headings:  H 405   
+Assassinations 
+Formulating headings:  H 1592 
+Dates in subdivisions:  H 1078 
+Assignment of subject headings 
+SEE  Subject heading assignment 
+Asteroids 
+Established as subject headings: H 405   
+Astronomical features 
+Established as subject headings: H 405   
+Asylums (Charitable institutions) 
+Established as name headings:  H 405   
+Athletic contests 
+SEE ALSO   Sports events 
+Established as name headings:  H 405   
+Atlases:  H 1865 
+Atlases, Scientific and technical:  H 1935   
+Attitudes as a subdivision:  H 1955   
+
+
+<<<PAGE 7>>>
+ 
+Subject Headings Manual 
+Index - Page 7 
+ 
+August 2023 
+Audio cassettes, Catalogs of 
+SEE  Juvenile films 
+Juvenile sound recordings 
+Audio-visual aids as a subdivision:  H 1361 
+—Study and teaching—Audio visual aids:  H 2110   
+Audiotape catalogs as a subdivision:  H 1361   
+Audiovisual materials:  H 2230 
+Catalogs:  H 1361  
+Auditing as a subdivision:  H 1624   
+Auditoriums 
+Established as subject headings:  H 405   
+Australia 
+Qualification of geographic headings:  H 810   
+Abbreviations of states:  H 810   
+Author-title subject headings 
+SEE Name-title subject headings 
+Authority records, Descriptive 
+SEE  Name authority records 
+Authority records for subject headings 
+SEE  Subject authority records 
+Authority research for subject heading proposals:  H 202 
+Authorization of headings for geographic subdivision:  H 364 
+Authors, English 
+Free-floating subdivisions under:  H 1155.2 
+Authors, Literary 
+SEE  Authors, English 
+Literary authors, Groups of 
+Literary authors, Individual 
+Autobiography 
+SEE  Biography 
+Automobiles 
+Free-floating subdivisions under:  H 1195 
+Autonomous communities as a subdivision:  H 713 
+Autonomous regions as a subdivision:  H 713 
+Avalanches 
+Geographic subdivision to the city level:  H 1560   
+Awards:  H 1265 
+Established as subject headings:  H 405   
+Azerbaijan:  H 1023 
+ 
+ 
+
+
+<<<PAGE 8>>>
+ 
+Index - Page 8 
+Subject Headings Manual 
+August 2023 
+ 
+- B - 
+ 
+Ballads 
+Language qualifiers for musical works:  H 1916.3, H 1917   
+Music genre vs. folklore genre:  H 1627   
+Banks 
+Established as name headings:  H 405   
+Bars 
+Established as name headings:  H 405   
+Basins, Geological 
+Formulating headings:  H 800   
+Basins, River 
+SEE  Watersheds 
+Bathhouses 
+Established as subject headings:  H 405   
+Baths, Ancient 
+Established as subject headings:  H 405   
+Battles 
+Assignment of subject headings:  H 1285 
+Subject heading proposals:  H 1285  
+Indian battles:  H 1285   
+Bays 
+Free-floating subdivisions under:  H 1145.5 
+Belarus:  H 1023  
+Belles lettres 
+SEE  Literatures 
+specific literatures and genres 
+Beowulf 
+Free-floating subdivisions under:  H 1155.8 
+Berlin:  H 945   
+Broader terms for entities in Berlin:  H 375 
+Geographic area codes:  H 945   
+Geographic subdivision:  H 945   
+BGN decisions 
+Citing in subject authority records:  H 203   
+Obtaining the approved form:  H 690   
+Use in selecting the form of a heading:  H 690   
+BIBCO Standard Record:  H 170 
+
+
+<<<PAGE 9>>>
+ 
+Subject Headings Manual 
+Index - Page 9 
+ 
+August 2023 
+Bible 
+SEE ALSO   Sacred works 
+Assignment of subject headings:  H 1295 
+Commentaries:  H 1435   
+Establishing [ . . . ] in the Bible headings:  H 1295   
+Free-floating subdivisions under:  H 1188 
+Versions or translations:  H 1300 
+Commentaries:  H 1435   
+Biblical characters 
+Established as name headings:  H 405   
+Biblical teaching as a subdivision:  H 1295   
+Bibliographic file maintenance:  H 165 
+Bibliographies, Annotated 
+SEE  Annotated bibliographies 
+Bibliographies about individual persons:  H 1322 
+Bibliographies of bibliographies:  H 1325 
+Bibliographies of periodicals:  H 1927   
+Bibliography—Early as a subdivision:  H 1576   
+Bibliography—Exhibitions as a subdivision:  H 1593   
+SEE ALSO   Bio-bibliography as a subdivision 
+Bibliographies about individual persons:  H 1322 
+Catalogs of library materials:  H 1361 
+Government publications:  H 1643   
+Lists of imprints on a topic:  H 1660   
+Bilateral agreements:  H 2227   
+Bilingual dictionaries:  H 1540 
+Bio-bibliography as a subdivision:  H 1328 
+Bio-bibliography—Dictionaries as a subdivision:  H 1328 
+Biographical fiction:  H 1790   
+Biography:  H 1330 
+SEE ALSO   Partial biography 
+Biographical fiction:  H 1790   
+Coding in field 008 
+ 
+Books:  Appendix F 
+ 
+Continuing resources (Serials):  Appendix G   
+Composers:  H 1438   
+Limitation of four personal names assigned to biographical works:  H 1330   
+Personal narratives:  H 1928   
+
+
+<<<PAGE 10>>>
+ 
+Index - Page 10 
+Subject Headings Manual 
+August 2023 
+Biography as a subdivision 
+SEE ALSO   Bio-bibliography as a subdivision 
+Animals:  H 1720   
+Correspondence:  H 1480   
+[ . . . ], House of—Biography not used:  H 1574   
+Literary authors:  H 1330   
+Non-free-floating usage:  H 1330   
+Places:  H 1845   
+Biography of women:  H 1330   
+SEE ALSO   Wives of famous men 
+Biological names 
+Assignment of classification numbers:  H 1332   
+Capitalization:  Appendix B   
+Headings previously unprinted in Library of Congress Subject Headings:  H 1332   
+Geographic subdivision allowed at any taxonomic level:  H 1332   
+Subject heading proposals:  H 1332 
+Biological stations 
+Established as name headings: H 405   
+Blizzards 
+Geographic subdivision to the city level:  H 1560   
+Blockades 
+Formulating headings:  H 1592 
+Board on Geographic Names' decisions 
+SEE BGN decisions 
+Boards of trade (Chambers of commerce) 
+Established as name headings:  H 405   
+Bodies of water 
+Free-floating subdivisions under:  H 1145.5 
+Regions based on:  H 1145.5   
+Bodies of water, International 
+SEE  International bodies of water 
+Body, Organs of the 
+SEE  Organs of the body 
+Body, Parts of the 
+SEE  Parts of the body 
+Body, Regions of the 
+SEE  Regions of the body 
+Bombardments:  H 1560   
+
+
+<<<PAGE 11>>>
+ 
+Subject Headings Manual 
+Index - Page 11 
+ 
+August 2023 
+Bombings 
+Formulating headings:  H 1592 
+Geographic subdivision to the city level:  H 1560   
+Bonsai collections as a subdivision:  H 1427   
+Book collections, Private 
+SEE  Library as a subdivision 
+Book of Mormon:  H 1300 
+Free-floating subdivisions under:  H 1188 
+Book reviews as a subdivision:  H 2021   
+Books and reading:  H 1333   
+Books and reading as a subdivision:  H 1333   
+Bosnia and Herzegovina:  H 1055 
+Botanical gardens 
+Established as name headings:  H 405   
+Boundaries as a subdivision:  H 1333.5 
+—Treaties not used:  H 1333.5 
+Boundary disputes:  H 1333.5 
+Bridges:  H 1334   
+Broader terms:  H 1334   
+Established as subject headings:  H 405   
+British Virgin Islands 
+Abbreviation as geographic qualifier:  H 810   
+Geographic subdivision practice:  H 807   
+Broadcasting stations 
+Established as name headings:  H 405   
+Broader terms:  H 370, H 375 
+Changing references:  H 195   
+Contrasted with "General see also" references:  H 371   
+"Gaps" in the hierarchy:  H 370   
+Geographic subject headings:  H 690   
+Keying in subject authority records:  H 200 
+Musical compositions:  H 250   
+Musical instruments:  H 1918   
+Subdivisions under headings with nationality, ethnic group, or language qualifiers: 
+H 320   
+[topic]—[place] references:  H 375 
+BTs 
+SEE Broader terms 
+Buddha 
+SEE  Gautama Buddha 
+
+
+<<<PAGE 12>>>
+ 
+Index - Page 12 
+Subject Headings Manual 
+August 2023 
+Buddhism 
+Free-floating subdivisions under:  H 1185 
+Building details:  H 1334   
+Established as subject headings:  H 405   
+Buildings and structures 
+SEE ALSO   specific types of buildings and structures 
+Assignment of subject headings:  H 1334   
+Dwellings with extensive grounds:  H 1572 
+Established as street addresses:  H 1334   
+Established as subject headings:  H 405  
+Geographic qualifiers:  H 1334  
+Buildings in London, England:  H 1334   
+Buildings on islands:  H 1334   
+Occupied by corporate bodies:  H 1334   
+Established as subject headings:  H 405   
+Subject heading proposals:  H 1334 
+Buildings, structures, etc. as a subdivision:  H 832, H 1334, H 1334.5 
+Airports:  H 1211 
+Not used as broader term for structures in cities:  H 375, H 1334   
+Bus terminals 
+Established as subject headings:  H 405   
+Business parks 
+Established as name headings:  H 405   
+ 
+ 
+ 
+- C - 
+ 
+Campaigns as a subdivision:  H 1285   
+Camps 
+SEE ALSO   Concentration camps 
+Established as subject headings:  H 405   
+Canadian provinces:  H 713 
+As geographic subdivisions:  H 830   
+As qualifiers in geographic headings:  H 810   
+Abbreviations of provinces:  H 810   
+Canals 
+Established as subject headings:  H 405, H 690   
+Free-floating subdivisions under:  H 1145.5 
+Cancelling subject headings:  H 193   
+Adding 682 notes to explain cancellations:  H 193.5 
+UF references from cancelled forms:  H 193, H 373   
+
+
+<<<PAGE 13>>>
+ 
+Subject Headings Manual 
+Index - Page 13 
+ 
+August 2023 
+Cancer 
+Free-floating subdivisions under:  H 1150 
+Cantons as a subdivision:  H 713 
+Capitalization:  Appendix B 
+Awards, medals, prizes, etc.:  H 1265   
+Geographic headings:  Appendix B, H 690   
+Capitols 
+Established as subject headings:  H 405   
+Capture, [date] as a subdivision:  H 1560   
+Cardinal numerals 
+SEE  Numerals 
+Caribbean Islands 
+SEE  Islands of the Caribbean 
+Caricatures and cartoons 
+SEE  Comic characters 
+Comic strips 
+Cartoon characters:  H 1430 
+SEE ALSO   Fictitious characters 
+Cartoons:  H 1430 
+Case studies as a subdivision:  H 1350 
+Cases as a subdivision:  H 1350 
+Cases, clinical reports, statistics as a subdivision 
+Discontinued:  H 1350 
+Cassettes, Catalogs of 
+SEE  Audiotape catalogs as a subdivision 
+Film catalogs as a subdivision 
+Castles:  H 1334   
+—Capture, [date]:  H 1560   
+Established as subject headings:  H 405   
+—Siege, [date]:  H 1560   
+Casualties—Statistics as a subdivision:  H 2095   
+Catalogs, Exhibition 
+Artistic photography:  H 1255   
+Catalogs, Library 
+SEE  Audiovisual materials—Catalogs 
+Library catalogs 
+Manuscript collections—Catalogs 
+Microform catalogs 
+Union catalogs 
+[specific form] as a subdivision, e.g. Film catalogs as a subdivision 
+
+
+<<<PAGE 14>>>
+ 
+Index - Page 14 
+Subject Headings Manual 
+August 2023 
+Catalogs, Publishers' 
+SEE  Publishers' catalogs 
+Catalogs, Union 
+SEE  Union catalogs 
+Catalogs and collections as a subdivision 
+Musical instruments:  H 1360, H 1427   
+Natural objects:  H 1360, H 1427   
+Use of geographic subdivision for location of collection:  H 1427   
+Catalogs as a subdivision:  H 1360 
+Archives:  H 1230, H 1361   
+Collections of objects:  H 1360, H 1427, H 1670   
+Library materials:  H 1361 
+Manuscript collections:  H 1361 
+Source materials:  H 2080   
+Catalogs of manuscript collections:  H 1361  
+Categories of headings established as subject or name headings:  H 405 
+Cathedrals 
+Established as name headings:  H 405   
+Catholic Church 
+—Foreign relations:  H 1629   
+Free-floating subdivisions under:  H 1187 
+Cattle 
+Free-floating subdivisions under:  H 1147 
+Cavalry as a subdivision:  H 1159   
+Caves 
+Established as subject headings:  H 690   
+Subject heading proposals:  H 1225   
+Celebrations 
+Established as name headings:  H 405   
+Celestial bodies 
+As geographic subdivisions: H 830   
+Established as subject headings: H 405   
+Subdivisions under places not used:  H 1140   
+Cemeteries:  H 1365 
+Established as name headings:  H 405   
+Cemetery sites, Archaeological 
+Established as subject headings:  H 405   
+Census as a subdivision:  H 1366 
+Central, Northern, Southern, etc., as qualifiers 
+Headings for regions:  H 760  
+
+
+<<<PAGE 15>>>
+ 
+Subject Headings Manual 
+Index - Page 15 
+ 
+August 2023 
+Centuries:  H 620 
+Chambers of commerce 
+Established as name headings:  H 405   
+Changing existing subject headings:  H 193 
+Changing references in subject authority records:  H 195 
+Chapels 
+Established as name headings:  H 405   
+Characters, Special 
+SEE  Special characters 
+Checklist for authority research on subject heading proposals:  H 202   
+Checklist for subject heading proposals:  H 200 
+Chemicals 
+Pattern headings:  H 1149 
+Children's fiction 
+SEE  Juvenile fiction 
+Children's films 
+SEE  Juvenile films 
+Children's literature 
+SEE  Juvenile literature as a subdivision 
+Children's plays 
+SEE  Juvenile drama 
+Children's poetry 
+SEE  Juvenile poetry 
+Children's sound recordings 
+SEE  Juvenile sound recordings 
+China:  H 925 
+Chinese subject headings (Non-Roman): H 182 
+Chorus music headings 
+Construction: H 1917.5 
+Christian denominations 
+Adjectival qualifiers for subject headings:  H 306   
+—Apologetic works:  H 1472   
+Assigning subject headings:  H 1187, H 1998, H 2015 
+—Controversial literature:  H 1472 
+Corporate body headings established as name headings:  H 405   
+—Directories:  H 1558   
+Establishing [topic]—Baptists, [Catholic Church, etc.]:  H 2015   
+Establishing [topic]—Religious aspects—Baptists, [Catholic Church, etc.]:  H 1998   
+Headings naming a denomination's music not assigned: H 1917   
+—Liturgy—Texts:  H 2190   
+Pattern heading:  H 1187 
+
+
+<<<PAGE 16>>>
+ 
+Index - Page 16 
+Subject Headings Manual 
+August 2023 
+Christian life:  H 2015.5   
+Christian sects 
+SEE  Christian denominations 
+Chronological headings:  H 620 
+Chronological subdivisions:  H 620, H 1075   
+Art:  H 1148   
+—Foreign relations:  H 870   
+—History:  H 1647   
+Jazz and popular music: H 1916.5  
+Musical compositions: H 1160   
+Chronology:  H 1367 
+Chronology as a subdivision:  H 1367 
+Churches 
+Established as name headings:  H 405   
+Circuses 
+Established as name headings: H 405   
+Cities 
+SEE ALSO City parks 
+City sections 
+Extinct cities (pre-1500) 
+Natural features in cities 
+names of specific cities 
+—Buildings, structures, etc.:  H 832, H 1334.5 
+Airports:  H 1211 
+Not used as broader term for structures in cities:  H 375, H 1334   
+Cities assigned directly as geographic subdivisions:  H 830   
+"City flip" discontinued:  H 832   
+—Description and travel:   H 1530 
+Disasters, riots, demonstrations, etc.:  H 832, H 1560 
+Event headings as subdivisions under cities:  H 1592   
+Free-floating subdivisions under:  H 1140 
+Geographic qualifiers for entities in cities:  H 810   
+Buildings:  H 1334   
+Geographic subdivision to the city level:  H 832 
+[ . . . ] Metropolitan Area:  H 362, H 790 
+Geographic subdivision:  H 830   
+[ . . . ] Region:  H 362, H 790 
+Geographic subdivision:  H 830   
+[ . . . ] Suburban Area:  H 362, H 790  
+Subdivisions formerly used under cities:  H 832   
+
+
+<<<PAGE 17>>>
+ 
+Subject Headings Manual 
+Index - Page 17 
+ 
+August 2023 
+Citing sources in subject authority records:  H 200, H 203 
+Authority research guidelines:  H 202 
+Citizen participation as a subdivision:  H 1942   
+City districts 
+SEE  City sections 
+"City flip" 
+Discontinued:  H 832, H 1560   
+City halls:  H 1334   
+Established as subject headings:  H 405   
+City parks 
+SEE ALSO   Parks 
+Assignment of subject headings:  H 1925   
+Geographic qualifiers:  H 810   
+City sections:  H 720 
+Established as name headings:  H 405, H 720   
+Free-floating subdivisions under:  H 1140 
+Geographic subdivision:  H 720, H 830   
+City streets 
+Established as subject headings:  H 405, H 690   
+Subject heading proposals:  H 2098 
+Geographic qualifiers:  H 2098   
+Use of vernacular:  H 2098   
+Civic centers 
+Established as subject headings:  H 405   
+Civil trials:  H 2228   
+Civil wars 
+Pattern heading:  H 1200 
+Civilization:  H 1370 
+SEE ALSO   Ethnic groups 
+Religious sects 
+Ancient peoples 
+Influence of one civilization on another:  H 1370   
+Special civilizations of particular places:  H 1370   
+[topic] and civilization:  H 1370   
+Types of civilization:  H 1370   
+Civilization as a subdivision:  H 1370   
+Period subdivisions:  H 1370   
+CJK subject headings:  H 182 
+Clans 
+Established as subject headings:  H 405   
+
+
+<<<PAGE 18>>>
+ 
+Index - Page 18 
+Subject Headings Manual 
+August 2023 
+Clarinet 
+Free-floating subdivisions under:  H 1161 
+Classes of persons 
+SEE ALSO  Ancient peoples 
+Ethnic groups 
+Indians 
+Literary authors, Groups of 
+Nationalities 
+[ . . . ] as [ . . . ] headings:  H 360 
+Biography:  H 1330 
+Immigrants:  H 1581   
+Persons with multifaceted careers:  H 1330   
+—Correspondence:  H 1480   
+—Diaries:  H 1538 
+—Directories:  H 1558   
+Ethnic groups as qualifiers:  H 351 
+Free-floating subdivisions under:  H 1100 
+[ . . . ] in [ . . . ] headings:  H 360 
+Nationalities as qualifiers:  H 350 
+—Portraits:  H 1935   
+—Psychological testing:  H 2186 
+—Religious life:  H 2015.5   
+Classical and ancient works:  H 1412 
+Classification as a subdivision 
+Folklore materials:  H 1627   
+Classification numbers in subject authority records:  H 365 
+Adding numbers to new records:  H 200   
+Biological names:  H 1332   
+Changing numbers in existing records:  H 193, H 196 
+Literature headings:  H 365   
+Musical instrument headings:  H 365, H 1918   
+Club houses 
+Established as subject headings:  H 405   
+Coding headings (May Subd Geog), (Not Subd Geog), etc.:  H 364 
+Coin collections as a subdivision:  H 1427   
+Coliseums 
+Established as subject headings:  H 405   
+Collected works as a subdivision 
+Discontinued:  H 1425 
+
+
+<<<PAGE 19>>>
+ 
+Subject Headings Manual 
+Index - Page 19 
+ 
+August 2023 
+Collections, Public or Private 
+Established as subject headings:  H 405   
+Collections as a subdivision:  H 1425 
+Collections of documents:  H 1643   
+Collections of manuscripts:  H 1855 
+Collections of objects 
+Assignment of subject headings:  H 1427 
+Catalogs:  H 1360, H 1427   
+—Indexes not used:  H 1670   
+Partial title added entries for names of collections:  H 1427   
+Subdivisions for types of collections:  H 1427   
+Collections of treaties:  H 2227   
+Collective farms 
+Established as subject headings:  H 405   
+Collective settlements 
+Established as name headings:  H 405   
+Colleges 
+SEE ALSO   Universities and colleges 
+Established as name headings:  H 405   
+Colonies of individual countries 
+SEE ALSO   Territories and possessions as a subdivision 
+Pattern heading:  H 1149.5 
+Comarcas:  H 760   
+Established as name headings:  H 405   
+Comets 
+Established as subject headings: H 405   
+Comfort stations, Public 
+Established as subject headings: H 405   
+Comic characters:  H 1430 
+SEE ALSO   Fictitious characters 
+Comic strips:  H 1430 
+Established as name headings:  H 405   
+Commas 
+SEE  Punctuation 
+Commentaries on commentaries:  H 1435   
+Commentaries on individual works 
+Assignment of subject headings:  H 1435 
+Anonymous classics:  H 1435   
+Converting form headings to topical equivalents:  H 1435   
+Sacred works:  H 1435   
+ 
+
+
+<<<PAGE 20>>>
+ 
+Index - Page 20 
+Subject Headings Manual 
+August 2023 
+Commentaries on individual works (Continued) 
+Treatment of a work as an edition or as a commentary:  H 1435   
+Treatment of works consisting of both original text and commentary:  H 1435   
+Commercial treaties as a subdivision:  H 2227   
+Commonwealth of Independent States:  H 1023   
+Communes 
+Established as name headings:  H 405   
+Communities, Planned 
+Established as name headings:  H 405   
+Community centers 
+Established as subject headings:  H 405   
+Competitions 
+Established as name headings:  H 405   
+Composers:  H 1438 
+Biography:  H 1438   
+—Criticism and interpretation:  H 1438   
+Facsimiles of manuscripts:  H 1595   
+Free-floating subdivisions under:  H 1110, H 1438   
+Works about specific compositions: H 1438   
+ 
+Works about their music with a specific focus or on a specific form: H 1438 
+Compositions, Musical 
+SEE  Musical compositions   
+ 
+ 
+ 
+ 
+ 
+Compound family names:  H 1631   
+Compound subject headings:  H 310 
+Computer languages 
+SEE ALSO   Machine translating as a subdivision 
+Established as subject headings:  H 405   
+Computer networks 
+Established as subject headings:  H 405   
+Computer programs, Individual:  H 2070   
+Established as name headings:  H 405   
+Computer programs as a subdivision:  H 2070   
+Computer simulation:  H 2040   
+Computer software:  H 2070 
+Individual programs established as name headings:  H 405   
+Computer systems 
+Established as subject headings:  H 405   
+Concentration camps 
+Established as name headings:  H 405   
+Concert halls 
+Established as name headings:  H 405   
+
+
+<<<PAGE 21>>>
+ 
+Subject Headings Manual 
+Index - Page 21 
+ 
+August 2023 
+Concordances as a subdivision:  H 1670   
+Concordats:  H 2227   
+Concrete 
+Free-floating subdivisions under:  H 1158 
+Conferences 
+ 
+Coding in field 008 
+ 
+ 
+Books:  Appendix F   
+ 
+ 
+Continuing resources (Serials):  Appendix G   
+Established as name headings:  H 1592   
+Conglomerate corporations, Asian 
+SEE  Asian conglomerate corporations 
+Congo:  H 928 
+Congolese as an adjectival qualifier:  H 928   
+Congresses:  H 1460 
+Congresses as a subdivision:  H 1205, H 1460 
+Congresses—Attendance as a subdivision:  H 1460   
+CONSER Standard Record:  H 170 
+Conservation districts 
+Established as name headings:  H 405   
+Constitutional amendments:  H 1465 
+Constitutional history:  H 1465   
+Constitutional law:  H 1465   
+Constitutions:  H 1465 
+Corporate bodies:  H 1465   
+Constructing subject headings:  H 180 
+Music: H 250, H 1438, H 1916.3, H 1917.5 
+Musical instruments:  H 1918 
+Construction industry 
+Free-floating subdivisions under:  H 1153 
+Content designation 
+SEE  Tagging subject headings 
+Subfield coding 
+Contests 
+Established as name headings:  H 405, H 1592   
+Continents 
+As geographic subdivisions:  H 830   
+Free-floating subdivisions under:  H 1140 
+Contracts:  H 1468 
+Contracts and specifications as a subdivision 
+Discontinued:  H 1468, H 2083   
+
+
+<<<PAGE 22>>>
+ 
+Index - Page 22 
+Subject Headings Manual 
+August 2023 
+Controversial literature as a subdivision:  H 1472 
+Convention centers 
+Established as subject headings:  H 405   
+Convents 
+Established as name headings:  H 405   
+Conversion tables as a subdivision:  H 2160 
+Cooking:  H 1475 
+Cooking ingredients:  H 1475   
+Establishing headings:  H 1475 
+Cooking styles:  H 1475   
+Copper 
+Free-floating subdivisions under:  H 1149 
+Corn 
+Free-floating subdivisions under:  H 1180 
+Corporate bodies 
+SEE ALSO   specific types of corporate bodies 
+Biography:  H 1330   
+Buildings occupied by corporate bodies:  H 1334   
+Established as subject headings:  H 405   
+Constitutions:  H 1465   
+—Directories:  H 1558   
+Dividing by place:  H 364, H 475 
+Free-floating subdivisions under:  H 1105 
+—History—Chronology:  H 1367   
+Name changes:  H 460 
+Named events focused on a corporate body:  H 1592   
+[ . . . ] Region headings based on corporate bodies:  H 760   
+Tagging in subject authority records:  H 200   
+Corporate bodies, Jurisdictional 
+SEE  Geographic name headings 
+Corporate bodies, Non-jurisdictional 
+SEE  Corporate bodies 
+Correcting subject headings in bibliographic records:  H 165 
+Correctional institutions 
+Established as name headings:  H 405   
+Correspondence as a subdivision:  H 1480 
+Classes of persons:  H 1480   
+Ethnic groups:  H 1480   
+
+
+<<<PAGE 23>>>
+ 
+Subject Headings Manual 
+Index - Page 23 
+ 
+August 2023 
+Correspondence of individual persons:  H 1480 
+—History—Sources not used under headings assigned to correspondence:  H 2080   
+—Sources not used under headings assigned to correspondence:  H 2080   
+Countries, cities, etc. as name headings 
+SEE  Geographic name headings 
+Country clubs 
+Established as name headings:  H 405   
+Counts:  H 1574   
+Coups d'etat 
+Pattern heading:  H 1200 
+Courthouses 
+Established as subject headings:  H 405   
+Crematories 
+Established as name headings:  H 405   
+Criminal trials:  H 2228   
+Criticism and interpretation as a subdivision 
+Composers:  H 1438   
+Croatia:  H 1055 
+Crops 
+Pattern heading:  H 1180 
+Cross-cultural studies as a subdivision:  H 1510 
+Cross references 
+SEE  Broader terms 
+Narrower terms 
+Related terms 
+"Used for" references 
+Cruises 
+Dates in headings for specific cruises:  H 1078 
+Formulating headings:  H 1592 
+Cuisines, National:  H 1475   
+Cultural revolutions 
+Formulating headings:  H 1592 
+Culture 
+Definition and comparison with Civilization:  H 1370   
+Cultures 
+SEE  Archaeological periods and culture 
+Civilization 
+Customhouses 
+Established as subject headings:  H 405   
+
+
+<<<PAGE 24>>>
+ 
+Index - Page 24 
+Subject Headings Manual 
+August 2023 
+Cyclones 
+Geographic subdivision to the city level:  H 1560   
+ 
+ 
+ 
+- D - 
+ 
+Dams 
+Established as subject headings:  H 690   
+Dance halls 
+Established as name headings:  H 405   
+Databases:  H 1520 
+Serially issued databases:  H 1580.5   
+Databases as a subdivision:  H 1520, H 1580.5 
+Dates 
+Abbreviations:  Appendix A   
+Punctuation of open dates:  Appendix D   
+Dates in subdivisions 
+SEE ALSO   Early works to 1800 as a subdivision 
+"Period subdivisions" as a subtopic under specific topics 
+Abbreviations:  Appendix A   
+Headings for specific events:  H 1078 
+Days, Special:  H 1592 
+Decades, Special:  H 1592 
+Decorations:  H 1265 
+Deities 
+SEE ALSO   Greek and Roman gods 
+Assignment of subject headings:  H 1635, H 1795  
+Free-floating subdivisions in H 1110 not used: H 1110, H 1635 
+Groups of deities established as subject headings:  H 405, H 1635 
+Individual deities established as name headings:  H 405, H 1635 
+Deleting subject authority records:  H 193   
+Adding 682 notes to explain deletions:  H 193.5 
+UF references from deleted forms:  H 193, H 373   
+Deltas 
+Formulating headings:  H 800   
+Demonstrations 
+Formulating headings:  H 1592 
+Geographic subdivision to the city level:  H 1560   
+Denominations, Christian 
+SEE  Christian denominations 
+
+
+<<<PAGE 25>>>
+ 
+Subject Headings Manual 
+Index - Page 25 
+ 
+August 2023 
+Denominations, Religious:  H 1998, H 2015   
+SEE ALSO   Christian denominations 
+Religious sects 
+Established as name headings:  H 405   
+Departments as a subdivision:  H 713 
+Description and travel as a subdivision:  H 1530 
+Descriptive authority records 
+SEE  Name authority records 
+Descriptive name headings 
+SEE  Name authority records 
+Name headings 
+Deserts 
+Established as subject headings:  H 690   
+Design and construction as a subdivision:  H 1532 
+Design as a subdivision:  H 1532 
+Designs and plans as a subdivision:  H 1532 
+Destruction, [date] as a subdivision:  H 1560   
+Details, Building:  H 1334   
+Established as subject headings:  H 405   
+Diacritics:  Appendix C 
+Diaries:  H 1538 
+As a literary genre:  H 1538   
+—History—Sources not used under headings assigned to diaries:  H 2080   
+—Sources not used under headings assigned to diaries:  H 2080   
+Diaries as a subdivision:  H 1538 
+Dictionaries:  H 1540 
+Dictionaries as a subdivision:  H 1540, H 2184   
+Acronyms—Dictionaries not used:  H 1206.5 
+—Terminology—Dictionaries not used:  H 2184   
+—Terms and phrases—Dictionaries not used:  H 2184   
+Dictionaries, Juvenile as a subdivision:  H 1540   
+Dictionaries, Language 
+SEE  Language dictionaries 
+Dictionaries, Picture 
+SEE  Picture dictionaries 
+Dictionaries, Subject 
+SEE  Subject dictionaries 
+Diet therapy—Recipes as a subdivision:  H 1475   
+Digests as a subdivision:  H 1550 
+Digital computer simulation:  H 2040   
+Diplomatic relations 
+SEE  Foreign relations as a subdivision 
+
+
+<<<PAGE 26>>>
+ 
+Index - Page 26 
+Subject Headings Manual 
+August 2023 
+Direct subdivision:  H 830 
+Direct word order 
+Topical subject headings:  H 306 
+Directional qualifiers (Northern, Southern, Central, etc.) 
+Headings for regions:  H 760 
+Directories:  H 1558 
+Directories—Bibliography:  H 1558   
+Directories, Telephone 
+SEE  Telephone directories as a subdivision 
+Directories as a subdivision:  H 1558 
+Archival resources:  H 1230   
+—Periodicals not used as further subdivision:  H 1558, H 1927   
+Disasters 
+SEE ALSO   specific types of disasters 
+Formulating headings:  H 1592 
+Geographic subdivision to the city level:  H 1560 
+Discography as a subdivision:  H 1361   
+Discontinued subdivisions 
+—Addresses, essays, lectures:  H 1210 
+—Cases, clinical reports, statistics:  H 1350 
+—Collected works:  H 1425 
+—Contracts and specifications:  H 2083 
+—Emigration and immigration—Biography:  H 1581   
+—Exploring expeditions:  H 1564   
+—Foreign population:  H 1581   
+—Government publications:  H 1643   
+—Influence of [ . . . ]:  H 1675   
+—Influence on [ . . . ]:  H 1675   
+—Legends and stories:  H 1720   
+—Socioeconomic status:  H 1578, H 2055   
+—Stories:  H 1790   
+—Suburbs and environs:  H 790   
+—Theater disaster, [date]:  H 1560   
+—Yearbooks:  H 2400 
+Discoveries in geography:  H 1564   
+Discovery and exploration as a subdivision:  H 1564 
+—History not used:  H 1564   
+Diseases 
+Pattern heading:  H 1150 
+Dispensaries 
+Established as name headings:  H 405   
+
+
+<<<PAGE 27>>>
+ 
+Subject Headings Manual 
+Index - Page 27 
+ 
+August 2023 
+Dissertations:  H 1570 
+Dividing corporate name headings geographically:  H 364, H 475 
+Division of the world of named entities:  H 405 
+Docks 
+Established as subject headings:  H 405   
+Documents, Collections of:  H 1643   
+Domes as building details:  H 1334 
+Domestic animals 
+SEE ALSO   Animals 
+Biological names:  H 1332   
+Pattern heading:  H 1147 
+Domestic plants 
+SEE ALSO   Plants 
+Biological names:  H 1332   
+Dividing by place:  H 1332   
+Doors as building details:  H 1334 
+Established as subject headings:  H 405   
+Doubling on two or more musical instruments:  H 1917.5   
+Drama:  H 1780 
+Period subdivisions:  H 1156   
+Drama, English 
+SEE  English drama 
+Drama, Folk 
+SEE  Folk drama 
+Drama, Juvenile 
+SEE  Juvenile drama 
+Drama as a subdivision:  H 1780 
+Fiction films:  H 2230   
+Fictitious characters:  H 1610   
+Musical works: H 1916.3, H 2075   
+Place names:  H 910   
+Dramatists 
+SEE  Literary authors, Groups of 
+Literary authors, Individual 
+Drugs 
+Pattern heading:  H 1149 
+—Testing:  H 2186   
+Duets 
+Music form/genre headings: H 1917.5 
+Subject heading proposals: H 250, H 1917.5  
+
+
+<<<PAGE 28>>>
+ 
+Index - Page 28 
+Subject Headings Manual 
+August 2023 
+Dukes:  H 1574   
+Dwellings 
+SEE ALSO   Buildings and structures 
+Broader terms:  H 1334   
+Dwellings with extensive grounds:  H 1572 
+Established as subject headings:  H 405   
+Dynasties:  H 1574 
+Free-floating subdivisions under:  H 1120 
+Subject heading proposals:  H 1574   
+ 
+ 
+ 
+- E - 
+ 
+Earls:  H 1574   
+Early cities 
+SEE  Extinct cities (pre-1500) 
+Early printed books:  H 1576   
+Early works:  H 1576 
+Early works to 1800 as a subdivision:  H 1576 
+Commentaries:  H 1435   
+Earthquakes 
+Establishing individual earthquakes:  H 1560   
+Geographic subdivision to the city level:  H 1560   
+East Germany 
+SEE  Germany 
+Ecclesiastical entities that are also names of places 
+Established as name headings:  H 405   
+ 
+Not treated as geographic headings: H 830   
+Not used as geographic subdivisions:  H 830   
+Ecological stations 
+Established as name headings:  H 405   
+Economic conditions as a subdivision:  H 1578 
+Period subdivisions:  H 1578   
+Editions:  H 175 
+Deleting —Addresses, essays, lectures from earlier editions of a work:  H 1210 
+Deleting —Collected works from earlier editions of a work:  H 1425 
+Treatment of a work containing commentary as an edition or commentary: 
+H 1435   
+Editions of visual materials:  H 2230   
+Education as a subdivision:  H 1579 
+Contrasted with —Training of:  H 2217   
+
+
+<<<PAGE 29>>>
+ 
+Subject Headings Manual 
+Index - Page 29 
+ 
+August 2023 
+Educational evaluation:  H 1591   
+Educational institutions, Individual 
+Established as name headings:  H 405   
+Pattern heading:  H 1151 
+Yearbooks:  H 2400 
+Educational institutions, Types of 
+Pattern heading:  H 1151.5 
+[ . . . ], Effect of [ . . . ] on 
+Discontinued:  H 1580   
+Effect of [ . . . ] on as a subdivision 
+Free-floating when established under pattern headings:  H 1580   
+Subject heading proposals:  H 1580   
+Effect on [ . . . ] as a subdivision 
+Not used:  H 1580   
+Electronic discussion groups 
+ 
+Established as a name heading:  H 405   
+Electronic serials:  H 1580.5 
+Embassies 
+Established as name headings:  H 405   
+Emigrants 
+SEE  Immigrants 
+Emigration and immigration:  H 1581 
+Emigration and immigration as a subdivision:  H 1581 
+Emigration and immigration—Biography as a subdivision 
+Discontinued:  H 1581   
+Emigration and immigration—Government policy as a subdivision:  H 1581   
+Emigration policy 
+SEE  Emigration and immigration—Government policy  as a subdivision 
+Empires 
+Assigned directly as geographic subdivisions:  H 830   
+Enactments, Legislative:  H 1715 
+England 
+Contrasted with Great Britain:  H 955   
+Geographic subdivision:  H 955 
+Law cataloging:  H 955 
+Qualification of geographic headings 
+Use of counties to resolve conflicts:  H 810 
+English drama 
+Period subdivisions:  H 1156   
+
+
+<<<PAGE 30>>>
+ 
+Index - Page 30 
+Subject Headings Manual 
+August 2023 
+English language 
+SEE ALSO   Translating as a subdivision 
+—Dictionaries:  H 1540   
+Free-floating subdivisions under:  H 1154 
+—Glossaries, vocabularies, etc.:  H 1540   
+Period subdivisions:  H 1154   
+—Terms and phrases:  H 1540, H 2184   
+—Textbooks for foreign speakers:  H 2187   
+—Texts:  H 2190   
+English literature 
+Free-floating subdivisions under:  H 1156 
+Period subdivisions:  H 1156   
+Epidemics 
+Formulating headings:  H 1592 
+Eruptions of volcanoes 
+Formulating headings:  H 1592   
+Establishing subject headings 
+SEE  Subject heading proposals 
+"Subject heading proposals" as a subtopic under specific topics 
+Estates 
+Established as subject headings:  H 405   
+Estonia:  H 1023 
+Estuaries 
+Formulating headings:  H 800, H 1145.5   
+Free-floating subdivisions under:  H 1145.5 
+Ethics, Professional 
+SEE  Professional ethics 
+Ethnic groups 
+SEE ALSO   Ancient peoples 
+Clans 
+Ethnic groups in the United States 
+Indians 
+Tribes (Ethnic groups) 
+Biography:  H 1330   
+—Civilization not used:  H 1370   
+—Correspondence:  H 1480   
+—Diaries:  H 1538   
+—Directories:  H 1558   
+Folklore:  H 1627   
+
+
+<<<PAGE 31>>>
+ 
+Subject Headings Manual 
+Index - Page 31 
+ 
+August 2023 
+Ethnic groups (Continued) 
+Free-floating subdivisions under:  H 1103 
+Free-floating subdivisions under headings for classes of persons with ethnic qualifiers: 
+H 1100 
+—Government relations:  H 1942   
+—History—Chronology:  H 1367 
+Immigrants:  H 1581 
+—Languages—Texts:  H 2190   
+Music: H 1916.3, H 1917 
+Philosophy:  H 1929 
+—Politics and government:  H 1942   
+—Psychological testing:  H 2186 
+Qualifiers for subject headings:  H 320, H 351 
+System of law:  H 1718 
+—Treaties:  H 2227   
+Ethnic groups in the United States:  H 1919.5   
+SEE ALSO   Ethnic groups 
+Newspapers:  H 1920 
+Systems of law:  H 1718   
+Ethnic qualifiers for subject headings 
+SEE  Subject heading qualifiers—Ethnic qualifiers 
+Ethnic studies:  H 2110   
+Ethnological collections as a subdivision:  H 1427   
+Ethnomusicological collections as a subdivision:  H 1427   
+Evaluation:  H 1591 
+Evaluation as a subdivision:  H 1591 
+ 
+SEE ALSO   specific types of events 
+Capitalization:  Appendix B  
+Biography:  H 1330   
+Dates in subdivisions for specific events:  H 1078 
+Drama:  H 1780   
+Established as name or subject headings:  H 405, H 1592 
+Established as subdivisions 
+Subfield coding:  H 1592   
+Fiction:  H 1790   
+Formulating subject headings as subdivisions:  H 1592  
+Formulating subject headings in phrase form:  H 1592  
+—Personal narratives:  H 1928   
+Poetry:  H 1800   
+
+
+<<<PAGE 32>>>
+ 
+Index - Page 32 
+Subject Headings Manual 
+August 2023 
+Evaluation as a subdivision (Continued)  
+—Songs and music: H 2075 
+Subject headings to bring out subordinate jurisdictions when event headings are 
+formulated as subdivisions under larger jurisdictions:  H 1592  
+Examinations as a subdivision:  H 2186   
+Excavations (Archaeology):  H 1225   
+Excerpts, Arranged as a subdivision: H 1160, H 1917.5 
+Exhibition buildings 
+Broader terms:  H 1334   
+Established as subject headings:  H 405   
+Geographic qualifier:  H 1334   
+Exhibition catalogs 
+Artistic photography:  H 1255   
+Exhibitions:  H 1593 
+Established as name headings:  H 405, H 1592   
+Individual named exhibitions:  H 1593   
+Exhibitions as a subdivision:  H 1593 
+—Catalogs not used:  H 1593   
+Expeditions, Military 
+Established as name or subject headings:  H 405 
+Expeditions, Scientific 
+Established as name headings:  H 405   
+Experiment stations 
+Established as name headings:  H 405   
+Exploration, History of 
+SEE  Discoveries (in geography) 
+Discovery and exploration 
+Exploration, Space:  H 1564   
+Exploring expeditions as a subdivision 
+Discontinued:  H 1564   
+Explosions 
+Formulating headings:  H 1592 
+Geographic subdivision to the city level:  H 1560   
+Expositions 
+Established as name headings:  H 405   
+Express highway interchanges:  H 2098   
+Extensive grounds, Dwellings with:  H 1572 
+Extinct cities (pre-1500) 
+SEE ALSO   Cities 
+Contrasted with archaeological sites:  H 715   
+—Description and travel not used:  H 1530   
+
+
+<<<PAGE 33>>>
+ 
+Subject Headings Manual 
+Index - Page 33 
+ 
+August 2023 
+Extinct cities (pre-1500) (Continued) 
+Established as subject headings:  H 405, H 690, H 715   
+Free-floating subdivisions under:  H 1140 
+Geographic subdivision:  H 830   
+Regions surrounding:  H 715, H 760   
+Subject heading proposals:  H 715 
+(Extinct city) as a qualifier:  H 715 
+ 
+ 
+ 
+- F - 
+ 
+Fables:  H 1627   
+Facsimiles as a subdivision:  H 1595, H 1855 
+Facsimiles of manuscripts:  H 1595, H 1855 
+Facsimiles of maps:  H 1595   
+Factories 
+Established as name headings:  H 405   
+Fairgrounds 
+Established as subject headings:  H 405   
+Fairs 
+Established as name headings:  H 405, H 1592   
+Fairy tales:  H 1627   
+Families 
+SEE  Family names 
+Families, Royal 
+SEE  Royal houses 
+Family as a subdivision:  H 1631   
+Family history 
+SEE  Genealogy 
+Family names:  H 1631 
+Capitalization:  Appendix B  
+—Directories:  H 1558   
+Established as subject headings:  H 405   
+Free-floating subdivisions under:  H 1120 
+—Museums, relics, etc.:  H 1916   
+Subject heading proposals:  H 200, H 1631  
+Aristocratic or noble families:  H 1574   
+Famines 
+Formulating headings:  H 1592 
+Geographic subdivision to the city level:  H 1560   
+
+
+<<<PAGE 34>>>
+ 
+Index - Page 34 
+Subject Headings Manual 
+August 2023 
+Farms 
+Established as subject headings:  H 405, H 690   
+Feasts 
+Established as subject headings:  H 405   
+Feature films:  H 1913   
+Federal Republic of Germany 
+SEE  Germany 
+Ferry buildings 
+Established as subject headings:  H 405   
+Festivals 
+Established as name headings:  H 405, H 1592   
+Festivals, Folk 
+Established as name headings:  H 405, H 1592   
+Festschriften:  H 1600 
+Fiction:  H 1790 
+SEE ALSO  Biographical fiction 
+Historical fiction 
+Juvenile fiction 
+Fiction as a subdivision:  H 1790 
+Animals:  H 1720   
+Place names:  H 910   
+Fictitious characters:  H 1610   
+Fiction films:  H 1913   
+Fiction radio programs: H 1969.5   
+Fiction television programs:  H 1913   
+Fictitious characters:  H 1610 
+SEE ALSO   Comic characters 
+Legendary characters 
+Collections of fiction featuring a character:  H 1790   
+Criticism of fiction about a character:  H 1790   
+Free-floating subdivisions in H 1110 not used:  H 1110, H 1610 
+Groups of characters established as subject headings:  H 200, H 405, H 1610 
+Individual characters established as name headings: H 405, H 1610 
+Individual works of fiction:  H 1610   
+File maintenance, Bibliographic:  H 165 
+Film catalogs as a subdivision:  H 1361   
+Contrasted with —Indexes:  H 1670   
+Films:  H 1913, H 2230 
+SEE ALSO   Juvenile films 
+Finance as a subdivision:  H 1624   
+Finance, Personal as a subdivision:  H 1624   
+
+
+<<<PAGE 35>>>
+ 
+Subject Headings Manual 
+Index - Page 35 
+ 
+August 2023 
+Fine art 
+SEE  Art 
+Fire stations 
+Established as subject headings:  H 405   
+Fires 
+Formulating headings:  H 1592 
+Geographic subdivision to the city level:  H 1560   
+First order political divisions of countries 
+SEE  Geographic name headings—First order political divisions of countries 
+Fish hatcheries 
+Established as name headings:  H 405   
+Fishes 
+Free-floating subdivisions under:  H 1147 
+Fleets 
+Use of —Regimental histories:  H 1995 
+Floods 
+Geographic subdivision to the city level:  H 1560   
+Folk drama:  H 1627   
+Folk festivals and celebrations 
+Established as name headings:  H 405   
+Folk literature: H 1627  
+Translations:  H 1627   
+Folk music:  H 1917 
+Music genre vs. folklore genre:  H 1627   
+Folk poetry 
+Ethnic qualifiers not used:  H 1627   
+Literary genre vs. folklore genre:  H 1627   
+Folk songs 
+Language of text: H 1916.3, H 1917   
+Music genre vs. folklore genre:  H 1627   
+Folklore:  H 1627 
+Collections of folklore texts:  H 1627   
+—History and criticism not used:  H 1627   
+Works about folklore:  H 1627   
+Folklore as a subdivision:  H 1627, H 1720   
+Not used under inherently folkloric topics:  H 1627   
+Foot 
+Free-floating subdivisions under:  H 1164 
+Forecasting:  H 1628 
+Subdivision preferred over phrase headings:  H 1628   
+
+
+<<<PAGE 36>>>
+ 
+Index - Page 36 
+Subject Headings Manual 
+August 2023 
+Forecasting as a subdivision:  H 1628 
+Forecasts as a subdivision 
+Usage under centuries:  H 1628   
+Foreign countries as a subdivision 
+Nationalities:  H 1919.5 
+[ . . . ] in foreign countries discontinued:  H 1919.5   
+Foreign influences as a subdivision:  H 1675   
+Foreign language teaching films:  H 2230   
+Foreign languages, Subject headings for 
+SEE ALSO   Artificial languages 
+French language 
+Romance languages 
+Translating as a subdivision 
+—Acronyms:  H 1206.5 
+—Dictionaries:  H 1540   
+—Glossaries, vocabularies, etc.:  H 1540   
+Pattern headings:  H 1154 
+Qualifying subject headings by languages:  H 320 
+UF references:  H 373   
+—Readers:  H 1975   
+—Study and teaching:  H 2110   
+—Terms and phrases:  H 1540   
+—Textbooks for foreign speakers:  H 2187   
+—Texts:  H 2190   
+Foreign languages, Subject headings in 
+Articles in the initial position in subject headings:  H 290 
+Capitalization:  Appendix B, H 690   
+Diacritics and special characters:  Appendix C 
+Establishing subject headings in foreign languages 
+SEE ALSO   "Subject heading proposals—Use of vernacular" as a subtopic under 
+specific topics 
+Buildings and structures:  H 1334   
+Geographic headings:  H 690  
+Transliteration:  H 690   
+Musical instruments:  H 1918  
+Topical headings:  H 315 
+Parallel Arabic/Persian non-Roman subject headings:  H 181 
+Parallel CJK non-Roman subject headings:  H 182 
+UF references in foreign languages:  H 373   
+
+
+<<<PAGE 37>>>
+ 
+Subject Headings Manual 
+Index - Page 37 
+ 
+August 2023 
+Foreign population as a subdivision 
+Discontinued:  H 1581   
+Foreign public opinion as a subdivision:  H 1955   
+Foreign relations as a subdivision:  H 1629 
+ 
+Free-floating chronological subdivisions not used:  H 1629 
+—History—[period subdivision] not used:  H 1629   
+Use of chronological subdivisions:  H 870   
+Foreign relations—[dates]:  H 870   
+Foreign relations—Treaties as a subdivision:  H 2227   
+Foreign terms 
+SEE  Foreign languages, Subject headings in 
+Forest districts 
+Established as name headings: H 405   
+Forest reserves 
+SEE  Reserves 
+Forests 
+Established as subject headings:  H 405, H 690   
+Forests (Administrative agencies) 
+Established as name headings:  H 405   
+Forks of rivers:  H 800  
+Form/genre terms 
+Moving image works:  H 1913 
+Subject heading proposals:  H 1913   
+Music: H 250, H 1916.3, H 1916.5, H 1917, H 1917.5 
+Radio programs: H 1969.5 
+Subject heading proposals: H 1969.5   
+Form subdivisions:  H 180, H 1075   
+Commentaries:  H 1435   
+Literature about music:  H 1160, H 1916.3  
+Music of ethnic, national, and religious groups:  H 1916.3, H 1917 
+Musical compositions:  H 1160, H 2075 
+Musical presentation or format: H 250, H 1160  
+Use of subfield code "v":  H 1075   
+Former Soviet republics:  H 1023 
+Fortresses (Structures):  H 1334   
+Established as subject headings:  H 405   
+Forts 
+SEE ALSO   Buildings and structures 
+Military installations, Active 
+Military installations, Inactive 
+—Capture, [date]:  H 1560   
+—Siege, [date]:  H 1560   
+
+
+<<<PAGE 38>>>
+ 
+Index - Page 38 
+Subject Headings Manual 
+August 2023 
+Fossils:  H 1332   
+Inverted headings:  H 306   
+Founders of religions 
+Biography:  H 1330   
+Established subdivisions vs. free-floating subdivisions:  H 1110   
+Free-floating subdivisions under:  H 1110 
+Subdivisions for events focused on:  H 1592   
+Fountains 
+  
+Established as subject headings:  H 405   
+Free-floating subdivisions:  H 1095 
+SEE ALSO   Free-floating terms phrases 
+Subdivisions 
+Broader terms:  H 370   
+"General see also" references:  H 371, H 1146   
+"General see" references:  H 374   
+Subdividing by place:  H 860 
+Used under: 
+Bodies of water, etc.:  H 1145.5 
+Classes of persons:  H 1100 
+Corporate bodies:  H 1105 
+Ethnic groups:  H 1103 
+Family names:  H 1120 
+Musical compositions:  H 1160 
+Musical instruments:  H 1161 
+Names of literary authors:  H 1110 
+Names of persons:  H 1110 
+Names of places:  H 1140 
+Nationalities:  H 1103 
+Pattern headings:  H 1146-H 1200 
+Rivers:  H 1145.5 
+Free-floating terms and phrases:  H 362, H 1140   
+[ . . . ] Metropolitan Area:  H 362, H 790, H 1140   
+Geographic subdivision:  H 830   
+[ . . . ] Region 
+City regions:  H 362, H 790, H 1140   
+Extinct cities:  H 715, H 760   
+Geographic regions:  H 362, H 760 
+Geographic subdivision:  H 830   
+Regions based on rivers:  H 362, H 800, H 1145.5   
+[ . . . ] Suburban Area:  H 362, H 790, H 1140   
+
+
+<<<PAGE 39>>>
+ 
+Subject Headings Manual 
+Index - Page 39 
+ 
+August 2023 
+French language 
+SEE ALSO   Foreign languages, Subject headings for 
+Free-floating subdivisions under:  H 1154 
+Funds 
+Established as name headings: H 405   
+Funeral homes 
+Established as name headings:  H 405   
+ 
+ 
+- G - 
+ 
+GACs 
+SEE  Geographic area codes 
+Galaxies 
+Established as subject headings: H 405   
+Galleries 
+Established as name headings:  H 405   
+Game preserves 
+SEE  Reserves 
+Games (Events) 
+Established as name headings:  H 405, H 1592   
+Gangs 
+Established as name headings:  H 405   
+"Gaps" in hierarchical reference structure:  H 370   
+Gardens 
+SEE ALSO   Botanical gardens 
+Zoological gardens 
+Established as subject headings:  H 405, H 690   
+Geographic subdivision:  H 830   
+Gates:  H 1334   
+Established as subject headings:  H 405   
+Gautama Buddha 
+Established subdivisions vs. free-floating subdivisions:  H 1110   
+Gaza Strip:  H 980 
+Gazetteers:  H 1630 
+Genealogy:  H 1631 
+Census publications: H 1366   
+Source materials: H 1845 
+Headings requiring [place]—Genealogy as an additional heading: H 1845   
+Subdivisions under place names used for genealogical source materials: 
+H 1845   
+Genealogy as a subdivision: H 1631, H 1845   
+Census publications:  H 1366   
+Genealogy—Handbooks, manuals, etc. as a subdivision:  H 1631   
+
+
+<<<PAGE 40>>>
+ 
+Index - Page 40 
+Subject Headings Manual 
+August 2023 
+Genealogy—Methodology as a subdivision:  H 1631   
+General see also references:  H 371 
+Changing an existing subject authority record:  H 195   
+Contrasted with broader terms:  H 371   
+Keying in subject authority records:  H 200   
+Music form/genre headings: H 1917.5  
+Musical instruments:  H 1918   
+Pattern headings as examples in general see also references:  H 371,  
+H 1146  
+When to establish:  H 370, H 371   
+General see references:  H 200, H 374 
+ 
+Non-musical objects used as musical instruments:  H 1918 
+ 
+Template for proposing:  H 200   
+Genre/form terms 
+Moving image works:  H 1913 
+Proposals:  H 1913   
+Radio programs: H 1969.5 
+Proposals: H 1969.5   
+Music: H 250, H 1916.3, H 1916.5, H 1917, H 1917.5 
+Template for proposing:  H 200   
+Genres, Literary 
+SEE ALSO   specific literary genres 
+Period subdivisions used under:  H 1156   
+Geographic area codes:  Appendix E 
+Bosnia and Hercegovina:  H 1055   
+Congo:  H 928   
+Core level records:  H 170   
+Croatia:  H 1055   
+Families:  H 1631   
+Former Soviet republics:  H 1023   
+Former Yugoslav republics:  H 1055   
+Gaza Strip:  H 980   
+Genealogical works:  H 1631  
+Golan Heights:  H 980   
+Hong Kong:  H 978   
+Jazz:  H 1916.5   
+
+
+<<<PAGE 41>>>
+ 
+Subject Headings Manual 
+Index - Page 41 
+ 
+August 2023 
+Geographic area codes (Continued) 
+Jerusalem:  H 980   
+Kosovo (Republic):  H 1055   
+Macedonia (Republic):  H 1055   
+Microforms:  H 1893 
+Montenegro:  H 1055   
+Non-music sound recordings:  H 2230   
+Palestine:  H 980   
+Popular music:  H 1916.5   
+Serbia:  H 1055   
+Serbia and Montenegro: H 1055   
+Slovenia:  H 1055   
+Soviet Union:  H 1023   
+Vatican City:  H 1045   
+Visual materials:  H 2230   
+West Bank:  H 980   
+Yugoslavia:  H 1055   
+Geographic headings, Jurisdictional 
+SEE  Geographic name headings 
+Geographic headings, Non-jurisdictional 
+SEE  Geographic subject headings 
+Geographic name headings 
+SEE ALSO   Geographic subject headings 
+Place names 
+First order political divisions of countries:  H 713 
+Free-floating subdivisions under:  H 1140 
+Geographic subdivision information in name authority records: H 835 
+Linear name changes in political jurisdictions 
+Recording subject usage information in name authority records:  H 708 
+Use of latest name:  H 708, H 830   
+Mergers of two or more jurisdictions into one:  H 710 
+Proposing 781 fields for name authority records:  H 835   
+Splits of jurisdictions into multiple entities:  H 710 
+Used as topical subdivisions 
+Subfield coding:  H 830   
+Geographic qualifiers:  H 810 
+Abbreviations:  H 810  
+Buildings and structures:  H 1334 
+CJK records:  H 182   
+
+
+<<<PAGE 42>>>
+ 
+Index - Page 42 
+Subject Headings Manual 
+August 2023 
+Geographic qualifiers (Continued) 
+Deletion of generic terms in headings for regions:  H 760   
+Deletion of qualifiers in geographic subdivision:  H 830 
+Entities in cities:  H 810   
+Extinct cities:  H 715   
+Islands:  H 807  
+Region headings:  H 760   
+Deleting generic terms from qualifiers:  H 760   
+Rivers:  H 800  
+Geographic regions 
+SEE  Regions, Geographic 
+Geographic subdivision information 
+In name authority records:  H 835 
+In subject authority records:  H 364, H 836 
+Geographic subdivisions:  H 830, H 1075   
+Arabic/Persian records:  H 181   
+Authorizing headings to be divided geographically:  H 364 
+CJK records:  H 182   
+Corporate bodies:  H 364, H 475 
+Proposals to subdivide by place:  H 475 
+Dividing topical subdivisions by place:  H 860 
+Exceptions:  H 830 
+History of geographic subdivision practice:  H 830   
+Interposing place between subject headings and topical subdivisions:  H 870 
+Jazz and popular music headings:  H 1916.5   
+Limit of two levels of geographic subdivision:  H 830   
+Music, General: H 1916.3 
+Music of ethnic, national, and religious groups: H 1917 
+Musical compositions:  H 250, H 1160, H 1916.5, H 1917  
+Musical instruments:  H 1917, H 1918   
+Brands and models:  H 1918   
+Parks as geographic subdivisions:  H 1925   
+Subdivisions 
+Further dividing by place:  H 860 
+Subfield coding:  H 830   
+Subject headings 
+Authorizing headings to be divided geographically:  H 364 
+Dividing to the city level:  H 832, H 1560 
+Proposals to divide existing headings:  H 193, H 194 
+Subfield coding:  H 830   
+
+
+<<<PAGE 43>>>
+ 
+Subject Headings Manual 
+Index - Page 43 
+ 
+August 2023 
+Geographic subdivisions (Continued) 
+Subject usage information 
+Name authority records:  H 835 
+Subject authority records:  H 836 
+Geographic subject headings 
+SEE ALSO   Geographic name headings 
+Geographic qualifiers 
+Place names 
+types of geographic features 
+Abbreviations:  H 690   
+Articles in the initial position in subject headings:  H 690   
+Capitalization:  Appendix B, H 690   
+Free-floating subdivisions 
+Used under 
+Bodies of water, streams, etc:  H 1145.5 
+Names of places:  H 1140 
+Free-floating terms and phrases:  H 362, H 1140   
+[ . . . ] Metropolitan Area:  H 362, H 790, H 1140   
+Geographic subdivision:  H 830   
+[ . . . ] Region 
+City regions:  H 362, H 790, H 1140   
+Extinct cities:  H 715, H 760   
+Geographic regions:  H 362, H 760 
+Geographic subdivision:  H 830   
+Regions based on rivers:  H 362, H 800, H 1145.5   
+[ . . . ] Suburban Area:  H 362, H 790, H 1140   
+Subject heading proposals:  H 690 
+Authority research:  H 690   
+BGN decisions:  H 690   
+Broader terms:  H 690   
+English vs. vernacular forms:  H 690 
+Template:  H 200   
+UF references:  H 690   
+Transliteration:  H 690   
+Used as topical subdivisions 
+Subfield coding:  H 830   
+Geographical names [i.e. Names, Geographical as a subject heading] 
+SEE  Names, Geographical 
+Geography as a subdivision:  H 1530   
+
+
+<<<PAGE 44>>>
+ 
+Index - Page 44 
+Subject Headings Manual 
+August 2023 
+Geologic basins 
+Established as subject headings:  H 690   
+Georgia (Republic):  H 1023 
+German Democratic Republic 
+SEE  Germany 
+German Federal Republic 
+SEE  Germany 
+Germany:  H 945 
+Glossaries, vocabularies, etc. as a subdivision:  H 1540, H 2184   
+Gods 
+SEE  Deities 
+Greek and Roman gods 
+Golan Heights:  H 980 
+Golf courses 
+Established as subject headings:  H 405   
+Government agencies 
+Catalogs of publications:  H 1965 
+Government policy as a subdivision:  H 1642 
+Government publications:  H 1643 
+Publishers' catalogs:  H 1965 
+Grain elevators 
+Established as subject headings:  H 405   
+Grasslands 
+Established as subject headings:  H 690   
+Graveyards 
+SEE  Cemeteries 
+Great Britain: H 955 
+Assignment of constituent countries directly as geographic subdivisions: H 830   
+Geographic subdivision through names of constituent countries:  H 955 
+Geographic subdivision in law cataloging:  H 955   
+Qualification of geographic headings:  H 810
+Use of county or region names to resolve conflicts:  H 810   
+Great Britain—Colonies 
+Free-floating subdivisions under:  H 1149.5 
+Greek and Roman gods:  H 1636 
+Groups of deities 
+ 
+Established as subject headings:  H 405, H 1635 
+Groups of fictitious characters 
+ 
+Established as subject headings:  H 405, H 1610 
+Groups of legendary characters 
+ 
+Established as subject headings:  H 405, H 1795 
+
+
+<<<PAGE 45>>>
+ 
+Subject Headings Manual 
+Index - Page 45 
+ 
+August 2023 
+Groups of mythological figures 
+ 
+Established as subject headings:  H 405, H 1635 
+ 
+Groups of islands 
+SEE  Islands 
+Groups of languages, Subject headings for 
+SEE  Foreign languages, Subject headings for 
+Groups of persons 
+SEE  Classes of persons 
+Guidebooks as a subdivision:  H 1645 
+Gymnasiums 
+Established as subject headings:  H 405   
+ 
+ 
+ 
+- H - 
+ 
+Haiti 
+As a geographic qualifier:  H 810   
+Halfway houses 
+Established as name headings:  H 405   
+Hamlet 
+Free-floating subdivisions under:  H 1155.6 
+Handbooks, manuals, etc.  as a subdivision:  H 1646 
+SEE ALSO  Guidebooks as a subdivision 
+Tables as a subdivision 
+Genealogical works:  H 1631   
+Harvard University 
+Free-floating subdivisions under:  H 1151 
+Hawaii:  H 975 
+Use as a geographic qualifier:  H 810, H 975 
+Hazardous waste sites 
+Established as subject headings:  H 405   
+Headings established as name or subject headings:  H 405 
+Heads of state 
+SEE  Rulers and statesmen 
+Hearing impaired, Visual materials for:  H 1913   
+Heart 
+Free-floating subdivisions under:  H 1164 
+Helplines 
+Established as name headings: H 405   
+Herbarium as a subdivision:  H 1427   
+
+
+<<<PAGE 46>>>
+ 
+Index - Page 46 
+Subject Headings Manual 
+August 2023 
+Herbariums 
+Established as name headings:  H 405   
+Hierarchical references 
+Broader terms:  H 370, H 375 
+Changing references:  H 195   
+Contrasted with "General see also" references:  H 371   
+"Gaps" in the hierarchy:  H 370   
+Geographic names:  H 690   
+Keying in subject authority records:  H 200 
+Moving image genre/form terms:  H 1913   
+Radio genre/form terms: H 1969.5   
+Subdivisions under headings with nationality, ethnic group, or language 
+qualifiers:  H 320   
+[topic]—[place] references:  H 375 
+Narrower terms 
+Changing references:  H 195   
+Procedure for making:  H 200   
+Highway interchanges:  H 2098   
+Highways 
+Established as subject headings:  H 405   
+Subject heading proposals:  H 2098 
+Geographic qualifiers:  H 2098   
+Use of vernacular:  H 2098   
+Hijackings 
+Formulating headings:  H 1592 
+Hispaniola 
+Not used as a geographic qualifier:  H 810   
+Historic districts 
+In cities 
+Established as name headings: H 405   
+Not in cities 
+Established as subject headings: H 405   
+Historic kingdoms 
+Geographic subdivision:  H 830  
+Historic sites 
+Established as subject headings:  H 405   
+Subject heading proposals:  H 1925 
+Historical events 
+SEE  Events 
+Historical fiction:  H 1790   
+
+
+<<<PAGE 47>>>
+ 
+Subject Headings Manual 
+Index - Page 47 
+ 
+August 2023 
+History 
+Definition and comparison with Civilization:  H 1370   
+History and criticism as a subdivision 
+Comic strips and single panel cartoons:  H 1430   
+Drama:  H 1780   
+Fiction:  H 1790   
+Folklore materials:  H 1627  
+Not used under Folklore:  H 1627   
+Legends and romances:  H 1795   
+Liturgical texts:  H 2190   
+Music headings 
+Ethnic, national, and religious groups:  H 1917   
+Literature and other materials about music: H 1160, H 1916.3   
+Musical compositions: H 1160   
+Not used under the heading Musical instruments or under headings for specific 
+instruments: H 1917   
+Vocal music texts:  H 2190   
+Poetry:  H 1800   
+Sermons:  H 2032   
+—Songs and music: H 2075   
+History as a subdivision:  H 1647 
+—Bombardment, [date]:  H 1560   
+—Capture, [date]:  H 1560   
+Chronological subdivisions:  H 1647   
+—Destruction, [date]:  H 1560   
+Musical instruments: H 1917   
+Philosophy headings:  H 1647   
+—Siege, [date]:  H 1560   
+Subdivisions not further subdivided by —History:  H 1647   
+History—Chronology as a subdivision:  H 1367 
+History, Constitutional:  H 1465   
+History—Sources as a subdivision:  H 2080 
+Government publications:  H 1643   
+Not used under headings assigned to correspondence:  H 1480   
+Homes and haunts as a subdivision 
+Works about buildings:  H 1334   
+Homilies 
+SEE  Sermons 
+Hong Kong (China):  H 978 
+
+
+<<<PAGE 48>>>
+ 
+Index - Page 48 
+Subject Headings Manual 
+August 2023 
+Hospitals 
+Established as name headings:  H 405   
+Hotels 
+Established as name headings:  H 405   
+Hotlines 
+Established as name headings:  H 405   
+Houses: H 1334   
+Houses, Noble 
+SEE  Noble houses 
+Houses, Royal 
+SEE  Royal houses 
+Housing projects 
+Established as name headings:  H 405   
+Hurricanes 
+Establishing individual hurricanes:  H 1560   
+Husbands of famous women 
+Biography:  H 1330   
+ 
+ 
+ 
+- I - 
+ 
+Illumination artists 
+SEE  Manuscript illuminators 
+Illumination of manuscripts:  H 1855 
+Illustrations as a subdivision:  H 1659, H 1935   
+Contrasted with —Pictorial works:  H 1659   
+Manuscripts:  H 1855  
+Illustrators 
+Artists as illustrators:  H 1250   
+Imaginary persons 
+SEE  Fictitious characters 
+Immigrants:  H 1581  
+Biography:  H 1581   
+Free-floating subdivisions under:  H 1100 
+Geographic subdivision:  H 1581   
+Particular ethnic groups:  H 1581  
+Immigrants' descendants 
+Particular ethnic groups:  H 1581   
+Immigration 
+SEE  Emigration and immigration 
+
+
+<<<PAGE 49>>>
+ 
+Subject Headings Manual 
+Index - Page 49 
+ 
+August 2023 
+Immigration policy 
+SEE  Emigration and immigration—Government policy as a subdivision 
+Immigration stations 
+Established as subject headings:  H 405   
+Imprints as a subdivision:  H 1660 
+In art as a subdivision:  H 362, H 910, H 1935   
+[ . . . ] in art:  H 362, H 910, H 1935   
+[ . . . ] in [ . . . ] headings 
+[class of persons] in [discipline]:  H 360 
+[nationality] in [place] 
+Replaced by [nationality] (May Subd Geog):  H 1919.5   
+[place] in [ . . . ]:  H 910 
+[topic] in [topic] 
+Broader terms:  H 370   
+Contrasted with parenthetical qualifiers:  H 357   
+In literature as a subdivision:  H 362, H 910, H 1780, H 1790, H 1800   
+[ . . . ] in literature:  H 362, H 910   
+In motion pictures as a subdivision:  H 910   
+[ . . . ] in motion pictures:  H 910   
+[ . . . ] (in religion, folklore, etc.) 
+Discontinued:  H 1998   
+In-service training as a subdivision:  H 2217   
+[ . . . ] in textbooks:  H 2187   
+[ . . . ] in the Bible:  H 1295 
+Incunabula 
+SEE  Early works 
+Indexes 
+Treated as supplementary works:  H 2145 
+Indexes as a subdivision:  H 1670 
+Indian reservations 
+Established as subject headings:  H 405, H 1925 
+Indians 
+SEE ALSO   Tribes (Ethnic groups) 
+Folklore:  H 1627 
+—History—Chronology:  H 1367   
+Indigenous tribes of the United States 
+As geographic subdivisions:  H 830   
+—Music: H 1917   
+
+
+<<<PAGE 50>>>
+ 
+Index - Page 50 
+Subject Headings Manual 
+August 2023 
+Indians (Continued) 
+—Philosophy:  H 1929 
+Qualifiers for subject headings:  H 320, H 351 
+Systems of law:  H 1718   
+—Wars 
+As broader term for battles:  H 1285   
+Indians of the United States, Newspapers of:  H 1920   
+Indigenous peoples:  H 1103   
+Indigenous tribes of the United States 
+As geographic subdivisions:  H 830   
+Indirect subdivision 
+SEE  Geographic subdivisions 
+Individual deities 
+ 
+Established as name headings:  H 405, H 1635 
+Individual fictitious characters 
+ 
+Established as name headings:  H 405, H 1610 
+Individual legendary characters 
+ 
+Established as name headings:  H 405, H 1795 
+Individual mythological figures 
+ 
+Established as name headings:  H 405, H 1635 
+Individual persons 
+SEE  Names of persons 
+Individual named animals 
+ 
+Established as name headings:  H 405, H 1332 
+Individual works of art:  H 1250   
+Established as name headings: H 405   
+Industrial districts 
+ 
+Established as name headings:  H 405 
+Industries 
+Based on products:  H 1673 
+—Directories:  H 1558   
+Pattern headings:  H 1153 
+Influence as a subdivision:  H 1580, H 1675   
+[ . . . ], Influence of:  H 1580   
+Influence of as a subdivision 
+Discontinued:  H 1580, H 1675   
+[ . . . ], Influence of [ . . . ] on:  H 1580   
+Influence on [ . . . ] as a subdivision 
+Discontinued:  H 1580, H 1675   
+
+
+<<<PAGE 51>>>
+ 
+Subject Headings Manual 
+Index - Page 51 
+ 
+August 2023 
+[ . . . ] influences as a subdivision:  H 1370, H 1580, H 1675   
+Broader terms:  H 1675   
+Folklore materials:  H 1627   
+Information services:  H 1675.5 
+Information services as a subdivision:  H 1675.5 
+Ingredients for cooking:  H 1475   
+Establishing headings:  H 1475 
+Initial articles in subject headings 
+SEE  Articles in the initial position in subject headings 
+Initialisms: Appendix A   
+Inquisition:  H 1676 
+Inspection as a subdivision:  H 1676.5 
+Institutions, Educational 
+SEE  Educational institutions, Individual 
+Educational institutions, Types of 
+Instruction and study as a subdivision:  H 2110   
+Musical compositions:  H 1160   
+Musical instruments: H 1161 
+Instructional materials, Music: H 1916.3  
+Instrumental ensembles in music form/genre headings:  H 250, H 1917.5  
+Instruments, Musical 
+SEE  Musical instruments 
+Insulin 
+Free-floating subdivisions under:  H 1149 
+Insurrections 
+Pattern heading:  H 1200 
+Intelligence testing as a subdivision:  H 2186   
+Interchanges, Express highway:  H 2098   
+Internal migration 
+SEE  Migration, Internal 
+International agency publications:  H 1643   
+International bodies of water 
+Free-floating subdivisions under:  H 1145.5 
+Geographic qualifiers:  H 810   
+Geographic subdivision:  H 830   
+International conventions (Treaties):  H 2227   
+International organizations 
+Regions based on:  H 760   
+International relations:  H 1942   
+
+
+<<<PAGE 52>>>
+ 
+Index - Page 52 
+Subject Headings Manual 
+August 2023 
+Internet resources 
+Citing in subject authority records:  H 203   
+Interviews as a subdivision:  H 1678 
+Invasions 
+Formulating headings:  H 1592 
+Inverted word order 
+Topical subject headings:  H 306 
+Islam:  H 1680 
+[ . . . ], Islamic:  H 1680 
+Islamic law 
+Dividing headings geographically:  H 1718 
+Islands:  H 807 
+Buildings and structures on:  H 1334   
+Entities on:  H 810, H 807   
+Established as name headings if jurisdictional:  H 807   
+Established as subject headings if non-jurisdictional:  H 405, H 807   
+Free-floating subdivisions under:  H 1140 
+Geographic qualifiers:  H 807  
+Geographic subdivision:  H 807 
+Subject usage information 
+In name authority records:  H 835  
+In subject authority records:  H 836 
+Parks coextensive with islands:  H 1925   
+[ . . . ] Region 
+Headings not constructed for regions based on islands:  H 760   
+Subject heading proposals:  H 807  
+Islands of the Caribbean 
+Geographic subdivision:  H 807   
+ 
+ 
+ 
+- J - 
+ 
+Japanese subject headings (Non-Roman):  H 182 
+Jazz: H 1916.5, H 1917.5   
+Jerusalem:  H 980 
+Geographic subdivision:  H 830   
+Metropolitan Area:  H 790  
+Jesuits 
+Free-floating subdivisions under:  H 1186 
+
+
+<<<PAGE 53>>>
+ 
+Subject Headings Manual 
+Index - Page 53 
+ 
+August 2023 
+Jesus Christ 
+Established subdivisions vs. free-floating subdivisions:  H 1110   
+—Trial:  H 2228   
+Jewish as a qualifier:  H 306, H 320   
+Jewish way of life:  H 2015.5   
+Jurisdictional mergers and splits:  H 710 
+Jurisdictions 
+SEE  Geographic name headings 
+Jurisdictions, Ancient (other than cities) 
+Established as name headings:  H 405   
+Juvenile dictionaries 
+SEE  Dictionaries, Juvenile as a subdivision 
+Juvenile drama:  H 1690, H 1780   
+Juvenile fiction:  H 1690, H 1790   
+Juvenile literature as a subdivision:  H 1690 
+—Juvenile literature—Bibliography:  H 1690   
+—Periodicals—Juvenile literature:  H 1927   
+Juvenile materials:  H 180, H 1690 
+ 
+Coding for target audience in field 008:  Appendix F   
+Juvenile poetry:  H 1690, H 1800   
+Juvenile software:  H 1690   
+Juvenile textbooks:  H 1690, H 2187   
+ 
+ 
+ 
+- K - 
+ 
+Kazakstan:  H 1023  
+Kingdoms 
+SEE  Historic kingdoms 
+Kings and rulers as a subdivision:  H 1574  
+SEE ALSO   Rulers and statesmen 
+Koran:  H 1300 
+Free-floating subdivisions under:  H 1188 
+Korean subject headings (Non-Roman):  H 182 
+Kosovo (Republic):  H 1055 
+Kyrgyzstan:  H 1023   
+ 
+ 
+
+
+<<<PAGE 54>>>
+ 
+Index - Page 54 
+Subject Headings Manual 
+August 2023 
+ 
+- L - 
+Labor laws and legislation 
+Free-floating subdivisions under:  H 1154.5 
+Laboratories 
+Established as name headings:  H 405   
+Lakes 
+Established as subject headings:  H 690   
+Free-floating subdivisions under:  H 1145.5 
+Geographic qualifiers:  H 810 
+Lakes in cities:  H 810   
+Land grants 
+Established as subject headings:  H 405   
+Land vehicles 
+Pattern heading:  H 1195 
+Landslides 
+Geographic subdivision to the city level:  H 1560   
+Language dictionaries:  H 1540 
+Language of vocal texts:  H 250, H 1916.3, H 1917 
+Language qualifiers for subject headings:  H 306   
+Language teachers 
+—Training of:  H 2217   
+Languages 
+SEE  English language 
+Foreign languages, Subject headings for 
+French language 
+Romance languages 
+Languages, Computer 
+SEE ALSO   Machine translating as a subdivision 
+Established as subject headings:  H 405   
+Latest name of political jurisdictions:  H 708, H 830   
+Latin America:  H 985 
+Latvia:  H 1023  
+Law and legislation as a subdivision:  H 1705 
+Not used in headings qualified by legal systems:  H 1718   
+Law, Constitutional:  H 1465   
+Law headings 
+SEE  Legal headings 
+Law, Systems of:  H 1718 
+LC data base 
+Citing in subject authority records:  H 203   
+
+
+<<<PAGE 55>>>
+ 
+Subject Headings Manual 
+Index - Page 55 
+ 
+August 2023 
+LC patterns for subject heading proposals 
+Citing in subject authority records:  H 200, H 202   
+LCSH 
+SEE  Subject authority records 
+Legal headings 
+SEE ALSO   Cases as a subdivision 
+Digests as a subdivision 
+Law and legislation as a subdivision 
+Legal research as a subdivision 
+Legal status, laws, etc. as a subdivision 
+Research as a subdivision 
+Safety regulations as a subdivision 
+Treaties 
+Trials 
+Broader terms 
+Headings qualified by legal systems:  H 370   
+Great Britain as geographic subdivision:  H 955   
+—History—Sources:  H 2080   
+—Legal research:  H 1710 
+—Legal status, laws, etc.:  H 1705 
+Pattern heading:  H 1154.5 
+—Sources:  H 2080   
+Systems of law:  H 1718 
+—Terminology:  H 2184   
+Legal materials:  H 1705-H1715 
+Legal research as a subdivision:  H 1710 
+Legal status, laws, etc. as a subdivision:  H 1705 
+Not used in headings qualified by legal systems:  H 1718   
+Legendary characters:  H 1627, H 1795 
+SEE ALSO   Fictitious characters 
+Free-floating subdivisions in H 1110 not used:  H 1110, H 1795 
+Groups established as subject headings:  H 405, H 1795   
+Individual characters established as name headings:  H 405, H 1795 
+Legendary objects:  H 1627, H 1795   
+Legends:  H 1627, H 1795   
+SEE ALSO   Romances 
+History and criticism:  H 1795   
+Legends involving religious objects:  H 1627, H 1795   
+Qualifying by names of religions:  H 1627   
+
+
+<<<PAGE 56>>>
+ 
+Index - Page 56 
+Subject Headings Manual 
+August 2023 
+Legends, Medieval 
+SEE  Legends 
+Legends as a subdivision 
+Legends and stories as a subdivision 
+Discontinued:  H 1720   
+Legends as a subdivision:  H 1627, H 1795   
+SEE ALSO   Romances as a subdivision 
+Legislation:  H 1715 
+Legislative enactments:  H 1715 
+Legislative bodies 
+Pattern heading:  H 1155 
+Legislative history as a subdivision:  H 1715   
+Legislative histories:  H 1715   
+Letters, Foreign: Appendix C 
+Letters as a literary genre:  H 1480   
+Letters of individual persons 
+SEE  Correspondence of individual persons 
+Libraries 
+Established as name headings:  H 405   
+Library as a subdivision:  H 1361, H 1427, H 1855   
+Library catalogs:  H 1361 
+SEE ALSO   Audiovisual materials—Catalogs 
+Manuscript collections—Catalogs 
+Microform catalogs 
+Union catalogs 
+[specific form of library material] as a subdivision 
+Periodicals:  H 1361   
+Library districts 
+Established as name headings: H 405   
+Library of Congress Subject Headings 
+SEE  Subject authority records 
+Librettos as a subdivision:  H 1160, H 2190   
+Lighthouses 
+Established as subject headings:  H 405   
+Literary authors, Groups of 
+Pattern heading:  H 1155.2 
+Qualifying by ethnic group:  H 351   
+Qualifying by nationality:  H 350   
+Literary authors, Individual 
+"Base heading" for authors who write under various names:  H 430   
+Biography:  H 1330   
+Facsimiles of manuscripts:  H 1595   
+
+
+<<<PAGE 57>>>
+ 
+Subject Headings Manual 
+Index - Page 57 
+ 
+August 2023 
+Literary authors, Individual  (Continued) 
+Free-floating subdivisions under:  H 1110 
+—History—Chronology:  H 1367   
+—Sources:  H 2080   
+Translations:  H 2220 
+Literary collections as a subdivision 
+Fictitious characters:  H 1610   
+Place names:  H 910   
+Literary form 
+ 
+Coding in field 008:  Appendix F   
+Literary prizes:  H 1265 
+Literary works, Individual 
+SEE ALSO   Literatures 
+specific literary genres 
+Entered under author 
+Pattern heading:  H 1155.6 
+Entered under title: 
+Pattern heading:  H 1155.8 
+Manuscripts:  H 1855  
+Literature 
+Classification numbers in subject authority records for literature headings:  H 365   
+Collections from one place in two or more languages:  H 1828 
+General overview of subject heading assignment:  H 1775 
+Literature, English 
+SEE  English literature 
+Literature, Folk 
+SEE  Folk literature 
+Literature, Juvenile 
+SEE  Juvenile literature as a subdivision 
+Literature teachers 
+—Training of:  H 2217   
+Literatures 
+SEE ALSO   Literary works, Individual 
+specific literatures and genres 
+Pattern heading:  H 1156 
+Period subdivisions:  H 1156   
+—Sources:  H 2080   
+Translations:  H 2220 
+Literatures as a subdivision:  H 1828 
+Lithuania:  H 1023  
+
+
+<<<PAGE 58>>>
+ 
+Index - Page 58 
+Subject Headings Manual 
+August 2023 
+Liturgical texts set to music:  H 250, H 1916.3   
+Liturgical works 
+SEE  Religious works 
+Liturgy as a subdivision:  H 1855  
+—Texts:  H 2190   
+Local history:  H 1845 
+Headings requiring [place]—[topic] as an additional heading:  H 1845   
+Subdivisions under place names for local history materials:  H 1845   
+Local subdivision of subject headings 
+SEE  Geographic subdivisions 
+Locks (Hydraulic engineering) 
+Established as subject headings:  H 405   
+Locomotives 
+Established as subject headings:  H 405   
+London, England: 
+Buildings and structures in:  H 1334   
+Longitudinal studies as a subdivision:  H 1848 
+ 
+ 
+ 
+- M - 
+ 
+Macedonia (Republic):  H 1055 
+Machine translating as a subdivision:  H 2219   
+Malay as an adjective:  H 987   
+Malaya:  H 987 
+Malayan as an adjective:  H 987   
+Malaysia:  H 987 
+Qualification of geographic headings:  H 810   
+Abbreviations of states:  H 810   
+Malaysian as an adjective:  H 987   
+Manners and customs:  H 2057 
+Manors 
+Established as subject headings:  H 405   
+Mansions 
+Established as subject headings:  H 405   
+Manuals, Amateurs' 
+SEE  Amateurs' manuals as a subdivision 
+Manuscript collections:  H 1855 
+Catalogs:  H 1361  
+Manuscript illuminators:  H 1855   
+
+
+<<<PAGE 59>>>
+ 
+Subject Headings Manual 
+Index - Page 59 
+ 
+August 2023 
+Manuscripts, Facsimile editions of 
+SEE  Facsimiles of manuscripts 
+Manuscripts, Illumination of 
+SEE  Illumination of manuscripts 
+Manuscripts, Individual:  H 1855 
+Text with important illustrations:  H 1855  
+Manuscripts, Music: H 1595   
+Map collections as a subdivision:  H 1427   
+Maps:  H 1865 
+—Early works to 1800:  H 1576   
+Facsimiles:  H 1595   
+MARC tagging 
+Subject authority records:  H 200 
+Market buildings 
+Established as subject headings:  H 405   
+Marketing as a subdivision:  H 1870 
+Markets 
+Established as name headings:  H 405   
+Mary, Blessed Virgin, Saint 
+Established subdivisions vs. free-floating subdivisions:  H 1110   
+Mass media 
+—Reviews:  H 2021   
+Massacres 
+Formulating headings:  H 1592 
+Geographic subdivision to the city level:  H 1560   
+Materials 
+Pattern heading:  H 1158 
+(May Subd Geog) 
+SEE  Geographic subdivisions 
+Medals:  H 1265 
+Medical statistics:  H 2095   
+Medicine, Popular:  H 1943.5   
+Medieval cities 
+SEE  Extinct cities (pre-1500) 
+Medieval legends 
+SEE  Legends 
+Legends as a subdivision 
+Medium of performance of musical works: H 250, H 1916.3, H 1917.5, H 1918 
+Headings governed by patterns: H 250 
+
+
+<<<PAGE 60>>>
+ 
+Index - Page 60 
+Subject Headings Manual 
+August 2023 
+Meetings 
+SEE  Congresses 
+Mental health as a subdivision:  H 1890   
+Mental health services as a subdivision:  H 1890   
+Mergers of two or more jurisdictions into one:  H 710 
+Metals 
+Free-floating subdivisions under:  H 1158 
+Methodology as a subdivision 
+Forecasting:  H 1628   
+Genealogy:  H 1631   
+Methods as a subdivision: H 1161   
+[ . . . ] Metropolitan Area:  H 362, H 790, H 1140   
+Geographic subdivision:  H 830   
+Microform catalogs:  H 1361   
+Publishers' catalogs:  H 1965 
+Microforms:  H 1893 
+Migration, Internal:  H 1581   
+Migration, Return:  H 1581   
+Military engagements 
+Formulating headings:  H 1592 
+Military expeditions 
+Established as name headings:  H 405   
+Military installations, Active 
+Established as name headings:  H 405   
+Military installations, Inactive 
+Established as subject headings:  H 405   
+Military invasions 
+SEE  Invasions 
+Military occupations 
+Formulating headings:  H 1592 
+Military raids 
+SEE  Raids 
+Military relations as a subdivision:  H 1996 
+Military services 
+Pattern headings:  H 1159 
+Regimental histories:  H 1995 
+Military units 
+Regimental histories:  H 1995 
+Mine buildings 
+Established as subject headings:  H 405   
+
+
+<<<PAGE 61>>>
+ 
+Subject Headings Manual 
+Index - Page 61 
+ 
+August 2023 
+Mines 
+Established as subject headings:  H 405   
+Miniature books:  H 1895 
+—Specimens:  H 1895 
+Miniature paintings of manuscripts 
+SEE  Illumination of manuscripts 
+Mining districts 
+Established as name headings:  H 405   
+Mints 
+Established as subject headings:  H 405   
+Miscellanea as a subdivision:  H 1910 
+Model headings 
+SEE  Pattern headings 
+Moldova:  H 1023 
+Monasteries 
+Established as name headings:  H 405   
+Monastic orders 
+Adjectival qualifiers for subject headings:  H 306   
+—Controversial literature:  H 1472   
+Monastic and religious life:  H 2015.5   
+Pattern heading:  H 1186 
+Montenegro:  H 1055 
+Months, Special:  H 1592 
+Monuments:  H 1334   
+Established as subject headings:  H 405  
+Geographic subdivision to the city level:  H 1334.5   
+Subject heading proposals for national monuments:  H 1925 
+Monuments as a subdivision 
+Individual persons:  H 1334   
+Moon 
+SEE  Celestial bodies 
+Moral and ethical aspects as a subdivision:  H 1949, H 1998   
+Morgues 
+Established as name headings:  H 405   
+Mosques 
+Established as name headings:  H 405   
+Motels 
+Established as name headings:  H 405   
+Motion pictures:  H 2230 
+Established as name headings:  H 405   
+
+
+<<<PAGE 62>>>
+ 
+Index - Page 62 
+Subject Headings Manual 
+August 2023 
+Mountain ranges 
+Geographic subdivision:  H 830   
+Mountains 
+Established as subject headings:  H 690   
+MuA .hEAammad, Prophet, d. 632 
+Established subdivisions vs. free-floating subdivisions:  H 1110   
+Multifaceted careers, Persons with 
+Biography:  H 1330   
+Free-floating subdivisions under:  H 1110   
+Multilingual dictionaries:  H 1540 
+Multiple subdivisions:  H 1090 
+Religion headings:  H 1998, H 2015 
+Subject heading proposals:  H 1090   
+Religion headings:  H 1998, H 2015   
+Museums:  H 1916 
+Established as name headings:  H 405, H 1916 
+Museums as a subdivision:  H 1916   
+Music 
+SEE ALSO   Folk music 
+Jazz 
+Popular music 
+Accompaniment in form/genre headings: H 250, H 1917.5 
+Authority records:  H 250, H 1917.5 
+By individual composers:  H 1438 
+Common concepts in subject headings: H 1916.3 
+Dance music headings:  H 250   
+Ethnic, national, and religious groups: H 1917 
+For occasions (religious seasons, holidays, festivals, etc.):  H 1160, H 1916.3 
+Form/genre headings: H 250, H 1160, H 1916.3, H 1917.5 
+General: H 1916.3 
+Headings governed by patterns: H 250 
+—Instruction and study:  H 1160, H 2110   
+Instructional materials: H 1916.3, H 1918  
+Inverted headings:  H 306   
+Literature and other materials about: H 1160, H 1161, H 1916.3, H 1917, H 1918 
+Medium of performance in headings: H 250, H 1916.3, H 1917.5, H 1918 
+Pattern headings 
+For free floating subdivisions 
+Musical compositions: H 1160, H 2075, H 2190   
+Musical instruments: H 250, H 1161 
+For musical compositions:  H 250  
+
+
+<<<PAGE 63>>>
+ 
+Subject Headings Manual 
+Index - Page 63 
+ 
+August 2023 
+Music  (Continued) 
+Qualifiers for music headings:  H 250, H 306, H 1917.5  
+Subject heading assignment:¨Η 250, Η 1160, Η 1161, Η 1438, Η 1916.3, Η 1917, Η 1917.5, 
+Η 1918, Η 2075, Η 2190   
+Subject heading proposals: H 250, H 1917.5, H 1918 
+Music, Folk 
+SEE  Folk music 
+Music, Popular: H 1916.5 
+Music, Vocal 
+SEE  Vocal music headings 
+Music and songs 
+SEE Songs and music as a subdivision: H 2075 
+Music and the war [revolution, etc.] as a subdivision: H 2075   
+(Music) as a qualifier: H 250, H 1916.3, H 1918 
+Music as a subdivision:  H 1917   
+Music halls 
+Established as subject headings:  H 405   
+Music heading authority records: H 250 
+SEE ALSO "Subject heading proposals" under Music 
+Music manuscripts:  H 1595   
+Music of ethnic groups: H 1916.3, H 1917 
+Music of national groups: H 1916.3, H 1917 
+Music of religious groups: H 1916.3, H 1917 
+Musical compositions 
+SEE ALSO Folk music 
+Jazz 
+Music 
+Popular music 
+Pattern heading: H 1160 
+Musical format subdivisions: H 250, H 1160, H 1916.3  
+(Musical instrument) as a qualifier:  H 1918  
+Musical instrument collections as a subdivision:  H 1427   
+Musical instruments:  H 1918 
+Brands and models:  H 1918  
+—Catalogs and collections:  H 1360, H 1427   
+Classification numbers in subject authority records:  H 365, H 1918   
+Ethnic and national: H 1917  
+Free-floating subdivisions under:  H 1161 
+In music form/genre headings: H 1917.5  
+Keyboard: H 1917.5  
+
+
+<<<PAGE 64>>>
+ 
+Index - Page 64 
+Subject Headings Manual 
+August 2023 
+Musical instruments:  H 1918  (Continued) 
+Non-musical objects used as:  H 1918   
+Number of the same solo instrument in music form/genre headings: H 1917.5  
+Order, in music form/genre headings: H 1917.5  
+Parts of instruments and accessories:  H 1918   
+Pattern heading:  H 1161 
+Percussion:  H 1917.5  
+Qualifiers:  H 1917.5, H 1918  
+Subject heading assignment: H 1917, H 1918  
+Subject heading proposals: H 250, H 1917.5, H 1918 
+Unspecified:  H 1917.5  
+Musical presentation subdivisions: H 250, H 1160, H 1916.3 
+Musical settings as a subdivision: H 1160, H 2075   
+Musical style: H 250, H 1160, H 1161, H 1916.3, H 1916.5, H 1917  
+Qualifiers for subject headings: H 306   
+Musicians 
+Composers: H 1438 
+Free-floating subdivisions under:  H 1110 
+Muslim as an adjective:  H 1680 
+Mutinies 
+Formulating headings:  H 1592 
+Mythological figures 
+ 
+Assignment of headings:  H 1795   
+ 
+Establishing groups as subject headings:  H 405, H 1635 
+ 
+Establishing individual figures as name headings:  H 405, H 1635 
+ 
+Free-floating subdivisions in H 1110 not used:  H 1110, H 1635 
+Mythology as a subdivision:  H 1998   
+ 
+ 
+ 
+- N - 
+ 
+Name as a subdivision:  H 1919   
+Name authority record proposals made by subject catalogers 
+SEE  Proposals for name authority records made by subject catalogers 
+Name authority records 
+SEE ALSO   Name headings 
+RDA coding:  H 405, H 430   
+Categories of headings established as name or subject headings:  H 405 
+Citing name authority records in subject authority records:  H 203   
+
+
+<<<PAGE 65>>>
+ 
+Subject Headings Manual 
+Index - Page 65 
+ 
+August 2023 
+Name authority records  (Continued) 
+Corporate bodies 
+Dividing by place:  H 364, H 475 
+Name changes:  H 460 
+Provisional, Name headings coded:  H 436 
+Requests by subject catalogers for name authority records:  H 405   
+"Subj Headings Manual/RDA" notation:  H 405   
+Subject usage information:  H 432, H 708 
+Geographic subdivision information:  H 835 
+Validity of headings for subject use:  H 430 
+Name changes 
+Corporate bodies:  H 460 
+Political jurisdictions:  H 708, H 830   
+Name headings 
+SEE ALSO   Geographic name headings 
+Name authority records 
+Abbreviations:  Appendix A 
+Capitalization:  Appendix B   
+Diacritics and special characters:  Appendix C   
+Categories of headings established as name or subject headings:  H 405 
+"General see also" references to types of name headings:  H 371 
+Name changes 
+Corporate bodies:  H 460 
+Political jurisdictions:  H 708, H 830   
+Punctuation:  Appendix D   
+Requests by subject catalogers for name authority records:  H 405   
+Validity for subject use:  H 430 
+Name headings, Provisional:  H 436 
+Name-title subject headings 
+SEE ALSO   Uniform titles as subject headings 
+Commentaries:  H 1435   
+Composers and works about music of individual composers:  H 1438   
+—History not used:  H 1647   
+—Indexes:  H 1670   
+Named entities 
+Buildings and structures:  H 1334 
+Established as name or subject headings:  H 405 
+Events:  H 1592 
+Geographic entities:  H 690 
+Parks:  H 1925 
+
+
+<<<PAGE 66>>>
+ 
+Index - Page 66 
+Subject Headings Manual 
+August 2023 
+Named entities  (Continued) 
+—Songs and music:  H 1160, H 1916.3, H 2075 
+Street and roads:  H 2098 
+Strikes and lockouts:  H 2100 
+Names, Biological 
+SEE  Biological names 
+Names, Family 
+SEE  Family names 
+Names, Geographical:  H 1630 
+SEE ALSO   Geographic name headings 
+Geographic subject headings 
+Names, Personal 
+SEE  Names of persons 
+Names as a subdivision:  H 1919 
+Names of corporate bodies 
+SEE  Corporate bodies 
+Geographic name headings 
+Name headings 
+Names of families 
+SEE  Family names 
+Names of legislative acts:  H 1715 
+Names of persons 
+SEE ALSO   Correspondence of individual persons 
+Name authority records 
+Name headings 
+Literary authors, Individual 
+Assignment as subject heading:  H 1110   
+Bibliographies:  H 1322 
+Biography:  H 1330 
+Assignment as subject heading to non-biographical works:  H 1330   
+Drama:  H 1780   
+Fiction:  H 1790   
+Music:  H 1438, H 1916.3, H 2075 
+Poetry:  H 1800   
+Composers and works about music of individual composers:  H 1438 
+Free-floating subdivisions under:  H 1110 
+Persons with multifaceted careers:  H 1110   
+—History—Chronology:  H 1367   
+—Museums:  H 1916   
+Named events focused on an individual person:  H 1592   
+Pictorial works:  H 1935   
+—Sources:  H 2080   
+
+
+<<<PAGE 67>>>
+ 
+Subject Headings Manual 
+Index - Page 67 
+ 
+August 2023 
+Names of places 
+SEE ALSO   Geographic name headings 
+Geographic subject headings 
+Dictionaries (Gazetteers):  H 1630 
+Free-floating subdivisions under:  H 1140 
+Narrower terms 
+Changing references:  H 195   
+Procedure for making:  H 200   
+NARs 
+SEE  Name authority records 
+National monuments 
+SEE  Monuments 
+National parks:  H 1925  
+Nationalities:  H 1919.5 
+Folklore:  H 1627 
+—Foreign countries:  H 1919.5 
+Free-floating subdivisions under:  H 1103, H 1919.5   
+Free-floating subdivisions under headings for classes of persons with national 
+qualifiers:  H 1100 
+Qualifiers for subject headings:  H 320, H 350 
+National and ethnic qualifiers not used for headings in the field of music: H 1917   
+Subject heading proposals:  H 1919.5   
+Nationalities, Music of 
+SEE  Music of national groups 
+Nationalities in the United States 
+SEE  Ethnic groups in the United States 
+Nationality qualifiers for subject headings:  H 306, H 320, H 350 
+Not used for headings in the field of music: H 1917   
+Native Americans 
+SEE  Indians 
+Natural disasters 
+SEE  Disasters 
+specific types of disasters 
+Natural features in cities 
+Qualifying subject headings:  H 810   
+Natural history collections as a subdivision:  H 1427   
+Natural language 
+Topical subject headings:  H 306 
+Natural objects 
+—Catalogs and collections:  H 1360, H 1427   
+
+
+<<<PAGE 68>>>
+ 
+Index - Page 68 
+Subject Headings Manual 
+August 2023 
+Nature conservation areas 
+SEE  Parks 
+Nature of work/nature of contents codes in field 008 
+ 
+Books:  Appendix F   
+ 
+Continuing resources (Serials):  Appendix G   
+New subject heading proposals 
+SEE  Subject heading proposals 
+New York (N.Y.):  H 990 
+City sections, boroughs, counties:  H 990   
+Metropolitan Area:  H 362, H 790, H 990   
+Region:  H 790   
+New Zealand 
+Abbreviation as a geographic qualifier:  H 810   
+New Zealand Gazetteer of Official Geographic Names decisions 
+Obtaining the approved form:  H 690   
+Newspapers 
+—Directories:  H 1558   
+—Sections, columns, etc. —Reviews:  H 2021   
+Newspapers as a subdivision:  H 1920 
+Newspapers about specific places:  H 1920   
+Newspapers of ethnic groups in the United States:  H 1920 
+Newspapers of Indians of the United States:  H 1920   
+Newspapers on special topics:  H 1920 
+Night clubs 
+Established as name headings:  H 405   
+Noble houses 
+Subject heading proposals:  H 1574   
+Non-English languages 
+SEE  Foreign languages, Subject headings in 
+Foreign languages, Subject headings for 
+Non-fiction films:  H 1913   
+Non-fiction radio programs: H 1969.5   
+Non-fiction television programs:  H 1913   
+Non-free-floating subdivisions 
+SEE  Subdivisions 
+Non-jurisdictional corporate body headings 
+SEE  Corporate bodies 
+Non-jurisdictional geographic headings 
+SEE  Geographic subject headings 
+
+
+<<<PAGE 69>>>
+ 
+Subject Headings Manual 
+Index - Page 69 
+ 
+August 2023 
+Non-jurisdictional islands 
+SEE  Islands 
+Non-music sound recordings:  H 2230 
+Non-Roman Arabic/Persian subject headings:  H 181 
+Non-Roman CJK subject headings:  H 182 
+"Nonprint" headings:  H 1332   
+Northern, Southern, Central, etc., as qualifiers: 
+Headings for regions:  H 760  
+Northern Ireland 
+Geographic subdivision:  H 955   
+Law cataloging:  H 955   
+(Not Subd Geog) 
+Coding headings:  H 364 
+NTs 
+SEE  Narrower terms 
+Number of choral parts in chorus music headings: H 1917.5  
+Number of solo vocal parts in music form/genre headings:  H 1917.5 
+Number of the same instrument in music form/genre headings: H 1917.5 
+Numerals 
+Abbreviations:  Appendix A  
+Numeric tags:  H 200 
+Numismatic collections as a subdivision:  H 1427   
+Nursery rhymes:  H 1800   
+Literary genre vs. folklore genre:  H 1627   
+Nursing homes 
+Established as name headings:  H 405   
+ 
+ 
+ 
+- O - 
+ 
+Observatories 
+Established as name headings:  H 405   
+Occupational groups 
+Folklore:  H 1627   
+—Education:  H 2217   
+—Professional ethics:  H 1949 
+—Training of:  H 2217   
+Occupations 
+Formulating headings:  H 1592 
+
+
+<<<PAGE 70>>>
+ 
+Index - Page 70 
+Subject Headings Manual 
+August 2023 
+Ocean currents 
+Established as subject headings:  H 690   
+Oceans 
+Free-floating subdivisions under:  H 1145.5 
+Office buildings 
+Established as subject headings:  H 405   
+Official residences 
+Established as subject headings:  H 405   
+Official Names with Macrons decisions 
+Obtaining the approved form:  H 690   
+Old age homes 
+Established as name headings:  H 405   
+Old Catalog headings 
+Citing in subject authority records:  H 203   
+On postage stamps as a subdivision:  H 1945 
+Online subject authority records 
+SEE  Subject authority records 
+Opera houses 
+Established as subject headings:  H 405   
+Operas 
+Free-floating subdivisions under:  H 1160 
+—History and criticism not used: H 1160   
+Order of instruments in music form/genre headings: H 1917.5  
+Order of subdivisions in a subject heading string:  H 1075  
+Order of subject headings:  H 80 
+Orders, Monastic 
+SEE  Monastic orders 
+Orders, Religious 
+SEE  Religious orders 
+Ordinal numerals 
+SEE  Numerals 
+Organizations 
+SEE  Corporate bodies 
+Organs as a subdivision 
+Musical instruments:  H 1918   
+Organs of the body 
+Pattern heading:  H 1164 
+"Orphan" subject headings:  H 370   
+Orphanages 
+Established as name headings:  H 405   
+
+
+<<<PAGE 71>>>
+ 
+Subject Headings Manual 
+Index - Page 71 
+ 
+August 2023 
+"OSER" file 
+SEE "MAGS" file 
+ 
+ 
+ 
+- P - 
+ 
+Pageants 
+Established as name headings:  H 405, H 1592   
+Palaces 
+SEE ALSO   Buildings and structures 
+Established as subject headings:  H 405   
+Palestine:  H 980   
+Palestinian National Authority:  H 980   
+Parades 
+Established as name headings:  H 405   
+Parenthetical qualifiers in subject headings:  H 357 
+Music: H 250, H 1916.3, H 1916.5, H 1917.5 
+Musical instruments:  H 1161, H 1918 
+Park districts 
+Established as name headings:  H 405   
+Parks:  H 1925 
+SEE ALSO   City parks 
+National parks 
+As geographic subdivisions:  H 830, H 1925   
+Established as subject headings:  H 405, H 690   
+Subject heading proposals:  H 1925 
+Use of vernacular:  H 1925   
+Parks (Administrative agencies) 
+Established as name headings:  H 405   
+Partial biography:  H 1330   
+Partial title added entries:  H 150 
+Named collections of objects:  H 1427   
+Participation, [ . . . ] as a subdivision:  H 1200   
+Parts of the body 
+Singular vs. plural:  H 285   
+Pattern headings:  H 1146 
+SEE ALSO   specific pattern headings 
+As examples in "General see also" references:  H 371, H 1146  
+Establishing new subdivisions under:  H 1146   
+Free-floating subdivisions under:  H 1147-H 1200 
+Music headings governed by: H 250  
+
+
+<<<PAGE 72>>>
+ 
+Index - Page 72 
+Subject Headings Manual 
+August 2023 
+Pavilions 
+Established as subject headings:  H 405   
+Peoples, Ancient 
+SEE  Ancient peoples 
+People's Republic of China 
+SEE  China 
+Performing arts 
+SEE ALSO   Drama 
+Music 
+—Reviews:  H 2021   
+Period subdivisions 
+SEE Chronological subdivisions 
+Periodicals as a subdivision:  H 1927, H 2060 
+Form subdivisions not further subdivided by —Periodicals:  H 1927   
+Periodicals, Bibliographies of:  H 1927   
+Periodicals, Catalogs of:  H 1361   
+Periodicals, Electronic:  H 1580.5 
+Persian subject headings (Non-Roman):  H 181 
+Personal correspondence 
+SEE  Correspondence of individual persons 
+Personal names 
+SEE  Names of persons 
+Personal narratives as a subdivision:  H 1480, H 1538, H 1928 
+Persons, Classes of 
+SEE  Classes of persons 
+Persons, Names of 
+SEE  Names of persons 
+Pets 
+Biography:  H 1720 
+Philosophers 
+—Philosophy not used under names of individual philosophers:  H 1929 
+Philosophy headings 
+Usage of —History under:  H 1647   
+Photograph collections as a subdivision:  H 1427   
+Photographs as a subdivision:  H 1935   
+Photographs from space as a subdivision:  H 1210.5   
+Photography:  H 1935   
+Photography, Aerial:  H 1210.5 
+Photography, Artistic:  H 1255 
+Photography, Portrait:  H 1255   
+
+
+<<<PAGE 73>>>
+ 
+Subject Headings Manual 
+Index - Page 73 
+ 
+August 2023 
+Photography, Space:  H 1210.5   
+Phrase headings 
+SEE ALSO   [ . . . ] and [ . . . ] headings 
+Free-floating terms and phrases 
+[ . . . ] in [ . . . ] headings 
+Broader terms:  H 370  
+Phrase headings vs. subdivisions 
+[ . . . ] and [ . . . ] headings:  H 310 
+Established phrase headings vs. free-floating subdivisions:  H 1095   
+Piano 
+Free-floating subdivisions under:  H 1161 
+Pictorial works as a subdivision:  H 1935 
+Picture dictionaries:  H 1540   
+Pipelines 
+Established as subject headings:  H 405   
+Place names 
+SEE ALSO   Geographic name headings 
+Geographic subject headings 
+Biography:  H 1330   
+Dictionaries (Gazetteers) 
+SEE  Gazetteers 
+Free-floating subdivisions under:  H 1140 
+Local history and genealogical source material:  H 1845 
+Newspapers:  H 1920   
+Used as topical subdivisions 
+Subfield coding:  H 830   
+Plains 
+Established as subject headings:  H 690   
+Planetariums 
+Established as name headings:  H 405   
+Planets 
+SEE  Celestial bodies 
+Planned communities 
+Established as name headings:  H 405   
+Plans (Programs) 
+Established as name headings:  H 405   
+Plants 
+SEE ALSO   Domestic plants 
+Assigning classification numbers:  H 1332   
+Establishing biological names:  H 1332  
+
+
+<<<PAGE 74>>>
+ 
+Index - Page 74 
+Subject Headings Manual 
+August 2023 
+Plants  (Continued) 
+Headings previously unprinted in Library of Congress Subject Headings:  H 1332   
+Geographic subdivision allowed at any taxonomic level:  H 1332   
+Pattern heading:  H 1180 
+Subject heading proposals:  H 1332 
+Playgrounds 
+Established as subject headings:  H 405   
+Plays 
+SEE  Drama 
+Plays, Children's 
+SEE  Juvenile drama 
+Plazas:  H 1334   
+Established as subject headings:  H 405   
+Plural vs. singular form of subject headings:  H 285 
+Animals:  H 1332   
+[ . . . ] as [ . . . ] headings:  H 360 
+Musical compositions:  H 250, H 1160, H 1917.5   
+Musical instruments: H 250, H 1917.5, H 1918 
+Parts of the body:  H 285   
+Plants:  H 1332   
+Products:  H 285   
+Poetry: H 1800 
+Poetry, Children's 
+SEE  Juvenile poetry 
+Poetry, Folk 
+SEE  Folk poetry 
+Poetry as a subdivision:  H 1800   
+Fictitious characters:  H 1610   
+Place names:  H 910   
+Poets 
+SEE  Literary authors, Groups 
+Literary authors, Individual 
+Police stations 
+Established as subject headings:  H 405   
+Political activity as a subdivision:  H 1942   
+Political aspects as a subdivision:  H 1942   
+Political divisions of countries 
+SEE  Geographic name headings—First order political divisions of countries 
+Political history 
+SEE  Politics and government as a subdivision 
+
+
+<<<PAGE 75>>>
+ 
+Subject Headings Manual 
+Index - Page 75 
+ 
+August 2023 
+Political incidents 
+Formulating headings:  H 1592 
+Political jurisdictions 
+SEE  Geographic name headings 
+Political participation:  H 1942   
+Political science:  H 1942   
+Politicians 
+Free-floating subdivisions under:  H 1110 
+Politics, Practical:  H 1942   
+Politics and government as a subdivision:  H 1942 
+Polyglot dictionaries:  H 1540 
+Pools, Public 
+Established as subject headings: H 405   
+Poorhouses 
+Established as name headings:  H 405   
+Popular music:  H 1916.5 
+Popular works as a subdivision:  H 1943.5 
+Port authorities 
+Established as name headings:  H 405   
+Portals as building details 
+SEE  Building details 
+Portrait photography:  H 1255   
+Portraits as a subdivision:  H 1935   
+Ports 
+Established as subject headings:  H 405   
+Possessions 
+SEE  Territories and possessions as a subdivision 
+Post offices 
+Established as subject headings:  H 405   
+Postage stamps on specific topics:  H 1945 
+Poster collections:  H 1945.5   
+Poster collections as a subdivision:  H 1427   
+Posters:  H 1945.5 
+Qualifying by nationalities:  H 1945.5   
+Posters, Travel 
+SEE  Travel posters 
+Posters as a subdivision:  H 1945.5 
+Posthouses 
+Established as subject headings:  H 405   
+Power plants 
+Established as subject headings:  H 405   
+
+
+<<<PAGE 76>>>
+ 
+Index - Page 76 
+Subject Headings Manual 
+August 2023 
+Preaching:  H 2032   
+Prehistoric periods and cultures:  H 1225   
+Prepositional phrase headings 
+SEE  Phrase headings 
+Presidential mansions 
+Established as subject headings:  H 405   
+Presidents 
+SEE Rulers and statesmen 
+Princes:  H 1574   
+Princesses:  H 1574   
+Prisons 
+Established as name headings:  H 405   
+Private book collections 
+SEE  Library as a subdivision 
+Private collections:  H 1427 
+Private collections as a subdivision:  H 1360, H 1427 
+Use of geographic subdivision for location of collection:  H 1427   
+Prizes:  H 1265 
+Products 
+Singlular vs. plural:  H 285   
+Professional ethics:  H 1949 
+Professional ethics as a subdivision:  H 1949 
+Programs (Plans) 
+Established as name headings:  H 405   
+Programs, Computer 
+SEE  Computer programs, Individual 
+Projects 
+Established as name headings:  H 405   
+Proper names 
+SEE  Name headings 
+Proposals for name authority records made by subject catalogers 
+Adding 781 fields:  H 835   
+Dividing corporate name headings geographically:  H 475 
+Proposals for subject headings 
+SEE  Subject heading proposals 
+"Subject heading proposals" as a subtopic under specific topics 
+Proverbs 
+Literary genre vs. folklore genre:  H 1627   
+Provinces as a subdivision:  H 713 
+Provisional name headings:  H 436 
+
+
+<<<PAGE 77>>>
+ 
+Subject Headings Manual 
+Index - Page 77 
+ 
+August 2023 
+Provisional subject headings:  H 1334   
+Psychological testing as a subdivision:  H 2186 
+Public buildings 
+Broader terms:  H 1334   
+Public celebrations 
+Established as name headings:  H 405   
+Public comfort stations 
+Established as subject headings:  H 405   
+Public opinion as a subdivision:  H 1955 
+Public pools 
+Established as subject headings: H 405   
+Publishers' catalogs:  H 1965 
+Publishers' imprints 
+Established as name headings:  H 405   
+Pueblos 
+Established as name headings:  H 405   
+Puerto Rico 
+Abbreviation as geographic qualifier:  H 810   
+Punctuation:  Appendix D 
+Headings using free-floating terms and phrases:  H 362   
+Music form/genre headings:  H 1917.5  
+[ . . . ] Region headings:  H 362, H 760   
+Purges 
+Formulating headings:  H 1592 
+ 
+ 
+ 
+- Q - 
+ 
+Qualifiers, Geographic 
+SEE  Geographic qualifiers 
+Qualifiers, Parenthetical, in subject headings 
+SEE  Parenthetical qualifiers in subject headings 
+Qualifiers, Subject heading 
+SEE  Subject heading qualifiers 
+Quarters of cities:  H 720 
+Established as name headings:  H 405, H 720   
+Free-floating subdivisions under:  H 1140 
+Geographic subdivision:  H 720, H 830   
+Queens:  H 1574   
+Questions and answers:  H 1910 
+Quotations as a subdivision:  H 1969 
+Quotations, maxims, etc. as a subdivision:  H 1969 
+
+
+<<<PAGE 78>>>
+ 
+Index - Page 78 
+Subject Headings Manual 
+August 2023 
+ 
+- R - 
+ 
+Races (Contests) 
+Established as name headings:  H 405   
+Racetracks 
+Established as subject headings: H 405   
+Radio genre/form terms: H 1969.5 
+Radio programs 
+Established as name headings:  H 405   
+Raids 
+Formulating headings:  H 1592 
+Railroads:  H 1970 
+Established as name headings:  H 405, H 1970   
+Railway stations 
+Established as subject headings:  H 405   
+Ranches 
+Established as subject headings:  H 405   
+RDA name headings:  H 405, H 430   
+ 
+Extinct cities:  H 715   
+Readers:  H 1975 
+Readers as a subdivision:  H 1975 
+Reading films, Juvenile 
+SEE  Juvenile films 
+Reading interests:  H 1333 
+Recipes:  H 1475 
+Recordings, Catalogs of 
+SEE  Audiotape catalogs as a subdivision 
+Discography as a subdivision 
+Film catalogs as a subdivision 
+Recordings, Juvenile sound 
+SEE  Juvenile sound recordings 
+Recreation areas 
+Established as subject headings:  H 405   
+Recreation districts 
+Established as name headings:  H 405   
+Recruiting, enlistment, etc. as a subdivision 
+Subdividing by wars:  H 1159   
+Reference books:  H 1980 
+Bibliographies:  H 1980   
+
+
+<<<PAGE 79>>>
+ 
+Subject Headings Manual 
+Index - Page 79 
+ 
+August 2023 
+References 
+SEE  Broader terms 
+Narrower terms 
+Related terms 
+"Used for" references 
+Referrals to descriptive catalogers 
+Requests to have named entities established:  H 405   
+Refugee camps 
+Established as name headings:  H 405   
+Regimental histories as a subdivision:  H 1995 
+Regions, Geographic 
+City regions:  H 362, H 790  
+Extinct cities:  H 715, H 760   
+Geographic subdivision:  H 830   
+Constructing headings with the free-floating term [ . . . ] Region:  H 362, H 760 
+Established as subject headings:  H 690   
+Free-floating subdivisions under:  H 1140 
+Geographic subdivision:  H 830   
+Regions based on international organizations:  H 760   
+Regions based on rivers:  H 362, H 800, H 1145.5   
+Regions as a subdivision:  H 713 
+Regions of the body 
+Pattern heading:  H 1164 
+Registers of births, etc.:  H 1631, H 1845   
+Reigns 
+Formulating headings:  H 1592 
+Related terms:  H 370  
+Changing references:  H 195   
+Keying in subject authority records:  H 200  
+Moving image genre/form terms:  H 1913   
+Radio genre/form terms: H 1969.5   
+Relations as a subdivision:  H 1996 
+Relationships between two topics 
+[ . . . ] and [ . . . ] headings:  H 310 
+Religion as a subdivision:  H 1997 
+—Religion—History not used:  H 1997  
+Religions:  H 1998, H 2015 
+—Apologetic works:  H 1472   
+As subdivisions under —Religions aspects:  H 1998   
+As subdivisions under topical headings:  H 2015   
+
+
+<<<PAGE 80>>>
+ 
+Index - Page 80 
+Subject Headings Manual 
+August 2023 
+Religions (Continued) 
+Civilization:  H 1370   
+—Controversial literature:  H 1472   
+Corporate body headings established as name headings:  H 405   
+Founders of 
+Biography:  H 1330   
+Established subdivisions vs. free-floating subdivisions:  H 1110   
+Free-floating subdivisions under:  H 1110 
+Subdivisions for events focused on:  H 1592   
+—Liturgy—Texts:  H 2190   
+Pattern heading:  H 1185 
+—Rituals—Texts:  H 2190   
+Religious aspects as a subdivision:  H 1998 
+Subdivided by religions and denominations:  H 1998   
+Religious denominations 
+SEE ALSO   Christian denominations 
+Religious sects 
+Established as name headings:  H 405   
+Religious education textbooks:  H 2187   
+Religious groups 
+Music: H 1916.3, H 1917 
+Religious life:  H 2015.5 
+SEE ALSO   Christian life 
+Religious life and customs as a subdivision:  H 2016 
+Religious life as a subdivision:  H 2015.5 
+Religious orders 
+Adjectival qualifiers for subject headings:  H 306   
+—Controversial literature:  H 1472   
+—Monastic and religious life:  H 2015.5   
+Pattern heading:  H 1186 
+Religious qualifiers for subject headings:  H 306   
+Religious sects:  H 2015   
+SEE ALSO   Christian denominations 
+—Apologetic works:  H 1472 
+As subdivisions under —Religious aspects:  H 1998   
+As subdivisions under topical headings:  H 2015   
+—Civilization not used:  H 1370   
+—Controversial literature:  H 1472   
+
+
+<<<PAGE 81>>>
+ 
+Subject Headings Manual 
+Index - Page 81 
+ 
+August 2023 
+Religious sects (Continued)  
+Corporate body headings established as name headings:  H 405   
+—Liturgy—Texts:  H 2190   
+Pattern heading:  H 1185 
+—Rituals—Texts:  H 2190   
+Religious works 
+SEE ALSO   Sacred works 
+—History and criticism:  H 2190   
+Manuscripts:  H 1855 
+Remote-controlled vehicles 
+Established as subject headings:  H 405   
+Republic of China 
+SEE  Taiwan 
+Republics as a subdivision:  H 713 
+Republics of the former Soviet Union:  H 1023 
+Requests to descriptive catalogers to establish named entities:  H 405   
+Research, Legal 
+SEE  Legal research as a subdivision 
+Research as a subdivision 
+Research as a subdivision:  H 2020 
+Legal materials:  H 1710 
+Research for subject heading proposals:  H 202 
+Research parks 
+ 
+Established as name headings:  H 405 
+Research stations 
+Established as name headings:  H 405   
+Reservations, Indian 
+Established as subject headings:  H 405   
+Reserves 
+Established as subject headings:  H 405   
+Subject heading proposals:  H 1925 
+Use of vernacular:  H 1925   
+Reserves (Administrative agencies) 
+Established as name headings:  H 405   
+Reservoirs 
+Established as subject headings:  H 690   
+Free-floating subdivisions under:  H 1145.5 
+Resorts 
+Established as subject headings:  H 405   
+Restaurants 
+Established as name headings:  H 405   
+
+
+<<<PAGE 82>>>
+ 
+Index - Page 82 
+Subject Headings Manual 
+August 2023 
+Retail stores 
+Established as name headings:  H 405   
+Retail trade 
+Free-floating subdivisions under:  H 1153 
+Return migration:  H 1581   
+Reviews as a subdivision:  H 2021 
+Revolutions 
+SEE ALSO   Cultural revolutions 
+Formulating headings:  H 1592 
+Pattern heading:  H 1200 
+Rhymes, Nursery 
+SEE  Nursery rhymes 
+Riddles 
+Literary genre vs. folklore genre:  H 1627   
+Riots 
+Formulating headings:  H 1592 
+Geographic subdivision to the city level:  H 1560   
+Rituals—Texts as a subdivision:  H 2190   
+River basins 
+SEE  Watersheds 
+River deltas 
+SEE Deltas 
+River regions:  H 362, H 800, H 1145.5   
+River valleys 
+SEE ALSO   Rivers 
+Valleys 
+Formulating headings:  H 800, H 1145.5   
+[ . . . ] Region 
+Headings not constructed for regions based on river valleys:  H 760   
+Rivers 
+SEE ALSO   Estuaries 
+Forks of rivers 
+River regions 
+River valleys 
+Watersheds 
+Wild and scenic rivers 
+Established as subject headings:  H 690   
+Free-floating region headings based on names of rivers:  H 362, H 800, H 1145.5   
+Free-floating subdivisions under:  H 1145.5 
+
+
+<<<PAGE 83>>>
+ 
+Subject Headings Manual 
+Index - Page 83 
+ 
+August 2023 
+Rivers (Continued) 
+Geographic subdivision:  H 800   
+Subject heading proposals:  H 800 
+Geographic qualifiers:  H 800  
+References:  H 800  
+Roads 
+Established as subject headings:  H 405   
+Geographic subdivision:  H 830   
+Subject heading proposals:  H 2098 
+Geographic qualifiers:  H 2098   
+Use of vernacular:  H 690, H 2098   
+Rockshelters 
+Subject heading proposals:  H 1225   
+Roman gods 
+SEE  Greek and Roman gods 
+Roman numerals 
+SEE  Numerals 
+Romance languages 
+SEE ALSO   Foreign languages, Subject headings for 
+Free-floating subdivisions under:  H 1154 
+Romances:  H 1795 
+Romances, Arthurian 
+SEE  Arthurian romances 
+Romances as a subdivision:  H 1795   
+Romanization 
+Arabic/Persian subject headings:  H 181 
+CJK subject headings:  H 182 
+Greek and Hebrew letters in subject headings: Appendix C   
+Topical headings established in foreign languages:  H 315 
+UF references for geographic headings:  H 690   
+Rooms as building details:  H 1334 
+Established as subject headings:  H 405   
+Royal houses:  H 1574 
+—Biography not used:  H 1574   
+Free-floating subdivisions under:  H 1120 
+Subject heading proposals:  H 1574  
+RTs 
+SEE  Related terms 
+
+
+<<<PAGE 84>>>
+ 
+Index - Page 84 
+Subject Headings Manual 
+August 2023 
+Rulers and statesmen 
+SEE ALSO   Kings and rulers as a subdivision 
+Biography:  H 1330   
+Free-floating subdivisions under:  H 1110 
+Russia:  H 1023   
+Russian as adjectival qualifier 
+vs. Soviet:  H 1023   
+ 
+ 
+ 
+ - S - 
+ 
+Sacred texts set to music:  H 250, H 1916.3   
+Sacred works 
+SEE ALSO   Religious works 
+Translations—Sacred works 
+specific sacred books 
+Commentaries:  H 1435   
+—Controversial literature:  H 1472   
+—History—Chronology:  H 1367   
+Manuscripts:  H 1855  
+Pattern heading:  H 1188 
+—Textbooks:  H 2187   
+—Translations:  H 1300   
+—Translations into [ . . . ]:  H 1300   
+Versions or translations:  H 1300, H 1435   
+Safety regulations as a subdivision:  H 1705 
+Saint 
+Abbreviations:  Appendix A  
+Family names:  H 1631   
+Sanatoriums 
+Established as name headings:  H 405   
+Sanitary landfills 
+Established as subject headings:  H 405   
+Sanitation districts 
+Established as name headings:  H 405   
+Satellites (Moons) 
+Established as subject headings: H 405   
+Satellites, Artificial 
+Established as name headings:  H 405   
+
+
+<<<PAGE 85>>>
+ 
+Subject Headings Manual 
+Index - Page 85 
+ 
+August 2023 
+Scandals 
+Formulating headings:  H 1592 
+Scenic rivers 
+SEE  Wild and scenic rivers 
+School districts 
+Established as name headings:  H 450   
+Schools (Educational institutions) 
+Established as name headings:  H 405   
+Schools (Groups of people) 
+Capitalization: Appendix B   
+Schools of artists 
+Capitalization: Appendix B   
+Established as subject headings:  H 405   
+Scientific and technical atlases:  H 1935   
+Scientific apparatus collections as a subdivision:  H 1427   
+Scientific expeditions: 
+Established as name headings:  H 405   
+Scope notes:  H 400 
+Adding to an existing heading:  H 400   
+Changing an existing note:  H 400   
+Moving image genre/form terms:  H 1913   
+Proposing with a new heading:  H 200, H 400   
+Radio genre/form terms: H 1969.5   
+Scope notes that allow for free-floating subdivision of headings:  H 1090   
+Scores 
+Not forwarded to the Data Integrity Section when proposing new headings:  
+H 250   
+Scotland 
+Geographic subdivision:  H 955   
+Law cataloging:  H 955   
+Sculpture:  H 1250   
+Seas 
+Established as subject headings:  H 690   
+Free-floating subdivisions under:  H 1145.5 
+Sections, columns, etc. —Reviews as a subdivision:  H 2021   
+Sects, Christian 
+SEE  Christian denominations 
+Sects, Religious 
+SEE  Religious sects 
+
+
+<<<PAGE 86>>>
+ 
+Index - Page 86 
+Subject Headings Manual 
+August 2023 
+"See also" references 
+SEE  Broader terms 
+Narrower terms 
+Related terms 
+"See also" references, General 
+SEE  General see also references 
+"See" references 
+SEE  "Used for" references 
+"See" references, General 
+SEE General see references 
+Selections 
+Not used in name-title subject headings for musical works: H 1438   
+Serbia:  H 1055 
+Serbia and Montenegro:  H 1055 
+Qualification of geographic headings:  H 810   
+Serials:  H 178 
+Serials, Electronic:  H 1580.5 
+Sermons:  H 2032 
+Service stations 
+Established as name headings:  H 405   
+Shakespeare, William, 1564-1616 
+Free-floating subdivisions under:  H 1110 
+Shakespeare, William, 1564-1616. Hamlet 
+Free-floating subdivisions under:  H 1155.6 
+Ships 
+Established as name headings:  H 405   
+Shipyards 
+Established as name headings:  H 405   
+Shopping centers 
+Established as name headings:  H 405   
+Short films:  H 1913   
+Shows (Exhibitions) 
+Established as name headings:  H 405   
+Shrines 
+Established as subject headings:  H 405   
+Sieges:  H 1560, H 1592   
+Formulating headings:  H 1592 
+Simulation methods as a subdivision:  H 2040, H 2110   
+
+
+<<<PAGE 87>>>
+ 
+Subject Headings Manual 
+Index - Page 87 
+ 
+August 2023 
+Singular vs. plural form of subject headings:  H 285 
+Animals:  H 1332   
+[ . . . ] as [ . . . ] headings:  H 360 
+Musical compositions: H 250, H 1160, H 1917.5   
+Musical instruments: H 250, H 1917.5, H 1918  
+Parts of the body:  H 285   
+Plants:  H 1332   
+Products:  H 285   
+Sites, Archaeological 
+SEE  Archaeological sites 
+653 field for uncontrolled subject terms:  H 160 
+Slide collections as a subdivision:  H 1427   
+Slides:  H 2230 
+Slides as a subdivision: H 1935   
+Slovenia:  H 1055 
+Social conditions as a subdivision:  H 2055 
+Social history 
+Definition and comparison with Civilization:  H 1370   
+Social life and customs as a subdivision:  H 2057 
+Folklore materials:  H 1627   
+—History not used:  H 2057   
+Period subdivisions:  H 2057   
+Societies and clubs as a subdivision:  H 2060 
+Societies, etc. as a subdivision:  H 2060 
+Family names:  H 1631   
+Socioeconomic status as a subdivision 
+Discontinued:  H 1578, H 2055   
+Sociological aspects as a subdivision:  H 2055   
+Software:  H 2070 
+Individual computer programs established as name headings:  H 405   
+Juvenile software: H 1690   
+Song texts 
+Language: H 250, H 1916.3, H 1917 
+Without the music: H 2190   
+Songs, Folk 
+SEE  Folk songs 
+Songs and music as a subdivision:  H 1160, H 1916.3, H 2075 
+Sound recording labels 
+Established as name headings:  H 405   
+
+
+<<<PAGE 88>>>
+ 
+Index - Page 88 
+Subject Headings Manual 
+August 2023 
+Sound recordings 
+Jazz and popular music 
+Chronological subdivisions: H 1916.5   
+Non-music: H 2230 
+Not forwarded to the Data Integrity Section when proposing new headings:  
+H 250   
+Sound recordings, Non-music:  H 2230 
+Source materials:  H 2080 
+SEE ALSO   specific types of source materials 
+Bibliographies:  H 2080 
+Catalogs:  H 2080   
+Sources as a subdivision:  H 1480, H 2080 
+Government publications:  H 1643   
+Southern, Central, Northern, etc., as qualifiers: 
+Headings for regions:  H 760 
+Sovereignties, Territorial 
+SEE  Territorial sovereignties 
+Soviet as adjectival qualifier 
+vs. Russian:  H 1023   
+Soviet republics, Former:  H 1023 
+Soviet Union:  H 1023   
+Space exploration:  H 1564   
+Space photography:  H 1210.5   
+Space vehicles 
+Established as name headings: H 405   
+Spanish America 
+SEE  Latin America 
+Spas 
+Established as subject headings:  H 405   
+Special characters:  Appendix C 
+Special days:  H 1592 
+Special decades:  H 1592 
+Special months:  H 1592 
+Special weeks:  H 1592 
+Special years:  H 1592 
+Specifications:  H 2083 
+Specifications as a subdivision:  H 2083 
+Specificity of subject headings:  H 180   
+Splits of jurisdictions into two or more entities:  H 710 
+
+
+<<<PAGE 89>>>
+ 
+Subject Headings Manual 
+Index - Page 89 
+ 
+August 2023 
+Sports arenas 
+Established as subject headings:  H 405   
+Sports events 
+SEE ALSO   specific types of sports events 
+Established as name headings:  H 405   
+Sports facilities 
+Established as subject headings:  H 405   
+Spouses of famous people 
+Biography:  H 1330   
+Squadrons 
+Use of —Regimental histories:  H 1995 
+Stadiums 
+Established as subject headings:  H 405   
+Stagecoach stations 
+Established as subject headings:  H 405   
+Stamp collections as a subdivision:  H 1427   
+States as a subdivision:  H 713 
+Statesmen 
+SEE  Rulers and statesmen 
+Statistical methods as a subdivision:  H 2095   
+Statistical services as a subdivision:  H 2095   
+Statistics:  H 2095 
+Nature of work/nature of contents codes:  H 2095   
+Statistics, Medical 
+SEE  Medical statistics 
+Statistics, Vital 
+SEE  Vital statistics 
+Statistics as a subdivision:  H 2095   
+Statues 
+SEE  Monuments 
+Steppes 
+Established as subject headings:  H 690   
+Stock exchanges 
+Established as name headings:  H 405   
+Stores, Retail 
+Established as name headings:  H 405   
+Stories as a subdivision 
+Discontinued:  H 1790   
+Storms 
+Geographic subdivision to the city level:  H 1560   
+
+
+<<<PAGE 90>>>
+ 
+Index - Page 90 
+Subject Headings Manual 
+August 2023 
+Straight word order 
+Topical subject headings:  H 306 
+Street addresses 
+Buildings established as street addresses:  H 1334   
+Streets 
+Established as subject headings:  H 405   
+Geographic subdivision:  H 830   
+Subject heading proposals:  H 2098 
+Geographic qualifiers:  H 2098   
+Use of vernacular:  H 690, H 2098   
+Strikes:  H 2100 
+Structures 
+SEE  Buildings and structures 
+Students 
+Qualifying by nationality:  H 350   
+Students—Yearbooks as a subdivision:  H 2400 
+Studies (Research projects) 
+Established as name headings:  H 405   
+Studies and exercises as a subdivision: H 1161   
+Study and teaching as a subdivision:  H 2110 
+Area studies:  H 2110   
+—Activity programs:  H 2110   
+—Audio-visual aids:  H 2110   
+—Simulation methods:  H 2110   
+—Supervision:  H 2110   
+Subdivision, Geographic 
+SEE  Geographic subdivisions 
+Subdivision, Indirect 
+SEE  Geographic subdivisions 
+Subdivisions:  H 1075 
+SEE ALSO   Chronological subdivisions 
+Discontinued subdivisions 
+Form subdivisions 
+Free-floating subdivisions 
+Geographic subdivisions 
+Multiple subdivisions 
+specific pattern headings 
+Abbreviated forms discontinued: Appendix A   
+Broader terms:  H 370  
+Controlled by pattern headings:  H 1146-H 1200 
+
+
+<<<PAGE 91>>>
+ 
+Subject Headings Manual 
+Index - Page 91 
+ 
+August 2023 
+Subdivisions (Continued) 
+Formulating dates for specific events:  H 1078 
+Further subdividing by place:  H 860 
+"General see also" references:  H 371  
+"General see" references:  H 374   
+Interposing place between subject headings and topical subdivisions:  H 870 
+Order of subdivisions:  H 1075  
+Proposals to establish 
+Multiple subdivisions:  H 1090   
+Religions:  H 1998, H 2015   
+Subdivisions having general application:  H 205 
+Subdivisions qualified by nationality, ethnic group, language, etc.:  H 320 
+Subdivisions under pattern headings:  H 1146   
+Subdivisions vs. phrase headings 
+[ . . . ] and [ . . . ] headings:  H 310 
+Established phrase headings vs. free-floating subdivisions:  H 1095   
+Subfield coding 
+Events established as subdivisions:  H 1592   
+Geographic subdivisions:  H 830   
+Names of places used as topical subdivisions:  H 830   
+Subheadings as "used for" references:  H 373   
+"Subj Headings Manual/RDA" notation in name authority records:  H 405   
+Subject authority records:  H 40 
+Changing existing records:  H 193 
+Adding (May Subd Geog):  H 194, H 250   
+Changing classification numbers:  H 196 
+Changing references:  H 195 
+Deleting subject authority records:  H 193, H 193.5 
+Characteristics of records in the file:  H 40   
+Creating new authority records:  H 200 
+Filling hierarchical "gaps":  H 370   
+Headings previously unprinted in Library of Congress Subject Headings 
+Biological names:  H 1332   
+Geographic subdivision information in 781 fields:  H 836 
+Historical background:  H 40   
+Status of headings:  H 40   
+Subject dictionaries:  H 1540  
+Subject heading assignment:  H 180 
+SEE ALSO   specific topics 
+Editions:  H 175 
+
+
+<<<PAGE 92>>>
+ 
+Index - Page 92 
+Subject Headings Manual 
+August 2023 
+Subject heading assignment (Continued) 
+Latest name of jurisdictions:  H 708, H 830   
+Order of headings:  H 80 
+Subject authority records:  H 40   
+Subject headings identical to descriptive access points:  H 184 
+Subject heading changes in bibliographic records:  H 165 
+Subject heading construction:  H 180  
+Music headings: H 250, H 1438, H 1916.3, H 1917.5 
+Musical instruments:  H 1918 
+Subject Heading Proposal System:  H 40, H 193, H 194, H 195, H 200 
+Subject heading proposals:  H 200 
+SEE ALSO   "Subject heading proposals" as a subtopic under specific topics 
+Abbreviations in subject headings:  Appendix A, H 373   
+Acronyms as subject headings:  H 373   
+Articles in the initial position in subject headings:  H 290 
+Authority research:  H 202 
+Checklist:  H 202   
+Broader terms and narrower terms:  H 200, H 370, H 375 
+Cataloger comments accompanying proposals:  H 200   
+Categories of headings established as name or subject headings:  H 405 
+Changing existing headings 
+Adding (May Subd Geog):  H 193, H 194 
+Changing classification numbers:  H 196 
+Changing references:  H 195 
+Deleting subject authority records:  H 193, H 193.5 
+Checklist for new subject heading proposals:  H 200  
+Citing sources:  H 200, H 203 
+Subject Headings Manual as a source:  H 200   
+Classification numbers:  H 365 
+Changing numbers associated with existing headings:  H 196 
+Musical instruments:  H 1918   
+New subject headings:  H 200   
+Diacritics and special characters in subject headings: Appendix C 
+"Gaps" in hierarchical reference structure:  H 370   
+LC patterns 
+Criteria for citing:  H 202   
+Procedure for citing in subject authority records:  H 200   
+Related terms:  H 200, H 370  
+Scope notes:  H 400 
+Subject authority records:  H 200 
+
+
+<<<PAGE 93>>>
+ 
+Subject Headings Manual 
+Index - Page 93 
+ 
+August 2023 
+Subject heading proposals (Continued) 
+Templates:  H 200   
+"Used for" references:  H 200, H 373 
+When to propose new subject headings H 187 
+Subject heading qualifiers 
+SEE ALSO   Geographic qualifiers 
+Language qualifiers for subject headings 
+Art qualifiers:  H 306, H 1250 
+Ethnic qualifiers:  H 306, H 351 
+Not used with headings in the field of music: H 1917   
+Language qualifiers:  H 250, H 306   
+Music headings:  H 250, H 306, H 1160, H 1916.3, H 1917, H 1917.5, H 1918   
+Nationality qualifiers:  H 306, H 320, H 350 
+Not used with headings in the field of music: H 1917   
+Parenthetical qualifiers:  H 357 
+Music: H 250, H 1916.3, H 1916.5, H 1917.5 
+Musical instruments:  H 1918 
+Religious qualifiers:  H 306   
+Time periods:  H 306   
+Subject headings, Authority records for 
+SEE  Subject authority records 
+Subject headings, Cancelling: 
+SEE  Cancelling subject headings 
+Subject headings, Changing existing 
+SEE  Changing existing subject headings 
+Subject headings in bibliographic records, Changing:  H 165 
+Subject headings, Specificity of:  H 180   
+Subject usage information in name authority records:  H 432, H 708, H 835 
+Geographic subdivision information:  H 835 
+Name changes in political jurisdictions:  H 708 
+Subscript characters:  Appendix C   
+[ . . . ] Suburban Area:  H 362, H 790, H 1140   
+Suburbs and environs as a subdivision 
+Discontinued:  H 790   
+Superscript characters: Appendix C   
+Supplements:  H 2145 
+Surveys:  H 2149 
+
+
+<<<PAGE 94>>>
+ 
+Index - Page 94 
+Subject Headings Manual 
+August 2023 
+Synagogues 
+Established as name headings:  H 405   
+Systems of law:  H 1718 
+ 
+ 
+ 
+- T - 
+ 
+Tables as a subdivision:  H 2160 
+Tagging subject headings 
+Moving image genre/form terms:  H 1913   
+Radio genre/form terms: H 1969.5   
+Taiwan:  H 925   
+Wade-Giles romanization used for geographic names: H 690   
+Tajikistan:  H 1023 
+Tales:  H 1627  
+SEE ALSO   Fairy tales 
+As a folklore heading:  H 1627  
+Language qualifiers not used:  H 1627   
+Tape recordings, Catalogs of 
+SEE  Audiotape catalogs as a subdivision 
+Tape recordings, Video 
+SEE  Video recordings 
+Teacher training as a subdivision:  H 2217   
+Teachers 
+—In-service training:  H 2217   
+—Training of:  H 2217 
+Teaching films, Foreign language:  H 2230   
+Technical atlases:  H 1935   
+Telephone calls 
+Citing in subject authority records:  H 203   
+Telephone directories as a subdivision:  H 1558   
+Television programs 
+Established as name headings:  H 405   
+Template for proposing genre/form terms:  H 200   
+Templates for proposing Children’s Subject Headings:  H 200   
+Templates for proposing subject headings:  H 200   
+Temples in ruins 
+Established as subject headings:  H 405   
+Temples in use 
+Established as name headings:  H 405   
+
+
+<<<PAGE 95>>>
+ 
+Subject Headings Manual 
+Index - Page 95 
+ 
+August 2023 
+Terminal buildings 
+Established as subject headings:  H 405   
+Terminology as a subdivision:  H 2184   
+—Dictionaries not used:  H 2184   
+Terms and phrases as a subdivision:  H 1540, H 2184   
+—Dictionaries not used:  H 2184   
+Territorial questions as a subdivision:  H 1333.5   
+Territorial sovereignties 
+Geographic subdivision:  H 830   
+Territories and possessions as a subdivision:  H 2185 
+SEE ALSO   Colonies of individual countries 
+Terrorist attacks 
+Not covered by pattern heading for wars:  H 1200   
+Testing as a subdivision:  H 2186 
+Textbooks:  H 2187 
+SEE ALSO   Juvenile textbooks 
+—Study and teaching not used:  H 2110   
+Textbooks, Religious education 
+SEE  Religious education textbooks 
+Textbooks as a subdivision:  H 1690, H 2187 
+Textbooks for English, [French, etc.] speakers as a subdivision:  H 2187   
+Textbooks for foreign speakers as a subdivision:  H 2187   
+Texts as a subdivision:  H 2190 
+Music:  H 1160, H 1917   
+"The" in the initial position in subject headings:  H 290, H 690   
+Theater buildings 
+Established as subject headings:  H 405   
+Theater companies 
+Established as name headings:  H 405   
+Theater disaster, [date] as a subdivision 
+Discontinued:  H 1560   
+Theme parks 
+Established as subject headings: H 405   
+Themes, motives as a subdivision:  H 1627   
+Theology as a subdivision 
+Usage under Bible:  H 1295   
+Theses:  H 1570 
+Time period qualifiers for subject headings:  H 306   
+Time periods:  H 620 
+
+
+<<<PAGE 96>>>
+ 
+Index - Page 96 
+Subject Headings Manual 
+August 2023 
+Title added entries, Partial 
+SEE  Partial title added entries 
+Titles of publications as subject headings:  H 290, H 1435   
+Tombs 
+Established as subject headings:  H 405   
+Topical subdivisions:  H 1075   
+Literature about music:  H 1160   
+Musical instruments:  H 1161 
+Topical subject headings 
+Music:  H 1160, H 1916.3 
+Template for proposing:  H 200   
+Tornadoes 
+Geographic subdivision to the city level:  H 1560   
+Tournaments 
+Established as name headings:  H 405   
+Tours as a subdivision:  H 1645   
+Towers 
+Established as subject headings:  H 405   
+Townships in the United States 
+Not used as geographic qualifiers:  H 810   
+Trails 
+Established as subject headings:  H 405   
+Subject heading proposals:  H 1925   
+Use of vernacular:  H 690, H 1925   
+Training of as a subdivision:  H 2110, H 2217 
+Translating and interpreting:  H 2219   
+Translating as a subdivision:  H 2219   
+Sacred works:  H 1300   
+Translating into [name of language] as a subdivision:  H 2219   
+Translating services:  H 2219   
+Translations:  H 2220 
+Classical and ancient works:  H 1412 
+Folk literature:  H 1627   
+Sacred works:  H 1300 
+Translations as a subdivision:  H 2220 
+Translations into [name of language] as a subdivision:  H 2220 
+Folk literature:  H 1627   
+Not used under headings for music of ethnic and national groups: H 1917   
+Sacred works:  H 1300   
+
+
+<<<PAGE 97>>>
+ 
+Subject Headings Manual 
+Index - Page 97 
+ 
+August 2023 
+Transliteration 
+Geographic subject headings:  H 690   
+Transportation:  H 2225 
+Transportation as a subdivision:  H 2225   
+Travel posters:  H 1945.5   
+Treaties:  H 2227 
+Established as name headings:  H 2227   
+Treaties as a subdivision:  H 2227   
+Trials:  H 2228 
+Formulating headings:  H 2228  
+Trials, litigation, etc. as a subdivision:  H 2228  
+Tribes (Ethnic groups) 
+Established as subject headings:  H 405   
+Tribes (Legal entities) 
+Established as name headings:  H 405   
+Tribes, Indigenous (U.S.) 
+As geographic subdivisions:  H 830   
+Tripitaka:  H 1300 
+Truck stops 
+Established as name headings:  H 405   
+Tsunamis 
+Geographic subdivision to the city level:  H 1560   
+Tuberculosis 
+Free-floating subdivisions under:  H 1150 
+Turkmenistan:  H 1023  
+Tunnels:  H 1334   
+Established as subject headings:  H 405   
+Typhoons 
+Geographic subdivision to the city level:  H 1560   
+ 
+ 
+ 
+- U - 
+U.S.A. 
+SEE  United States 
+U.S.S.R.:  H 1023   
+U.S. Newspaper Program:  H 1920   
+U.S. states:  H 713 
+U.S. Virgin Islands 
+SEE  United States Virgin Islands 
+United States Virgin Islands 
+Abbreviation as geographic qualifier:  H 810   
+Geographic subdivision:  H 807   
+
+
+<<<PAGE 98>>>
+ 
+Index - Page 98 
+Subject Headings Manual 
+August 2023 
+UF references 
+SEE  "Used for" references 
+Ukraine:  H 1023 
+Unaccompanied as a qualifier of music form/genre headings: H 1917.5  
+Uncontrolled subject terms in the 653 field:  H 160 
+Undertakers 
+Established as name headings:  H 405   
+Uniform titles as subject headings 
+Commentaries:  H 1435   
+Deleting articles in the initial position:  H 290 
+Established as name headings:  H 1435   
+—History not used:  H 1647   
+Tagging headings 
+Subject authority records:  H 200   
+Union catalogs:  H 1361   
+Union lists as a subdivision:  H 1361   
+Union territories as a subdivision:  H 713 
+United Kingdom 
+SEE  Great Britain 
+United States 
+Abbreviation as geographic qualifier:  H 810   
+Geographic subdivision:  H 830   
+Not used under [ . . . ] Americans:  H 1919.5   
+Not used under certain popular music headings: H 1916.5   
+Qualification of geographic headings:  H 810   
+Abbreviations of states:  H 810  
+United States—History—Civil War, 1861-1865 
+Free-floating subdivisions under:  H 1200 
+United States.  Air Force 
+Free-floating subdivisions under:  H 1159 
+United States.  Armed Forces 
+Free-floating subdivisions under:  H 1159 
+United States.  Army 
+Free-floating subdivisions under:  H 1159 
+United States.  Congress 
+Free-floating subdivisions under:  H 1155 
+United States.  Marine Corps 
+Free-floating subdivisions under:  H 1159 
+
+
+<<<PAGE 99>>>
+ 
+Subject Headings Manual 
+Index - Page 99 
+ 
+August 2023 
+United States.  Navy 
+Free-floating subdivisions under:  H 1159 
+United States Board on Geographic Names decisions 
+SEE BGN decisions 
+United States states:  H 713 
+Universities and colleges 
+Established as name headings:  H 405   
+Pattern heading for individual educational institutions:  H 1151 
+Pattern heading for types of educational institutions:  H 1151.5 
+Uprisings 
+Formulating headings:  H 1592 
+Pattern heading:  H 1200 
+Urban transportation:  H 2225 
+USA 
+SEE  United States 
+"Use" references 
+SEE "Used for references" 
+"Used for" references:  H 373 
+Changing references:  H 195   
+Contrasted with "general see" references:  H 374   
+Entering in subject authority records:  H 200   
+Foreign language terms:  H 373   
+Geographic names:  H 690 
+Headings qualified by nationality, ethnic group, or language:  H 320, H 373   
+Moving image genre/form terms:  H 1913   
+Music genre/form headings:  H 250, H 1917.5   
+Musical instruments:  H 1918   
+Radio genre/form terms:  H 1969.5    
+Subheadings:  H 373   
+Variant music subdivisions: H 1160, H 1161   
+USNP 
+SEE  U.S. Newspaper program 
+USSR:  H 1023   
+Utility districts 
+Established as name headings:  H 405   
+Uzbekistan:  H 1023 
+ 
+ 
+
+
+<<<PAGE 100>>>
+ 
+Index - Page 100 
+Subject Headings Manual 
+August 2023 
+ 
+- V - 
+ 
+Valleys 
+SEE ALSO   River valleys 
+Established as subject headings:  H 690   
+Formulating headings:  H 800   
+Vatican City:  H 1045 
+Geographic subdivision:  H 830, H 1045 
+Vedas:  H 1300 
+Vehicles, Land 
+SEE  Land vehicles 
+Vehicles, Remote-controlled 
+Established as subject headings: H 405   
+Versions as a subdivision:  H 1300   
+Video recordings:  H 2230 
+Villas 
+Established as subject headings:  H 405   
+Violin 
+Free-floating subdivisions used under:  H 1161 
+Virgin Islands of the United States 
+SEE United States Virgin Islands 
+Visual art 
+SEE  Art 
+Visual disabilities, People with 
+Visual materials for:  H 1913   
+Visual materials:  H 2230 
+Vital statistics:  H 2095   
+Vocal music headings 
+Accompaniment:  H 1917.5  
+Chorus:  H 1917.5  
+Construction: H 1917.5 
+Governed by pattern headings: H 250   
+—History and criticism:  H 2190   
+Solo voices:  H 1917.5  
+—Texts:  H 2190   
+Vocational guidance as a subdivision:  H 2232 
+Voivodeships as a subdivision:  H 713 
+
+
+<<<PAGE 101>>>
+ 
+Subject Headings Manual 
+Index - Page 101 
+ 
+August 2023 
+Volcanic eruptions 
+Formulating headings:  H 1592   
+ 
+ 
+ 
+- W - 
+ 
+Wales 
+Geographic subdivision:  H 955   
+Law cataloging:  H 955   
+Walls:  H 1334   
+Established as subject headings:  H 405   
+War crime trials:  H 2228   
+Wars 
+Biography:  H 1330   
+—Casualties—Statistics:  H 2095   
+Drama:  H 1780   
+Fiction:  H 1790   
+Formulating headings:  H 1592 
+Pattern heading:  H 1200 
+—Personal narratives:  H 1928   
+Poetry:  H 1800   
+—Public opinion:  H 1955   
+—Territorial questions:  H 1333.5   
+—Treaties:  H 2227   
+Washington (D.C.) 
+Geographic subdivision:  H 830, H 1050 
+Metropolitan Area:  H 362, H 790, H 1050 
+Region:  H 790   
+Water districts 
+Established as name headings:  H 405   
+Watersheds 
+Formulating headings:  H 800, H 1145.5   
+[ . . . ] Region 
+Headings not constructed for regions based on watersheds:  H 760   
+Waterways 
+Established as subject headings:  H 405   
+Web sites 
+Established as name headings:  H 405   
+Weeks, Special:  H 1592 
+
+
+<<<PAGE 102>>>
+ 
+Index - Page 102 
+Subject Headings Manual 
+August 2023 
+Wells 
+Established as subject headings:  H 405   
+West Bank:  H 980 
+West Germany 
+SEE  Germany 
+Wild and scenic rivers 
+Subject heading proposals:  H 800, H 1925 
+Wilderness areas:  H 1925   
+Wildlife refuges 
+SEE  Parks 
+Windows as building details:  H 1334  
+with in music form/genre headings: H 250, H 1916.3, H 1917.5
+Wives of famous men 
+Biography:  H 1330   
+Women 
+SEE ALSO   Wives of famous men 
+Biography:  H 1330   
+Works of art, Individual 
+Established as name headings: H 405   
+World politics:  H 1942   
+World War, 1939-1945 
+Free-floating subdivisions under:  H 1200 
+—Public opinion:  H 1955   
+World Wide Web 
+Citing in subject authority records:  H 203   
+ 
+ 
+ 
+- X - 
+ 
+"X" references 
+SEE  "Used for" references 
+"XX" references 
+SEE  Broader terms 
+Related terms 
+ 
+ 
+ 
+
+
+<<<PAGE 103>>>
+ 
+Subject Headings Manual 
+Index - Page 103 
+ 
+August 2023 
+ 
+- Y - 
+ 
+ 
+Yearbooks as a subdivision 
+Discontinued as a general form subdivision:  H 2400 
+Usage under —Students:  H 2400 
+Years:  H 620 
+Years, Special:  H 1592 
+Yugoslavia:  H 1055 
+ 
+ 
+ 
+- Z - 
+ 
+Zaibatsu 
+SEE  Asian conglomerate corporations 
+Zoological gardens 
+Established as name headings:  H 405   

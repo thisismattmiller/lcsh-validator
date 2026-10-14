@@ -1,0 +1,42 @@
+
+
+<<<PAGE 1>>>
+ 
+Dissertations and Theses  H 1570 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1570 Page 1 
+ 
+June 2013 
+BACKGROUND:  Bibliographies of dissertations and theses may be general in nature, or 
+limited to a particular subject.  They may also list those items accepted by a particular 
+institution or the institutions collectively of a particular geographic area.  For classification of 
+bibliographies and catalogs of dissertations and theses, see F 585. 
+ 
+ 
+ 
+ 
+ 
+1.  General rule.  Assign to a bibliography of dissertations and/or theses the appropriate 
+combination of the following subject headings: 
+ 
+ 
+6XX X0 $a [subject or name heading] $v Bibliography. 
+[Omit this heading if the work is not limited to a specific topic.] 
+ 
+610 X0 $a [institution] $x Dissertations $v Bibliography. 
+[Omit this heading if the work is not limited to a specific institution.] 
+ 
+650 #0 $a Dissertations, Academic $z [country] $v Bibliography. 
+ 
+ 
+ 
+ 
+2.  Geographic subdivision.  When subdividing the heading Dissertations, Academic 
+geographically, do not subdivide below the country level even when dealing with individual 
+institutions.  Subdivide only by names of countries or larger geographic units.  For example, 
+assign to a list of theses of Harvard University the heading Dissertations, AcademicBUnited 
+StatesB Bibliography. 
+ 

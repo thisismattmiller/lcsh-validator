@@ -1,0 +1,102 @@
+
+
+<<<PAGE 1>>>
+ 
+Headings Qualified by Nationality,  H 320  
+                                Ethnic Group, Language, etc.           
+ 
+ 
+ 
+Subject Headings Manual 
+H 320 Page 1 
+ 
+June 2018 
+1.  General provision.  Establish editorially each instance of a subject heading with an 
+adjectival qualifier for nationality, ethnic group, language, etc.  Examples: 
+ 
+150 ## $a Investments, American 
+150 ## $a Art, American                    
+150 ## $a Mythology, Armenian 
+150 ## $a Short stories, English 
+150 ## $a Mexican American children 
+ 
+Exception:  In the case of inverted subdivisions with adjectival qualifiers, individual 
+adjectives may be applied without establishing each usage if a multiple subdivision has 
+been provided in the subject authority file or on a free-floating list.  For instructions on 
+multiple subdivisions, see H 1090.  Examples: 
+ 
+650 #0 $a World War, 1939-1945 $v Personal narratives, 
+            American. 
+651 #0 $a United States $x Foreign public opinion, British. 
+ 
+If the subdivision is uninverted and no multiple has been provided, establish each 
+instance as needed. Example: 
+ 
+151 ## $a France $x Civilization $x American influences. 
+ 
+ 
+2.  Inverted or uninverted headings.  Establish all qualified headings in the inverted form 
+except for those qualified by ethnic groups of the United States or by Indian groups, major 
+literary forms (see H 306, sec. 2.a.(1); H 351), and a few other well-established patterns.   
+ 
+Note:  Headings qualified by adjectives for religious groups, including the adjectives 
+Jewish and Islamic, are established in uninverted form (cf. H 306, sec. 1). 
+ 
+Examples: 
+ 
+150 ## $a English poetry 
+150 ## $a African American children 
+150 ## $a French students 
+150 ## $a Indian women 
+150 ## $a American property 
+150 ## $a German imprints 
+
+
+<<<PAGE 2>>>
+H 320  Headings Qualified by Nationality,  
+        Ethnic Group, Language, etc. 
+ 
+ 
+ 
+H 320 Page 2 
+Subject Headings Manual 
+June 2018 
+3.  References.  Add as a standard reference to a qualified heading of this type a 450 field with 
+the alternative form of the heading.  If the heading is inverted, make the reference from the 
+straight form; if straight, make the reference from the inverted form.  Examples: 
+ 
+150 ## $a Art, French 
+450 ## $a French art 
+ 
+150 ## $a Mexican American art 
+450 ## $a Art, Mexican American 
+ 
+Do not add references from non-used variant forms of national and ethnic adjectival qualifiers.  
+Instead make general see references from non-used adjectival variants according to the 
+procedures in H 374. 
+ 
+Add additional 4XX or 5XX fields as appropriate.  Example: 
+ 
+150 ## $a College and school drama, French 
+450 ## $a French college and school drama 
+550 ## $w g $a French drama 
+ 
+ 
+ 
+4.  References for subdivisions used under qualified headings.  When a subdivision 
+established under the unqualified form of a heading has been provided with a complete reference 
+structure, that reference structure should not normally be duplicated if the same subdivision is 
+established under the qualified heading.  Examples: 
+ 
+150 ## $a Corporations $x Investor relations  
+[unqualified heading with subdivision]  
+ 
+ 
+ 
+450 ## $a Investor relations (Corporations) 
+550 ## $w g $a Public relations $x Corporations 
+550 ## $w g $a Stockholders 
+ 
+150 ## $a Corporations, American $x Investor relations 
+[qualified heading with subdivision; no additional references needed] 
+ 

@@ -1,0 +1,123 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Aerial and Space Photography H 1210.5 | Page 1 
+ 
+ 
+Aerial and Space Photography 
+H 1210.5 
+A. Background ............................................................................................................................... 1 
+B. Recent revisions ........................................................................................................................ 2 
+C. Definitions ................................................................................................................................. 2 
+D. Aerial photography ................................................................................................................... 2 
+D.1. General rule ....................................................................................................................... 2 
+D.2. By subject ........................................................................................................................... 2 
+E. Aerial photographs .................................................................................................................... 2 
+E.1. General ............................................................................................................................... 2 
+E.2. By subject ........................................................................................................................... 3 
+E.3. By place .............................................................................................................................. 3 
+F. Aerial photographs .................................................................................................................... 3 
+G. Photographs from space ........................................................................................................... 4 
+Revision history ............................................................................................................................. 4 
+A. Background 
+The heading *Aerial photography* is assigned to technical works on methods of taking 
+photographs from conventional aircraft. Headings of the type *Aerial photography in [topic]* 
+are assigned to works that discuss methods of taking aerial photographs and using them to 
+carry out work or research in a particular field. The heading *Aerial photographs* is assigned to 
+general works on the handling, maintenance, cataloging, etc., of collections of aerial 
+photographs. The subdivision *--Aerial photographs* is used under topical headings and under 
+names of countries, cities, etc., for discussions or collections of aerial photographs, or 
+reproductions of them, of a subject or place. The form subdivision *--Aerial views* is used for 
+maps depicting areas observed from the air. The form subdivision *--Photographs from space* 
+is used under topical headings and under names of countries, cities, etc., for collections of 
+photographs, or reproductions of them, taken from outer space. This instruction sheet provides 
+guidelines for assigning these headings and subdivisions. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Aerial and Space Photography H 1210.5 | Page 2 
+ 
+ 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Aerial photographs*. To replace a form subdivision that includes a demographic group, also 
+assign Library of Congress Demographic Groups Terms (LCDGT) to bring out the audience of the 
+resource being cataloged, e.g. *German speakers* or *Arabic, Students of*. 
+B. Recent revisions 
+2026-07: Updated template. Added instructions related to LCGFT implementation. 
+C. Definitions 
+Aerial photographs: Photographs taken from the air. 
+D. Aerial photography 
+D.1. General rule 
+Assign the heading *Aerial photography* to technical works on methods of taking photographs 
+from conventional aircraft. 
+D.2. By subject 
+Assign headings of the type *Aerial photography in [topic]* to works that discuss methods of 
+taking aerial photographs and using them as a tool in carrying out work or research in a 
+particular field. 
+Example: 
+Title: Color aerial photography in the plant sciences and related 
+fields. 
+650 #0 $a Aerial photography in agriculture. 
+650 #0 $a Aerial photography in forestry. 
+650 #0 $a Aerial photography in botany. 
+650 #0 $a Color photography. 
+E. Aerial photographs 
+E.1. General 
+Assign the heading *Aerial photographs* to general works on the handling, maintenance, 
+cataloging, etc., of collections of aerial photographs. 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Aerial and Space Photography H 1210.5 | Page 3 
+ 
+ 
+E.2. By subject 
+Assign the free-floating subdivision *--Aerial photographs* under topical headings to 
+collections or discussions of aerial photographs on these topics. 
+LC practice: Assign the subject heading for the topic for collections of aerial photographs or 
+reproductions of the photographs on the topic. Add the free-floating topical subdivision for 
+discussions of aerial photographs of the topic. Do not use the form subdivision. Assign LCGFT 
+appropriate to the form and/or genre of the resource in hand, e.g. LCGFT *Aerial 
+photographs*. 
+E.3. By place 
+Assign the free-floating subdivision *--Aerial photographs* under names of countries, cities, 
+etc., to discussions or collections of aerial photographs, including reproductions, of these 
+places. 
+LC practice: Assign the subject heading for the place for collections of aerial photographs or 
+reproductions of the photographs of the place. Add the free-floating topical subdivision for 
+discussions of aerial photographs of the place. Do not use the form subdivision. Assign LCGFT 
+appropriate to the form and/or genre of the resource in hand, e.g. LCGFT *Aerial 
+photographs*. 
+Example: 
+Title: Above Baton Rouge : a pilot's view then and now. 
+651 #0 $a Baton Rouge (La.) $v Aerial photographs. 
+651 #0 $a Baton Rouge (La.) $x History $v Sources. 
+650 #0 $a Repeat photography. 
+LC practice: 
+651 #0 $a Baton Rouge (La.) $x History. 
+650 #0 $a Repeat photography. 
+655 #7 $a Aerial photographs $2 lcgft 
+F. Aerial photographs 
+Assign the free-floating form subdivision *--Aerial views* under names of countries, cities, etc., 
+or under individual educational institutions, to maps or atlases depicting those places observed 
+from the air. Do not further subdivide by *--Maps*. 
+LC practice: Assign the subject heading for the place for collections of aerial photography of the 
+named place. Assign LCGFT appropriate to the form and/or genre of the resource in hand, e.g. 
+LCGFT *Photomaps*. 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Aerial and Space Photography H 1210.5 | Page 4 
+ 
+ 
+G. Photographs from space 
+Assign the free-floating form subdivision *--Photographs from space* under topical headings 
+and under names of countries, cities, etc., for collections of photographs, or reproductions of 
+them, taken from outer space. Use the heading *Space photography* for technical works on 
+the methods of taking photographs from outer space. 
+LC practice: Assign the subject heading for the place for collections of photographs from space 
+or reproductions of the photographs of the named place. Assign LCGFT appropriate to the form 
+and/or genre of the resource in hand, e.g. LCGFT *Photographs*. 
+Revision history 
+2026-07: Updated template. Added instructions related to LCGFT implementation. 

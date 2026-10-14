@@ -1,0 +1,149 @@
+
+
+<<<PAGE 1>>>
+ 
+Museums  H 1916 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1916 Page 1 
+ 
+June 2013 
+BACKGROUND:  A museum is an institution or a building where works of art, scientific 
+specimens, or other objects of permanent value are exhibited.  This instruction sheet provides 
+guidelines for assigning headings to works about museums.  For instructions on assigning the 
+subdivision BCatalogs to lists of types of objects, see H 1360.  For instructions on assigning 
+headings to works on private collections of objects, see H 1427.  For instructions on assigning 
+the subdivision BExhibitions, see H 1593. 
+ 
+ 
+ 
+1.  General.  Assign the heading Museums  (May Subd Geog) to general works on museums 
+not limited to a particular subject.  Example: 
+ 
+Title:  A directory of unusual museums in New England. 
+650 #0 $a Museums $z New England $v Directories. 
+ 
+ 
+2.  Special types of museums. 
+ 
+a.  Phrase headings.  Search the subject authority file to determine whether a 
+phrase heading has been established for the type of museum discussed in the work 
+being cataloged.  If a phrase heading exists, assign this heading.  Examples: 
+ 
+650 #0 $a Archaeological museums and collections. 
+650 #0 $a Art museums. 
+650 #0 $a Historical museums. 
+650 #0 $a Medical museums. 
+650 #0 $a Naval museums. 
+650 #0 $a Sports museums. 
+ 
+Existing phrase headings may continue to be used but new ones should not be 
+established. 
+ 
+b.  BMuseums.  Assign the free-floating subdivision BMuseums  (May Subd Geog) 
+under wars, classes of persons, ethnic groups, individual corporate bodies, including 
+individual educational institutions, and under topical headings not covered by sec. 2.a to 
+works on museums devoted to these topics or operated by these institutions.  Examples: 
+ 
+650 #0 $a Hispanic Americans $x Museums. 
+650 #0 $a Indians of North America $x Museums. 
+650 #0 $a Soccer $x Museums. 
+650 #0 $a World War, 1939-1945 $x Museums. 
+610 20 $a Harvard University $x Museums. 
+
+
+<<<PAGE 2>>>
+H 1916  Museums 
+ 
+ 
+ 
+H 1916 Page 2 
+Subject Headings Manual 
+June 2013 
+3.  Individual persons and families.  Assign the free-floating subdivision BMuseums  (May 
+Subd Geog) under names of individual persons or families to works on museums or collections 
+devoted to the person or family. 
+ 
+  
+ 
+4.  Individual museums.  To works on individual museums, assign the name heading for the 
+museum. 
+ 
+610 20 $a National Gallery of Art (U.S.) 
+610 20 $a Philadelphia Museum of Art. 
+ 
+ 
+If a museum is located in a historic building originally constructed for another purpose, assign 
+headings for both the museum and the building if the work being cataloged discusses both.  
+Examples: 
+ 
+ 
+Title: The Old Stone Fort. 
+610 20 $a Stone Fort Museum (Nacogdoches, Tex.) 
+610 20 $a Old Stone Fort (Nacogdoches, Tex.) 
+651 #0 $a Nacogdoches (Tex.) $x Buildings, structures, 
+          etc. 
+ 
+ 
+Title:  The Louvre palace and museum. 
+610 20 $a Louvre (Paris, France) 
+610 20 $a Musée du Louvre. 
+651 #0 $a Paris (France) $x Buildings, structures, 
+          etc. 
+ 
+ 
+ 
+5.  Museum techniques.  Assign phrase headings or appropriate subdivisions under the heading 
+Museums to works on the acquisition, conservation, and exhibition of objects, the financing of 
+museums, museum attendance, etc.  Examples: 
+ 
+ 
+650 #0 $a Museum attendance. 
+650 #0 $a Museum curators. 
+650 #0 $a Museum labels. 
+650 #0 $a Museums #x Educational aspects. 
+650 $0 $a Museums and schools. 
+
+
+<<<PAGE 3>>>
+ 
+Museums  H 1916 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1916 Page 3 
+ 
+June 2013 
+6.  Assigning additional headings.  To works about museums assign several headings, if 
+appropriate, to bring out the most important topics discussed.  Examples: 
+ 
+ 
+Title:  Oriental carpets in the Philadelphia Museum of Art. 
+650 #0 $a Rugs, Oriental $v Catalogs. 
+650 #0 $a Rugs $z Pennsylvania $z Philadelphia $v Catalogs. 
+610 20 $a Philadelphia Museum of Art $v Catalogs. 
+ 
+ 
+Title:  Ancient and Near Eastern glass. 
+650 #0 $a Glassware, Ancient $v Catalogs. 
+650 #0 $a Islamic glassware $z Middle East $v Catalogs. 
+650 #0 $a Glassware $z Ohio $z Toledo $v Catalogs. 
+610 20 $a Toledo Museum of Art $v Catalogs. 
+ 
+ 
+Title:  The design of educational exhibits. 
+650 #0 $a Museums $x Educational aspects. 
+650 #0 $a Museum exhibits. 
+ 
+ 
+Title:  Reconstructing archaeology. 
+650 #0 $a Archaeology $x Philosophy. 
+650 #0 $a Social archaeology. 
+650 #0 $a Material culture. 
+650 #0 $a Archaeological museums and collections $z Great 
+            Britain. 
+650 #0 $a Archaeological museums and collections. 
+ 

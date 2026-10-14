@@ -1,0 +1,284 @@
+
+
+<<<PAGE 1>>>
+ 
+Constitutions  H 1465 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1465 Page 1 
+ 
+June 2013 
+BACKGROUND:  Prior to 1997, the subdivisions BConstitution, BConstitutional history, and 
+BConstitutional law, as well as other related subdivisions, were used under names of places to 
+construct subject headings for texts of, and works about, the constitutions of political 
+jurisdictions.  Beginning in 1997, at the recommendation of a task force of the American 
+Association of Law Libraries, these subdivisions were discontinued in favor of geographic 
+subdivision of the headings Constitutions, Constitutional history, and Constitutional law.  The 
+subdivision BConstitution remains valid under names of individual corporate bodies.  Also in 
+1997, Library of Congress subject cataloging practice was changed to allow the assignment of 
+the name-title heading for an individual constitution to a work about the constitution.  This 
+instruction sheet describes subject heading practice for texts of, and works about, constitutions 
+of political jurisdictions and individual corporate bodies. 
+ 
+1.  Constitutions of political jurisdictions. 
+ 
+a.  Texts of constitutions.   
+ 
+(1) Collections.  Assign the heading Constitutions (May Subd Geog) to 
+collections of texts of constitutions of multiple jurisdictions or of a single 
+jurisdiction.  Examples: 
+ 
+Title:  Select constitutions of the world. 
+650 #0 $a Constitutions. 
+ 
+Title:  Las Constituciones latinoamericanas. 
+650 #0 $a Constitutions $z Latin America. 
+ 
+Title:  Constitutions of Maryland. 
+650 #0 $a Constitutions $z Maryland. 
+ 
+To collections of the constitutions of the political divisions of a particular place, 
+further subdivide the heading Constitutions-[place] by the appropriate 
+subdivision to designate the type of political division, for example, BStates or 
+BProvinces (see H 713).  Example: 
+ 
+Title:  The constitutions of the Australian states. 
+650 #0 $a Constitutions $z Australia $x States. 
+ 
+Note: Headings of the type Constitutions, State and Provincial 
+constitutions, which were formerly used for collections of this type, have 
+been cancelled. 
+
+
+<<<PAGE 2>>>
+H 1465  Constitutions 
+ 
+ 
+ 
+H 1465 Page 2 
+Subject Headings Manual 
+June 2013 
+1.  Constitutions of political jurisdictions. 
+ 
+a.  Texts of constitutions.  (Continued)   
+ 
+(2) Individual constitutions.  Assign the heading Constitutions (May Subd 
+Geog) to the text of an individual constitution of a specific place.  Do not assign 
+the name-title heading for the constitution to a work that consists solely of the text 
+of the constitution.  Examples: 
+ 
+Title:  The Constitution of the United States. 
+650 #0 $a Constitutions $z United States. 
+ 
+Title:  The California state constitution. 
+650 #0 $a Constitutions $z California. 
+ 
+Also assign this heading for the constitutions of Indian tribes that are recognized 
+by the U.S. government and established as jurisdictional name headings.  
+Example: 
+ 
+Title:  Constitution and By-laws of the Kickapoo Tribe of 
+Oklahoma. 
+650 #0 $a Constitutions $z Kickapoo Tribe of 
+            Oklahoma. 
+ 
+b.  Works about constitutions and constitutional law.   
+ 
+(1) General and comparative works.  Assign the heading Constitutional law, 
+subdivided by place and further subdivided by BStates, BProvinces, etc., if 
+appropriate (see H 713), to works about constitutions or constitutional law in 
+general and to comparative works about the constitutions or constitutional law of 
+multiple jurisdictions.  Examples: 
+ 
+Title:  Constitutionalism. 
+650 #0 $a Constitutional law. 
+ 
+Title:  European constitutional law. 
+650 #0 $a Constitutional law $z Europe. 
+ 
+Title:  Recent developments in state constitutional law. 
+650 #0 $a Constitutional law $z United States  
+            $x States. 
+
+
+<<<PAGE 3>>>
+ 
+Constitutions  H 1465 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1465 Page 3 
+ 
+June 2013 
+1.  Constitutions of political jurisdictions. 
+ 
+b.  Works about constitutions and constitutional law.  (Continued)   
+ 
+(2) Constitutional law of a specific place.  Assign the heading Constitutional 
+law (May Subd Geog) to works that discuss the constitutional law of a particular 
+place.   Examples: 
+ 
+ 
+Title:  American constitutional law. 
+650 #0 $a Constitutional law $z United States. 
+ 
+Title:  A manual of Australian constitutional law. 
+650 #0 $a Constitutional law $z Australia. 
+ 
+ 
+To works that discuss a specific constitution as a document, or that include a 
+significant amount of material about its construction and formulation, also assign 
+the name-title heading for the constitution, if it is judged to be a useful access 
+point.  Example: 
+ 
+ 
+Title:  The New York State Constitution : a reference guide. 
+610 10 $a New York (State). $t Constitution 
+            (1894) 
+650 #0 $a Constitutional law $z New York (State) 
+ 
+ 
+(3) Constitutional interpretation and construction.  Although the subdivision 
+BInterpretation and construction is free-floating under most legal topics (see H 
+1154.5), do not use this subdivision under the headings Constitutions or 
+Constitutional law, since most works on constitutional law deal to a greater or 
+lesser degree with the interpretation and construction of constitutions.  Instead, 
+assign the heading Constitutional law, subdivided by place if appropriate, for 
+works on constitutional interpretation and construction  Example: 
+ 
+ 
+Title:  Contemporary perspectives on constitutional 
+interpretation. 
+650 #0 $a Constitutional law $z United States. 
+
+
+<<<PAGE 4>>>
+H 1465  Constitutions 
+ 
+ 
+ 
+H 1465 Page 4 
+Subject Headings Manual 
+June 2013 
+1.  Constitutions of political jurisdictions.  (Continued) 
+ 
+c.  Constitutional amendments. 
+ 
+ 
+Note: 
+ 
+The 
+subdivisions 
+BConstitutionBAmendments 
+and 
+BConstitutional lawBAmendments, which were used under names of 
+places prior to 1997, have been discontinued. 
+ 
+ 
+(1) Texts of constitutional amendments.  To works that consist solely of the text 
+of one or more particular amendments to a constitution, assign the appropriate 
+topical heading(s) to bring out the subject.  Also assign Constitutional 
+amendmentsB[place] as a form heading.  Do not assign the name-title heading 
+for the amendment(s).  Examples: 
+ 
+Title:  The complete text of the Bill of Rights. 
+650 #0 $a Civil rights $z United States. 
+650 #0 $a Constitutional amendments $z United 
+            States. 
+ 
+ 
+(2) Works about constitutional amendments in general.  To works that discuss 
+constitutional amendments in general, including the amending process, as well as 
+works on various constitutional amendments of multiple or particular jurisdictions, 
+assign the heading Constitutional amendments, subdivided by place and further 
+subdivided by BStates, BProvinces, etc., if appropriate (see H 713).  Examples: 
+ 
+Title:  Federalism and constitutional change. 
+650 #0 $a Constitutional amendments. 
+650 #0 $a Federal government. 
+ 
+ 
+Title:  Amending the constitution of Canada : a discussion paper. 
+650 #0 $a Constitutional amendments $z Canada. 
+ 
+ 
+Title:  Major problems in state constitutional revision. 
+650 #0 $a Constitutional amendments $z United 
+            States $x States. 
+
+
+<<<PAGE 5>>>
+ 
+Constitutions  H 1465 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1465 Page 5 
+ 
+June 2013 
+1.  Constitutions of political jurisdictions. 
+ 
+c.  Constitutional amendments.  (Continued) 
+ 
+(3) Works about specific constitutional amendments.  To works that discuss a 
+specific constitutional amendment or group of amendments, assign the name-title 
+heading for the amendment.  Also assign Constitutional amendmentsB [place] 
+as a topical heading, and one or more additional topical headings to bring out the 
+subject of the amendment or amendments.  Example: 
+ 
+ 
+ 
+Title:  The Fourth Amendment. 
+610 10 $a United States. $t Constitution. $n 4th 
+            Amendment. 
+650 #0 $a Constitutional amendments $z United 
+            States. 
+650 #0 $a Searches and seizures $z United 
+            States. 
+ 
+ 
+ 
+Title:  The Bill of Rights : what it is, what it means, and how it's 
+been misused. 
+610 10 $a United States.  $t Constitution.   
+            $n 1st-10th Amendments. 
+650 #0 $a Constitutional amendments $z United 
+            States. 
+650 #0 $a Civil rights $z United States. 
+ 
+ 
+ 
+ 
+d.  Constitutional history.  To works that discuss the historical development of 
+constitutions, assign, as appropriate Constitutional historyB[place], Constitutional 
+history, Ancient, and/or Constitutional history, Medieval.   
+ 
+Do not use the subdivision BHistory under the headings Constitutions or Constitutional 
+law. 
+ 
+ 
+
+
+<<<PAGE 6>>>
+H 1465  Constitutions 
+ 
+ 
+ 
+H 1465 Page 6 
+Subject Headings Manual 
+June 2013 
+2.  Constitutions of corporate bodies.  To texts of, or works about, the constitution of a 
+particular corporate body, assign the heading for the corporate body with the subdivision 
+BConstitution.  Examples: 
+ 
+Title:  Constitution of the Bible Society of Virginia. 
+610 20 $a Bible Society of Virginia $v Constitution. 
+ 
+Title:  Les constitutions d'Anderson : vérité ou imposture. 
+610 20 $a Freemasons $x Constitution. 
+600 10 $a Anderson, James, $d ca. 1680-1739. 
+650 #0 $a Freemasonry $x History. 

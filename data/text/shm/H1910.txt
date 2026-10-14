@@ -1,0 +1,50 @@
+
+
+<<<PAGE 1>>>
+ 
+Miscellanea  H 1910 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1910 Page 1 
+ 
+June 2013 
+BACKGROUND:  The free-floating subdivision BMiscellanea is used for three types of 
+materials described below.  This instruction sheet provides guidelines for its use in these three 
+situations. 
+ 
+ 
+ 
+1.  General.  Assign the free-floating form subdivision BMiscellanea under headings of any 
+type, including topical subjects, names of persons, classes of persons, ethnic groups, individual 
+corporate bodies, places, etc., for compilations of unusual or miscellaneous facts about the 
+subject without continuous text.  Examples: 
+ 
+630 00 $a Bible $v Miscellanea. 
+650 #0 $a Medicine $v Miscellanea. 
+610 20 $a United Nations $v Miscellanea. 
+ 
+ 
+2.  Special.  Assign the free-floating topical subdivision BMiscellanea under headings of any 
+type for works that deal with special aspects of a subject for which no other subdivision exists or 
+can be established and yet, because of their unusual nature, cannot be treated as general works on 
+the subject.  Examples: 
+ 
+Title:  5000 B.C. and other philosophical fantasies. 
+650 #0 $a Philosophy $x Miscellanea. 
+ 
+Title:  Mindpower and the spiritual dimension. 
+650 #0 $a Occultism $x Miscellanea.  
+650 #0 $a Metaphysics $x Miscellanea. 
+ 
+Title:  Napoleon's glands : and other ventures in biohistory. 
+650 #0 $a Diseases and history $x Miscellanea. 
+650 #0 $a Medicine $x Miscellanea. 
+ 
+ 
+3.  Questions and answers.  Assign the free-floating form subdivision BMiscellanea under 
+headings of any type for works on a topic written in a question and answer format. 
+ 
+Assign the heading Questions and answers only to general collections of questions and answers 
+not limited to a specific subject. 

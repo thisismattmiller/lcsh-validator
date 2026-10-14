@@ -1,0 +1,141 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual |Legends and Stories about Animals H 1720 | Page 1 
+ 
+ 
+Legends and Stories about Animals 
+H 1720 
+A. Background ............................................................................................................................... 1 
+B. Recent revisions ........................................................................................................................ 1 
+C. Fiction ....................................................................................................................................... 1 
+D. Folklore ..................................................................................................................................... 2 
+E. True stories about individual animals and pets ......................................................................... 2 
+E.1. Collections .......................................................................................................................... 2 
+E.2. Individual biographies ......................................................................................................... 3 
+E.3. Anecdotes about pets ......................................................................................................... 4 
+Revision history ............................................................................................................................. 4 
+ 
+A. Background 
+Use of the subdivision *--Legends and stories* under types of animals was discontinued in 
+1981. Several subdivisions are now used in place of the discontinued subdivision. 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from the Library of Congress Genre/Form Terms (LCGFT), 
+e.g. *Fiction*, *Folk literature*, *Legends*, etc. 
+B. Recent revisions 
+2026-02: Updated template. Added instructions related to LCGFT implementation. 
+C. Fiction 
+To one or more fictitious stories about an animal or a group of animals, assign the subdivision 
+*--Fiction* under the type of animal (cf. H 1790) 
+To collections of stories involving various types of animals, assign *Animals--Fiction*. 
+LC practice: Do not use a form subdivision of the type *--Fiction*. Instead assign an appropriate 
+term or terms from LCGFT, e.g. *Fiction*, *Animal fiction*, etc.  
+Example: 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual |Legends and Stories about Animals H 1720 | Page 2 
+ 
+ 
+650 #0 $a Dogs $v Fiction. 
+LC practice: 
+650 #0 $a Dogs. 
+655 #7 $a Animal fiction. $2 lcgft 
+D. Folklore 
+To one or more legends about an animal or group of animals, assign the subdivision *--
+Folklore* under the type of animal (cf. H 1627). 
+To collections of legends involving various types of animals, assign *Animals--Folklore*. 
+LC practice: Do not use a form subdivision of the type *--Folklore*. Instead assign an 
+appropriate term or terms from LCGFT, e.g. *Folk literature*, *Folk literature*, etc.  
+Example: 
+650 #0 $a Dogs $v Folklore. 
+LC practice: 
+650 #0 $a Dogs. 
+655 #7 $a Folk tales. $2 lcgft 
+E. True stories about individual animals and pets 
+E.1. Collections 
+To collections of true-life stories about animals, assign the subdivision *--Biography* under the 
+type of animal. Interpose geographic subdivision if appropriate and assign additional headings 
+as needed. 
+LC practice: Do not use a form subdivision of the type *--Biography*. Instead, assign an 
+appropriate term or terms from LCGFT, e.g. *Biographies*, etc. To replace a form subdivision 
+that includes a demographic group, also assign LCDGT to bring out the audience of the resource 
+being cataloged, e.g. *Children*, *Teenagers*, etc.  
+Examples: 
+Title: Great canine heroes of all time. 
+650 #0 $a Dogs $v Biography. 
+LC practice: 
+650 #0 $a Dogs. 
+655 #7 $a Biographies. $2 lcgft 
+ 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual |Legends and Stories about Animals H 1720 | Page 3 
+ 
+ 
+Title: James Herriot’s treasury for children. 
+650 #0 $a Pets $z England $z Yorkshire $v Biography $v Juvenile literature. 
+650 #0 $a Domestic animals $z England $z Yorkshire $v Biography $v Juvenile 
+literature. 
+650 #0 $a Farm life $z England $z Yorkshire $v Biography $v Juvenile 
+literature. 
+LC practice: 
+650 #0 $a Pets $z England $z Yorkshire. 
+650 #0 $a Domestic animals $z England $z Yorkshire. 
+650 #0 $a Farm life $z England $z Yorkshire. 
+655 #7 $a Biographies. $2 lcgft 
+385 ## $a Children $2 lcdgt 
+E.2. Individual biographies 
+For individual biographies, use the subdivision *--Biography* under types of animals, with 
+geographic subdivision if appropriate. If the animal has a name that is established as a heading, 
+or if the animal is well known enough for its name to be established, assign it as an additional 
+heading. See H 1332, section 9, for guidelines on establishing headings for names of individual 
+animals. Assign the owner’s name(s) if appropriate. 
+LC practice: Do not use a form subdivision of the type *--Biography*. Instead, assign an 
+appropriate term or terms from LCGFT, e.g. *Biographies*, etc. To replace a form subdivision 
+that includes a demographic group, also assign LCDGT to bring out the audience of the resource 
+being cataloged, e.g. *Children*, *Teenagers*, etc.  
+Example: 
+Title: Barry, the bravest Saint Bernard. 
+600 00 $a Barry $c (Dog), $d 1800-1814 $v Juvenile literature. 
+650 #0 $a Saint Bernard dog $z Switzerland $v Biography $v Juvenile 
+literature. 
+650 #0 $a Rescue dogs $z Switzerland $v Biography $v Juvenile literature. 
+LC practice: 
+600 00 $a Barry $c (Dog), $d 1800-1814. 
+650 #0 $a Saint Bernard dog $z Switzerland. 
+650 #0 $a Rescue dogs $z Switzerland. 
+655 #7 $a Biographies. $2 lcgft 
+385 ## $a Children $2 lcdgt 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual |Legends and Stories about Animals H 1720 | Page 4 
+ 
+ 
+E.3. Anecdotes about pets 
+To anecdotal accounts of pets, assign the subdivision *--Anecdotes* under the type of animal, 
+with local subdivision if appropriate. Assign the owner’s name(s) if appropriate. 
+LC practice: Do not use a form subdivision of the type *--Anecdotes*. Instead assign an 
+appropriate term or terms from LCGFT, e.g. *Anecdotes*, etc. 
+Example: 
+600 10 $a [name of owner] 
+650 #0 $a Dogs $z California $v Anecdotes. 
+LC practice: 
+600 10 $a [name of owner] 
+650 #0 $a Dogs $z California. 
+655 #7 $a Anecdotes. $2 lcgft 
+If the pet has a name that is established as a heading, or if the animal is well known enough for 
+its name to be established, assign the name as an additional heading. 
+LC practice: Do not use a form subdivision of the type *--Anecdotes*. Instead assign an 
+appropriate term or terms from LCGFT, e.g. *Anecdotes*, etc.  
+Example: 
+600 10 $a Obama, Bo. 
+650 #0 $a Dogs $z Washington (D.C.) $v Anecdotes. 
+LC practice: 
+600 10 $a Obama, Bo. 
+650 #0 $a Dogs $z Washington (D.C.) 
+655 #7 $a Anecdotes. $2 lcgft 
+Revision history 
+2026-02: Updated template. Added instructions related to LCGFT implementation. 

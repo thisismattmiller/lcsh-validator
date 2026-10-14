@@ -1,0 +1,135 @@
+
+
+<<<PAGE 1>>>
+ 
+[ . . . ] and [ . . . ] Headings  H 310 
+ 
+ 
+ 
+Subject Headings Manual 
+H 310 Page 1 
+ 
+June 2013 
+BACKGROUND:  Relationships between two topics are designated by several different 
+formulations in the Library of Congress subject heading system.  Headings describing such 
+relationships are usually constructed using standard subdivisions such as BEffect of [ . . . ] on, 
+B[ . . . ] influences, BPsychological aspects, BSocial aspects, etc.  In most situations, 
+constructions of this type are possible because the work being cataloged focuses primarily on an 
+effect, influence, or relationship from the perspective of a main topic, represented by the heading 
+itself, with secondary emphasis on the other topic, that is, the affecting or influencing topic, 
+represented by the subdivision.  Occasionally, however, relationships between two very general 
+topics may be discussed at a broad level and from the perspectives of both topics.  In such 
+cases, it is not always possible to use a heading-subdivision construction to describe the 
+relationships accurately.  For this situation only, headings may be constructed using the 
+formulation [Topic A] and [Topic B].  For special provisions for the relationship between a 
+topic and religion or between a topic and a specific religion or denomination, see H 1998. 
+ 
+Note:  Some headings established with the conjunction and represent two topics 
+normally treated together, for example, Bolts and nuts, or have additional terms for 
+clarification of meaning, for example, Files and rasps. 
+ 
+ 
+ 
+ 
+ 
+1.  Proposing new headings.  Establish new headings in the form [Topic A] and [Topic B] only 
+when the work being cataloged discusses the relationship between the topics from both 
+perspectives and in such broad terms that it could not accurately be described by the use of a 
+main heading and subdivision. 
+ 
+Examples of appropriate [Topic A] and [Topic B] headings: 
+ 
+150 ## $a Education and crime 
+150 ## $a Feminism and the arts 
+150 ## $a Government and the press 
+ 
+Examples of inappropriate [Topic A] and [Topic B] headings: 
+ 
+150 ## $a Drugs and body temperature 
+ use instead: 650 #0 $a Body temperature $x Effect of drugs on.
+ 
+ 
+150 ## $a English literature and Italian civilization 
+ use instead: 650 #0 $a English literature $x Italian influences.
+ 
+
+
+<<<PAGE 2>>>
+H 310  [ . . . ] and [ . . . ] Headings 
+ 
+ 
+ 
+H 310 Page 2 
+Subject Headings Manual 
+June 2013 
+1.  Proposing new headings. 
+ 
+Examples of inappropriate [Topic A] and [Topic B] headings:  (Continued) 
+ 
+ 
+150 ## $a Mass media and society 
+ use instead: 650 #0 $a Mass media $x Social aspects. 
+ 
+ 
+150 ## $a Psychology and advertising 
+ use instead: 650 #0 $a Advertising $x Psychological aspects. 
+ 
+ 
+Do not propose headings of this type for works that discuss two topics distinctly, rather than the 
+relationship between them.  For such works, assign as many individual headings as are required 
+to bring out the topics discussed. 
+ 
+Decide which topic to give as Topic A and which as Topic B based on precedents in existing 
+headings in the subject authority file. 
+ 
+ 
+ 
+ 
+2.  References.  Add the following reference fields whenever proposing a new [Topic A] and 
+[Topic B] heading: 
+ 
+a.  If [Topic B] is an established heading: 
+ 
+ 
+450 ## $a [Topic B] and [Topic A] 
+550 ## $w g $a [Topic B] 
+ 
+ 
+Example: 
+ 
+ 
+150 ## $a Feminism and the arts 
+450 ## $a Arts and feminism 
+550 ## $w g $a Arts 
+
+
+<<<PAGE 3>>>
+ 
+[ . . . ] and [ . . . ] Headings  H 310 
+ 
+ 
+ 
+Subject Headings Manual 
+H 310 Page 3 
+ 
+June 2013 
+2.  References.  (Continued) 
+ 
+b.  If [Topic B] is not an established heading: 
+ 
+450 ## $a [Topic B] and [Topic A] 
+550 ## $w g $a [established heading representing the concept of 
+               Topic B] 
+ 
+Example:   
+ 
+150 ## $a Agriculture and energy 
+450 ## $a Energy and agriculture 
+550 ## $w g $a Power resources 
+ 
+ 
+ 
+ 
+3.  Using existing headings.  Make no attempt to change existing headings in the subject 
+authority file that conflict with these instructions.  Continue to use such headings for new works 
+being cataloged. 

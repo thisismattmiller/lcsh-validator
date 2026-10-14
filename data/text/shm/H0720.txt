@@ -1,0 +1,82 @@
+
+
+<<<PAGE 1>>>
+ 
+City Sections  H 720 
+ 
+ 
+ 
+Subject Headings Manual 
+H 720 Page 1 
+ 
+September 2013 
+BACKGROUND:  Before August 1996, headings for city sections were established in either the 
+name authority file or the subject authority file depending upon whether or not they were needed 
+for use as descriptive access points.  Since July 1996, headings for city sections, including 
+districts, designated historic districts, special economic zones, quarters, and neighborhoods, are 
+established as geographic headings in the name authority file.  Headings for city sections that 
+currently exist in the subject authority file should be transferred to the name authority file as 
+they are needed for use as subject headings in current cataloging.  For a discussion of the 
+change in policy on establishing headings for city sections and other ambiguous entities, see the 
+background statement in H 405.  This instruction sheet provides instructions on transferring 
+headings for city sections from the subject authority file to the name authority file and guidelines 
+for assigning names of city sections as subject headings.   
+ 
+For instructions on the sections, boroughs, and counties of New York City, see H 990 sec. 4. 
+ 
+ 
+1. General rule.  Search both the name authority file and subject authority file to determine 
+whether a heading for an individual city section, district, quarter, or neighborhood is already 
+established.  If a heading for the city section exists in the name authority file in RDA form, 
+assign it as a subject heading.  If a heading exists in the subject authority file, transfer the 
+heading to the name authority file, or request a descriptive cataloger to do so.  Submit a 
+proposal to delete the subject authority record following the provisions of H 193, sec. 14 and 
+H 193.5.  If a heading does not exist in either file, establish the city section in the name 
+authority file or request a descriptive cataloger to do so.       
+ 
+2.  Features in cities.  Establish headings for features in cities, including plazas, circles, 
+squares, monuments, parks, gardens, and streets in the subject authority file according to the 
+provisions in H 1334 for buildings and other structures, H 1925 for parks and gardens, and H 
+2098 for streets and roads. 
+ 
+ 
+If a city section is named after a city feature, establish a single heading in the subject authority 
+file to be used for both the feature and the city section.  In addition to any 451 fields added for 
+variant names, add a 410 field from the name of the city with the feature as a subheading.   
+Example: 
+ 
+151 ## $a Dupont Circle (Washington, D.C.) 
+410 1# $a Washington (D.C.). $b Dupont Circle 
+550 ## $w g $a Traffic circles $z Washington (D.C.) 
+
+
+<<<PAGE 2>>>
+H 720  City Sections 
+ 
+ 
+ 
+H 720 Page 2 
+Subject Headings Manual 
+September 2013 
+3.  City sections and special topics.  To works that discuss a special topic in conjunction with a 
+city section, do not use the name of the city section as a geographic subdivision under a topical 
+heading that is authorized for geographic subdivision.  Instead, assign headings to bring out the 
+topic in connection with the name of the city itself and an additional heading for the city section. 
+Example: 
+ 
+Title:  Boston's first neighborhood : the North End. 
+650 #0 $a Minorities $z Massachusetts $z Boston.   
+651 #0 $a North End (Boston, Mass.) 
+ 
+ 
+For topics expressed as subdivisions under names of places, including cities and city sections (cf. 
+H 1140), assign headings for both the name of the city and the city section divided by the same 
+subdivision.  Example: 
+ 
+Title:  Chinatown, San Jose, USA. 
+651 #0 $a Chinatown (San Jose, Calif.) $x Social life and 
+            customs. 
+651 #0 $a Chinatown (San Jose, Calif.) $x Social conditions. 
+651 #0 $a San Jose (Calif.) $x Social life and customs.   
+651 #0 $a San Jose (Calif.) $x Social conditions. 
+ 

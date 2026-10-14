@@ -1,0 +1,3098 @@
+{
+  "sheet": "H 1159",
+  "title": "Pattern Headings: Military Services",
+  "kind": "pattern",
+  "scope": "Free-floating subdivisions for use under names of individual military services (corporate bodies, including national guards), [region or country]--Armed Forces, [region or country]--National Guard, [place larger than a city]--Militia, and [international agency]--Armed Forces; pattern headings United States--Armed Forces; United States. Air Force; United States. Army; United States. Marine Corps; United States. Navy.",
+  "pattern_headings": [
+    "United States--Armed Forces",
+    "United States. Air Force",
+    "United States. Army",
+    "United States. Marine Corps",
+    "United States. Navy"
+  ],
+  "pattern_category": "names of individual military services (corporate bodies), [place]--Armed Forces, [place]--National Guard, [place]--Militia, and [international agency]--Armed Forces",
+  "general_notes": [
+    "This instruction sheet contains the free-floating subdivisions that may be used under headings for names of individual military services established as corporate bodies in the name authority file, including military organizations at the state or province level, such as national guards. Also included are subject headings formed using the free-floating subdivisions --Armed Forces and --National Guard under names of regions and countries, and the free-floating subdivision --Militia under names of places larger than cities, and headings established using --Armed Forces under names of international agencies having armed forces. Examples: Great Britain. Army; Italy. Marina; Germany. Kriegsmarine; Japan. Rikugun; Texas. National Guard; Soviet Union--Armed Forces; United States--National Guard; Ohio--Militia; United Nations--Armed Forces; Warsaw Treaty Organization--Armed Forces.",
+    "The category does not include names of subordinate organizational units lower than a branch of the armed forces, such as divisions, regiments, battalions, fleets, or squadrons. For instructions on assigning headings to histories of individual organizational units lower than a branch of the armed forces, see H 1995. Also excluded are names of government agencies responsible for the operation of individual military services, for example, United States. Navy Department.",
+    "Any subdivision listed here can be used as a free-floating subdivision under any heading belonging to the category if it is appropriate and no conflict exists in the subject authority file. Although many of the subdivisions listed here are logically applicable to only one branch of military service, they have been treated in this list as free-floating under all branches provided there is no conflicting subdivision used under another branch. Such conflicts are identified in the subdivision lists below.",
+    "Subdivisions on this list representing classes of persons, for example, --Apprentices; --Nurses; --Officers, may be further subdivided, as appropriate, by subdivisions from the list of free-floating subdivisions used under classes of persons (H 1100).",
+    "The subdivisions --History and --Recruiting, enlistment, etc. may be further subdivided on a free-floating basis by subdivisions for wars or armed conflicts in which the military service took part. The subdivisions may be formed based on headings for wars established either directly under their names or as subdivisions under place names. Examples: Great Britain. Royal Navy--History--Falkland Islands War, 1982; United States. Navy--History--Spanish-American War, 1898; France. Armée--History--Revolution, 1789-1799; Canada. Royal Canadian Navy--History--World War, 1939-1945. Assign an additional heading designating the war with appropriate topical or geographic subdivisions. For subdivisions used under names of individual wars, see H 1200.",
+    "Several of the subdivisions listed below may be equivalent to a corporate body subheading. If the concept exists as a corporate body, assign a heading with the subdivision and assign an additional heading for the corporate body if the work discusses the corporate or organizational aspects of the body. For example, in Belgium the artillery is an organized unit represented by the corporate heading Belgium. Armée. Artillerie. For works on the Belgian artillery, assign the heading Belgium. Armée--Artillery. If appropriate, assign as an additional heading the name of the corporate body.",
+    "In some cases, the corporate heading may only be valid for certain time periods. For example, Canada united all military services into one organization in 1968. The corporate heading Canada. Canadian Armed Forces should be used only for the period after 1968 and only for discussions of the corporate or organizational aspects of the body. All works on the Canadian military services discussed collectively should be assigned the subject heading Canada--Armed Forces, regardless of the time period covered.",
+    "LC practice: In early 2025, the use of form subdivisions was phased out. Library of Congress catalogers assign Library of Congress Genre/Form Terms (LCGFT) to bring out the form(s) and/or genre(s) of the resource being cataloged. Therefore, the form subdivisions maintained on this list are not available for use by Library of Congress catalogers. Catalogers at institutions external to LC may use them as dictated by their own institutional policies."
+  ],
+  "entries": [
+    {
+      "subdivision": "--Accounting",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Aerial gunners",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--African American officers",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--African American troops",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--African Americans",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Aides",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Air police",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "air forces; use *--Shore patrol* under navies; use *--Military police* under other military services",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [
+        "--Shore patrol",
+        "--Military police"
+      ],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Airborne troops",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Airborne troops--Communication systems",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Airmen",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Ambulances",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Appointments and retirements",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Apprentices",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Appropriations and expenditures",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Archives",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "military services for works about documents or historical records, including notes, correspondence, minutes, photographs, legal papers, etc., pertaining to those services",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Armored troops",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Artillery",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "For countries in which the artillery, cavalry, or infantry is an organized unit, assign the corporate body name heading as an additional heading for discussions of the corporate or organizational aspects of the body. See explanation in sec. G, above.",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Artillery--Drill and tactics",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Asian Americans",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Aviation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Aviation--Ground support",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "military services other than air forces",
+      "notes": "Under air forces, use the subdivision *--Ground support*.",
+      "see_also": [
+        "--Ground support"
+      ],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Aviation--Job descriptions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under air forces. Use this subdivision combination as a topical subdivision under military services for summaries of the essential activities involved in the performance of jobs.",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Aviation electronics technicians",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Aviation mechanics",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Aviation supplies and stores",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Awards",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Bandmasters",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Bands",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Barracks and quarters",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Barracks and quarters--Furniture",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Biography--Portraits",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "military services for works about portraits of persons in those military services",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Boats",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Boatswains",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Boatswain's mates",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Boiler technicians",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Cavalry",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "For countries in which the artillery, cavalry, or infantry is an organized unit, assign the corporate body name heading as an additional heading for discussions of the corporate or organizational aspects of the body. See explanation in sec. G, above.",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Cavalry--Drill and tactics",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Chaplains",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons. Do not use under *[place]--Armed Forces*; use *Military chaplains--[place]*, instead.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Chaplain's assistants",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Civic action",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Civil functions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Civilian employees",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Clerical work",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Collier service",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Colonial forces",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "the military services of countries having colonial forces, for example, *Great Britain",
+      "notes": "Not established under any branch of the United States armed forces. Army--Colonial forces*; *Spain. Ejército--Colonial forces*.",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Combat sustainability",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Commando troops",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Commissariat",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under navies; use *--Provisioning* under navies.",
+      "see_also": [
+        "--Provisioning"
+      ],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Communication systems",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Construction mechanics",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Cost control",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Coxswains",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Cruise, [date]",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1078 for instructions on dates in subdivisions for specific events.",
+      "see_also": [],
+      "consult": [
+        "H 1078"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Demobilization",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Dental care",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Diaries",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "military services for works about diaries of persons belonging to those services",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Drill and tactics",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Electric installations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Electronic installations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Electronic technicians",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Energy consumption",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Environmental aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Equipment",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Equipment--Quality control",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Examinations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Facilities",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Facilities--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1154.5 for further subdivisions used under legal topics.",
+      "see_also": [],
+      "consult": [
+        "H 1154.5"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Field service",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Finance",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Finance--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1154.5 for further subdivisions used under legal topics.",
+      "see_also": [],
+      "consult": [
+        "H 1154.5"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Fire controlmen",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Firearms",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Firearms--Markings",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Firemen",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Flags",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Flight officers",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Flight surgeons",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Foreign countries",
+      "subfield": "z",
+      "type": "geographic",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use as a geographic subdivision under military services.",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Foreign service",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Fuel",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Gay people",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons. Do not use under *[place]--Armed Forces*; use *Gay military personnel--[place]*, instead.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--General staff officers",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--German Americans",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Ground support",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "air forces; use *--Aviation--Ground support* under other military services",
+      "notes": "",
+      "see_also": [
+        "--Aviation--Ground support"
+      ],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Guard duty",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Guided missile personnel",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Guided missile personnel--Training of",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Guided missile personnel--Training of--Aids and devices",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Gunners",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Headquarters",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Hispanic Americans",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--History",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--History--16th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--History--17th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--History--18th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--History--19th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--History--20th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--History--21st century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--History--Revolution, 1775-1783, [War of 1812, etc.]",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "The subdivision *--History--Revolution, 1775-1783* is not valid under *United States. Army*. Use *United States. Continental Army--History* instead.",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Honorific unit titles",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Hospital ships",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Ice breaking operations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Indian troops",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Infantry",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "For countries in which the artillery, cavalry, or infantry is an organized unit, assign the corporate body name heading as an additional heading for discussions of the corporate or organizational aspects of the body. See explanation in sec. G, above.",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Infantry--Drill and tactics",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Information services",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Insignia",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Inspection",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Intelligence specialists",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Inventory control",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Irish Americans",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Italian Americans",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Japanese Americans",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Job descriptions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "military for works about summaries of the essential activities involved in the performance of jobs",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Journalists",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Lawyers",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Leaves and furloughs",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Machine gun drill and tactics",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Management",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Maneuvers",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Mascots",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Masters-at-arms",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Medals, badges, decorations, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under *[place]--Armed Forces*; use *Military decorations--[place]* instead.",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Medical care",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Medical care--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1154.5 for further subdivisions used under legal topics.",
+      "see_also": [],
+      "consult": [
+        "H 1154.5"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Medical examinations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Medical personnel",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Medical personnel--Malpractice",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Medical supplies",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Medical technologists",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Messes",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Mexican Americans",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Military capital",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under *[place]--Armed Forces*; use *Military capital--[place]* instead.",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Military construction operations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Military construction operations--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1154.5 for further subdivisions used under legal topics.",
+      "see_also": [],
+      "consult": [
+        "H 1154.5"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Military life",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Military police",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under air forces or navies; use *--Air police* under air forces; use *--Shore patrol* under navies.",
+      "see_also": [
+        "--Air police",
+        "--Shore patrol"
+      ],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Military police--Foreign auxiliaries",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Minorities",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Mobilization",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Motorcycle troops",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Mountain troops",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Musical groups",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Non-commissioned officers",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Nurses",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Occupational specialties",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Officer efficiency reports",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Officers",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Officers' clubs",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Officers on detached service",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Officials and employees",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "*[place]--Armed Forces* and under names of government agencies responsible for the operation of individual military services, for example, *United States",
+      "notes": "See H 1100 for further subdivisions used under classes of persons. Do not use under armies, navies, and other branches of the armed forces. Department of the Army--Officials and employees*.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--On television",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Operating room technicians",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Operational readiness",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Operations other than war",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Optical instrument repairers",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Ordnance and ordnance stores",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Ordnance and ordnance stores--Effect of environment on",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Ordnance and ordnance stores--Quality control",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Ordnance facilities",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Organization",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Painting of vessels",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Parachute troops",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Pay, allowances, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Pay, allowances, etc.--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1154.5 for further subdivisions used under legal topics.",
+      "see_also": [],
+      "consult": [
+        "H 1154.5"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Personnel management",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Personnel management--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "See H 1154.5 for further subdivisions used under legal topics.",
+      "see_also": [],
+      "consult": [
+        "H 1154.5"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Personnel records",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Petty officers",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Photographers",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Physical training",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Political activity",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Political-military affairs officers",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Postal clerks",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Postal service",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Prisons",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Procurement",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Promotions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Provisioning",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "navies; use *--Commissariat* under other military services",
+      "notes": "",
+      "see_also": [
+        "--Commissariat"
+      ],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Public relations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Radio installations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Radiomen",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Records and correspondence",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "military services for works about records of those organizations",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Recruiting, enlistment, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Recruiting, enlistment, etc.--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1154.5 for further subdivisions used under legal topics.",
+      "see_also": [],
+      "consult": [
+        "H 1154.5"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Recruiting, enlistment, etc.--Revolution, 1775-1783, [Spanish-American War, 1898, etc.]",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "The subdivision *--Recruiting, enlistment, etc.--Revolution, 1775-1783* is not valid under *United States. Army*. Use *United States. Continental Army--Recruiting, enlistment, etc.* instead.",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Regulations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "military services for works about regulations of those services",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Religious life",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Remount service",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Reorganization",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Reserve fleets",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Reserves",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Reserves--Pay, allowances, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Reserves--Personnel records",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Reserves--Promotions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Robots",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Rum ration",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Safety measures",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Sanitary affairs",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Sea life",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Search and rescue operations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Security measures",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Service clubs",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Service craft",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Shore patrol",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "navies; use *--Air police* under air forces; use *--Military police* under other military services",
+      "notes": "",
+      "see_also": [
+        "--Air police",
+        "--Military police"
+      ],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Ski troops",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Small-boat service",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Social services",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under *[place]--Armed Forces*; use *Military social work--[place]* instead.",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Songs and music",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "military services for works about vocal or instrumental music about those services",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Songs and music--History and criticism",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Sports",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Stability operations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Staff corps",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Staffs",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Stewards",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Storekeepers",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Submarine forces",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Supplies and stores",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Supplies and stores--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1154.5 for further subdivisions used under legal topics.",
+      "see_also": [],
+      "consult": [
+        "H 1154.5"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Supplies and stores--Quality control",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Surgeons",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Surgeons--Malpractice",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Swiss Americans",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Tactical aviation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Target practice",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Test shooting",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Training administrators",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Transport of sick and wounded",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Transport service",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Transportation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Trials of vessels",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Uniforms",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Unit cohesion",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Vocational guidance",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Wage fixing",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Warrant officers",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Watch duty",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "individual navies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Weapons systems",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Women",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Women's reserves",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Yeomen",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Archives",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "military services for collections of documents or historical records, including notes, correspondence, minutes, photographs, legal papers, etc., pertaining to those services",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Archives--Microform catalogs",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "military services",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Aviation--Job descriptions",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "military services for summaries of the essential activities involved in the performance of jobs",
+      "notes": "Do not use under air forces.",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Biography",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for collective biographies that include various categories of individuals associated with the military service, for example, a collective biography of the officers and enlisted personnel of a service. For biographies limited to a specific category of individuals associated with a military service, use *--Biography* under the specific subdivision, for example, *--African Americans*; *--Nurses*; *--Officers*; etc.",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Biography--Portraits",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "military services for collections of portraits of persons in those military services",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Diaries",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "military services for diaries of persons belonging to those services",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Drill and tactics--Handbooks, manuals, etc.",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "military services",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Examinations--Study guides",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "military services for study guides for examinations for, by, or about those services",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Firing regulations",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--History--Chronology",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "military services",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Job descriptions",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "military services for summaries of the essential activities involved in the performance of jobs",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Lists of vessels",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Non-commissioned officers' handbooks",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Officers' handbooks",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Order-books",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Petty officers' handbooks",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Records and correspondence",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "military services for collections of records of those organizations",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Registers",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Registers of dead",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Regulations",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "military services for collections of regulations of those services",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Sailors' handbooks",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Songs and music",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "military services for collections or single works of vocal or instrumental music about the services",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Songs and music--Discography",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "military services",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Songs and music--Texts",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "military services for texts of songs about those subjects",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    }
+  ]
+}

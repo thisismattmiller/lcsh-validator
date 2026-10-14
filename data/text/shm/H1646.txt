@@ -1,0 +1,89 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Handbooks, Manuals, etc. H 1646 | Page 1 
+ 
+ 
+Handbooks, Manuals, etc. 
+H 1646 
+A. Background ................................................................................................................................. 1 
+B. Recent revisions .......................................................................................................................... 1 
+C. General rule ................................................................................................................................ 1 
+D. Classes of persons....................................................................................................................... 2 
+E. Other subdivisions....................................................................................................................... 2 
+Revision history ............................................................................................................................... 3 
+A. Background 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Textbooks*. To replace a form subdivision that includes a demographic group, also assign 
+Library of Congress Demographic Groups Terms (LCDGT) to bring out the audience of the 
+resource being cataloged, e.g. *German speakers* or *Arabic, Students of*. 
+B. Recent revisions   
+2026-01: Updated template. Added instructions related to LCGFT implementation. 
+C. General rule 
+Use *--Handbooks, manuals, etc.* as a free-floating form subdivision under subject headings of 
+all types for concise reference works in which facts and information pertaining to the topic are 
+arranged for ready reference and consultation rather than for continuous reading and study. 
+LC practice: Assign a subject heading for the topic of the work. Assign LCGFT appropriate to the 
+form and/or genre of the resource in hand, e.g., *Handbooks and manuals*. 
+Example: 
+650 ## $a Technology $v Handbooks, manuals, etc. 
+LC practice: 
+650 ## $a Technology. 
+655 #7 $a Handbooks and manuals. $2 lcgft 
+Example: 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Handbooks, Manuals, etc. H 1646 | Page 2 
+ 
+ 
+651 #0 $a Middle East $v Handbooks, manuals, etc. 
+LC practice 
+651 #0 $a Middle East. 
+655 #7 $a Handbooks and manuals. $2 lcgft 
+Example: 
+610 20 $a Library of Congress $v Handbooks, manuals, etc. 
+LC practice: 
+610 20 $a Library of Congress. 
+655 #7 $a Handbooks and manuals. $2 lcgft 
+Example: 
+630 00 $a WordPerfect (Computer file) $v Handbooks, manuals, etc. 
+LC practice: 
+630 00 $a WordPerfect (Computer file) 
+655 #7 $a Handbooks and manuals. $2 lcgft 
+Example 
+600 10 $a Dickinson, Emily, $d 1830-1886 $v Handbooks, manuals, etc. 
+LC practice: 
+600 10 $a Dickinson, Emily, $d 1830-1886 
+655 #7 $a Handbooks and manuals. $2 lcgft 
+D. Classes of persons 
+Use the subdivision under classes of persons only if a heading for the corresponding field or 
+activity does not exist and cannot be established, for example, *Nurses' aides--Handbooks, 
+manuals, etc.* 
+LC practice: Assign a subject heading for the topic of the work. Use a class of persons heading if 
+the field or activity does not exist and cannot be established. Assign LCGFT appropriate to the 
+form and/or genre of the resource in hand, e.g., *Handbooks and manuals*. 
+E. Other subdivisions 
+Use more specific free-floating form subdivisions where appropriate, including: 
+ 
+Form subdivision 
+SHM Manual 
+$v Amateurs' manuals 
+Consult H 1943.5, section 4. 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Handbooks, Manuals, etc. H 1646 | Page 3 
+ 
+ 
+$v Guidebooks 
+Consult 1645. 
+$v Laboratory manuals 
+ 
+$v Observers’ manuals 
+ 
+$v Tables 
+Consult H 2160. 
+Revision history 
+2026-01: Updated template. Added instructions related to LCGFT implementation. 

@@ -1,0 +1,2071 @@
+
+
+<<<PAGE 1>>>
+ 
+Music Form/Genre Headings: Medium  H 1917.5 
+                                           of Performance           
+           
+ 
+ 
+ 
+Subject Headings Manual 
+H 1917.5 Page 1 
+ 
+September 2013 
+ 
+ 
+ 
+CONTENTS 
+ 
+ 
+ 
+BACKGROUND ...................................................................................................................................5 
+ 
+1.  Names of instruments, families, and ensembles ..................................................................... 5-8 
+ 
+a.  Form of name ..................................................................................................................5 
+(1)  General guidelines.............................................................................................5 
+(2)  Headings that include the instrument=s key.......................................................6 
+(3)  Headings that include the instrument=s range ...................................................6 
+(4)  Non-musical objects as musical instruments ....................................................7 
+b.  Singular/plural ................................................................................................................8 
+(1)  Instruments........................................................................................................8 
+(2)  Ensembles and families of instruments.............................................................8 
+c.  Doubling..........................................................................................................................8 
+ 
+2.  Solo instruments in headings:  Order of solo instruments........................................................9 
+ 
+3.  Solo instruments in headings:  Combinations of two different instruments or of one 
+      unspecified and one specified instrument..........................................................................10 
+a.  Standard order...............................................................................................................10 
+b.  One unspecified instrument ..........................................................................................10 
+c.  Chordal instruments; accompanying instrument...........................................................10 
+ 
+4.  Solo instruments in headings:  Two or more of the same solo instrument or of the number of  
+      players of the instrument.............................................................................................. 11-17 
+a.  Two or more of the same instrument in a mixed group ................................................11 
+
+
+<<<PAGE 2>>>
+H 1917.5  Music Form/Genre Headings: Medium  
+          of Performance 
+ 
+ 
+ 
+H 1917.5 Page 2 
+Subject Headings Manual 
+September 2013 
+ 
+CONTENTS 
+ 
+ 
+4.  Solo instruments in headings:  Two or more of the same solo instrument or of the number of 
+      players of the instrument (Continued) 
+b.  Music of individual instruments ...................................................................................11 
+(1)  Wind, plucked, and bowed stringed instruments ............................................11 
+(a)  Number of instruments........................................................................11 
+(b)  Number of hands.................................................................................12 
+(2)  Keyboard instruments .....................................................................................12 
+(a)  Number of hands .................................................................................12 
+(b)  Number of instruments........................................................................14 
+i.  Two keyboard instruments ........................................................14 
+ii.  Three or more keyboard instruments........................................14 
+iii.  One performer playing more than 
+one instrument....................................................................15 
+(3)  Two or more unspecified instruments.............................................................15 
+(4)  Percussion instruments....................................................................................16 
+(a)  Number of hands .................................................................................16 
+(b)  Number of players...............................................................................16 
+(5)  Electronic music; Computer music .................................................................17 
+ 
+5.  Instrumental ensembles....................................................................................................... 18-25 
+a.  Types of instrumental ensemble....................................................................................18 
+(1)  Large ensembles (more than one player to a part) ..........................................18 
+(a)  Large ensembles of different instruments ...........................................18 
+(b)  Large ensembles of the same instrument ............................................18 
+(2)  Ensembles with one player to a part ...............................................................19 
+(a)  Ensembles of different instruments.....................................................19 
+(b)  Ensembles of the same instrument......................................................20 
+
+
+<<<PAGE 3>>>
+ 
+Music Form/Genre Headings: Medium  H 1917.5 
+                                           of Performance           
+           
+ 
+ 
+ 
+Subject Headings Manual 
+H 1917.5 Page 3 
+ 
+September 2013 
+ 
+CONTENTS 
+ 
+ 
+5.  Instrumental ensembles (Continued) 
+b.  Number of instruments represented by the word "ensemble" ......................................20 
+(1)  Collections.......................................................................................................20 
+(2)  Individual works..............................................................................................20 
+(3)  Certain other ensembles ..................................................................................21 
+(4)  Solo instruments as accompanying ensemble.................................................21 
+(5)  Percussion ensemble(s) ...................................................................................22 
+(6)  Jazz ensembles ................................................................................................22 
+c.  Authority records ..........................................................................................................22 
+(1)  Large ensembles (more than one player to a part) ..........................................22 
+(2)  Ensembles with one player to a part ...............................................................23 
+d.  Orchestra assumed as the medium of performance ......................................................24 
+e.  The headings Concertos (Orchestra [Band, etc.]).........................................................25 
+ 
+6.  Connecting words: "and" and "with".................................................................................. 26-27 
+a.  The connecting word Aand@...........................................................................................26 
+b.  The connecting word Awith@ .........................................................................................27 
+c.  AAnd@ and Awith@ in the same heading ..........................................................................27 
+ 
+7.  Arranged works: the qualifier ", Arranged"..............................................................................27 
+a.  Free-floating usage........................................................................................................27 
+b.  Authority record required .............................................................................................28 
+c.  Special provision for excerpts.......................................................................................28 
+ 
+8.  Solo vocal works............................................................................................................... 29-31 
+a.  Voice stated or implied in the heading..........................................................................29 
+(1)  One solo voice...............................................................................................29 
+(2)  Two or more solo voices...............................................................................30 
+
+
+<<<PAGE 4>>>
+H 1917.5  Music Form/Genre Headings: Medium  
+          of Performance 
+ 
+ 
+ 
+H 1917.5 Page 4 
+Subject Headings Manual 
+September 2013 
+ 
+CONTENTS 
+ 
+ 
+8.  Solo vocal works............................................................................................................... 29-31 
+b.  Voice not stated or implied in the main heading ..........................................................31 
+(1)  One solo voice.................................................................................................31 
+(2)  Two or more solo voices.................................................................................31 
+(3)  Unaccompanied works....................................................................................31 
+ 
+9.  Chorus................................................................................................................................. 32-35 
+a.  Chorus stated or implied in the heading......................................................................32 
+(1) Type of chorus..................................................................................................32 
+(a)  No qualifier for type of chorus..........................................................32 
+(b)  Free-floating qualifiers for type of chorus ........................................33 
+(c)  Headings established with qualifier  for type  
+of chorus.........................................................................................33 
+(2)  Number of choral parts....................................................................................34 
+b.  Chorus not stated or implied in the main heading ......................................................35 
+ 
+10.  Accompaniment for vocal music ...................................................................................... 35-36 
+a.  Accompaniment not given in the heading...................................................................35 
+b.  One instrument or two keyboard instruments...............................................................36 
+c.  Other instrumental accompaniment ..............................................................................36 
+ 
+11.  Unaccompanied music: the qualifier ", Unaccompanied" ................................................ 37-38 
+a.   Vocal music.................................................................................................................37 
+(1)  Free-floating usage..........................................................................................37 
+(2)  Authority record required................................................................................37 
+(3)  Examples.........................................................................................................38 
+b.  Instrumental music........................................................................................................38 
+
+
+<<<PAGE 5>>>
+ 
+Music Form/Genre Headings: Medium  H 1917.5 
+                                           of Performance           
+           
+ 
+ 
+ 
+Subject Headings Manual 
+H 1917.5 Page 5 
+ 
+September 2013 
+BACKGROUND:   This instruction sheet provides guidance on headings for musical 
+compositions, specifically, those music form/genre headings that include medium of performance. 
+Its primary focus is on when authority records are required and how to formulate headings that 
+include medium of performance when the headings are built from various elements according to 
+patterns.  It also touches on music form/genre headings that do not include medium of 
+performance.  For guidance on subdivisions for musical compositions, see H 1160. 
+ 
+A large number of music form/genre headings that include medium of performance have been 
+established in the subject authority file.  With some exceptions (see H 250 and below), authority 
+records for these types of headings are no longer made because: 1) cross references are no 
+longer required; 2) the order of musical instruments given in the headings has been a pattern for 
+some time; and 3) the patterns the headings follow are amply illustrated in the authority file. 
+ 
+ 
+1.  Names of instruments, families, and ensembles. 
+ 
+a.  Form of name. 
+ 
+(1)  General guidelines.  For general guidance on the creation of subject 
+authority records for musical works, see H 250.  For additional guidance on 
+establishing names of musical instruments, see H 1918.  When specifying an 
+instrument in a heading, use the form of name for the instrument established in 
+the subject authority file.  If the name of the instrument has not been established, 
+make two proposals, one for the name of the instrument and the other for its 
+music, which will authorize the instrument to be used in bibliographic records as 
+a medium of performance.  Include a see also reference in the proposal for the 
+music, where the authorized plural, if there is one, is shown, and a scope note.  
+Example:  
+ 
+150 ## $a Flute 
+ 
+150 ## $a Flute music 
+360 ## $i headings for forms and types of music that include 
+            "flute" or "flutes" and headings with medium of 
+            performance that include "flute" or "flutes" 
+680 ## $i Here are entered compositions not in a specific 
+            form or of a specific type for solo flute, and 
+            collections of compositions in several forms or 
+            types for solo flute. 
+
+
+<<<PAGE 6>>>
+H 1917.5  Music Form/Genre Headings: Medium  
+          of Performance 
+ 
+ 
+ 
+H 1917.5 Page 6 
+Subject Headings Manual 
+September 2013 
+1.  Names of instruments, families, and ensembles. 
+ 
+a.  Form of name.  (Continued) 
+ 
+(2)  Headings that include the instrument=s key.  When establishing headings, 
+omit the key of the instrument even if it is typically included in the instrument=s 
+name.  Examples: 
+ 
+ 
+  
+ 
+ 
+ 
+150 ## $a Clarinet   [Includes the A, B flat and E flat clarinets] 
+  
+ 
+ 
+ 
+150 ## $a Trumpet   [Includes the B flat, C, D, E flat, F, and A trumpets] 
+ 
+(3)  Headings that include the instrument=s range.  Headings for instruments 
+may be established that incorporate the instrument=s range.  (Retain the term for 
+the range when the instrument is used as a medium of performance in form/genre 
+headings for musical works only in headings for instrumental works, and only 
+when the works are for one or two solo players, alone or accompanied by an 
+ensemble.)  In other form/genre headings use the generic term for the instrument. 
+ Examples: 
+ 
+ 
+150 ## $a Alto flute music 
+150 ## $a Alto flute and viola music 
+150 ## $a Sonatas (Alto flutes (2)) 
+ 
+ 
+ 
+150 ## $a Alto trombone music 
+650 #0 $a Alto trombone with string orchestra. 
+ 
+ 
+ 
+150 ## $a Bass clarinet music 
+650 #0 $a Concertos (Bass clarinet and double bass     
+     with jazz ensemble) 
+ 
+but: 
+ 
+Title:  Life a mad animal : for double bass, piano, violin, viola, alto flute, 
+clarinet 
+150 ## $a Flute music 
+650 #0 $a Sextets (Piano, clarinet, flute, violin,     
+     viola, double bass) 
+
+
+<<<PAGE 7>>>
+ 
+Music Form/Genre Headings: Medium  H 1917.5 
+                                           of Performance           
+           
+ 
+ 
+ 
+Subject Headings Manual 
+H 1917.5 Page 7 
+ 
+September 2013 
+1.  Names of instruments, families, and ensembles. 
+ 
+a.  Form of name. 
+ 
+(3)  Headings that include the instrument=s range.  (Continued) 
+ 
+Include a scope note in the authority record for music of an instrument whose 
+name incorporates the instrument=s range, to state when the specific name of the 
+instrument is used, and when the generic name is used, in form/genre headings 
+that include the medium of performance.  Example: 
+ 
+150 ## $a Bass clarinet music 
+680 ## $i The term "bass clarinet" is used as a medium of    
+     performance in headings for works for one or two   
+     solo instruments, alone or accompanied by an        
+     ensemble. In headings for other works that include 
+     bass clarinet, the generic term "clarinet" is used 
+     as the medium of performance. 
+ 
+ 
+(4)  Non-musical objects used as musical instruments.  When it is appropriate 
+to establish a heading for music written for a non-musical object so that the object 
+can be used as a medium of performance in a bibliographic record, in addition to 
+creating a heading for the music of the object, also create a general see reference 
+for the object to demonstrate how it may be used. Give at least one example. All 
+examples must be authorized headings, so establish such as heading for the 
+resource being cataloged to use in the general see reference, even when 
+establishing the heading would not normally be necessary according to H 1917.5. 
+ Examples:   
+ 
+ 
+150 ## $a Leaf music 
+ 
+ 
+ 
+ 
+ 
+680 ## $i Here are entered musical compositions not in a specific 
+form or of a specific type consisting of sounds produced by 
+blowing air across a leaf, and collections of such compositions 
+in several forms or types 
+ 
+150 ## $a Leaves (Musical medium of performance) 
+260 ## $i headings for musical compositions containing the word 
+“leaf” or “leaves” as a medium of performance, e.g., $a Leaf 
+music 
+
+
+<<<PAGE 8>>>
+H 1917.5  Music Form/Genre Headings: Medium  
+          of Performance 
+ 
+ 
+ 
+H 1917.5 Page 8 
+Subject Headings Manual 
+September 2013 
+1.  Names of instruments, families, and ensembles.  (Continued) 
+ 
+b.  Singular/plural. 
+ 
+(1)  Instruments.  Names of instruments established in the plural (because more 
+than one is usually played at a time by a single performer) may be singular or 
+plural in headings for music of that instrument, where natural language should 
+govern the choice.  Examples: 
+ 
+Name of the instrument 
+ 
+Music of the instrument 
+ 
+Castanets 
+ 
+ 
+ 
+Castanet music 
+Clock chimes  
+ 
+ 
+Clock chime music 
+Panpipes 
+ 
+ 
+ 
+Panpipes music 
+Timpani 
+ 
+ 
+ 
+Timpani music 
+ 
+ 
+(2)  Ensembles and families of instruments. When establishing a heading for 
+music of an instrumental ensemble or a family of instruments whose name has 
+been established in the plural, use the name of the ensemble or family in the 
+singular in the heading for music of the ensemble or family.  Examples: 
+ 
+Name of the ensemble or family 
+Music of the ensemble or family 
+ 
+Bands (Music) 
+ 
+ 
+Band music 
+Stringed instruments  
+ 
+Stringed instrument music 
+ 
+ 
+c.  Doubling.  If a solo performer doubles on two or more instruments of the same type, 
+use the generic name for the instrument in headings that specify medium of performance. 
+ Example: 
+ 
+ 
+Title:  Sonata a cinque : for clarinet in A (doubling on bass clarinet and clarinet  
+in  E-flat), violin, cello, bass trombone and piano 
+650 #0 $a Quintets (Piano, clarinet, trombone, violin,cello) 
+
+
+<<<PAGE 9>>>
+ 
+Music Form/Genre Headings: Medium  H 1917.5 
+                                           of Performance           
+           
+ 
+ 
+ 
+Subject Headings Manual 
+H 1917.5 Page 9 
+ 
+September 2013 
+2.  Solo instruments in headings:  Order of solo instruments.  Assign the names of solo 
+instruments in the following order: (1) keyboard instruments, (2) wind instruments, (3) plucked 
+or hammered stringed instruments without a keyboard, (4) percussion, electronic, and other 
+instruments, (5) bowed stringed instruments, (6) unspecified instruments, and (7) continuo.  
+Within each numbered category, give the instruments in alphabetical order with the exception of 
+bowed stringed instruments: give these in score order, high to low, basing the order on the range 
+of each instrument as described in standard music reference sources. 
+ 
+Do not include more than 9 instruments or 9 soloists in a heading, counting all categories.  If 
+the solo group is larger than 9, use an appropriate heading that incorporates the term Aensemble@ 
+(cf. sec. 5). 
+ 
+Examples: 
+ 
+650 #0 $a Clarinet, flute, violin, cello with chamber 
+ 
+     orchestra. 
+650 #0 $a Flute and violin music. 
+650 #0 $a Concertos (Piano, saxophone, double bass 
+            with instrumental ensemble) 
+650 #0 $a Nonets (Bassoon, clarinet, flute, horn, 
+            oboe, violin, viola, cello, double bass) 
+650 #0 $a Octets (Piano, clarinet, flute, guitar, 
+            mandolin, accordion, percussion, double 
+            bass) 
+650 #0 $a Piano, horn, glockenspiel, xylophone with 
+     orchestra 
+650 #0 $a Pianos (2), celesta, percussion, synthesizer 
+     with chamber orchestra 
+650 #0 $a Quartets (Flute, violin, viola, continuo) 
+650 #0 $a Sonatas (Flute and violin) 
+650 #0 $a Suites (Flute, harp, vibraphone, cello) 
+650 #0 $a Quartets (Pianos (3), computer) 
+650 #0 $a Quartets (Clarinet, flute, computer, double 
+            bass) 
+650 #0 $a Septets (Electronics, percussion) 
+650 #0 $a String quintets (Violin, viola d=amore, 
+            viola, cello, violone) 
+650 #0 $a Trios (Piano (4 hands), reed organ) 
+650 #0 $a Variations (Organ and piano) 
+ 
+For the order of solo instruments when there are two, one of which is chordal, see sec. 3 and sec. 
+6. 
+
+
+<<<PAGE 10>>>
+H 1917.5  Music Form/Genre Headings: Medium  
+          of Performance 
+ 
+ 
+ 
+H 1917.5 Page 10 
+Subject Headings Manual 
+September 2013 
+2.  Solo instruments in headings:  Order of solo instruments.  (Continued) 
+ 
+For guidelines on headings for two or more solo instruments combined with a term for an 
+accompanying ensemble, see sec. 5. 
+ 
+3.  Solo instruments in headings:  Combinations of two different instruments or of one 
+unspecified and one specified instrument. 
+ 
+a.  Standard order.  Follow the general guidelines in sec. 2.  Create an authority record 
+for the combination; provide a reference with the instruments in reverse order.  
+Examples: 
+ 
+150 ## $a Balloon and electronic music 
+450 ## $a Electronic and balloon music 
+ 
+150 ## $a Bassoon and flute music 
+450 ## $a Flute and bassoon music 
+ 
+b.  One unspecified instrument.  In headings for works where one of the instruments is 
+unspecified, establish the heading beginning with the term Duets.  Provide references 
+with both of the other possible ways of expressing the combination.  Example: 
+ 
+150 ## $a Duets (Unspecified instrument and piano) 
+450 ## $a Duets (Piano and unspecified instrument) 
+450 ## $a Piano and unspecified instrument music 
+ 
+c.  Chordal instruments; accompanying instrument.  For Western music performed 
+entirely on Western instruments, and optionally for one Western and one non-Western 
+instrument, if one of the instruments is chordal (keyboard or plucked instruments, on 
+which chords are easily played), or if one serves as an accompaniment to the other,  give 
+the chordal or accompanying instrument in the second position.  Examples: 
+ 
+1 chordal instrument as accompaniment: 
+ 
+150 ## $a Trombone and piano music 
+450 ## $a Piano and trombone music 
+ 
+2 chordal instruments, the second as accompaniment: 
+ 
+150 ## $a Mandolin and piano music 
+450 ## $a Piano and mandolin music 
+
+
+<<<PAGE 11>>>
+ 
+Music Form/Genre Headings: Medium  H 1917.5 
+                                           of Performance           
+           
+ 
+ 
+ 
+Subject Headings Manual 
+H 1917.5 Page 11 
+ 
+September 2013 
+4.  Solo instruments in headings:  Two or more of the same solo instrument or of the number 
+of players of the instrument. 
+ 
+a.  Two or more of the same instrument in a mixed group.  When there are two or 
+more different parts for the same instrument, or for unspecified instruments, in a group 
+where other solo instruments are also required, specify the number of instruments with an 
+arabic numeral in parentheses following the instrument's name.  Use the plural form of 
+the name.  No authority record is necessary to establish the number.  Examples: 
+ 
+ 
+650 #0 $a Concertos (Euphonium, horns (4) with band) 
+650 #0 $a Concertos (Flutes (3), harp) 
+650 #0 $a Concertos (Harpsichord, guitars (2), harp, double  
+     bass) 
+650 #0 $a Horns (3), violin with chamber orchestra. 
+650 #0 $a String nonets (Violins (4), violas (2), cellos (2), 
+    double bass) 
+ 
+ 
+b.  Music of individual instruments.  Headings representing music of an individual 
+instrument (Clarinet music, Harp music, etc.), or an unspecified instrument, may be 
+modified as shown below.  Authority records are required for the modified headings.   
+These authority records authorize use of the modifications in all pattern headings 
+described in this instruction sheet for works that feature the instruments, either as soloists 
+alone or as soloists serving as accompaniment. 
+ 
+Do not confuse the provisions in this section with sec. a. above, which provides for 
+headings in which there are two or more parts for the instrument and the instrument is in 
+a mixed group statement of the medium of performance. 
+ 
+ 
+(1)  Wind, plucked, and bowed stringed instruments. 
+ 
+ 
+(a)  Number of instruments.  The heading for music for the instrument 
+may be modified for music for two of the same instrument.   Examples: 
+ 
+ 
+150 ## $a Flute music (Flutes (2)) 
+150 ## $a Cello music (Cellos (2)) 
+
+
+<<<PAGE 12>>>
+H 1917.5  Music Form/Genre Headings: Medium  
+          of Performance 
+ 
+ 
+ 
+H 1917.5 Page 12 
+Subject Headings Manual 
+September 2013 
+4.  Solo instruments in headings:  Two or more of the same solo instrument or of the number 
+of players of the instrument. 
+ 
+b.  Music of individual instruments.  
+ 
+(1)  Wind, plucked, and bowed stringed instruments.  (Continued) 
+ 
+ 
+(b)  Number of hands.  If a work calls for the instrument to be played 
+with a number of hands other than two, an authority record for music of 
+the instrument with the exceptional number of hands is required. Indicate 
+the number of hands in parentheses after the name of the instrument. 
+Examples: 
+ 
+ 
+150 ## $a Lute music (4 hands) 
+650 #0 $a Songs (High voice) with lute (4 hands) 
+ 
+ 
+150 ## $a Viola music (3 hands) 
+650 #0 $a Sonatas (Viola, 3 hands) 
+ 
+ 
+(2)  Keyboard instruments. 
+ 
+(a)  Number of hands.  If a work calls for the instrument to be played 
+with a number of hands other than two, an authority record for music of 
+the instrument indicating the exceptional number of hands is required.  
+Give the number of hands in parentheses after the name of the instrument, 
+or, if there is more than one instrument, following the number of 
+instruments. 
+Examples: 
+ 
+ 
+150 ## $a Piano music (1 hand) 
+450 ## $a Left-hand piano music 
+450 ## $a Right-hand piano music 
+ 
+650 #0 $a Concertos (Piano, 1 hand) 
+650 #0 $a Quintets (Piano (1 hand), clarinet,  
+            violin, viola, cello) 
+ 
+150 ## $a Piano music (Pianos (2), 6 hands) 
+
+
+<<<PAGE 13>>>
+ 
+Music Form/Genre Headings: Medium  H 1917.5 
+                                           of Performance           
+           
+ 
+ 
+ 
+Subject Headings Manual 
+H 1917.5 Page 13 
+ 
+September 2013 
+4.  Solo instruments in headings:  Two or more of the same solo instrument or of the number 
+of players of the instrument. 
+ 
+b.  Music of individual instruments.   
+ 
+(2)  Keyboard instruments. 
+ 
+(a)  Number of hands. 
+ 
+ 
+ Examples:  (Continued) 
+ 
+ 
+ 
+150 ## $a Organ music (4 hands) 
+ 
+ 
+ 
+650 #0 $a Canons, fugues, etc. (Organ, 4 hands),        
+     Arranged 
+650 #0 $a Septets (Organ (4 hands), horn, trombone,    
+     trumpets (2), tuba) 
+ 
+ 
+ 
+Do not enclose the number of hands in parentheses if the keyboard 
+instrument is part of the accompaniment in vocal music headings (cf. sec. 
+10).   
+ 
+ 
+ 
+Example: 
+ 
+ 
+150 ## $a Piano music (4 hands) 
+ 
+ 
+650 #0 $a Songs (High voice) with piano, 4 hands. 
+650 #0 $a Choruses, Secular (Mixed voices) with         
+     piano, 4 hands. 
+
+
+<<<PAGE 14>>>
+H 1917.5  Music Form/Genre Headings: Medium  
+          of Performance 
+ 
+ 
+ 
+H 1917.5 Page 14 
+Subject Headings Manual 
+September 2013 
+4.  Solo instruments in headings:  Two or more of the same solo instrument or of the number 
+of players of the instrument. 
+ 
+b.  Music of individual instruments. 
+ 
+(2)  Keyboard instruments. 
+ 
+(b)  Number of instruments. 
+ 
+i.  Two keyboard instruments.  If a work features two of the same 
+solo keyboard instrument, make an authority record for music of 
+the instrument, modified to show the number.  Examples: 
+ 
+150 ## $a Electronic organ music (Electronic     
+     organs (2)) 
+650 #0 $a Chorale preludes (Electronic organs    
+     (2)) 
+ 
+ 
+150 ## $a Harpsichord music (Harpsichords (2)) 
+650 #0 $a Concertos (Harpsichords (2) with        
+    string orchestra) 
+ 
+ 
+150 ## $a Organ music (Organs (2)) 
+650 #0 $a Organs (2) with orchestra. 
+ 
+ 
+150 ## $a Pianos (2) 
+650 #0 $a Quartets (Pianos (2), percussion) 
+650 #0 $a Choruses, Secular (Children's voices) 
+          with pianos (2) 
+ 
+ 
+ 
+ii.  Three or more keyboard instruments.  Three or more 
+keyboard instruments constitute an ensemble.  If the instruments 
+are the same, the ensemble bears that instrument's name.  
+Example: 
+ 
+150 ## $a Piano ensembles 
+650 #0 $a Piano ensembles, Arranged. 
+650 #0 $a Suites (Piano ensemble) 
+
+
+<<<PAGE 15>>>
+ 
+Music Form/Genre Headings: Medium  H 1917.5 
+                                           of Performance           
+           
+ 
+ 
+ 
+Subject Headings Manual 
+H 1917.5 Page 15 
+ 
+September 2013 
+4.  Solo instruments in headings:  Two or more of the same solo instrument or of the number 
+of players of the instrument. 
+ 
+b.  Music of individual instruments. 
+ 
+(2)  Keyboard instruments. 
+ 
+ 
+(b)  Number of instruments. 
+ 
+ii.  Three or more keyboard instruments.  (Continued) 
+ 
+Works for keyboard instruments that differ, or that are not 
+specified, are assigned the heading Keyboard instrument 
+ensembles.  This heading, and those for ensembles of specific 
+keyboard instruments, authorize the construction of pattern 
+headings for works that feature three or more of the instrument or 
+whose accompaniment is for three or more of the instrument.  See 
+also sec. 5.b.(4). 
+ 
+iii.  One performer playing more than one instrument.  If a work 
+calls for one performer to play more than one of the same keyboard 
+instrument, an authority record incorporating both the number of 
+instruments and the number of performers is required.  Indicate 
+the performer as the last element in the heading.  Example: 
+ 
+150 ## $a Piano music (Pianos (2), 1 performer) 
+ 
+ 
+ 
+(3)  Two or more unspecified instruments. For two through nine unspecified 
+instruments the headings Duets (Unspecified instruments (2)) through Nonets 
+Unspecified instruments (9)) have been established.  The number of 
+unspecified  instruments in these and related headings is indicated even when the 
+headings begin with the number of players (Trios, Quartets, etc.).  Examples: 
+ 
+650 #0 $a Canons, fugues, etc. (Unspecified       
+     instruments (5))  
+650 #0 $a Trio sonatas (Unspecified instruments  
+     (2), continuo) 
+
+
+<<<PAGE 16>>>
+H 1917.5  Music Form/Genre Headings: Medium  
+          of Performance 
+ 
+ 
+ 
+H 1917.5 Page 16 
+Subject Headings Manual 
+September 2013 
+4.  Solo instruments in headings:  Two or more of the same solo instrument or of the number 
+of players of the instrument. 
+ 
+b.  Music of individual instruments.  (Continued) 
+ 
+(4)  Percussion instruments.  
+ 
+(a)  Number of hands.  When two or more players perform on a mallet 
+instrument or on the celesta, instruments normally played with two hands, 
+specify the number of hands if other than two.  Make an authority record 
+for the music for each exceptional number of hands. 
+ 
+ 
+Example: 
+ 
+ 
+150 ## $a Vibraphone music (4 hands) 
+650 #0 $a Trios (Flute, vibraphone (4 hands)) 
+ 
+ 
+ 
+(b)  Number of players.  Do not specify the number of percussion 
+players. One player often plays more than one instrument, so a number 
+representing the players can be confused with the number of instruments.  
+This proscription leads to some ambiguity, as the term Apercussion@ is 
+used in two ways in headings: 1) Apercussion@ stands for a solo 
+percussionist in duet combinations where the percussionist plays two or 
+more different instruments:  Examples: 
+ 
+ 
+150 ## $a Percussion music 
+650 #0 $a Electronic and percussion music. 
+650 #0 $a Songs (Low voice) with percussion. 
+ 
+ 
+and  2) in headings for three or more solo instruments from various 
+families, Apercussion@ stands for one or more solo percussionists playing 
+two or more different instruments.  However, the number of percussion 
+players can sometimes be inferred from the heading.  See also sec. 
+5.b(6). 
+
+
+<<<PAGE 17>>>
+ 
+Music Form/Genre Headings: Medium  H 1917.5 
+                                           of Performance           
+           
+ 
+ 
+ 
+Subject Headings Manual 
+H 1917.5 Page 17 
+ 
+September 2013 
+4.  Solo instruments in headings:  Two or more of the same solo instrument or of the number 
+of players of the instrument. 
+ 
+b.  Music of individual instruments. 
+ 
+(4)  Percussion instruments. 
+ 
+(b)  Number of players.  (Continued) 
+ 
+Examples: 
+ 
+ 
+Title: A cycle for voice and percussion / John Cage. 
+[1 percussionist plays four instruments]  
+650 #0 $a Songs with percussion. 
+ 
+ 
+Title: Images :  para percusión  / Siegfried Fink 
+[Flute or soprano and 4 percussionists] 
+650 #0 $a Quintets (Flute, percussion) 
+650 #0 $a Songs (High voice) with percussion 
+          ensemble. 
+ 
+ 
+Title: Sonata for two pianos and percussion / Béla Bartók. 
+[2 percussionists play 11 instruments] 
+650 #0 $a Quartets (Pianos (2), percussion) 
+650 #0 $a Sonatas (Pianos (2), percussion) 
+ 
+ 
+Title: Music of amber / Joseph Schwantner. 
+[1 percussionist plays 13 instruments] 
+ 
+650 #0 $a Sextets (Piano, clarinet, flute, 
+          percussion, violin, cello) 
+ 
+ 
+(5) Electronic music; Computer music.  Do not modify these headings or the 
+term Aelectronics@ in a heading to indicate the number of instruments. 
+
+
+<<<PAGE 18>>>
+H 1917.5  Music Form/Genre Headings: Medium  
+          of Performance 
+ 
+ 
+ 
+H 1917.5 Page 18 
+Subject Headings Manual 
+September 2013 
+5.  Instrumental ensembles. 
+ 
+a.  Types of instrumental ensemble.   There are two principal types of instrumental 
+groups: large ensembles with more than one player to a part, and smaller ensembles with 
+one player to a part.  Both types have the same two subtypes: ensembles of different 
+instruments and ensembles of the same instrument.  Subject heading practice for each 
+type and subtype is described below.  Terms for the names of specific types of ensemble 
+may be used alone in headings or as an element that indicates medium of performance.  
+Authority records are required for the type of ensemble and for music of the ensemble.  
+For further guidance, see sec. 5.c below. 
+ 
+(1)  Large ensembles (more than one player to a part), such as orchestra, string 
+orchestra, band, clarinet choir.  The word "ensembles" is not part of headings in 
+this category. 
+ 
+(a)  Large ensembles of different instruments.  Examples: 
+ 
+    Ensemble type 
+ 
+ 
+Ensemble type as medium  
+      as heading 
+ 
+ 
+     of performance 
+ 
+ 
+Orchestra 
+ 
+ 
+ 
+Violin with orchestra 
+Suites (Orchestra) 
+Songs (High voice) with 
+   orchestra 
+String orchestra 
+ 
+ 
+Concertos (String orchestra) 
+Bands (Music) 
+ 
+ 
+Choruses, Sacred (Mixed 
+   voices) with band 
+Suites (Piano with band) 
+ 
+ 
+(b)  Large ensembles of the same instrument.  Example: 
+ 
+    Ensemble type 
+ 
+ 
+Ensemble type as medium  
+      as heading 
+ 
+ 
+     of performance 
+ 
+ 
+Clarinet choir  
+ 
+ 
+Variations (Piano with clarinet  
+   choir) 
+Piano with clarinet choir 
+
+
+<<<PAGE 19>>>
+ 
+Music Form/Genre Headings: Medium  H 1917.5 
+                                           of Performance           
+           
+ 
+ 
+ 
+Subject Headings Manual 
+H 1917.5 Page 19 
+ 
+September 2013 
+5.  Instrumental ensembles. 
+ 
+a.  Types of instrumental ensemble.  (Continued) 
+ 
+(2)  Ensembles with one player to a part. 
+ 
+(a)  Ensembles of different instruments.  Examples: 
+ 
+ 
+ 
+    Ensemble type 
+ 
+ 
+Ensemble type as medium  
+      as heading 
+ 
+ 
+     of performance 
+ 
+ 
+Instrumental ensembles 
+ 
+Harp with instrumental ensemble 
+Variations (Instrumental ensemble)  
+Choruses, Sacred (Mixed voices)    
+     with instrumental ensemble 
+ 
+ 
+Brass ensembles 
+ 
+ 
+Symphonies (Brass ensemble) 
+Brass ensemble with orchestra 
+Choruses, Secular (Mixed voices) 
+   with brass ensemble 
+ 
+ 
+Wind ensembles 
+ 
+ 
+Clarinet with wind ensemble 
+Concertos (Tuba with wind  
+   
+   ensemble) 
+ 
+ 
+String ensembles 
+ 
+ 
+Variations (Clarinet with string 
+   ensemble) 
+Songs (Medium voice) with string 
+   ensemble 
+
+
+<<<PAGE 20>>>
+H 1917.5  Music Form/Genre Headings: Medium  
+          of Performance 
+ 
+ 
+ 
+H 1917.5 Page 20 
+Subject Headings Manual 
+September 2013 
+5.  Instrumental ensembles. 
+ 
+a.  Types of instrumental ensemble.  (Continued) 
+ 
+(2)  Ensembles with one player to a part. 
+ 
+(b)  Ensembles of the same instrument.  Examples: 
+ 
+    Ensemble type 
+ 
+ 
+Ensemble type as medium  
+      as heading 
+ 
+ 
+     of performance 
+ 
+ 
+ 
+Clarinet ensembles 
+ 
+ 
+Clarinet with clarinet ensemble 
+ 
+ 
+Recorder ensembles  
+ 
+Suites (Recorder ensemble) 
+ 
+ 
+Violin ensembles 
+ 
+ 
+Canons, fugues, etc. (Violin 
+   ensemble) 
+ 
+ 
+b.  Number of instruments represented by the word "ensemble." 
+ 
+ 
+(1)  Collections.  For collections, the word "ensemble(s)" in headings for the 
+type of ensemble may represent works that differ in their specific instrumentation 
+or number of players. 
+ 
+(2)  Individual works.  For individual works, the word "ensemble(s)" stands for 
+10 or more instruments in headings for the type of ensemble, except as indicated 
+in sec. (3)-(6).  Examples: 
+ 
+650 #0 $a Brass ensemble with orchestra. 
+650 #0 $a String ensembles. 
+650 #0 $a Symphonies (Brass ensemble) 
+650 #0 $a Variations (Instrumental ensemble) 
+
+
+<<<PAGE 21>>>
+ 
+Music Form/Genre Headings: Medium  H 1917.5 
+                                           of Performance           
+           
+ 
+ 
+ 
+Subject Headings Manual 
+H 1917.5 Page 21 
+ 
+September 2013 
+5.  Instrumental ensembles. 
+ 
+b.  Number of instruments represented by the word "ensemble."  (Continued) 
+ 
+(3)  Certain other ensembles. The following headings for types of ensemble stand 
+for three or more instruments of that type.  Check scope notes in subject 
+authority records to ascertain whether ensemble headings for other instruments 
+have been added to this small group. 
+ 
+150 ## $a Accordion ensembles 
+150 ## $a Carillon ensembles 
+150 ## $a Concertina ensembles 
+150 ## $a Harmonica ensembles 
+150 ## $a Harpsichord ensembles 
+150 ## $a Keyboard instrument ensembles 
+150 ## $a Piano ensembles 
+ 
+ 
+(4)  Solo instruments as accompanying ensemble. With one exception, two or 
+more instruments that serve as accompaniment are described in headings as a type 
+of ensemble, even though some of the combinations would be described by a 
+different term otherwise.  Indication of accompaniment follows the connecting 
+word with (cf. sec. 6).  See also sec. 10.  Examples: 
+ 
+650 #0 $a Choruses, Sacred (Mixed voices) with 
+          keyboard ensemble. 
+[not, e.g., 
+650 #0 $a Choruses, Sacred (Mixed voices) with organ 
+          and piano.] 
+ 
+650 #0 $a Songs (High voice) with string ensemble. 
+[not, e.g., 
+650 #0 $a Songs (High voice) with string quartet.] 
+ 
+650 #0 $a Songs (Medium voice) with instrumental 
+          ensemble. 
+[not, e.g., 
+650 #0 $a Songs (Medium voice) with piano trio.] 
+ 
+ 
+Exception:  When the accompaniment is for two of the same keyboard 
+instrument, the instrument is specified.  Example: 
+ 
+650 #0 $a Vocal trios with pianos (2) 
+
+
+<<<PAGE 22>>>
+H 1917.5  Music Form/Genre Headings: Medium  
+          of Performance 
+ 
+ 
+ 
+H 1917.5 Page 22 
+Subject Headings Manual 
+September 2013 
+5.  Instrumental ensembles. 
+ 
+b.  Number of instruments represented by the word "ensemble."  (Continued)   
+ 
+(5)  Percussion ensemble(s).  Percussion ensemble(s) stands for two or more 
+performers, each playing one or more instruments, in works solely for percussion 
+or where the accompaniment is solely for percussion.  Examples: 
+ 
+650 #0 $a Percussion ensembles. 
+650 #0 $a Vibraphone with percussion ensemble. 
+ 
+ 
+(6)  Jazz ensembles.  The term Ajazz ensembles@ is not used as a main heading 
+(cf. the see also reference in the authority record Jazz).  However, it may be 
+used as a medium of performance to designate a group of two or more solo 
+instruments with other accompaniment, or to designate the accompanying group 
+itself.  Examples: 
+ 
+ 
+650 #0 $a Concertos (Jazz ensemble with band) 
+650 #0 $a Guitar and piano with jazz ensemble.  
+ 
+ 
+c.  Authority records. 
+ 
+ 
+(1)  Large ensembles (more than one player to a part).  An authority record is 
+required for the music for the type of ensemble.  Include a scope note in the 
+proposal and a see also reference, which authorizes the term for the ensemble to 
+be used in  bibliographic records as a medium of performance.  Examples: 
+ 
+ 
+150 ## $a String orchestra music 
+680 ## $i Here are entered compositions not in a 
+            specific form or of a specific type for 
+            string orchestra, and collections of 
+            compositions in several forms or types for 
+            string orchestra. 
+360 ## $i headings for forms and types of music that 
+            include "string orchestra" and headings 
+            with medium of performance that include  
+            "string orchestra" 
+
+
+<<<PAGE 23>>>
+ 
+Music Form/Genre Headings: Medium  H 1917.5 
+                                           of Performance           
+           
+ 
+ 
+ 
+Subject Headings Manual 
+H 1917.5 Page 23 
+ 
+September 2013 
+5.  Instrumental ensembles. 
+ 
+c.  Authority records. 
+ 
+ 
+(1)  Large ensembles (more than one player to a part). 
+ 
+Examples:  (Continued) 
+ 
+ 
+150 ## $a Band music 
+680 ## $i Here are entered compositions not in a specific    
+     form or of a specific type for band, and collec-   
+     tions of compositions in several forms or types    
+     for band. 
+360 ## $i headings for forms and types of music that 
+            include "band" and headings with medium 
+            of performance that include "band" 
+ 
+150 ## $a Trombone choir music 
+680 ## $i Here are entered compositions not in a specific    
+     form or of a specific type for trombone choir, and 
+     collections of compositions in several forms or    
+     types for trombone choir.  
+360 ## $i headings for forms and types of music that 
+            include "trombone choir" and headings with medium  
+     of performance that include "trombone choir" 
+ 
+ 
+ 
+(2)  Ensembles with one player to a part.  An authority record is required for the 
+name of the ensemble.  Include a scope note and a general see also reference, 
+which authorizes the term for the ensemble to be used in bibliographic records as 
+a medium of performance.  Examples: 
+ 
+ 
+150 ## $a Instrumental ensembles 
+680 ## $i Here are entered compositions not in a specific    
+     form or of a specific type for ten or more 
+     different solo instruments, and collections of     
+     compositions for various numbers of solo instru-   
+     ments belonging to different families. 
+360 ## $i headings for forms and types of music that include 
+     "instrumental ensemble" and headings with medium   
+     of performance that include "instrumental 
+     ensemble" 
+
+
+<<<PAGE 24>>>
+H 1917.5  Music Form/Genre Headings: Medium  
+          of Performance 
+ 
+ 
+ 
+H 1917.5 Page 24 
+Subject Headings Manual 
+September 2013 
+5.  Instrumental ensembles. 
+ 
+c.  Authority records. 
+ 
+(2) Ensembles with one player to a part. 
+ 
+Examples:  (Continued) 
+ 
+ 
+150 ## $a Brass ensembles 
+680 ## $i Here are entered compositions not in a 
+            specific form or of a specific type for ten 
+            or more different solo brass instruments, 
+            and collections of compositions in several 
+            forms or types for various numbers of solo 
+            brass instruments. 
+360 ## $i headings for forms and types of music that 
+            include "brass ensemble" and headings 
+            with medium of performance that include  
+            "brass ensemble" 
+ 
+ 
+150 ## $a Clarinet ensembles 
+680 ## $i Here are entered compositions not in a 
+     specific form or of a specific type for ten 
+     or more solo clarinets and collections of    
+     compositions in several forms or types for   
+     various numbers of solo clarinets. 
+360 ## $i headings for forms and types of music that 
+            include "clarinet ensemble" and headings 
+            with medium of performance that include 
+            "clarinet ensemble" 
+ 
+ 
+d.  Orchestra assumed as the medium of performance.  Full orchestra is typically the 
+medium of performance of certain musical forms, including overtures, symphonic poems, 
+and symphonies, and of the accompanying ensemble in concertos.  Therefore, the large 
+ensemble Aorchestra@ is assumed in headings for these forms, and is not added as a 
+medium of performance.  Similarly, the parenthetical qualifier in headings for concertos 
+accompanied by full orchestra contains only the solo instrument(s).  When assigning 
+headings in this category to works where the assumed orchestral medium of performance 
+is other than full orchestra, include the medium in the heading.  Check scope notes in 
+authority records to ascertain which headings should not have the medium of 
+performance Aorchestra@ added when the heading is used for a work requiring full 
+orchestra. 
+
+
+<<<PAGE 25>>>
+ 
+Music Form/Genre Headings: Medium  H 1917.5 
+                                           of Performance           
+           
+ 
+ 
+ 
+Subject Headings Manual 
+H 1917.5 Page 25 
+ 
+September 2013 
+5.  Instrumental ensembles. 
+ 
+d.  Orchestra assumed as the medium of performance.  (Continued) 
+ 
+ 
+ 
+ Examples: 
+ 
+650 #0 $a Concertos (Clarinet)   [Accompaniment of orchestra is assumed] 
+650 #0 $a Symphonic poems.   [Performance by orchestra is assumed] 
+650 #0 $a Symphonies.   [Performance by orchestra is assumed] 
+ 
+but: 
+ 
+650 #0 $a Concertos (Clarinet with band) 
+650 #0 $a Concertos (Percussion with instrumental ensemble)  
+650 #0 $a Concertos (Violins (2) with string orchestra) 
+650 #0 $a Overtures (Dance orchestra) 
+650 #0 $a Symphonic poems (Organ) 
+650 #0 $a Symphonies (Electronics) 
+ 
+ 
+ 
+ 
+e.  The headings Concertos (Orchestra  [Band, etc.]).  Headings of this type are 
+assigned when the composer has indicated in the title or subtitle that the work is a 
+concerto for the entire large ensemble.  Concerto headings are not assigned to chamber 
+music, where there is only one player to a part, even if the composer has used the term 
+Aconcerto.@  Examples: 
+ 
+ 
+Title:  Concerto for orchestra 
+650 #0 $a Concertos (Orchestra) 
+ 
+but: 
+ 
+ 
+Title:  Concerto : per clavicembalo (o pianoforte), flauto, oboe, clarinetto, 
+ 
+ 
+violino e violoncello 
+650 #0 $a Sextets (Harpsichord, clarinet, flute, oboe,        
+   violin, cello) 
+
+
+<<<PAGE 26>>>
+H 1917.5  Music Form/Genre Headings: Medium  
+          of Performance 
+ 
+ 
+ 
+H 1917.5 Page 26 
+Subject Headings Manual 
+September 2013 
+6.  Connecting words: "and" and "with." 
+ 
+a.  The connecting word Aand.@  The connector and is used to connect two solo 
+instruments.  
+ 
+ 
+Examples: 
+ 
+ 
+650 #0 $a Violin and piano music. 
+650 #0 $a Suites (Violin and piano) 
+650 #0 $a Concertos (Violin and viola) 
+ 
+ 
+ 
+It is also used to connect sung vocal parts and a solo instrument when they appear 
+together in a parenthetical qualifier for medium of performance formulated according to 
+the provisions of sec. 8.b and 9.b. 
+ 
+ 
+ Example: 
+ 
+ 
+650 #0 $a Canons, fugues, etc. (Chorus and trumpet 
+     with string orchestra) 
+ 
+ 
+ 
+The connector and is not used either when there are three or more elements in the 
+heading that precede the connecting word with, or when the total number of soloists is 
+more than two.  Instead, commas separate those elements. 
+ 
+Examples: 
+ 
+650 #0 $a Clarinet, flute, violin, cello  with instrumental 
+ensemble 
+650 #0 $a Monologues with music (Voices (2), oboe, trumpet 
+     with orchestra) 
+650 #0 $a Wind trios (Oboes (2), trumpet) 
+
+
+<<<PAGE 27>>>
+ 
+Music Form/Genre Headings: Medium  H 1917.5 
+                                           of Performance           
+           
+ 
+ 
+ 
+Subject Headings Manual 
+H 1917.5 Page 27 
+ 
+September 2013 
+6.  Connecting words: "and" and "with."  (Continued) 
+ 
+b.  The connecting word Awith.@  Solo instruments used as accompaniment, and 
+instrumental ensemble accompaniment, are given following the connector with.  List 
+solo instruments as instructed in sec. 2; indicate the accompaniment as instructed in sec. 
+4.b(2)(a), sec. 4.b(2)(b)(iii), sec. 5.b(5), sec. 5.d., and sec. 10.  Examples: 
+ 
+ 
+650 #0 $a Concertos (Piano with string orchestra) 
+650 #0 $a Choruses, Secular (Mixed voices) with orchestra. 
+650 #0 $a Electronics and piano with percussion ensemble. 
+650 #0 $a Piano with band. 
+650 #0 $a Songs (High voice) with piano. 
+ 
+ 
+c.  AAnd@ and Awith@ in the same heading.  Both connecting words may appear in the 
+same heading.  When two different solo instruments are indicated, their order must be 
+established according to the provisions of sec. 3.  When the terms Avoice(s)@ or Achorus@ 
+appear as a medium of performance in a parenthetical qualifier, follow the provisions of 
+sec. 8.b. or 9.b.  Examples: 
+ 
+ 
+150 ## $a Saxophone and guitar music 
+650 #0 $a Saxophone and guitar with jazz ensemble. 
+ 
+ 
+650 #0 $a Symphonies (Chorus and viola with chamber 
+    orchestra)  
+ 
+ 
+7.  Arranged works: the qualifier ", Arranged." 
+ 
+ 
+a.  Free-floating usage.  The qualifier , Arranged is free-floating with form/genre 
+headings for arranged instrumental music to indicate that the medium of performance 
+specified represents an arrangement and not the original instrumentation (see also H 
+1160).  Examples: 
+ 
+ 
+650 #0 $a Piano music, Arranged. 
+650 #0 $a Violin and piano music, Arranged. 
+650 #0 $a Variations (Violin and piano), Arranged. 
+650 #0 $a Quartets (Flute, violin, viola, cello), Arranged. 
+
+
+<<<PAGE 28>>>
+H 1917.5  Music Form/Genre Headings: Medium  
+          of Performance 
+ 
+ 
+ 
+H 1917.5 Page 28 
+Subject Headings Manual 
+September 2013 
+7.  Arranged works: the qualifier ", Arranged."  (Continued) 
+ 
+b.  Authority record required.  This qualifier may be added to headings for larger vocal 
+forms and to instrumental forms that do not indicate medium of performance (cf. sec. 10). 
+ However, this usage is not free-floating; each such term must be established.  
+Examples: 
+ 
+ 
+150 ## $a Operas, Arranged 
+150 ## $a Oratorios, Arranged 
+150 ## $a Motion picture music, Arranged 
+150 ## $a Incidental music, Arranged 
+ 
+ 
+ 
+Do not add this qualifier to form/genre headings for the following vocal forms: 
+ 
+! Forms whose headings are usually qualified by type of chorus.  (Cf. sec. 9)  
+Examples: 
+ 
+ 
+150 ## $a Cantatas 
+ 
+ 
+ 
+ 
+150 ## $a Masses 
+150 ## $a Choruses 
+150 ## $a Requiems 
+ 
+ 
+! Works for solo singers or for one singer to a part.  Examples: 
+ 
+ 
+150 ## $a Sacred vocal duets [trios, etc.] 
+150 ## $a Songs 
+150 ## $a Sacred songs 
+150 ## $a Vocal duets [trios, etc.] 
+150 ## $a Solo cantatas 
+150 ## $a Vocalises 
+ 
+ 
+ 
+c.  Special provision for excerpts.  When a heading with the qualifier , Arranged could 
+be modified by the free-floating subdivision BExcerpts (cf. H 1160), use instead the 
+free-floating subdivision BExcerpts, Arranged. 
+
+
+<<<PAGE 29>>>
+ 
+Music Form/Genre Headings: Medium  H 1917.5 
+                                           of Performance           
+           
+ 
+ 
+ 
+Subject Headings Manual 
+H 1917.5 Page 29 
+ 
+September 2013 
+8.  Solo vocal works.  Performance by solo voice(s) may be stated or implied in the main 
+heading, or Avoice@ may be added to a heading as a medium of performance. 
+ 
+ 
+a.  Voice stated or implied in the heading.  This category includes headings such as 
+Songs, Sacred cantatas, Vocal trios, etc. 
+ 
+ 
+(1)  One solo voice.  For works requiring one solo voice, a qualifier indicating 
+vocal range is added as the first element in parentheses following the main 
+heading.  The terms for vocal range and the types of voices to which they apply 
+are: 
+ 
+ 
+High voice: soprano, countertenor, tenor 
+Medium voice: mezzo-soprano, baritone 
+Low voice: alto, contralto, bass 
+ 
+ 
+ 
+When assigning a heading, select a qualifier on the basis of a written description 
+on the item being cataloged.  Ignore terms that modify the basic voice types 
+indicated above.  If there is no description of vocal range, select the qualifier by 
+comparing the score to the specific ranges shown for each voice type in the New 
+Harvard Dictionary of Music.  If the vocal range in a work exceeds those shown 
+there, choose the qualifier that most closely matches it. 
+ 
+The following headings have been established with each of the qualifiers for 
+vocal range added: 
+ 
+ 
+150 ## $a Sacred songs 
+150 ## $a Solo cantatas 
+150 ## $a Solo cantatas, Sacred 
+150 ## $a Solo cantatas, Secular 
+150 ## $a Songs 
+150 ## $a Vocalises 
+
+
+<<<PAGE 30>>>
+H 1917.5  Music Form/Genre Headings: Medium  
+          of Performance 
+ 
+ 
+ 
+H 1917.5 Page 30 
+Subject Headings Manual 
+September 2013 
+8.  Solo vocal works. 
+ 
+a.  Voice stated or implied in the heading. 
+ 
+(1)  One solo voice.  (Continued) 
+ 
+ 
+Examples: 
+ 
+ 
+150 ## $a Sacred songs (Low voice) 
+150 ## $a Solo cantatas, Sacred (Medium voice) 
+150 ## $a Vocalises (High voice) 
+ 
+ 
+ 
+(2)  Two or more solo voices.  Headings for two through nine solo voices have 
+been established as follows: Vocal duets through Vocal nonets; Sacred vocal 
+duets through Sacred vocal nonets.  No indication of the range of the solo 
+voices is given in headings using these terms.  Examples: 
+ 
+ 
+ 
+150 ## $a Vocal duets with continuo 
+150 ## $a Sacred vocal quartets, Unaccompanied 
+ 
+ 
+ 
+The heading Vocalises may be qualified by a number for two or more solo voices. 
+ The number may be added on a free-floating basis.  No authority records are 
+necessary to establish the number of voices and no voice range may be indicated. 
+ Examples: 
+ 
+ 
+650 #0 $a Vocalises (Voices (3)), Unaccompanied. 
+650 #0 $a Vocalises (Voices (4)) with pianos (2) 
+
+
+<<<PAGE 31>>>
+ 
+Music Form/Genre Headings: Medium  H 1917.5 
+                                           of Performance           
+           
+ 
+ 
+ 
+Subject Headings Manual 
+H 1917.5 Page 31 
+ 
+September 2013 
+8.  Solo vocal works.  (Continued) 
+ 
+b.  Voice not stated or implied in the main heading.  One or more solo voices may be 
+present in a work to which a main heading is assigned that does not state or imply any 
+particular medium of performance.  A parenthetical qualifier for medium of 
+performance is added to such headings, with the term Avoice@ as the first element.  The 
+full order of elements in the qualifier is sung part(s), solo instrument, accompaniment; 
+neither the vocal range nor the nature of the text is indicated.  Where appropriate, a 
+second heading may be added that contains those elements. 
+ 
+(1)  One solo voice.  Examples: 
+ 
+ 
+650 #0 $a Recorded accompaniments (Voice) 
+ 
+650 #0 $a Sacred monologues with music (Voice with      
+            orchestra) [Avoice@ refers to the sung vocal part, i.e., it is 
+        part of the medium of performance of the Amusic@ element of  
+ 
+the heading] 
+650 #0 $a Sacred songs (Low voice) with orchestra. 
+[second heading] 
+ 
+(2)  Two or more solo voices.  Two or more solo voices are indicated by an 
+arabic numeral in parentheses following the term Avoices.@  Up to 9 solo voices 
+may be given.  No authority records are required.  (Cf. sec. 4.a.)  Examples: 
+ 
+ 
+650 #0 $a Marches (Voices (3) with band) 
+650 #0 $a Sacred trios with band [second heading] 
+ 
+ 
+650 #0 $a Variations (Voices (5) with instrumental 
+     ensemble) 
+650 #0 $a Vocal quintets with instrumental ensemble. 
+[second heading] 
+ 
+(3)  Unaccompanied works.  Do not add A, Unaccompanied@ to parenthetical 
+qualifiers when Avoice@ is the sole medium of performance in headings of this 
+type.  Example: 
+ 
+650 #0 $a Canons, fugues, etc. (Voices (3)) 
+650 #0 $a Vocal trios, Unaccompanied. [second heading] 
+
+
+<<<PAGE 32>>>
+H 1917.5  Music Form/Genre Headings: Medium  
+          of Performance 
+ 
+ 
+ 
+H 1917.5 Page 32 
+Subject Headings Manual 
+September 2013 
+9.  Chorus.  Performance by a chorus may be stated or implied in the main heading, or Achorus@ 
+may be added to a heading as a medium of performance.  Though solo singers may also be 
+required, they are not indicated in the heading. 
+ 
+ 
+a.  Chorus stated or implied in the heading. 
+ 
+ 
+(1) Type of chorus.  In headings that state or imply performance by chorus, the 
+type of voices is generally added as appropriate in a parenthetical qualifier 
+immediately following the main heading.  The terms for type of chorus are: 
+ 
+ 
+Changing voices 
+Children's voices 
+Equal voices 
+Men's voices 
+Mixed voices 
+Unison 
+Women's voices 
+ 
+ 
+(a)  No qualifier for type of chorus.  The presence of mixed voices is 
+assumed for the headings Cantatas, Sacred; Cantatas, Secular; Masses; 
+Requiems.  Therefore, no qualifier for mixed voices is added. 
+ 
+ 
+Examples: 
+ 
+650 #0 $a Cantatas.   [Mixed voices is assumed] 
+650 #0 $a Cantatas, Sacred.   [Mixed voices is assumed] 
+650 #0 $a Cantatas, Secular.   [Mixed voices is assumed] 
+650 #0 $a Masses.   [Mixed voices is assumed] 
+650 #0 $a Requiems.   [Mixed voices is assumed] 
+ 
+ 
+For the use of qualifiers for other types of chorus with these headings, see 
+sec. (c) below. 
+
+
+<<<PAGE 33>>>
+ 
+Music Form/Genre Headings: Medium  H 1917.5 
+                                           of Performance           
+           
+ 
+ 
+ 
+Subject Headings Manual 
+H 1917.5 Page 33 
+ 
+September 2013 
+9.  Chorus. 
+ 
+a.  Chorus stated or implied in the heading. 
+ 
+(1) Type of chorus.  (Continued) 
+ 
+(b)  Free-floating qualifiers for type of chorus.  Qualifiers for type of 
+voices in a chorus are free-floating after the following headings: 
+ 
+ 
+150 ## $a Choruses 
+150 ## $a Choruses, Sacred 
+ 
+ 
+ 
+150 ## $a Choruses, Secular 
+ 
+ 
+Examples: 
+ 
+ 
+650 #0 $a Choruses (Women's voices) 
+650 #0 $a Choruses, Sacred (Mixed voices) 
+ 
+ 
+ 
+(c)  Headings established with qualifier for type of chorus.  The 
+following headings have been established with qualifiers for type of 
+chorus: 
+ 
+ 
+ 
+150 ## $a Cantatas 
+150 ## $a Cantatas, Sacred 
+150 ## $a Cantatas, Secular 
+150 ## $a Masses 
+150 ## $a Requiems 
+ 
+ 
+ 
+Examples: 
+ 
+ 
+ 
+150 ## $a Cantatas, Secular (Men's voices) 
+150 ## $a Masses (Equal voices) 
+150 ## $a Requiems (Unison) 
+
+
+<<<PAGE 34>>>
+H 1917.5  Music Form/Genre Headings: Medium  
+          of Performance 
+ 
+ 
+ 
+H 1917.5 Page 34 
+Subject Headings Manual 
+September 2013 
+9.  Chorus.  
+ 
+a.  Chorus stated or implied in the heading.  (Continued) 
+ 
+ 
+(2)  Number of choral parts.  When included in the heading, the number of 
+choral parts follows the qualifier for type of chorus, separated by a comma in the 
+same parentheses.  The number of choral parts, if 8 or fewer, is specified only 
+with the headings Choruses; Choruses, Sacred; and Choruses, Secular, and 
+only if the accompaniment is: 
+ 
+! not present in the heading 
+! for continuo 
+! for a solo instrument 
+! for two of the same keyboard instruments 
+ 
+or if the qualifier , Unaccompanied is appropriate.  Do not count divisi parts 
+separately unless they occur throughout most or all of the vocal line. 
+ 
+ 
+ 
+Note:  Choral parts are sometimes referred to as "voices."  This 
+designation stands for the number of vocal lines, and not the number of 
+singers.Do not confuse the term "choral parts," used here synonymously 
+with "vocal lines," with the terms "part" or "parts" as they are used in 
+descriptive cataloging for the number of physical items.   
+ 
+ 
+Examples: 
+ 
+650 #0 $a Choruses, Sacred (Equal voices, 3 parts) 
+650 #0 $a Choruses, Sacred (Mixed voices, 6 parts) 
+            with continuo. 
+650 #0 $a Choruses, Sacred (Mixed voices, 4 parts) 
+            with piano. 
+650 #0 $a Choruses, Secular (Children's voices, 3 
+            parts), Unaccompanied. 
+650 #0 $a Choruses, Secular (Women's voices, 3 parts)   
+            with harp. 
+
+
+<<<PAGE 35>>>
+ 
+Music Form/Genre Headings: Medium  H 1917.5 
+                                           of Performance           
+           
+ 
+ 
+ 
+Subject Headings Manual 
+H 1917.5 Page 35 
+ 
+September 2013 
+9.  Chorus.  (Continued) 
+ 
+b.  Chorus not stated or implied in the main heading.  A chorus may be present in a 
+work to which a main heading is assigned that does not state or imply any particular 
+medium of performance.  Add a parenthetical qualifier for medium of performance with 
+the term Achorus@ as the first element.  The full order of elements in the qualifier is sung 
+part(s), solo instrument, accompaniment. Do not use the qualifier A, Unaccompanied@ 
+when chorus is the only medium of performance, and do not indicate either the type of 
+chorus or the nature of the text.  Where appropriate, a second heading may be added that 
+contains those elements.  Examples: 
+ 
+ 
+650 #0 $a Canons, fugues, etc. (Chorus) 
+650 #0 $a Choruses, Sacred (Mixed voices, 5 parts),  
+            Unaccompanied. [second heading] 
+ 
+650 #0 $a Monologues with music (Chorus with band) 
+650 #0 $a Choruses, Secular (Mixed voices) with band. [second 
+ heading] 
+ 
+650 #0 $a Variations (Chorus and trumpet with orchestra) 
+650 #0 $a Choruses, Secular (Children=s voices) with 
+     orchesta. [second heading] 
+ 
+ 
+10.  Accompaniment for vocal music.   When instrumental accompaniment is given in 
+headings that include vocal parts, it is the last element in the heading.  For unaccompanied 
+works, see sec.11. 
+ 
+ 
+a.  Accompaniment not given in the heading.  No indication of accompaniment is 
+added to headings for larger vocal forms and dramatic works, of which the following list 
+is representative: 
+ 
+Cantatas 
+Masses 
+Musicals 
+Operas 
+Oratorios 
+Requiems 
+Sacred pantomimes with music 
+Solo cantatas 
+
+
+<<<PAGE 36>>>
+H 1917.5  Music Form/Genre Headings: Medium  
+          of Performance 
+ 
+ 
+ 
+H 1917.5 Page 36 
+Subject Headings Manual 
+September 2013 
+10.  Accompaniment for vocal music.  (Continued) 
+ 
+b.  One instrument or two keyboard instruments.  Name specific instruments as the 
+medium of performance for the accompaniment of vocal music only if the accompani-
+ment consists of one instrument or two of the same keyboard instrument. 
+ 
+ 
+ 
+Examples: 
+ 
+ 
+650 #0 $a Choruses, Secular (Mixed voices) with piano. 
+650 #0 $a Sacred songs (High voice) with oboe. 
+650 #0 $a Vocal quartets with pianos (2) 
+650 #0 $a Vocalises with piano. 
+ 
+ 
+ 
+ 
+ 
+c.  Other instrumental accompaniment.  Groups of two or more accompanying 
+instruments (excepting two of the same keyboard instrument) are indicated by the 
+appropriate term for the type of ensemble.  See also sec. 5.b(4) 
+ 
+ 
+ 
+Examples: 
+ 
+650 #0 $a Canons, fugues, etc. (Chorus with instrumental 
+            ensemble) 
+    [not, e.g., 650 #0 $a Canons, fugues, etc. (Chorus and trumpet with 
+            organ)]  
+ 
+650 #0 $a Choruses, Sacred (Mixed voices) with brass 
+            ensemble. 
+     [not, e.g., 650 #0 $a Choruses, Sacred (Mixed voices) with brass          
+     
+     trio.] 
+ 
+650 #0 $a Songs (High voice) with string ensemble. 
+     [not, e.g., 650 #0 $a Songs (High voice) with string quartet.] 
+ 
+650 #0 $a Songs (Medium voice) with orchestra.  
+
+
+<<<PAGE 37>>>
+ 
+Music Form/Genre Headings: Medium  H 1917.5 
+                                           of Performance           
+           
+ 
+ 
+ 
+Subject Headings Manual 
+H 1917.5 Page 37 
+ 
+September 2013 
+11.  Unaccompanied music: the qualifier ", Unaccompanied." 
+ 
+a.  Vocal music.  When vocal music is unaccompanied, the qualifier , Unaccompanied 
+is added as the final element in medium of performance headings, according to the 
+provisions below. 
+ 
+ 
+(1)  Free-floating usage.  The qualifier , Unaccompanied is free-floating with 
+the following headings, including when they may be modified by range of solo 
+voice or type of chorus: 
+ 
+ 
+ 
+150 ## $a Choruses 
+150 ## $a Choruses, Sacred 
+150 ## $a Choruses, Secular 
+150 ## $a Sacred vocal duets, [trios, etc.] 
+150 ## $a Sacred songs 
+150 ## $a Songs 
+150 ## $a Vocal duets [trios, etc.] 
+150 ## $a Vocalises 
+ 
+ 
+ 
+(2)   Authority record required.  An authority record is required when , 
+Unaccompanied is added to the following headings, including when the first two 
+may be modified by type of chorus: 
+ 
+ 
+150 ## $a Masses 
+150 ## $a Requiems 
+150 ## $a Sacred vocal ensembles 
+150 ## $a Vocal ensembles 
+ 
+ 
+ 
+ 
+Do not add , Unaccompanied to headings of the type described in sec. 8.b(3) or 
+9.b, or to the headings listed in sec. 10.a., with the exception of Masses and 
+Requiems, to which it may be added according to the provisions of sec. (2) 
+above. 
+
+
+<<<PAGE 38>>>
+H 1917.5  Music Form/Genre Headings: Medium  
+          of Performance 
+ 
+ 
+ 
+H 1917.5 Page 38 
+Subject Headings Manual 
+September 2013 
+11.  Unaccompanied music: the qualifier ", Unaccompanied." 
+ 
+a.  Vocal music.  (Continued) 
+ 
+(3)  Examples. 
+ 
+ 
+ 
+650 #0 $a Choruses, Secular (Mixed voices, 4 parts), 
+            Unaccompanied. 
+650 #0 $a Songs (Medium voice), Unaccompanied. 
+650 #0 $a Vocal quintets, Unaccompanied. 
+650 #0 $a Vocalises (Medium voice), Unaccompanied. 
+ 
+ 
+150 ## $a Masses, Unaccompanied 
+150 ## $a Requiems (Women's voices), Unaccompanied 
+ 
+ 
+ 
+b.  Instrumental music.  Do not use , Unaccompanied in headings for instrumental 
+music.  

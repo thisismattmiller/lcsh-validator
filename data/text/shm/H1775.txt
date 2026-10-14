@@ -1,0 +1,186 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Literature: General H 1775 | Page 1 
+ 
+ 
+Literature: General 
+H 1775 
+A. Background ................................................................................................................................. 1 
+B. Recent revisions .......................................................................................................................... 1 
+C. Most commonly used instruction sheets ................................................................................... 2 
+D. Most commonly expressed concepts in subject headings for literature ................................... 2 
+E. Most commonly found types of works in literature cataloging ................................................. 3 
+E.1. Collections of literary texts by several authors .................................................................... 3 
+E.2. Collections of literary texts by one author ........................................................................... 3 
+E.3. Single literary text ................................................................................................................ 4 
+E.4. Discussion of several authors ............................................................................................... 4 
+E.5. Discussion of one author ...................................................................................................... 5 
+E.6. Discussion of single literary text ........................................................................................... 5 
+Revision history ............................................................................................................................... 5 
+A. Background 
+This instruction sheet provides a general overview of the assignment of subject headings in the 
+field of literature. Specific instructions are given in other instruction sheets, especially those 
+listed in section C, below. 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Drama*, *Free verse*, etc. To replace a form subdivision that includes a demographic group, 
+also assign Library of Congress Demographic Groups Terms (LCDGT) to bring out the audience 
+of the resource being cataloged, e.g. *Children*, *German speakers*, etc. 
+B. Recent revisions 
+2026-01: Updated template. Added instructions related to LCGFT implementation. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Literature: General H 1775 | Page 2 
+ 
+ 
+C. Most commonly used instruction sheets 
+The following instruction sheets are of particular interest for the assignment of subject 
+headings in the field of literature. 
+Lists of free-floating subdivisions: 
+• H 1110 Names of Persons (includes individual literary authors) 
+• H 1155.2 Groups of Literary Authors 
+• H 1155.6 Literary Works Entered Under Author 
+• H 1155.8 Literary Works Entered Under Title 
+• H 1156 Literatures 
+Assignment of subject headings: 
+• H 910 Place as a Theme in Art, Literature, Motion Pictures, Etc. 
+• H 1430 Comics and Comic Characters 
+• H 1435 Commentaries on Individual Works 
+• H 1610 Fictitious Characters 
+• H 1627 Folklore 
+• H 1690 Juvenile Materials 
+• H 1780 Drama 
+• H 1790 Fiction 
+• H 1795 Legends and Romances 
+• H 1800 Poetry 
+• H 1828 Literature from One Place in Multiple Languages 
+• H 2220 Translations 
+D. Most commonly expressed concepts in subject headings for literature 
+The following concepts are frequently encountered in the cataloging of literary materials. These 
+concepts are expressed in the assignment of subject headings according to the type of work 
+being cataloged as explained in section E, below. 
+ 
+Concept 
+Examples 
+Nationality 
+American, Mexican, Swiss 
+Form or genre 
+poetry, short stories, one-act plays 
+Theme or topic 
+love, mystery, Napoleon, Korean War 
+Time period 
+20th century, Renaissance 
+Special group of authors 
+Jews, women, prisoners 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Literature: General H 1775 | Page 3 
+ 
+ 
+Translations 
+from French into English 
+Movements 
+Romanticism, Surrealism 
+Languages 
+Basque, Yiddish, Catalan 
+Locality where written 
+New York City, Normandy, Southern States 
+E. Most commonly found types of works in literature cataloging 
+The following are the six basic categories of works found in the field of literature. 
+E.1. Collections of literary texts by several authors 
+Examples: 
+a collection of 20th century American poetry 
+an anthology of German literature 
+selections from classical Spanish drama 
+English translations of Portuguese love poems 
+Any of the concepts in section D, above, may be expressed for this category of work. 
+Subdivisions are normally used to express time period, translations, and locality. Form or genre 
+is normally combined with nationality or language in a phrase heading, for example, *American 
+poetry*. Themes or topics may be expressed as *[topic]--[subdivision]*, for example, *Cats--
+Literary collections*; or as a phrase, for example, *Detective and mystery stories*. Groups of 
+authors may be expressed as subdivisions or as phrases, e.g. *American fiction--Women 
+authors*; *Soldiers' writings, Canadian*. 
+LC practice: Do not use form subdivisions. Instead assign an appropriate term or terms from 
+LCGFT, e.g. *Drama* or *Free verse*. To replace a form subdivision that includes a 
+demographic group, also assign LCDGT to bring out the audience of the resource being 
+cataloged, e.g. *Children*, *German speakers*, etc. 
+E.2. Collections of literary texts by one author 
+Examples: 
+a collection of poems of one author 
+complete work of a novelist 
+selected short stories of one author 
+Theme or topic is expressed for this category of work; genre may be shown if highly specific and 
+emphasized in the work. Nationality or language is expressed only if combined with genre or 
+theme in a phrase heading, for example, *Sonnets, American*; *Romance fiction, French*. 
+Translations are shown by subdivision under the name of the author, for example, *Poe, Edgar 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Literature: General H 1775 | Page 4 
+ 
+ 
+Allan, 1809-1849--Translations into French*. Other concepts from sec. D, above, are not 
+expressed. 
+LC practice: Do not use form subdivisions. Instead assign an appropriate term or terms from 
+LCGFT, e.g. *Drama* or *Free verse*. To replace a form subdivision that includes a 
+demographic group, also assign LCDGT to bring out the audience of the resource being 
+cataloged, e.g. *Children*, *German speakers*, etc. 
+E.3. Single literary text 
+Examples: 
+a single novel 
+a single play 
+Individual poems or plays are assigned headings for theme and for highly specific forms, for 
+example, *Christmas--Poetry*; *Monodramas*. Individual works of fiction are assigned 
+headings for persons, historical events or periods, and animals, for example, *Washington, 
+George, 1732-1799--Fiction*; *Thirty Years' War, 1618-1648--Fiction*; *Horses--Fiction*. 
+Other concepts from section D, above, are not normally expressed. 
+LC practice: Do not use form subdivisions. Instead assign an appropriate term or terms from 
+LCGFT, e.g. *Drama* or *Free verse*. To replace a form subdivision that includes a 
+demographic group, also assign LCDGT to bring out the audience of the resource being 
+cataloged, e.g. *Children*, *German speakers*, etc. 
+E.4. Discussion of several authors 
+Examples: 
+a history of Argentine literature 
+a bibliography of French science fiction 
+essays on 20th century Jewish novelists 
+treatise on the use of satire in American novels 
+biographical directory of Canadian authors 
+Any of the concepts from section D, above, may be expressed. Subdivisions must be added to 
+literary form headings to show that the work is about literature, not a collection of texts; the 
+most common of these subdivisions is *--History and criticism*. Themes or topics are usually 
+expressed as *[topic] in literature*, *[topic]--In literature*, or *[topic] and literature*. 
+LC practice: Do not use form subdivisions. Instead assign an appropriate term or terms from 
+LCGFT, e.g. *Bibliographies* or *Essays*.  
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Literature: General H 1775 | Page 5 
+ 
+ 
+E.5. Discussion of one author 
+Examples: 
+autobiography of a single author 
+stage history of Shakespeare's plays 
+a treatise on Victor Hugo's poetry 
+The major subject heading assigned is the name of the author discussed, with subdivisions as 
+appropriate from the pattern lists of free-floating subdivisions. Theme or topic may also be 
+expressed. Other concepts from section D, above, are not normally expressed. Biographical 
+works follow provisions for biography given in H 1330. 
+LC practice: Do not use form subdivisions. Instead assign an appropriate term or terms from 
+LCGFT, e.g. *Biographies*.  
+E.6. Discussion of single literary text 
+Examples: 
+essays on Milton's Paradise lost 
+treatise on Margaret Mitchell's Gone with the wind 
+The major subject heading assigned is the uniform title for the work, usually as an author-title 
+subject entry. Subdivisions may be assigned from the appropriate pattern list. Theme or topic 
+may also be expressed. Form headings or subdivisions that were assigned to the literary text 
+are converted to the appropriate topical equivalent. Other concepts from section D, above, are 
+not normally expressed. 
+LC practice: Do not use form subdivisions. Instead assign an appropriate term or terms from 
+LCGFT, e.g. *Essays*. 
+Revision history 
+2026-01: Updated template. Added instructions related to LCGFT implementation. 

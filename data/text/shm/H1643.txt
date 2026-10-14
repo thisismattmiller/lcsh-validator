@@ -1,0 +1,107 @@
+
+
+<<<PAGE 1>>>
+ 
+Government Publications  H 1643 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1643 Page 1 
+ 
+June 2013 
+BACKGROUND:  Government publications are official documents and materials issued by 
+governments and their organizations.  Until 1988 Government publications and related 
+headings were used only for general works about these publications.  Headings of the type 
+[place]B Government publications were assigned to works about government publications in a 
+particular place.  This practice has been discontinued and replaced by topical headings with 
+geographic subdivision.  This instruction sheet provides guidelines for assigning headings to 
+works about government publications, to bibliographies of government publications, and to 
+collections of these documents. 
+ 
+ 
+ 
+1.  General.  Assign the heading Government publications (May Subd Geog) as a topical 
+heading to general works that discuss official publications issued by government bodies. 
+ 
+Assign Government publicationsB[name of country] to works on the official documents issued 
+by several types of government bodies in the country (federal, state, local, etc.) or to works 
+limited to discussing publications issued by the national government and its agencies. 
+ 
+ 
+ 
+2.  Special.  To works on the official publications of a particular type of government below the 
+national level, assign the appropriate specific heading for these types of publications.  
+Examples: 
+ 
+650 #0 $a County government publications $z Kentucky $z Caldwell 
+            County. 
+650 #0 $a County government publications $z California. 
+650 #0 $a Interstate agency publications $z United States. 
+650 #0 $a Local government publications $z Great Britain. 
+650 #0 $a Local government publications $z Michigan. 
+650 #0 $a Municipal government publications $z France. 
+650 #0 $a Municipal government publications $z Georgia  
+            $z Savannah. 
+650 #0 $a Provincial government publications $z Canada. 
+650 #0 $a Provincial government publications $z Ontario. 
+   
+ 
+650 #0 $a State government publications $z New Jersey. 
+650 #0 $a State government publications $z Mexico. 
+ 
+ 
+ 
+3.  International.  Assign the heading International agency publications to works on the 
+official publications of international agencies treated collectively. 
+
+
+<<<PAGE 2>>>
+H 1643  Government Publications 
+ 
+ 
+ 
+H 1643 Page 2 
+Subject Headings Manual 
+June 2013 
+4.  Acquisition of government publications.  Assign the heading Acquisition of government 
+publications to works on methods for locating and acquiring government publications of any 
+type.  Assign additional headings, if appropriate, for the types of materials selected, the type of 
+institution acquiring the publications, etc.  Example: 
+ 
+Title:  Selecting and organizing state government publications.       
+650 #0 $a Libraries $x Special collections $x State  
+            government publications. 
+650 #0 $a State government publications $z United States  
+            $x Bibliography $x Methodology.  
+650 #0 $a Acquisition of government publications. 
+ 
+ 
+5.  Bibliography.  To bibliographies of government publications, add the subdivision 
+BBibliography to the appropriate heading for the type of publications included, for example, 
+Local government publicationsBIndianaBBibliography; County government publicationsB 
+PennsylvaniaBBibliography; State government publicationsBMexicoBBibliography. 
+ 
+For instructions on assigning headings to library catalogs of government publications, see H 
+1361. 
+ 
+For instructions on assigning headings to publishers' catalogs of government publications, 
+including catalogs of publications issued by individual government agencies, see H 1965.  
+ 
+ 
+ 
+6.  Collections of documents.  To works containing collections of government documents on a 
+topic or topics, assign the appropriate subject headings subdivided by BHistoryBSources or by 
+BSources (cf. H 2080)  Example: 
+ 
+Title:  Politics and government in the Federal Republic of Germany : basic 
+documents. 
+650 #0 $a Constitutional history $z Germany (West) 
+          $v Sources. 
+651 #0 $a Germany (West) $x Politics and government  
+          $v Sources. 
+ 
+Do not assign the heading Government publications or headings for particular types of 
+government publications to these collections unless the work also contains a section discussing 
+these works, that is, the writing, publishing, distribution, acquisition, organization, or use of 
+these publications. 

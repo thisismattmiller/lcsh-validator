@@ -1,0 +1,247 @@
+
+
+<<<PAGE 1>>>
+ 
+Treaties  H 2227 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2227 Page 1 
+ 
+July 2023 
+BACKGROUND:  Before the adoption of AACR2 in 1981, many individual treaties and 
+concordats were established in the subject authority file when they were needed as subject 
+headings.  Since 1981, only treaties or concordats established in AACR2 or RDA form in the 
+name authority file may be validly assigned as subject headings.  Most pre-AACR2 treaty 
+headings have already been deleted from the subject authority file.  Remaining headings of this 
+type are cancelled as they are encountered, and are re-established in the name authority file. 
+ 
+ 
+ 
+1.  Texts of treaties. 
+ 
+a.  General (non-topical) collections.  Assign the appropriate general form heading, for 
+example, Treaties—Collections; Peace treaties; [place]—Foreign relations—Treaties. 
+ 
+b.  Topical collections. 
+ 
+(1) Topical headings.  Assign the appropriate topical heading(s), for example, 
+Environmental law, International; Chemical warfare (International law); 
+Postal conventions; Commercial treaties; Sex discrimination against women—
+Law and legislation; Choctaw Indians—Treaties; World War, 1939-1945—
+Treaties. 
+ 
+Note:  The subdivision —Treaties is used only under names of ethnic 
+groups, under names of wars, and under Catholic Church—Foreign 
+relations and headings of the type [place] —Foreign relations.  It is not 
+used as a further subdivision after headings of the type [place] —Foreign 
+relations— [place].   
+ 
+Examples: 
+ 
+Title:  Labour law ratified conventions. 
+650 #0 $a Labor laws and legislation, International. 
+ 
+Title:  Treaties between the Potawatomi tribe of Indians and the United 
+States of America, 1789-1867. 
+650 #0 $a Potawatomi Indians $v Treaties. 
+
+
+<<<PAGE 2>>>
+H 2227  Treaties 
+ 
+ 
+ 
+H 2227 Page 2 
+Subject Headings Manual 
+July 2023 
+1.  Texts of treaties. 
+ 
+b.  Topical collections.  (Continued) 
+ 
+(2) Geographic subdivision.  If the purpose of the collection is to present the 
+treaties to which a particular country is a party, assign a general heading, without 
+local subdivision, to bring out the international aspect, and assign the same heading 
+with local subdivision to bring out the country (except for collections of 
+commercial treaties, for which the heading [country]—Commercial treaties is 
+used as the second heading).  Example: 
+ 
+ 
+Title:  United States treaties and other international agreements  
+pertaining to telecommunications. 
+650 #0 $a Telecommunication $x Law and legislation.   
+650 #0 $a Telecommunication $x Law and legislation $z 
+United States. 
+ 
+ 
+Exception:  If the collection is limited to only two countries, omit the general 
+heading, and bring out both countries using local subdivision.  Example: 
+ 
+Title:  Trade in cotton textiles : agreements between the 
+United States and Poland. 
+650 #0 $a Cotton textiles $x Law and legislation $z United 
+States. 
+650 #0 $a Cotton textiles $x Law and legislation $z Poland. 
+ 
+ 
+ 
+c.  Individual treaties. 
+ 
+(1) General rule.  Assign the appropriate topical heading(s) using the same types 
+of headings as for topical collections. 
+ 
+Do not assign the heading for the name of the treaty itself to a work that 
+consists solely of the text of the treaty. 
+
+
+<<<PAGE 3>>>
+ 
+Treaties  H 2227 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2227 Page 3 
+ 
+July 2023 
+1.  Texts of treaties. 
+ 
+c.  Individual treaties. 
+ 
+(1) General rule.  (Continued) 
+ 
+Examples: 
+ 
+Title:  Treaty to resolve pending boundary differences ... between the 
+United States and Mexico, signed at Mexico Nov. 12, 1970. 
+651 #0 $a United States $x Boundaries $z Mexico. 
+651 #0 $a Mexico $x Boundaries $z United States. 
+ 
+ 
+Title:  Treaty of peace with Turkey. 
+650 #0 $a World War, 1914-1918 $x Territorial questions $z 
+Armenia. 
+650 #0 $a World War, 1914-1918 $x Territorial questions $z 
+Turkey. 
+ 
+ 
+Title:  The Egyptian-Israeli Peace Treaty, March 26, 1979. 
+650 #0 $a Israel-Arab War, 1973 $x Peace. 
+ 
+Title:  International coffee agreement, 1976. 
+650 #0 $a Coffee $x Law and legislation. 
+ 
+ 
+(2) Bilateral treaties.  In the case of individual bilateral agreements, assign 
+duplicate headings to bring out each party, and omit the unsubdivided general 
+heading.  Example: 
+ 
+ 
+Title:  Air transport services; agreement between the United States of 
+America and Brazil. 
+650 #0 $a Aeronautics, Commercial $x Law and legislation $z 
+United States.   
+650 #0 $a Aeronautics, Commercial $x Law and legislation $z 
+Brazil. 
+
+
+<<<PAGE 4>>>
+H 2227  Treaties 
+ 
+ 
+ 
+H 2227 Page 4 
+Subject Headings Manual 
+July 2023 
+2.  Works about treaties. 
+ 
+a.  Collective.  To works that discuss various treaties to which a region or country is a 
+party, assign the heading [place]—Foreign relations—Treaties or [place]—Commercial 
+treaties, as well as other topical headings appropriate to the work.  Examples: 
+ 
+ 
+Title:  Theory, law, and policy of contemporary Japanese treaties. 
+651 #0 $a Japan $x Foreign relations $y 1945-1989 $x 
+Treaties. 
+ 
+ 
+Title:  The long pretense: Soviet treaty diplomacy from Lenin to 
+Gorbachev. 
+651 #0 $a Soviet Union $x Foreign relations $x Treaties. 
+651 #0 $a Soviet Union $x Foreign relations $z United 
+States. 
+651 #0 $a United States $x Foreign relations $z Soviet 
+Union. 
+ 
+Title:  The free trade agreements among the EC countries: their 
+implementation and interpretation. 
+651 #0 $a European Economic Community countries $x 
+Commercial treaties. 
+650 #0 $a Free trade $z European Economic Community 
+countries. 
+ 
+b.  Individual treaties.  Assign the heading for the name of a treaty or international 
+convention to a work that discusses the treaty.  Also assign topical headings appropriate 
+to the work being cataloged.  Examples: 
+ 
+ 
+Title:  A fresh view on the Outer Space Treaty. 
+630 00 $a Treaty on Principles Governing the Activities of 
+States in the Exploration and Use of Outer Space, Including 
+the Moon and Other Celestial Bodies $d (1967 January 27) 
+650 #0 $a Space law $x International cooperation. 
+650 #0 $a Outer space $x Exploration $x International 
+cooperation. 
+
+
+<<<PAGE 5>>>
+ 
+Treaties  H 2227 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2227 Page 5 
+ 
+July 2023 
+2.  Works about treaties. 
+ 
+b.  Individual treaties. 
+ 
+Examples:  (Continued) 
+ 
+ 
+Title:  The diplomatic history of the Treaty of Tlatelolco. 
+630 00 $a Treaty for the Prohibition of Nuclear Weapons in 
+Latin America $d (1967) 
+650 #0 $a Nuclear-weapon-free zones $z Latin America. 
+ 
+Title:  Commentary on the international convention for safe containers. 
+630 00 $a International Convention for Safe Containers $d 
+(1972)  
+650 #0 $a Containers $x Law and legislation. 
+ 
+Title:  Northern boundary of the United States according to the Treaty of 
+Ghent. 
+610 10 $a Great Britain. $t Treaties, etc. $g United 
+States. $d 1814 Dec. 24. 
+651 #0 $a United States $x Boundaries $z Canada.  
+651 #0 $a Canada $x Boundaries $z United States. 
+ 
+Title:  At the crossroads between peace and war : the London naval 
+conference of 1930. 
+630 00 $a International Treaty for the Limitation and 
+Reduction of Naval Armament $d (1930 April 22) 
+650 #0 $a Disarmament $x History $y 20th century. 
+650 #0 $a Sea-power $x History $y 20th century.  
+ 
+Title:  Data almizrano-- : siete siglos y medio de historiografía 
+Valenciana sobre el Tratado de Almizra, 1244-1994. 
+610 10 $a Castile (Spain) $t Treaties, etc. $g Aragon 
+(Spain), $d 1244 Mar. 26 $x Historiography. 
+651 #0 $a Castile (Spain) $x History $y Ferdinand III, 
+1217-1252 $x Historiography. 
+651 #0 $a Aragon (Spain) $x History $y James I, 1213-1276 
+$x Historiography. 
+ 

@@ -1,0 +1,62 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Digests H 1550 | Page 1 
+ 
+ 
+Digests 
+H 1550 
+A. Background ............................................................................................................................... 1 
+B. Recent revisions ........................................................................................................................ 1 
+C. Definitions ................................................................................................................................. 1 
+D. General rule .............................................................................................................................. 1 
+E. Examples ................................................................................................................................... 1 
+Revision history ............................................................................................................................. 2 
+A. Background 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Law digests*. 
+For guidelines on abstracts, see H 1205. For guidelines on bibliographies of individual persons, 
+see H 1322. For guidelines on bio-bibliographies, see H 1328. For guidelines on bibliographies of 
+bibliographies, see H 1325. For catalogs of library materials, see H 1361. 
+B. Recent revisions 
+2026-02: Updated template. Added instructions related to LCGFT implementation. 
+C. Definitions 
+Digests: systematically arranged compilations of brief summaries of individual statutes, 
+regulations, court decisions, or regulatory agency decisions on particular topics 
+D. General rule 
+Assign the subdivision *--Digests* as a free-floating form subdivision under legal headings for 
+monographic or serial works consisting of systematically arranged compilations of brief 
+summaries of individual statutes, regulations, court decisions, or regulatory agency decisions on 
+particular topics. Do not further subdivide *--Digests* by *--Periodicals*. 
+LC practice: Assign subject headings for the topic of the digest. Assign LCGFT appropriate to the 
+form and/or genre of the resource in hand, e.g. LCGFT *Law digests*. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Digests H 1550 | Page 2 
+ 
+ 
+E. Examples 
+Title: Summaries of leading cases on the Constitution. 
+650 #0 $a Constitutional law $z United States $v Digests. 
+LC practice: 
+650 #0 $a Constitutional law $z United States. 
+655 #7 $a Law digests. $2 lcgft 
+ 
+Title: Yearly all India criminal digest. 
+650 #0 $a Criminal law $z India $v Digests. 
+LC practice: 
+650 #0 $a Criminal law $z India. 
+655 #7 $a Law digests. $2 lcgft 
+ 
+Title: Digest of significant classification decisions and opinions of 
+the U.S. Office of Personnel Management. 
+650 #0 $a Civil service positions $x Classification $x Law and legislation 
+$z United States $v Digests. 
+LC practice: 
+650 #0 $a Civil service positions $x Classification $x Law and legislation 
+$z United States. 
+655 #7 $a Law digests. $2 lcgft 
+Revision history 
+2026-02: Updated template. Added instructions related to LCGFT implementation. 

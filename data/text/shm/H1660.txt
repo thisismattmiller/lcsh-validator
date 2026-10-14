@@ -1,0 +1,105 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Imprints H 1660 | Page 1 
+ 
+ 
+Imprints 
+H 1660 
+A. Background ............................................................................................................................... 1 
+B. Recent revisions ........................................................................................................................ 1 
+C. The subdivision --Imprints ......................................................................................................... 1 
+D. Phrase headings ........................................................................................................................ 2 
+E. Imprints from places where a single language predominates ................................................... 2 
+F. Assignment of additional heading with [language] imprints ..................................................... 2 
+G. Catalogs .................................................................................................................................... 2 
+H. Bibliography not used ............................................................................................................... 3 
+I. Imprints on a specific topic ........................................................................................................ 3 
+Revision history ............................................................................................................................. 3 
+A. Background 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Catalogs*. 
+For guidelines on catalogs, see H 1360. For guidelines on catalogs of library materials, see H 
+1361. For guidelines on collections of objects, see H 1427. For guidelines on publishers’ 
+catalogs, see H 1965. 
+B. Recent revisions 
+2026-02: Updated template. Added instructions relating to LCGFT implementation. 
+C. The subdivision --Imprints 
+Use the free-floating form subdivision *--Imprints* under individual regions, countries, cities, 
+etc., for lists of works published in those places without regard to the language in which they 
+were published, for example, *United States--Imprints*. 
+LC practice: To bring out the place of imprints, assign*Publications--[place]*. Also assign LCGFT 
+*Bibliographies* if appropriate to the resource in hand. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Imprints H 1660 | Page 2 
+ 
+ 
+D. Phrase headings 
+Use phrase headings of the type *[language] imprints* for lists of works published in a 
+particular language. Use geographic subdivision to refer to the place of origin, for example, 
+*English imprints--India*. 
+E. Imprints from places where a single language predominates 
+As a general rule, assign only the heading *[place]--Imprints* for lists of works published in 
+places where a single language is predominant, for example, the United States. Since English is 
+the predominant language in the United States, do not assign an additional heading of the type 
+*English imprints--United States*. 
+F. Assignment of additional heading with [language] imprints 
+When assigning a heading of the type *[language] imprints* subdivided by place, assign an 
+additional heading of the type *[place]--Imprints*. 
+LC practice: To bring out the place of imprints, assign *Publications--[place]*. Also assign LCGFT 
+*Bibliographies*. 
+Example: 
+Title: A list of books in English published in India. 
+650 #0 $a English imprints $z India. 
+651 #0 $a India $v Imprints. 
+LC practice: 
+650 #0 $a English imprints $z India. 
+650 #0 $a Publications $z India. 
+655 #7 $a Bibliographies. $2 lcgft 
+G. Catalogs 
+For catalogs listing imprints existing at designated localities or available from specified sources, 
+assign as appropriate either *[place]--Imprints--Catalogs* or *[language] imprints--Catalogs*. 
+Note: The place used with either heading refers to place of origin. 
+LC practice: To bring out the place of imprints, assign *Publications--[place]*. Also assign LCGFT 
+*Bibliographies* and *Catalogs*, or the more specific term. 
+Example: 
+Title: The Rajasthan University Library catalog of Indian imprints in 
+English. 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Imprints H 1660 | Page 3 
+ 
+ 
+650 #0 $a English imprints $z India $v Catalogs. 
+651 #0 $a India $v Imprints $v Catalogs. 
+610 20 $a Rajasthan University Library $v Catalogs. 
+LC practice: 
+650 #0 $a English imprints $z India. 
+650 #0 $a Publications $z India. 
+610 20 $a Rajasthan University Library. 
+655 #7 $a Bibliographies. $2 lcgft 
+655 #7 $a Library catalogs. $2 lcgft 
+H. Bibliography not used 
+Do not further subdivide headings of the type *[language] imprints* and *[place]--Imprints* 
+by the subdivision *--Bibliography*. 
+LC practice: Assign LCGFT *Bibliographies*. 
+I. Imprints on a specific topic 
+For lists of imprints on a specific topic, also assign a heading of the type *[topic]--
+Bibliography*. 
+LC practice: Assign a subject heading for the topic. Also assign LCGFT *Bibliographies*. 
+Example: 
+Title: A list of English-language books on medicine published in India. 
+650 #0 $a Medicine $v Bibliography. 
+650 #0 $a English imprints $z India. 
+651 #0 $a India $v Imprints. 
+LC practice: 
+650 #0 $a Medicine. 
+650 #0 $a English imprints $z India. 
+650 #0 $a Publications $z India. 
+655 #7 $a Bibliographies. $2 lcgft 
+Revision history 
+2026-02: Updated template. Added instructions relating to LCGFT implementation. 

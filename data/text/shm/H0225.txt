@@ -1,0 +1,255 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | History Notes H 225 | Page 1 
+ 
+ 
+History Notes 
+H 225 
+A. Background ............................................................................................................................... 1 
+B. Recent revisions ........................................................................................................................ 2 
+C. Definitions ................................................................................................................................. 2 
+D. General rule .............................................................................................................................. 2 
+D.1. Number of history notes .................................................................................................... 2 
+E. New headings ............................................................................................................................ 2 
+F. Revisions to headings ................................................................................................................ 2 
+F.1. General rule ........................................................................................................................ 2 
+F.2. Special situations ................................................................................................................ 3 
+F.2.a. Subdivided headings .................................................................................................... 3 
+F.2.b. Phrase headings based on other headings ................................................................... 4 
+F.2.c. Heading splits ............................................................................................................... 4 
+F.2.d. Heading mergers .......................................................................................................... 4 
+F.2.e. Change in diacritics ...................................................................................................... 5 
+F.2.f. Name headings replaced by subject headings .............................................................. 5 
+F.2.g. Closing dates added ..................................................................................................... 5 
+G. Adding history notes retrospectively ........................................................................................ 6 
+Revision history ............................................................................................................................. 7 
+A. Background 
+In April 2022, the Policy, Training, and Cooperative Programs division began to include history 
+notes in authority records for new and revised subject headings. For headings first established 
+since April 2022, the note indicates the month and year in which the heading was established. 
+For headings established before that date and revised since, the note indicates at a minimum 
+the immediately former heading and the current heading, along with the month and year in 
+which the heading was revised. Information about earlier versions of the heading may also be 
+present if the information is readily available. The note is coded in MARC 21 field 688. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | History Notes H 225 | Page 2 
+ 
+ 
+This instruction sheet provides guidelines on the use and format of history notes. 
+B. Recent revisions 
+2026-07: Updated template. Sections F.2.e-F.2.g added. 
+C. Definitions 
+History notes: A history note documents the date on which the heading was first approved and 
+any subsequent changes to the heading. It does not document changes to other parts of the 
+record, including references, scope notes, source citations, etc. 
+D. General rule 
+D.1. Number of history notes 
+Include only one history note in each authority record, and do not delete information from a 
+note that already exists. Revise the history note as necessary by adding information to it, 
+separating the pieces of information with a period. 
+E. New headings 
+History notes are generated automatically when proposals for new headings are approved. The 
+note reflects the month and year in which the heading was added to LCSH (which may not be 
+the same month in which the proposal appeared on a tentative list). The name of the month is 
+spelled out in full. The following format is used. 
+Model: 
+688 ## $a Established [month] [year]. 
+Example: 
+688 ## $a Established March 2022. 
+F. Revisions to headings 
+F.1. General rule 
+When a heading is revised and a “former heading” reference is provided, policy specialists 
+provide a note that indicates the way in which the heading was changed and the month and 
+year in which the change occurred. The field ends with a period. The following format is used. 
+Model: 
+688 ## $a Heading changed from [former heading] to [current heading] in 
+[month] [year]. 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | History Notes H 225 | Page 3 
+ 
+ 
+If a history note already exists in the record, new information is appended to it. Separate the 
+elements of information with a period.  
+Examples: 
+150 ## $a Dramatic music $z Southeast Asia 
+450 ## $w nne $a Dramatic music $z Asia, Southeastern 
+688 ## $a Established January 2002. Heading changed from Dramatic music--
+Asia, Southeastern to Dramatic music--Southeast Asia in August 2005. 
+ 
+150 ## Pijanec (North Macedonia and Bulgaria) 
+450 ## $w nne $a Pijanec (Macedonia) 
+450 ## $w nne $a Pijanec (Macedonia and Bulgaria) 
+688 ## $a Established March 1988. Heading changed from Pijanec (Macedonia) 
+to Pijane (Macedonia and Bulgaria) in March 1990. Heading changed 
+from Pijanec (Macedonia and Bulgaria) to Pijanec (North Macedonia and 
+Bulgaria) in June 2019. 
+F.2. Special situations 
+F.2.a. Subdivided headings 
+Include a history note in the subdivided heading if the subdivision is being revised. If the only 
+change is to the main heading, the history note in the record for the main heading covers the 
+change. 
+Examples: 
+150 ## $a Automatic test equipment 
+450 ## $w nne $a Automatic checkout equipment 
+688 ## $a Heading changed from Automatic checkout equipment to Automatic 
+test equipment in June 2004. 
+ 
+150 ## $a Automatic test equipment $x Buffer stocks 
+[change does not affect the subdivision, so a 688 field is not added or 
+revised] 
+ 
+150 ## $a Church music $x Hutterian Brethren 
+450 ## $w nne $a Church music $x Hutterite Brethren 
+688 ## Heading changed from Church music--Hutterite Brethren to Church 
+music—Hutterian Brethren in December 2021. 
+[change affects the subdivision] 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | History Notes H 225 | Page 4 
+ 
+ 
+F.2.b. Phrase headings based on other headings 
+Include a history note in the phrase heading. 
+Examples: 
+150 ## $a Automatic test equipment industry 
+450 ## $w nne $a Automatic checkout equipment industry 
+688 ## $a Heading changed from Automatic checkout equipment industry to 
+Automatic test equipment industry in June 2004. 
+F.2.c. Heading splits 
+Include a history note when a single heading is split into two or more headings. Follow the 
+general format provided in sec. E.1, giving the former heading as well as all of the headings into 
+which it was split. 
+Examples: 
+010 ## $a $a sh2020006293 $z sh2005001761 
+150 ## $a Northern Idaho ground squirrel 
+450 ## $w nne $a Idaho ground squirrel 
+688 ## $a Heading changed from Idaho ground squirrel to Northern Idaho 
+ground squirrel and Southern Idaho ground squirrel in September 2020. 
+ 
+010 ## $a sh2020006294 $z sh2005001761 
+150 ## $a Southern Idaho ground squirrel  
+450 ## $w nne $a Idaho ground squirrel  
+688 ## $a Heading changed from Idaho ground squirrel to Northern Idaho 
+ground squirrel and Southern Idaho ground squirrel in September 2020. 
+F.2.d. Heading mergers 
+Include a history note when two or more headings are merged into a single heading. Follow the 
+general format provided in sec. E.1, giving the former headings as well as the heading into 
+which they were merged. 
+Example: 
+010 ## $a sh 85000871 $z sh 85000704 $z sh 85098104 
+150 ## $a Pteridaceae 
+450 ## $w nne $a Actiniopteridaceae 
+450 ## $w nne $a Adiantaceae 
+450 ## $w nne $a Parkeriaceae 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | History Notes H 225 | Page 5 
+ 
+ 
+688 ## $a Heading changed from Actiniopteridaceae, Adiantaceae, and 
+Parkeriaceae to Pteridaceae in May 2024. 
+F.2.e. Change in diacritics 
+Include a history note when a diacritic is added to or removed from a heading. 
+Example: 
+150 ## $a Māori language 
+688 ## $a Heading changed from Maori language to Māori language in December 
+2022. 
+F.2.f. Name headings replaced by subject headings 
+If the heading string changed, exclusive of the coding, provide a history note that describes the 
+change. Follow the format described in sec. E.1. 
+Example: 
+010 ## $a sh2021008320 $z nb2012011789 
+151 ## $a Inu Jima (Okayama-ken, Japan) 
+688 ## $a Heading changed from Inu-shima (Japan) to Inu Jima (Okayama-ken, 
+Japan) in December 2021. 
+If the heading string did not change, do not provide a history note. 
+Example: 
+010 ## $a sh 95006691 $z n  93095889 
+150 ## $a International Women’s Day 
+[heading string did not change] 
+F.2.g. Closing dates added 
+If a closing date is added to an existing heading, add a history note but do not add the Used For 
+reference, per H 193. 
+Example: 
+010 ## $a sh2023001474 
+150 ## $a COVID-19 Pandemic, 2020-2023, in literature 
+688 $a Established October 2023. Heading changed from COVID-19 Pandemic, 
+2020- , in literature to COVID-19 Pandemic, 2020-2023, in literature 
+in February 2026. 
+[closing date added] 
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | History Notes H 225 | Page 6 
+ 
+ 
+F.2.h. Geographic name changed 
+If a geographic name changes in the name authority file, a history note is not required for 
+changes when the geographic name is the foundation of the heading. If the geographic name is 
+used as a geographic subdivision or as a qualifier, add the history note. 
+Example: 
+Congo (Democratic Republic) was changed to Democratic Republic of the 
+Congo in the name authority file. 
+010 ## $a sh 85149554 
+151 ## $a Democratic Republic of the Congo $x Antiquities 
+[no 688 required] 
+ 
+010 ## $a sh 85045414 
+150 ## $a Ethnology $z Democratic Republic of the Congo 
+688 ## $a Heading changed from Ethnology--Congo (Democratic Republic) to 
+Ethnology--Democratic Republic of the Congo in August 2026. 
+ 
+010 ## $a sh 89000448 
+151 ## $a Katongo Site (Democratic Republic of the Congo) 
+688 ## $a Heading changed from Katongo Site (Congo) to Katongo Site 
+(Democratic Republic of the Congo) in August 2026. 
+G. Adding history notes retrospectively 
+Policy specialists may add or revise history notes when references, scope notes, classification 
+numbers, etc., are edited and information on the history of the heading is readily available, but 
+the note should indicate only the date on which the heading (not a reference, etc.) was 
+established and/or changed. 
+History notes may also be added or revised by policy specialists when research into the heading 
+is undertaken for another reason (e.g., in response to a query). 
+History notes added retrospectively may be vague about the dates. Provide specific months and 
+years whenever possible, but do not undertake extensive or time-consuming research only to 
+provide that information. Use judgment when formatting the note; the goal is to document 
+each change as clearly as possible.  
+Examples: 
+150 ## $a Railroad cars $x Axles 
+450 ## $w nne $a Car axles 
+
+
+<<<PAGE 7>>>
+Subject Headings Manual | History Notes H 225 | Page 7 
+ 
+ 
+688 ## $a Heading changed from Car axles to Railroad cars—Axles in October 
+2006. 
+[Date on which the heading Car axles was approved was not available, 
+but date of heading change was]  
+ 
+110 2# $a Casa Aguayo (Puebla de Zaragoza, Mexico) 
+410 2# $w nne $a Casa Aguayo (Pueblo, Mexico) 
+688 ## $a Established June 2002. Heading changed from Casa Aguayo (Pueblo, 
+Mexico) to Casa Aguayo (Pueblo de Zaragoza, Mexico) in July 2012. 
+[Dates of original inclusion and revision were both readily available] 
+ 
+150 ## $a Ndebele language (Zimbabwe) 
+450 ## $w nne $a Ndebele language (Rhodesia) 
+450 ## $w nne $a Tebele language 
+688 ## $a Heading changed from Ndebele language (Rhodesia) to Ndebele 
+language (Zimbabwe) in 1983. It was originally Tebele language. 
+[Date of approval of Tebele language was not readily available, and 
+neither was the date of the change from Tebele language to Ndebele 
+language (Rhodesia). The year Ndebele language (Rhodesia) was changed 
+to Ndebele language (Zimbabwe) was available in the 1983 quarterly 
+Supplement to LC Subject Headings]  
+Revision history 
+2026-07: Updated template. Sections F.2.e-F.2.g added. 

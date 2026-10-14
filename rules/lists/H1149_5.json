@@ -1,0 +1,294 @@
+{
+  "sheet": "H 1149.5",
+  "title": "Pattern Headings: Colonies",
+  "kind": "pattern",
+  "scope": "Topical and broad regional subdivisions for use under headings of the type [country]--Colonies (also [topic]--[country]--Colonies); pattern heading Great Britain--Colonies.",
+  "pattern_headings": [
+    "Great Britain--Colonies"
+  ],
+  "pattern_category": "headings of the type [country]--Colonies",
+  "general_notes": [
+    "Use the subdivision --Colonies under names of countries for works discussing collectively the colonies ruled by a country, for example, France--Colonies; Japan--Colonies; Rome--Colonies.",
+    "Do not use the subdivision --Colonies for works that discuss an individual colony. For such works, assign the name of the colony with an appropriate subdivision, or the topical subject divided by the name of the colony, for example, India--Politics and government--1919-1947; Postage stamps--India.",
+    "Topical subjects subdivided by place may also be further subdivided by --Colonies, for example, Postage stamps--Great Britain--Colonies.",
+    "Headings of the type [country]--Colonies may be further subdivided by the topical and broad regional geographic subdivisions listed below, for example, Italy--Colonies--Commerce; Germany--Colonies--Africa; France--Colonies--Oceania--Economic conditions.",
+    "Do not use the subdivision --Politics and government under headings of the type [country]--Colonies. For general colonial politics and government, use the subdivision --Administration, for example, Portugal--Colonies--Administration; Great Britain--Colonies--America--Administration."
+  ],
+  "entries": [
+    {
+      "subdivision": "--Africa",
+      "subfield": "z",
+      "type": "geographic",
+      "may_subd_geog": false,
+      "use_under": "headings of the type [country]--Colonies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--America",
+      "subfield": "z",
+      "type": "geographic",
+      "may_subd_geog": false,
+      "use_under": "headings of the type [country]--Colonies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Asia",
+      "subfield": "z",
+      "type": "geographic",
+      "may_subd_geog": false,
+      "use_under": "headings of the type [country]--Colonies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Oceania",
+      "subfield": "z",
+      "type": "geographic",
+      "may_subd_geog": false,
+      "use_under": "headings of the type [country]--Colonies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Administration",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "headings of the type [country]--Colonies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Boundaries",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "headings of the type [country]--Colonies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Commerce",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "headings of the type [country]--Colonies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Defenses",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "headings of the type [country]--Colonies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Description and travel",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "headings of the type [country]--Colonies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Discovery and exploration",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "headings of the type [country]--Colonies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Economic conditions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "headings of the type [country]--Colonies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Economic policy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "headings of the type [country]--Colonies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Emigration and immigration",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "headings of the type [country]--Colonies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Geography",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "headings of the type [country]--Colonies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--History",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "headings of the type [country]--Colonies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Intellectual life",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "headings of the type [country]--Colonies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Officials and employees",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "headings of the type [country]--Colonies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Population",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "headings of the type [country]--Colonies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Race relations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "headings of the type [country]--Colonies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Religion",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "headings of the type [country]--Colonies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Religious life and customs",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "headings of the type [country]--Colonies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Rural conditions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "headings of the type [country]--Colonies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Social conditions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "headings of the type [country]--Colonies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Social life and customs",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "headings of the type [country]--Colonies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Social policy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "headings of the type [country]--Colonies",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    }
+  ]
+}

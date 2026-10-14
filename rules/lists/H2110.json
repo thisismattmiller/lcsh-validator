@@ -1,0 +1,248 @@
+{
+  "sheet": "H 2110",
+  "title": "Study and Teaching",
+  "kind": "general-free-floating",
+  "scope": "Free-floating --Study and teaching subdivisions, including the eleven level-of-study qualified forms listed in H 2110 sec. 2 and the multi-level forms in sec. 3, 9, 10, 11",
+  "pattern_headings": [],
+  "pattern_category": "",
+  "general_notes": [
+    "The level-qualified subdivisions are listed in H 2110 sec. 2 under: \"The following free-floating subdivisions may be used, if appropriate:\"",
+    "May Subd Geog for the level-qualified forms is inferred from the base subdivision --Study and teaching (May Subd Geog); the sheet does not mark each qualified form individually."
+  ],
+  "entries": [
+    {
+      "subdivision": "--Study and teaching",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "names of individual persons, corporate bodies, and places, and under classes of persons, ethnic groups, and topical headings for works on study and teaching about these subjects",
+      "notes": "Do not use this subdivision under music headings, or under names of individual Christian denominations.",
+      "see_also": [
+        "--Instruction and study",
+        "--Training of"
+      ],
+      "consult": [
+        "H 2110",
+        "H 2217"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Study and teaching (Continuing education)",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "topics (including individual languages and groups of languages) for works on the study and teaching of the topic limited to a particular educational level",
+      "notes": "",
+      "see_also": [
+        "--Study and teaching"
+      ],
+      "consult": [
+        "H 2110"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Study and teaching (Early childhood)",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "topics (including individual languages and groups of languages) for works on the study and teaching of the topic limited to a particular educational level",
+      "notes": "",
+      "see_also": [
+        "--Study and teaching"
+      ],
+      "consult": [
+        "H 2110"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Study and teaching (Elementary)",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "topics (including individual languages and groups of languages) for works on the study and teaching of the topic limited to a particular educational level",
+      "notes": "",
+      "see_also": [
+        "--Study and teaching"
+      ],
+      "consult": [
+        "H 2110"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Study and teaching (Graduate)",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "topics (including individual languages and groups of languages) for works on the study and teaching of the topic limited to a particular educational level",
+      "notes": "",
+      "see_also": [
+        "--Study and teaching"
+      ],
+      "consult": [
+        "H 2110"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Study and teaching (Higher)",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "topics (including individual languages and groups of languages) for works on the study and teaching of the topic limited to a particular educational level",
+      "notes": "",
+      "see_also": [
+        "--Study and teaching"
+      ],
+      "consult": [
+        "H 2110"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Study and teaching (Internship)",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "topics (including individual languages and groups of languages) for works on the study and teaching of the topic limited to a particular educational level",
+      "notes": "",
+      "see_also": [
+        "--Study and teaching"
+      ],
+      "consult": [
+        "H 2110"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Study and teaching (Middle school)",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "topics (including individual languages and groups of languages) for works on the study and teaching of the topic limited to a particular educational level",
+      "notes": "",
+      "see_also": [
+        "--Study and teaching"
+      ],
+      "consult": [
+        "H 2110"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Study and teaching (Preschool)",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "topics (including individual languages and groups of languages) for works on the study and teaching of the topic limited to a particular educational level",
+      "notes": "",
+      "see_also": [
+        "--Study and teaching"
+      ],
+      "consult": [
+        "H 2110"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Study and teaching (Primary)",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "topics (including individual languages and groups of languages) for works on the study and teaching of the topic limited to a particular educational level",
+      "notes": "",
+      "see_also": [
+        "--Study and teaching"
+      ],
+      "consult": [
+        "H 2110"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Study and teaching (Residency)",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "topics (including individual languages and groups of languages) for works on the study and teaching of the topic limited to a particular educational level",
+      "notes": "",
+      "see_also": [
+        "--Study and teaching"
+      ],
+      "consult": [
+        "H 2110"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Study and teaching (Secondary)",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "topics (including individual languages and groups of languages) for works on the study and teaching of the topic limited to a particular educational level",
+      "notes": "",
+      "see_also": [
+        "--Study and teaching"
+      ],
+      "consult": [
+        "H 2110"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Study and teaching--Supervision",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "topical headings to works on the supervision of study and teaching in these fields",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2110"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Study and teaching--Audio-visual aids",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "topics to works on aids to the learning and teaching of a subject",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2110"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Study and teaching--Simulation methods",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "topics to works on the use of simulation methods for instruction in a specific field",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2110"
+      ],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Study and teaching--Activity programs",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "topics to works on activities to be engaged in for the purpose of acquiring certain skills, concepts, or knowledge",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2110"
+      ],
+      "endnote": ""
+    }
+  ]
+}

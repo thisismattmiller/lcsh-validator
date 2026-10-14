@@ -1,0 +1,95 @@
+
+
+<<<PAGE 1>>>
+ 
+Changing References in Subject Authority Records  H 195 
+ 
+ 
+ 
+Subject Headings Manual 
+H 195 Page 1 
+ 
+November 2021 
+BACKGROUND:  References in Library of Congress Subject Headings can be changed by 
+adding, deleting, or altering 260, 360, 4XX, and 5XX fields in subject authority records.  In 
+order to add a UF reference from a term not used as a subject heading to its equivalent heading, 
+a 4XX field is added to the authority record for the heading.  In order to add a reference from 
+one subject heading to a narrower heading, a 5XX field coded as a broader term is added to the 
+record for the narrower heading.  To link two headings as related terms, a 5XX field coded as a 
+related term is added to the records for both headings.  To make a general see reference or a 
+general see also reference, a 260 or 360 field is added to the record.  References are cancelled 
+by deleting fields in the equivalent manner.  This instruction sheet describes the procedures for 
+proposing such changes using the Subject Heading Proposal System.  For guidelines on making 
+references, see H 370-H 375. 
+ 
+ 
+ 
+1.  Retrieving the heading in the Subject Heading Proposal System.  In order to add or change 
+references in a subject authority record, retrieve the heading in the Subject Heading Proposal 
+System.  Click on the icon to the right of the heading in the browse display, and in the 
+dropdown menu click Propose a change to this record.   
+ 
+ 
+ 
+2.  Adding or editing 4XX fields (UF references).  Add, edit, or delete 4XX fields, as 
+necessary, keeping all 4XX fields together in a single alphabetical list.  For variant forms of 
+names or alternate terminology added in 4XX fields, provide supporting authority in 670 fields 
+according to the instructions in H 200, sec. 9. 
+ 
+ 
+ 
+3.  Adding or editing 5XX fields (broader terms and related terms).  Add, edit, or delete 5XX 
+fields, as necessary.  Identify a 5XX field as a broader term by means of a $w control subfield 
+with the value g.  Identify a 5XX field as a related term by omitting the $w control subfield.  
+Keep all broader term 5XX fields together in a single alphabetical list and all related term 5XX 
+fields in a separate alphabetical list following the broader terms. 
+ 
+Remember that in order to link two headings as related terms, the authority record for each 
+heading must have a 5XX field containing the other heading, and that in each case this field must 
+be identified as a related term by the absence of a $w control subfield.  To add, change, or 
+delete a related term reference, it is therefore necessary to copy and revise two authority records.  
+Follow the procedures in this instruction sheet to change both records. 
+
+
+<<<PAGE 2>>>
+H 195  Changing References in Subject Authority Records 
+ 
+ 
+ 
+H 195 Page 2 
+Subject Headings Manual 
+November 2021 
+3.  Adding or editing 5XX fields (broader terms and related terms).  (Continued) 
+ 
+To change an existing reference from a related term to a broader term, add $w g as the first 
+subfield in the 5XX field and delete the reciprocal reference from the authority record for the 
+other heading.  To change an existing reference from a broader term to a related term, delete $w 
+g from the 5XX field and add a reciprocal reference to the authority record for the other heading. 
+  
+ 
+After the 5XX fields have been revised, reposition them within the record if necessary so that all 
+broader terms are placed together in a single alphabetical list, followed by all related terms, also 
+in a single alphabetical list. 
+ 
+ 
+4.  Adding or editing 360 fields (general see also references) or editing 260 fields (general see 
+references).  Add, edit, or delete 360 fields as necessary.  Edit or delete 260 fields as necessary. 
+For examples of content designation of these fields, see H 374, General See References, and 
+H 371, General See Also References. 
+ 
+ 
+5.  Saving and viewing the record.  Save the proposed revision to the Subject Heading 
+Proposal System by clicking on the wrench icon in the upper right-hand corner to reveal the 
+Tools menu and clicking the Save button. The proposed revision is now searchable within the 
+system.  Search for the proposed heading in the browse display. The text of the heading is 
+displayed in brown, indicating that it is a proposed revision and not yet approved. 
+ 
+ 
+6.  Submitting the proposal.  Make a PDF of the revised authority record for the heading that is 
+being changed as well as PDFs of all related authority records that were revised in conjunction 
+with the proposal.  Submit the PDFs to the Policy, Training, and Cooperative Programs 
+Division according to the instructions in H 200 sec. 19.  Once these PDFs have been submitted 
+to PTCP, make no further changes to the online authority records in the Subject Heading 
+Proposal System.  If any further additions or changes are required, notify PTCP by telephone, 
+email, or inter-office mail. 
+ 

@@ -1,0 +1,210 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Pictorial Works H 1935 | Page 1 
+ 
+ 
+Pictorial Works 
+H 1935 
+A. Background ............................................................................................................................... 1 
+B. Recent revisions ........................................................................................................................ 2 
+C. Definition .................................................................................................................................. 2 
+D. General rules ............................................................................................................................ 2 
+D.1. Works consisting entirely or primarily of pictures .............................................................. 2 
+D.2. Works consisting of text with illustrations ......................................................................... 2 
+D.3. Works that are primarily textual ........................................................................................ 3 
+D.4. Usage of --Pictorial works ................................................................................................... 3 
+E. Exceptions to the general rules ................................................................................................. 3 
+E.1. Classes of persons and ethnic groups ................................................................................. 3 
+E.2. Individual persons ............................................................................................................... 4 
+E.3. Art ....................................................................................................................................... 4 
+E.4. Illustrations ......................................................................................................................... 4 
+E.5. Photography ....................................................................................................................... 4 
+E.6. Scientific and technical atlases ........................................................................................... 4 
+E.7. Films, video recordings, filmstrips, etc. ............................................................................... 4 
+E.8. Photographs ....................................................................................................................... 5 
+F. Extended examples ................................................................................................................... 5 
+Revision history ............................................................................................................................. 6 
+A. Background 
+The subdivision *--Pictorial works* is a free-floating form subdivision used for works consisting 
+primarily of pictures. When appropriate, this subdivision may be further subdivided by other 
+form subdivisions, such as *--Periodicals*. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Pictorial Works H 1935 | Page 2 
+ 
+ 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Exhibition catalogs*. 
+For guidelines on place as a theme in art, see H 910. For guidelines on art and fine art, see H 
+1250. For guidelines on artistic photography, see H 1255. For guidelines on illustrations, see H 
+1659. 
+B. Recent revisions 
+2026-03: Updated template. Added instructions related to LCGFT implementation. 
+C. Definition 
+Pictorial works: generally resources that consist entirely or predominantly of pictures or of 
+pictures accompanied only by captions and/or brief introductory text 
+D. General rules 
+D.1. Works consisting entirely or primarily of pictures 
+If the work being cataloged consists entirely of pictures or of pictures accompanied only by 
+captions and/or brief introductory text, add the form subdivision *--Pictorial works* to the 
+headings being assigned to represent the topical focus of the work. Use this subdivision when 
+the intent is to convey visual information about the subject. 
+LC practice: Assign the subject heading for the topical focus of the work. Also assign LCGFT 
+appropriate to the form and/or genre of the resource in hand, e.g. *Illustrated works*. 
+D.2. Works consisting of text with illustrations 
+If the work being cataloged consists of text accompanied by illustrations, assign an additional 
+heading to bring out the pictorial aspect, but only under the following conditions: (1) more than 
+50% of the work is pictorial, and (2) the publication features, or stresses the importance of, the 
+pictures, by using a term such as illustrated as part of the title, by giving special credit to the 
+photographer, etc. 
+Example: 
+Title: Peoples of the world, in color. 
+650 #0 $a Ethnology. 
+650 #0 $a Ethnology $v Pictorial works. 
+LC practice: 
+650 #0 $a Ethnology. 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Pictorial Works H 1935 | Page 3 
+ 
+ 
+655 #7 $a Illustrated works. $2 lcgft 
+Do not add the additional heading if the illustrations are routine or incidental, such as those 
+present in a typical high school textbook. 
+D.3. Works that are primarily textual 
+If less than 50% of the work being cataloged consists of illustrations, do not bring out the 
+pictorial aspect, regardless of the importance of the illustrations. 
+D.4. Usage of *--Pictorial works* 
+Use *--Pictorial works* under topical headings, individual wars, classes of persons, ethnic 
+groups, names of individual persons and families, names of countries, cities, etc., and named 
+entities, such as individual parks, structures, etc. 
+Note: Under names of places, this subdivision replaced the subdivisions *--Description--Views* 
+and *--Description and travel--Views*, which were discontinued in 1991. *--Pictorial works* is 
+used directly after names of places without interposing the subdivision *--Description and 
+travel*. 
+Example: 
+United States--Pictorial works. 
+[not United States--Description and travel--Pictorial works]. 
+E. Exceptions to the general rules 
+LC practice: Assign the subject heading for the topical focus of the work. Also assign LCGFT 
+appropriate to the form and/or genre of the resource in hand, e.g. *Illustrated works*. 
+E.1. Classes of persons and ethnic groups 
+For a pictorial work about a class of persons or ethnic group that stresses the visual identity of 
+the individuals, assign the appropriate heading for the class of persons or ethnic group with the 
+subdivision *--Portraits* rather than *--Pictorial works*. 
+LC practice: Assign the subject heading for the class of persons or ethnic group when the visual 
+identity of the individuals is emphasized. Also assign LCGFT appropriate to the form and/or 
+genre of the resource in hand, e.g. *Portraits*. 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Pictorial Works H 1935 | Page 4 
+ 
+ 
+E.2. Individual persons 
+For a pictorial work about an individual person, use as appropriate, either *--Art*, *--
+Caricatures and cartoons*, *--Pictorial works*, or *--Portraits*. See H 1110 for instructions on 
+using these subdivisions. 
+LC practice: Assign the subject heading for the individual person who is the focus of the work. 
+Also assign LCGFT appropriate to the form and/or genre of the resource in hand, e.g. 
+*Portraits*. 
+E.3. Art 
+For works consisting of art reproductions that depict a particular theme, place, or corporate 
+body in art, assign headings of the type *[topic] in art* or *[place]--In art*, for example, 
+*Animals in art*; *Paris (France)--In art*; *Catholic Church--In art*. The use of the free-
+floating phrase *[ . . . ] in art* was discontinued in 1997; all headings of this type must now be 
+established. 
+E.4. Illustrations 
+For collections of pictorial representations found in types of published materials, individual 
+literatures and literary forms, the works of individual authors, individual works, and sacred 
+works, use the subdivision *--Illustrations*. See H 1659 for complete instructions on use of the 
+subdivision. 
+E.5. Photography 
+For works on photography containing reproductions of photographs where the focus is on their 
+photographic aspect, assign headings of the type *Photography*; *Photography, Artistic*; 
+*Nature photography*; *Photography of food*. See H 1255 for instructions on artistic 
+photography. 
+E.6. Scientific and technical atlases 
+For scientific or technical works consisting of comprehensive, often systematically arranged, 
+collections of illustrative plates, charts, etc., usually with explanatory captions, use the 
+subdivision *--Atlases* under topics, for example, *Human anatomy--Atlases*. 
+E.7. Films, video recordings, filmstrips, etc. 
+Do not use *--Pictorial works* as a form subdivision for such materials. Assign no form 
+subdivision to adult moving image materials; assign *--Juvenile films* to juvenile materials. 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Pictorial Works H 1935 | Page 5 
+ 
+ 
+E.8. Photographs 
+For works consisting of actual photographs, that is, photographic prints or digital photographs, 
+rather than reproductions of photographs, use the subdivision *--Photographs* under subjects. 
+For aerial photographs, see H 1210.5. For works consisting of slides, use the subdivision *--
+Slides*. 
+F. Extended examples 
+Title: Costume : an illustrated survey from ancient times to the 
+twentieth century. [includes text] 
+650 #0 $a Clothing and dress $x History. 
+650 #0 $a Clothing and dress $x History $v Pictorial works. 
+LC practice: 
+650 #0 $a Clothing and dress $x History. 
+655 #7 $a Illustrated works. $2 lcgft 
+ 
+Title: Aspects of Boston. [includes text with separate pictorial 
+section] 
+651 #0 $a Boston (Mass.) $v Pictorial works. 
+651 #0 $a Boston (Mass.) $x History. 
+LC practice: 
+651 #0 $a Boston (Mass.) $x History. 
+655 #7 $a Illustrated works. $2 lcgft 
+ 
+Title: In praise of Australian birds. 
+650 #0 $a Birds $z Australia $v Pictorial works. 
+LC practice: 
+650 #0 $a Birds $z Australia. 
+655 #7 $a Illustrated works. $2 lcgft 
+ 
+Title: A Yosemite album. 
+651 #0 $a Yosemite National Park (Calif.) $v Pictorial works. 
+LC practice: 
+651 #0 $a Yosemite National Park (Calif.) 
+655 #7 $a Illustrated works. $2 lcgft 
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | Pictorial Works H 1935 | Page 6 
+ 
+ 
+ 
+Title: Picture panorama of British history. 
+651 #0 $a Great Britain $x History $v Pictorial works $v Juvenile 
+literature. 
+LC practice: 
+651 #0 $a Great Britain $x History. 
+655 #7 $a Illustrated works. $2 lcgft 
+385 ## $a Children $2 lcdgt 
+ 
+Title: Pompéi : résurrection d'une cité. 
+651 #0 $a Pompeii (Extinct city) $v Pictorial works. 
+LC practice: 
+651 #0 $a Pompeii (Extinct city) 
+655 #7 $a Illustrated works. $2 lcgft 
+ 
+Title: London : a picture-book to remember her by. 
+651 #0 $a London (England) $v Pictorial works. 
+LC practice: 
+651 #0 $a London (England) 
+655 #7 $a Illustrated works. $2 lcgft 
+ 
+Title: Australia, colourful continent. 
+651 #0 $a Australia $v Pictorial works. 
+LC practice: 
+651 #0 $a Australia. 
+655 #7 $a Illustrated works. $2 lcgft 
+Revision history 
+2026-03: Updated template. Added instructions related to LCGFT implementation. 

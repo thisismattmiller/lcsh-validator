@@ -1,0 +1,296 @@
+
+
+<<<PAGE 1>>>
+ 
+Battles  H 1285 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1285 Page 1 
+ 
+June 2013 
+BACKGROUND:  Battles may be part of particular wars or individual military engagements.  
+Most individual battles take their name from the place in which they were fought.  Others are 
+named for persons, buildings, etc.  Individual battles are established in English as event 
+headings, using the name of the battle as found in standard reference sources.  Prior to 2002, 
+headings for battles that were based on place names were established in various forms: some 
+without geographical qualifiers, some with place names in AACR1 form and some with AACR2 
+parenthetical qualifiers.  A uniform practice for these headings was adopted in February 2002. 
+This instruction sheet provides guidelines for establishing and assigning subject headings for 
+individual battles.  It does not apply to other types of individual military engagements such as 
+bombardments, raids, sieges, etc.  For instructions on establishing headings for individual 
+bombardments and sieges, see the Background statement in H 1560.  As used in this instruction 
+sheet, the term battle refers to aerial, land, or naval operations. 
+ 
+ 
+ 
+1.  Form of heading.  Establish the heading for the battle (or for several battles known by a 
+collective name) as an event heading, using the form of the name found in the sources consulted. 
+ If the name in natural-language form appears as Battle of [ . . . ] (or Battles of [ . . . ]), use an 
+inverted form to bring the substantive portion of the name into the initial position.  Add the 
+appropriate jurisdictional geographic qualifier and date in accordance with the normal practice 
+for events as given in H 1592, sec.4.b. and sec.4.c.  Examples: 
+ 
+150 ## $a York, Battle of, Toronto, Ont., 1813 
+150 ## $a Moscow, Battle of, Moscow, Russia, 1941-1942 
+150 ## $a Little Bighorn, Battle of the, Mont., 1876 
+150 ## $a Belly River, Battle of, Alta., 1870 
+150 ## $a Reynolds Battle, Mont., 1876 
+150 ## $a Seven Days= Battles, Va., 1862 
+ 
+ 
+The conventional geographic name in the name of the battle may differ in spelling or diacritics 
+from the form of name in the geographic qualifier.  Example: 
+ 
+150 ## $a Dong Ha, Battle of, Ðông Hà, Vietnam, 1972 
+ 
+ 
+If the battle is normally known by a sequential number because more than one battle occurred in 
+the place during a single war, add the number to the heading before the term Battle.  Example: 
+ 
+150 ## $a Marne, 2nd Battle of the, France, 1918 
+
+
+<<<PAGE 2>>>
+H 1285  Battles 
+ 
+ 
+ 
+H 1285 Page 2 
+Subject Headings Manual 
+June 2013 
+1.  Form of heading.  (Continued) 
+ 
+If the battle(s) took place in the open sea or in more than one country omit the geographic 
+qualifier.  Examples: 
+ 
+150 ## $a Coral Sea, Battle of the, 1942 
+150 ## $a Isonzo, Battles of the, 1915-1917 
+ 
+ 
+ 
+2.  References.   
+ 
+ 
+a.  UF references.  Add 4XX fields for other names or for alternate ways of formulating 
+the name of the battle, if any.  Do not add a 450 field in the form Battle of [. . .].  
+Examples: 
+ 
+ 
+150 ## $a York, Battle of, Toronto, Ont., 1813 
+451 ## $a Toronto (Ont.) $x History $x Capture, 1813 
+ 
+ 
+150 ## $a North Anna River, Battle of, Va., 1864 
+450 ## $a Hanover Junction, Battle of, Va., 1864 
+450 ## $a Jericho Bridge, Battle of, Va., 1864 
+450 ## $a Jericho Ford, Battle of, Va., 1864 
+450 ## $a Jericho Mills, Battle of, Va., 1864 
+450 ## $a Taylor=s Bridge, Battle of, Va., 1864 
+ 
+ 
+b.  Broader terms. 
+ 
+(1) Battles as events in wars.  Add the 550 (broader term) field [name of war]B 
+CampaignsB[country or first order political division] for a battle that is part of a 
+war that has been both established under its own name and fought in more than 
+one jurisdiction.  Example: 
+ 
+ 
+150 ## $a Moscow, Battle of, Moscow, Russia, 1941-1942 
+550 ## $w g $a World War, l939-1945 $x Campaigns  
+            $z Russia (Federation) 
+
+
+<<<PAGE 3>>>
+ 
+Battles  H 1285 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1285 Page 3 
+ 
+June 2013 
+2.  References.  
+ 
+b.  Broader terms. 
+ 
+(1) Battles as events in wars.  (Continued) 
+ 
+Add the 551 (broader term) field [place]BHistoryB[name of war]BCampaigns 
+and, if appropriate, [place]BHistoryB[period subdivision] for a battle that is part 
+of a war established under [place]BHistory.  Do not further subdivide 
+[place]BHistoryB [period subdivision] by BCampaigns.  Example: 
+ 
+150 ## $a Franklin, Battle of, Franklin, Tenn., 1864 
+551 ## $w g $a Tennessee $x History $y Civil War, 
+            1861-1865 
+551 ## $w g $a United States $x History $y Civil 
+            War, 1861-1865 $x Campaigns 
+ 
+In cases where a heading has been established for a specific campaign, for 
+example, Maryland Campaign, 1864, do not use the heading as a broader term 
+for the individual battles that were part of the campaign. 
+ 
+ 
+(2) Battles not identified with wars.  Add the 551 (broader term) field [place]B 
+HistoryB[period subdivision] for a battle that is not part of a war.  Example: 
+ 
+150 ## $a Hastings, Battle of, England, 1066 
+551 ## $w g $a Great Britain $x History  
+          $y William I, 1066-1087 
+ 
+ 
+(3) American Indian battles.  Add the 550 (broader term) field [name of Indian 
+tribe]BWars, [date] and, if appropriate, [place]BHistory or [place]BHistoryB 
+[period subdivision] for an Indian battle that is part of a particular Indian war.  
+Example: 
+ 
+150 ## $a Dull Knife Battle, Wyo., 1876 
+550 ## $w g $a Cheyenne Indians $x Wars, 1876 
+551 ## $w g $a Wyoming $x History 
+
+
+<<<PAGE 4>>>
+H 1285  Battles 
+ 
+ 
+ 
+H 1285 Page 4 
+Subject Headings Manual 
+June 2013 
+2.  References.  
+ 
+b.  Broader terms. 
+ 
+(3) American Indian battles.  (Continued) 
+ 
+Add the 550 (broader term) field Indians of [ . . . ]BWarsB[country or first order 
+political division] and, if appropriate, the 551 (broader term) field 
+[place]BHistory or [place]BHistoryB[period subdivision] for an Indian battle that 
+is not part of a particular Indian war.  Example: 
+ 
+ 
+150 ## $a Adobe Walls, Battle of, Tex., 1874 
+550 ## $w g $a Indians of North America $x Wars  
+            $z Texas 
+551 ## $w g $a Texas $x History $y 1846-1950 
+ 
+ 
+ 
+3.  Assignment of headings.  
+ 
+a.  General works on individual battles.  Assign the heading for the battle, adding a form 
+subdivision, 
+if 
+appropriate. 
+ 
+Do 
+not 
+assign 
+a 
+heading 
+for 
+[name 
+of 
+war]BCampaignsB[place] or for [place]BHistoryB[name of war]BCampaigns since this 
+aspect is covered by the reference structure for individual battles. 
+ 
+ 
+b.  Special topics. 
+ 
+(1) Topical subdivisions not used under individual battles.  Do not use topical 
+subdivisions under names of individual battles.  For works on a special topic 
+pertaining to a battle that is part of a war, assign as an additional heading the 
+name of the war at its broadest level subdivided by the appropriate topical 
+subdivision in accordance with H 1200.   
+ 
+(2) Persons, topics, time periods, localities.  Assign additional headings, if 
+necessary, to bring out individual persons, special topics, time periods, or local 
+history. 
+
+
+<<<PAGE 5>>>
+ 
+Battles  H 1285 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1285 Page 5 
+ 
+June 2013 
+3.  Assignment of headings. 
+ 
+ 
+Examples: 
+ 
+ 
+Title:  Hospital scenes after the Battle of Gettysburg, July 1863. 
+650 #0 $a Gettysburg, Battle of, Gettysburg, Pa., 1863. 
+651 #0 $a United States $x History $y Civil War, 1861-1865 
+            $x Hospitals. 
+651 #0 $a United States $x History $y Civil War, 1861-1865 
+            $x Medical care. 
+650 #0 $a Hospitals $z Pennsylvania $ z Gettysburg Region  
+            $x History $y 19th century. 
+ 
+ 
+ 
+ 
+Title:  Peleliu, 1944 : the 81st Infantry Division in battle. 
+650 #0 $a Peleliu, Battle of, Palau, 1944. 
+650 #0 $a World War, 1939-1945 $x Regimental histories  
+            $z United States. 
+610 10 $a United States. $b Army. $b Infantry Division, 81st 
+            $x History. 
+ 
+ 
+ 
+ 
+Title:  Artillery hell : the employment of artillery at Antietam. 
+650 #0 $a Antietam, Battle of, Md., 1862. 
+651 #0 $a United States $x History $y Civil War, 1861-1865 
+            $x Artillery operations. 
+ 
+ 
+ 
+ 
+Title:  Sole survivor : the Battle of Midway and its effect on his life. 
+650 #0 $a Midway, Battle of, 1942 $v Personal narratives, 
+            American. 
+600 10 $a Gay, George H., $d 1917- 
+610 10 $a United States.  $b Navy.  $b Torpedo Squadron 8  
+            $v Biography. 
+650 #0 $a Sailors $z United States $v Biography. 
+ 
+
+
+<<<PAGE 6>>>
+H 1285  Battles 
+ 
+ 
+ 
+H 1285 Page 6 
+Subject Headings Manual 
+June 2013 
+3.  Assignment of headings. 
+ 
+Examples:  (Continued) 
+ 
+Title:  Negro soldiers, free men of color in the Battle of New Orleans, War of 
+1812. 
+650 #0 $a New Orleans, Battle of, New Orleans, La., 1815. 
+651 #0 $a United States $x History $y War of 1812  
+            $x Participation, African American.  
+650 #0 $a African Americans $z Louisiana $z New Orleans  
+            $x History $y 19th century. 
+651 #0 $a Louisiana $x  History $y War of 1812  
+            $x Participation, African American. 
+650 #0 $a New Orleans, Battle of, New Orleans, La., 1815 
+     $v Registers. 
+651 #0 $a New Orleans (La.) $x History. 
+651 #0 $a New Orleans (La.) $v Genealogy. 
+ 

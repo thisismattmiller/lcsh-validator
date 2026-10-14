@@ -1,0 +1,105 @@
+
+
+<<<PAGE 1>>>
+                      General See References  H 374 
+ 
+ 
+BACKGROUND: A general see reference is a “use” reference made not to specific individual 
+headings but to a category of subject headings or subdivisions, frequently listing one or more 
+individual headings or subdivisions as examples.  Records for general see references are 
+reference records rather than heading records and may be identified by code b or c in MARC 21 
+field 008/09 (the box labeled Kind of Record on the 008 input screen in the LC ILS). 
+ 
+ 
+ 
+1.  General rule.  Make general see references when relationships exist between terms and 
+established headings or subdivisions that cannot be adequately conveyed by one or more simple 
+UF references in records for established subject headings.  Follow the procedures stated in H 200 
+sec. 13, giving the term or terms referred from in a 150 field, the explanatory text in an $i 
+subfield of a 260 field, and the heading terms, or subdivisions referred to in an $a subfield of the 
+260 field. 
+ 
+ 
+2.  General see references vs. specific references.  Provide general see references from 
+non-used variant forms of national and ethnic adjectival qualifiers in preference to making 
+explicit UF references in each heading established using that qualifier.  Place three dots 
+following the variant word referred from and use the following standard wording as the text in 
+the $i subfield of the 260 field:  “subject headings beginning with or qualified by the word” 
+followed by the preferred form in an $a subfield.  Provide sources for the variant form in 670 
+fields according to the procedures given in H 200 sec. 9.  Example: 
+ 
+150 ## $a Ecuadoran ... 
+260 ## $i subject headings beginning with or qualified by the 
+            word $a Ecuadorian, $i e.g., $a Ecuadorian literature; 
+            Art, Ecuadorian 
+670 ## $a Random House $b (Ecuadoran, Ecuadorean, Ecuadorian, 
+            adj.) 
+ 
+ 
+Also provide general see references from variant spellings of common words used in several 
+headings in preference to making explicit UF references in individual headings beginning with 
+that word.  Example: 
+ 
+150 ## $a Catalogue ... 
+260 ## $i topical headings beginning with or including the words 
+            $a Catalog $i or $a Catalogs $i e.g., $a Catalog cards; 
+            Library catalog management; Exhibition catalogs 
+670 ## $a Web. 3 $b (catalog or catalogue) 
+ 
+Subject Headings Manual 
+H 374 Page 1 
+ 
+February 2016 
+
+
+<<<PAGE 2>>>
+H 374  General See References 
+ 
+ 
+3.  General see references and free-floating subdivisions.  Provide a general see reference 
+from the general concept to the corresponding free-floating subdivision when no generic heading 
+exists for the concept in the subject authority file.  When a generic heading for the concept 
+exists, make a general see also reference from it to the free-floating subdivision according to the 
+guidelines in H 371.  Example: 
+ 
+ 
+150 ## $a Amateurs' manuals 
+260 ## $i subdivision $a Amateurs' manuals $i under technical 
+            topics for works of instruction for nonprofessionals on 
+            how to acquire a skill or perform an operation, e.g.,  
+            $a Radio--Amateurs' manuals 
+ 
+ 
+Although new general see references are made for a subdivision only when that subdivision is 
+free-floating, many general see references to subdivisions that are not free-floating were made in 
+the past and remain in the subject authority file.  Therefore, the presence of a general see 
+reference does not automatically authorize assignment of that subdivision on a free-floating basis. 
+Treat subdivisions as free-floating only in accordance with the provisions of H 1095 or other 
+free-floating subdivision lists in H 1100 - H 1200. 
+ 
+ 
+ 
+4. Geographic subdivision.  Code n in MARC 21 field 008/06 indicates that geographic 
+subdivision is not applicable for a reference record.  The template for general see references in 
+the Subject Heading Proposal System is set to code n by default and cannot be edited by users. 
+ 
+5.  Subject example tracing note. Provide a 681 field (Subject Example Tracing Note) for each 
+heading provided as an example in the reference. This note indicates the authority records in 
+which a heading is mentioned, and is used to maintain LCSH. Example: 
+ 
+150 ## $a Ecuadoran ... 
+260 ## $i subject headings beginning with or qualified by the 
+            word $a Ecuadorian, $i e.g., $a Ecuadorian literature; 
+            Art, Ecuadorian 
+ 
+ 
+150 ## $a Art, Ecuadorian 
+681 ## $i Example under reference from $a Ecuadoran . . . 
+ 
+ 
+150 ## $a Ecuadorian literature 
+681 ## $i Example under reference from $a Ecuadoran . . . 
+ 
+H 374 Page 2 
+Subject Headings Manual 
+February 2016 

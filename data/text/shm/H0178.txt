@@ -1,0 +1,49 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Serials H 178| Page 1 
+ 
+ 
+Serials 
+H 178 
+A. Background ................................................................................................................................. 1 
+B. Recent revisions .......................................................................................................................... 1 
+C. General rule ................................................................................................................................ 1 
+D. Serials linked to previously cataloged serials ............................................................................. 1 
+E. The subdivision --Periodicals ....................................................................................................... 2 
+Revision history ............................................................................................................................... 2 
+A. Background  
+This instruction sheet provides Library of Congress catalogers with policy guidelines for 
+assigning subject headings to serials.  
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Textbooks*. To replace a form subdivision that includes a demographic group, also assign 
+Library of Congress Demographic Groups Terms (LCDGT) to bring out the audience of the 
+resource being cataloged, e.g. *German speakers* or *Arabic, Students of*. 
+For guidelines on electronic serials, see H 1580.5. For guidelines on indexes to periodicals, see H 
+1670. For guidelines on newspapers on special topics and newspapers of ethnic groups in the 
+United States, see H 1920. For classification of periodicals, see F 210 and F 220. 
+B. Recent revisions  
+2026-01: Updated template. Added instructions related to LCGFT implementation. 
+C. General rule 
+Assign a full set of subject headings in accordance with normal guidelines. Choose headings that 
+characterize the scope and intent of the serial as a whole, not headings that would be 
+appropriate only for the content of the specific issue(s) at hand. 
+D. Serials linked to previously cataloged serials 
+Assign appropriate and valid subject headings without regard to the headings assigned to 
+previously cataloged serials that are linked to the new serial, even if the numbering continues 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Serials H 178| Page 2 
+ 
+ 
+from one to another. The subject headings that were assigned to the previously cataloged serial 
+may be corrected or updated, if necessary, but the headings assigned to the earlier and later 
+serials need not be exactly the same. 
+E. The subdivision --Periodicals 
+Use the form subdivision *--Periodicals* according to the guidelines provided in H 1927. 
+LC practice: Assign LCGFT to bring out the genre and/or form of the resource being cataloged, 
+e.g., *Periodicals*. 
+Revision history 
+2026-01: Updated template. Added instructions related to LCGFT implementation. 

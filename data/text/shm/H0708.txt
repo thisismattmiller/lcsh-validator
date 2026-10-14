@@ -1,0 +1,41 @@
+
+
+<<<PAGE 1>>>
+ 
+Linear Jurisdictional Name Changes  H 708 
+                                  in Name Authority Records         
+ 
+ 
+ 
+Subject Headings Manual 
+H 708 Page 1 
+ 
+August 2021 
+BACKGROUND:  It is subject cataloging policy to assign as a subject heading or as a 
+geographic subdivision, only the latest name of a political jurisdiction that has had one or more 
+earlier names, as long as the territorial identity remains essentially unchanged.  For example, 
+although both Ceylon and Sri Lanka are valid as name headings, only Sri Lanka is used in 
+subject cataloging.  When a particular heading for a jurisdiction is not valid for use as a 
+subject heading because a later name is used, a statement to that effect should appear in a 667 
+field in the name authority record for the earlier heading.  The 667 field is labeled SUBJECT 
+USAGE.  Example: 
+ 
+151 ## $a Ceylon 
+667 ## $a SUBJECT USAGE: This heading is not valid for use as a 
+            subject. Works about this place are entered under Sri 
+            Lanka. 
+ 
+ 
+1.  Searching the name authority file.  When in doubt as to whether a given geographic name 
+heading is valid for use as a subject heading, first search the LC Database to determine whether a 
+decision has already been made and recorded in a 667 SUBJECT USAGE field.  If this field is 
+found in the authority record for the heading in question, follow the instructions as presented in 
+the record. 
+ 
+ 
+2.  Adding usage decisions to name authority records.  Add a 667 SUBJECT USAGE field to 
+new and existing geographic name headings for former names of political jurisdictions if the 
+former name cannot be used as a subject heading because a later name is used. 
+ 
+ 
+3. Jurisdictional mergers and splits. See H 710. 

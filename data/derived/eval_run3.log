@@ -1,0 +1,65 @@
+OK  Tacos--History                                               expect=valid    got=valid     8.1s turns=2
+OK  Tacos--History--20th century                                 expect=valid    got=valid     5.9s turns=1
+OK  Taxation--France--Paris                                      expect=valid    got=valid     5.9s turns=1
+OK  Taxation--Paris (France)                                     expect=invalid  got=invalid   6.1s turns=1
+OK  Music--Canada--Toronto                                       expect=invalid  got=invalid   7.4s turns=1
+OK  Music--Ontario--Toronto                                      expect=valid    got=valid     6.1s turns=1
+OK  Education--New York (State)--Erie County--Buffalo            expect=invalid  got=invalid   10.9s turns=1
+OK  Education--New York (State)--Buffalo                         expect=valid    got=valid     6.4s turns=1
+OK  Performing arts--Washington (D.C.)                           expect=valid    got=valid     5.8s turns=2
+OK  Performing arts--United States--Washington (D.C.)            expect=invalid  got=invalid   8.0s turns=2
+OK  Nutrition surveys--Italy--Italy, Southern                    expect=invalid  got=invalid   5.1s turns=1
+OK  Nutrition surveys--Italy, Southern                           expect=valid    got=valid     6.3s turns=2
+OK  Birds--Colorado--Rocky Mountains                             expect=invalid  got=invalid   9.3s turns=2
+OK  Salmon--Diseases--Treatment                                  expect=valid    got=valid     12.1s turns=2
+OK  Joints--Biopsy                                               expect=valid    got=valid     3.4s turns=1
+OK  Joints--Dislocation                                          expect=invalid  got=invalid   9.6s turns=2
+OK  Emotions--Psychological aspects                              expect=invalid  got=invalid   7.5s turns=1
+OK  Schools--Management                                          expect=invalid  got=invalid   8.3s turns=2
+OK  Medicine--Periodicals--History                               expect=valid    got=valid     10.5s turns=2
+OK  Science--Periodicals--History                                expect=valid    got=valid     10.4s turns=1
+OK  Hospitals--Administration--Data processing--Evaluation       expect=valid    got=valid     7.3s turns=1
+OK  United States--History--Civil War, 1861-1865--Campaigns      expect=valid    got=valid     5.5s turns=1
+OK  United States--History--1783-1815                            expect=valid    got=valid     4.2s turns=1
+OK  United States--History--1790-1800                            expect=invalid  got=invalid   9.7s turns=2
+OK  France--Politics and government--1789-1799                   expect=valid    got=valid     6.3s turns=1
+OK  Shakespeare, William, 1564-1616--Criticism and interpretatio expect=valid    got=valid     5.0s turns=1
+OK  Shakespeare, William, 1564-1616--Biography                   expect=valid    got=valid     8.0s turns=1
+OK  Shakespeare, William, 1564-1616--Translations into French    expect=valid    got=valid     14.5s turns=3
+OK  Women--Employment--Juvenile literature                       expect=valid    got=valid     7.7s turns=2
+OK  Women--Juvenile literature--Employment                       expect=invalid  got=invalid   11.0s turns=2
+OK  Automobiles--Patents                                         expect=valid    got=valid     6.8s turns=1
+OK  English language--Dictionaries--French                       expect=valid    got=valid     10.6s turns=1
+OK  French language--Dictionaries--English                       expect=valid    got=valid     5.7s turns=1
+OK  Cookery, Italian                                             expect=invalid  got=invalid   5.4s turns=1
+OK  Cooking, Italian                                             expect=valid    got=valid     5.5s turns=1
+OK  Mormon handcart companies                                    expect=invalid  got=invalid   4.2s turns=1
+OK  Atlanta Metropolitan Area (Ga.)                              expect=valid    got=valid     6.5s turns=2
+OK  New York Metropolitan Area (N.Y.)                            expect=invalid  got=invalid   5.4s turns=1
+OK  Turkana, Lake, Region (Kenya and Ethiopia)                   expect=valid    got=valid     7.9s turns=2
+OK  Sonatas (Piano)                                              expect=valid    got=valid     3.5s turns=1
+OK  Sonatas (Piano)--Scores                                      expect=valid    got=valid     6.3s turns=1
+OK  Quartets (Violin, viola, cello, flute)                       expect=invalid  got=invalid   9.3s turns=2
+OK  Rocks--Moon                                                  expect=invalid  got=invalid   9.1s turns=2
+OK  Mars (Planet)--Geology                                       expect=valid    got=valid     6.1s turns=1
+OK  tacos--history                                               expect=invalid  got=invalid   8.5s turns=2
+OK  Tacos -- History                                             expect=invalid  got=invalid   7.2s turns=1
+OK  Tacos--Histroy                                               expect=invalid  got=invalid   6.4s turns=2
+OK  Great Britain--Kings and rulers--Travel--Canada--Pictorial w expect=valid    got=valid     18.5s turns=2
+OK  Railroads--France--Maintenance and repair--History--19th cen expect=valid    got=valid     17.6s turns=2
+OK  Tuberculosis--Patients--Hospital care--Maryland--Baltimore-- expect=valid    got=valid     18.0s turns=2
+OK  Cuba--Claims vs. United States                               expect=valid    got=valid     13.3s turns=3
+OK  Richland County (Ill.)--Census, 1900                         expect=valid    got=valid     9.6s turns=2
+OK  Solar eclipses--1854                                         expect=valid    got=valid     5.3s turns=1
+OK  Dogs--Training--Juvenile literature--Bibliography            expect=valid    got=valid     12.4s turns=2
+OK  Art--Government policy                                       expect=invalid  got=invalid   7.0s turns=2
+OK  Catholic Church--History--20th century                       expect=valid    got=valid     6.3s turns=1
+OK  Bible. Genesis--Commentaries                                 expect=valid    got=valid     9.0s turns=2
+OK  Heart--Refractive errors                                     expect=invalid  got=invalid   7.8s turns=2
+OK  Chinatown (San Francisco, Calif.)--History                   expect=valid    got=valid     10.6s turns=2
+OK  Tourism--California--Chinatown (San Francisco)               expect=invalid  got=invalid   7.0s turns=2
+OK  Rudolf, Lake, Region (Kenya and Ethiopia)                    expect=invalid  got=invalid   11.7s turns=3
+
+agreement: 61/61
+tokens: in+cached=3013563 out=91643
+exit 0

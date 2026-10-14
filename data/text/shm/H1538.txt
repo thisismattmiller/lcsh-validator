@@ -1,0 +1,213 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Diaries H 1538 | Page 1 
+ 
+ 
+Diaries 
+H 1538 
+A. Background ............................................................................................................................... 1 
+B. Recent revisions ........................................................................................................................ 1 
+C. Definitions ................................................................................................................................. 2 
+D. Array of headings ...................................................................................................................... 2 
+E. Individual diarists ...................................................................................................................... 2 
+F. [Class of persons, or ethnic group]--Diaries ............................................................................... 2 
+G. Special topics ............................................................................................................................ 3 
+H. Diaries as a literary genre ......................................................................................................... 4 
+I. Extended examples .................................................................................................................... 4 
+Revision history ............................................................................................................................. 6 
+A. Background 
+Diaries are registers or records of personal experiences, observations, thoughts, or feelings, 
+kept daily or at frequent intervals. They are usually written as an aid to memory or reflection 
+and are customarily intended for private rather than public use. The procedures below describe 
+the specific treatment of works consisting of true personal diaries. This instruction sheet is not 
+intended to cover memoirs, reminiscences, or personal narratives of events that are not in diary 
+entry form and contemporaneous with the events described. It is also not intended to be 
+applied to official logs of activities. 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Diaries*. To replace a form subdivision that includes a demographic group, also assign Library 
+of Congress Demographic Groups Terms (LCDGT) to bring out the audience of the resource 
+being cataloged, e.g. *German speakers* or *Arabic, Students of*. 
+For guidelines on bio-bibliography, see H 1328. For guidelines on biography, see H 1530. For 
+guidelines on interviews, see H 1678. For guidelines on personal narratives of wars or disasters, 
+see H 1928. For guidelines on genealogy and family histories, see H 1631. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Diaries H 1538 | Page 2 
+ 
+ 
+B. Recent revisions 
+2026-07: Updated template. Added instructions related to LCGFT implementation. 
+C. Definitions 
+Diaries: registers or records of personal experiences, observations, thoughts, or feelings, kept 
+daily or at frequent intervals, customarily intended for private use 
+D. Array of headings 
+Assign the following array of headings to individual diaries or collections of diaries. 
+LC practice: Assign an appropriate combination of subject heading(s) for an individual diary or 
+collection of diaries. See the more detailed guidance below regarding each category of subject 
+heading. Also assign LCGFT appropriate to the form and/or genre of the resource in hand, e.g. 
+LCGFT *Diaries*. 
+Model: 
+600 X0 $a [name of diarist(s)] $v Diaries. 
+650 #0 $a [class of persons, or ethnic group] $v Diaries. 
+650 #0 $a [special topics discussed in the diary or diaries]. 
+LC practice: 
+600 X0 $a [name of diarist(s)]. 
+650 #0 $a [class of persons, or ethnic group]. 
+650 #0 $a [special topics discussed in the diary or diaries]. 
+655 #7 $a Diaries. $2 lcgft 
+E. Individual diarists 
+Assign as subject headings the name or names of the individual writers of the diaries, up to a 
+maximum of three. Subdivide the name(s) by the free-floating form subdivision *--Diaries*. If 
+there are more than three diarists, do not designate any individual writer. 
+LC practice: Assign as subject headings the name or names of the individual writers of the 
+diaries, up to a maximum of three. Also assign the LCGFT term appropriate to the form and/or 
+genre of the resource in hand, e.g. LCGFT *Diaries*. 
+F. [Class of persons, or ethnic group]--Diaries 
+Assign headings of the type *[class of persons or ethnic group]--Diaries* if the writer(s) of the 
+diary or diaries can be identified with a particular subject area or discipline or a particular 
+ethnic group. 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Diaries H 1538 | Page 3 
+ 
+ 
+LC practice: Assign a subject heading for classes of persons or ethnic group if that is a topic in 
+the diary. Also assign the LCGFT term appropriate to the form and/or genre of the resource in 
+hand, e.g. LCGFT *Diaries*. 
+Examples: 
+650 #0 $a African Americans $v Diaries. 
+LC practice: 
+650 #0 $a African Americans. 
+655 #7 $a Diaries. $2 lcgft 
+ 
+650 #0 $a Dramatists, German $y 20th century $v Diaries. 
+LC practice: 
+650 #0 $a Dramatists, German $y 20th century. 
+655 #7 $a Diaries. $2 lcgft 
+ 
+610 20 $a Episcopal Church $x Clergy $v Diaries. 
+LC practice: 
+610 20 $a Episcopal Church $x Clergy. 
+655 #7 $a Diaries. $2 lcgft 
+ 
+650 #0 $a Painters $z Great Britain $v Diaries. 
+LC practice: 
+650 #0 $a Painters $z Great Britain. 
+655 #7 $a Diaries. $2 lcgft 
+ 
+650 #0 $a Women plantation owners $z Southern States $v Diaries. 
+LC practice: 
+650 #0 $a Women plantation owners $z Southern States. 
+655 #7 $a Diaries. $2 lcgft 
+For works of only a single diarist, do not assign both a class of persons heading and an ethnic 
+group heading to the same work. Prefer the class of persons heading. 
+G. Special topics 
+If the diary contains information about topics not covered by headings of the type *[class of 
+persons]--Diaries* or *[ethnic group]--Diaries*, assign additional headings for the topics, 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Diaries H 1538 | Page 4 
+ 
+ 
+including headings such as *[place]--Biography* (cf. H 1330, sec. 1.c.) or *[Individual war or 
+event]--Personal narratives* (cf. H 1928), if appropriate. 
+Since the diary or diaries of any individual person may or may not be regarded as historical 
+source material, depending upon the viewpoint of the reader, do not add the subdivision *--
+Sources* or *--History--Sources* to the additional headings assigned for special topics. 
+LC practice: If the diary contains information about topics not covered the types of headings 
+described in Sections E-F, assign additional headings for the topics, including headings such as 
+*[place]* (cf. H 1330, sec. 1.c.) or *[Individual war or event]* (cf. H 1928), if appropriate. Also 
+assign the LCGFT term appropriate to the form and/or genre of the resource in hand, e.g. LCGFT 
+*Diaries* or *Personal narratives*. 
+H. Diaries as a literary genre 
+Headings of the type *American diaries*; *English diaries*; *Japanese diaries*; etc., are 
+literary genre headings. Assign such headings only to collections of diaries by more than one 
+writer that are classed as literary works. If the collection is not limited to an individual body of 
+literature, assign the heading *Diaries*. 
+LC practice: Assign an appropriate combination of subject heading(s) for a diary or diaries. If a 
+subject heading for literary genre brings out the nationality and/or ethnicity of the writers, 
+continue to supply it. Optionally, assign the creator characteristics with LCDGT, e.g. *Germans* 
+and/or *Novelists*. If it is describing just the genre/form of the content, do not provide a 
+subject heading to express that. Instead, assign LCGFT appropriate to the form and/or genre of 
+the resource in hand, e.g. LCGFT *Diaries*. 
+I. Extended examples 
+Title: Tagebücher, 1918 1921. 
+600 10 $a Mann, Thomas, $d 1875 1955 $v Diaries. 
+650 #0 $a Novelists, German $y 20th century $v Diaries. 
+LC practice: 
+386 ## $a Germans $2 lcdgt 
+600 10 $a Mann, Thomas, $d 1875 1955. 
+650 #0 $a Novelists, German $y 20th century. 
+655 #7 $a Diaries. $2 lcgft 
+ 
+Title: New England year : a journal of Vermont farm life. 
+600 10 $a Follett, Muriel $v Diaries. 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Diaries H 1538 | Page 5 
+ 
+ 
+650 #0 $a Country life $z Vermont. 
+650 #0 $a Farm life $z Vermont. 
+651 #0 $a Vermont $x Social life and customs. 
+LC practice: 
+600 10 $a Follett, Muriel. 
+650 #0 $a Country life $z Vermont. 
+650 #0 $a Farm life $z Vermont. 
+651 #0 $a Vermont $x Social life and customs. 
+655 #7 $a Diaries. $2 lcgft 
+ 
+Title: War diaries : November 1939 March 1940. 
+600 10 $a Sartre, Jean-Paul, $d 1905 1980 $v Diaries. 
+650 #0 $a Authors, French $y 20th century $v Diaries. 
+650 #0 $a World War, 1939 1945 $v Personal narratives, French. 
+650 #0 $a World War, 1939 1945 $z France. 
+LC practice: 
+600 10 $a Sartre, Jean-Paul, $d 1905 1980. 
+650 #0 $a Authors, French $y 20th century. 
+650 #0 $a World War, 1939 1945 $z France. 
+655 #7 $a Diaries. $2 lcgft 
+ 
+Title: American diaries of World War II. 
+650 #0 $a World War, 1939-1945 $v Personal narratives, American. 
+651 #0 $a United States $x Armed Forces $v Diaries. 
+LC practice: 
+386 ## $a Americans $2 lcdgt 
+650 #0 $a World War, 1939-1945. 
+651 #0 $a United States $x Armed Forces. 
+655 #7 $a Diaries. $2 lcgft 
+ 
+Title: God's galloping girl : the Peace River diaries of Monica Storrs, 
+1929-1931. 
+600 10 $a Storrs, Monica, $d 1888-1967 $v Diaries. 
+650 #0 $a Frontier and pioneer life $z Peace River Region (B.C. and Alta.) 
+650 #0 $a Anglicans $z Peace River Region (B.C. and Alta.) $v Diaries. 
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | Diaries H 1538 | Page 6 
+ 
+ 
+650 #0 $a Pioneers $z Peace River Region (B.C. and Alta.) $v Diaries. 
+651 #0 $a Peace River Region (B.C. and Alta.) $v Biography. 
+LC practice: 
+600 10 $a Storrs, Monica, $d 1888-1967. 
+650 #0 $a Frontier and pioneer life $z Peace River Region (B.C. and Alta.) 
+650 #0 $a Anglicans $z Peace River Region (B.C. and Alta.). 
+650 #0 $a Pioneers $z Peace River Region (B.C. and Alta.). 
+651 #0 $a Peace River Region (B.C. and Alta.). 
+655 #7 $a Diaries. $2 lcgft 
+ 
+Title: "I -" : an anthology of diarists. 
+650 #0 $a English diaries. 
+LC practice: 
+650 #0 $a English diaries. 
+655 #7 $a Diaries. $2 lcgft 
+Revision history 
+2026-07: Updated template. Added instructions related to LCGFT implementation. 

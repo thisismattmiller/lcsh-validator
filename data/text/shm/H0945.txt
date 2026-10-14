@@ -1,0 +1,139 @@
+
+
+<<<PAGE 1>>>
+ 
+Germany  H 945 
+ 
+ 
+ 
+Subject Headings Manual 
+H 945 Page 1 
+ 
+June 2013 
+BACKGROUND:  This instruction sheet provides guidelines on the assignment of subject 
+headings for Germany and Berlin. 
+ 
+ 
+ 
+1.  Assignment of headings. 
+ 
+a.  Germany.  The following previously used headings are not valid for use as subject 
+headings:  Germany (Federal Republic, 1949-    ); Germany (Democratic 
+Republic, 1949-    ); Germany, West; Germany, East; Germany, Eastern; 
+Germany (Territory under Allied Occupation, 1945-1955); and headings for the 
+United States, British, French, and Russian occupation zones.  Use the following 
+headings for subject cataloging purposes: 
+ 
+ 
+! Germany 
+ 
+Use for works discussing either (a) the region and the country before or 
+during World War II, (b) the post-war zones of occupation collectively, (c) 
+East and West Germany together during the period 1949-1990, or (d) the 
+reunified Germany since 1990. 
+ 
+ 
+! Germany (East) 
+ 
+Use for works discussing (a) the eastern part of Germany before 1949, (b) 
+the Russian occupation zone, (c) the German Democratic Republic from 
+1949-1990, or (d) the eastern part of the reunified Germany since 1990.  
+When using BGermany (East) as a geographic subdivision, use it directly 
+after topics, not through BGermany. 
+ 
+ 
+! Germany (West)   
+ 
+Use for works discussing (a) the western part of Germany before 1949, (b) 
+the United States, British, and French occupation zones, (c) the German 
+Federal Republic from 1949-1990, or (d) the western part of the reunified 
+Germany since 1990.  When using BGermany (West) as a geographic 
+subdivision, use it directly after topics, not through BGermany. 
+
+
+<<<PAGE 2>>>
+H 945  Germany 
+ 
+ 
+ 
+H 945 Page 2 
+Subject Headings Manual 
+June 2013 
+1.  Assignment of headings. 
+ 
+a.  Germany.  (Continued) 
+ 
+! Germany, Northern; Germany, Southern   
+ 
+Use, without regard to political status or time period, for works discussing 
+these geographic regions of Germany.  As geographic subdivisions, use 
+these headings directly after topics. 
+ 
+Name headings representing agencies, etc., of the occupation, for example, 
+Germany (Territory under Allied Occupation, 1945-1955 : U.S. Zone). Office 
+of Military Government, are also valid for use as subject headings. 
+ 
+ 
+ 
+b.  Berlin.  Assign Berlin (Germany) for works on the city of Berlin as a whole or on 
+East or West Berlin, regardless of the time period covered.  Do not use the name 
+headings Berlin (Germany : East) or Berlin (Germany : West).  Examples: 
+ 
+651 #0 $a Berlin (Germany) $x History $y 1918-1945. 
+651 #0 $a Berlin (Germany) $x Politics and government 
+            $y 1945-1990. 
+ 
+However, use headings as established in the name authority file for corporate bodies 
+located in East or West Berlin.  Examples: 
+ 
+610 10 $a Berlin (Germany : West). $b Abgeordnetenhaus.   
+610 10 $a Berlin (Germany : West). $b Senat. 
+ 
+ 
+ 
+2.  Geographic subdivision.  Geographic subdivision is through BGermany regardless of time 
+period covered, not through BGermany (East) or  BGermany (West).   
+ 
+LC practice: 
+Note:  Individual records in which geographic subdivision occurs through BGermany 
+(East) or BGermany (West) may be corrected as they are being reviewed for other 
+reasons.  Large-scale correction of the bibliographic database is being deferred and 
+may be done as a special project in the future. 
+
+
+<<<PAGE 3>>>
+ 
+Germany  H 945 
+ 
+ 
+ 
+Subject Headings Manual 
+H 945 Page 3 
+ 
+June 2013 
+2.  Geographic subdivision.  (Continued) 
+ 
+The headings Berlin (Germany), Berlin Metropolitan Area (Germany), Berlin Suburban 
+Area (Germany), and Berlin Region (Germany), which were formerly assigned directly after 
+topics, follow standard geographic subdivision practice and are divided through Germany.  
+Examples: 
+ 
+650 #0 $a Education $z Germany $z Berlin. 
+650 #0 $a Commuting $z Germany $z Berlin Metropolitan Area. 
+650 #0 $a Aquatic sports $z Germany $z Berlin Region. 
+ 
+ 
+ 
+3.  GAC practice.  Assign the GAC e-gx for Germany as a whole regardless of time period.  Use 
+e-ge for works limited to the eastern part of Germany before 1949 or after 1990 as well as to 
+works on the German Democratic Republic during the period 1949-1990.  Use e-gw for works 
+limited to the western part of Germany before 1949 or after 1990 as well as to works on the 
+German Federal Republic during the period 1949-1990.  Use e-gx for all other regions, 
+localities, cities, etc., in Germany, including Germany, Northern; Germany, Southern; 
+Prussia (Germany); etc. 
+ 
+ 
+ 
+4.  (Germany) as geographic qualifier.  In place names established as subject headings, such 
+as names of rivers, lakes, etc., use the qualifier (Germany) for all headings.  Subdivide broader 
+term references by BGermany, not by BGermany (East) or BGermany (West). 

@@ -1,0 +1,495 @@
+
+
+<<<PAGE 1>>>
+ 
+General See Also References  H 371 
+ 
+ 
+ 
+Subject Headings Manual 
+H 371 Page 1 
+ 
+February 2018 
+BACKGROUND: A general see also reference is a reference made from a heading not to 
+specific individual headings but to an entire category of headings or subdivisions, frequently 
+listing one or more individual headings or subdivisions by way of example.  In numerous 
+instances, general see also references were made in Library of Congress Subject Headings 
+because it was considered impractical to list as specific narrower term references all individual 
+headings encompassed by a broader heading even though such specific references would have 
+been theoretically logical and proper within a hierarchical reference structure.  These general 
+see also references serve to suggest to the user of the subject headings list the pattern of the 
+headings under which a particular class or group of topics is entered.  For example, it would 
+have been appropriate in theory to construct the following heading and reference structure: 
+ 
+Tools 
+   NT Axes 
+Files and rasps 
+Hammers 
+  
+ 
+ 
+Knives 
+Pliers 
+Saws 
+Screwdrivers 
+Wrenches 
+ 
+For reasons of economy in the printed list, however, listings of individual headings of this type 
+were not normally made in Library of Congress Subject Headings.  Instead, a single general 
+see also reference was made as follows: 
+ 
+Tools 
+  SA individual tools, e.g., Files and rasps; Saws 
+ 
+Such references also serve to alert users of Library of Congress Subject Headings who are 
+unaware of the principle of specificity that they may be searching under a broader term than is 
+proper for the specific topic they seek, and to provide guidance as to the type of heading more 
+appropriate to their search. 
+ 
+The practice of making new references of this type has now largely been abandoned in favor of 
+making a specific reference from a broader heading whenever a new heading is established.  
+Existing general see also references of this type are being retained in the subject authority file 
+until all individual headings that had formerly been covered by the general reference are 
+actually linked to the broader heading by BT/NT references. 
+
+
+<<<PAGE 2>>>
+H 371  General See Also References 
+ 
+ 
+ 
+H 371 Page 2 
+Subject Headings Manual 
+February 2018 
+BACKGROUND:  (Continued) 
+ 
+There are other categories of general see also references that have been made in the past, and 
+that may still be made now.  These include references to subdivisions that are free-floating, as 
+in the following example: 
+ 
+Patents 
+SA subdivision Patents under disciplines and under types of articles patented, 
+e.g., AutomobilesBPatents 
+ 
+Some general see also references also provide information about the use of the subdivision, as 
+illustrated by the following example: 
+ 
+Taxation 
+  SA subdivision Taxation under topical headings for works on the taxes levied 
+on income-producing activities or articles of value, e.g., Construction 
+industryBTaxation; AutomobilesBTaxation; and under classes of 
+persons and ethnic groups 
+  
+Also included are general references to categories or types of name headings, such as: 
+ 
+Church buildings 
+SA names of individual churches 
+ 
+and general references of the type 
+ 
+Kidneys 
+SA headings beginning with the word Renal 
+ 
+Many general see also references combine elements of more than one of these categories, as in 
+the following example: 
+ 
+Exhibitions 
+SA subdivision Exhibitions under names of individual persons and under 
+subjects, e.g., BookbindingBExhibitions; and names of individual 
+exhibitions 
+ 
+This instruction sheet provides guidelines for making general see also references and gives 
+standard wording for various situations.
+
+
+<<<PAGE 3>>>
+ 
+General See Also References  H 371 
+ 
+ 
+ 
+Subject Headings Manual 
+H 371 Page 3 
+ 
+February 2018 
+1.  General rule.  When establishing new headings, provide general see also references to 
+existing headings or free-floating subdivisions, as appropriate, in 360 fields according to the 
+procedures given in H 200, sec. 12.  Follow the procedures in H 195, sec. 4 to add general see 
+also references to existing headings.  
+ 
+2.  General see also references vs. specific references.  Provide specific broader term 
+references in preference to a single general see also reference whenever possible.  Make new 
+general see also references only in the following circumstances: 
+ 
+! To refer from a generic heading to a free-floating subdivision.  Example: 
+ 
+150 ## $a Books $v Reviews 
+360 ## $i subdivision $a Book reviews $i under subjects 
+ 
+Note:  Whenever a formerly non-free-floating subdivision is declared 
+free-floating, cancel all specific broader term references that have been made to 
+the subdivision, and provide instead a general see also reference.  When, for 
+example, the subdivision BAlcohol use was made free-floating under classes of 
+persons and ethnic groups, specific BT references from Alcoholism to the 
+subdivision were cancelled and a single general reference established in their 
+place. 
+ 
+! To refer from a subject heading to a category or type of name heading that is normally 
+not included in the subject authority file.  Example: 
+ 
+150 ## $a Church buildings 
+360 ## $i names of individual churches 
+ 
+! To refer from a generic heading to a group of headings that begin with the same word. 
+ Example: 
+ 
+150 ## $a Science 
+360 ## $i headings beginning with the word $a Scientific 
+ 
+3.  General see also references and free-floating subdivisions.  Although new general see also 
+references are made only when a subdivision is free-floating, many general see also references to 
+subdivisions that are not free-floating were made in the past and remain in the subject authority 
+file.  Therefore, the presence of a general see also reference to a subdivision does not 
+automatically authorize the assignment of that subdivision on a free-floating basis.  Treat 
+subdivisions as free-floating only in accordance with the provisions of H 1095 or other 
+free-floating subdivision lists in H 1100-H 1200. 
+
+
+<<<PAGE 4>>>
+H 371  General See Also References 
+ 
+ 
+ 
+H 371 Page 4 
+Subject Headings Manual 
+February 2018 
+4.  Formulating general see also references.  For the sake of consistency in the subject 
+authority file, use, whenever possible, the following formulations in constructing general see also 
+references: 
+ 
+! References to subject headings: 
+ 
+360 ## $i headings beginning with the word $a [...] 
+ 
+! References to name headings: 
+ 
+360 ## $i names of individual [...] 
+ 
+! References to subdivisions used under subject headings (general): 
+ 
+360 ## $i subdivision $a [...] $i under subjects 
+ 
+! References to subdivisions used under pattern headings (cf. H 1146): 
+ 
+(H 1147) 
+360 ## $i subdivision $a [...] $i under individual animals and 
+            groups of animals, e.g., $a CattleB[...] <or  
+            $a FishesB[...]> 
+ 
+(H 1148) 
+360 ## $i subdivision $a [...] $i under individual art forms 
+            and headings for national or ethnic art, e.g., $a Art, 
+            ItalianB[...]  
+ 
+(H 1149) 
+360 ## $i subdivision $a [...] $i under individual chemicals 
+            and groups of chemicals, e.g., $a CopperB[...] <or  
+            $a InsulinB[...]> 
+ 
+(H 1149.5) 
+360 ## $i subdivision $a [...] $i under names of countries, 
+            cities, etc., e.g., $a Great BritainBColoniesB[...] 
+ 
+(H 1150) 
+360 ## $i subdivision $a [...] $i under individual diseases and 
+            types of diseases, e.g., $a CancerB[...] <or  
+            $a TuberculosisB[...]> 
+ 
+(H 1151) 
+360 ## $i subdivision $a [...] $i under individual educational 
+            institutions, e.g., $a Harvard UniversityB[...] 
+
+
+<<<PAGE 5>>>
+ 
+General See Also References  H 371 
+ 
+ 
+ 
+Subject Headings Manual 
+H 371 Page 5 
+ 
+February 2018 
+4.  Formulating general see also references. 
+ 
+ 
+!  References to subdivisions used under pattern headings:  (Continued)  
+ 
+ 
+ 
+(H 1151.5) 
+360 ## $i subdivision $a [...] $i under types of educational 
+            institutions, e.g., $a Universities and collegesB[...] 
+ 
+ 
+(H 1153) 
+360 ## $i subdivision $a [...] $i under types of industries, 
+            e.g., $a Construction industryB[...] <or $a Retail 
+            tradeB[...]> 
+ 
+ 
+(H 1154) 
+360 ## $i subdivision $a [...] $i under individual languages 
+            and groups of languages, e.g., $a English 
+            languageB[...] <or $a French languageB[...] or  
+            $a Romance languagesB[...]> 
+ 
+ 
+(H 1154.5) 
+360 ## $i subdivision $a [...] $i under individual legal 
+            topics, e.g., $a Labor laws and legislationB[...] 
+ 
+ 
+(H 1155) 
+360 ## $i subdivision $a [...] $i under names of individual 
+            legislative bodies, e.g., $a United States.  
+            CongressB[...] 
+ 
+ 
+(H 1155.2) 
+360 ## $i subdivision $a [...] $i under groups of literary 
+            authors, e.g., $a Authors, EnglishB[...] 
+ 
+ 
+(H 1155.6) 
+360 ## $i subdivision $a [...] $i under individual literary 
+            works entered under author, e.g., $a Shakespeare, 
+            William, 1564-1616.  HamletB[...] 
+
+
+<<<PAGE 6>>>
+H 371  General See Also References 
+ 
+ 
+ 
+H 371 Page 6 
+Subject Headings Manual 
+February 2018 
+4.  Formulating general see also references. 
+ 
+ 
+!  References to subdivisions used under pattern headings:  (Continued)  
+ 
+ 
+ 
+(H 1155.8) 
+360 ## $i subdivision $a [...] $i under individual literary 
+            works entered under title, e.g., $a BeowulfB[...] 
+ 
+(H 1156) 
+360 ## $i subdivision $a [...] $i under individual literatures, 
+            e.g., $a English literatureB[...] 
+ 
+(H 1158) 
+360 ## $i subdivision $a [...] $i under individual materials 
+ and types of materials, e.g., $a ConcreteB[...] <or  
+            $a MetalsB[...]> 
+ 
+(H 1159) 
+360 ## $i subdivision $a [...] $i under military services, e.g., 
+            $a United StatesBArmed ForcesB[...] <or $a United 
+            States.  Air ForceB[...] or $a United States.  
+            ArmyB[...] or $a United States.  Marine CorpsB[...] 
+            or $a United States.  NavyB[...]> 
+ 
+(H 1160) 
+360 ## $i subdivision $a [...] $i under forms and types of 
+            musical compositions, e.g., $a OperasB[...] 
+ 
+(H 1161) 
+360 ## $i subdivision $a [...] $i under individual musical 
+            instruments and families of instruments, e.g.,  
+            $a PianoB[...] 
+ 
+(H 1164) 
+360 ## $i subdivision $a [...] $i under individual organs and 
+            regions of the body, e.g., $a FootB[...] <or  
+            $a HeartB[...]> 
+ 
+(H 1180) 
+360 ## $i subdivision $a [...] $i under individual plants and 
+            groups of plants, e.g., $a CornB[...] 
+ 
+(H 1185) 
+360 ## $i subdivision $a [...] $i under individual religions, 
+            e.g., $a BuddhismB[...] 
+
+
+<<<PAGE 7>>>
+ 
+General See Also References  H 371 
+ 
+ 
+ 
+Subject Headings Manual 
+H 371 Page 7 
+ 
+February 2018 
+4.  Formulating general see also references. 
+ 
+ 
+!  References to subdivisions used under pattern headings:  (Continued)  
+ 
+ 
+ 
+(H 1186) 
+360 ## $i subdivision $a [...] $i under names of individual 
+            religious and monastic orders, e.g., $a JesuitsB[...] 
+ 
+(H 1187) 
+360 ## $i subdivision $a [...] $i under individual Christian 
+            denominations, e.g., $a Catholic ChurchB[...] 
+ 
+(H 1188) 
+360 ## $i subdivision $a [...] $i under uniform titles of 
+            sacred works, e.g., $a BibleB[...] 
+ 
+(H 1195) 
+360 ## $i subdivision $a [...] $i under individual land 
+            vehicles and types of land vehicles, e.g., 
+            $a AutomobilesB[...] 
+ 
+(H 1200) 
+360 ## $i subdivision $a [...] $i under individual wars, e.g.,  
+            $a United StatesBHistoryBCivil War, 1861-1865B[...] 
+            <or $a World War, 1939-1945B[...]> 
+ 
+ 
+!  References to subdivisions used under name headings: 
+ 
+ 
+360 ## $i subdivision $a [...] $i under names of individual 
+            [...] 
+ 
+ 
+!  References to subdivisions used under place names: 
+ 
+ 
+360 ## $i subdivision $a [...] $i under names of countries, 
+            cities, etc. 
+[for subdivisions used under any place name] 
+ 
+ 
+360 ## $i subdivision $a [...] $i under names of countries, 
+            etc. 
+[for subdivisions used only under places larger than cities] 
+
+
+<<<PAGE 8>>>
+H 371  General See Also References 
+ 
+ 
+ 
+H 371 Page 8 
+Subject Headings Manual 
+February 2018 
+ 
+No example  
+ 
+needed for clarity 
+4.  Formulating general see also references. 
+ 
+ 
+!  References to subdivisions used under place names:  (Continued) 
+ 
+ 
+ 
+ 
+360 ## $i subdivision $a [...] $i under names of cities 
+[for subdivisions used only under cities] 
+ 
+ 
+If several of these elements are incorporated into a single reference, use the following order in 
+constructing the reference: 
+ 
+ 
+360 ## $i subdivision $a [...] $i under [type of place name]; 
+            also subdivision $a [...] $i under names of [category 
+            of name headings] or subjects [or individual wars, 
+            animals, etc.]; also headings beginning with the word 
+            $a [...]; $i and names of individual [category of name 
+            headings] 
+ 
+ 
+Note that each clause begins with the word also except for the final clause which begins with the 
+word and.  Each clause is separated from the following clause by a semicolon.  This 
+phraseology should serve as the pattern for the most common situations in which general see also 
+references are required; slight modifications may be required for especially complex or unusual 
+situations. 
+ 
+ 
+ 
+5.  Providing examples in the reference. 
+ 
+a.  Examples provided for clarity.  Past practice, reflected in the subject authority file, 
+was to provide examples routinely to illustrate nearly all general references.  This 
+practice is no longer followed.  Instead, provide examples in the reference only if they 
+are required for clarity.  Examples: 
+ 
+150 ## $a Time management 
+360 ## $i subdivision $a Time management $i under classes 
+            of persons and ethnic groups 
+ 
+
+
+<<<PAGE 9>>>
+ 
+General See Also References  H 371 
+ 
+ 
+ 
+Subject Headings Manual 
+H 371 Page 9 
+ 
+February 2018 
+        Examples required    
+            for claity 
+5.  Providing examples in the reference. 
+ 
+a.  Examples provided for clarity.  (Continued) 
+ 
+150 ## $a Pamphlets 
+360 ## $i subdivision $a Pamphlets $i under 16th, 17th and 
+            18th century period subdivisions of European and 
+            American history and under individual wars for 
+            short, separately published, usually polemical 
+            essays or treatises regarding controversial 
+            issues of contemporary interest, especially 
+            political or religious matters, e.g., $a 
+            GermanyBHistoryB1517-1648BPamphlets; United 
+            StatesBHistoryBCivil War, 1861-1865BPamphlets 
+ 
+b.  Examples of subdivisions under place names.  Do not provide an example 
+illustrating the use of a subdivision under the name of a place, since such usage is 
+self-evident.  Example: 
+ 
+150 ## $a Gold mines and mining 
+360 ## $i subdivision $a Gold discoveries $i under names of 
+            countries, etc. 
+ 
+  [not 150 ## $a Gold mines and mining 
+360 ## $i subdivision $a Gold discoveries $i under names of 
+            countries, etc., e.g., United StatesBGold 
+            discoveries] 
+ 
+c.  Name headings as examples.  Avoid, whenever possible, using name headings as 
+examples, especially name headings that are not already included in the subject authority 
+file. 
+ 
+Exception: If the name heading also serves as a pattern subject heading and is 
+already included in the subject authority file, it may be freely cited as an example. 
+ 
+d.  Pattern headings as examples.  When providing examples to illustrate a general 
+reference, choose a pattern heading if the category being illustrated is controlled by a 
+pattern heading.  Be more generous in providing examples to illustrate the use of a 
+subdivision if it can be illustrated by citing a pattern heading.   

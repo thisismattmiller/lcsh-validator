@@ -1,0 +1,331 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Dictionaries H1540 | Page 1 
+ 
+ 
+Dictionaries 
+H 1540 
+A. Background ................................................................................................................................. 1 
+B. Recent revisions .......................................................................................................................... 2 
+C. Definitions ................................................................................................................................... 2 
+D. Language dictionaries ................................................................................................................. 3 
+D.1. Dictionaries in one language................................................................................................ 3 
+D.2. Dictionaries in two languages .............................................................................................. 3 
+D.3. Polyglot dictionaries ............................................................................................................ 4 
+D.4. Lexicography ........................................................................................................................ 4 
+E. Subject dictionaries ..................................................................................................................... 4 
+E.1. Dictionaries in one language ................................................................................................ 5 
+E.2. Dictionaries in two languages .............................................................................................. 6 
+E.3. Polyglot dictionaries ............................................................................................................. 7 
+E.4. Lexicography ......................................................................................................................... 8 
+F. Juvenile dictionaries .................................................................................................................... 8 
+G. Picture dictionaries ..................................................................................................................... 9 
+Revision history ............................................................................................................................... 9 
+A. Background 
+Although the free-floating form subdivision *--Dictionaries* is the standard subdivision for the 
+concept of dictionaries, the following subdivisions are used to designate special categories of 
+dictionaries or dictionary-like materials: 
+• --Concordances 
+• --Dictionaries, Juvenile 
+• --Directories 
+• --Encyclopedias 
+• --Encyclopedias, Juvenile 
+• --Gazetteers 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Dictionaries H1540 | Page 2 
+ 
+ 
+• --Glossaries, vocabularies, etc. 
+• --Language--Glossaries, etc. 
+• --Nomenclature 
+• --Registers 
+• --Terminology 
+• --Terms and phrases 
+Except as noted in the procedures below, the provisions of this instruction sheet are generally 
+applicable only to the subdivision *–Dictionaries*, not to the special subdivisions listed above. 
+Instructions on the use of some of these subdivisions appear in other instruction sheets. For 
+guidelines on *--Concordances*, see H 1670, sec. 3.f. For guidelines on *--Directories* and *--
+Registers*, see H 1558. For guidelines on *--Gazetteers*, see H 1630. For guidelines on *--
+Glossaries, vocabularies, etc.*, *--Terminology*, and *--Terms and phrases*, see H 2184. For 
+guidelines on dictionaries of acronyms, see H 1206.5. Use of the subdivision *--Dictionaries and 
+encyclopedias* under names of places and ethnic groups was discontinued in 1990. Use of the 
+subdivision *--Dictionaries, indexes, etc.* under names of individual persons and literary 
+authors was discontinued in 1991. 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Dictionaries*. To replace a form subdivision that includes a demographic group, also assign 
+Library of Congress Demographic Groups Terms (LCDGT) to bring out the audience of the 
+resource being cataloged, e.g. *German speakers* or *Arabic, Students of*. 
+B. Recent revisions 
+2026-03: Updated template. Added instructions related to LCGFT implementation. 
+C. Definitions 
+Dictionaries: 1: a reference source in print or electronic form containing words usually 
+alphabetically arranged along with information about their forms, pronunciations, functions, 
+etymologies, meanings, and syntactic and idiomatic uses; 2: a reference book listing 
+alphabetically terms or names important to a particular subject or activity along with discussion 
+of their meanings and applications; 3: a reference book listing alphabetically the words of one 
+language and showing their meanings or translations in another language0F1 
+ 
+1 DICTIONARY Definition & Meaning - Merriam-Webster 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Dictionaries H1540 | Page 3 
+ 
+ 
+D. Language dictionaries 
+Use the subdivision *--Dictionaries* as a form subdivision under names of languages for 
+comprehensive, alphabetical lists of words in those languages, usually with definitions. 
+For incomplete lists of the words of a language which may or may not be alphabetically 
+arranged, with or without definitions, use the subdivision *--Glossaries, vocabularies, etc.*, 
+under the name of the language. For lists of expressions, phrases, etc., found in a particular 
+language use the subdivision *--Terms and phrases* under the name of the language. 
+LC practice: Assign a subject heading to bring out the topic. If the dictionary is general in nature, 
+do not assign any subject headings to express a topic. Assign LCGFT appropriate to the form 
+and/or genre of the resource in hand, e.g. LCGFT *Dictionaries*. 
+D.1. Dictionaries in one language 
+Assign the heading *[name of language]--Dictionaries*, for example, *Spanish language--
+Dictionaries*. 
+LC practice: Assign a subject heading for the language or dialect, for example, *Spanish 
+language*. Assign LCGFT appropriate to the form and/or genre of the resource in hand, e.g. 
+LCGFT *Dictionaries*. 
+D.2. Dictionaries in two languages 
+If a dictionary gives the terms of one language in terms of another, assign the heading *[name 
+of first language]--Dictionaries--[name of second language]*, for example, *German language-
+-Dictionaries--English*. If the second language is also given in terms of the first, assign an 
+additional heading with the languages reversed, for example, *English language--Dictionaries--
+German*. 
+Omit the word language or dialect in formulating the subdivision following *--Dictionaries*, for 
+example, *English language--Dictionaries--German* [not *English language--Dictionaries--
+German language*]; *English language--Dictionaries--Cajun French* [not *English language--
+Dictionaries--Cajun French dialect*]. 
+If the heading for the dialect that is represented by the topical subdivision following *--
+Dictionaries* is established in inverted order, formulate the subdivision by using the name of 
+the dialect in natural-language order and omitting the word dialects, for example, *English 
+language--Dictionaries--French Creole* [not *English language--Dictionaries--Creole dialects, 
+French* or *English language--Dictionaries--Creole, French*]. 
+Do not assign a geographic subdivision after the subdivision *–Dictionaries* or *--Dictionaries--
+[name of second language]*. 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Dictionaries H1540 | Page 4 
+ 
+ 
+LC practice: Assign subject headings for the languages or dialects, for example, *English 
+language* and *Spanish language*. Assign LCGFT appropriate to the form and/or genre of the 
+resource in hand, e.g. LCGFT *Multilingual dictionaries*. 
+D.3. Polyglot dictionaries 
+If a dictionary gives the equivalent terms for one language in several other languages, assign 
+the heading *[name of language]--Dictionaries--Polyglot*. If each language is given in terms of 
+the others, assign only the heading *Dictionaries, Polyglot*. 
+LC practice: Assign the subject headings for the languages. If there are more than three 
+languages of translation, assign the primary language and optionally assign subject headings for 
+the other languages. Assign LCGFT appropriate to the form and/or genre of the resource in 
+hand, e.g. LCGFT *Multilingual dictionaries*. 
+D.4. Lexicography 
+For works about language dictionaries, use the free-floating topical subdivision *--
+Lexicography* under names of languages. 
+E. Subject dictionaries 
+Use the subdivision *--Dictionaries* as a form subdivision under subjects for works consisting 
+of comprehensive, alphabetical lists of terms pertaining to those subjects, usually with 
+definitions. 
+Use the subdivision *--Dictionaries* as a form subdivision under personal names for lists of 
+terms related to an individual. For lists of terms used in the speech or writings of a person, use 
+the subdivision *--Language--Glossaries, etc.* under the name of the person. 
+For incomplete lists of the terms associated with a particular subject, or for comprehensive lists 
+of such terms that are not arranged alphabetically, use the form subdivision *--Terminology* 
+under the subject. For guidelines on Terms and phrases, see H 2184. 
+For works consisting of explanatory articles arranged alphabetically or topically, use the form 
+subdivision *--Encyclopedias* under the subject. For encyclopedias intended for children up 
+through age 15 or 9th grade, use the subdivision *--Encyclopedias, Juvenile* under the subject. 
+LC practice: Assign a subject heading to bring out the topic. Assign LCGFT appropriate to the 
+form and/or genre of the resource in hand, e.g. LCGFT *Dictionaries*. Assign the LCDGT 
+appropriate to the audience, e.g. LCDGT *Children* or *Flight attendants*. 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Dictionaries H1540 | Page 5 
+ 
+ 
+E.1. Dictionaries in one language 
+Assign the heading *[topic]--[place, if appropriate]--Dictionaries--[name of language]* except 
+when the language is English. For English assign the heading *[topic]--Dictionaries*, without 
+indicating language. 
+LC practice: Assign a subject heading to bring out the topic. Assign a separate subject heading 
+for the language, if other than English. Assign LCGFT appropriate to the form and/or genre of 
+the resource in hand, e.g. LCGFT *Dictionaries*. 
+Examples: 
+650 #0 $a Chemistry $v Dictionaries $x French. 
+LC practice: 
+650 #0 $a Chemistry. 
+650 #0 $a French language. 
+655 ## $a Dictionaries. $2 lcgft 
+ 
+650 #0 $a Science $v Dictionaries. 
+ [not 650 #0 $a Science $v Dictionaries $x English.] 
+LC practice: 
+650 #0 $a Science. 
+655 ## $a Dictionaries. $2 lcgft 
+ 
+650 #0 $a Law $z United States $v Dictionaries. 
+ [not 650 #0 $a Law $z United States $v Dictionaries $x English.] 
+LC practice: 
+650 #0 $a Law $z United States. 
+655 ## $a Dictionaries. $2 lcgft 
+ 
+650 #0 $a Theater $z France $v Dictionaries $x French. 
+LC practice: 
+650 #0 $a Theater $z France. 
+650 #0 $a French language. 
+655 ## $a Dictionaries. $2 lcgft 
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | Dictionaries H1540 | Page 6 
+ 
+ 
+E.2. Dictionaries in two languages 
+If a subject dictionary gives the terms of one language in terms of another language, assign two 
+headings: 
+1. *[topic]--[place, if appropriate—Dictionaries--[first language]* 
+2. *[first language] --Dictionaries--[second language]* 
+If the second language is also given in terms of the first language, assign two additional 
+headings: 
+3. *[topic]--[place, if appropriate]--Dictionaries--[second language]* 
+4. *[second language]--Dictionaries--[first language]* 
+Do not use the subdivision *--English* after *[topic]--Dictionaries*. 
+LC practice: Do not use the form subdivision. See the LC practice above. 
+Examples: 
+Title: English-Persian dictionary of legal terms. 
+650 #0 $a Law $v Dictionaries. 
+650 #0 $a English language $v Dictionaries $x Persian. 
+LC practice: 
+650 #0 $a Law. 
+650 #0 $a Persian language. 
+655 ## $a Multilingual dictionaries. $2 lcgft 
+ 
+Title: Albanian-English military dictionary. 
+650 #0 $a Military art and science $v Dictionaries $x Albanian. 
+650 #0 $a Albanian language $v Dictionaries $x English. 
+LC practice: 
+650 #0 $a Military art and science. 
+650 #0 $a Albanian language. 
+655 ## $a Multilingual dictionaries. $2 lcgft 
+ 
+Title: Langenscheidts's dictionary of ecology : English-German/German-
+English. 
+650 #0 $a Ecology $v Dictionaries. 
+650 #0 $a English language $v Dictionaries $x German. 
+650 #0 $a Ecology $v Dictionaries $x German. 
+
+
+<<<PAGE 7>>>
+Subject Headings Manual | Dictionaries H1540 | Page 7 
+ 
+ 
+650 #0 $a German language $v Dictionaries $x English. 
+LC practice: 
+650 #0 $a Ecology. 
+650 #0 $a German language. 
+655 ## $a Multilingual dictionaries. $2 lcgft 
+E.3. Polyglot dictionaries 
+Several arrangements are possible for works in multiple languages. Assign headings as shown 
+below, following the pattern that most closely corresponds to the situation in the work being 
+cataloged. Do not use the subdivision *--English* after *[topic]--Dictionaries*. 
+LC practice: Do not use the form subdivision. See the LC practice above. 
+Models: 
+One language into two languages: 
+650 #0 $a [topic] $v Dictionaries $x [first language]. 
+650 #0 $a [first language] $v Dictionaries $x [second language]. 
+650 #0 $a [first language] $v Dictionaries $x [third language]. 
+LC practice: 
+650 #0 $a [topic]. 
+650 #0 $a [first language]. 
+650 #0 $a [second language]. 
+650 #0 $a [third language]. 
+655 ## $a Multilingual dictionaries. $2 lcgft 
+ 
+One language into several languages: 
+650 #0 $a [topic] $v Dictionaries $x [first language]. 
+650 #0 $a [first language] $v Dictionaries $x Polyglot. 
+LC practice: 
+650 #0 $a [topic]. 
+650 #0 $a [first language]. 
+650 #0 $a [other languages, up to three and optionally more]. 
+655 ## $a Multilingual dictionaries. $2 lcgft 
+ 
+Two languages into one language: 
+650 #0 $a [topic] $v Dictionaries $x [first language]. 
+
+
+<<<PAGE 8>>>
+Subject Headings Manual | Dictionaries H1540 | Page 8 
+ 
+ 
+650 #0 $a [topic] $v Dictionaries $x [second language]. 
+650 #0 $a [first language] $v Dictionaries $x [third language]. 
+650 #0 $a [second language] $v Dictionaries $x [third language]. 
+LC practice: 
+650 #0 $a [topic]. 
+650 #0 $a [first language]. 
+650 #0 $a [second language]. 
+650 #0 $a [third language]. 
+655 ## $a Multilingual dictionaries. $2 lcgft 
+ 
+Several languages into one language: 
+650 #0 $a [topic] $v Dictionaries $x Polyglot. 
+650 #0 $a Dictionaries, Polyglot. 
+LC practice: 
+650 #0 $a [topic]. 
+650 #0 $a [first language]. 
+650 #0 $a [other languages, up to three and optionally more]. 
+655 ## $a Multilingual dictionaries. $2 lcgft 
+ 
+Several languages into each other language: 
+650 #0 $a [topic] $v Dictionaries $x Polyglot. 
+650 #0 $a Dictionaries, Polyglot. 
+LC practice: 
+650 #0 $a [topic]. 
+650 #0 $a [first language listed]. 
+650 #0 $a [other languages, up to three and optionally more]. 
+655 ## $a Multilingual dictionaries. $2 lcgft 
+E.4. Lexicography 
+For works about dictionaries in a particular subject, establish the topical subdivision *--
+Lexicography* under the subject, for example, *Science--Lexicography*. 
+F. Juvenile dictionaries 
+Use the free-floating form subdivision *--Dictionaries, Juvenile* under names of languages or 
+topical headings for dictionaries intended for children up through age 15 or 9th grade. 
+
+
+<<<PAGE 9>>>
+Subject Headings Manual | Dictionaries H1540 | Page 9 
+ 
+ 
+Do not further subdivide *--Dictionaries, Juvenile* by names of languages when used under 
+topical headings. If it is necessary to bring out the language of a juvenile topical dictionary, do 
+so by assigning an additional heading. 
+For language dictionaries, further divide *--Dictionaries, Juvenile* by names of languages, in 
+accordance with the guidelines in sec. D, above, for example, *French language--Dictionaries, 
+Juvenile--English*. 
+LC practice: Do not use the form subdivision. See the LC practice above. Assign the LCDGT 
+appropriate to the audience, e.g. LCDGT *Children* and/or *Teenagers*. 
+G. Picture dictionaries 
+Use the heading *Picture dictionaries, [name of language]* for general picture dictionaries. If 
+the dictionary is limited to a particular topic, also assign the appropriate heading for subject 
+dictionaries. 
+LC practice: Do not use the form subdivision. See the LC practice above. Assign LCGFT 
+appropriate to the form and/or genre of the resource in hand, e.g. LCGFT *Picture 
+dictionaries*. 
+Example: 
+650 #0 $a Theater $v Dictionaries. 
+650 #0 $a Picture dictionaries, English. 
+LC practice: 
+650 #0 $a Theater. 
+650 #0 $a English language. 
+655 ## $a Picture dictionaries. $2 lcgft 
+Revision history 
+2026-03: Updated template. Added instructions related to LCGFT implementation. 

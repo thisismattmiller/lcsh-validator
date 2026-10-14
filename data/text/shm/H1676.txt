@@ -1,0 +1,48 @@
+
+
+<<<PAGE 1>>>
+ 
+Inquisition  H 1676 
+ 
+Subject Headings Manual 
+H 1676 Page 1 
+ 
+September 2013 
+odern church to 
+Inquisition and 
+ headings under AACR1.  Under 
+AACR2 the name headings were replaced by the topical subject heading Inquisition (May Subd 
+Geog).  This instruction sheet provides guidelines for assigning this heading. 
+ 
+ 
+n any aspect of 
+ 
+ 
+ns of the type 
+ 
+3.  Assigning a
+ings if appropriate to bring out 
+important aspec
+t in a trial, other topical headings, 
+etc.  Example: 
+ 
+Title:  The Inquisition in the Canary Islands. 
+650 #0 $a Inquisition $z Canary Islands.  
+ 
+651 #0 $a Canary Islands $x Church history. 
+ 
+ 
+ 
+BACKGROUND:  The Inquisition was an effort by the medieval and early m
+seek out and punish heretics through a special court.   The headings 
+Inquisition.  [place] were established as corporate body name
+ 
+ 
+1.  General rule.  Assign the heading Inquisition (May Subd Geog) to works o
+the Inquisition. 
+2.  BHistory not used.  Do not use the subdivision BHistory or subdivisio
+BHistoryB[. . .] century, or establish period subdivisions under this subject. 
+ 
+dditional headings.  Assign additional head
+ 
+ts of the work, such as the name of a defendan

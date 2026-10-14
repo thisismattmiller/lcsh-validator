@@ -1,0 +1,121 @@
+
+
+<<<PAGE 1>>>
+ 
+Pattern Headings: Legislative Bodies  H 1155 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1155 Page 1 
+ 
+June 2013 
+PATTERN:  United States.  Congress 
+ 
+ 
+TYPES OF HEADINGS COVERED BY THE PATTERN:  Names of individual legislative 
+bodies, including their individual chambers, established as corporate bodies in the name 
+authority file.  Examples:  Great Britain.  Parliament; California.  Legislature.  
+Assembly; Germany (West).  Bundestag; Germany.  Reichstag.  The category does not 
+include the heading Legislative bodies. 
+ 
+ 
+RELATION TO H 1105:  Subdivisions on the list of free-floating subdivisions used under 
+names of individual corporate bodies, H 1105, are also free-floating under individual legislative 
+bodies where there is no conflict.  This list contains additional subdivisions appropriate for 
+legislative bodies. 
+ 
+ 
+CONFLICTS:  Any subdivision listed here can be used as a free-floating subdivision under any 
+heading belonging to the category if it is appropriate and no conflict exists in the subject 
+authority file.  Subject authority records may exist for headings employing variant phrases or 
+subdivisions equivalent to subdivisions on this list. 
+ 
+LC practice: 
+If an exceptional variant form is to be retained, make a UF reference from the equivalent 
+free-floating subdivision form following the procedures in H 195 if the reference does not yet 
+exist.  Otherwise, submit a proposal to change the variant form along with all bibliographic 
+records requiring correction following the procedures in H 193. 
+ 
+Note:  Most form subdivisions coded $v in this list may also be used as topical 
+subdivisions coded $x when assigned to works about the form (see H 1075, sec. 1.d.). 
+ 
+$x Alabama [Illinois, Texas, etc.] delegation 
+$x Appropriations and expenditures 
+$x Caucuses 
+$x Censures 
+$x Cloture1 
+$x Committees 
+$x Committees $v Indexes 
+$x Committees $v Rules and practice 
+$x Committees $x Seniority system 
+
+
+<<<PAGE 2>>>
+H 1155  Pattern Headings: Legislative Bodies 
+ 
+ 
+ 
+H 1155 Page 2 
+Subject Headings Manual 
+June 2013 
+$x Conference committees 
+$x Constituent communication 
+$x Contested elections 
+$x Deputy speakers2, 4 
+$x Dissolution2 
+$x Election districts 
+$x Elections 
+$x Elections, [date]3 
+$x Ethics 
+$x Expulsion 
+$x Facilities 
+$x Food service 
+$x Freedom of debate 
+$x Leadership 
+$x Majority leaders1, 4 
+$x Majority whips1, 4 
+$x Minority leaders1, 4 
+$x Minority whips1, 4 
+$x Officials and employees4 
+$x Officials and employees $x Pensions 
+$x Officials and employees $x Salaries, etc. 
+$x Pensions 
+$x Powers and duties 
+$x Presiding officers1, 4 
+$v Private bills 
+$x Privileges and immunities 
+$x Publication of proceedings 
+$x Qualifications 
+$x Radio broadcasting of proceedings 
+$x Reform 
+$x Reporters and reporting 
+$v Resolutions 
+$x Salaries, etc. 
+$x Speakers4, 5 
+$x Television broadcasting of proceedings 
+$x Term of office 
+$x Transition periods 
+$x Voting 
+
+
+<<<PAGE 3>>>
+ 
+Pattern Headings: Legislative Bodies  H 1155 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1155 Page 3 
+ 
+June 2013 
+ 
+NOTES 
+1Established under United States.  Congress.  Senate.  May be used under names of other legislative bodies 
+where appropriate. 
+2Not established under United States.  Congress.  May be used under names of other legislative bodies where 
+appropriate. 
+3See H 1078 for instructions on dates in subdivisions for specific events. 
+4See H 1100 for further subdivisions used under classes of persons. 
+5Established under United States.  Congress.  House.  May be used under names of other legislative bodies 
+where appropriate. 

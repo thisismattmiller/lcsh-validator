@@ -1,0 +1,56 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Maps and Atlases H 1865 | Page 1 
+ 
+ 
+Maps and Atlases 
+H 1865 
+A. Background ................................................................................................................................. 1 
+B. Recent revisions .......................................................................................................................... 1 
+C. General rule ................................................................................................................................ 1 
+G. Incidental maps .......................................................................................................................... 2 
+Revision history ............................................................................................................................... 2 
+A. Background 
+Map headings are assigned not only to maps and atlases, but also to works about maps and 
+atlases, and to works with both textual and cartographic content in which the cartographic 
+content is secondary, serving mainly to support, illustrate, or explain the textual content. This 
+instruction sheet discusses the assignment of headings to works of this latter type in order to 
+bring out their cartographic content. For instructions on providing subject access to maps 
+themselves, see the Map Cataloging Manual. 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Textbooks*. To replace a form subdivision that includes a demographic group, also assign 
+Library of Congress Demographic Groups Terms (LCDGT) to bring out the audience of the 
+resource being cataloged, e.g. *German speakers* or *Arabic, Students of*. 
+For guidelines on assigning LCGFT, see the LCGFT Manual J 215 Cartographic Materials.  
+B. Recent revisions  
+2026-01: Updated template. Added instructions related to LCGFT implementation. 
+C. General rule 
+Assign the appropriate map heading(s) if at least 20% of the text of a work consists of maps, or 
+discusses maps, even though the primary emphasis of the work is on the textual content.  
+Example 
+650 #0 $a Aeronautical charts. 
+650 #0 $a City planning $z Washington (State) $z Seattle $v Maps. 
+LC practice: 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Maps and Atlases H 1865 | Page 2 
+ 
+ 
+650 #0 $a Aeronautical charts. 
+650 #0 $a City planning $z Washington (State) $z Seattle. 
+655 #7 $a Aeronautical charts. $2 lcgft 
+Example 
+651 #0 $a Washington (D.C.) $v Maps. 
+LC practice: 
+651 #0 $a Washington (D.C.) 
+655 #7 $a Maps. $2 lcgft 
+Assign the heading(s) specified above in addition to the headings that are assigned to designate 
+the textual content of the work.  
+G. Incidental maps 
+Do not bring out the presence of maps in the text if the maps in question are of an incidental or 
+routine nature. 
+Revision history 
+2026-01: Updated template. Added instructions related to LCGFT implementation. 

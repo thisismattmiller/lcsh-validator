@@ -1,0 +1,403 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Genealogy and Family Names H 1631 | Page 1 
+ 
+ 
+Genealogy and Family Names 
+H 1631 
+A. Background ................................................................................................................................. 1 
+B. Recent revisions .......................................................................................................................... 2 
+C. Definitions ................................................................................................................................... 2 
+D. The heading Genealogy .............................................................................................................. 2 
+E. The subdivision --Genealogy ....................................................................................................... 2 
+E.1. General ................................................................................................................................. 2 
+E.2. Additional headings .............................................................................................................. 4 
+E.3. Methodology ........................................................................................................................ 5 
+F. Headings for family names .......................................................................................................... 5 
+F.1. General rule .......................................................................................................................... 5 
+F.2. Works that discuss more than one family ............................................................................ 6 
+F.3. Location of the family ........................................................................................................... 6 
+F.4. Progenitors and individual family members ........................................................................ 7 
+G. Geographic Area codes ............................................................................................................... 7 
+H. Extended examples .................................................................................................................... 8 
+I. Subdivisions used under individual family names ..................................................................... 11 
+Revision history ............................................................................................................................. 11 
+A. Background 
+Genealogy is the study of family history and the accounts and records of the ancestry and 
+descent of persons, families, groups, etc. This instruction sheet provides guidelines for 
+cataloging genealogy materials, including works on individual families. For instructions on 
+cataloging local history and genealogical source materials, see H 1845. For instructions on how 
+to establish family names for genealogical resources, see H 1631.5. For instructions on 
+establishing names of noble families, royal houses, dynasties, etc., see H 1574. For classification 
+of genealogical materials, see F 600. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Genealogy and Family Names H 1631 | Page 2 
+ 
+ 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Family histories*. For guidelines on bio-bibliography, see H 1328. For guidelines on biography, 
+see H 1330. For guidelines on diaries, see H 1538. For guidelines on interviews, see H 1678. For 
+guidelines on personal narratives of wars or disasters, see H 1928. 
+B. Recent revisions 
+2026-04: Updated template. Added instructions related to LCGFT implementation. 
+C. Definitions 
+Genealogy: the study of ancestry, not limited to a particular place, including works on methods 
+of locating and using various types of documents in order to create a family tree or write a 
+family history. 
+D. The heading Genealogy 
+Assign the heading *Genealogy* to general works on the study of ancestry not limited to a 
+particular place, including works on methods of locating and using various types of documents 
+in order to create a family tree or write a family history. 
+Do not subdivide this heading by *--Handbooks, manuals, etc.*, *--History*, *--Methodology*, 
+*--Research*, or *--Sources*. 
+E. The subdivision --Genealogy 
+E.1. General 
+Assign the free-floating form subdivision *--Genealogy* under names of places, individual 
+corporate bodies, classes of persons, and ethnic groups to works that contain collections of 
+family records and/or histories of families from the place or belonging to the organization, class 
+of persons, or ethnic group. 
+Do not subdivide headings of this type by *--History* or by *--Sources*. 
+LC practice: Assign names of places, individual corporate bodies, classes of persons, and ethnic 
+groups to works that contain collections of family records and/or histories of families from the 
+place or belonging to the organization, class of persons, or ethnic group. Assign LCGFT 
+appropriate to the form and/or genre of the resource in hand, e.g. LCGFT *Family histories* or 
+*Genealogical tables*. 
+Examples: 
+650 #0 $a African Americans $v Genealogy. 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Genealogy and Family Names H 1631 | Page 3 
+ 
+ 
+LC practice: 
+650 #0 $a African Americans. 
+655 #7 $a Genealogical tables. $2 lcgft 
+655 #7 $a Family histories. $2 lcgft 
+ 
+651 #0 $a California $v Genealogy. 
+LC practice: 
+651 #0 $a California. 
+655 #7 $a Family histories. $2 lcgft 
+ 
+651 #0 $a France $v Genealogy. 
+LC practice: 
+651 #0 $a France. 
+655 #7 $a Genealogical tables. $2 lcgft 
+ 
+650 #0 $a Mexican Americans $z Texas $v Genealogy. 
+LC practice: 
+650 #0 $a Mexican Americans $z Texas. 
+655 #7 $a Genealogical tables. $2 lcgft 
+ 
+650 #0 $a Kings and rulers $v Genealogy. 
+LC practice: 
+650 #0 $a Kings and rulers. 
+655 #7 $a Genealogical tables. $2 lcgft 
+655 #7 $a Family histories. $2 lcgft 
+ 
+651 #0 $a London (England) $v Genealogy. 
+LC practice: 
+651 #0 $a London (England) 
+655 #7 $a Genealogical tables. $2 lcgft 
+ 
+610 20 $a United Empire Loyalists $v Genealogy. 
+LC practice: 
+610 20 $a United Empire Loyalists. 
+655 #7 $a Genealogical tables. $2 lcgft 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Genealogy and Family Names H 1631 | Page 4 
+ 
+ 
+655 #7 $a Family histories. $2 lcgft 
+E.2. Additional headings 
+Assign an array of headings to bring out place, ethnic group, class of persons, types of 
+documents, etc. If the work includes names with birth and/or death dates, assign also 
+*Registers of births, etc.--[place]*. If the work includes more specific types of documents, 
+assign specific headings, for example, *Marriage records*; *Death notices*; *Baptismal 
+records*. 
+LC practice: Assign an array of headings to bring out place, ethnic group, class of persons, etc. 
+that is the focus of the resource. For guidelines on recording the year of the census, if that is 
+the source of the data, see H 1366. Assign LCGFT appropriate to the form and/or genre of the 
+resource in hand, including the types of documents, e.g. LCGFT *Vital statistics* or *Death 
+registers*. 
+Example: 
+Title: 1850 census of Tazewell County, Virginia, transcribed and 
+indexed for genealogists. 
+651 #0 $a Tazewell County (Va.) $v Genealogy. 
+650 #0 $a Registers of births, etc. $z Virginia $z Tazewell County. 
+651 #0 $a Tazewell County (Va.) $v Census, 1850. 
+651 #0 $a United States $v Census, 1850. 
+650 #0 $a African Americans $z Virginia $z Tazewell County $v Genealogy. 
+LC practice: 
+651 #0 $a Tazewell County (Va.) $x Census, 1850. 
+651 #0 $a United States $x Census, 1850. 
+650 #0 $a African Americans $z Virginia $z Tazewell County. 
+655 #7 $a Vital statistics. $2 lcgft 
+655 #7 $a Census data. $2 lcgft 
+ 
+Title: Marriage and death notices from Wilmington, North Carolina 
+newspapers, 1866-1870. 
+651 #0 $a Wilmington (N.C.) $v Genealogy. 
+650 #0 $a Marriage records $z North Carolina $z Wilmington. 
+650 #0 $a Death notices $z North Carolina $z Wilmington. 
+650 #0 $a American newspapers $z North Carolina $z Wilmington $v Abstracts. 
+LC practice: 
+651 #0 $a Wilmington (N.C.) 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Genealogy and Family Names H 1631 | Page 5 
+ 
+ 
+650 #0 $a American newspapers $z North Carolina $z Wilmington. 
+655 #7 $a Vital statistics. $2 lcgft 
+655 #7 $a Death registers. $2 lcgft 
+655 #7 $a Abstracts. $2 lcgft 
+E.3. Methodology 
+Assign the free-floating subdivision *--Genealogy--Methodology* under names of places, 
+individual corporate bodies, classes of persons, and ethnic groups for comprehensive texts on 
+methods of locating genealogical records, tracing family histories, etc., in these places, or 
+pertaining to these groups or classes of persons. 
+Assign the free-floating subdivision *--Genealogy--Handbooks, manuals, etc.*, under names of 
+places, individual corporate bodies, classes of persons, and ethnic groups to works that present 
+brief information about genealogy on these topics, such as lists of agencies and institutions to 
+consult, types of records to study, etc. 
+For works containing both comprehensive instructions on methodology and brief information 
+for ready reference, assign only *--Genealogy--Handbooks, manuals, etc.*, under the 
+appropriate heading. 
+LC practice: Assign the free-floating topical subdivision *--Genealogy--Methodology* under 
+names of places, individual corporate bodies, classes of persons, and ethnic groups for 
+comprehensive texts on methods of locating genealogical records, tracing family histories, etc., 
+in these places, or pertaining to these groups or classes of persons. Assign LCGFT appropriate to 
+the form and/or genre of the resource in hand, e.g. LCGFT *Self-instructional works*. 
+Assign the free-floating topical subdivision *--Genealogy*, under names of places, individual 
+corporate bodies, classes of persons, and ethnic groups to works that present information 
+about genealogy on these topics, such as lists of agencies and institutions to consult, types of 
+records to study, etc. Assign LCGFT appropriate to the form and/or genre of the resource in 
+hand, e.g. LCGFT *Handbooks and manuals*. 
+For works containing both comprehensive instructions on methodology and brief information 
+for ready reference, assign only the topical subdivision *--Genealogy*, under the appropriate 
+heading and the LCGFT term *Handbooks and manuals*. 
+F. Headings for family names 
+F.1. General rule 
+Assign a heading for the name of the family. 
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | Genealogy and Family Names H 1631 | Page 6 
+ 
+ 
+Subdivide family names as needed by the free-floating form and topical subdivisions listed in H 
+1120. 
+Do not subdivide family names by *--Biography*, *--History*, or *--Sources*. 
+Optionally, also assign a heading for the authorized access point of the family from the name 
+authority record in the LC/Name Authority File (NAF). 
+LC practice: Do not subdivide a family name by a form subdivision. Assign LCGFT appropriate to 
+the form and/or genre of the resource in hand. 
+F.2. Works that discuss more than one family 
+If more than one family is discussed, assign headings for each family, up to a maximum of four. 
+F.3. Location of the family 
+In accordance with H 1845, bring out the location of the family in an additional heading, if 
+possible. 
+Example: 
+Title: The Cotton family of Northern Virginia. 
+600 30 $a Cotton family. 
+600 10 $a Cotton, John, $d 1721-1808 $x Family. 
+651 #0 $a Virginia, Northern $v Genealogy. 
+LC practice: 
+600 30 $a Cotton family. 
+600 10 $a Cotton, John, $d 1721-1808 $x Family. 
+651 #0 $a Virginia, Northern. 
+655 #7 $a Family histories. $2 lcgft 
+655 #7 $a Genealogical tables. $2 lcgft 
+For countries other than the United States, assign an additional heading of the type *[country]-
+-Genealogy*. 
+If the work is a collective biography of the members of a family, do not assign a heading of the 
+type *[place]--Genealogy*, unless the work also contains genealogical material. 
+LC practice: For countries other than the United States, assign an additional heading for the 
+place. 
+Example: 
+Title: Pierssené. 
+600 30 $a Pierssené family. 
+
+
+<<<PAGE 7>>>
+Subject Headings Manual | Genealogy and Family Names H 1631 | Page 7 
+ 
+ 
+650 #0 $a Huguenots $z England $z London $x History. 
+651 #0 $a London (England) $v Genealogy. 
+651 #0 $a Great Britain $v Genealogy. 
+LC practice: 
+600 30 $a Pierssené family. 
+650 #0 $a Huguenots $z England $z London $x History. 
+651 #0 $a London (England) 
+651 #0 $a Great Britain. 
+655 #7 $a Family histories. $2 lcgft 
+655 #7 $a Genealogical tables. $2 lcgft 
+F.4. Progenitors and individual family members 
+Assign an additional heading for the name of the progenitor, or any individual family member, 
+subdivided by the free-floating subdivision *--Family* if he or she is mentioned on the title 
+page or given prominent treatment in the text. 
+Example: 
+Title: The Giles Driver family : a compilation of the descendants of 
+Giles Driver, Isle of Wight County, Virginia. 
+600 30 $a Driver family. 
+600 10 $a Driver, Giles, $c Sr., $d 1775-1824 $x Family. 
+651 #0 $a Isle of Wight County (Va.) $v Genealogy. 
+651 #0 $a Southern States $v Genealogy. 
+LC practice: 
+600 30 $a Driver family. 
+600 10 $a Driver, Giles, $c Sr., $d 1775-1824 $x Family. 
+651 #0 $a Isle of Wight County (Va.) 
+651 #0 $a Southern States. 
+655 #7 $a Family histories. $2 lcgft 
+655 #7 $a Genealogical tables. $2 lcgft 
+G. Geographic Area codes 
+For genealogical or biographical works about individual families, assign codes based on the 
+headings selected for the work being cataloged. Do not assign a code for the country in which 
+the family resides unless another heading that includes the name of the country is assigned. 
+
+
+<<<PAGE 8>>>
+Subject Headings Manual | Genealogy and Family Names H 1631 | Page 8 
+ 
+ 
+H. Extended examples 
+Title: Property deeds for genealogy : how to find them. 
+651 #0 $a United States $x Genealogy $v Handbooks, manuals, etc. 
+650 #0 $a Deeds $z United States $v Handbooks, manuals, etc. 
+LC practice: 
+651 #0 $a United States $x Genealogy. 
+650 #0 $a Deeds $z United States. 
+655 #7 $a Handbook and manuals. $2 lcgft 
+ 
+Title: Hart County, Kentucky, marriage records. 
+650 #0 $a Marriage records $z Kentucky $z Hart County. 
+651 #0 $a Hart County (Ky.) $v Genealogy. 
+LC practice: 
+650 #0 $a Marriage records $z Kentucky $z Hart County. 
+651 #0 $a Hart County (Ky.) 
+655 #7 $a Vital statistics. $2 lcgft 
+ 
+Title: Tombstone inscriptions of Van Buren County, Tennessee. 
+651 #0 $a Van Buren County (Tenn.) $v Genealogy. 
+650 #0 $a Registers of births, etc. $z Tennessee $z Van Buren County. 
+650 #0 $a Cemeteries $z Tennessee $z Van Buren County. 
+650 #0 $a Inscriptions $z Tennessee $z Van Buren County. 
+LC practice: 
+651 #0 $a Van Buren County (Tenn.) 
+650 #0 $a Cemeteries $z Tennessee $z Van Buren County. 
+650 #0 $a Inscriptions $z Tennessee $z Van Buren County. 
+655 #7 $a Vital statistics. $2 lcgft 
+ 
+Title: Morris, Whittington, Jones, and related families. 
+600 30 $a Morris family. 
+600 30 $a Whittington family. 
+600 30 $a Jones family. 
+651 #0 $a Southern States $v Genealogy. 
+LC practice: 
+
+
+<<<PAGE 9>>>
+Subject Headings Manual | Genealogy and Family Names H 1631 | Page 9 
+ 
+ 
+600 30 $a Morris family. 
+600 30 $a Whittington family. 
+600 30 $a Jones family. 
+651 #0 $a Southern States. 
+655 #7 $a Family histories. $2 lcgft 
+655 #7 $a Genealogical tables. $2 lcgft 
+ 
+Title: The ancestry of Amelia Marilla Morley. 
+600 30 $a Morley family. 
+600 30 $a Willard family. 
+600 30 $a Carlton family. 
+600 30 $a Newton family. 
+600 10 $a Morley, Amelia Marilla, $d 1842-1927 $x Family. 
+651 #0 $a Massachusetts $v Genealogy. 
+651 #0 $a England $v Genealogy. 
+LC practice: 
+600 30 $a Morley family. 
+600 30 $a Willard family. 
+600 30 $a Carlton family. 
+600 30 $a Newton family. 
+600 10 $a Morley, Amelia Marilla, $d 1842-1927 $x Family. 
+651 #0 $a Massachusetts. 
+651 #0 $a England. 
+655 #7 $a Family histories. $2 lcgft 
+655 #7 $a Genealogical tables. $2 lcgft 
+ 
+Title: Joseph Jones of Gates County, North Carolina : his ancestors and 
+descendants. 
+600 30 $a Jones family. 
+600 30 $a Jones (Family : $d 1635-1985 : $c Gates County, N.C.) 
+600 10 $a Jones, Joseph, $d 1851-1930 $x Family. 
+651 #0 $a Gates County (N.C.) $v Genealogy. 
+LC practice: 
+600 30 $a Jones family. 
+600 30 $a Jones (Family : $d 1635-1985 : $c Gates County, N.C.) 
+
+
+<<<PAGE 10>>>
+Subject Headings Manual | Genealogy and Family Names H 1631 | Page 10 
+ 
+ 
+600 10 $a Jones, Joseph, $d 1851-1930 $x Family. 
+651 #0 $a Gates County (N.C.) 
+655 #7 $a Family histories. $2 lcgft 
+655 #7 $a Genealogical tables. $2 lcgft 
+ 
+Title: The Sanchez family of St. Augustine, Florida. 
+600 30 $a Sanchez family. 
+600 30 $a Sanchez (Family : $c Saint Augustine, Fla.) 
+LC practice: 
+600 30 $a Sanchez family. 
+600 30 $a Sanchez (Family : $c Saint Augustine, Fla.) 
+655 #7 $a Family histories. $2 lcgft 
+ 
+Title: The English ancestry of Thomas Jefferson. 
+600 30 $a Soane family. 
+600 30 $a Fuller family. 
+600 30 $a Jefferson family. 
+600 30 $a Field family. 
+600 10 $a Jefferson, Thomas, $d 1743-1826 $x Family. 
+651 #0 $a Virginia $v Genealogy. 
+LC practice: 
+600 30 $a Fuller family. 
+600 30 $a Soane family. 
+600 30 $a Jefferson family. 
+600 30 $a Field family. 
+600 10 $a Jefferson, Thomas, $d 1743-1826 $x Family. 
+651 #0 $a Virginia. 
+655 #7 $a Family histories. $2 lcgft 
+655 #7 $a Genealogical tables. $2 lcgft 
+ 
+Title: Inscriptions from the tomb stones at Mount Calvary Cemetery. 
+651 #0 $a Baltimore (Md.) $v Genealogy. 
+650 #0 $a Registers of births, etc. $z Maryland $z Baltimore. 
+610 20 $a Mount Calvary Cemetery (Baltimore, Md.) 
+
+
+<<<PAGE 11>>>
+Subject Headings Manual | Genealogy and Family Names H 1631 | Page 11 
+ 
+ 
+650 #0 $a Inscriptions $z Maryland $z Baltimore. 
+LC practice: 
+651 #0 $a Baltimore (Md.) 
+610 20 $a Mount Calvary Cemetery (Baltimore, Md.) 
+650 #0 $a Inscriptions $z Maryland $z Baltimore. 
+655 #7 $a Vital statistics. $2 lcgft 
+I. Subdivisions used under individual family names 
+See H 1120. 
+Revision history 
+2026-04: Updated template. Added instructions related to LCGFT implementation. 

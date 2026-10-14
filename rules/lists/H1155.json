@@ -1,0 +1,553 @@
+{
+  "sheet": "H 1155",
+  "title": "Pattern Headings: Legislative Bodies",
+  "kind": "pattern",
+  "scope": "Free-floating subdivisions for use under names of individual legislative bodies, including their individual chambers (corporate names in the NAF), in addition to H 1105; pattern heading United States. Congress.",
+  "pattern_headings": [
+    "United States. Congress"
+  ],
+  "pattern_category": "names of individual legislative bodies, including their individual chambers",
+  "general_notes": [
+    "TYPES OF HEADINGS COVERED BY THE PATTERN: Names of individual legislative bodies, including their individual chambers, established as corporate bodies in the name authority file. Examples: Great Britain. Parliament; California. Legislature. Assembly; Germany (West). Bundestag; Germany. Reichstag. The category does not include the heading Legislative bodies.",
+    "RELATION TO H 1105: Subdivisions on the list of free-floating subdivisions used under names of individual corporate bodies, H 1105, are also free-floating under individual legislative bodies where there is no conflict. This list contains additional subdivisions appropriate for legislative bodies.",
+    "CONFLICTS: Any subdivision listed here can be used as a free-floating subdivision under any heading belonging to the category if it is appropriate and no conflict exists in the subject authority file. Subject authority records may exist for headings employing variant phrases or subdivisions equivalent to subdivisions on this list.",
+    "Note: Most form subdivisions coded $v in this list may also be used as topical subdivisions coded $x when assigned to works about the form (see H 1075, sec. 1.d.)."
+  ],
+  "entries": [
+    {
+      "subdivision": "--Alabama [Illinois, Texas, etc.] delegation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Appropriations and expenditures",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Caucuses",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Censures",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Cloture",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "Established under United States. Congress. Senate. May be used under names of other legislative bodies where appropriate."
+    },
+    {
+      "subdivision": "--Committees",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Committees--Indexes",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Committees--Rules and practice",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Committees--Seniority system",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Conference committees",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Constituent communication",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Contested elections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Deputy speakers",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "[2] Not established under United States. Congress. May be used under names of other legislative bodies where appropriate. [4] See H 1100 for further subdivisions used under classes of persons."
+    },
+    {
+      "subdivision": "--Dissolution",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "Not established under United States. Congress. May be used under names of other legislative bodies where appropriate."
+    },
+    {
+      "subdivision": "--Election districts",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Elections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Elections, [date]",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1078"
+      ],
+      "endnote": "See H 1078 for instructions on dates in subdivisions for specific events."
+    },
+    {
+      "subdivision": "--Ethics",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Expulsion",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Facilities",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Food service",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Freedom of debate",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Leadership",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Majority leaders",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "[1] Established under United States. Congress. Senate. May be used under names of other legislative bodies where appropriate. [4] See H 1100 for further subdivisions used under classes of persons."
+    },
+    {
+      "subdivision": "--Majority whips",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "[1] Established under United States. Congress. Senate. May be used under names of other legislative bodies where appropriate. [4] See H 1100 for further subdivisions used under classes of persons."
+    },
+    {
+      "subdivision": "--Minority leaders",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "[1] Established under United States. Congress. Senate. May be used under names of other legislative bodies where appropriate. [4] See H 1100 for further subdivisions used under classes of persons."
+    },
+    {
+      "subdivision": "--Minority whips",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "[1] Established under United States. Congress. Senate. May be used under names of other legislative bodies where appropriate. [4] See H 1100 for further subdivisions used under classes of persons."
+    },
+    {
+      "subdivision": "--Officials and employees",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "See H 1100 for further subdivisions used under classes of persons."
+    },
+    {
+      "subdivision": "--Officials and employees--Pensions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Officials and employees--Salaries, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Pensions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Powers and duties",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Presiding officers",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "[1] Established under United States. Congress. Senate. May be used under names of other legislative bodies where appropriate. [4] See H 1100 for further subdivisions used under classes of persons."
+    },
+    {
+      "subdivision": "--Private bills",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Privileges and immunities",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Publication of proceedings",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Qualifications",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Radio broadcasting of proceedings",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Reform",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Reporters and reporting",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Resolutions",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Salaries, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Speakers",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "[4] See H 1100 for further subdivisions used under classes of persons. [5] Established under United States. Congress. House. May be used under names of other legislative bodies where appropriate."
+    },
+    {
+      "subdivision": "--Television broadcasting of proceedings",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Term of office",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Transition periods",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Voting",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    }
+  ]
+}

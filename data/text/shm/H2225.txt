@@ -1,0 +1,125 @@
+
+
+<<<PAGE 1>>>
+ 
+Transportation  H 2225 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2225 Page 1 
+ 
+June 2013 
+BACKGROUND:  The subject heading Transportation (May Subd Geog), the free-floating 
+subdivision BTransportation, and headings for particular types of transportation or special 
+topics in transportation are assigned to works that discuss means or systems of conveying, 
+moving, or shipping goods or passengers.  This instruction sheet provides guidelines for 
+assigning subject headings to works about transportation. 
+ 
+ 
+ 
+ 
+1.  The subject heading Transportation.  Assign the heading Transportation (May Subd 
+Geog), with further subdivision, if appropriate, to general works on the movement of goods or 
+passengers.  Do not subdivide this heading by BEconomic aspects.  Examples: 
+ 
+Title:  The economics of British public transport. 
+650 #0 $a Transportation $z Great Britain. 
+ 
+Title:  Transportation energy data book. 
+650 #0 $a Transportation $x Energy conservation $z United  
+            States. 
+650 #0 $a Transportation $x Energy consumption $z United  
+            States. 
+ 
+ 
+ 
+2.  The subject heading Urban transportation.  Assign the heading Urban transportation  
+(May Subd Geog) to general works on transportation in urban areas, including local transit, 
+private transportation, streets, roads, etc.  Assign the heading Transportation (May Subd Geog) 
+to works on urban transportation in individual cities, city regions, and metropolitan areas.  
+Examples: 
+ 
+ 
+Title:  Urban transportation in France. 
+650 #0 $a Urban transportation $z France. 
+ 
+Title:  Philadelphia on the move. 
+650 #0 $a Transportation $z Pennsylvania $z Philadelphia. 
+ 
+Title:  The Trenton area : moving or standing still? 
+650 #0 $a Transportation $z New Jersey $z Trenton  
+            Metropolitan Area. 
+
+
+<<<PAGE 2>>>
+H 2225  Transportation 
+ 
+ 
+ 
+H 2225 Page 2 
+Subject Headings Manual 
+June 2013 
+3.  The free-floating subdivision BTransportation.  Use the free-floating subdivision 
+BTransportation (May Subd Geog) under types of objects, merchandise, classes of persons, 
+ethnic groups, animals, military services, and individual wars for works on transportation as 
+applied to these topics.  Do not further subdivide BTransportation by place when used under 
+military services.  Do not subdivide BTransportation further by BEconomic aspects.  
+Examples: 
+ 
+ 
+Title:  Transportation services for elderly and disabled people. 
+650 #0 $a Older people $x Transportation $z Great Britain. 
+650 #0 $a People with disabilities $x Transportation  
+            $z Great Britain. 
+ 
+Title:  Hawaii unloads fresh fruit and vegetables. 
+650 #0 $a Fruit $x Transportation $z Hawaii. 
+650 #0 $a Vegetables $x Transportation $z Hawaii. 
+ 
+ 
+Assign additional headings, if necessary, to bring out special aspects of transportation in relation 
+to the topic.  Do not establish special subdivisions under topics to bring out particular types of 
+transportation.  Examples: 
+ 
+ 
+Title:  Beef roads in Australia. 
+650 #0 $a Beef cattle $x Transportation $z Australia  
+            $x History. 
+650 #0 $a Roads $z Australia $x History. 
+ 
+Title:  The Irish merchant marine in World War II. 
+650 #0 $a World War, 1939-1945 $x Transportation. 
+650 #0 $a Merchant marine $z Ireland $x History $y 20th 
+            century. 
+651 #0 $a Ireland $x History, Naval. 
+ 
+Title:  Transportation of coal and grain by waterway. 
+650 #0 $a Coal $x Transportation $z United States. 
+650 #0 $a Grain $x Transportation $z United States. 
+650 #0 $a Inland water transportation $z United States. 
+ 
+Title:  Going places in your own vehicle. 
+650 #0 $a People with disabilities $x Transportation. 
+650 #0 $a Automobile drivers with disabilities. 
+
+
+<<<PAGE 3>>>
+ 
+Transportation  H 2225 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2225 Page 3 
+ 
+June 2013 
+4.  Special topics.  Assign appropriate specific headings to works on special types or aspects of 
+transportation.  Examples: 
+ 
+650 #0 $a Coastwise shipping. 
+650 #0 $a High speed ground transportation. 
+650 #0 $a Inland water transportation. 
+650 #0 $a Rural transit. 
+650 #0 $a Urban transportation policy. 
+   

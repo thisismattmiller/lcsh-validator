@@ -1,0 +1,45 @@
+
+
+<<<PAGE 1>>>
+ 
+Legal Materials: Legal Research  H 1710 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1710 Page 1 
+ 
+June 2013 
+BACKGROUND:  This instruction sheet describes the use of the subdivisions BLegal research 
+and BResearch under legal topics. 
+ 
+ 
+ 
+ 
+1.  BLegal research.  Use this subdivision under inherently legal headings, including topical 
+headings with the subdivision BLaw and legislation or BLegal status, laws, etc., for works 
+which discuss the use of legal research tools such as court reports, codes, digests, citators, etc., in 
+determining the status of statutory, regulatory, or case law on a topic.  Example: 
+ 
+Title:  How to find current tax law. 
+650 #0 $a Taxation $x Law and legislation $z United States  
+            $x Legal research. 
+ 
+BLegal research is controlled by the pattern heading for legal topics, Labor laws and 
+legislation, and is therefore free-floating when used according to these guidelines.  As 
+illustrated in the above example, the subdivision is not further subdivided by place. 
+   
+ 
+ 
+2.  BResearch.  Use this subdivision, further subdivided by place when appropriate, under legal 
+topics in accordance with the normal practice for its use under other topical headings, i.e. for 
+descriptions of proposed research, including such details as management, finance, personnel, 
+special projects, methodology, goals, etc..  Example: 
+ 
+Title:  Threats to validity in quasi-experimental evaluations of consumer 
+protection reforms : a critical review of extant research. 
+650 #0 $a Consumer protection $x Law and legislation  
+            $x Research $z United States. 
+650 #0 $a Consumer credit $x Law and legislation $x Research 
+            $z United States. 
+ 

@@ -1,0 +1,100 @@
+
+
+<<<PAGE 1>>>
+ 
+Awards  H 1265 
+  
+ 
+ 
+Subject Headings Manual 
+H 1265 Page 1 
+ 
+September 2013 
+BACKGROUND:  This instruction sheet provides guidelines for establishing names of 
+individual awards, medals, prizes, etc. 
+ 
+ 
+ 
+1.  Form of heading.  Establish the heading for an award under its own name in the vernacular 
+of the country from which it emanates.  If the award is well-known in an English form and 
+found in English in English-language reference sources, establish it in English.  Use the 
+singular or plural form as appropriate. 
+ 
+Capitalization.  For headings established in English, capitalize all words, except articles. 
+ For headings in other languages, follow the guidelines in Appendix B, sec. 22. 
+ 
+Examples: 
+ 
+150 ## $a Albert Schweitzer prijs 
+150 ## $a Henry Moore Grand Prize 
+150 ## $a Nobel Prizes 
+150 ## $a Ritterkreuz 
+150 ## $a Theodore Roosevelt Rough Rider Award 
+ 
+ 
+ 
+2.  UF references.  Add 450 fields from any alternative forms of the name, and from forms that 
+bring significant words into the initial position.  Examples: 
+ 
+150 ## $a Franklin Delano Roosevelt Freedom Medals 
+450 ## $a Roosevelt Medals 
+450 ## $a Four Freedoms Medals 
+ 
+150 ## $a Orden Slavy 
+450 ## $a Order of Glory 
+450 ## $a Slavy, Orden 
+ 
+150 ## $a Wolfgang Amadeus Mozart Preis 
+450 ## $a Mozart Preis 
+ 
+Note:  Do not translate names of prizes from foreign languages into English in order to 
+add a 450 field with the significant word in the initial position.  Instead, make the 
+reference from the inverted, untranslated form.  Add a 450 field from the translated 
+form only if that form is found in the work being cataloged or in other sources consulted. 
+
+
+<<<PAGE 2>>>
+H 1265  Awards 
+ 
+ 
+ 
+H 1265 Page 2 
+Subject Headings Manual 
+September 2013 
+3.  Broader term references.   
+ 
+a.  Literary prizes.  Add the following 550 (broader term) field: 
+ 
+550 ## $w g $a Literary prizes $z [place] 
+ 
+Do not add any other broader term fields.  If the prize is limited to literature on a 
+specific topic or to a specific genre, assign additional subject headings to the 
+bibliographic record to express the topic or genre. 
+ 
+ 
+b.  Other awards and prizes.  Make one of the following broader term references as 
+appropriate: 
+ 
+550 ## $w g $a [topic] $x Awards $z [place] 
+ 
+550 ## $w g $a Awards $z [place]  
+(for awards not limited to a specific topic) 
+ 
+550 ## $w g $a Awards  
+(for awards not limited to a specific topic or country) 
+ 
+ 
+c.  Medals.  Make one of the following broader term references as appropriate: 
+ 
+550 ## $w g $a [topic] $x Medals $z [place] 
+ 
+550 ## $w g $a Medals $z [place]  
+(for medals not limited to a specific topic) 
+ 
+550 ## $w g $a Medals  
+(for medals not limited to a specific topic or country) 
+ 
+ 
+d.  Decorations.  Make a broader term reference from an appropriate heading, such as 
+Military decorations, Decorations of honor, Papal decorations, Academic 
+decorations of honor, etc., subdivided geographically. 

@@ -1,0 +1,40 @@
+
+
+<<<PAGE 1>>>
+ 
+Airports  H 1211 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1211 Page 1 
+ 
+June 2013 
+1.  General rule.  Assign the heading Airports (May Subd Geog) to works that discuss 
+collectively the airports, airfields, etc., that serve the city or region.  Example: 
+ 
+ 
+Title:  Air facilities, 1967, Washington metropolitan area. 
+650 #0 $a Airports $z Washington Metropolitan Area. 
+ 
+ 
+ 
+2.  Individual airports.  To works that discuss a specific airport, assign the corporate name 
+heading for the individual airport.  If the work discusses the physical plant of the airport, 
+including the terminal building(s), runways, etc., also assign the heading [city]BBuildings, 
+structures, etc. for the major city (or cities) that the airport serves.  Examples: 
+ 
+ 
+Title:  Gateway to the world : the illustrated story of the London Airport. 
+610 20 $a Heathrow Airport. 
+651 #0 $a London (England) $x Buildings, structures, etc. 
+ 
+ 
+Title:  A giant in Texas : a history of the Dallas-Fort Worth Regional Airport 
+controversy, 1911-1974.   
+610 20 $a Dallas-Fort Worth Regional Airport $x History.   
+651 #0 $a Dallas (Tex.) $x Buildings, structures, etc.  
+            $x History.   
+651 #0 $a Fort Worth (Tex.) $x Buildings, structures, etc. 
+            $x History. 
+ 

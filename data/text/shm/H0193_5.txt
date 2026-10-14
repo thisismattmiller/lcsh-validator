@@ -1,0 +1,110 @@
+
+
+<<<PAGE 1>>>
+ 
+Deleted Heading Information  H 193.5 
+ 
+ 
+ 
+Subject Headings Manual 
+H 193.5 Page 1 
+ 
+January 2020 
+BACKGROUND:  When a subject authority record is deleted under the guidelines given in H 
+193, sec. 14, a note explaining the reason for the deletion is provided for the benefit of 
+subscribers to the MARC Distribution Service Subject-Authorities.  This explanation is given in 
+a 682 field that appears on the tentative and approved lists and is distributed with the deleted 
+record.  This instruction sheet provides the standard wording that is used in 682 fields. 
+ 
+ 
+1.  Cancellation of Library of Congress subject headings.  When submitting a proposal to 
+delete a subject authority record for a Library of Congress subject heading, add a 682 field with 
+the appropriate note selected from the list that follows.  If none of these explanations is 
+appropriate for the case in hand, compose an original note that provides a clear explanation of 
+why the record is being deleted.  The Policy, Training, and Cooperative Programs Division will 
+edit the note as necessary to standardize the wording. 
+ 
+ 
+682 ## $i This authority record has been deleted because the subject 
+            heading is covered by an identical name heading $0 (DLC)n  XXXXXXXX 
+ 
+ 
+ 
+682 ## $i This authority record has been deleted because the subject 
+            heading is covered by the name heading $a             
+            $0 (DLC)n  XXXXXXXX  
+ 
+ 
+682 ## $i This authority record has been deleted because the subject 
+            heading is covered by the name headings $a __________  
+            $0 (DLC)n  XXXXXXXX $i and $a            $i $0 (DLC)n  XXXXXXXX 
+ 
+ 
+ 
+682 ## $i This authority record has been deleted because the heading 
+            is covered by an identical subject heading $0 (DLC)sh XXXXXXXX 
+ 
+ 
+ 
+682 ## $i This authority record has been deleted because the heading is 
+            covered by the subject heading $a           $0 (DLC)sh XXXXXXXX  
+ 
+ 
+ 
+682 ## $i This authority record has been deleted because the heading is 
+            covered by the subject headings $a            $0 (DLC)sh XXXXXXXX 
+            $i and $a            $0 (DLC)sh XXXXXXXX 
+
+
+<<<PAGE 2>>>
+H 193.5  Deleted Heading Information 
+ 
+ 
+ 
+H 193.5 Page 2 
+Subject Headings Manual 
+January 2020 
+1.  Cancellation of Library of Congress subject headings.  (Continued) 
+ 
+682 ## $i This authority record has been deleted because the heading is 
+            replaced by headings of the type [topic]--[place] for which 
+            individual subject authority records are not made. 
+ 
+ 
+682 ## $i This authority record has been deleted because the heading is 
+            replaced by the heading $a [ . . . ]--[ . . . ], $i a heading 
+            for which a subject authority record is not made because it 
+            uses a free-floating subdivision. 
+ 
+ 
+682 ## $i This authority record has been deleted because the heading is 
+            replaced by headings of the type $a [ . . . ]--[ . . . ] $i 
+            for which individual subject authority records are not made. 
+ 
+ 
+682 ## $i This authority record has been deleted because the subdivision 
+            $a            $i is no longer valid. 
+ 
+ 
+682 ## $i This authority record has been deleted because the heading 
+            will be established as a name heading when needed. 
+ 
+ 
+682 ## $i This authority record has been deleted because the heading is 
+            not a valid RDA heading. 
+ 
+ 
+ 
+2.  Cancellation of Children's (formerly called AC) subject headings.  When submitting a 
+proposal to delete a subject authority record for a Children's subject heading, add one of the 
+following 682 fields, as appropriate. 
+ 
+ 
+682 ## $i This authority record for a Children's subject heading has been  
+            deleted because the heading is covered by an identical Library  
+            of Congress subject heading $0  (DLC)sh XXXXXXXX 
+ 
+ 
+682 ## $i This authority record for a Children's subject heading has been  
+            deleted because the heading is covered by the Library of Congress  
+            subject heading $a            $0  (DLC)sh XXXXXXXX 

@@ -1,0 +1,185 @@
+
+
+<<<PAGE 1>>>
+ 
+Chinese/Japanese/Korean Subject Headings  H 182 
+ 
+ 
+ 
+Subject Headings Manual 
+H 182 Page 1 
+ 
+June 2013 
+BACKGROUND:  This instruction sheet provides guidelines for supplying parallel non-Roman 
+subject heading fields in CJK cataloging.  The general principle followed is that non-Roman CJK 
+subject headings are supplied for subject heading fields or parts thereof where the romanized 
+portion of the established name heading corresponds exactly to official pronunciation and LC 
+romanization rules for the CJK language. 
+ 
+Note:  During the period 1993-2007, the Library of Congress used the Research 
+Libraries Group=s RLIN (Research Libraries Information Network) system to create and 
+manage its CJK bibliographic records.  In 2007, following the merger of the Research 
+Libraries Group with OCLC, Inc., the Library of Congress began using its own integrated 
+library system to create and manage these records.  
+ 
+1.  General rule.  Supply parallel non-Roman subject heading fields only for name headings 
+that are assigned as subject headings.  Use the 880 field, as illustrated in examples throughout 
+this instruction sheet.  Examples: 
+ 
+600 10 $6 880-05 $a Zuoqiu, Ming. $t Zuozhuan. 
+880-14 $6 600-05/$1 $a [NON-ROMAN DATA] $t [NON-ROMAN DATA] 
+ 
+ 
+610 20 $6 880-06 $a Toyota JidÇsha KÇgyÇ Kabushiki Kaisha 
+        $x History. 
+880 24 $6 880-06/$1 $a [NON-ROMAN DATA] $x History. 
+ 
+Do not supply parallel non-Roman fields for headings that are established as subject headings, 
+even if they are established according to LC romanization rules.  For example, do not supply 
+parallel non-Roman fields to headings such as Feng shui; Tai chi; TÇhoku Region 
+(Japan)BHistory; or Ukiyoe. 
+ 
+2.  Exact correspondence to official pronunciation and LC romanization.  Supply parallel 
+non-Roman headings in the following situations: 
+ 
+! when there is one-to-one equivalency between the romanized portion of the name 
+heading, official pronunciation, and LC romanization rules for the CJK language.  
+Exclude parenthetical qualifiers and dates.  (For guidelines concerning parenthetical 
+qualifiers, see sec. 4, below). 
+ 
+! when there is one-to-one equivalency between the romanized portion of the 
+subfielded part of a name heading, official pronunciation, and LC romanization rules 
+for the CJK language. 
+
+
+<<<PAGE 2>>>
+H 182  Chinese/Japanese/Korean Subject Headings 
+ 
+ 
+ 
+H 182 Page 2 
+Subject Headings Manual 
+June 2013 
+2.  Exact correspondence to official pronunciation and LC romanization.  (Continued) 
+ 
+Do not supply parallel non-Roman headings for name headings that use conventional forms that 
+do not conform to official pronunciation and LC romanization rules. 
+ 
+Examples: 
+ 
+651 #0 $a China $x History $y Cultural Revolution, 1966-1976. 
+[no parallel non-Roman field; China is conventional for Zhongguo] 
+ 
+610 10 $6 880-05 $a China. $b Zhongguo ren min jie fang jun. 
+880 14 $6 880-05/$1 $a China. $b [NON-ROMAN DATA] 
+ 
+600 00 $a Confucius $v Bibliography. 
+[no parallel non-Roman field; Confucius is conventional for Kongzi] 
+ 
+600 00 $6 880-06 $a Confucius. $t Chun qiu. 
+880-04 $6 600-06/$1 $a Confucius. $t [NON-ROMAN DATA] 
+ 
+651 #0 $a Hong Kong (China) $x Description and travel. 
+[Hong Kong is conventional for Xianggang] 
+ 
+610 20 $6 880-05 $a Xianggang Zhongshan Tu shu guan. 
+880 24 $6 610-05/$1 $a [NON-ROMAN DATA] 
+ 
+651 #0 Japan $x Officials and employees. 
+[Japan is conventional for Nihon] 
+ 
+610 10 $6 880-06 $a Japan. $b MonbushÇ. 
+880 14 $6 880-06/$1 $a Japan. [NON-ROMAN DATA] 
+ 
+610 20 $6 880-05 $a Nihon Daigaku $x Entrance examinations. 
+880 24 $6 610-05/$1 $a [NON-ROMAN DATA]$x Entrance examinations. 
+ 
+610 20 $6 880-06 $a Æsaka Shiritsu Shizenshi Hakubutsukan 
+  $v Catalogs 
+880 24 $6 610-06/$1 $a [NON-ROMAN DATA] $v Catalogs. 
+ 
+600 10 $a Sun, Yat-sen, $d 1866-1925 $x Childhood and youth. 
+  
+ 
+ 
+ 
+[Sun, Yat-sen is conventional for Sun, Yixian] 
+
+
+<<<PAGE 3>>>
+ 
+Chinese/Japanese/Korean Subject Headings  H 182 
+ 
+ 
+ 
+Subject Headings Manual 
+H 182 Page 3 
+ 
+June 2013 
+2.  Exact correspondence to official pronunciation and LC romanization. 
+ 
+Examples: (Continued) 
+ 
+600 10 $6 880-05 $a Sun, Yat-sen, $d 1866-1925. $t San min zhu yi. 
+880 14 $6 880-05?$1 $a Sun, Yat-sen, $d 1866-1925. $t [NON-ROMAN 
+     DATA] 
+ 
+3.  Geographic subdivisions.  Do not supply NON-ROMAN DATA for geographic subdivisions 
+(subfield $z).  Examples: 
+ 
+651 #0 $6 880-05 $a Buzen-shi (Japan) $x Antiquities. 
+880 #4 $6 651-05/$1 $a [NON-ROMAN DATA] $x Antiquities. 
+650 #0 $a Buddhist antiquities $z Japan $z Antiquities. 
+ 
+ 
+651 #0 $6 880-06 $a Kyo_ngsang-namdo (Korea) $x Description and 
+  travel. 
+880 #4 $6 651-06/$1 $a [NON-ROMAN DATA] (Korea) $x Description 
+     and travel. 
+650 #0 $a Cities and towns $z Korea (South) $z Kyo_ngsang-namdo. 
+ 
+4.  Qualifiers.  Do not supply NON-ROMAN DATA for additions to names enclosed in parentheses, 
+that is, qualifiers of descriptive name headings.  Examples: 
+ 
+610 20 $6 880-05 $a NyohÇji (Buzen-shi, Japan) 
+880 24 $6 610-05/$1 $a [NON-ROMAN DATA] (Buzen-shi, Japan) 
+ 
+5.  Choice of non-Roman form.  Choose the non-Roman form as found elsewhere in the work, 
+or any source, as appropriate.  Use the form of the Chinese character as found elsewhere in the 
+record or in the work.  If the form is not found, supply the traditional form of the Chinese 
+character.  For Chinese and Japanese personal names in the parallel non-Roman field, do not 
+follow the surname with a comma or leave a space.  For Korean personal names, leave a space 
+after the surname.  Examples: 
+ 
+610 20 $6 880-05 $a Chiba-ken Bunkazai Sent~. 
+880 24 $6 610-05/$1 $a [NON-ROMAN DATA]. 
+ 
+651 #0 $6 880-05 $a T=ai-pei hsien (Taiwan) $x Description and 
+  travel. 
+880 #4 $6 651-05/$1 $a [NON-ROMAN DATA] (Taiwan) $x Description and 
+  travel. 
+
+
+<<<PAGE 4>>>
+H 182  Chinese/Japanese/Korean Subject Headings 
+ 
+ 
+ 
+H 182 Page 4 
+Subject Headings Manual 
+June 2013 
+5.  Choice of non-Roman form. 
+ 
+Examples: (Continued) 
+ 
+610 20 $6 880-05 $a Zhongguo gong chan dang. 
+880 24 $6 610-05/$1 $a [NON-ROMAN DATA]. 
+ 
+ 
+610 20 $6 880-05 $a Zhongguo gong chan dang $x History. 
+880 24 $6 610-05/$1 $a [NON-ROMAN DATA] $x History. 
+ 
+ 
+6.  Content designation of parallel non-Roman fields.  Use the same numeric tag, subfield 
+codes, and first indicator of the corresponding romanized parallel field.  Assign 4 as the second 
+indicator. 

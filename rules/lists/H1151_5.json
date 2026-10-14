@@ -1,0 +1,732 @@
+{
+  "sheet": "H 1151.5",
+  "title": "Pattern Headings: Types of Educational Institutions",
+  "kind": "pattern",
+  "scope": "Free-floating subdivisions for use under headings for types of schools and educational institutions at all levels (not Schools, not individual institutions); pattern heading Universities and colleges.",
+  "pattern_headings": [
+    "Universities and colleges"
+  ],
+  "pattern_category": "types of schools and educational institutions at all levels",
+  "general_notes": [
+    "TYPES OF HEADINGS COVERED BY THE PATTERN: Headings for types of schools and educational institutions at all levels. Examples: Agricultural colleges; Boarding schools; Community colleges; Elementary schools; Schools of architecture; Women's colleges. The category does not include the heading Schools or headings for names of individual educational institutions, which are covered by H 1151.",
+    "CONFLICTS: Any subdivision listed here can be used as a free-floating subdivision under any heading belonging to the category if it is appropriate and no conflict exists in the subject authority file. Subject authority records may exist for headings employing variant phrases or subdivisions equivalent to subdivisions on this list.",
+    "Note: Most form subdivisions coded $v in this list may also be used as topical subdivisions coded $x when assigned to works about the form (see H 1075, sec. 1.d.)."
+  ],
+  "entries": [
+    {
+      "subdivision": "--Accounting",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Accreditation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Administration",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Administration--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1154.5"
+      ],
+      "endnote": "See H 1154.5 for further subdivisions used under legal topics."
+    },
+    {
+      "subdivision": "--Admission",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Admission--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1154.5"
+      ],
+      "endnote": "See H 1154.5 for further subdivisions used under legal topics."
+    },
+    {
+      "subdivision": "--Alumni and alumnae",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "See H 1100 for further subdivisions used under classes of persons."
+    },
+    {
+      "subdivision": "--Archives",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Auditing",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Auditing--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1154.5"
+      ],
+      "endnote": "See H 1154.5 for further subdivisions used under legal topics."
+    },
+    {
+      "subdivision": "--Business management",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Chapel exercises",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Communication systems",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Communication systems--Contracting out",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Complaints against",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Corrupt practices",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Curricula",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Curricula--Catalogs",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Decentralization",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Departments",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Elective system",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Employees",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "See H 1100 for further subdivisions used under classes of persons."
+    },
+    {
+      "subdivision": "--Entrance examinations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Entrance examinations--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1154.5"
+      ],
+      "endnote": "See H 1154.5 for further subdivisions used under legal topics."
+    },
+    {
+      "subdivision": "--Entrance examinations--Study guides",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Entrance requirements",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Environmental aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Evaluation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Examinations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Examinations--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1154.5"
+      ],
+      "endnote": "See H 1154.5 for further subdivisions used under legal topics."
+    },
+    {
+      "subdivision": "--Examinations--[subject]",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Faculty",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "See H 1100 for further subdivisions used under classes of persons."
+    },
+    {
+      "subdivision": "--Finance",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Finance--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1154.5"
+      ],
+      "endnote": "See H 1154.5 for further subdivisions used under legal topics."
+    },
+    {
+      "subdivision": "--Food service",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Graduate work",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Graduate work--Examinations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Graduation requirements",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Health promotion services",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Honors courses",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Insignia",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1154.5"
+      ],
+      "endnote": "See H 1154.5 for further subdivisions used under legal topics."
+    },
+    {
+      "subdivision": "--Mergers",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Names",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Open admission",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Planning",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Prayers",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Privileges and immunities",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Professional staff",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "See H 1100 for further subdivisions used under classes of persons."
+    },
+    {
+      "subdivision": "--Public services",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Ratings and rankings",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Religion",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Residence requirements",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Safety measures",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Sanitary affairs",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Security measures",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Sermons",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Services for",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Services for--Contracting out",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Sociological aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Standards",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Waste disposal",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Waste minimization",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    }
+  ]
+}

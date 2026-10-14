@@ -1,0 +1,172 @@
+
+
+<<<PAGE 1>>>
+ 
+Name Headings as Subjects  H 430 
+ 
+ 
+ 
+Subject Headings Manual 
+H 430 Page 1 
+ 
+January 2020 
+BACKGROUND:  Most name headings are usable not only as main or added entries, but also 
+as subject headings.  There are some situations, however, where a valid name heading may not 
+be assigned as a subject heading because there are overriding subject cataloging policies.  
+Catalogers are responsible for being aware of, and being able to identify, those situations where 
+a name heading is inappropriate for subject use.  They are also responsible, in situations 
+where a name heading is appropriate and required for use as a subject heading or subdivision, 
+for determining that it is a currently valid name heading.  Information regarding the current 
+status of a name heading is available in the name authority record for that heading.  This 
+instruction sheet describes the techniques for determining whether a required name heading is 
+authorized for use in RDA cataloging, and illustrates how to interpret the data found in displays 
+of name authority records. 
+ 
+ 
+1.  Name headings used by descriptive catalogers.  If a required name heading appears in the 
+bibliographic record for a work being cataloged, either as the main entry or as an added entry, it 
+may be assumed that it is a valid AACR2 or RDA heading.  Use such headings as subject 
+headings without further searching. 
+ 
+ 
+2.  Searching name headings in the LC Database.  If a name heading is required for use as a 
+subject heading and does not appear in the bibliographic record or has not been provided by the 
+descriptive cataloger, search the LC Database to determine whether it has been established and 
+whether it is currently valid.  If the required name heading is not found, establish it or request a 
+descriptive cataloger to do so. 
+ 
+ 
+3.  Determining whether a heading found in the LC Database may be assigned as a subject 
+heading.  In order to determine whether a heading found in the LC Database is valid for subject 
+use, examine the heading and its authority record to determine whether it meets all of the 
+following criteria: 
+ 
+• RDA and AACR2 coding.  The heading must be coded as conforming to either RDA 
+or AACR2.  Authorized RDA headings are indicated by the presence of the value z 
+in field 008/10. Authorized AACR2 headings are indicated by the presence of the 
+value c in field 008/10. 
+ 
+
+
+<<<PAGE 2>>>
+H 430  Name Headings as Subjects 
+ 
+ 
+ 
+H 430 Page 2 
+Subject Headings Manual 
+January 2020 
+3.  Determining whether a heading found in the LC Database may be assigned as a subject 
+heading.   
+ 
+• RDA and AACR2 coding.  (Continued)    
+ 
+Note: In the LC ILS, field 008/10 corresponds with the box labeled Descriptive 
+cataloging rules on the 008 input screen.  To display this screen, click the 008 
+button on the authority record display.  To return to the authority record display 
+from the 008 input screen, click Cancel.  When examining the 008 input screen, 
+subject catalogers should take care not to inadvertently change any of the values 
+that have been set.  Clicking Cancel instead of OK to exit the screen ensures 
+that any changes that may have accidentally been made are not saved. 
+ 
+If the heading is not coded AACR2 or RDA, upgrade the heading to RDA form, or 
+request a descriptive cataloger to do so. 
+ 
+• Subject heading usage coding.  The value a must appear in field 008/15, indicating 
+that the heading is valid for use as a subject . 
+ 
+Note: In the LC ILS the value a in field 008/15 corresponds with a : Appropriate 
+beside the box labeled Heading use-subject added entry (008/15) on the 008 
+input screen. To display this screen, click the 008 button on the authority record 
+display.  To return to the authority record display from the 008 input screen, 
+click Cancel.  
+ 
+If the value b is present in field 008/15, there is normally a 667 SUBJECT USAGE 
+field in the record describing what heading should be used instead (see illustration #2). 
+If this field is not present, refer the matter to the Policy, Training, and Cooperative 
+Programs Division. 
+ 
+Note:  The value b in field 008/15 corresponds with b : Not appropriate beside 
+the  box labeled Heading use-subject added entry (008/15) on the 008 input 
+screen.  To display this screen, click the 008 button on the authority record 
+display.  To return to the authority record display from the 008 input screen, 
+click Cancel.  
+ 
+
+
+<<<PAGE 3>>>
+ 
+Name Headings as Subjects  H 430 
+ 
+ 
+ 
+Subject Headings Manual 
+H 430 Page 3 
+ 
+January 2020 
+3.  Determining whether a heading found in the LC Database may be assigned as a subject 
+heading.   
+ 
+• RDA and AACR2 coding.  (Continued)    
+ 
+All newly created name authority records are automatically assigned value a in 
+field 008/15.  The value is changed to b only when a proposal has been made 
+and approved to have a 667 SUBJECT USAGE note added to the record to 
+explicitly prohibit use of the heading as a subject (cf. H 432).  Thus the presence 
+of the value a in field 008/15 means only that no conscious decision has been 
+made that the heading is inappropriate for use as a subject, and does not in itself 
+mean that the heading is appropriate without regard to the other criteria listed in 
+this section. 
+ 
+• Name headings that conflict with subject cataloging policies.  Use of the heading 
+must not conflict with any established policies for the assignment of name headings as 
+subjects or the construction of topical subject headings. 
+ 
+Example #1:  Even though the heading California.  Governor 
+(1967-1975 : Reagan) meets all other criteria for subject usage, it may 
+still not be assigned as a subject heading, because it is subject cataloging 
+policy to assign the personal name form, i.e., Reagan, Ronald, rather than 
+the corporate form when assigning names of government officials as 
+subjects. 
+ 
+Example #2:  Even though there is an authority record in the name 
+authority file for the heading Twain, Mark, 1835-1910.  Adventures of 
+Tom Sawyer.  Ukrainian, it may not be assigned in that form because it 
+is subject cataloging policy to omit elements such as language when 
+assigning uniform titles as subject headings to commentaries (cf. H 1435). 
+ 
+Example #3:  Even though the authority record for Rampling, Anne, 
+1941- meets the criteria for subject usage, it may not be assigned as a 
+subject heading because it is subject cataloging policy for literary authors 
+who write under various names and have more than one name heading to 
+use the heading that serves as the “base heading” for the author, that is, 
+the heading having the complete set of references for the author.  In this 
+case, that heading is Rice, Ann, 1941- . 
+ 
+
+
+<<<PAGE 4>>>
+H 430  Name Headings as Subjects 
+ 
+ 
+ 
+H 430 Page 4 
+Subject Headings Manual 
+January 2020 
+3.  Determining whether a heading found in the LC Database may be assigned as a subject 
+heading.  
+ 
+• Name headings that conflict with subject cataloging policies. (Continued) 
+ 
+   
+Example #4:  Many headings that represent the earlier names of current 
+jurisdictions have a : Appropriate  in the Heading use-subject added 
+entry box on 008 input screen of the authority record.  Such headings 
+may not, however, be assigned as subject headings because it is subject 
+cataloging policy to assign only the latest name of a jurisdiction.  When a 
+heading of this type is encountered, a proposal should be submitted, in 
+accordance with H 708, to add a 667 field to its authority record.  When 
+the proposal is approved, the value is changed to b : Not appropriate. 
+ 
+If use of any heading would violate standard subject cataloging policy, follow the 
+policy and do not use the heading. 

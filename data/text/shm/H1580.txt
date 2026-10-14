@@ -1,0 +1,94 @@
+
+
+<<<PAGE 1>>>
+ 
+Effect of One Topic on Another  H 1580 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1580 Page 1 
+ 
+June 2013 
+BACKGROUND:  In subject heading practice several types of headings have been used for 
+works discussing the effect or influence of one topic on another: 
+ 
+[topic]BEffect of [ . . . ] on 
+[topic]BInfluence 
+[topic]B[ . . . ] influences 
+ 
+[topic], Influence of 
+[topic], Influence of [ . . . ] on 
+ 
+[topic], Effect of [ . . . ] on  
+[topic]BInfluence of [ . . . ]  
+[topic]BInfluence on [ . . . ] 
+ 
+Most headings of the last three types are obsolete and have been replaced by [topic]BEffect of 
+[ . . . ] on.  In the future, BEffect of [ . . . ] on should be established and used for works which 
+discuss the effect of one topic on another.  This instruction sheet presents guidelines for the use 
+of the subdivision BEffect of [ . . . ] on.  For provisions involving the use of the general 
+subdivisions BInfluence and B[ . . . ] influences, see H 1675.  For information on headings that 
+express the general relationship between two topics, see H 310. 
+ 
+ 
+ 
+1.  Usage of BEffect of [ . . . ] on.  Establish the subdivision BEffect of [ . . . ] on (May Subd 
+Geog) for works discussing the effects of an agent or activity on a topic in those areas where 
+clear patterns of using such subdivisions already exist, such as under plants, animals, materials, 
+parts of the body, and some topics in the fields of business and economics..  Examples: 
+ 
+650 #0 $a Body temperature $x Effect of drugs on. 
+650 #0 $a Housing $x Effect of inflation on. 
+650 #0 $a Collective bargaining $x Effect of mass media on. 
+650 #0 $a Aquatic animals $x Effect of water pollution on. 
+ 
+a.  BEffect on [ . . . ] not used.  Do not establish headings of the type [topic]BEffect on 
+[ . . . ].  Instead, establish the subdivision BEffect of [ . . . ] on under the heading for the 
+topic affected. 
+ 
+b.  BInfluence of [ . . . ]; BInfluence on [ . . . ].  Do not establish new headings using the 
+obsolete subdivisions BInfluence of [ . . . ] or BInfluence on [ . . . ].  However, continue 
+using existing headings with these subdivisions. 
+
+
+<<<PAGE 2>>>
+H 1580  Effect of One Topic on Another 
+ 
+ 
+ 
+H 1580 Page 2 
+Subject Headings Manual 
+June 2013 
+1.  Usage of BEffect of [ . . . ] on.  (Continued) 
+ 
+c.  [topic], Effect of [ . . . ] on.  Do not establish inverted phrase headings of the type 
+[topic], Effect of [ . . . ] on.  Instead, establish the subdivision BEffect of [ . . . ] on 
+under the heading for the topic affected. 
+ 
+ 
+2.  Subdivisions controlled by pattern headings.  Certain BEffect of [ . . . ] on subdivisions are 
+established under pattern headings, and as such, are free-floating subdivisions under any other 
+heading belonging to the category represented by the pattern heading (cf. H 1146). 
+ 
+ 
+3.  References.  Establish editorially each [topic]BEffect of [ . . . ] on heading where the 
+subdivision is not free-floating because it is not controlled by a pattern heading.  Use the 
+heading producing the effect as the broader term.  Do not make a UF reference unless no 
+specific heading exists for the agent or activity producing the effect.  Examples: 
+ 
+150 ## $a Inflation (Finance) $x Effect of productivity on 
+550 ## $w g $a Industrial productivity 
+ 
+150 ## $a Ruby lasers $x Effect of radiation on 
+550 ## $w g $a Radiation 
+ 
+150 ## $a Bridges, Concrete $x Effect of temperature on 
+550 ## $w g $a Temperature 
+ 
+150 ## $a Automobiles $x Effect of explosive devices on 
+550 ## $w g $a Explosives 
+ 
+150 ## $a Microorganisms $x Effect of antibiotics on 
+550 ## $w g $a Antibiotics $x Physiological effect 
+ 

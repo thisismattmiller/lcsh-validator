@@ -1,0 +1,4041 @@
+{
+  "sheet": "H 1100",
+  "title": "Free-floating Subdivisions: Classes of Persons",
+  "kind": "classes-of-persons",
+  "scope": "Topical and form subdivisions usable on a free-floating basis under headings for classes of persons (age and sex groups; social, economic, political categories; afflicted persons; members of religions; employees and occupational groups; classes of persons formed with place/corporate subdivisions or ethnic/national qualifiers); not under social classes, ethnic groups/nationalities, or religious orders",
+  "pattern_headings": [],
+  "pattern_category": "",
+  "general_notes": [
+    "LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. *Textbooks*. To replace a form subdivision that includes a demographic group, also assign Library of Congress Demographic Groups Terms (LCDGT) to bring out the audience of the resource being cataloged, e.g. *German speakers* or *Arabic, Students of*.",
+    "Subdivisions from this list may be used under headings for groups of literary authors where there is no conflict with a subdivision specifically designated for use under literary authors in H 1155.2.",
+    "Determine if the use of a free-floating subdivision from this list conflicts with a previously established subject heading. In the event of a conflict between an established subject heading and a subdivision on this list, use the established heading unless a decision has been made to update or change all headings of that type. For example, use the established subject heading *Child abuse* rather than formulate a heading of the type *Children--Abuse of*. However, previously established headings of the type *Teachers, Training of* were changed to the form *Teachers--Training of*.",
+    "Cross-references printed in the list (May Subd Geog column \"--\") are not valid subdivisions; they are kept separately in see_references with their targets."
+  ],
+  "entries": [
+    {
+      "subdivision": "--Abstracting and indexing",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1205",
+        "H 1670"
+      ],
+      "endnote": "",
+      "marc": "$x Abstracting and indexing"
+    },
+    {
+      "subdivision": "--Abstracts",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1205"
+      ],
+      "endnote": "",
+      "marc": "$x Abstracts"
+    },
+    {
+      "subdivision": "--Abuse of",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Abuse of"
+    },
+    {
+      "subdivision": "--Alcohol use",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Alcohol use"
+    },
+    {
+      "subdivision": "--Anniversaries, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use for works discussing or listing dates or commemorations of significant events for group members",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Anniversaries, etc."
+    },
+    {
+      "subdivision": "--Anthropometry",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Anthropometry"
+    },
+    {
+      "subdivision": "--Archives",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1230"
+      ],
+      "endnote": "",
+      "marc": "$x Archives"
+    },
+    {
+      "subdivision": "--Assassination attempts",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Assassination attempts"
+    },
+    {
+      "subdivision": "--Attitudes",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use for works on attitudes or opinions held by members of the group",
+      "notes": "For works on public opinion about the group, see *--Public opinion*.",
+      "see_also": [],
+      "consult": [
+        "H 1955"
+      ],
+      "endnote": "",
+      "marc": "$x Attitudes"
+    },
+    {
+      "subdivision": "--Autographs",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Autographs"
+    },
+    {
+      "subdivision": "--Biography",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under classes of persons for works about collective or individual biography",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1330"
+      ],
+      "endnote": "",
+      "marc": "$x Biography"
+    },
+    {
+      "subdivision": "--Biography--History and criticism",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Biography $x History and criticism"
+    },
+    {
+      "subdivision": "--Biography--Sources",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under classes pf persons for works about biographical source materials pertaining to persons belonging to those groups",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Biography $x Sources"
+    },
+    {
+      "subdivision": "--Blogs",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Blogs"
+    },
+    {
+      "subdivision": "--Bonding",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "occupational groups and types of employees",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Bonding"
+    },
+    {
+      "subdivision": "--Books and reading",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1333"
+      ],
+      "endnote": "",
+      "marc": "$x Books and reading"
+    },
+    {
+      "subdivision": "--Care",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "classes of persons generally dependent upon the care or assistance of others for works involving personal care in general or covering several levels of care, for example, *Infants--Care*; *People with mental disabilities--Care*",
+      "notes": "For specific types of care, see the specific subdivision, for example, *--Home care*; *--Institutional care*; *--Medical care*; *--Respite care*.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Care"
+    },
+    {
+      "subdivision": "--Caricatures and cartoons",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Caricatures and cartoons"
+    },
+    {
+      "subdivision": "--Case studies",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1350"
+      ],
+      "endnote": "",
+      "marc": "$x Case studies"
+    },
+    {
+      "subdivision": "--Certification",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "occupational groups and types of employees",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Certification"
+    },
+    {
+      "subdivision": "--Charitable contributions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Charitable contributions"
+    },
+    {
+      "subdivision": "--Civil rights",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Civil rights"
+    },
+    {
+      "subdivision": "--Civil rights--Religious aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1998"
+      ],
+      "endnote": "",
+      "marc": "$x Civil rights $x Religious aspects"
+    },
+    {
+      "subdivision": "--Classification",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under classes of persons for works on the theory and/or methodology of creating a systematic breakdown of a class of persons into its constituent categories or subgroups",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Classification"
+    },
+    {
+      "subdivision": "--Clothing",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [
+        "--Uniforms"
+      ],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Clothing"
+    },
+    {
+      "subdivision": "--Collectibles",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Collectibles"
+    },
+    {
+      "subdivision": "--Colonization",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "Use as a topical subdivision under classes of persons who are being transplanted to establish colonies in new lands",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Colonization"
+    },
+    {
+      "subdivision": "--Conduct of life",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Conduct of life"
+    },
+    {
+      "subdivision": "--Correspondence",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1480"
+      ],
+      "endnote": "",
+      "marc": "$x Correspondence"
+    },
+    {
+      "subdivision": "--Counseling of",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Counseling of"
+    },
+    {
+      "subdivision": "--Crimes against",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Crimes against"
+    },
+    {
+      "subdivision": "--Crimes against--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Crimes against $x Law and legislation"
+    },
+    {
+      "subdivision": "--Death",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Death"
+    },
+    {
+      "subdivision": "--Deinstitutionalization",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Deinstitutionalization"
+    },
+    {
+      "subdivision": "--Dental care",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Dental care"
+    },
+    {
+      "subdivision": "--Diaries",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1538"
+      ],
+      "endnote": "",
+      "marc": "$x Diaries"
+    },
+    {
+      "subdivision": "--Discipline",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Discipline"
+    },
+    {
+      "subdivision": "--Discography",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1361"
+      ],
+      "endnote": "",
+      "marc": "$x Discography"
+    },
+    {
+      "subdivision": "--Diseases",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Diseases"
+    },
+    {
+      "subdivision": "--Dismissal of",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "occupational groups and types of employees",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Dismissal of"
+    },
+    {
+      "subdivision": "--Drama",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1780"
+      ],
+      "endnote": "",
+      "marc": "$x Drama"
+    },
+    {
+      "subdivision": "--Drug testing",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2186"
+      ],
+      "endnote": "",
+      "marc": "$x Drug testing"
+    },
+    {
+      "subdivision": "--Drug use",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Drug use"
+    },
+    {
+      "subdivision": "--Dwellings",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "Use for works on residential buildings for the group from the standpoint of architecture, construction, ethnology, etc.",
+      "notes": "For works on social or economic aspects of the provision of housing for the group, see --Housing. For works on the actual homes of individual members of the group from an architectural or historical point of view, see *--Homes and haunts*.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Dwellings"
+    },
+    {
+      "subdivision": "--Early works to 1800",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1576"
+      ],
+      "endnote": "",
+      "marc": "$x Early works to 1800"
+    },
+    {
+      "subdivision": "--Economic conditions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1578"
+      ],
+      "endnote": "",
+      "marc": "$x Economic conditions"
+    },
+    {
+      "subdivision": "--Economic conditions--16th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1578"
+      ],
+      "endnote": "",
+      "marc": "$x Economic conditions $y 16th century"
+    },
+    {
+      "subdivision": "--Economic conditions--17th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1578"
+      ],
+      "endnote": "",
+      "marc": "$x Economic conditions $y 17th century"
+    },
+    {
+      "subdivision": "--Economic conditions--18th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1578"
+      ],
+      "endnote": "",
+      "marc": "$x Economic conditions $y 18th century"
+    },
+    {
+      "subdivision": "--Economic conditions--19th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1578"
+      ],
+      "endnote": "",
+      "marc": "$x Economic conditions $y 19th century"
+    },
+    {
+      "subdivision": "--Economic conditions--20th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1578"
+      ],
+      "endnote": "",
+      "marc": "$x Economic conditions $y 20th century"
+    },
+    {
+      "subdivision": "--Economic conditions--21st century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1578"
+      ],
+      "endnote": "",
+      "marc": "$x Economic conditions $y 21st century"
+    },
+    {
+      "subdivision": "--Education",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1579"
+      ],
+      "endnote": "",
+      "marc": "$x Education"
+    },
+    {
+      "subdivision": "--Education (Continuing education)",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1579"
+      ],
+      "endnote": "",
+      "marc": "$x Education (Continuing education)"
+    },
+    {
+      "subdivision": "--Education (Early childhood)",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1579"
+      ],
+      "endnote": "",
+      "marc": "$x Education (Early childhood)"
+    },
+    {
+      "subdivision": "--Education (Elementary)",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1579"
+      ],
+      "endnote": "",
+      "marc": "$x Education (Elementary)"
+    },
+    {
+      "subdivision": "--Education (Graduate)",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1579"
+      ],
+      "endnote": "",
+      "marc": "$x Education (Graduate)"
+    },
+    {
+      "subdivision": "--Education (Higher)",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1579"
+      ],
+      "endnote": "",
+      "marc": "$x Education (Higher)"
+    },
+    {
+      "subdivision": "--Education (Middle school)",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1579"
+      ],
+      "endnote": "",
+      "marc": "$x Education (Middle school)"
+    },
+    {
+      "subdivision": "--Education (Preschool)",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1579"
+      ],
+      "endnote": "",
+      "marc": "$x Education (Preschool)"
+    },
+    {
+      "subdivision": "--Education (Primary)",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1579"
+      ],
+      "endnote": "",
+      "marc": "$x Education (Primary)"
+    },
+    {
+      "subdivision": "--Education (Secondary)",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1579"
+      ],
+      "endnote": "",
+      "marc": "$x Education (Secondary)"
+    },
+    {
+      "subdivision": "--Effect of automation on",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "occupational groups and types of employees",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1580"
+      ],
+      "endnote": "",
+      "marc": "$x Effect of automation on"
+    },
+    {
+      "subdivision": "--Effect of imprisonment on",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1580"
+      ],
+      "endnote": "",
+      "marc": "$x Effect of imprisonment on"
+    },
+    {
+      "subdivision": "--Effect of technological innovations on",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1580"
+      ],
+      "endnote": "",
+      "marc": "$x Effect of technological innovations on"
+    },
+    {
+      "subdivision": "--Employment",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Employment"
+    },
+    {
+      "subdivision": "--Employment--Foreign countries",
+      "subfield": "z",
+      "type": "geographic",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Employment $z Foreign countries"
+    },
+    {
+      "subdivision": "--Examinations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use only if a heading for the corresponding field or activity does not exist or cannot be established, for example, *Hospital ward clerks--Examinations*",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Examinations"
+    },
+    {
+      "subdivision": "--Family relationships",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Family relationships"
+    },
+    {
+      "subdivision": "--Fees",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "professional groups",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Fees"
+    },
+    {
+      "subdivision": "--Finance, Personal",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1624"
+      ],
+      "endnote": "",
+      "marc": "$x Finance, Personal"
+    },
+    {
+      "subdivision": "--Folklore",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1627"
+      ],
+      "endnote": "",
+      "marc": "$x Folklore"
+    },
+    {
+      "subdivision": "--Gambling",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Gambling"
+    },
+    {
+      "subdivision": "--Genealogy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1631"
+      ],
+      "endnote": "",
+      "marc": "$x Genealogy"
+    },
+    {
+      "subdivision": "--Government policy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1642"
+      ],
+      "endnote": "",
+      "marc": "$x Government policy"
+    },
+    {
+      "subdivision": "--Health and hygiene",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Health and hygiene"
+    },
+    {
+      "subdivision": "--Health risk assessment",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Health risk assessment"
+    },
+    {
+      "subdivision": "--Historiography",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Historiography"
+    },
+    {
+      "subdivision": "--History",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1647"
+      ],
+      "endnote": "",
+      "marc": "$x History"
+    },
+    {
+      "subdivision": "--History--16th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1647"
+      ],
+      "endnote": "",
+      "marc": "$x History $y 16th century"
+    },
+    {
+      "subdivision": "--History--17th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1647"
+      ],
+      "endnote": "",
+      "marc": "$x History $y 17th century"
+    },
+    {
+      "subdivision": "--History--18th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1647"
+      ],
+      "endnote": "",
+      "marc": "$x History $y 18th century"
+    },
+    {
+      "subdivision": "--History--19th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1647"
+      ],
+      "endnote": "",
+      "marc": "$x History $y 19th century"
+    },
+    {
+      "subdivision": "--History--20th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1647"
+      ],
+      "endnote": "",
+      "marc": "$x History $y 20th century"
+    },
+    {
+      "subdivision": "--History--21st century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1647"
+      ],
+      "endnote": "",
+      "marc": "$x History $y 21st century"
+    },
+    {
+      "subdivision": "--History--Sources",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under classes of persons for works about materials of all types, such as legal documents, letters, diaries, family papers, visual and moving image materials, available as source materials for use by students, scholars, etc., in their research on those classes of persons",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2080"
+      ],
+      "endnote": "",
+      "marc": "$x History $x Sources"
+    },
+    {
+      "subdivision": "--Home care",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Home care"
+    },
+    {
+      "subdivision": "--Homes and haunts",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "Use for works on the actual homes of individual members of the group from an architectural or historical point of view. Also use for works on the favorite places of group members or places they habitually frequent or with which they are associated",
+      "notes": "For works on residential buildings for the group from the standpoint of architecture, construction, ethnology, etc., see *--Dwellings*. For works on social or economic aspects of the provision of housing for the group, see *--Housing*.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Homes and haunts"
+    },
+    {
+      "subdivision": "--Hospice care",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Hospice care"
+    },
+    {
+      "subdivision": "--Hospital care",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Hospital care"
+    },
+    {
+      "subdivision": "--Hospitals",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "Do not use under headings for persons with specific diseases. Use *[disease]--Hospitals* instead (cf. H 1150).",
+      "see_also": [],
+      "consult": [
+        "H 1150"
+      ],
+      "endnote": "",
+      "marc": "$x Hospitals"
+    },
+    {
+      "subdivision": "--Housing",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "Use for works on social or economic aspects of the provision of housing for the group",
+      "notes": "For works on residential buildings for the group from the standpoint of architecture, construction, ethnology, etc., see *--Dwellings*. For works on the actual homes of individual members of the group from an architectural or historical point of view, see *--Homes and haunts*.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Housing"
+    },
+    {
+      "subdivision": "--Humor",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Humor"
+    },
+    {
+      "subdivision": "--Identification",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Identification"
+    },
+    {
+      "subdivision": "--In-service training",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "occupational groups and types of employees",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2217"
+      ],
+      "endnote": "",
+      "marc": "$x In-service training"
+    },
+    {
+      "subdivision": "--Information services",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1675.5"
+      ],
+      "endnote": "",
+      "marc": "$x Information services"
+    },
+    {
+      "subdivision": "--Institutional care",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Institutional care"
+    },
+    {
+      "subdivision": "--Insurance requirements",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Insurance requirements"
+    },
+    {
+      "subdivision": "--Intellectual life",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Intellectual life"
+    },
+    {
+      "subdivision": "--Intellectual life--16th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Intellectual life $y 16th century"
+    },
+    {
+      "subdivision": "--Intellectual life--17th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Intellectual life $y 17th century"
+    },
+    {
+      "subdivision": "--Intellectual life--18th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Intellectual life $y 18th century"
+    },
+    {
+      "subdivision": "--Intellectual life--19th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Intellectual life $y 19th century"
+    },
+    {
+      "subdivision": "--Intellectual life--20th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Intellectual life $y 20th century"
+    },
+    {
+      "subdivision": "--Intellectual life--21st century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Intellectual life $y 21st century"
+    },
+    {
+      "subdivision": "--Intelligence levels",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Intelligence levels"
+    },
+    {
+      "subdivision": "--Intelligence testing",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2186"
+      ],
+      "endnote": "",
+      "marc": "$x Intelligence testing"
+    },
+    {
+      "subdivision": "--Intermediate care",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Intermediate care"
+    },
+    {
+      "subdivision": "--Interviews",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1678"
+      ],
+      "endnote": "",
+      "marc": "$x Interviews"
+    },
+    {
+      "subdivision": "--Job descriptions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "Use as a topical subdivision under occupational groups and types of employees for works about summaries of the essential activities involved in the performance of jobs",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Job descriptions"
+    },
+    {
+      "subdivision": "--Job satisfaction",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "occupational groups and types of employees",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Job satisfaction"
+    },
+    {
+      "subdivision": "--Job stress",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Job stress"
+    },
+    {
+      "subdivision": "--Labor unions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "occupational groups and types of employees",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Labor unions"
+    },
+    {
+      "subdivision": "--Labor unions--Organizing",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "occupational groups and types of employees",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Labor unions $x Organizing"
+    },
+    {
+      "subdivision": "--Language",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Language"
+    },
+    {
+      "subdivision": "--Legal status, laws, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1705"
+      ],
+      "endnote": "",
+      "marc": "$x Legal status, laws, etc."
+    },
+    {
+      "subdivision": "--Library resources",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Library resources"
+    },
+    {
+      "subdivision": "--Licenses",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "occupational groups and types of employees",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Licenses"
+    },
+    {
+      "subdivision": "--Licenses--Fees",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Licenses $x Fees"
+    },
+    {
+      "subdivision": "--Life skills assessment",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Life skills assessment"
+    },
+    {
+      "subdivision": "--Long-term care",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Long-term care"
+    },
+    {
+      "subdivision": "--Longitudinal studies",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under classes persons for works about longitudinal studies on those classes of persons",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1848"
+      ],
+      "endnote": "",
+      "marc": "$x Longitudinal studies"
+    },
+    {
+      "subdivision": "--Manuscripts",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Manuscripts"
+    },
+    {
+      "subdivision": "--Medals",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Medals"
+    },
+    {
+      "subdivision": "--Medical care",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Medical care"
+    },
+    {
+      "subdivision": "--Medical examinations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Medical examinations"
+    },
+    {
+      "subdivision": "--Mental health",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1890"
+      ],
+      "endnote": "",
+      "marc": "$x Mental health"
+    },
+    {
+      "subdivision": "--Mental health services",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1890"
+      ],
+      "endnote": "",
+      "marc": "$x Mental health services"
+    },
+    {
+      "subdivision": "--Monuments",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Monuments"
+    },
+    {
+      "subdivision": "--Mortality",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "Do not use under headings for persons with specific diseases. Use *[disease]--Mortality* instead (cf. H 1150).",
+      "see_also": [],
+      "consult": [
+        "H 1150"
+      ],
+      "endnote": "",
+      "marc": "$x Mortality"
+    },
+    {
+      "subdivision": "--Museums",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1916"
+      ],
+      "endnote": "",
+      "marc": "$x Museums"
+    },
+    {
+      "subdivision": "--Notebooks, sketchbooks, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Notebooks, sketchbooks, etc."
+    },
+    {
+      "subdivision": "--Nursing home care",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Nursing home care"
+    },
+    {
+      "subdivision": "--Nutrition",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Nutrition"
+    },
+    {
+      "subdivision": "--Nutrition--Requirements",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Nutrition $x Requirements"
+    },
+    {
+      "subdivision": "--Pastoral counseling of",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Pastoral counseling of"
+    },
+    {
+      "subdivision": "--Pensions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Pensions"
+    },
+    {
+      "subdivision": "--Pensions--Cost-of-living adjustments",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Pensions $x Cost-of-living adjustments"
+    },
+    {
+      "subdivision": "--Pensions--Effect of inflation on",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1580"
+      ],
+      "endnote": "",
+      "marc": "$x Pensions $x Effect of inflation on"
+    },
+    {
+      "subdivision": "--Pensions--Unclaimed benefits",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Pensions $x Unclaimed benefits"
+    },
+    {
+      "subdivision": "--Physiology",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Physiology"
+    },
+    {
+      "subdivision": "--Political activity",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "Do not use under headings for people chiefly known for their political involvement (e.g., Politicians; Political candidates; Presidents).",
+      "see_also": [],
+      "consult": [
+        "H 1942"
+      ],
+      "endnote": "",
+      "marc": "$x Political activity"
+    },
+    {
+      "subdivision": "--Portraits",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1935"
+      ],
+      "endnote": "",
+      "marc": "$x Portraits"
+    },
+    {
+      "subdivision": "--Posters",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1945.5"
+      ],
+      "endnote": "",
+      "marc": "$x Posters"
+    },
+    {
+      "subdivision": "--Prayers and devotions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Prayers and devotions"
+    },
+    {
+      "subdivision": "--Prayers and devotions--History and criticism",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Prayers and devotions $x History and criticism"
+    },
+    {
+      "subdivision": "--Press coverage",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Press coverage"
+    },
+    {
+      "subdivision": "--Professional ethics",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "occupational groups and types of employees",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1949"
+      ],
+      "endnote": "",
+      "marc": "$x Professional ethics"
+    },
+    {
+      "subdivision": "--Professional relationships",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Professional relationships"
+    },
+    {
+      "subdivision": "--Promotions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Promotions"
+    },
+    {
+      "subdivision": "--Prophecies",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Prophecies"
+    },
+    {
+      "subdivision": "--Protection",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Protection"
+    },
+    {
+      "subdivision": "--Psychological testing",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2186"
+      ],
+      "endnote": "",
+      "marc": "$x Psychological testing"
+    },
+    {
+      "subdivision": "--Psychology",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under classes of afflicted persons if the heading for the disease or affliction exists. Use *--Psychological aspects* under the heading for the disease or affliction instead (cf. H 1150).",
+      "see_also": [],
+      "consult": [
+        "H 1150"
+      ],
+      "endnote": "",
+      "marc": "$x Psychology"
+    },
+    {
+      "subdivision": "--Public opinion",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use for works on public opinion about the group",
+      "notes": "For works on attitudes or opinions held by members of the group, see *--Attitudes*.",
+      "see_also": [],
+      "consult": [
+        "H 1955"
+      ],
+      "endnote": "",
+      "marc": "$x Public opinion"
+    },
+    {
+      "subdivision": "--Quotations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use for discussions of quotations by or about the group",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1969"
+      ],
+      "endnote": "",
+      "marc": "$x Quotations"
+    },
+    {
+      "subdivision": "--Rating of",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Rating of"
+    },
+    {
+      "subdivision": "--Recreation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Recreation"
+    },
+    {
+      "subdivision": "--Recruiting",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "occupational groups and types of employees",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Recruiting"
+    },
+    {
+      "subdivision": "--Rehabilitation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Rehabilitation"
+    },
+    {
+      "subdivision": "--Reinstatement",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "occupational groups and types of employees",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Reinstatement"
+    },
+    {
+      "subdivision": "--Religious life",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2015.5"
+      ],
+      "endnote": "",
+      "marc": "$x Religious life"
+    },
+    {
+      "subdivision": "--Relocation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "occupational groups and types of employees",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Relocation"
+    },
+    {
+      "subdivision": "--Reporting to",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "occupational groups and types of employees",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Reporting to"
+    },
+    {
+      "subdivision": "--Research",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2020"
+      ],
+      "endnote": "",
+      "marc": "$x Research"
+    },
+    {
+      "subdivision": "--Residence requirements",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "occupational groups and types of employees",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Residence requirements"
+    },
+    {
+      "subdivision": "--Resignation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "occupational groups and types of employees",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Resignation"
+    },
+    {
+      "subdivision": "--Respite care",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Respite care"
+    },
+    {
+      "subdivision": "--Retirement",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Retirement"
+    },
+    {
+      "subdivision": "--Salaries, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "classes of professional or public employees",
+      "notes": "Headings for wages of nonprofessional employees, workers, etc., are constructed in the form: *Wages--[industry or class of wage earners]*.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Salaries, etc."
+    },
+    {
+      "subdivision": "--Salaries, etc.--Cost-of-living adjustments",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Salaries, etc. $x Cost-of-living adjustments"
+    },
+    {
+      "subdivision": "--Salaries, etc.--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Salaries, etc. $x Law and legislation"
+    },
+    {
+      "subdivision": "--Scholarships, fellowships, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Scholarships, fellowships, etc."
+    },
+    {
+      "subdivision": "--Selection and appointment",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "occupational groups and types of employees",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Selection and appointment"
+    },
+    {
+      "subdivision": "--Services for",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Services for"
+    },
+    {
+      "subdivision": "--Services for--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Services for $x Law and legislation"
+    },
+    {
+      "subdivision": "--Sexual behavior",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Sexual behavior"
+    },
+    {
+      "subdivision": "--Social conditions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2055"
+      ],
+      "endnote": "",
+      "marc": "$x Social conditions"
+    },
+    {
+      "subdivision": "--Social conditions--16th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2055"
+      ],
+      "endnote": "",
+      "marc": "$x Social conditions $y 16th century"
+    },
+    {
+      "subdivision": "--Social conditions--17th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2055"
+      ],
+      "endnote": "",
+      "marc": "$x Social conditions $y 17th century"
+    },
+    {
+      "subdivision": "--Social conditions--18th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2055"
+      ],
+      "endnote": "",
+      "marc": "$x Social conditions $y 18th century"
+    },
+    {
+      "subdivision": "--Social conditions--19th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2055"
+      ],
+      "endnote": "",
+      "marc": "$x Social conditions $y 19th century"
+    },
+    {
+      "subdivision": "--Social conditions--20th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2055"
+      ],
+      "endnote": "",
+      "marc": "$x Social conditions $y 20th century"
+    },
+    {
+      "subdivision": "--Social conditions--21st century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2055"
+      ],
+      "endnote": "",
+      "marc": "$x Social conditions $y 21st century"
+    },
+    {
+      "subdivision": "--Social life and customs",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2057"
+      ],
+      "endnote": "",
+      "marc": "$x Social life and customs"
+    },
+    {
+      "subdivision": "--Social life and customs--16th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2057"
+      ],
+      "endnote": "",
+      "marc": "$x Social life and customs $y 16th century"
+    },
+    {
+      "subdivision": "--Social life and customs--17th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2057"
+      ],
+      "endnote": "",
+      "marc": "$x Social life and customs $y 17th century"
+    },
+    {
+      "subdivision": "--Social life and customs--18th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2057"
+      ],
+      "endnote": "",
+      "marc": "$x Social life and customs $y 18th century"
+    },
+    {
+      "subdivision": "--Social life and customs--19th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2057"
+      ],
+      "endnote": "",
+      "marc": "$x Social life and customs $y 19th century"
+    },
+    {
+      "subdivision": "--Social life and customs--20th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2057"
+      ],
+      "endnote": "",
+      "marc": "$x Social life and customs $y 20th century"
+    },
+    {
+      "subdivision": "--Social life and customs--21st century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2057"
+      ],
+      "endnote": "",
+      "marc": "$x Social life and customs $y 21st century"
+    },
+    {
+      "subdivision": "--Social networks",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Social networks"
+    },
+    {
+      "subdivision": "--Societies, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under headings for classes of persons if the corresponding heading for the discipline can be assigned. For example, use *Engineering--Societies, etc.* not *Engineers--Societies, etc.*, but do use *Women engineers--Societies, etc.* or *African American engineers--Societies, etc.*",
+      "see_also": [],
+      "consult": [
+        "H 2060"
+      ],
+      "endnote": "",
+      "marc": "$x Societies, etc."
+    },
+    {
+      "subdivision": "--Societies and clubs",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "age and sex groups",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2060"
+      ],
+      "endnote": "",
+      "marc": "$x Societies and clubs"
+    },
+    {
+      "subdivision": "--Songs and music",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2075"
+      ],
+      "endnote": "",
+      "marc": "$x Songs and music"
+    },
+    {
+      "subdivision": "--Songs and music--History and criticism",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2075"
+      ],
+      "endnote": "",
+      "marc": "$x Songs and music $x History and criticism"
+    },
+    {
+      "subdivision": "--Statistical services",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2095"
+      ],
+      "endnote": "",
+      "marc": "$x Statistical services"
+    },
+    {
+      "subdivision": "--Statistics",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2095"
+      ],
+      "endnote": "",
+      "marc": "$x Statistics"
+    },
+    {
+      "subdivision": "--Study and teaching",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "Use only for works on study and teaching about the group as a topic",
+      "notes": "The free-floating subdivision *--Study and teaching*, qualified by level of study, for example, *--Study and teaching (Elementary)*; *--Study and teaching (Secondary)*, may also be used under classes of persons (cf. H 1095).",
+      "see_also": [],
+      "consult": [
+        "H 1095",
+        "H 2110"
+      ],
+      "endnote": "",
+      "marc": "$x Study and teaching"
+    },
+    {
+      "subdivision": "--Substance use",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Substance use"
+    },
+    {
+      "subdivision": "--Suffrage",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Suffrage"
+    },
+    {
+      "subdivision": "--Suicidal behavior",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Suicidal behavior"
+    },
+    {
+      "subdivision": "--Supervision of",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "occupational groups and types of employees",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Supervision of"
+    },
+    {
+      "subdivision": "--Supplementary employment",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Supplementary employment"
+    },
+    {
+      "subdivision": "--Supply and demand",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "occupational groups and types of employees",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Supply and demand"
+    },
+    {
+      "subdivision": "--Surgery",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "Do not use under headings for persons with specific diseases to cover surgical treatment of the disease. Use *[disease]--Surgery* instead (cf. H 1150).",
+      "see_also": [],
+      "consult": [
+        "H 1150"
+      ],
+      "endnote": "",
+      "marc": "$x Surgery"
+    },
+    {
+      "subdivision": "--Surgery--Complications",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Surgery $x Complications"
+    },
+    {
+      "subdivision": "--Surgery--Risk factors",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Surgery $x Risk factors"
+    },
+    {
+      "subdivision": "--Suspension",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "occupational groups and types of employees",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Suspension"
+    },
+    {
+      "subdivision": "--Taxation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Taxation"
+    },
+    {
+      "subdivision": "--Taxation--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Taxation $x Law and legislation"
+    },
+    {
+      "subdivision": "--Terminology",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2184"
+      ],
+      "endnote": "",
+      "marc": "$x Terminology"
+    },
+    {
+      "subdivision": "--Time management",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Time management"
+    },
+    {
+      "subdivision": "--Titles",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Titles"
+    },
+    {
+      "subdivision": "--Tobacco use",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Tobacco use"
+    },
+    {
+      "subdivision": "--Tombs",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Tombs"
+    },
+    {
+      "subdivision": "--Training of",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "occupational groups and types of employees",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2217"
+      ],
+      "endnote": "",
+      "marc": "$x Training of"
+    },
+    {
+      "subdivision": "--Transfer",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Transfer"
+    },
+    {
+      "subdivision": "--Transportation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2225"
+      ],
+      "endnote": "",
+      "marc": "$x Transportation"
+    },
+    {
+      "subdivision": "--Travel",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Travel"
+    },
+    {
+      "subdivision": "--Uniforms",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Uniforms"
+    },
+    {
+      "subdivision": "--Violence against",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Violence against"
+    },
+    {
+      "subdivision": "--Vocational education",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Vocational education"
+    },
+    {
+      "subdivision": "--Vocational guidance",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "Use only if a heading for the corresponding field or activity does not exist or cannot be established, for example, *Allied health personnel--Vocational guidance*",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2232"
+      ],
+      "endnote": "",
+      "marc": "$x Vocational guidance"
+    },
+    {
+      "subdivision": "--Workload",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "occupational groups and types of employees",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Workload"
+    },
+    {
+      "subdivision": "--Wounds and injuries",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Wounds and injuries"
+    },
+    {
+      "subdivision": "--Abstracts",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1205"
+      ],
+      "endnote": "",
+      "marc": "$v Abstracts"
+    },
+    {
+      "subdivision": "--Anecdotes",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Anecdotes"
+    },
+    {
+      "subdivision": "--Archives",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1230"
+      ],
+      "endnote": "",
+      "marc": "$v Archives"
+    },
+    {
+      "subdivision": "--Archives--Microform catalogs",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use this subdivision combination as a form subdivision under classes of persons",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Archives $v Microform catalogs"
+    },
+    {
+      "subdivision": "--Autographs",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Autographs"
+    },
+    {
+      "subdivision": "--Biography",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1330"
+      ],
+      "endnote": "",
+      "marc": "$v Biography"
+    },
+    {
+      "subdivision": "--Biography--Dictionaries",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Biography $v Dictionaries"
+    },
+    {
+      "subdivision": "--Biography--Pictorial works",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1935"
+      ],
+      "endnote": "",
+      "marc": "$v Biography $v Pictorial works"
+    },
+    {
+      "subdivision": "--Biography--Sources",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use this subdivision combination as a form subdivision under classes of persons for collections of biographical source materials pertaining to persons belonging to those groups",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Biography $v Sources"
+    },
+    {
+      "subdivision": "--Blogs",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Blogs"
+    },
+    {
+      "subdivision": "--Book reviews",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2021"
+      ],
+      "endnote": "",
+      "marc": "$v Book reviews"
+    },
+    {
+      "subdivision": "--Caricatures and cartoons",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Caricatures and cartoons"
+    },
+    {
+      "subdivision": "--Case studies",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1350"
+      ],
+      "endnote": "",
+      "marc": "$v Case studies"
+    },
+    {
+      "subdivision": "--Classification",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use as a form subdivision under classes of persons for works that consist of a systematic breakdown of a class of persons into its constituent categories or subgroups",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Classification"
+    },
+    {
+      "subdivision": "--Comic books, strips, etc.",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Comic books, strips, etc."
+    },
+    {
+      "subdivision": "--Correspondence",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1480"
+      ],
+      "endnote": "",
+      "marc": "$v Correspondence"
+    },
+    {
+      "subdivision": "--Diaries",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1538"
+      ],
+      "endnote": "",
+      "marc": "$v Diaries"
+    },
+    {
+      "subdivision": "--Directories",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1558"
+      ],
+      "endnote": "",
+      "marc": "$v Directories"
+    },
+    {
+      "subdivision": "--Discography",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1361"
+      ],
+      "endnote": "",
+      "marc": "$v Discography"
+    },
+    {
+      "subdivision": "--Drama",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1780"
+      ],
+      "endnote": "",
+      "marc": "$v Drama"
+    },
+    {
+      "subdivision": "--Early works to 1800",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1576"
+      ],
+      "endnote": "",
+      "marc": "$v Early works to 1800"
+    },
+    {
+      "subdivision": "--Examinations--Study guides",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use this subdivision combination as a form subdivision under classes of persons for study guides for those groups",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Examinations $v Study guides"
+    },
+    {
+      "subdivision": "--Examinations, questions, etc.",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Examinations, questions, etc."
+    },
+    {
+      "subdivision": "--Fiction",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1790"
+      ],
+      "endnote": "",
+      "marc": "$v Fiction"
+    },
+    {
+      "subdivision": "--Folklore",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1627"
+      ],
+      "endnote": "",
+      "marc": "$v Folklore"
+    },
+    {
+      "subdivision": "--Genealogy",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1631"
+      ],
+      "endnote": "",
+      "marc": "$v Genealogy"
+    },
+    {
+      "subdivision": "--Handbooks, manuals, etc.",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use only if a heading for the corresponding field or activity does not exist or cannot be established, for example, *Nurses' aides--Handbooks, manuals, etc.*",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1646"
+      ],
+      "endnote": "",
+      "marc": "$v Handbooks, manuals, etc."
+    },
+    {
+      "subdivision": "--History--Sources",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use this subdivision combination as a form subdivision under classes of persons for collections of materials of all types, such as legal documents, letters, diaries, family papers, visual and moving image materials, assembled at a later time to serve as source materials for use by students, scholars, etc., in their research on those classes of persons",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2080"
+      ],
+      "endnote": "",
+      "marc": "$x History $v Sources"
+    },
+    {
+      "subdivision": "--Humor",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Humor"
+    },
+    {
+      "subdivision": "--Interviews",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1678"
+      ],
+      "endnote": "",
+      "marc": "$v Interviews"
+    },
+    {
+      "subdivision": "--Job descriptions",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": true,
+      "use_under": "Use as a form subdivision under occupational groups and types of employees for summaries of the essential activities involved in the performance of jobs",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Job descriptions"
+    },
+    {
+      "subdivision": "--Juvenile drama",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Juvenile drama"
+    },
+    {
+      "subdivision": "--Juvenile fiction",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Juvenile fiction"
+    },
+    {
+      "subdivision": "--Juvenile humor",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Juvenile humor"
+    },
+    {
+      "subdivision": "--Juvenile poetry",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Juvenile poetry"
+    },
+    {
+      "subdivision": "--Life skills guides",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Life skills guides"
+    },
+    {
+      "subdivision": "--Literary collections",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Literary collections"
+    },
+    {
+      "subdivision": "--Longitudinal studies",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use as a form subdivision under classes of persons for works that report the results of longitudinal studies on those classes of persons",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1848"
+      ],
+      "endnote": "",
+      "marc": "$v Longitudinal studies"
+    },
+    {
+      "subdivision": "--Notebooks, sketchbooks, etc.",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Notebooks, sketchbooks, etc."
+    },
+    {
+      "subdivision": "--Obituaries",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Obituaries"
+    },
+    {
+      "subdivision": "--Outlines, syllabi, etc.",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Outlines, syllabi, etc."
+    },
+    {
+      "subdivision": "--Pictorial works",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1935"
+      ],
+      "endnote": "",
+      "marc": "$v Pictorial works"
+    },
+    {
+      "subdivision": "--Poetry",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1800"
+      ],
+      "endnote": "",
+      "marc": "$v Poetry"
+    },
+    {
+      "subdivision": "--Portraits",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1935"
+      ],
+      "endnote": "",
+      "marc": "$v Portraits"
+    },
+    {
+      "subdivision": "--Posters",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1945.5"
+      ],
+      "endnote": "",
+      "marc": "$v Posters"
+    },
+    {
+      "subdivision": "--Prayers and devotions",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Prayers and devotions"
+    },
+    {
+      "subdivision": "--Quotations",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use for collections of quotations by or about the group",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1969"
+      ],
+      "endnote": "",
+      "marc": "$v Quotations"
+    },
+    {
+      "subdivision": "--Registers",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1558"
+      ],
+      "endnote": "",
+      "marc": "$v Registers"
+    },
+    {
+      "subdivision": "--Social conditions--Humor",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use this subdivision combination as a form subdivision under classes of persons, for works of social satire on those people or groups",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Social conditions $v Humor"
+    },
+    {
+      "subdivision": "--Social life and customs--Humor",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use this subdivision combination as a form subdivision under classes of persons, for works of social satire on those people or groups",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Social life and customs $v Humor"
+    },
+    {
+      "subdivision": "--Songs and music",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2075"
+      ],
+      "endnote": "",
+      "marc": "$v Songs and music"
+    },
+    {
+      "subdivision": "--Songs and music--Discography",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Songs and music $v Discography"
+    },
+    {
+      "subdivision": "--Songs and music--Texts",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2190"
+      ],
+      "endnote": "",
+      "marc": "$v Songs and music $v Texts"
+    },
+    {
+      "subdivision": "--Statistics",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2095"
+      ],
+      "endnote": "",
+      "marc": "$v Statistics"
+    },
+    {
+      "subdivision": "--Telephone calls",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Telephone calls"
+    },
+    {
+      "subdivision": "--Telephone directories",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1558"
+      ],
+      "endnote": "",
+      "marc": "$v Telephone directories"
+    },
+    {
+      "subdivision": "--Terminology",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2184"
+      ],
+      "endnote": "",
+      "marc": "$v Terminology"
+    }
+  ],
+  "see_references": [
+    {
+      "term": "--Appointment, qualifications, tenure, etc.",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Selection and appointment”",
+      "targets": [
+        "--Selection and appointment"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Assaults against",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Violence against”",
+      "targets": [
+        "--Violence against"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Biography--Anniversaries, etc.",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Anniversaries, etc.”",
+      "targets": [
+        "--Anniversaries, etc."
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Care and hygiene",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Care”; “Health and hygiene”",
+      "targets": [
+        "--Care",
+        "--Health and hygiene"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Care and treatment",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Care”",
+      "targets": [
+        "--Care"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Clubs",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Societies and clubs”",
+      "targets": [
+        "--Societies and clubs"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Contributions, Charitable",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Charitable contributions”",
+      "targets": [
+        "--Charitable contributions"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Costume",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Clothing”",
+      "targets": [
+        "--Clothing"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Cultural life",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Intellectual life”",
+      "targets": [
+        "--Intellectual life"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Customs",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Social life and customs”",
+      "targets": [
+        "--Social life and customs"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Demand and supply",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Supply and demand”",
+      "targets": [
+        "--Supply and demand"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Devotions",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Prayers and devotions”",
+      "targets": [
+        "--Prayers and devotions"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Directories--Telephone",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Telephone directories”",
+      "targets": [
+        "--Telephone directories"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Diseases and hygiene",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Diseases”; “Health and hygiene”",
+      "targets": [
+        "--Diseases",
+        "--Health and hygiene"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Employment, Supplementary",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Supplementary employment”",
+      "targets": [
+        "--Supplementary employment"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Ethics, Professional",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Professional ethics”",
+      "targets": [
+        "--Professional ethics"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Fellowships",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Scholarships, fellowships, etc.”",
+      "targets": [
+        "--Scholarships, fellowships, etc."
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Haunts",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Homes and haunts”",
+      "targets": [
+        "--Homes and haunts"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--History--Anniversaries, etc.",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Anniversaries, etc.”",
+      "targets": [
+        "--Anniversaries, etc."
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Hygiene",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Health and hygiene”",
+      "targets": [
+        "--Health and hygiene"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Iconography",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Pictorial works”",
+      "targets": [
+        "--Pictorial works"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Injuries",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Wounds and injuries”",
+      "targets": [
+        "--Wounds and injuries"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Law and legislation",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Legal status, laws, etc.”",
+      "targets": [
+        "--Legal status, laws, etc."
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Music",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Songs and music”",
+      "targets": [
+        "--Songs and music"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Outside employment",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Supplementary employment”",
+      "targets": [
+        "--Supplementary employment"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Personal finance",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Finance, Personal”",
+      "targets": [
+        "--Finance, Personal"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Places frequented",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Homes and haunts”",
+      "targets": [
+        "--Homes and haunts"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Psychiatric care",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Mental health services”",
+      "targets": [
+        "--Mental health services"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Qualifications",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Rating of”; “Selection and appointment”",
+      "targets": [
+        "--Rating of",
+        "--Selection and appointment"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Quotations, maxims, etc.",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Quotations”",
+      "targets": [
+        "--Quotations"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Reading habits or interests",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Books and reading”",
+      "targets": [
+        "--Books and reading"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Salaries, allowances, etc.",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Salaries, etc.”",
+      "targets": [
+        "--Salaries, etc."
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Salaries, commissions, etc.",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Salaries, etc.”",
+      "targets": [
+        "--Salaries, etc."
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Salaries, pensions, etc.",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Pensions”; “Salaries, etc.”",
+      "targets": [
+        "--Pensions",
+        "--Salaries, etc."
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Socioeconomic status",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Economic conditions”; “Social conditions”",
+      "targets": [
+        "--Economic conditions",
+        "--Social conditions"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Treatment",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Care”",
+      "targets": [
+        "--Care"
+      ],
+      "valid_subdivision": false
+    },
+    {
+      "term": "--Working conditions",
+      "list_section": "topical",
+      "geog_column_raw": "--",
+      "reference": "See “Employment”",
+      "targets": [
+        "--Employment"
+      ],
+      "valid_subdivision": false
+    }
+  ]
+}

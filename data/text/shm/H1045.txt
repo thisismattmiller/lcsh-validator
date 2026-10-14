@@ -1,0 +1,50 @@
+
+
+<<<PAGE 1>>>
+ 
+Vatican City  H 1045 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1045 Page 1 
+ 
+June 2013 
+1.  Usage of Vatican City as a heading.  Use the jurisdictional heading Vatican City for works 
+discussing the independent papal state of Vatican City, consisting of the Vatican Palace, St.  
+Peter's Basilica, St. Peter's Square, the Vatican Gardens, various buildings, etc.  Also included 
+in the scope of this heading are certain palaces and churches that are not located within Vatican 
+City but are under the jurisdiction of Vatican City. 
+ 
+Treat Vatican City as a country, assigning the appropriate subdivisions used under names of 
+countries (cf. H 1140).  Examples: 
+ 
+651 #0 $a Vatican City $x Description and travel. 
+651 #0 $a Vatican City $v Maps. 
+ 
+Do not use the heading Vatican CityBForeign relations, nor headings of the type 
+[place]BForeign relationsBVatican City.  Instead, assign the heading Catholic ChurchB 
+Foreign relations or headings of the type [place]BForeign relationsBCatholic Church (cf. H 
+1629). 
+ 
+ 
+2.  Usage of Vatican Palace (Vatican City) as a heading.  Use the subject heading Vatican 
+Palace (Vatican City) for works on the Vatican City residence of the Pope, consisting of various 
+papal palaces, museums, galleries, the Sistine Chapel, the Vatican Library, etc.  Example: 
+ 
+Title:  Art treasures of the Vatican. 
+650 #0 $a Art $z Vatican City. 
+610 20 $a Vatican Palace (Vatican City) 
+ 
+ 
+3.  Geographic subdivision practice.  Use Vatican City directly after headings or subdivisions 
+coded (May Subd Geog).  Examples: 
+ 
+650 #0 $a Mural painting and decoration, Renaissance $z Vatican 
+          City. 
+650 #0 $a Art $x Conservation and restoration $z Vatican City. 
+ 
+Do not divide Vatican City through either Rome or Italy. 
+ 
+ 
+4.  Geographic area code.  Assign the code e-vc. 

@@ -1,0 +1,27 @@
+[project]
+name = "lcsh-validator"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "anthropic>=1.13.0",
+    "lxml>=6.1.3",
+    "pymupdf>=1.28.2",
+    "pyyaml>=6.0.3",
+]
+
+[project.scripts]
+lcsh-validate = "lcsh_validator.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["lcsh_validator"]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]

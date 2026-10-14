@@ -1,0 +1,91 @@
+
+
+<<<PAGE 1>>>
+ 
+Abstracts  H 1205 
+  
+ 
+ 
+Subject Headings Manual 
+H 1205 Page 1 
+ 
+June 2013 
+BACKGROUND:  The subject cataloger's decision whether to treat a work being cataloged as a 
+bibliography or as a collection of abstracts determines not only whether BBibliography or 
+BAbstracts is used as the form subdivision under the headings assigned to the work but also 
+whether the work is classified in a bibliography number in Classes Z, K or M of the Library of 
+Congress Classification, or in a topical number in Classes A-Z.  Thus both subject retrieval and 
+shelf retrieval of the material are affected by this decision. 
+ 
+ 
+Although many publications of this type fall clearly into one of the two categories, others do not, 
+and the judgment of the subject cataloger is needed to make the treatment decision.  This 
+instruction sheet describes the scope of the subdivision BAbstracts and provides guidelines to 
+distinguish this subdivision from the subdivision BBibliography in marginal cases.  For 
+provisions regarding classification of collections of abstracts, see F 480.  For instructions on 
+use of the subdivision BDigests under legal headings, see H 1550. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  Scope of the subdivision.  BAbstracts is used as a free-floating form subdivision under 
+topical or geographical headings, or under names of individual persons or corporate bodies, for 
+works that list publications (books, periodicals, documents, etc.) on the subject and provide full 
+bibliographical information together with substantive summaries or condensations of the facts, 
+ideas, or opinions presented in each publication listed.  When used under names of individual 
+persons or corporate bodies the subdivision designates abstracts of publications by or about the 
+person or organization.  This subdivision is also used under types of publications for works that 
+summarize the contents of those publications, for example, Japanese newspapersBAbstracts. 
+ 
+ 
+ 
+ 
+Note:  The subdivision BAbstracts is not used for summaries of the proceedings of 
+congresses.  For such works, the subdivision BCongresses is assigned without further 
+subdivision (cf. H 1460). 
+
+
+<<<PAGE 2>>>
+H 1205  Abstracts 
+ 
+ 
+ 
+H 1205 Page 2 
+Subject Headings Manual 
+June 2013 
+2.  Distinction between collections of abstracts and annotated bibliographies.  The decision 
+whether to treat a work as abstracts or bibliography is based primarily on the nature of the 
+annotations or summaries provided.  The following are typical features of the summaries for 
+which the subdivision BAbstracts is appropriate, although not all abstracts exhibit all of these 
+characteristics: 
+ 
+! they present briefly the essential points made in the original publication, usually 
+including the conclusion, if any, drawn by its author. 
+ 
+! they provide enough detail to enable the user to decide whether or not to refer to the 
+original publication. 
+ 
+! they evaluate or criticize the publication. 
+ 
+The annotations provided in an annotated bibliography, on the other hand, usually give only a 
+general indication of the subject matter of each publication listed, and are seldom critical in 
+nature.  Reference to the original publication is normally required in order to determine whether 
+it is of use. 
+ 
+The author's or publisher's intention, as expressed in the title, preface, etc., may serve as a 
+secondary factor in deciding whether to treat an item as a collection of abstracts or as an 
+annotated bibliography. 
+ 
+Assign the form subdivision BBibliography under headings of all types for annotated lists of 
+publications on those subjects.  Use under names of individual persons or corporate bodies for 
+annotated lists of publications by or about those persons or corporate bodies. 
+ 
+ 
+ 
+3.  Works about abstracting.  For works that describe how to prepare abstracts in a particular 
+field or of individual sacred works or particular types of publications, assign the appropriate 
+topical heading or uniform title heading with the free-floating subdivision BAbstracting and 
+indexing. 

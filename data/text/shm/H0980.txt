@@ -1,0 +1,210 @@
+
+
+<<<PAGE 1>>>
+ 
+Jerusalem, Gaza Strip, Golan Heights,  H 980 
+                                   West Bank, and Palestine 
+ 
+ 
+ 
+Subject Headings Manual 
+H 980 Page 1 
+ 
+June 2013 
+BACKGROUND:  The headings Jerusalem, Gaza Strip, Golan Heights, and West Bank are 
+established without a geographic qualifier.  This instruction sheet describes subject heading 
+practice for these places and for entities located within them, as well as usage of the headings 
+Palestine and Palestinian National Authority. 
+ 
+ 
+ 
+ 
+1.  Geographic subdivision.  Assign Gaza Strip, Golan Heights, Jerusalem, and West Bank 
+directly after topics without interposing the name of any larger geographic entity.  Examples: 
+ 
+ 
+650 #0 $a Law $z Gaza Strip. 
+650 #0 $a Land settlement $z Golan Heights. 
+650 #0 $a City planning $z Jerusalem. 
+650 #0 $a Public health $z West Bank. 
+ 
+ 
+Divide localities that are entirely within the boundaries of the Gaza Strip, Golan Heights, or 
+West Bank through those headings.  Examples: 
+ 
+ 
+650 #0 $a Jews $z Gaza Strip $z Gaza. 
+650 #0 $a Pottery $z West Bank $z Jericho. 
+ 
+ 
+ 
+2. Subject headings for entities within Jerusalem, Gaza Strip, Golan Heights, and West Bank. 
+Qualify subject headings for geographic features or other entities that are located entirely within 
+one of these places by the appropriate territory or city.  Examples: 
+ 
+ 
+151 ## $a Via Dolorosa (Jerusalem) 
+151 ## $a Shatti (Gaza Strip : Refugee camp) 
+151 ## $a Qanah River Cave (West Bank) 
+ 
+ 
+Note:  The practice for qualifying subject headings for entities in the West Bank or 
+Gaza Strip differs from the practice for name headings.  Name headings for 
+jurisdictions in those locations are not qualified. 
+
+
+<<<PAGE 2>>>
+H 980  Jerusalem, Gaza Strip, Golan Heights, 
+        West Bank, and Palestine 
+ 
+ 
+ 
+H 980 Page 2 
+Subject Headings Manual 
+June 2013 
+2. Subject headings for entities within Jerusalem, Gaza Strip, Golan Heights, and West Bank. 
+ (Continued) 
+ 
+Do not qualify headings for rivers or other geographic entities that are located both in Israel and 
+one of these places.  Examples: 
+ 
+151 ## $a Alexander River  
+[located in Israel and the West Bank] 
+ 
+151 ## $a Besor River  
+[located in Israel and the Gaza Strip] 
+ 
+Note:  Name headings for jurisdictions within these places are established without 
+qualifiers, for example, Hebron, Nablus, Gaza, etc. 
+ 
+ 
+When formulating 550 (broader term) fields, divide the topical heading directly by the specific 
+place or places where the entity is located.  Examples: 
+ 
+151 ## $a Mount of Olives (Jerusalem) 
+550 ## $w g $a Mountains $x Jerusalem 
+ 
+110 ## $a Herodium (West Bank) 
+550 ## $w g $a Castles $z West Bank 
+ 
+151 ## $a Besor River 
+550 ## $w g $a Rivers $z Gaza Strip 
+550 ## $w g $a Rivers $z Israel 
+550 ## $w g $a Wadis $z Gaza Strip 
+550 ## $w g $a Wadis $z Israel 
+ 
+ 
+3.  Palestine.  Assign the subject heading Palestine to works about the region on the eastern 
+coast of the Mediterranean Sea that in ancient times was called the Land of Canaan, later the 
+kingdoms of Israel and Judah, and in modern times comprises the entire state of Israel, as well as 
+the various disputed territories. 
+ 
+Do not use this heading to refer specifically to the territories that are being transferred from 
+Israeli to Palestinian control by agreements between Israel and the Palestinian National 
+Authority negotiated in the 1990s.  Use the headings West Bank and/or Gaza Strip, as 
+appropriate, to refer to these geographic areas. 
+
+
+<<<PAGE 3>>>
+ 
+Jerusalem, Gaza Strip, Golan Heights,  H 980 
+                                   West Bank, and Palestine 
+ 
+ 
+ 
+Subject Headings Manual 
+H 980 Page 3 
+ 
+June 2013 
+4.  Palestinian National Authority.  The heading Palestinian National Authority has been 
+established in the name authority file.  Although it is tagged 151, it represents a governmental 
+entity, not a geographic area. 
+ 
+ 
+Do not treat this heading as a geographic heading.  Do not assign it as a geographic subdivision 
+after topical headings or subdivisions. 
+ 
+ 
+Assign this heading, tagged 651, only to works about the Palestinian National Authority as a 
+governmental entity.  General free-floating topical or form subdivisions that are usable under 
+any type of heading may be used under this heading, if appropriate.  Subdivisions that are 
+normally free-floating under place names may be established under this heading, if they are 
+appropriate for use under the name of a governmental entity, for example, BAppropriations and 
+expenditures or BOfficials and employees. 
+ 
+ 
+ 
+Note:  The heading Palestinian National Authority—Foreign relations has been 
+established and may be subdivided geographically.  If further subdivided by place, an 
+additional subject entry is made for [place]—Foreign relations subdivided topically by 
+–Palestinian National Authority. Example:  
+ 
+ 
+ 
+ 
+651 ## $a Palestinian National Authority $x Foreign relations $z Israel. 
+ 
+651 ## $a Israel $x Foreign relations $x Palestinian National Authority. 
+ 
+ 
+ 
+Since the territories controlled by the Palestinian National Authority do not currently have 
+international recognition as a “country,” nor an internationally recognized name, use the 
+headings West Bank and/or Gaza Strip, as appropriate, to refer to these geographic areas.  If a 
+work is limited in scope to those parts of the West Bank or Gaza Strip under Palestinian control, 
+this may be brought out by assigning Palestinian National Authority as an additional heading, 
+in accordance with the guidelines above. 
+ 
+
+
+<<<PAGE 4>>>
+H 980  Jerusalem, Gaza Strip, Golan Heights, 
+        West Bank, and Palestine 
+ 
+ 
+ 
+H 980 Page 4 
+Subject Headings Manual 
+June 2013 
+4.  Palestinian National Authority.  (Continued) 
+ 
+Note:  Headings consisting of Palestinian National Authority in the $a subfield in 
+combination with a $b or $t subfield may also be assigned as subject headings, tagged 
+610.  Examples: 
+ 
+610 10 $a Palestinian National Authority. $b Wiz~rat al-Tarbiyah 
+            wa-al-Ta#li-m al-#}li-.  
+ 
+(The heading above, which designates the Authority's Ministry of 
+Education and Higher Education, may be assigned as a subject heading to 
+a work about the Ministry.) 
+ 
+610 10 $a Palestinian National Authority.  $t Q~nãn raqm bi-sha#n 
+            tashji# al-istithmar (1995). 
+ 
+(The heading above, which designates the Authority's 1995 law on the 
+encouragement of investment, may be assigned as a subject heading to a 
+work about the law.) 
+ 
+ 
+5.  Geographic area codes.  Assign the following codes for these entities: 
+ 
+Gaza Strip 
+ 
+ 
+awgz 
+Golan Heights  
+ 
+a-sy 
+Jerusalem 
+ 
+ 
+a-is and/or awba, as appropriate 
+Palestine 
+ 
+ 
+a-is awgz awba 
+West Bank 
+ 
+ 
+awba 

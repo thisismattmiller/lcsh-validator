@@ -1,0 +1,50 @@
+
+
+<<<PAGE 1>>>
+ 
+Washington (D.C.)  H 1050 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1050 Page 1 
+ 
+June 2013 
+BACKGROUND:  Washington (D.C.) is used in subject headings for the city of Washington 
+and the District of Columbia.  The practice of assigning District of Columbia to works of a 
+legal or administrative nature was discontinued in 1981.  For classification of works on 
+Washington and the District of Columbia, see F 750.  
+ 
+ 
+ 
+1.  Usage of Washington (D.C.).  Use the heading Washington (D.C.) as a subject heading or 
+geographic subdivision for works on the city or district. 
+ 
+ 
+2.  Usage of District of Columbia.  The name heading District of Columbia may be used as a 
+subject heading only when it is an element of corporate body name headings such as District of 
+Columbia.  Board of Education or District of Columbia.  Juvenile Court. 
+ 
+ 
+3.  Geographic subdivision practice.  As a geographic subdivision, use Washington (D.C.) 
+directly after topics. 
+ 
+ 
+4.  Geographic qualifier.  Use the form (Washington, D.C.) as a geographic qualifier when 
+establishing headings for entities in Washington, D.C. 
+ 
+ 
+5.  Washington Metropolitan Area, Washington Suburban Area, and Washington Region. 
+According to the definitions in H 790, use the headings Washington Metropolitan Area, 
+Washington Suburban Area, and Washington Region, without a geographic qualifier, as the 
+headings for the areas associated with the city.  When using these headings as geographic 
+subdivisions, assign them directly after topics. 
+ 
+ 
+6.  Subdividing broader term fields.  When adding 550 (broader term) fields for geographic 
+features, or for individual buildings, structures, etc., use Washington (D.C.) to subdivide the 
+reference geographically.  Example: 
+ 
+150 ## $a Vietnam Veterans Memorial (Washington, D.C.) 
+550 ## $w g $a War memorials $z Washington (D.C.) 
+ 

@@ -1,0 +1,206 @@
+
+
+<<<PAGE 1>>>
+ 
+Directories  H 1558 
+ 
+ 
+ 
+Subject Headings Manaul 
+H 1558 Page 1 
+ 
+June 2013 
+BACKGROUND:  A directory is an alphabetical or classified list containing names, addresses, 
+and identifying data of persons, organizations, etc., intended to enable the user to locate and/or 
+contact the individuals or organizations listed.  This instruction sheet provides guidelines for 
+assigning the heading Directories to works about directories and directory-making and for 
+assigning to individual directories headings that use the free-floating form subdivisions 
+BDirectories or BTelephone directories.  For works containing lists of names, with or without 
+other identifying data, intended primarily to provide a record of the names associated with a 
+particular event or topic, assign headings of the type [topic]BRegisters. 
+ 
+1.  Works about directories.   
+ 
+a.  General.  Assign the topical heading Directories to works about directories and 
+directory-making. 
+ 
+Do not assign Directories as a form heading to an individual directory. 
+ 
+b.  Bibliography.  Assign the heading DirectoriesBBibliography only to bibliographies 
+of directories on more than three subjects to which a more specific heading cannot be 
+assigned. 
+ 
+2.  Individual directories.   
+ 
+a.  Places.  Use the subdivision BDirectories under names of countries, cities, etc., for 
+alphabetical or classified lists containing the names and addresses of the inhabitants or 
+organizations of a place.  Example:  
+ 
+651 #0 $a Boston (Mass.) $v Directories. 
+ 
+b.  Classes of persons, ethnic groups, and names of individual families.  Use the 
+subdivision BDirectories under classes of persons, ethnic groups, and names of 
+individual families, for alphabetical lists containing the names, addresses, and other 
+identifying data of members of the group or family.  Examples: 
+ 
+650 #0 $a Engineers $z New York (State) $z New York  
+            $v Directories. 
+610 20 $a Harvard University $x Alumni and alumnae 
+            $v Directories. 
+650 #0 $a Irish Americans $z Massachusetts $z Boston  
+            $v Directories. 
+600 30 $a Cody family $v Directories. 
+
+
+<<<PAGE 2>>>
+H 1558  Directories 
+ 
+ 
+ 
+H 1558 Page 2 
+Subject Headings Manual 
+June 2013 
+2.  Individual directories.  (Continued) 
+ 
+c.  Types of organizations.  Use the subdivision BDirectories under types of organiza-
+tions for lists of such organizations with identifying data.  Examples: 
+ 
+650 #0 $a Adult education $z Europe $x Societies, etc.  
+            $v Directories. 
+650 #0 $a Private schools $z Pennsylvania $v Directories. 
+ 
+Do not assign a heading of this type for directories of individual corporate bodies. 
+ 
+d.  Individual corporate bodies.  Use the free-floating subdivision BDirectories under 
+names of individual corporate bodies for works containing the names, addresses, etc., of 
+the officers, departments, branches, members or employees, etc., of the institution, 
+organization, government agency, etc. 
+ 
+Assign an additional heading, if appropriate, for the class of persons belonging to the 
+organization or for the field in which the organization specializes, subdivided by 
+BDirectories.  Prefer the class of persons heading if the membership of the organization 
+consists of a particular category of people.  Examples: 
+ 
+Title:  AAASA membership directory. 
+610 20 $a Association for the Advancement of  
+            Agricultural Sciences in Africa  
+            $v Directories. 
+650 #0 $a Agriculture $z Africa $v Directories. 
+ 
+Title:  Philippine Medical Association membership directory. 
+610 20 $a Philippine Medical Association  
+            $v Directories. 
+650 #0 $a Physicians $z Philippines $v Directories. 
+ 
+e.  Individual Christian denominations. 
+ 
+(1) Organizational directories.  Use the free-floating subdivision BDirectories 
+under names of individual Christian denominations for directories containing the 
+names, addresses, etc., of the dioceses, synods, parishes, charitable institutions, 
+schools, clergy, missionaries, etc., of the denomination.  Example: 
+ 
+610 20 $a Catholic Church $z United States  
+            $v Directories. 
+
+
+<<<PAGE 3>>>
+ 
+Directories  H 1558 
+ 
+ 
+ 
+Subject Headings Manaul 
+H 1558 Page 3 
+ 
+June 2013 
+2.  Individual directories. 
+ 
+e.  Individual Christian denominations.  (Continued) 
+  
+(2) Membership directories.  Assign a heading of the type [class of persons]B 
+Directories for directories containing only the names and addresses of members 
+of, or persons identifying themselves with, a particular denomination.  Example: 
+ 
+Title:  Directory of Lutherans residing in Decorah, Iowa. 
+650 #0 $a Lutherans $z Iowa $z Decorah  
+            $v Directories. 
+651 #0 $a Decorah (Iowa) $v Directories. 
+ 
+(3) For directories containing both membership and organizational information, 
+assign both types of headings. 
+ 
+f.  Topical headings. 
+ 
+(1) Disciplines.  Use the free-floating subdivision BDirectories under disciplines 
+for directories that list various types of persons and organizations associated with 
+the field.  Example: 
+ 
+650 #0 $a Engineering $z Pennsylvania $v Directories. 
+ 
+Exception:  If a directory lists only the names, addresses, etc., of a 
+particular class of persons working in a field, assign instead a heading of 
+the type [class of persons]BDirectories.  Example: 
+ 
+650 #0 $a Engineers $z Pennsylvania  
+            $v Directories. 
+ 
+(2) Industries and activities.  Use the free-floating subdivision BDirectories 
+under headings for types of industries, etc. 
+ 
+Do not use the subdivision BDirectories under names of objects or products if a 
+heading exists for the industry or activity that produces the product.  Example: 
+ 
+650 #0 $a Rubber industry and trade $v Directories. 
+  [not 650 #0 $a Rubber $v Directories.] 
+
+
+<<<PAGE 4>>>
+H 1558  Directories 
+ 
+ 
+ 
+H 1558 Page 4 
+Subject Headings Manual 
+June 2013 
+2.  Individual directories. 
+ 
+f.  Topical headings.  (Continued) 
+ 
+(3) Newspapers and periodicals.  Use the subdivision BDirectories under 
+topical headings for newspapers or periodicals for lists of newspapers or 
+periodicals with identifying information such as the name and address of the 
+publisher, subscription costs, size of circulation, scope of publication, etc.  
+Examples: 
+ 
+Title:  Ulrich's international periodicals directory. 
+650 #0 $a Periodicals $v Directories. 
+ 
+Title:  National directory of weekly newspapers. 
+650 #0 $a American newspapers $v Directories. 
+ 
+Do not use this subdivision for works that are bibliographies or catalogs of 
+newspapers. 
+ 
+(4) Other topics.  Use the subdivision BDirectories under other topics, if 
+appropriate.   
+ 
+3.  Telephone directories.  Use the subdivision BTelephone directories under names of 
+countries, cities, etc., individual corporate bodies, classes of persons, ethnic groups, and types of 
+industries and organizations, for telephone directories of those places, organizations, or groups.  
+Examples: 
+ 
+651 #0 $a Cairo (Egypt) $v Telephone directories. 
+610 20 $a Library of Congress $v Telephone directories. 
+650 #0 $a Financial planners $z Maryland $v Telephone directories. 
+650 #0 $a East Indians $z Ontario $z Toronto $v Telephone  
+            directories. 
+650 #0 $a Information services $z United States $v Telephone 
+            directories. 
+ 
+ 
+4.  Directories issued as serials.  In accordance with H 1927, do not subdivide BDirectories 
+further by BPeriodicals, even if the directory is issued as a serial.   
+ 
+ 
+5.  MARC 21 coding.  For instructions on MARC 21 coding for directories, see the MARC 21 Format 
+for Bibliographic Data. 

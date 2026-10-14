@@ -1,0 +1,244 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Translations H 2220 | Page 1 
+ 
+ 
+Translations 
+H 2220 
+A. Background ................................................................................................................................. 1 
+B. Recent revisions .......................................................................................................................... 1 
+C. Definitions ................................................................................................................................... 1 
+D. Literary translations .................................................................................................................... 2 
+D.1. Literary form headings ......................................................................................................... 2 
+D.2. Individual literary authors and works .................................................................................. 3 
+E. Non-literary translations ............................................................................................................. 4 
+E.1. General works....................................................................................................................... 4 
+E.2. Specific subjects or forms ..................................................................................................... 5 
+F. Extended examples ..................................................................................................................... 6 
+Revision history ............................................................................................................................... 7 
+A. Background 
+The heading *Translations* and the subdivisions *--Translations* and *--Translations into 
+[name of language]* are assigned to collections of translations or to works about translations. 
+Use of the subdivisions *Translations from [name of language]*, *Translations from foreign 
+languages*, *Translations into foreign languages*, and *Translations, [name of language]* 
+was discontinued in 1991. For specific instructions on translations of the Bible and other sacred 
+works, see H 1300. For works on the technique of translating, see H 2219. 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Textbooks*. To replace a form subdivision that includes a demographic group, also assign 
+Library of Congress Demographic Groups Terms (LCDGT) to bring out the audience of the 
+resource being cataloged, e.g. *German speakers* or *Arabic, Students of*. 
+B. Recent revisions 
+2026-01: Updated template. Added instructions related to LCGFT implementation. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Translations H 2220 | Page 2 
+ 
+ 
+C. Definitions 
+Translation: an act, process, or instance of translating, such as a rendering from one language 
+into another0F1; in general, translation applies to written texts and interpretation applies to oral 
+communication 
+D. Literary translations 
+D.1. Literary form headings 
+Assign the free-floating subdivisions *Translations* and *Translations into [name of 
+language]* under literary form headings for collections of translated works and translations of 
+individual works in a specific form that have been assigned a literary form heading. For works 
+translated into one language assign the subdivision *--Translations into [name of language]*, 
+for example, *--Translations into French*. For works translated into several languages assign 
+the subdivision *--Translations*. For works about translations assign the further subdivision *--
+History and criticism* or other subdivision as appropriate. 
+LC practice: Assign subject headings to the topical focus of the work, if applicable. Also assign 
+one to bring out ethnicity and/or nationality, if appropriate. Bring out the language of a 
+translation through other elements of descriptive cataloging. Assign LCGFT appropriate to the 
+form and/or genre of the resource in hand, e.g. LCGFT *Translations* and *Poetry*. 
+Example: 
+Title: Contemporary Portuguese poetry : an anthology in English. 
+650 #0 $a Portuguese poetry $y 20th century $v Translations into English. 
+LC practice: 
+041 1# $a eng $h por 
+650 #0 $a Portuguese poetry $y 20th century. 
+655 #7 $a Translations. $2 lcgft 
+655 #7 $a Poetry $2 lcgft 
+ 
+Title: Translation as discovery and other essays on Indian literature 
+in English translation. 
+650 #0 $a Indic literature $x Translations into English $x History and 
+criticism. 
+LC practice: 
+041 1# $a eng $h inc 
+ 
+1 TRANSLATION Definition & Meaning - Merriam-Webster 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Translations H 2220 | Page 3 
+ 
+ 
+650 #0 $a Indic literature $x Translations into English $x History and 
+criticism. 
+655 #7 $a Literary criticism $2 lcgft 
+ 
+Title: Aeneis. English 
+600 00 $a Aeneis $c (Legendary character) $v Poetry. 
+650 #0 $a Epic poetry, Latin $v Translations into English. 
+LC practice: 
+041 1# $a eng $h lat 
+600 00 $a Aeneis $c (Legendary character) 
+655 #7 $a Translations. $2 lcgft 
+655 #7 $a Epic poetry $2 lcgft 
+ 
+Title: Estonian literature in foreign languages : a bibliography. 
+650 #0 $a Estonian literature $x Translations $v Bibliography. 
+LC practice: 
+041 1# $a eng $h est 
+650 #0 $a Estonian literature $x Translations. 
+655 #7 $a Bibliographies. $2 lcgft 
+D.2. Individual literary authors and works 
+Assign the free-floating subdivisions *--Translations* and *--Translations into [name of 
+language]* under names of individual literary authors or literary works entered under title for 
+collections of translations. Do not assign these subdivisions under author-title subject headings. 
+Do not assign these subdivisions under authors or uniform titles for single translations of one 
+work. For works about translations assign the further subdivision *--History and criticism* or 
+other subdivision as appropriate. 
+LC practice: Assign subject headings to the topical focus of the work, if applicable. Also assign 
+one to bring out ethnicity and/or nationality, if appropriate. Bring out the language of a 
+translation through other elements of descriptive cataloging. Assign LCGFT appropriate to the 
+form and/or genre of the resource in hand, e.g. LCGFT *Translations* and *Poetry*. 
+Example: 
+Title: Catullus : the complete poems for American readers. 
+600 10 $a Catullus, Gaius Valerius $v Translations into English. 
+LC practice: 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Translations H 2220 | Page 4 
+ 
+ 
+041 1# $a eng $h lat 
+655 #7 $a Poetry. $2 lcgft 
+655 #7 $a Translations. $2 lcgft 
+ 
+Title: Poe in foreign lands and tongues. 
+600 10 $a Poe, Edgar Allan, $d 1809-1849 $x Translations $x History and 
+criticism. 
+LC practice: 
+600 10 $a Poe, Edgar Allan, $d 1809-1849 $x Translations $x History and 
+criticism. 
+655 #7 $a Essays. $2 lcgft 
+ 
+Title: The German versions of Chekhov's Three sisters : a study in the 
+theory and practice of translation. 
+600 10 $a Chekhov, Anton Pavlovich, $d 1860-1904. $t Trisestry. 
+600 10 $a Chekhov, Anton Pavlovich, $d 1860-1904 $x Translations into German 
+$x History and criticism. 
+650 #0 $a Translating and interpreting. 
+E. Non-literary translations 
+LC practice: Assign subject headings to the topical focus of the work, if applicable. Also assign 
+one to bring out ethnicity and/or nationality, if appropriate. Bring out the language of a 
+translation through other elements of descriptive cataloging. Assign LCGFT appropriate to the 
+form and/or genre of the resource in hand, e.g. LCGFT *Translations* and *Poetry*. 
+E.1. General works 
+Assign the heading *Translations* to works on translations from several languages not limited 
+to a subject or form. For works on translations from one language assign the heading *[name of 
+language] imprints* with free-floating subdivision *--Translations* or *--Translations into 
+[name of language]* and further subdivisions as appropriate. 
+Example: 
+Title: Index translationum. International bibliography of translations. 
+650 #0 $a Translations $v Bibliography. 
+LC practice: 
+650 #0 $a Translations. 
+655 #7 $a Bibliographies. $2 lcgft 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Translations H 2220 | Page 5 
+ 
+ 
+ 
+Title: Traduzioni dall'italiano nella Biblioteca del Congresso di 
+Washington, 1977-1981. 
+650 #0 $a Italian imprints $x Translations into English $v Catalogs. 
+610 20 $a Library of Congress $v Catalogs. 
+LC practice: 
+650 #0 $a Italian imprints $x Translations into English. 
+610 20 $a Library of Congress. 
+655 #7 $a Library catalogs $2 lcgft 
+E.2. Specific subjects or forms 
+Assign the free-floating subdivisions *--Translations* and *--Translations into [name of 
+language]* under topical headings and under headings for types or forms of published 
+materials for collections of translated works. For works translated into one language assign the 
+subdivision *--Translations into [name of language]*, for example, *--Translations into 
+French*. For works translated into several languages assign the subdivision *--Translations*. 
+For works about translations, assign the further subdivision *--History and criticism* or other 
+subdivision as appropriate. 
+Note: Assign these subdivisions under topical headings only if the primary purpose of the work 
+is to provide translated materials and this purpose is stated or implied by the title. Do not 
+assign these subdivisions to works by one author or to translations of individual works 
+(including individual periodicals). For special instructions on folklore genre headings and music 
+headings see H 1627, sec. 3.a. and H 1917. 
+Example: 
+Title: English language equivalent editions of foreign language 
+serials. 
+650 #0 $a Periodicals $x Translations into English $v Bibliography. 
+LC practice: 
+650 #0 $a Periodicals $x Translations into English. 
+655 #7 $a Bibliographies. $2 lcgft 
+ 
+Title: Selected translations in mathematical statistics and 
+probability. 
+650 #0 $a Mathematical statistics $v Translations into English. 
+650 #0 $a Probabilities $v Translations into English. 
+LC practice: 
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | Translations H 2220 | Page 6 
+ 
+ 
+041 1# $a eng $h mul 
+650 #0 $a Mathematical statistics. 
+650 #0 $a Probabilities. 
+655 #7 $a Translations. $2 lcgft 
+F. Extended examples 
+Title: Ouroboros review. 
+650 #0 $a Poetry $x Translations $v Periodicals. 
+650 #0 $a Translations $v Periodicals. 
+LC practice: 
+041 1# $a eng $h mul 
+655 #7 $a Poetry. $2 lcgft 
+655 #7 $a Translations. $2 lcgft 
+655 #7 $a Periodicals. $2 lcgft 
+ 
+Title: The fairy tales of Hans Christian Andersen and Charles Perrault. 
+650 #0 $a Fairy tales $z Denmark. 
+650 #0 $a Children's stories, Danish $v Translations into English. 
+650 #0 $a Fairy tales $z France. 
+650 #0 $a Children's stories, French $v Translations into English. 
+LC practice: 
+041 1# $a eng $h dan $h fre 
+385 ## $a Children #2 lcdgt 
+650 #0 $a Fairy tales $z Denmark. 
+650 #0 $a Children's stories, Danish. 
+650 #0 $a Fairy tales $z France. 
+650 #0 $a Children's stories, French. 
+655 #7 $a Translations. $2 lcgft 
+655 #7 $a Fairy tales. $2 lcgft 
+ 
+Title: The Columbia anthology of traditional Chinese literature. 
+650 #0 $a Chinese literature $v Translations into English. 
+LC practice: 
+041 1# $a eng $h chi 
+650 #0 $a Chinese literature. 
+
+
+<<<PAGE 7>>>
+Subject Headings Manual | Translations H 2220 | Page 7 
+ 
+ 
+655 #7 $a Translations. $2 lcgft 
+655 #7 $a Anthologies $2 lcgft 
+Revision history 
+2026-01: Updated template. Added instructions related to LCGFT implementation. 

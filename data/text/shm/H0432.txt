@@ -1,0 +1,70 @@
+
+
+<<<PAGE 1>>>
+ 
+Subject Usage Information in Name Authority Records  H 432 
+ 
+ 
+ 
+Subject Headings Manual 
+H 432 Page 1 
+ 
+January 2020 
+BACKGROUND:  Information applicable to the usage of a name heading in subject 
+cataloging may appear in a 667 field in the name authority record.  Because the 667 field is 
+also used for descriptive cataloging information, there may be more than one such field in a 
+given NAR.  The field that carries subject cataloging information always begins with the words 
+SUBJECT USAGE. The information is presented using standardized wording.  The 
+procedures for adding the information to a name authority record are described in this and 
+other individual Subject Headings Manual instruction sheets, as noted below.  The following 
+are examples of the types of subject cataloging information that can appear in this field: 
+ 
+ 
+LINEAR NAME CHANGE IN POLITICAL JURISDICTION 
+[See procedures in H 708] 
+ 
+151 ## $a Ceylon. 
+667 ## $a SUBJECT USAGE: This heading is not valid for use as a 
+            subject. Works about this place are entered under Sri Lanka. 
+ 
+ 
+SCOPE NOTE FOR SUBJECT USAGE 
+ 
+110 2# $a Musée du Louvre. 
+667 ## $a SUBJECT USAGE: This heading is used for works on the museum 
+            housed within the Louvre Palace.  Works on the building are 
+            entered under the subject heading Louvre (Paris, France). 
+ 
+ 
+INFORMATION REGARDING A NAME HEADING  
+NOT VALID FOR SUBJECT USAGE 
+ 
+110 2# $a Commune de Paris (France : 1871) 
+667 ## $a SUBJECT USAGE:  This heading is not valid for use as a 
+            subject.  Works about this entity are entered under the 
+            subject heading Paris (France)--History--Commune, 1871. 
+ 
+ 
+110 1# $a United States. $b President (1801-1809 : Jefferson) 
+667 ## $a SUBJECT USAGE: This heading is not valid for use as a subject. 
+     Works about this person are entered under Jefferson, Thomas,   
+     1743-1826. 
+ 
+ 
+Information regarding the usage of geographic headings as subdivisions, which was formerly 
+provided in this field, is now provided in a 781 field (see H 835). 
+
+
+<<<PAGE 2>>>
+H 432  Subject Usage Information in Name Authority Records 
+ 
+ 
+ 
+H 432 Page 2 
+Subject Headings Manual 
+January 2020 
+LC practice: 
+Add the note to newly-created authority records and to existing records according to the above 
+guidelines. In complex cases, or in case of doubt, consult the Policy, Training, and Cooperative 
+Programs Division.  
+ 

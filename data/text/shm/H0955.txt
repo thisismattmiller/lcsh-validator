@@ -1,0 +1,156 @@
+
+
+<<<PAGE 1>>>
+ 
+Great Britain  H 955 
+  
+ 
+ 
+Subject Headings Manual 
+H 955 Page 1 
+ 
+June 2013 
+ 
+BACKGROUND:  The heading Great Britain is used in both descriptive and subject 
+cataloging as the conventional form for the United Kingdom, which comprises England, 
+Northern Ireland, Scotland, and Wales.  This instruction sheet describes the usage of Great 
+Britain, in contrast to England, as a subject heading.  It also describes the usage of Great 
+Britain, England, Northern Ireland, Scotland, and Wales as geographic subdivisions. 
+ 
+ 
+ 
+1.  Great Britain vs. England as a subject heading.  In general assign the subject heading 
+Great Britain, with topical and/or form subdivisions, as appropriate, to works about the United 
+Kingdom as a whole.  Assign England, with appropriate subdivision(s), to works limited to 
+that country. 
+ 
+Exception:  Do not use the subdivisions BHistory or BPolitics and government under 
+England.  For a work on the history, politics, or government of England, assign the 
+heading Great Britain, subdivided as required for the work.  References in the subject 
+authority file reflect this practice.  Use the subdivision BForeign relations under 
+England only in the restricted sense described in the scope note under EnglandBForeign 
+relations in the subject authority file. 
+ 
+ 
+ 
+2.  Geographic subdivision. 
+ 
+a.  Great Britain.  Assign Great Britain directly after topics for works that discuss the 
+topic in relation to Great Britain as a whole.  Example: 
+ 
+ 
+Title:  History of the British theatre. 
+650 #0 $a Theater $z Great Britain $x History. 
+ 
+ 
+b.  England, Scotland, Northern Ireland, and Wales.  Assign England, Scotland, 
+Northern Ireland, or Wales directly after topics for works that limit their discussion to 
+the topic in relation to one of the four constituent countries of Great Britain.  Example: 
+ 
+Title:  The natural history of Wales. 
+650 #0 $a Natural history $z Wales. 
+
+
+<<<PAGE 2>>>
+H 955  Great Britain 
+ 
+ 
+ 
+H 955 Page 2 
+Subject Headings Manual 
+June 2013 
+2.  Geographic subdivision.  (Continued)
+ 
+ 
+c.  Counties, cities, etc..  To works that discuss a topic in relation to a British county, city 
+or other subordinate unit, divide the topic through the appropriate constituent country 
+rather than through Great Britain.  Examples: 
+ 
+ 
+ 
+650 #0 $a Jews $z England $z West Country. 
+650 #0 $a Medicine $z England $z London. 
+650 #0 $a Geology $z Northern Ireland $z Belfast Region. 
+650 #0 $a Reformation $z Scotland $z Tay River Region. 
+650 #0 $a Country life $z Wales $z Arian River Valley. 
+ 
+ 
+ 
+ 
+If the entity being used as a geographic subdivision is in more than one constituent 
+country, assign it directly after the topic.  Do not further subdivide Great Britain to 
+bring out a specific locality.  Example: 
+ 
+ 
+ 
+650 #0 $a Stream ecology $z Wye, River (Wales and England) 
+  [not 650 #0 $a Stream ecology $z Great Britain $z Wye, River (Wales 
+            and England)] 
+ 
+ 
+ 
+d.  Special provisions for law cataloging.  Until 2003, it was Library of Congress 
+practice to use BGreat Britain as a geographic subdivision for legal works whose 
+coverage was  limited to England and Wales as well as for those that covered all of 
+Great Britain.  That practice has been discontinued.   
+ 
+ 
+Subdivide headings assigned to legal works by BGreat Britain only if the work discusses 
+the law in connection with all four of the constituent countries of Great Britain.  If the 
+work is limited to England, Wales, Scotland, or Northern Ireland or a combination of two 
+or three of those countries, assign subject headings divided by the appropriate country or 
+countries rather than by BGreat Britain. 
+
+
+<<<PAGE 3>>>
+ 
+Great Britain  H 955 
+  
+ 
+ 
+Subject Headings Manual 
+H 955 Page 3 
+ 
+June 2013 
+ 
+2.  Geographic subdivision. 
+ 
+d.  Special provisions for law cataloging.  (Continued) 
+ 
+Determine the coverage of the work by relying primarily on the text, introductory matter, 
+legal and bibliographic citations, etc., in the work itself.  In those cases where it is 
+difficult to determine from the work itself whether the discussion applies to all of Great 
+Britain or is limited to England and Wales, the following lists may be used as guidance: 
+ 
+List 1 - Areas where the law of England and Wales generally differs  
+from that of Scotland and Northern Ireland: 
+ 
+Civil law 
+Commercial law 
+Criminal law 
+Debt recovery/collection 
+Evidence (Law) 
+Family law 
+Inheritance and succession 
+Land law (or Real property) 
+Limitation of actions law 
+Torts 
+ 
+If a work is about one of the above subjects, and it is not clear from examining the 
+work itself whether it covers Great Britain as a whole or only England and Wales, 
+it may be assumed that it is limited to England and Wales, and the subject 
+headings assigned should be geographically divided accordingly. 
+ 
+List 2 - Areas where the law generally applies uniformly throughout Great 
+Britain: 
+ 
+Discrimination (sex and race) 
+Extradition 
+Health and safety (generally applies to Great Britain except Northern  
+ 
+Ireland) 
+Media/journalism 
+Taxation (including VAT) 
+ 
+For a work about one of the above topics, the subject headings should generally 
+be divided by BGreat Britain unless the work is explicitly more limited. 

@@ -1,0 +1,332 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Artistic Photography H 1255 | Page 1 
+ 
+ 
+Artistic Photography 
+H 1255 
+A. Background ............................................................................................................................... 1 
+B. Recent revisions ........................................................................................................................ 1 
+C. Definitions ................................................................................................................................. 2 
+D. General works on artistic photography .................................................................................... 2 
+E. Artistic photography from a particular place ............................................................................ 2 
+F. Artistic photography from a particular time period .................................................................. 2 
+G. Special types of photography ................................................................................................... 3 
+H. Photography of specific items, places, etc. ............................................................................... 3 
+I. Portrait photography ................................................................................................................. 4 
+J. Collections of artistic photography by one photographer ......................................................... 6 
+K. Exhibition catalogs .................................................................................................................... 7 
+K.1. Works of one photographer ............................................................................................... 7 
+K.2. Works belongs to an institution or private collection ......................................................... 7 
+Revision history ............................................................................................................................. 9 
+A. Background 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Textbooks*. To replace a form subdivision that includes a demographic group, also assign 
+Library of Congress Demographic Groups Terms (LCDGT) to bring out the audience of the 
+resource being cataloged, e.g. *German speakers* or *Arabic, Students of*. 
+For guidelines on works about art, see H 1250. For guidelines on works about illustrations, see 
+H 1659. For guidelines on works about pictorial works, see H 1935. For guidelines on works on 
+exhibitions, see H 1593. 
+B. Recent revisions 
+2026-07: Updated template. Added alternative instructions for LCGFT implementation. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Artistic Photography H 1255 | Page 2 
+ 
+ 
+C. Definitions 
+Artistic photography: photography used for creative expression and treated as a fine art. 
+D. General works on artistic photography 
+Assign the heading *Photography, Artistic* to works that consist chiefly of photographs whose 
+main purpose is photography as a fine art. Assign the heading also to general discussions of 
+artistic photography. 
+LC practice: Assign the subject heading *Photography, Artistic* for works that are chiefly 
+collections of or reproductions of photographs whose main purpose is photography as a fine 
+art. Assign LCGFT appropriate to the form and/or genre of the resource in hand, e.g. LCGFT 
+*Illustrated works*. 
+Example: 
+Title: Great unknowns : an exquisite collection of black and white 
+photography. 
+650 #0 $a Photography, Artistic. 
+LC practice: 
+650 #0 $a Photography, Artistic. 
+655 #7 $a Illustrated works. $2 lcgft 
+E. Artistic photography from a particular place 
+Do not divide the heading *Photography, Artistic* by place. To express the geographic origin of 
+the photographs, assign an additional subject heading *Photography--[place]*. 
+Example: 
+Title: Visual instincts : contemporary Australian photography. 
+650 #0 $a Photography, Artistic. 
+650 #0 $a Photography $z Australia. 
+LC practice: 
+650 #0 $a Photography, Artistic. 
+650 #0 $a Photography $z Australia. 
+655 #7 $a Illustrated works. $2 lcgft 
+F. Artistic photography from a particular time period 
+Assign the heading *Photography, Artistic*, subdivided by period subdivisions from the free-
+floating list in H 1148. Do not interpose the subdivision *--History*. 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Artistic Photography H 1255 | Page 3 
+ 
+ 
+Example: 
+Title: Present perfect. 
+650 #0 $a Photography, Artistic $y 20th century. 
+650 #0 $a Photography, Artistic $y 21st century. 
+LC practice: 
+650 #0 $a Photography, Artistic $y 20th century. 
+650 #0 $a Photography, Artistic $y 21st century. 
+655 #7 $a Illustrated works. $2 lcgft 
+G. Special types of photography 
+For works on or photographic collections of special types of photography, assign the specific 
+heading that best represents that type of photography, for example, *Landscape 
+photography*; *Fashion photography*; *Photography, Humorous*. For portrait photography, 
+see Sec. I, below. 
+LC practice: Assign the subject heading for the type of artistic photography for works that are 
+chiefly collections of or reproductions of photographs with a specific focus. Assign LCGFT 
+appropriate to the form and/or genre of the resource in hand, e.g. LCGFT * Illustrated works *. 
+Example: 
+Title: The field guide of photographing landscapes. 
+650 #0 $a Landscape photography. 
+LC practice: 
+650 #0 $a Landscape photography. 
+655 #7 $a Illustrated works. $2 lcgft 
+ 
+Title: Vogue book of fashion photography, 1919-1979. 
+650 #0 $a Fashion photography. 
+ LC practice: 
+650 #0 $a Fashion photography. 
+655 #7 $a Illustrated works. $2 lcgft 
+H. Photography of specific items, places, etc. 
+Determine whether the focus of the piece is on artistic photography or on the actual items, 
+places, etc. If the primary focus is artistic photography, assign a heading for photography of the 
+topic, for example, *Photography of mountains; Dance photography*. Assign additional 
+headings for the topic with the form subdivision *--Pictorial works*. For works that merely 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Artistic Photography H 1255 | Page 4 
+ 
+ 
+contain photographs depicting a topic or place and are of interest primarily for the pictorial 
+information presented, see H 1935. 
+LC practice: For works that are chiefly collections of or reproductions of photographs with a 
+specific focus, first determine if the focus of the work is on artistic photography. If so, assign the 
+subject heading for the topical focus, for example, *Photography of mountains; Dance 
+photography*. Assign LCGFT appropriate to the form and/or genre of the resource in hand, e.g. 
+LCGFT * Illustrated works *. 
+LC practice: For guidelines on works that merely contain photographs depicting a topic or place 
+and are of interest primarily for the pictorial information presented, see H 1935. 
+Example: 
+Title: City cats. 
+650 #0 $a Photography of cats. 
+650 #0 $a Cats $v Pictorial works. 
+LC practice: 
+650 #0 $a Photography of cats. 
+650 #0 $a Cats. 
+655 #7 $a Illustrated works. $2 lcgft 
+ 
+Title: The American family : a pictorial celebration. 
+650 #0 $a Photography of families. 
+650 #0 $a Families $z United States $v Pictorial works. 
+LC practice: 
+650 #0 $a Photography of families. 
+650 #0 $a Families $z United States. 
+655 #7 $a Illustrated works. $2 lcgft 
+I. Portrait photography 
+For works on or general collections of portrait photographs, assign the heading *Portrait 
+photography*. If a specific class of persons is represented, assign a heading for that class of 
+persons subdivided by *--Portraits*, with *Portrait photography* as an additional heading. If 
+there is an existing heading of the type *Photography of [class of persons]* assign that heading 
+instead of *Portrait photography* and, if the visual identity of the individuals is emphasized, 
+assign an additional heading for class of persons with subdivision *--Portraits*. For works that 
+contain portraits primarily as visual representations of persons without emphasis on 
+photography, see H 1935. 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Artistic Photography H 1255 | Page 5 
+ 
+ 
+LC practice: For works that are chiefly collections of or reproductions of photographs that are 
+portraits, assign of subject heading for the focus of the portraits. If a specific class of persons is 
+represented, assign a heading for that class of persons, with *Portrait photography* as an 
+additional heading. If there is an existing heading of the type *Photography of [class of 
+persons]* assign that heading instead of *Portrait photography*. Assign LCGFT appropriate to 
+the form and/or genre of the resource in hand, e.g. LCGFT * Illustrated works *. 
+LC practice: For guidelines on works that contain portraits primarily as visual representations of 
+persons without emphasis on photography, see H 1935. 
+Example: 
+Title: The joy of photographing people. 
+[text on how to take portraits with some illustrations] 
+650 #0 $a Portrait photography. 
+LC practice: 
+650 #0 $a Portrait photography. 
+655 #7 $a Portraits. $2 lcgft 
+655 #7 $a Illustrated works. $2 lcgft 
+ 
+Title: Picturing us : African American identity in photography. 
+650 #0 $a African Americans. 
+650 #0 $a Portrait photography. 
+LC practice: 
+650 #0 $a African Americans. 
+650 #0 $a Portrait photography. 
+655 #7 $a Portraits. $2 lcgft 
+655 #7 $a Illustrated works. $2 lcgft 
+ 
+Title: The American woman : a pictorial celebration. 
+650 #0 $a Photography of women. 
+LC practice: 
+650 #0 $a Photography of women. 
+655 #7 $a Portraits. $2 lcgft 
+655 #7 $a Illustrated works. $2 lcgft 
+ 
+Title: Children of the past in photographic portraits. 
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | Artistic Photography H 1255 | Page 6 
+ 
+ 
+650 #0 $a Photography of children. 
+650 #0 $a Children $v Portraits. 
+LC practice: 
+650 #0 $a Photography of children. 
+650 #0 $a Children. 
+655 #7 $a Portraits. $2 lcgft 
+655 #7 $a Illustrated works. $2 lcgft 
+J. Collections of artistic photography by one photographer 
+For collections of photographs by one photographer, assign the heading *Photography, 
+Artistic*, or other subject heading for type of photography or theme, with an additional 
+heading for the name of the photographer. 
+Example: 
+Title: Ancestral dialogues : the photographs of Albert Chong. 
+650 #0 $a Photography, Artistic. 
+600 10 $a Chong, Albert. 
+LC practice: 
+650 #0 $a Photography, Artistic. 
+655 #7 $a Illustrated works. $2 lcgft 
+ 
+Title: Fashion photography, Patrick Demarchelier. 
+650 #0 $a Fashion photography. 
+600 10 $a Demarchelier, Patrick. 
+LC practice: 
+650 #0 $a Fashion photography. 
+600 10 $a Demarchelier, Patrick. 
+655 #7 $a Illustrated works. $2 lcgft 
+ 
+Title: Portrait Hollywood : Gary Bernstein's classic celebrity 
+photographs. 
+650 #0 $a Celebrities $z United States $v Portraits. 
+650 #0 $a Portrait photography $z United States. 
+600 10 $a Bernstein, Gary. 
+LC practice: 
+650 #0 $a Celebrities $z United States. 
+
+
+<<<PAGE 7>>>
+Subject Headings Manual | Artistic Photography H 1255 | Page 7 
+ 
+ 
+650 #0 $a Portrait photography $z United States. 
+600 10 $a Bernstein, Gary. 
+655 #7 $a Portraits. $2 lcgft 
+655 #7 $a Illustrated works. $2 lcgft 
+K. Exhibition catalogs 
+For an exhibition catalog of artistic photographs, not limited to a particular theme or type of 
+photography, assign the subject heading *Photography, Artistic--Exhibitions*. For an exhibition 
+catalog of photographs on a particular theme or photography of a particular type, assign a 
+heading for the theme or type, for example, *Photography of clouds--Exhibitions*; *Glamour 
+photography--Exhibitions*. 
+LC practice: For an exhibition catalog of artistic photographs, not limited to a particular theme 
+or type of photography, assign the subject heading *Photography, Artistic*. For an exhibition 
+catalog of photographs on a particular theme or photography of a particular type, assign a 
+heading for the theme or type, for example, *Photography of clouds*. Also assign LCGFT 
+appropriate to the form and/or genre of the resource in hand, e.g. LCGFT *Exhibition catalogs*. 
+K.1. Works of one photographer 
+If the exhibition consists of works by one photographer, assign an additional heading for the 
+name of the photographer with subdivision *--Exhibitions*. 
+LC practice: If the exhibition consists of works by one photographer, assign an additional 
+heading for the name of the photographer. 
+K.2. Works belongs to an institution or private collection 
+If the photographs are a part of an institution's permanent collection, assign an additional 
+heading for the institution with subdivision *--Exhibitions* in accordance with H 1593. If the 
+photographs are identified as coming from an individual private collection, including a formerly 
+private collection now belonging to a public institution, assign additional headings as specified 
+in H 1427. 
+LC practice: If the photographs are a part of an institution's permanent collection, assign an 
+additional heading for the institution, in accordance with H 1593. If the photographs are 
+identified as coming from an individual private collection, including a formerly private collection 
+now belonging to a public institution, assign additional headings as specified in H 1427. 
+Example: 
+Title: To be and not to be : Centre d'Art Santa Mònica, Barcelona, 23 
+d'abril del 1990. 
+
+
+<<<PAGE 8>>>
+Subject Headings Manual | Artistic Photography H 1255 | Page 8 
+ 
+ 
+650 #0 $a Photography, Artistic $v Exhibitions. 
+LC practice: 
+650 #0 $a Photography, Artistic. 
+655 #7 $a Exhibition catalogs. $2 lcgft 
+ 
+Title: A singular elegance : the photographs of Baron Adolph de Meyer. 
+650 #0 $a Fashion photography $v Exhibitions. 
+600 10 $a De Meyer, Adolf, $c Baron, $d 1868-1949 $v Exhibitions. 
+LC practice: 
+650 #0 $a Fashion photography. 
+600 10 $a De Meyer, Adolf, $c Baron, $d 1868-1949. 
+655 #7 $a Exhibition catalogs. $2 lcgft 
+ 
+Title: Camera portraits : photographs from the National Portrait 
+Gallery, London, 1839-1989. 
+650 #0 $a Portrait photography $v Exhibitions. 
+610 20 $a National Portrait Gallery (Great Britain) $v Exhibitions. 
+LC practice: 
+650 #0 $a Portrait photography. 
+610 20 $a National Portrait Gallery (Great Britain) 
+655 #7 $a Exhibition catalogs. $2 lcgft 
+ 
+Title: Photographs from the collection of Dr. & Mrs. Sheldon Barnett : 
+October 24, 1986-January 11, 1987. 
+650 #0 $a Photography, Artistic $x Private collections $v Exhibitions. 
+600 10 $a Barnett, Sheldon $x Photograph collections $v Exhibitions. 
+600 10 $a Barnett, Sheldon, $c Mrs. $x Photograph collections $v 
+Exhibitions. 
+650 #0 $a Photograph collections $z Wisconsin $z Milwaukee $v Exhibitions. 
+LC practice: 
+650 #0 $a Photography, Artistic $x Private collections. 
+600 10 $a Barnett, Sheldon $x Photograph collections. 
+600 10 $a Barnett, Sheldon, $c Mrs. $x Photograph collections. 
+650 #0 $a Photograph collections $z Wisconsin $z Milwaukee. 
+655 #7 $a Exhibition catalogs. $2 lcgft 
+
+
+<<<PAGE 9>>>
+Subject Headings Manual | Artistic Photography H 1255 | Page 9 
+ 
+ 
+ 
+Title: Selections from the Strauss photography collection, Denver Art 
+Museum, July 10-November 14, 1982. 
+650 #0 $a Photography, Artistic $v Exhibitions. 
+610 20 $a Denver Art Museum $v Exhibitions. 
+600 10 $a Strauss, Joyce $x Photograph collections $v Exhibitions. 
+600 10 $a Strauss, Ted $x Photograph collections $v Exhibitions. 
+650 #0 $a Photograph collections $z Colorado $z Denver $v Exhibitions. 
+LC practice: 
+650 #0 $a Photography, Artistic. 
+610 20 $a Denver Art Museum. 
+600 10 $a Strauss, Joyce $x Photograph collections. 
+600 10 $a Strauss, Ted $x Photograph collections. 
+650 #0 $a Photograph collections $z Colorado $z Denver. 
+655 #7 $a Exhibition catalogs. $2 lcgft 
+Revision history 
+2026-07: Updated template. Added alternative instructions for LCGFT implementation. 

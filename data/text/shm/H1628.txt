@@ -1,0 +1,158 @@
+
+
+<<<PAGE 1>>>
+ 
+Forecasting  H 1628 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1628 Page 1 
+ 
+June 2013 
+BACKGROUND:  Forecasts are predictions, conjectures, or calculations of future conditions, 
+trends, or occurrences.  This instruction sheet provides guidelines for assigning the heading 
+Forecasting, the subdivision BForecasting, headings of the type [...] centuryBForecasts, and 
+phrase headings for special types of forecasts. 
+ 
+ 
+ 
+ 
+1.  General.  Assign the heading Forecasting to general works on predicting or calculating 
+future conditions, trends, or occurrences, including works that contain a broad range of forecasts 
+about the future to which more specific headings cannot be assigned.  Example: 
+ 
+Title:  Can the future be predicted? 
+650 #0 $a Forecasting. 
+ 
+ 
+ 
+2.  Methodology.  Use the free-floating subdivision BMethodology under Forecasting or under 
+headings for specific types of forecasting for works that discuss methods of predicting or 
+calculating future conditions, trends, events, etc.  Example: 
+ 
+Title:  Methods in futurology. 
+650 #0 $a Forecasting $x Methodology. 
+ 
+ 
+ 
+3.  Special.  Use the free-floating subdivision BForecasting under names of countries, cities, 
+etc., and under topical headings for works that contain predictions or calculations of future 
+conditions or occurrences in these places or pertaining to these topics.  Examples: 
+ 
+650 #0 $a Agriculture $x Forecasting. 
+650 #0 $a Construction industry $z Michigan $x Forecasting. 
+651 #0 $a Great Britain $x Forecasting. 
+650 #0 $a Hospital utilization $x Forecasting. 
+ 
+Phrase headings have been established for many special types of forecasting, for example, 
+Business forecasting, Housing forecasting, Economic forecasting, Weather forecasting, etc. 
+ Continue to use these headings rather than the free-floating subdivision BForecasting under 
+those topics.  Do not, however, establish new phrase headings of this type unless a heading for 
+the topic does not exist and cannot be established for use with the free-floating subdivision 
+BForecasting. 
+
+
+<<<PAGE 2>>>
+H 1628  Forecasting 
+ 
+ 
+ 
+H 1628 Page 2 
+Subject Headings Manual 
+June 2013 
+4.  Centuries.  Establish editorially headings of the type [ . . . ] centuryBForecasts for works 
+that predict conditions, trends, developments, events, etc., during the century, for example, 
+Twenty-second centuryBForecasts. 
+ 
+Assign these headings only to works that discuss predictions or calculations in relation to an 
+entire century or a large portion of it.  Example: 
+ 
+Title:  Fashion in the 21st century. 
+650 #0 $a Fashion $x Forecasting. 
+650 #0 $a Twenty-first century $v Forecasts. 
+ 
+Do not assign a heading of the type [...] centuryBForecasts to works that project or predict 
+developments during a brief period of time in the near future.  Example: 
+ 
+Title:  Florida citrus fruit production trends, 1988-1995. 
+650 #0 $a Citrus fruit industry $z Florida $x Forecasting. 
+  [not 650 #0 $a Twentieth century $v Forecasts.] 
+ 
+ 
+ 
+ 
+5.  Assignment of headings.  To works on forecasting, assign a heading for the specific type of 
+forecasting being discussed and additional headings, if appropriate, to bring out the most 
+important topics covered in the work.  Examples: 
+ 
+ 
+Title:  Methods of forecasting development processes of the technological 
+revolution. 
+650 #0 $a Technological forecasting $x Methodology. 
+ 
+ 
+Title:  Immigration : the future flow of legal immigration to the United States. 
+651 #0 $a United States $x Emigration and immigration 
+            $x Forecasting $v Statistics. 
+650 #0 $a Refugees $z United States $x Forecasting  
+            $v Statistics. 
+ 
+ 
+Title:  New prospects for medicine. 
+650 #0 $a Medicine $x Forecasting. 
+650 #0 $a Medicine $x Research. 
+
+
+<<<PAGE 3>>>
+ 
+Forecasting  H 1628 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1628 Page 3 
+ 
+June 2013 
+5.  Assignment of headings.   
+ 
+Examples:  (Continued) 
+ 
+Title:  Christianity 2101 A. D. and beyond. 
+650 #0 $a Christianity $x Forecasting. 
+650 #0 $a Twenty-second century $v Forecasts. 
+ 
+ 
+Title:  Forecasting volcanic events. 
+650 #0 $a Volcanic activity prediction. 
+ 
+ 
+Title:  The future of South Africa : a survey among leaders. 
+651 #0 $a South Africa $x Politics and government  
+            $y 1978-1989 $x Public opinion. 
+651 #0 $a South Africa $x Economic conditions $y 1961-1991 
+            $x Public opinion. 
+651 #0 $a South Africa $x Social conditions $y 1961-1994   
+            $x Public opinion. 
+650 #0 $a Elite (Social sciences) $z South Africa  
+            $x Attitudes. 
+650 #0 $a Public opinion $z South Africa. 
+651 #0 $a South Africa $x Forecasting. 
+ 
+ 
+Title:  Global challenges for the next century. 
+650 #0 $a Social prediction. 
+650 #0 $a Economic forecasting. 
+650 #0 $a Twenty-first century $v Forecasts. 
+ 
+ 
+Title:  Local flood warning and response systems. 
+650 #0 $a Flood forecasting $z United States. 
+650 #0 $a Natural disaster warning systems $z United States. 
+ 
+ 
+Title:  Early election projection : the Iowa experience. 
+650 #0 $a Election forecasting $z Iowa. 
+650 #0 $a Television in politics $z Iowa. 
+650 #0 $a Voting $z Iowa. 
+ 

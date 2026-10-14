@@ -1,0 +1,141 @@
+
+
+<<<PAGE 1>>>
+ 
+Relations and Military Relations  H 1996 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1996 Page 1 
+ 
+January 2022 
+BACKGROUND:  In 1981 the subdivisions –Relations (general) with [...], –Relations (general) 
+with foreign countries, –Relations (military) with [...], and –Relations (military) with foreign 
+countries were discontinued.   
+ 
+ 
+ 
+ 
+1.  General rule.  Use the following free-floating subdivisions further subdivided by a specific 
+place when appropriate: 
+ 
+–Relations (May Subd Geog) 
+Use under names of regions, countries, cities, etc. for general  
+relations between one region or jurisdiction and another, and under 
+individual religions and Christian denominations for relations between one 
+religion or denomination and another.. 
+ 
+ 
+ 
+–Military relations  (May Subd Geog) 
+ 
+Use under names of regions, countries, cities, etc. for non-hostile  
+military relations and/or cooperation between one region or jurisdiction  
+and another. 
+ 
+ 
+Note:  For works on diplomatic relations among regions and countries, use the 
+subdivision –Foreign relations under names of countries and regions larger than 
+countries.  See H 1629 for instructions on its use. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<<<PAGE 2>>>
+H 1996  Relations and Military Relations 
+ 
+ 
+ 
+H 1996 Page 2 
+Subject Headings Manual 
+January 2022 
+2.  Relations between one region or jurisdiction and another.   
+ 
+a. General rule. Further subdivide –Relations and –Military relations by region or 
+country to designate relations with a specific region or country, following normal rules 
+for geographic subdivision (cf. H 830).  If they are so subdivided, make an additional 
+subject entry with the two geographic names in reversed positions.  Examples: 
+ 
+651 #0 $a United States $x Relations $z China.   
+651 #0 $a China $x Relations $z United States. 
+ 
+651 #0 $a Murcia (Spain : Region) $x Relations $z Latin America. 
+651 #0 $a Latin America $x Relations $z Spain $z Murcia (Region) 
+ 
+ 
+b.  Relations within a single country.  As a general rule, do not use these subdivisions to 
+bring out relations between regions or jurisdictions within the same country, except when 
+it is necessary to designate historical relationships, such as the relations between a 
+country and a locality of the country at the time when it was an independent jurisdiction.  
+Example: 
+ 
+Title:  Relations between pre-1965 Tibet and China. 
+651 #0 $a Tibet (China) $x Relations $z China.   
+651 #0 $a China $x Relations $z China $z Tibet. 
+ 
+ 
+ 
+c.  Relations with three or more regions or jurisdictions.  Use the free-floating 
+subdivisions –Relations and –Military relations for the general relations or military 
+relations of a region or jurisdiction with three or more regions or jurisdictions. Example:  
+ 
+Title:  Mission to civilize: the French way. 
+651 #0 $a France $x Relations. 
+650 #0 $a Civilization, Modern $x French influences
+
+
+<<<PAGE 3>>>
+ 
+Relations and Military Relations  H 1996 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1996 Page 3 
+ 
+January 2022 
+3. Relations between one religion or Christian denomination and another.  
+ 
+a. General rule. Further subdivide –Relations by a religion or Christian denomination to 
+designate relations with a specific denomination or religion.  If –Relations is so 
+subdivided, make an additional subject entry with the religions or denominations in 
+reversed positions. Example:  
+ 
+Title:  Sacred conversations and the evolution of dialogue 
+610 20 $a Catholic Church $x Relations $x Islam 
+650 #0 $a Islam $x Relations $x Catholic Church  
+ 
+Editorially establish each use of a further subdivision by religion or denomination.  
+ 
+Do not interpose geographic subdivisions between the subdivision –Relations and the 
+subdivision for the religion or denomination. 
+ 
+b. Relations with Christianity. If Christianity is used as a subdivision, make an additional 
+subject entry in the form Christianity and other religions—[religion] (e.g., 
+Islam—Relations—Christianity; 
+Christianity 
+and 
+other 
+religions—Islam). 
+Editorially establish each heading of this type. Example:  
+ 
+Title:  Buddhism and Christianity 
+650 #0 $a Buddhism $x Relations $x Christianity. 
+650 #0 $a Christianity and other religions $x Buddhism. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,142 @@
+
+
+<<<PAGE 1>>>
+ 
+Texts  H 2190 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2190 Page 1 
+ 
+June 2013 
+BACKGROUND:  The form subdivision BTexts is used under certain types of headings for 
+languages, vocal music, and liturgy for individual texts or collections of texts.  This instruction 
+sheet provides guidelines for assigning this subdivision.  For instructions on assigning the 
+heading and subdivision Readers, see H 1975. 
+ 
+ 
+ 
+ 
+1.  Languages. 
+ 
+ 
+a.  Lesser-known languages and dialects.  Assign the free-floating form subdivision 
+BTexts under headings for individual lesser-known (rare or exotic) languages , groups of 
+languages, and dialects to collections of texts in these languages and dialects or to 
+individual works whose subject matter cannot be determined because the cataloger is 
+unable to read the language or to obtain a translation to determine the nature of the 
+material.  Examples: 
+ 
+650 #0 $a Soninke language $v Texts. 
+  
+ 
+ 
+650 #0 $a White Hmong dialect $v Texts. 
+650 #0 $a Miwok languages $v Texts. 
+ 
+Do not assign the subdivision BTexts under headings for well-known modern languages, 
+for example, Albanian language; Finnish language; French language; Indonesian 
+language, etc., or under languages no longer spoken for which a large body of written 
+material exists, for example, Latin language.  However, the subdivision 
+BDialectsBTexts may be used under any language for collections of texts in such dialects, 
+for example, English languageBDialectsBTexts. 
+ 
+ 
+ 
+ 
+b.  Early periods of languages.  Assign the free-floating form subdivision BTexts under 
+early periods of languages (generally before 1500) to collections of texts from these 
+periods assembled for the purpose of studying the language as it existed during that 
+period or providing representative samples of the language, for example, English lan-
+guageBMiddle English, 1100-1500BTexts.   
+ 
+Do not assign headings of this type to individual texts. 
+
+
+<<<PAGE 2>>>
+H 2190  Texts 
+ 
+ 
+ 
+H 2190 Page 2 
+Subject Headings Manual 
+June 2013 
+1.  Languages.  (Continued) 
+ 
+c.  Other language headings.  Assign the free-floating form subdivision BTexts under 
+headings of the type [place]BLanguages, [group of Indians]BLanguages, or [ethnic 
+group]BLanguages to collections of texts in these languages or to individual texts whose 
+subject matter cannot be determined.    
+ 
+Assign a heading of the type [ethnic group]BLanguagesBTexts only for texts in 
+languages spoken by the group for which no separate language heading exists or can be 
+established, for example, JewsBLanguagesBTexts. 
+ 
+ 
+2.  Vocal music.   
+ 
+a.  General.  Use the free-floating subdivision BTexts under Vocal music and headings 
+for specific types of vocal music for works that contain the words to one or more songs, 
+hymns, etc., without the music.  Examples: 
+ 
+650 #0 $a Drinking songs $v Texts. 
+650 #0 $a Easter hymns $v Texts. 
+650 #0 $a Hymns, Swedish $v Texts. 
+650 #0 $a Popular music $v Texts. 
+650 #0 $a Songs, English $v Texts. 
+610 20 $a Catholic Church $v Hymns $v Texts. 
+650 #0 $a Cowboys $v Songs and music $v Texts. 
+ 
+Do not use BTexts under headings for dramatic musical works.  Use instead the 
+subdivision BLibrettos.  Example: 
+ 
+650 #0 $a Operas $v Librettos. 
+ 
+b.  History and criticism.  To critical or historical works on vocal music and/or the 
+literary aspects of the words, assign the free-floating subdivision BHistory and criticism 
+directly under the appropriate heading.  Examples: 
+ 
+650 #0 $a Advent hymns $x History and criticism. 
+650 #0 $a Folk songs, Catalan $x History and criticism. 
+ 
+Do not interpose the subdivision BTexts between the heading and the subdivision 
+BHistory and criticism.   
+
+
+<<<PAGE 3>>>
+ 
+Texts  H 2190 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2190 Page 3 
+ 
+June 2013 
+3.  Liturgy. 
+ 
+a.  General.  In accordance with H 1185 and H 1187, assign the free-floating 
+subdivision BTexts under headings of the type [name of religion, sect, or Christian 
+denomination]BLiturgy or [name of religion or sect]BRituals to works that contain the 
+words and instructions for carrying out the official worship of these religions, sects, or 
+denominations.  Examples: 
+ 
+ 
+650 #0 $a Buddhism $x Rituals $v Texts. 
+610 20 $a Catholic Church $x Liturgy $v Texts. 
+ 
+ 
+ 
+b.  Special.  To works that contain texts of special liturgies or rituals, assign an 
+additional heading for the ceremony, ritual, holiday, etc., subdivided by BLiturgyBTexts 
+or BRitualsBTexts, for example, SederBLiturgyBTexts. 
+ 
+If the heading itself is a liturgical heading, subdivide it by BTexts, for example, Baptism 
+(Liturgy)BTexts. 
+ 
+ 
+ 
+c.  History and criticism.  To evaluative or historical works on these texts, assign the 
+free-floating subdivision BTextsBHistory and criticism under the appropriate heading, 
+for example, Catholic ChurchBLiturgyBTextsBHistory and criticism. 

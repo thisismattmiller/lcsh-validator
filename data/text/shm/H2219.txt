@@ -1,0 +1,133 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Title H 2219 | Page 1 
+ 
+ 
+Translating 
+H 2219 
+A. Background ............................................................................................................................... 1 
+B. Recent revisions ........................................................................................................................ 2 
+C. Definitions ................................................................................................................................. 2 
+D. Translating and interpreting ..................................................................................................... 2 
+D.1. General ............................................................................................................................... 2 
+D.2. Special languages ............................................................................................................... 2 
+D.2.a. General ........................................................................................................................ 2 
+D.2.b. Translating into French, [German, etc.] ....................................................................... 2 
+D.3. Disciplines .......................................................................................................................... 3 
+D.4. Sacred works ...................................................................................................................... 3 
+E. Machine translating .................................................................................................................. 3 
+E.1. General ............................................................................................................................... 3 
+E.2. Special languages ................................................................................................................ 3 
+F. Translating services ................................................................................................................... 3 
+F.1. General ............................................................................................................................... 3 
+F.2. Special services ................................................................................................................... 4 
+F.3. Special fields ....................................................................................................................... 4 
+G. Extended examples ................................................................................................................... 4 
+Revision history ............................................................................................................................. 4 
+A. Background 
+The heading *Translating and interpreting* and the subdivision *--Translating* are assigned to 
+works that discuss the technique of translating from one language to another. The heading 
+*Machine translating* and the subdivision *--Machine translating* are assigned to works 
+about the process of translating from one language to another by computer. The heading 
+*Translating services* and the subdivisions *--Translating* and *--Translating services* are 
+assigned to works on the services offered by organizations specializing in translating and 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Title H 2219 | Page 2 
+ 
+ 
+interpreting. This instruction sheet provides guidelines for assigning these headings and 
+subdivisions. For guidelines on translations, see H 2220. 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Handbooks and manuals*. To replace a form subdivision that includes a demographic group, 
+also assign Library of Congress Demographic Groups Terms (LCDGT) to bring out the audience 
+of the resource being cataloged, e.g. *German speakers* or *Arabic, Students of*. 
+B. Recent revisions 
+2026-02: Updated template. Added alternative instructions for LCGFT implementation. 
+C. Definitions 
+Translation: an act, process, or instance of translating, such as a rendering from one language 
+into another0F1; in general, translation applies to written texts and interpretation applies to oral 
+communication. 
+D. Translating and interpreting 
+D.1. General 
+Assign the heading *Translating and interpreting* to general works on the methods, tools, etc., 
+used to render texts or oral communication from a language or languages into other languages. 
+D.2. Special languages 
+D.2.a. General 
+Assign the free-floating topical subdivision *--Translating* under individual languages and 
+language groups for works on the techniques, tools, etc., of translating texts or oral 
+communication in these languages, for example, *English language--Translating*. 
+D.2.b. Translating into French, [German, etc.] 
+Assign the free-floating subdivision *--Translating into [name of language]* under individual 
+languages or language groups for works on methods of translating a language or language 
+group into another specific language. If the work discusses translating in both directions, assign 
+two headings. 
+Example: 
+ 
+1 TRANSLATION Definition & Meaning - Merriam-Webster 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Title H 2219 | Page 3 
+ 
+ 
+Title: English-German translating. 
+650 #0 $a English language $x Translating into German. 
+650 #0 $a German language $x Translating into English. 
+D.3. Disciplines 
+Assign the free-floating subdivision *--Translating* under disciplines for works on the 
+techniques, tools, etc., of translating works on these subjects, for example, *Science--
+Translating*. 
+D.4. Sacred works 
+For instructions on assigning the subdivision *--Translating* under sacred works, see H 1300. 
+E. Machine translating 
+E.1. General 
+Assign the heading *Machine translating* to general works discussing the process of 
+translating texts from one language to another by computer. 
+E.2. Special languages 
+Assign the free-floating subdivision *--Machine translating* under individual languages and 
+language groups for works on the technique of translating texts in that language by computer. 
+If the work discusses methods of machine translating into a specific language, assign a second 
+heading to bring out the language into which materials are being translated. 
+Example: 
+Title: Some problems in German to English machine translations. 
+650 #0 $a German language $x Machine translating. 
+650 #0 $a German language $x Translating into English. 
+F. Translating services 
+F.1. General 
+Assign the heading *Translating services* to general works on organizations that specialize in 
+providing translating and interpreting services. 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Title H 2219 | Page 4 
+ 
+ 
+F.2. Special services 
+Assign the headings *Court interpreting and translating*, * Interpreters for deaf people*, 
+*Congresses and conventions--Translating services*, *International agencies--Translating 
+services*, and *United Nations--Translating services* to works that discuss these specialized 
+translating and interpreting services. 
+F.3. Special fields 
+Assign the free-floating subdivision *--Translating* under topical headings to works on 
+organizations that provide translating and interpreting services in specific fields, for example, 
+*Technology--Translating*. 
+G. Extended examples 
+Title: Translating a worldview : linguistic worldview in literary 
+translation. 
+650 #0 $a Poetry $x Translating. 
+ 
+Title: Scientific and technical translation. 
+650 #0 $a Technology $x Translating. 
+650 #0 $a Science $x Translating. 
+ 
+Title: Translating the Bible : the Ethiopic version of the Old 
+Testament. 
+630 00 $a Bible $x Translating. 
+630 00 $a Bible. $p Old Testament. $l Ethiopic $x Translating. 
+650 #0 $a Ethiopic language $x Translating. 
+Revision history 
+2026-02: Updated template. Added alternative instructions for LCGFT implementation. 

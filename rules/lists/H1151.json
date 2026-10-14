@@ -1,0 +1,744 @@
+{
+  "sheet": "H 1151",
+  "title": "Pattern Headings: Individual Educational Institutions",
+  "kind": "pattern",
+  "scope": "Free-floating subdivisions for use under names of individual educational institutions at all levels and of all types, including systems (corporate-body names in the NAF), in addition to H 1105; pattern heading Harvard University.",
+  "pattern_headings": [
+    "Harvard University"
+  ],
+  "pattern_category": "names of individual educational institutions at all levels and of all types, including systems",
+  "general_notes": [
+    "TYPES OF HEADINGS COVERED BY THE PATTERN: Headings for names of individual educational institutions at all levels and of all types, including systems, which are established as corporate bodies in the name authority file. Examples: Anne Arundel Community College; Muleshoe Junior High School; Medical University of South Carolina; Union Theological Seminary (New York, N.Y.); University of California (System). The category does not include headings for types of educational institutions, which are covered by H 1151.5.",
+    "RELATION TO H 1105: Subdivisions on the list of free-floating subdivisions used under names of individual corporate bodies, H 1105, are also free-floating under individual educational institutions where there is no conflict. This list contains additional subdivisions appropriate for educational institutions.",
+    "CONFLICTS: Any subdivision listed here can be used as a free-floating subdivision under any heading belonging to this category if it is appropriate and no conflict exists in the subject authority file. Subject authority records may exist for headings employing variant phrases or subdivisions equivalent to subdivisions on this list.",
+    "Note: Most form subdivisions coded $v in this list may also be used as topical subdivisions coded $x when assigned to works about the form (see H 1075, sec. 1.d.)."
+  ],
+  "entries": [
+    {
+      "subdivision": "--Administration",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Admission",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Aerial views",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Alumni and alumnae",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "See H 1100 for further subdivisions used under classes of persons."
+    },
+    {
+      "subdivision": "--Bands",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Baseball",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Basketball",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Benefactors",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "See H 1100 for further subdivisions used under classes of persons."
+    },
+    {
+      "subdivision": "--Buildings",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Buildings--Barrier-free design",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Buildings--Remodeling for other use",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Choral organizations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Curricula",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Curricula--Catalogs",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Degrees",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Dissertations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Dissertations--Style manuals",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Employees",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "See H 1100 for further subdivisions used under classes of persons."
+    },
+    {
+      "subdivision": "--Entrance examinations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Entrance requirements",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Entrance requirements--[subject]",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Examinations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Examinations--[subject]",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Faculty",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "See H 1100 for further subdivisions used under classes of persons."
+    },
+    {
+      "subdivision": "--Faculty housing",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Finance",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Football",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Foreign students",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "See H 1100 for further subdivisions used under classes of persons."
+    },
+    {
+      "subdivision": "--Freshmen",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "See H 1100 for further subdivisions used under classes of persons."
+    },
+    {
+      "subdivision": "--Funds and scholarships",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Golf",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Graduate students",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "See H 1100 for further subdivisions used under classes of persons."
+    },
+    {
+      "subdivision": "--Graduate work",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Gymnastics",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Hockey",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Honor system",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Lacrosse",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Language",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Mascots",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Open admission",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Orchestras",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Parking",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Professional staff",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "See H 1100 for further subdivisions used under classes of persons."
+    },
+    {
+      "subdivision": "--Public services",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Regulations",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Riot, [date]",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1078"
+      ],
+      "endnote": "See H 1078 for instructions on dates in subdivisions for specific events."
+    },
+    {
+      "subdivision": "--Riots",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Rowing",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Rugby football",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Sanitary affairs",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Soccer",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Softball",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Sports",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Student housing",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Student strike, [date]",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1078"
+      ],
+      "endnote": "See H 1078 for instructions on dates in subdivisions for specific events."
+    },
+    {
+      "subdivision": "--Students",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "See H 1100 for further subdivisions used under classes of persons."
+    },
+    {
+      "subdivision": "--Students--Yearbooks",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Swimming",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Tennis",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Track and field",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Tuition",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Undergraduates",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Volleyball",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Wrestling",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    }
+  ]
+}

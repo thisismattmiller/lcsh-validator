@@ -1,0 +1,549 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Literature: Fiction H 1790 | Page 1 
+ 
+ 
+Literature: Fiction 
+H 1790 
+A. Recent revisions .......................................................................................................................... 2 
+B. General rule ................................................................................................................................ 2 
+C. Designating the form of collections ............................................................................................ 3 
+C.1. General rule .......................................................................................................................... 3 
+C.2. Collections of fiction by one author ..................................................................................... 4 
+C.3. Collections of fiction for children ......................................................................................... 4 
+D. Designating the topic(s) of collections by one or several authors ............................................. 5 
+D.1. [topic]--Fiction or [topic]--Juvenile fiction ........................................................................... 5 
+D.2. Phrase headings with topical aspects .................................................................................. 6 
+D.3. Individual characters ............................................................................................................ 6 
+E. Individual works of fiction ........................................................................................................... 7 
+E.1. Biographical fiction ............................................................................................................... 7 
+E.2. Historical fiction .................................................................................................................... 7 
+E.3. Animal stories ....................................................................................................................... 8 
+F. History and criticism .................................................................................................................... 8 
+F.1. General rule .......................................................................................................................... 8 
+F.2. Fiction about individual persons or families ........................................................................ 9 
+F.3. Fiction about imaginary persons .......................................................................................... 9 
+F.4. Fiction about individual corporate bodies, places, and sacred works ................................. 9 
+F.5. Fiction about wars and similar events ................................................................................ 10 
+F.6. Single works of fiction ........................................................................................................ 10 
+G. Special provisions for increased subject access to fiction ....................................................... 10 
+G.1. Application of special provisions ....................................................................................... 10 
+G.2. General principles .............................................................................................................. 10 
+G.3. Form and genre headings .................................................................................................. 10 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Literature: Fiction H 1790 | Page 2 
+ 
+ 
+G.3.a. Source of headings ...................................................................................................... 10 
+G.3.b. MARC 21 content designation and input conventions ............................................... 11 
+G.3.c. Updating of form/genre headings............................................................................... 11 
+G.4. Character(s) ........................................................................................................................ 11 
+G.4.a. Individual characters ................................................................................................... 11 
+G.4.b. Classes of persons ....................................................................................................... 12 
+G.5. Setting ................................................................................................................................ 12 
+G.6. Topical access..................................................................................................................... 13 
+H. Examples ................................................................................................................................... 13 
+Revision history ............................................................................................................................. 15 
+ 
+A. Recent revisions 
+2026-01: Updated template. Added instructions related to LCGFT implementation. 
+B. General rule 
+For collections of fiction, assign as many headings as necessary to bring out both the form and 
+the topic(s), as outlined in sections C and D, below. For single works of fiction, assign headings 
+to bring out topic(s) and form only as noted in section E, below. Optionally, assign form and 
+topical headings to works of fiction, as outlined in section G, below. 
+Assign topical and form headings, especially to single works of fiction or to collections by one 
+author, only as they come readily to mind after a superficial review of the work being 
+cataloged. 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Fiction*, *Novels*, or *Short stories*. To replace a form subdivision that includes a 
+demographic group, also assign Library of Congress Demographic Group Terms (LCDGT) to bring 
+out the audience of the resource being cataloged, e.g. *Children*. 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Literature: Fiction H 1790 | Page 3 
+ 
+ 
+C. Designating the form of collections 
+C.1. General rule 
+Bring out the form of a collection by assigning headings of the type *American fiction--20th 
+century*; *Short stories, American*; *Epistolary fiction*; etc., as in the first heading in the 
+following example. 
+Example: 
+Title: Garden tales : classic stories from favorite writers. 
+650 #0 $a Short stories, American. 
+650 #0 $a Gardens $v Fiction. 
+LC practice: 
+650 #0 $a Short stories, American. 
+650 #0 $a Gardens. 
+655 #7 $a Short stories. $2 lcgft 
+Certain phrase headings combine both form and topical aspects into a single heading, for 
+example, *Detective and mystery stories, American*; *Science fiction, American*; etc. These 
+headings are used to designate both the form and the topic of collections, and no additional 
+heading is usually required. 
+Do not use a phrase heading of this type if a more specific *[topic]--Fiction* heading can be 
+formulated to designate the topic of the collection. Instead, assign the more specific heading in 
+conjunction with a broader, non-topical, form heading.  
+LC practice: Do not use the form subdivision *--Fiction*. Instead assign an appropriate term or 
+terms from LCGFT, e.g. *Fiction* or *Fantasy fiction*. 
+For example, assign the following headings to a collection of American stories about jungle 
+warfare. 
+Example: 
+650 #0 $a American fiction. 
+650 #0 $a Jungle warfare $v Fiction. 
+ 
+[not 650 #0 $a War stories, American.] 
+ 
+[not 650 #0 $a War stories, American. 
+or 650 #0 $a Jungle warfare $v Fiction.] 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Literature: Fiction H 1790 | Page 4 
+ 
+ 
+LC practice: 
+650 #0 $a American fiction. 
+650 #0 $a Jungle warfare. 
+655 #7 $a War fiction. $2 lcgft 
+C.2. Collections of fiction by one author 
+As a general rule, assign form headings  
+a. if the form heading includes a topical aspect, for example, *Western stories*, or  
+b. if it is readily apparent from a cursory examination of the work that it comprises fiction 
+of a highly specific form and that this form is an essential point of the collection, for 
+example, *Allegories*; *Fairy tales*; *Radio stories*; *Children's stories, English*; etc. 
+Do not assign nonspecific form headings to collections of fiction by one author, for example, 
+*American fiction*; *Short stories, American*. 
+Do not attempt to assign a form heading to a collection of fiction by one author if the form is 
+not stated on the title page or in another prominent location. 
+C.3. Collections of fiction for children 
+Assign the heading *Children’s stories* or *Children’s stories, American, [English, etc.]* to 
+collections of fiction for children, whether by one author or several authors, in addition to the 
+other required form and topical headings. Do not assign this heading to collections of fiction for 
+young adults. 
+Example: 
+Title: Tales for the perfect child. 
+650 #0 $a Conduct of life $v Juvenile fiction. 
+650 #0 #a Children’s stories, American. 
+LC practice: 
+650 #0 $a Conduct of life. 
+650 #0 $a Children’s stories, American. 
+655 #7 $a Short stories. $2 lcgft 
+385 ## $a Children $2 lcdgt 
+Example: 
+Title: Three sides of a heart : stories about love triangles. 
+[Intended audience: grades 9 and up] 
+650 #0 $a Romance fiction, American. 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Literature: Fiction H 1790 | Page 5 
+ 
+ 
+650 #0 #a Short stories, American. 
+LC practice: 
+650 #0 $a Romance fiction, American. 
+650 #0 $a Short stories, American. 
+655 #7 $a Romance fiction. $2 lcgft 
+655 #7 $a Short stories. $2 lcgft 
+385 ## $a Teenagers $2 lcdgt 
+D. Designating the topic(s) of collections by one or several authors 
+Bring out identifiable topics, using one of the types of headings listed in sections D.1-D.3, 
+below.  
+Do not attempt to discern topics which have not been made explicit by the author or publisher, 
+or which could be interpreted as representing value judgments. 
+D.1. [topic]--Fiction or [topic]--Juvenile fiction 
+Use headings of this type as the standard means of designating topics in fiction, for example, 
+*Slavery--United States--Fiction*; *Parent and child--Fiction*; *Horses--Fiction*; *Paris 
+(France)--Fiction*; *Vodou--Fiction*. 
+Note: The subdivision *--Stories*, which had formerly been used under some topics is no longer 
+to be used. Use only *--Fiction*. 
+LC practice: Do not use a form subdivision of the type *--Fiction* or *--Juvenile fiction*. 
+Instead assign an appropriate term or terms from LCGFT, e.g. *Fiction*, *Short stories*, etc. To 
+replace a form subdivision that includes a demographic group, also assign LCDGT to bring out 
+the audience of the resource being cataloged, e.g. *Children*, *Teenagers*, etc.  
+Example: 
+Title: Galway stories. 
+650 #0 $a Short stories, Irish. 
+651 #0 $a Galway (Ireland) $v Fiction. 
+LC practice: 
+650 #0 $a Short stories, Irish. 
+651 #0 $a Galway (Ireland) 
+655 #7 $a Short stories. $2 lcgft 
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | Literature: Fiction H 1790 | Page 6 
+ 
+ 
+D.2. Phrase headings with topical aspects 
+If a phrase heading has both form and topical aspects, assign only the one heading to designate 
+both form and topic, as described in section C.1., above. *Sea stories*, *Western stories*, and 
+*Romance fiction* are examples of such headings. 
+Example: 
+Title: Bad company : stories of intrigue, suspense and thrills. 
+650 #0 $a Short stories, South African (English) 
+650 #0 $a Suspense fiction, South African (English) 
+LC practice: 
+650 #0 $a Short stories, South African (English) 
+650 #0 $a Suspense fiction, South African (English) 
+655 #7 $a Short stories. $2 lcgft 
+655 #7 $a Thrillers (Fiction) $2 lcgft 
+D.3. Individual characters 
+If the collection of fiction features as its theme an individual character or family, real or 
+imaginary, bring out the character(s), for example, *Lincoln, Abraham, 1809 1865--Fiction*; 
+*Holmes, Sherlock--Fiction*; *Alcott family--Fiction*. 
+LC practice: Do not use a form subdivision of the type *--Fiction* or *--Juvenile fiction*. 
+Instead assign an appropriate term or terms from LCGFT, e.g. *Fiction* or *Short stories*. To 
+replace a form subdivision that includes a demographic group, also assign LCDGT to bring out 
+the audience of the resource being cataloged, e.g. *Children* or *Teenagers*. 
+Example: 
+Title: The adventures of Father Brown. 
+600 10 $a Brown, $c Father (Fictitious character) $v Fiction. 
+650 #0 $a Priests $v Fiction. 
+650 #0 #a Detective and mystery stories, English. 
+LC practice: 
+600 10 $a Brown, $c Father (Fictitious character) 
+650 #0 $a Priests. 
+650 #0 #a Detective and mystery stories, English. 
+655 #7 $a Detective and mystery fiction. $2 lcgft 
+655 #7 $a Short stories. $2 lcgft 
+
+
+<<<PAGE 7>>>
+Subject Headings Manual | Literature: Fiction H 1790 | Page 7 
+ 
+ 
+E. Individual works of fiction 
+Note: This section describes standard practice followed at the Library of Congress for assigning 
+subject headings to individual works of fiction. It includes instructions for LC catalogers no 
+longer using form subdivisions as of early 2026. For an alternative approach to assigning subject 
+headings to individual works of fiction, see section G at the end of this instruction sheet. 
+Assign no LCSH form headings to individual works of adult fiction, children's fiction, or young 
+adult fiction. 
+Bring out topic(s) only for the following types of individual works of fiction: 
+E.1. Biographical fiction 
+Assign the heading *[name of biographee]--Fiction*. 
+LC practice: Do not use a form subdivision of the type *--Fiction* or *--Juvenile fiction*. 
+Instead assign an appropriate term or terms from LCGFT, e.g. *Fiction* or *Short stories*. To 
+replace a form subdivision that includes a demographic group, also assign LCDGT to bring out 
+the audience of the resource being cataloged, e.g. *Children* or *Teenagers*.  
+Example: 
+Title: The princess. 
+600 00 $a Diana, $c Princess of Wales, $d 1961-1997 $v Fiction. 
+LC practice: 
+600 00 $a Diana, $c Princess of Wales, $d 1961-1997. 
+655 #7 $a Biographical fiction. $2 lcgft 
+655 #7 $a Novels. $2 lcgft 
+E.2. Historical fiction 
+Assign headings for specific historical events, periods, etc., with the subdivision *--Fiction*, e.g. 
+*World War, 1939 1945--Fiction*; *San Francisco Earthquake and fire, Calif., 1906--Fiction*. 
+Do not assign a heading of this type when the event or period is merely the backdrop to a story. 
+Assign it only when the event or period is the principal focus of the work. 
+Interpret the term *historical fiction* broadly to include works about entities such as 
+movements, corporate bodies or other jurisdictions, camps, parks, structures, geographical 
+features other than regions, ethnic groups, disasters, categories of events, etc. 
+LC practice: Do not use a form subdivision of the type *--Fiction* or *--Juvenile fiction*. 
+Instead assign an appropriate term or terms from LCGFT, e.g. *Fiction* or *Short stories*. To 
+
+
+<<<PAGE 8>>>
+Subject Headings Manual | Literature: Fiction H 1790 | Page 8 
+ 
+ 
+replace a form subdivision that includes a demographic group, also assign LCDGT to bring out 
+the audience of the resource being cataloged, e.g. *Children* or *Teenagers*. 
+Example: 
+Title: The shadow of war : a novel of the Cuban Missile Crisis. 
+650 #0 $a Cuban Missile Crisis, 1962 $v Fiction. 
+LC practice: 
+650 #0 $a Cuban Missile Crisis, 1962. 
+655 #7 $a Historical fiction. $2 lcgft 
+655 #7 $a Novels. $2 lcgft 
+E.3. Animal stories 
+Assign the heading *Animals--Fiction* to individual novels or stories about animals in general. 
+For a work about a specific type of animal, assign a heading for the type of animal with the 
+subdivision *--Fiction*, e.g. *Horses--Fiction*. 
+LC practice: Do not use a form subdivision of the type *--Fiction* or *--Juvenile fiction*. 
+Instead assign an appropriate term or terms from LCGFT, e.g. *Fiction* or *Short stories*. To 
+replace a form subdivision that includes a demographic group, also assign LCDGT to bring out 
+the audience of the resource being cataloged, e.g. *Children* or *Teenagers*.  
+Example: 
+Title: Love, Clancy : diary of a good dog. 
+650 #0 $a Dogs $v Fiction. 
+LC practice: 
+650 #0 $a Dogs. 
+655 #7 $a Animal fiction. $2 lcgft 
+655 #7 $a Novels. $2 lcgft 
+F. History and criticism 
+F.1. General rule 
+For works about particular themes in fiction, assign as many headings as necessary to bring out 
+the form (with subdivision *--History and criticism*) and the topic(s) (normally using headings 
+of the type *[topic] in literature*). 
+Examples: 
+650 #0 $a American fiction $y 20th century $x History and criticism. 
+
+
+<<<PAGE 9>>>
+Subject Headings Manual | Literature: Fiction H 1790 | Page 9 
+ 
+ 
+650 #0 $a Politics in literature. 
+If a heading has both form and topical aspects, assign only the single heading with the 
+subdivision *--History and criticism*, for example, *Detective and mystery stories, American--
+History and criticism*. 
+F.2. Fiction about individual persons or families 
+For criticism of fiction about particular individuals or families, including dynasties and royal 
+houses, assign the name of the person or family with the free-floating topical subdivision *--In 
+literature*. 
+Examples: 
+600 10 $a Faust, $d -approximately 1540 $x In literature. 
+600 10 $a Shakespeare, William, $d 1564-1616 $x In literature. 
+600 30 $a Habsburg, House of $x In literature. 
+600 30 $a Mann family $x In literature. 
+F.3. Fiction about imaginary persons 
+For criticism of fiction about particular imaginary individuals, assign the name of the person. 
+Also assign if appropriate for the work the name of the author with the subdivision *--
+Characters* (cf. H 1610). 
+Example: 
+600 10 $a Doyle, Arthur Conan, $c Sir, $d 1859-1930 $x Characters. 
+600 10 $a Holmes, Sherlock. 
+F.4. Fiction about individual corporate bodies, places, and sacred works 
+For criticism of fiction about particular corporate bodies, places, or sacred works, assign the 
+name of the entity with the free-floating subdivision *--In literature*. 
+Examples: 
+610 10 $a United States. $b Federal Bureau of Investigation $x In 
+literature. 
+651 #0 $a Tahiti (French Polynesia : Island) $x In literature. 
+630 00 $a Bible $x In literature. 
+630 00 $a Qurʼan $x In literature. 
+
+
+<<<PAGE 10>>>
+Subject Headings Manual | Literature: Fiction H 1790 | Page 10 
+ 
+ 
+F.5. Fiction about wars and similar events 
+For works about the fiction of a specific war, revolution, uprising, etc., assign *[name of event]-
+-Literature and the war, [revolution, uprising, etc.]* as a topical heading (cf. H 1200). 
+Examples: 
+650 #00 $a World War, 1939-1945 $x Literature and the war. 
+651 #0 $a Algeria $x History $y Revolution, 1954-1962 $x Literature and the 
+revolution. 
+F.6. Single works of fiction 
+For works about an individual novel or story in one of the categories of section E.1-E.3, above, 
+assign a heading for the individual work as well as a heading for the theme. 
+Example: 
+600 10 $a Mitchell, Margaret, $d 1900-1949. $t Gone with the wind. 
+650 #0 $a United States $x History $y Civil War, 1861-1865 $x Literature and 
+the war. 
+G. Special provisions for increased subject access to fiction 
+G.1. Application of special provisions 
+The Library of Congress applies special provisions for increased subject access to fiction as 
+internal resources permit. As of January 2001 these provisions were being applied to cataloging 
+for current acquisitions of American novels and novels of other English-language literatures. As 
+of 2026, it is no longer LC practice to assign headings that include form subdivisions. 
+G.2. General principles 
+The assignment of subject headings to individual works of fiction is intended to provide the 
+average public library user with an additional method of selecting recreational reading. Several 
+types of subject headings are available to provide this access. Any, all, or none of the following 
+categories of headings may be appropriate for an individual work of fiction: form/genre, 
+character, setting, topic. These headings should be assigned only as they come readily to mind 
+after a superficial review of the work being cataloged. 
+G.3. Form and genre headings 
+G.3.a. Source of headings 
+Select an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), for 
+example, *Biographical fiction*; *Spy fiction*. Assign terms from LCGFT in accordance with the 
+
+
+<<<PAGE 11>>>
+Subject Headings Manual | Literature: Fiction H 1790 | Page 11 
+ 
+ 
+instructions in J 235 of the LCGFT Manual. Headings from the second edition of the Guidelines 
+on Subject Access to Individual Works of Fiction, Drama, Etc. (GSAFD) may be assigned instead, 
+for example, *Love stories*; *Science fiction*.  
+If assigning headings from GSAFD, generally assign no more than one or two, expressing only 
+the primary genre(s) of the work. Apply the same principle of specificity used in non-literary 
+cataloging, e.g., *Arthurian romances*, not *Romances*; *War stories*, not *Historical 
+fiction*.  
+Note: LC began to assign terms from LCGFT to fiction in English in 2021. Until then, GSFAD was 
+used in LC bibliographic records. If an appropriate genre heading was not available from GSAFD, 
+an unqualified form heading from LCSH was assigned in the MARC 655 field with second 
+indicator 0. Broad LCSH headings such as *Fiction* were not assigned. Neither were headings 
+that included adjectival qualifiers or subdivisions to show the language of the work or to reflect 
+the characteristics of the author, such as nationality, religion, sex, or ethnic background. 
+G.3.b. MARC 21 content designation and input conventions 
+Form/genre headings for individual works use the MARC tag 655, not 650. For terms from 
+LCGFT, the second indicator contains the value 7 and the code lcgft in a subfield $2 following 
+the term. For headings from GSAFD, the second indicator contains the value 7 and the code 
+gsafd in a subfield $2 following the heading. When assigned, these headings are input following 
+other LC subject headings and following any Children’s and Young Adult Cataloging (CYAC) 
+subject headings.  
+Note: The second indicator value of 0 for LCSH was added to the 655 field in MARC 21 in 2003 
+and implemented at the Library of Congress in 2004. Records cataloged before 2004 indicate 
+the source of headings from LCSH through the use of the second indicator value of 7 and the 
+code lcsh in a subfield $2. 
+G.3.c. Updating of form/genre headings 
+LC will maintain the currency of form/genre headings for which the source is LCSH or LCGFT. 
+Headings from GSAFD will be assigned from the most current edition available at the time of 
+cataloging, but will not be updated if changes are made in later editions. 
+G.4. Character(s) 
+G.4.a. Individual characters 
+If the work prominently features a real person, a legendary character, or other major character 
+not created by the author of the work, assign a subject heading for the name of the character 
+with appropriate subdivision such as *--Fiction* or *--Juvenile fiction*. If the primary character 
+
+
+<<<PAGE 12>>>
+Subject Headings Manual | Literature: Fiction H 1790 | Page 12 
+ 
+ 
+is a fictitious character created by the author, assign a subject heading only if the character 
+appears in three or more works. For instructions on establishing subject headings for fictitious 
+characters see H 1610. 
+LC practice: Do not use a form subdivision of the type *--Fiction* or *--Juvenile fiction*. 
+Instead assign an appropriate term or terms from LCGFT, e.g. *Fiction* or *Short stories*. To 
+replace a form subdivision that includes a demographic group, also assign LCDGT to bring out 
+the audience of the resource being cataloged, e.g. *Children* or *Teenagers*. 
+Note: Fictitious characters may be borrowed by an author from another author, or from 
+another source, and used in the creation of a new work. Assign the same heading to works by 
+the original creator of the character and to works in which the character has been borrowed.  
+Assign a separate heading when characters share a name but are clearly unrelated to each 
+other. 
+G.4.b. Classes of persons 
+A heading may also be assigned for the class of persons to which the primary character belongs 
+if that class of persons is established and is likely to be sought by the typical public library user, 
+for example, women detectives. Generally follow the same principles that are used for selecting 
+class-of-persons headings for individual biographies. Subdivide the heading with the 
+appropriate subdivision such as *--Fiction* or *--Juvenile fiction*. 
+LC practice: Do not use a form subdivision of the type *--Fiction* or *--Juvenile fiction*. 
+Instead assign an appropriate term or terms from LCGFT, e.g. *Fiction* or *Short stories*. To 
+replace a form subdivision that includes a demographic group, also assign LCDGT to bring out 
+the audience of the resource being cataloged, e.g. *Children* or *Teenagers*. 
+G.5. Setting 
+Assign a subject heading for a place, event, or time period that is featured prominently in an 
+individual work. Since almost all fictitious works have a specific place and time, assign these 
+headings only if the place or time is significant. Generally do not assign headings for a time 
+period that is contemporaneous to the period in which the work was written, for example, do 
+not express the 19th-century setting of a work that was written in the 19th century. Assign a 
+subject for an imaginary place or organization only if the place appears in three or more works. 
+The place of the work may also be included as a subdivision of a topical heading, in accordance 
+with normal subject cataloging practice, either in addition to a separate heading for place or as 
+a substitute for a separate heading. Subdivide the heading with the appropriate subdivision 
+such as *--Fiction* or *--Juvenile fiction*. 
+
+
+<<<PAGE 13>>>
+Subject Headings Manual | Literature: Fiction H 1790 | Page 13 
+ 
+ 
+LC practice: Do not use a form subdivision of the type *--Fiction* or *--Juvenile fiction*. 
+Instead assign an appropriate term or terms from LCGFT, e.g. *Fiction* or *Short stories*. To 
+replace a form subdivision that includes a demographic group, also assign LCDGT to bring out 
+the audience of the resource being cataloged, e.g. *Children* or *Teenagers*. 
+G.6. Topical access 
+Assign headings for specific topics that are the focal point of an individual literary work. Assign 
+headings only for topics that have been made explicit by the author or publisher, such as those 
+topics that are mentioned in the title, series, introductory matter, dustjacket, or other 
+prominent location. The purpose of the topical heading is to provide access for those topics 
+that distinguish the work from most other works. Do not assign headings for vague and general 
+topics, such as fate, evil, belief, psychology, interpersonal relations, emotions, social customs, 
+or community life. The same principle of specificity should be applied as is used in non-literary 
+cataloging. Do not assign both a broader and more specific heading to the same work; assign 
+only the most specific heading that is appropriate. Normally no more than one or two topical 
+headings should be assigned. Many works will have no topical heading. Subdivide the heading 
+with the appropriate subdivision such as *--Fiction* or *--Juvenile fiction*. 
+LC practice: Do not use a form subdivision of the type *--Fiction* or *--Juvenile fiction*. 
+Instead assign an appropriate term or terms from LCGFT, e.g. *Fiction* or *Short stories*. To 
+replace a form subdivision that includes a demographic group, also assign LCDGT to bring out 
+the audience of the resource being cataloged, e.g. *Children* or *Teenagers*. 
+H. Examples 
+Title: Yankee warrior : the story of a Civil War hero from Maine. 
+600 10 $a Morrill, Walter Goodale, $d 1840-1935 $v Fiction. 
+651 #0 $a United States $x History $y Civil War, 1861-1865 $v Fiction. 
+655 #7 $a Biographical fiction. $2 lcgft 
+655 #7 $a War fiction. $2 lcgft 
+655 #7 $a Novels. $2 lcgft 
+LC practice: 
+600 10 $a Morrill, Walter Goodale, $d 1840-1935. 
+651 #0 $a United States $x History $y Civil War, 1861-1865. 
+655 #7 $a Biographical fiction. $2 lcgft 
+655 #7 $a War fiction. $2 lcgft 
+655 #7 $a Novels. $2 lcgft 
+ 
+
+
+<<<PAGE 14>>>
+Subject Headings Manual | Literature: Fiction H 1790 | Page 14 
+ 
+ 
+Title: The red horseman. 
+600 10 $a Grafton, Jake $v Fiction. 
+650 #0 $a Nuclear weapons plants $v Fiction. 
+650 #0 $a Terrorism $v Fiction. 
+651 #0 $a Russia (Federation) $v Fiction. 
+655 #7 $a Spy fiction. $2 lcgft 
+655 #7 $a Novels. $2 lcgft 
+LC practice: 
+600 10 $a Grafton, Jake. 
+650 #0 $a Nuclear weapons plants. 
+650 #0 $a Terrorism. 
+651 #0 $a Russia (Federation) 
+655 #7 $a Spy fiction. $2 lcgft 
+655 #7 $a Novels. $2 lcgft 
+ 
+Title: I, Richard : stories of suspense. 
+655 #7 $a Detective and mystery fiction. $2 lcgft 
+655 #7 $a Short stories. $2 lcgft 
+ 
+Title: First degree love : a novel of euthanasia. 
+650 #0 $a Euthanasia $v Fiction. 
+651 #0 $a Kentucky $v Fiction. 
+655 #7 $a Medical fiction. $2 lcgft 
+655 #7 $a Novels. $2 lcgft 
+LC practice: 
+650 #0 $a Euthanasia. 
+651 #0 $a Kentucky. 
+655 #7 $a Medical fiction. $2 lcgft 
+655 #7 $a Novels. $2 lcgft 
+ 
+Title: The French consul. 
+650 #0 $a Consuls $z China $v Fiction. 
+651 #0 $a China $x History $y Warlord period, 1916-1928 $v Fiction. 
+655 #7 $a Historical fiction. $2 lcgft 
+
+
+<<<PAGE 15>>>
+Subject Headings Manual | Literature: Fiction H 1790 | Page 15 
+ 
+ 
+655 #7 $a Political fiction. $2 lcgft 
+655 #7 $a Novels. $2 lcgft 
+LC practice: 
+650 #0 $a Consuls $z China. 
+651 #0 $a China $x History $y Warlord period, 1916-1928. 
+655 #7 $a Historical fiction. $2 lcgft 
+655 #7 $a Political fiction. $2 lcgft 
+655 #7 $a Novels. $2 lcgft 
+ 
+Title: The story of Rolf and the Viking bow. 
+651 #0 $a Iceland $x History $y To 1262 $v Juvenile fiction. 
+650 #0 $a Vikings $v Juvenile fiction. 
+650 #0 $a Adventure and adventurers $v Juvenile fiction. 
+650 #0 $a Middle Ages $v Juvenile fiction. 
+655 #7 $a Historical fiction. $2 lcgft 
+LC practice: 
+651 #0 $a Iceland $x History $y To 1262. 
+650 #0 $a Vikings. 
+650 #0 $a Adventure and adventurers. 
+650 #0 $a Middle Ages. 
+655 #7 $a Historical fiction. $2 lcgft 
+385 ## $a Children $2 lcdgt 
+Revision history 
+2026-01: Updated template. Added instructions related to LCGFT implementation. 

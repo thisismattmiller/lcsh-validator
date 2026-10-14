@@ -1,0 +1,177 @@
+
+
+<<<PAGE 1>>>
+ 
+Early Works  H 1576 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1576 Page 1 
+ 
+June 2013 
+BACKGROUND:  The subdivision BEarly works to 1800 and similar subdivisions used under 
+subjects are useful in subject cataloging because (a) they collocate early texts on a subject in the 
+file under the subject, and (b) they separate from the general works (that is, the unsubdivided 
+headings) materials that would normally be regarded as irrelevant by the average catalog user 
+interested in current materials. 
+ 
+ 
+1.  General rule.  Use the subdivision BEarly works to 1800 as a free-floating form 
+subdivision under all appropriate headings, including those assigned to maps of all types, to 
+designate individual works written or issued before 1800.  For exceptions to this rule, see sec. 5, 
+below.  Examples: 
+ 
+650 #0 $a Astronomy $v Early works to 1800. 
+651 #0 $a Bergamo (Italy) $v Early works to 1800. 
+650 #0 $a Money $v Tables $v Early works to 1800. 
+650 #0 $a Martial arts $z China $v Early works to 1800. 
+650 #0 $a Physicians $z England $v Biography $v Early works to 
+            1800. 
+651 #0 $a Greece $x Description and travel $v Early works to 1800. 
+651 #0 $a Paris (France) $v Aerial views $v Early works to 1800. 
+650 #0 $a Real property $z England $v Maps $v Early works to 1800. 
+ 
+Note:  The former free-floating subdivision BMapsBTo 1800 was discontinued in August 
+1993. 
+ 
+ 
+ 
+2.  Categories of text that are applicable. 
+ 
+a.  Early printed works and manuscripts.  Assign the subdivision as long as the text in 
+question originated before the date given in the subdivision.  This applies not only to 
+early printed works, but also to works originally appearing in manuscript form before the 
+invention of printing. 
+ 
+b.  Editions.  Assign the subdivision to all editions of a work, including editions issued 
+after 1800, as long as the original text has not been altered or reworked.  Also assign the 
+subdivision for literal translations of such texts, regardless of the date of the translation. 
+ 
+c.  Post-1800 adaptations and reassembled works.  Omit the subdivision if parts of an 
+early work or works were adapted or reassembled after 1800 so as to constitute a new 
+work.  Also omit the subdivision in the case of collections of excerpts from one or more 
+early works. 
+
+
+<<<PAGE 2>>>
+H 1576  Early Works 
+ 
+ 
+ 
+H 1576 Page 2 
+Subject Headings Manual 
+June 2013 
+2.  Categories of text that are applicable.  (Continued) 
+ 
+d.  Collections of early texts.  Assign the subdivision for collections of early texts 
+brought together without alteration and issued in one publication after 1800. 
+ 
+3.  Position of the subdivision in the subject string.  As a general rule, locate the subdivision as 
+the last element in the string. 
+ 
+If it is necessary to bring out the form of the original work, add the appropriate form 
+subdivision immediately before BEarly works to 1800, for example, [topic]BHandbooks, 
+manuals, etc.BEarly works to 1800.  To bring out the form in which the modern 
+publisher issued the work, add it after BEarly works to 1800, for example, [topic]BEarly 
+works to 1800BPeriodicals. 
+ 
+4.  Conflicts.  Before assigning the subdivision on a free-floating basis, check the subject 
+authority file to ascertain that no provision exists that conflicts with the use of the subdivision.  
+If there is a conflict, use the established heading-subdivision combination.  The following list 
+represents some of the alternative provisions that currently exist in the subject authority file: 
+ 
+! a date other than 1800 is used to bring out a date having more significance than 1800 
+for the topic.  Examples: 
+ 
+150 ## $a Encyclopedias and dictionaries $v Early works to 
+            1600 
+150 ## $a Electricity $v Early works to 1850 
+150 ## $a Psychiatry $v Early works to 1900 
+ 
+! the heading-subdivision combination is a 450 field in the record for another heading 
+to group early materials on closely-related topics together.  Example: 
+ 
+150 ## $a Physical education and training $v Early works to 
+            1800 
+450 ## $a Athletics $v Early works to 1800 
+ 
+! a heading has been established with variant terminology instead of a date.  
+Examples: 
+ 
+150 ## $a Botany $v Pre-Linnean works 
+150 ## $a Natural history $v Pre-Linnean works 
+150 ## $a Zoology $v Pre-Linnean works 
+
+
+<<<PAGE 3>>>
+ 
+Early Works  H 1576 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1576 Page 3 
+ 
+June 2013 
+5.  When to omit the subdivision.  Do not use the subdivision in situations for which the 
+passage of time is of little consequence, including the following: 
+ 
+! under names of persons, corporate bodies (except for geographic names), or 
+individual works (except sacred works) 
+! historical works; chronologies 
+! under headings with dates, or period subdivisions; under headings with period 
+qualifiers, for example, Science, Ancient 
+! works of belles lettres; works about belles lettres 
+ 
+If it should be necessary because of the special nature of the material to make an exception to 
+any of the above categories, establish the particular heading-subdivision combination in the 
+subject authority file. 
+ 
+Omit the subdivision when cataloging a commentary on an early work, when the commentary 
+requires companion headings as described in H 1435, sec. 2. 
+ 
+Do not use this subdivision under headings for musical compositions.  For instructions on the 
+use of period subdivisions for musical compositions, see H 1160. 
+ 
+ 
+ 
+6.  Bibliographies. 
+ 
+a.  Early bibliographies.  Assign headings of the type [topic]BBibliographyBEarly to 
+designate individual bibliographies that were issued before 1800 on a topic. 
+ 
+The subdivision BEarly works to 1800 is not used under the subdivision BBibliography. 
+ 
+ 
+b.  Bibliographies of early works.  Assign headings of the type [topic]BEarly works to 
+1800BBibliography to designate bibliographies that list individual works issued before 
+1800 on a topic. 
+ 
+Note:  Catalogs of such bibliographies are assigned the heading [topic]BEarly 
+works to 1800BBibliographyBCatalogs, or, in the case of exhibition catalogs, 
+[topic]BEarly works to 1800BExhibitions. 
+
+
+<<<PAGE 4>>>
+H 1576  Early Works 
+ 
+ 
+ 
+H 1576 Page 4 
+Subject Headings Manual 
+June 2013 
+6.  Bibliographies.  (Continued) 
+ 
+c.  When assigning the subdivisions BBibliographyBEarly or BEarly works to 
+1800BBibliography, also assign the heading Early printed booksB[century, if 
+appropriate], for example, Early printed booksB16th century.  Example: 
+ 
+Title:  Recent books on architecture.   
+[published in London in 1775] 
+650 #0 $a Architecture $v Bibliography $v Early. 
+650 #0 $a Early printed books $y 18th century  
+            $v Bibliography. 
+650 #0 $a Architecture $x Early works to 1800  
+            $v Bibliography.  
+ 

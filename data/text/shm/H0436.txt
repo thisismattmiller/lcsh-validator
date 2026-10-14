@@ -1,0 +1,25 @@
+
+
+<<<PAGE 1>>>
+ 
+Provisional Name Headings  H 436 
+ 
+ 
+ 
+Subject Headings Manual 
+H 436 Page 1 
+ 
+June 2013 
+BACKGROUND:  When a descriptive cataloger determines that a name heading cannot be 
+satisfactorily established according to descriptive rules because of inadequate information about 
+the person, corporate body, or uniform title the heading represents, a "provisional" name 
+heading is established, coded c in field 008/33 (the Level of Establishment box on the 008 input 
+screen in authority records in the LC ILS).  Name headings coded Aprovisional@ may be assigned 
+as subject headings without further action. 
+ 
+ 
+ 
+If a name heading coded Aprovisional@ is needed for assignment as a subject heading, assign the 
+heading as established, or, if the work being cataloged contains additional information that will 
+enable the heading to be fully rather than provisionally established, consider revising the heading 
+or requesting a descriptive cataloger to do so. 

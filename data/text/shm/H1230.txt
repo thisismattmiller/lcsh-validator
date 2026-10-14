@@ -1,0 +1,203 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Archives and Archival Resources H 1230 | Page 1 
+ 
+ 
+Archives and Archival Resources 
+H 1230 
+A. Background ............................................................................................................................... 1 
+B. Recent revisions ........................................................................................................................ 1 
+C. Definitions ................................................................................................................................. 2 
+D. Archives .................................................................................................................................... 2 
+D.1. General ............................................................................................................................... 2 
+D.2. Individual corporate bodies ................................................................................................ 3 
+D.3. Catalogs .............................................................................................................................. 3 
+E. Archival resources ..................................................................................................................... 4 
+E.1. General ............................................................................................................................... 5 
+E.2. Directories .......................................................................................................................... 5 
+Revision history ............................................................................................................................. 5 
+A. Background 
+Archives are collections of documents or records relating to the activities, business dealings, 
+etc., of a person, family, corporation, association, community, or nation. This instruction sheet 
+provides guidelines for assigning the subdivisions *--Archives* and *--Archival resources*. For 
+guidelines on classification of archival inventories, see F 495, sec. 1-2. For guidelines on 
+classification of works on archival resources, see F 630. 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Catalogs*. To replace a form subdivision that includes a demographic group, also assign 
+Library of Congress Demographic Groups Terms (LCDGT) to bring out the audience of the 
+resource being cataloged, e.g. *German speakers* or *Arabic, Students of*. 
+B. Recent revisions 
+2026-07: Updated template. Added instructions related to LCGFT implementation. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Archives and Archival Resources H 1230 | Page 2 
+ 
+ 
+C. Definitions 
+Archives: documentary material, such as records, manuscripts, household records, diaries, 
+correspondence, photographs, memorabilia, etc. pertaining to an agent or a topic. 
+D. Archives 
+D.1. General 
+Use the free-floating subdivision *--Archives* as a form or topical subdivision under types of 
+corporate bodies and educational institutions, classes of persons, and ethnic groups, and under 
+names of individual corporate bodies, military services, educational institutions, persons, and 
+families, for collections of documentary material, such as manuscripts, household records, 
+diaries, correspondence, photographs, memorabilia, etc., pertaining to these persons or 
+institutions. Use the topical subdivision for discussions of such collections. 
+Assign an array of headings to bring out both the archive and the subject matter of the 
+documents it contains. 
+LC practice: For discussions of documentary material, assign a subject heading with the topical 
+subdivision *--Archives* under types of corporate bodies and educational institutions, classes 
+of persons, and ethnic groups, and under names of individual corporate bodies, military 
+services, educational institutions, persons, and families. For collections of documentary 
+material, such as manuscripts, household records, diaries, correspondence, photographs, 
+memorabilia, etc., assign subject headings to reflect the topical focus of the documentary 
+materials, including the relevant agents that created or collected the materials. Also assign 
+LCGFT appropriate to the form and/or genre of the resource in hand, e.g. LCGFT *Records 
+(Documents)*. 
+Examples: 
+Title: The personal archives of President Calvin Coolidge.0F
+1 
+600 10 $a Coolidge, Calvin, $d l872-1933 $v Archives. 
+651 #0 $a United States $x Politics and government $y 1923-1929 $v Sources. 
+LC practice: 
+600 10 $a Coolidge, Calvin, $d l872-1933. 
+651 #0 $a United States $x Politics and government $y 1923-1929. 
+655 #7 $a Records (Documents) $2 lcgft 
+655 #7 $a Business correspondence. $2 lcgft 
+655 #7 $a Personal correspondence. $2 lcgft 
+ 
+1 About this Collection | Calvin Coolidge Papers | Digital Collections | Library of Congress 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Archives and Archival Resources H 1230 | Page 3 
+ 
+ 
+ 
+Title: Documents of the State Department relating to the history of 
+Greece from 1950 to 1954. 
+651 #0 $a Greece $x History $y 1950-1967 $v Sources. 
+610 10 $a United States. $b Dept. of State $v Archives. 
+LC practice: 
+651 #0 $a Greece $x History $y 1950-1967. 
+610 10 $a United States. $b Dept. of State. 
+655 #7 $a Records (Documents) $2 lcgft 
+ 
+Title: Papers of the Society of American Indians [microform] 
+650 #0 $a Indigenous peoples $z North America $x History $v Sources. 
+610 20 $a Society of American Indians $v Archives. 
+LC practice: 
+650 #0 $a Indigenous peoples $z North America $x History. 
+610 20 $a Society of American Indians. 
+655 #7 $a Records (Documents) $2 lcgft 
+655 #7 $a Ephemera. $2 lcgft 
+655 #7 $a Business correspondence. $2 lcgft 
+D.2. Individual corporate bodies 
+Use the free-floating subdivision *--Archives* under names of corporate bodies, including 
+individual educational institutions, provided that the corporate body or educational institution 
+prepares the archive for public access, and is not merely the institution that houses the archive. 
+If the collection is a formally organized archive for which a name heading can be established, 
+use that heading, as appropriate, instead of the subdivision *--Archives* under the name of the 
+corporate body. 
+LC practice: For corporate bodies, including individual educational institutions, that prepare the 
+archive for public access, not merely the institution that houses the archive, assign a subject 
+heading for the body. If the collection is a formally organized archive for which a name heading 
+can be established, use that heading instead. Also assign LCGFT appropriate to the form and/or 
+genre of the resource in hand, e.g. LCGFT *Records (Documents)*. 
+D.3. Catalogs 
+Use the free-floating form subdivision *--Catalogs* under the topical subdivision *--Archives* 
+for inventories of documents and materials housed in an individual archive. In accordance with 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Archives and Archival Resources H 1230 | Page 4 
+ 
+ 
+H 1361, assign an array of headings to bring out the topics covered in the archives and the 
+institution housing the material. 
+LC practice: For any inventory of documents and materials housed in an individual archive, 
+assign subject headings in accordance with H 1361. Also assign LCGFT appropriate to the form 
+and/or genre of the resource in hand, e.g. LCGFT *Catalogs*. 
+Examples: 
+Title: A catalog of the Southern Africa archives in the University of 
+York. 
+651 #0 $a Africa, Southern $x History $x Sources $v Bibliography $v 
+Catalogs. 
+651 #0 $a Africa, Southern $x History $x Manuscripts $v Catalogs. 
+610 20 $a University of York. $b Centre for Southern African Studies $x 
+Archives $v Catalogs. 
+LC practice: 
+651 #0 $a Africa, Southern $x History $x Sources. 
+651 #0 $a Africa, Southern $x History $x Manuscripts. 
+610 20 $a University of York. $b Centre for Southern African Studies $x 
+Archives. 
+655 #7 $a Bibliographies. $2 lcgft 
+655 #7 $a Catalogs. $2 lcgft 
+ 
+Title: Documents of the Royal Victoria Hospital held in the McGill 
+University Archives. 
+610 20 $a Royal Victoria Hospital (Montréal, Québec) $x Archives $v 
+Catalogs. 
+610 20 $a Royal Victoria Hospital (Montréal, Québec) $x History $x Sources 
+$v Bibliography $v Catalogs. 
+610 20 $a McGill University. $b Archives $v Catalogs. 
+LC practice: 
+610 20 $a Royal Victoria Hospital (Montréal, Québec) $x Archives. 
+610 20 $a Royal Victoria Hospital (Montréal, Québec) $x History $x Sources. 
+610 20 $a McGill University. $b Archives. 
+655 #7 $a Bibliographies. $2 lcgft 
+655 #7 $a Catalogs. $2 lcgft 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Archives and Archival Resources H 1230 | Page 5 
+ 
+ 
+E. Archival resources 
+E.1. General 
+Use the free-floating topical subdivision *--Archival resources* under topical headings and 
+names of countries, cities, etc., for brief descriptions of the types of documents and historical 
+records about a particular topic or place available in an institution or institutions. 
+Do not use the subdivision *--Archival resources* for catalogs containing an item-by-item list of 
+the holdings of an institution or institutions on a topic. See sec. D.3 above. 
+Note: *--Archival resources* was formerly further subdivided by place. That practice was 
+discontinued in 1990. If the location of the resources is judged to be significant, bring it out by 
+assigning the heading *Archival resources--[place]* as an additional heading. 
+Example: 
+Title: Christianity in China : a scholar's guide to resources in The 
+archives of the United States. 
+650 #0 $a Christianity $z China $x Archival resources. 
+651 #0 $a China $x Church history $x Archival resources. 
+650 #0 $a Archival resources $z United States. 
+LC practice: 
+No change in subject headings. 
+655 #7 $a Collection catalogs. $2 lcgft 
+E.2. Directories 
+Use the free-floating form subdivision *--Directories*, if appropriate, under headings of the 
+type *[topic or place]--Archival resources* for works containing the names, addresses, and 
+brief descriptions of institutions housing archival materials on a particular topic. 
+Example: 
+Title: Peace : archival and library collections in the United States. 
+650 #0 $a Peace $x Archival resources $v Directories. 
+650 #0 $a Peace $x Library resources $v Directories. 
+650 #0 $a Archival resources $z United States $v Directories. 
+650 #0 $a Library resources $z United States $v Directories. 
+LC practice: 
+650 #0 $a Peace $x Archival resources. 
+650 #0 $a Peace $x Library resources. 
+650 #0 $a Archival resources $z United States. 
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | Archives and Archival Resources H 1230 | Page 6 
+ 
+ 
+650 #0 $a Library resources $z United States. 
+655 #7 $a Collection catalogs. $2 lcgft 
+655 #7 $a Directories. $2 lcgft 
+Revision history 
+2026-07: Updated template. Added instructions related to LCGFT implementation. 

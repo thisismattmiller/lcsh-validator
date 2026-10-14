@@ -1,0 +1,67 @@
+
+
+<<<PAGE 1>>>
+ 
+Government Policy  H 1642 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1642 Page 1 
+ 
+February 2018 
+BACKGROUND:  It had formerly been the practice to use phrase headings of the type [ . . . ] 
+policy (for example, Urban policy, Housing policy) or of the type [ . . . ] and state (for example, 
+Education and state, Theater and state) to designate government policy on the topic in question. 
+In 1980, the subdivision BGovernment policy (May Subd Geog) was made a free-floating 
+subdivision to be used in lieu of establishing phrase headings of this type.  This instruction 
+sheet provides guidelines for assigning the subdivision BGovernment policy (May Subd Geog) 
+under topical headings and under headings for classes of persons or ethnic groups for works 
+describing the course of action selected by national, state, or local governments to guide 
+decision making and programs pertaining to the topic, class of persons, or ethnic group. 
+ 
+ 
+1.  Use of the free-floating subdivision.  Use the subdivision BGovernment policy (May Subd 
+Geog) as described above under any heading for which a corresponding phrase heading has not 
+already been established.  Examples: 
+ 
+Title:  Final report, the 1981 White House Conference on Aging. 
+650 #0 $a Older people $x Government policy $z United States  
+            $v Congresses. 
+ 
+Title:  Overview of state policies related to adolescent parenthood. 
+650 #0 $a Adolescent parents $x Government policy $z United 
+            States $x States. 
+ 
+Exception:  Do not use BGovernment policy under headings designating activities that 
+are inherently governmental in nature, for example, City planning; Finance, Public; 
+Crime prevention. 
+ 
+ 
+2.  Use of existing phrase headings.  Continue to use existing headings that have been 
+established in the form [ . . . ] policy or [ . . . ] and state.  Do not, however, propose new 
+headings of this type. 
+ 
+ 
+3.  Free-floating subdivisions for specific types of policy.  Some phrase headings for policy are 
+not authorized for geographic subdivision because corresponding subdivisions are used under 
+names of places, for example, BCultural policy, BCommercial policy, BEconomic policy, 
+BMilitary policy, BPopulation policy, BSocial policy.  See H 1140 for the complete list of 
+free-floating subdivisions used under names of places. 
+ 
+
+
+<<<PAGE 2>>>
+H 1642  Government Policy 
+ 
+ 
+ 
+H 1642 Page 2 
+Subject Headings Manual 
+February 2018 
+4.  Chronological subdivision.  The subdivisions BEconomic policy and BSocial policy may 
+be subdivided chronologically.  Establish each use of a chronological subdivision.  
+ 
+Do not chronologically subdivide –Government policy, –Commercial policy, –Cultural policy, 
+–Military policy, or –Population policy. Assign additional headings to bring out a specific time 
+period. 

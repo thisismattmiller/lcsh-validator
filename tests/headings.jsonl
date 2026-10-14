@@ -1,0 +1,61 @@
+{"heading": "Tacos--History", "expect": "valid", "why": "Tacos authorized; --History free-floating under topical headings (H 1095)"}
+{"heading": "Tacos--History--20th century", "expect": "valid", "why": "--20th century free-floating under --History (H 620, H 1647) for topical headings"}
+{"heading": "Taxation--France--Paris", "expect": "valid", "why": "Taxation (May Subd Geog); indirect subdivision through France (H 830 sec. C.1); qualifier deleted (C.6)"}
+{"heading": "Taxation--Paris (France)", "expect": "invalid", "why": "cities must be subdivided indirectly through the country; qualifier must be deleted (H 830 sec. C.1, C.6)"}
+{"heading": "Music--Canada--Toronto", "expect": "invalid", "why": "Canadian provinces are first-order divisions used directly: Music--Ontario--Toronto (H 830 sec. C.5.a)"}
+{"heading": "Music--Ontario--Toronto", "expect": "valid", "why": "H 830 sec. C.5.a"}
+{"heading": "Education--New York (State)--Erie County--Buffalo", "expect": "invalid", "why": "no more than two levels of geographic subdivision (H 830 sec. C.1)"}
+{"heading": "Education--New York (State)--Buffalo", "expect": "valid", "why": "two-level indirect subdivision through the state"}
+{"heading": "Performing arts--Washington (D.C.)", "expect": "valid", "why": "Washington (D.C.) is assigned directly (H 830 sec. C.5.d)"}
+{"heading": "Performing arts--United States--Washington (D.C.)", "expect": "invalid", "why": "Washington (D.C.) is assigned directly, not through United States (H 830 sec. C.5.d)"}
+{"heading": "Nutrition surveys--Italy--Italy, Southern", "expect": "invalid", "why": "inverted regional headings go directly after the topic (H 830 sec. C.5.b)"}
+{"heading": "Nutrition surveys--Italy, Southern", "expect": "valid", "why": "H 830 sec. C.5.b"}
+{"heading": "Birds--Colorado--Rocky Mountains", "expect": "invalid", "why": "regions larger than a state are used directly, not through a locality (H 830 sec. C.5.c)"}
+{"heading": "Salmon--Diseases--Treatment", "expect": "valid", "why": "Salmon is an animal; --Diseases and --Diseases--Treatment are on the H 1147 pattern list (subdivisions under --Diseases may follow pathological conditions)"}
+{"heading": "Joints--Biopsy", "expect": "valid", "why": "--Biopsy established under pattern heading Heart (H 1164); Joints is an organ/region of the body (H 1146 sec. C)"}
+{"heading": "Joints--Dislocation", "expect": "invalid", "why": "conflicts with established heading Dislocations (Joints--Dislocation is a UF) (H 1146 sec. C)"}
+{"heading": "Emotions--Psychological aspects", "expect": "invalid", "why": "topic already implied in the heading (H 1095 sec. E.3)"}
+{"heading": "Schools--Management", "expect": "invalid", "why": "subdivision vs. phrase conflict: established heading School management and organization (H 1095 sec. E.2)"}
+{"heading": "Medicine--Periodicals--History", "expect": "valid", "why": "--Periodicals used topically ($x) before --History (H 1075 sec. C.4)"}
+{"heading": "Science--Periodicals--History", "expect": "valid", "why": "history of periodicals in science (H 1075 sec. E)"}
+{"heading": "Hospitals--Administration--Data processing--Evaluation", "expect": "valid", "why": "H 1075 sec. E example"}
+{"heading": "United States--History--Civil War, 1861-1865--Campaigns", "expect": "valid", "why": "established string; --Campaigns on the H 1200 wars pattern list"}
+{"heading": "United States--History--1783-1815", "expect": "valid", "why": "established period subdivision"}
+{"heading": "United States--History--1790-1800", "expect": "invalid", "why": "period subdivision not established under United States--History (H 620)"}
+{"heading": "France--Politics and government--1789-1799", "expect": "valid", "why": "established"}
+{"heading": "Shakespeare, William, 1564-1616--Criticism and interpretation", "expect": "valid", "why": "name heading; --Criticism and interpretation on H 1110"}
+{"heading": "Shakespeare, William, 1564-1616--Biography", "expect": "valid", "why": "established precoordinated record exists (validation record) even though H 1110/H 1330 say the name alone is normally used; the established string wins"}
+{"heading": "Shakespeare, William, 1564-1616--Translations into French", "expect": "valid", "why": "multiple --Translations into French, [German, etc.] on H 1110 (H 1090)"}
+{"heading": "Women--Employment--Juvenile literature", "expect": "valid", "why": "form subdivision last; valid LCSH although current LC practice uses LCGFT instead of $v (H 1075 sec. C.4) — note expected, not an error"}
+{"heading": "Women--Juvenile literature--Employment", "expect": "invalid", "why": "form subdivision must be last (H 1075 sec. C.4)"}
+{"heading": "Automobiles--Patents", "expect": "valid", "why": "--Patents on H 1095 under types of articles and products; land vehicles are products (H 1146 sec. A)"}
+{"heading": "English language--Dictionaries--French", "expect": "valid", "why": "H 1540 bilingual dictionary pattern; --Dictionaries--French on H 1154"}
+{"heading": "French language--Dictionaries--English", "expect": "valid", "why": "H 1540"}
+{"heading": "Cookery, Italian", "expect": "invalid", "why": "cancelled heading; use Cooking, Italian (deprecated record / UF)"}
+{"heading": "Cooking, Italian", "expect": "valid", "why": "authorized"}
+{"heading": "Mormon handcart companies", "expect": "invalid", "why": "heading changed to Latter Day Saint handcart companies (UF)"}
+{"heading": "Atlanta Metropolitan Area (Ga.)", "expect": "valid", "why": "free-floating phrase heading [city] Metropolitan Area ([qualifier]) (H 362)"}
+{"heading": "New York Metropolitan Area (N.Y.)", "expect": "invalid", "why": "no geographic qualifier for New York Metropolitan Area (H 362 sec. 1 exception)"}
+{"heading": "Turkana, Lake, Region (Kenya and Ethiopia)", "expect": "valid", "why": "[feature] Region built on the current established heading Turkana, Lake (Kenya and Ethiopia), extra comma after inverted base (H 362 sec. 1-2); the 2013 sheet example used the former name Rudolf"}
+{"heading": "Sonatas (Piano)", "expect": "valid", "why": "music form heading with medium (H 1917.5)"}
+{"heading": "Sonatas (Piano)--Scores", "expect": "valid", "why": "--Scores on H 1160 pattern list"}
+{"heading": "Quartets (Violin, viola, cello, flute)", "expect": "invalid", "why": "instrument order in the qualifier: woodwinds before strings (H 1917.5)"}
+{"heading": "Rocks--Moon", "expect": "invalid", "why": "celestial bodies are not geographic subdivisions; use Lunar petrology (H 830 sec. C.8)"}
+{"heading": "Mars (Planet)--Geology", "expect": "valid", "why": "H 830 sec. C.8"}
+{"heading": "tacos--history", "expect": "invalid", "why": "capitalization (Appendix B)"}
+{"heading": "Tacos -- History", "expect": "invalid", "why": "spaces around the double hyphen"}
+{"heading": "Tacos--Histroy", "expect": "invalid", "why": "misspelled subdivision"}
+{"heading": "Great Britain--Kings and rulers--Travel--Canada--Pictorial works", "expect": "valid", "why": "H 1075 sec. D.1 example"}
+{"heading": "Railroads--France--Maintenance and repair--History--19th century", "expect": "valid", "why": "H 1075 sec. D.2 example"}
+{"heading": "Tuberculosis--Patients--Hospital care--Maryland--Baltimore--History--20th century", "expect": "valid", "why": "H 1075 sec. D.2 example"}
+{"heading": "Cuba--Claims vs. United States", "expect": "valid", "why": "--Claims vs. ... functions as a multiple under place names (H 1090)"}
+{"heading": "Richland County (Ill.)--Census, 1900", "expect": "valid", "why": "--Census, [date] free-floating under place names (H 1140, H 1366)"}
+{"heading": "Solar eclipses--1854", "expect": "valid", "why": "scope note: Subdivided by date (H 1090)"}
+{"heading": "Dogs--Training--Juvenile literature--Bibliography", "expect": "valid", "why": "two form subdivisions when the bibliography is of juvenile literature; H 1075 sec. C.4"}
+{"heading": "Art--Government policy", "expect": "invalid", "why": "Art--Government policy is a UF reference to the established phrase heading Art and state (H 1095 sec. E.2 subdivision-vs-phrase conflict)"}
+{"heading": "Catholic Church--History--20th century", "expect": "valid", "why": "H 1187 pattern; --History--20th century"}
+{"heading": "Bible. Genesis--Commentaries", "expect": "valid", "why": "name/title heading with H 1188 subdivision"}
+{"heading": "Heart--Refractive errors", "expect": "invalid", "why": "subdivision not appropriate for the heading; --Refractive errors is established only under Eye (H 1146 sec. E)"}
+{"heading": "Chinatown (San Francisco, Calif.)--History", "expect": "valid", "why": "city section as a geographic heading with free-floating --History (H 720, H 1140)"}
+{"heading": "Tourism--California--Chinatown (San Francisco)", "expect": "invalid", "why": "headings qualified by a city are not used as geographic subdivisions (H 830 sec. C.1)"}
+{"heading": "Rudolf, Lake, Region (Kenya and Ethiopia)", "expect": "invalid", "why": "base heading renamed to Turkana, Lake (Kenya and Ethiopia); H 362 phrases are built on the established current name"}

@@ -1,0 +1,100 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Uncontrolled Subject Terms in the 653 Field H 160 | Page 1 
+ 
+Uncontrolled Subject Terms in the 653 Field 
+H 160 
+Table of Contents 
+A. Background ................................................................................................................................. 1 
+B. Recent revisions .......................................................................................................................... 2 
+C. Assignment of 653 headings ....................................................................................................... 2 
+C.1. Structure and placement of the field ................................................................................... 2 
+C.2. Use of terms that are not headings or references ............................................................... 2 
+C.3. Non-duplication of terms ..................................................................................................... 3 
+C.4. Foreign terms ....................................................................................................................... 3 
+C.5. Use of natural word order .................................................................................................... 3 
+C.6. Order of terms ...................................................................................................................... 3 
+C.7. Maximum number of terms ................................................................................................. 3 
+C.8. Previously verified records ................................................................................................... 3 
+C.9. Changing previously assigned 653 fields .............................................................................. 3 
+C.10. Deleting 653 fields .............................................................................................................. 3 
+Revision history ............................................................................................................................... 3 
+A. Background 
+The assignment of uncontrolled subject words was originally intended as an expedient 
+technique for providing minimal subject access to Minimal Level Cataloging (MLC) records. Staff 
+performing minimal level cataloging use the title of the work as the primary source for words or 
+phrases that are translated into English and add these to the 653 field. Staff performing 
+minimal level cataloging do not analyze the book in depth, consult the authority files, attempt 
+to assign these terms in any consistent or patterned manner, and do not agonize over the 
+selection of terms. The principle followed is that some subject access is better than none, and 
+that these uncontrolled terms should be assigned in as unstructured and unregulated a manner 
+as possible. 
+In fully cataloged records, the 653 field serves a very different purpose. Primary subject access 
+to these records is by the controlled vocabulary. The 653 field is used under exceptional 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Uncontrolled Subject Terms in the 653 Field H 160 | Page 2 
+ 
+circumstances to provide supplementary subject access from natural language terms that are 
+not included as headings or UF references in Library of Congress Subject Headings because of 
+editorial policies, do not have precise English language equivalents, and do not duplicate 
+headings in any of the other searchable fields. 
+The addition of the 653 field to fully cataloged records is strictly optional and should be done 
+only on those rare occasions when the cataloger believes that the controlled vocabulary does 
+not adequately convey the essence of the work in hand. It is not to be used in lieu of 
+development work. 
+B. Recent revisions 
+2025-05: Updated to current template. 
+C. Assignment of 653 headings 
+C.1. Structure and placement of the field 
+Use only a single 653 field. Do not capitalize the first word of the field unless it is part of a 
+proper name. Put each term or phrase in its own $a subfield. Use no punctuation at the end of 
+each $a subfield. 
+Example: 
+245 10 $a Iparunk belföldi árainak kapcsolata a külkereskedelmi árakkal. 
+653 0# $a belföldi árak $a külkereskelmi árak 
+Input the 653 after all 600, 610, 611, 630, 650, and 651 subject headings but before any 655 
+genre term fields. Do not end the field with a mark of punctuation unless punctuation is part of 
+the data. 
+C.2. Use of terms that are not headings or references 
+Use only terms that do not appear in the subject or name authority files as headings or UF 
+references, or for which suitable English language equivalents do not exist. Generally, do not 
+add geographic names, personal names, and corporate bodies to the 653 fields of fully 
+cataloged records. 
+Example: 
+245 14 $a The unification of Italy. 
+651 #0 $a Italy $x History $y 1849-1870. 
+[Risorgimento should not be added as a 653, since this appears in 
+the subject authority file as a UF under the heading *Italy—History—
+1849-1870*.] 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Uncontrolled Subject Terms in the 653 Field H 160 | Page 3 
+ 
+C.3. Non-duplication of terms 
+Do not add a term to the 653 field that duplicates a term appearing in another searchable field. 
+C.4. Foreign terms 
+Convert foreign terms for which there is no English equivalent to a form under which the user is 
+most likely to search (for example, uninflected form, stem form, nominative case).  
+Example: 
+245 10 $a Edo jidai bugyōshoku jiten. 
+653 0# $a bugyō 
+C.5. Use of natural word order 
+Record phrases in natural word order. 
+C.6. Order of terms 
+When adding several words or phrases to a bibliographic record, do not attempt to assign them 
+in order of relative importance. 
+C.7. Maximum number of terms 
+Assign a maximum of 3 words or phrases. 
+C.8. Previously verified records 
+Do not add a 653 field to previously verified records. 
+C.9. Changing previously assigned 653 fields 
+Do not alter previously assigned 653 fields. 
+C.10. Deleting 653 fields 
+Delete a 653 field only when it is discovered that a new heading duplicates a 653 field in a 
+bibliographic record. 
+Revision history 
+2025-05: Updated to current template.  

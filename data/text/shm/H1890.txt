@@ -1,0 +1,52 @@
+
+
+<<<PAGE 1>>>
+ 
+Mental Health and Mental Health Services  H 1890 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1890 Page 1 
+ 
+June 2013 
+1.  Classes of persons and ethnic groups.  Assign the subdivision BMental health  (May Subd 
+Geog) as a free-floating subdivision under classes of persons and ethnic groups for works 
+discussing mental health or mental illness, including specific mental illnesses, in relation to the 
+group. 
+ 
+Do not use this subdivision under names of national groups within their own countries.  
+Instead, assign the heading Mental healthB[place].  Example: 
+ 
+Title:  The mental health of the Japanese. 
+650 #0 $a Mental health $z Japan. 
+  [not 650 #0 $a Japanese $x Mental health.] 
+ 
+2.  Individual persons.  Also use the subdivision BMental health as a free-floating subdivision 
+under names of individual persons, for works discussing their mental health or mental illnesses, 
+including accounts of specific disorders.  Example: 
+ 
+Title:  Hitler's psychopathology. 
+600 10 $a Hitler, Adolf, $d 1889-1945 $x Mental health. 
+ 
+3.  Specific mental disorders.  Do not establish more specific subdivisions for individual mental 
+disorders under headings for classes of persons, ethnic groups, or names of individual persons.  
+Instead, assign additional headings to the work being cataloged to bring out the specific disorder. 
+Examples: 
+ 
+Title:  A study of depression among Black Americans in California. 
+650 #0 $a African Americans $x Mental health $z California.   
+650 #0 $a Depression, Mental $z California. 
+ 
+Title:  Is there no place on earth for me? 
+600 10 $a Frumkin, Sylvia $x Mental health.   
+650 #0 $a Schizophrenics $z United States $v Biography. 
+ 
+Note:  Headings for specific mental disorders and conditions in men, women, and age 
+groups are established as phrase headings, for example, Anxiety in women;  
+Depression in infants; Personality disorders in children; Psychoses in adolescence; 
+Schizophrenia in old age. 
+ 
+4.  BMental health services.  Assign the subdivision BMental health services  (May Subd 
+Geog) as a free-floating subdivision under classes of persons and ethnic groups for works 
+discussing organized services providing mental health care to the group. 

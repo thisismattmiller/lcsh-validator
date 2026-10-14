@@ -1,0 +1,105 @@
+
+
+<<<PAGE 1>>>
+ 
+Literature from One Place in Multiple Languages  H 1828 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1828 Page 1 
+ 
+June 2013 
+BACKGROUND:  The free-floating subdivision BLiteratures is used as a form subdivision 
+under names of countries, cities, etc., in which one language predominates but two or more 
+languages are spoken for collections of literary works in several of those languages.  Phrase 
+headings are used instead for collections of literatures from places where no single language 
+predominates.  This instruction sheet provides guidelines for assigning the free-floating 
+subdivision BLiteratures and for the use of phrase headings for literatures. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  General.  Assign the free-floating subdivision BLiteratures as a form subdivision under 
+names of countries, cities, etc., in which one language predominates but two or more languages 
+are spoken for collections of literary works in several of those languages, for example Alsace 
+(France)BLiteratures; United StatesBLiteratures. 
+ 
+ 
+ 
+2.  Phrase headings for literatures.   
+ 
+ 
+a.  General.  Assign phrase headings for collections of literature in two or more 
+languages from places where no single language predominates.  Examples: 
+ 
+ 
+African literature   
+[not AfricaBLiteratures] 
+Swiss literature     [not SwitzerlandBLiteratures] 
+Soviet literature    
+[not Soviet UnionBLiteratures] 
+ 
+ 
+b.  AmericaBLiteratures vs. American literature.  Assign the heading AmericaB 
+Literatures for collections of literature of the Western hemisphere in two or more 
+languages.  Because the heading American literature refers only to the 
+English-language literature of the United States, do not assign the heading American 
+literature to collections of literature in two or more languages from the Americas. 
+ 
+
+
+<<<PAGE 2>>>
+H 1828  Literature from One Place in Multiple Languages 
+ 
+ 
+ 
+H 1828 Page 2 
+Subject Headings Manual 
+June 2013 
+3.  Phrase headings vs. [place]BLiteratures.  In some instances both a phrase heading and a 
+similar-looking heading of the type [place]BLiteratures exist and are valid.  Example: 
+ 
+ 
+CanadaBLiteratures 
+(collections of literature in two or more languages by Canadian   
+authors) 
+ 
+ 
+Canadian literature 
+(collections of English-language literature by Canadian authors) 
+ 
+ 
+Do not confuse phrase headings for literature in a single language with phrase headings for 
+literatures as described in sec. 2. 
+ 
+ 
+ 
+4.  Examples. 
+ 
+Title:  Joseph's coat : an anthology of multicultural writing. 
+651 #0 $a Australia $v Literatures. 
+650 #0 $a Australian literature $x Minority authors. 
+ 
+ 
+Title:  Masterplots : American fiction series. 
+651 #0 $a America $x Literatures $v Stories, plots, etc. 
+651 #0 $a America $x Literatures $x History and criticism. 
+650 #0 $a Fiction $v Stories, plots, etc. 
+650 #0 $a Fiction $x History and criticism. 
+ 
+ 
+Title:  Modern Belgian literature, 1830-1960. 
+650 #0 $a Belgian literature $x History and criticism. 
+ 
+ 
+Title:  Mirror of a people : Canadian Jewish experience in poetry and prose. 
+650 #0 $a Canadian literature $x Jewish authors. 
+650 #0 $a Canadian literature $y 20th century. 
+650 #0 $a Jews $z Canada $v Literary collections. 
+650 #0 $a Yiddish literature $z Canada $v Translations into 
+            English. 
+651 #0 $a Canada $v Literatures.  

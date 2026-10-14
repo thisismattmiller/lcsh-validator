@@ -1,0 +1,101 @@
+
+
+<<<PAGE 1>>>
+ 
+Social Life and Customs  H 2057 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2057 Page 1 
+ 
+June 2013 
+BACKGROUND:  The heading Manners and customs and the subdivision BSocial life and 
+customs under classes of persons, ethnic groups, and places are assigned to works on the 
+customs, ways of living, and habits of people and places.  This instruction sheet provides 
+guidelines for assigning this heading and subdivision. 
+ 
+ 
+ 
+1.  General.  Assign the heading Manners and customs to general works of worldwide scope 
+on customs, ways of living, etc., not limited to a particular place or group of people. 
+ 
+ 
+2.  Places.  Use the free-floating subdivision BSocial life and customs under regions, countries, 
+cities, etc., to works on the customs and habits of people in these places. 
+ 
+Do not subdivide headings of the type [place]BSocial life and customs by BHistory. 
+ 
+Further subdivide headings of the type [place]BSocial life and customs by established 
+chronological subdivisions or by the free-floating century subdivisions listed under BSocial life 
+and customs in H 1140:  B16th, [17th, 18th, 19th, 20th, or 21st] century.  Assign century 
+subdivisions only when they do not conflict with established subdivisions for specific time 
+periods.  Establish new subdivisions for other significant periods, usually covering forty years 
+or more, under headings of the type [place]BSocial life and customs where there is sufficient 
+material to warrant it. 
+ 
+ 
+3.  Classes of persons and ethnic groups.   
+ 
+a.  General.  Use the free-floating subdivision BSocial life and customs under classes 
+of persons and ethnic groups, including Indians, to works on the ways of living, customs, 
+etc., of these classes or groups. 
+ 
+Do not subdivide headings of this type by BHistory. 
+ 
+Further subdivide headings of the type [class of persons]BSocial life and customs and 
+[ethnic group]BSocial life and customs by the free-floating century subdivisions listed 
+under BSocial life and customs in H 1100 and H 1103:  B16th, [17th, 18th, 19th, 20th, 
+or 21st] century.  Do not establish other chronological subdivisions under this type of 
+heading. 
+
+
+<<<PAGE 2>>>
+H 2057  Social Life and Customs 
+ 
+ 
+ 
+H 2057 Page 2 
+Subject Headings Manual 
+June 2013 
+3.  Classes of persons and ethnic groups.  (Continued) 
+ 
+b.  Nationalities.  Use the free-floating subdivision BSocial life and customs under 
+headings for nationalities to works on the customs of these groups when they reside 
+outside their native countries, for example, AmericansBFranceBParisBSocial life and 
+customs. 
+ 
+To works on the customs of a nationality within its own country, assign a heading of the 
+type [place]BSocial life and customs.   
+ 
+ 
+4.  Examples. 
+ 
+Title:  Customs of the world : a popular account of the manners, rites, and  
+ceremonies of men and women in all countries. 
+650 #0 $a Manners and customs. 
+650 #0 $a Rites and ceremonies. 
+ 
+Title:  In pursuit of the American dream. 
+651 #0 $a United States $x Social life and customs $y 1971- 
+ 
+Title:  Glimpses of old Japan. 
+651 #0 $a Japan $x Social life and customs $y 1600-1868. 
+ 
+Title:  Indochinese in Lowell. 
+650 #0 $a Indochinese Americans $z Massachusetts $z Lowell 
+            $x Social life and customs. 
+651 #0 $a Lowell (Mass.) $x Social life and customs. 
+ 
+Title:  We're Czechs. 
+650 #0 $a Czech Americans $z Texas $x Social life and  
+            customs. 
+650 #0 $a Farm life $z Texas. 
+651 #0 $a Texas $x Social life and customs. 
+ 
+Title:  Social relations in Mendi. 
+650 #0 $a Mendi (Papua New Guinea people) $x Social life and 
+            customs. 
+650 #0 $a Ceremonial exchange $z Papua New Guinea. 
+651 #0 $a Papua New Guinea $x Social life and customs. 
+ 

@@ -1,0 +1,131 @@
+
+
+<<<PAGE 1>>>
+ 
+Religious Life  H 2015.5 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2015.5 Page 1 
+ 
+June 2013 
+BACKGROUND:  The headings Religious life, Christian life, and Jewish way of life, and the 
+subdivision CReligious life under classes of persons are assigned to general works that describe 
+personal religious and devotional life, or offer practical advice on developing behavior based on 
+religious precepts.  These headings are not used for works limited to religious life in monastic 
+orders.  Works on that aspect of religious life are assigned more specific headings, such as 
+Monastic and religious life, Monastic and religious life of women, etc.  This instruction sheet 
+provides guidelines for assigning headings to works on religious life. 
+ 
+ 
+1.  General.  Assign the heading Religious life to general works not limited to a particular 
+religion or sect that offer guidance in developing personal religious and devotional life, and 
+behavior based on religious teachings. 
+ 
+2. Christianity. 
+ 
+a.  General.  Assign the heading Christian life to general works that describe the 
+religious life of Christians or offer guidance on developing a way of life based on 
+Christian teachings. 
+ 
+b.  By denomination.  If the denomination or sect of the author can be determined, add 
+a subdivision of the type CBaptist, [Catholic, etc.] authors.  Examples: 
+ 
+650 #0 $a Christian life $x Christian and Missionary  
+            Alliance authors. 
+650 #0 $a Christian life $x Methodist authors. 
+ 
+If appropriate, assign the free-floating form subdivision BEarly works to 1800 under 
+headings of this type. 
+ 
+3.  Judaism.  Assign the heading Jewish way of life to general works that describe Jewish 
+religious and devotional life, or offer practical advice on developing behavior based on Jewish 
+precepts. 
+ 
+4.  Other religions.  Assign the heading Religious life, subdivided by the name of the religion 
+or sect, to general works describing, or offering guidance on, religious life in individual religions 
+other than Christianity or Judaism.  Examples: 
+ 
+650 #0 $a Religious life $x Confucianism. 
+650 #0 $a Religious life $x Islam. 
+650 #0 $a Religious life $x Pure Land Buddhism. 
+650 #0 $a Religious life $x Shin (Sect) 
+
+
+<<<PAGE 2>>>
+H 2015.5  Religious Life 
+ 
+ 
+ 
+H 2015.5 Page 2 
+Subject Headings Manual 
+June 2013 
+5.  Classes of persons. 
+ 
+a.  General.  Assign the free-floating subdivision BReligious life under classes of 
+persons to works describing the religious life of these persons or offering them advice on 
+how to practice their religion in their daily lives.  Examples: 
+ 
+ 
+ 
+650 #0 $a Children $x Religious life. 
+650 #0 $a Statesmen $x Religious life $z United States. 
+ 
+ 
+ 
+ 
+b.  By religion or denomination.  To works on the religious life of a class of persons 
+belonging to an individual religion or denomination, assign a heading for the class of 
+persons with the subdivision BReligious life.  If the heading for the class of persons 
+does not include a term indicating the religion or denomination, assign an additional 
+heading for the religious denomination as instructed in sec. 2-4, above.  Examples:  
+ 
+ 
+ 
+Title:  Being Muslim : a rites of passage manual for girls. 
+650 #0 $a Muslim girls $x Religious life $v Juvenile 
+            literature. 
+650 #0 $a Muslim girls $x Conduct of life $v Juvenile 
+            literature. 
+ 
+ 
+Title:  We weep for ourselves and our children : a Christian guide for 
+survivors of childhood sexual abuse. 
+650 #0 $a Adult child sexual abuse victims  
+            $x Religious life. 
+650 $0 $a Christian life. 
+ 
+ 
+ 
+ 
+Do not use the subdivision BReligious life under classes of persons headings that 
+represent religious groups such as Buddhists, Methodists, Mormons, or Muslims. 
+
+
+<<<PAGE 3>>>
+ 
+Religious Life  H 2015.5 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2015.5 Page 3 
+ 
+June 2013 
+6.  Special topics.  Assign appropriate specific headings to works limited to special aspects of 
+religious life.  Examples: 
+ 
+650 #0 $a Bhakti. 
+650 #0 $a Buddhist giving. 
+650 #0 $a Buddhist mantras. 
+650 #0 $a Church attendance. 
+650 #0 $a Contemplation. 
+650 #0 $a Family home evenings (Mormon Church) 
+650 #0 $a Meditation. 
+650 #0 $a Prayer. 
+650 #0 $a Rosary. 
+650 #0 $a Spiritual life. 
+650 #0 $a Witness bearing (Christianity) 
+ 
+ 

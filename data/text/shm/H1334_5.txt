@@ -1,0 +1,79 @@
+
+
+<<<PAGE 1>>>
+ Buildings and Structures in Cities: Assignment of Headings  H 1334.5 
+  
+ 
+ 
+Subject Headings Manual 
+H 1334.5 Page 1 
+ 
+November 2021 
+BACKGROUND:  In 1985 the free-floating subdivision –Buildings, structures, etc. was 
+introduced in order to provide subject access directly under city names for architectural works 
+on certain types of buildings and structures.  Previously many headings for categories of 
+buildings and other structures in cities were constructed in the form [city]–[structure] but 
+headings of this type were discontinued in 1985.  This instruction sheet provides guidelines for 
+assigning the subdivision –Buildings, structures, etc., under names of cities. 
+ 
+ 
+ 
+1.  General rule.  To a work that discusses collectively a certain class of buildings or other 
+structures in a specific city, assign the appropriate topical heading, subdividing it indirectly to the 
+city level, for example, Skyscrapers–Illinois–Chicago; Monuments–Washington (D.C.). 
+ 
+Note:  For instructions on the assignment of headings to a work that discusses an 
+individual named building or structure, and for the procedures to establish such 
+headings, see H 1334. 
+ 
+ 
+ 
+2.  When to assign [city]–Buildings, structures, etc.  If the work discusses the class of structures 
+from the architectural standpoint, that is, if it describes the structures as physical entities, also 
+assign the heading [city]–Buildings, structures, etc.  Examples: 
+ 
+ 
+Title:  The art deco skyscraper in New York. 
+650 $0 $a Skyscrapers $z New York (State) $z New York. 
+650 $0 $a Art deco (Architecture) $z New York (State) $z New 
+            York. 
+651 $0 $a New York (N.Y.) $x Buildings, structures, etc. 
+ 
+ 
+ 
+Title:  Chicago churches and synagogues : an architectural pilgrimage. 
+650 $0 $a Church buildings $z Illinois $z Chicago $v Guidebooks. 
+650 $0 $a Synagogues $z Illinois $z Chicago $v Guidebooks. 
+651 $0 $a Chicago (Ill.) $x Buildings, structures, etc.  
+            $v Guidebooks. 
+ 
+ 
+Title:  The fountains of Rome. 
+650 $0 $a Fountains $z Italy $z Rome. 
+651 $0 $a Rome (Italy) $x Buildings, structures, etc. 
+
+
+<<<PAGE 2>>>
+H 1334.5  Buildings and Structures in Cities: Assignment of Headings 
+ 
+ 
+ 
+H 1334.5 Page 2 
+Subject Headings Manual 
+November 2021 
+3.  When to omit [city]–Buildings, structures, etc.  If the work discusses the buildings from the 
+institutional standpoint, that is, if it describes the activities or services performed or occurring in 
+the buildings, rather than describing the buildings as physical entities, do not assign the 
+[city]–Buildings, structures, etc. heading.  Examples: 
+ 
+ 
+Title:  Night dancin'. 
+650 $0 $a Discotheques $z New York (State) $z New York. 
+ [not 
+651 $0 $a New York (N.Y.) $x Buildings, structures, etc.] 
+ 
+ 
+Title:  Scenes of prison life in London. 
+650 $0 $a Prisons $z England $z London. 
+ [not 651 $0 $a London (England) $x Buildings, structures, etc.] 
+ 

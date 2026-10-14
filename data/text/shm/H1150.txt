@@ -1,0 +1,197 @@
+
+
+<<<PAGE 1>>>
+ 
+Pattern Headings: Diseases  H 1150 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1150 Page 1 
+ 
+May 2021 
+PATTERNS: Cancer; Tuberculosis 
+ 
+ 
+TYPES OF HEADINGS COVERED BY THE PATTERN:  Headings for individual or types 
+of diseases and other medical conditions, including abnormalities, functional disorders, mental 
+disorders, manifestations of disease, and wounds and injuries.  The category includes animal as 
+well as human diseases but does not cover plant diseases.  Examples:  Bronchitis; Burns and 
+scalds; Cleft palate; Down syndrome; Equine herpesvirus diseases; Fever in children; 
+Gastrointestinal system–Motility–Disorders; Pain; Rabies; Sleep disorders; Schizophrenia; 
+Sports injuries; Tuberculosis in poultry; Virus diseases.  Also included are headings for 
+parts of the body divided by subdivisions for diseases, injuries, or other pathological conditions 
+from the pattern list for organs and regions of the body (H 1164), for example,  Brain–Abscess; 
+Breast–Cancer; Duodenum–Ulcers; Face–Abnormalities; Liver–Diseases; Skin–Infections; 
+Spine–Wounds and injuries; and headings for chemical substances subdivided by 
+–Metabolism–Disorders, 
+for 
+example, 
+Calcium–Metabolism–Disorders; 
+Proteins– 
+Metabolism–Disorders.  Not covered are headings for medical or surgical procedures and the 
+general heading Diseases. 
+ 
+ 
+CONFLICTS:  Any subdivision listed here can be used as a free-floating subdivision under any 
+heading belonging to the category if it is appropriate and no conflict exists in the subject 
+authority file.  Subject authority records may exist for headings employing variant phrases or 
+subdivisions equivalent to subdivisions on this list. 
+ 
+LC practice: 
+If an exceptional variant form is to be retained, make a UF reference from the equivalent 
+free-floating subdivision form following the procedures in H 195 if the reference does not yet 
+exist.  Otherwise, submit a proposal to change the variant form along with all bibliographic 
+records requiring correction following the procedures in H 193. 
+ 
+Note:  Most form subdivisions coded $v in this list may also be used as topical 
+subdivisions coded $x when assigned to works about the form (see H 1075, sec. 1.d.). 
+ 
+$x Adjuvant treatment  (May Subd Geog) 
+$x Age factors  (May Subd Geog) 
+$x Alternative treatment  (May Subd Geog) 
+$x Animal models  (May Subd Geog) 
+
+
+<<<PAGE 2>>>
+H 1150  Pattern Headings: Diseases 
+ 
+ 
+ 
+H 1150 Page 2 
+Subject Headings Manual 
+May 2021 
+$x Ayurvedic treatment  (May Subd Geog) 
+$x Chemoprevention  (May Subd Geog) 
+$x Chemotherapy  (May Subd Geog) 
+$x Chemotherapy $x Complications (May Subd Geog) 
+$x Chiropractic treatment1  (May Subd Geog) 
+$v Code numbers 
+$x Complications2 (May Subd Geog) 
+$x Cryosurgery3  (May Subd Geog) 
+$x Cryotherapy  (May Subd Geog) 
+$x Cytodiagnosis  (May Subd Geog) 
+$x Cytopathology3 
+$x Diagnosis  (May Subd Geog) 
+$x Diet therapy  (May Subd Geog) 
+$x Diet therapy $v Recipes 
+$x Differentiation therapy  (May Subd Geog) 
+$x Dosimetric treatment (May Subd Geog) 
+$x Early detection (May Subd Geog) 
+$x Eclectic treatment  (May Subd Geog) 
+$x Economic aspects  (May Subd Geog) 
+$x Endocrine aspects 
+$x Endoscopic surgery3  (May Subd Geog) 
+$x Environmental aspects  (May Subd Geog) 
+$x Epidemiology 
+$x Etiology 
+$x Exercise therapy  (May Subd Geog) 
+$x Gene therapy  (May Subd Geog) 
+$x Genetic aspects 
+$x Histopathology 
+$x Homeopathic treatment  (May Subd Geog) 
+$x Hormone therapy  (May Subd Geog) 
+$x Hormone therapy $x Complications  (May Subd Geog) 
+$x Hospitals  (May Subd Geog) 
+$x Imaging3  (May Subd Geog) 
+$x Immunodiagnosis  (May Subd Geog) 
+$x Immunological aspects 
+$x Immunotherapy  (May Subd Geog) 
+$x Interventional radiology3  (May Subd Geog) 
+$x Intraoperative radiotherapy  (May Subd Geog) 
+$x Laser surgery3  (May Subd Geog) 
+$x Law and legislation4  (May Subd Geog) 
+
+
+<<<PAGE 3>>>
+ 
+Pattern Headings: Diseases  H 1150 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1150 Page 3 
+ 
+May 2021 
+$x Magnetic resonance imaging3  (May Subd Geog) 
+$x Microbiology  (May Subd Geog) 
+$x Molecular aspects 
+$x Molecular diagnosis  (May Subd Geog) 
+$x Mortality5  (May Subd Geog) 
+$x Nursing  (May Subd Geog) 
+$x Nutritional aspects  (May Subd Geog) 
+$x Palliative treatment  (May Subd Geog) 
+$x Pathogenesis6 
+$x Pathophysiology3 
+$x Patients7  (May Subd Geog) 
+$x Photochemotherapy  (May Subd Geog) 
+$x Phototherapy  (May Subd Geog) 
+$x Physical therapy  (May Subd Geog) 
+$x Political aspects  (May Subd Geog) 
+$x Prevention 
+$x Prevention $x Needs assessment  (May Subd Geog)  
+$x Prognosis  (May Subd Geog) 
+$x Psychological aspects8 
+$x Psychosomatic aspects  (May Subd Geog)  
+$x Radioimmunoimaging  (May Subd Geog) 
+$x Radioimmunotherapy  (May Subd Geog) 
+$x Radionuclide imaging3  (May Subd Geog) 
+$x Radiotherapy  (May Subd Geog) 
+$x Radiotherapy $x Complications  (May Subd Geog) 
+$x Relapse2  (May Subd Geog) 
+$x Religious aspects9 
+$x Reoperation3  (May Subd Geog) 
+$x Reporting  (May Subd Geog) 
+$x Risk factors  (May Subd Geog) 
+$x Seasonal variations  (May Subd Geog) 
+$x Serodiagnosis  (May Subd Geog) 
+$x Sex factors  (May Subd Geog) 
+$x Spectroscopic imaging3  (May Subd Geog) 
+$x Surgery3  (May Subd Geog) 
+$x Surgery $x Complications2, 3  (May Subd Geog) 
+$x Surgery $x Nursing3  (May Subd Geog) 
+
+
+<<<PAGE 4>>>
+H 1150  Pattern Headings: Diseases 
+ 
+ 
+ 
+H 1150 Page 4 
+Subject Headings Manual 
+May 2021 
+$x Susceptibility  (May Subd Geog) 
+$x Thermotherapy  (May Subd Geog) 
+$x Tomography3   (May Subd Geog) 
+$x Transmission  (May Subd Geog) 
+$x Treatment  (May Subd Geog) 
+$x Treatment $x Complications  (May Subd Geog) 
+$x Ultrasonic imaging3  (May Subd Geog) 
+$x Vaccination  (May Subd Geog) 
+$x Vaccination $x Complications2  (May Subd Geog) 
+ 
+ 
+ 
+NOTES 
+ 
+1Not established under Cancer or Tuberculosis.  Use under other diseases and conditions as appropriate, for 
+example, Backache–Chiropractic treatment. 
+2Further subdivide the subdivisions –Complications, –Relapse, –Surgery–Complications, and –Vaccination– 
+Complications by other subdivisions from this list as appropriate. 
+3Do not use –Cryosurgery, –Cytopathology, –Endoscopic surgery, –Imaging, –Interventional radiology, 
+–Laser surgery, –Magnetic resonance imaging, –Pathophysiology, –Radionuclide imaging, –Reoperation, 
+–Spectroscopic imaging, –Surgery, –Tomography, or –Ultrasonic imaging under headings of the type [part of 
+the body] –Diseases.  Instead assign [part of the body] –Cryosurgery, [part of the body] –Pathophysiology, [part 
+of the body] –Surgery; etc. (cf. H 1164). 
+4See H 1154.5 for further subdivisions used under legal topics. 
+5Use the heading [disease]–Mortality instead of [disease]–Patients–Mortality. 
+6Not established under Cancer; use Carcinogenesis instead. 
+7Do not use –Patients under headings for chronic or disabling conditions for which separate headings for the 
+afflicted persons have been established, for example, use Blind [not Blindness–Patients]; Chronically ill [not 
+Chronic diseases–Patients]; Deaf [not Deafness–Patients]; Mentally ill [not Mental illness–Patients].   
+See H 1100 for further subdivisions used under classes of persons. 
+8Use the heading [disease]–Psychological aspects instead of [disease]–Patients–Psychology.  Do not use the 
+subdivision –Psychological aspects under headings for psychological conditions or psychoses (e.g., 
+Manic-depressive illness). 
+9May be subdivided topically by a religion or Christian denomination. Editorially establish each heading of the type 
+[disease]–Religious aspects–[name of religion or denomination]. For instructions, see H 1998. 

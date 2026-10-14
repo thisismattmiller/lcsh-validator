@@ -1,0 +1,95 @@
+
+
+<<<PAGE 1>>>
+ 
+Quotations and Maxims  H 1969 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1969 Page 1 
+ 
+August 2020 
+BACKGROUND:  The subdivision –Quotations is used under classes of persons, ethnic groups, 
+and names of individual persons and families for collections or discussions of quotations by or 
+about the group, person, or family.  It is also used under the uniform titles of individual sacred 
+works for collections or discussions of quotations from or about these works.  The subdivision 
+–Quotations, maxims, etc., is used under names of places and under topical headings for 
+collections or discussions of quotations, maxims, etc., on these subjects.  These subdivisions are 
+coded as $v subfields for collections of quotations or as $x subfields for discussions of quotations. 
+ This instruction sheet provides guidelines for assigning these subdivisions. 
+ 
+ 
+1.  –Quotations.   
+ 
+a.  Classes of persons and ethnic groups.  Assign the free-floating subdivision 
+–Quotations under classes of persons and ethnic groups for collections and/or 
+discussions of quotations of, or about, the group.  Examples: 
+ 
+650 #0 $a African Americans $v Quotations. 
+650 #0 $a Statesmen $x Quotations. 
+ 
+If appropriate for the work, interpose a topical or geographic subdivision between the 
+heading for the class of persons or ethnic group and the subdivision –Quotations.  
+Examples: 
+ 
+650 #0 $a African Americans $x Civil rights $x Quotations. 
+650 #0 $a Teachers $x Great Britain $v Quotations. 
+ 
+ 
+b.  Individual persons and families.  Assign the free-floating subdivision –Quotations 
+under names of individual persons, including literary authors, and families, for collections 
+and/or discussions of quotations of, or about, the person or family.  Examples: 
+ 
+600 10 $a Lincoln, Abraham, $d 1809-1865 $x Quotations. 
+600 30 $a Kennedy family $v Quotations. 
+ 
+If appropriate for the work, interpose a topical subdivision between the heading for the 
+person and the subdivision –Quotations.  Example: 
+ 
+600 10 $a Lincoln, Abraham, 1809-1865 $x Political and social 
+views $v Quotations. 
+
+
+<<<PAGE 2>>>
+H 1969  Quotations and Maxims 
+ 
+ 
+ 
+H 1969 Page 2 
+Subject Headings Manual 
+August 2020 
+1.  BQuotations.  (Continued) 
+ 
+c.  Sacred works.  Assign the free-floating subdivision –Quotations under uniform titles 
+of individual sacred works, including their individual parts, for collections or discussions 
+of quotations from or about these works.  Example: 
+ 
+630 00 $a Bible $v Quotations. 
+ 
+Assign the free-floating subdivision –Sacred books–Quotations under individual 
+religions for collections or discussions of quotations from or about these works.  
+Example: 
+ 
+650 #0 $a Buddhism $x Sacred books $x Quotations. 
+ 
+ 
+2.  –Quotations, maxims, etc.  Assign the free-floating subdivision –Quotations, maxims, etc., 
+under names of places or topical headings for collections and/or discussions of quotations about 
+these places or topics.  Examples: 
+ 
+ 
+651 #0 $a Hawaii $x Quotations, maxims, etc. 
+651 #0 $a Louisiana $x Social life and customs $v Quotations, 
+            maxims, etc. 
+650 #0 $a Love $x Quotations, maxims, etc. 
+650 #0 $a Medicine $x Quotations, maxims, etc. 
+650 #0 $a Spanish language $v Quotations, maxims, etc. 
+ 
+ 
+Note:  Assign headings of the type [name of language or language group]–Quotations, 
+maxims, etc. to collections of quotations, maxims, etc., about the language or languages. 
+Do not assign headings of this type to general collections of quotations, etc., in a 
+particular language.  To such collections, assign Quotations, [name of language]; 
+Maxims, [name of language], and similar headings. 
+ 

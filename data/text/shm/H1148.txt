@@ -1,0 +1,252 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Pattern Headings: Art H 1148 | Page 1 
+ 
+ Pattern Headings: Art 
+H 1148 
+A. Recent Revisions ....................................................................................................................... 1 
+B. Types of headings covered ........................................................................................................ 1 
+C. Types of headings not covered ................................................................................................. 2 
+D. Conflicts .................................................................................................................................... 2 
+E. New subdivisions ....................................................................................................................... 2 
+F. Period subdivisions .................................................................................................................... 2 
+F.1. General period subdivisions ................................................................................................ 3 
+F.2. Chinese art .......................................................................................................................... 3 
+F.3. Japanese art ........................................................................................................................ 3 
+F.4. Korean art ........................................................................................................................... 4 
+G. List of topical subdivisions ........................................................................................................ 4 
+H. List of form subdivisions ........................................................................................................... 6 
+Revision history ............................................................................................................................. 6 
+A. Recent Revisions 
+2026-04: Updated template. Added instructions related to LCGFT implementation. 
+B. Types of headings covered 
+Headings for individual art forms in the fine arts as well as art and art forms qualified by 
+nationality, region, ethnic group, or time period. 
+Examples: 
+Drawing 
+Art, French 
+Painting, German 
+Iron sculpture, Japanese 
+Sculpture, Southeast Asian 
+Arts, Māori 
+Hispanic American art 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Pattern Headings: Art H 1148 | Page 2 
+ 
+Landscape painting, Medieval 
+Sculpture, Modern 
+C. Types of headings not covered 
+The category does not include the heading *Art*, headings qualified by religion, nor headings 
+for the decorative arts, performing arts, or architecture. The subdivisions in this list may be 
+used for these categories if allowed by other instructions sheets or established editorially as 
+appropriate to the topic. 
+Examples: 
+Buddhist art 
+Pottery 
+Theater 
+Architecture, Modern 
+D. Conflicts 
+Any subdivision listed here can be used as a free-floating subdivision under any heading 
+belonging to the category if it is appropriate and no conflict exists in the subject authority file. 
+Subject authority records may exist for headings employing variant phrases or subdivisions 
+equivalent to subdivisions on this list. 
+LC practice: If an exceptional variant form is to be retained, make a UF reference from the 
+equivalent free-floating subdivision form following the procedures in H 195 if the reference 
+does not yet exist. Otherwise, submit a proposal to change the variant form along with all 
+bibliographic records requiring correction following the procedures in H 193. 
+E. New subdivisions 
+Establish new subdivisions under *Art, Italian* whenever possible. Establish subdivisions 
+appropriate only to the art of China, Japan, or Korea under *Art, Chinese*; *Art, Japanese*; or 
+*Art, Korean*. 
+F. Period subdivisions 
+Note: These period subdivisions are not free-floating under unqualified headings for art forms, 
+such as *Drawing*, nor under headings for art forms qualified by time period, such as 
+*Sculpture, Modern*. 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Pattern Headings: Art H 1148 | Page 3 
+ 
+F.1. General period subdivisions 
+Subdivisions in this list are established under *Art, Italian* and may be used under headings for 
+art and art forms of all nations, regions, and ethnic groups except those headings for art and art 
+forms of China, Japan, and Korea. If there are specific headings where these subdivisions are 
+not appropriate, establish the appropriate subdivision under the specific heading. 
+• $y 10th century 
+• $y 11th century 
+• $y 12th century 
+• $y 13th century 
+• $y 14th century 
+• $y 15th century 
+• $y 16th century 
+• $y 17th century 
+• $y 18th century 
+• $y 19th century 
+• $y 20th century 
+• $y 21st century 
+F.2. Chinese art 
+Use the period subdivisions listed below under headings for art forms qualified by the adjective 
+*Chinese*. 
+• $y To 221 B.C. 
+• $y Qin-Han dynasties, 221 B.C.-220 A.D. 
+• $y Three kingdoms-Sui dynasty, 220-618 
+• $y Tang-Five dynasties, 618-960 
+• $y Song-Yuan dynasties, 960-1368 
+• $y Ming-Qing dynasties, 1368-1912 
+• $y 20th century 
+• $y 21st century 
+F.3. Japanese art 
+Use the period subdivisions listed below under headings for art forms qualified by the adjective 
+*Japanese*. 
+• $y To 794 
+• $y To 1600 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Pattern Headings: Art H 1148 | Page 4 
+ 
+• $y To 1868 
+• $y Heian period, 794-1185 
+• $y Kamakura-Momoyama periods, 1185-1600 
+• $y Edo period, 1600-1868 
+• $y 19th century 
+• $y 1868- 
+• $y Meiji period, 1868-1912 
+• $y 20th century 
+• $y Taishō period, 1912-1926 
+• $y 21st century 
+F.4. Korean art 
+Use the period subdivisions listed below under headings for art forms qualified by the adjective 
+*Korean*. 
+• $y To 935 
+• $y To 1900 
+• $y Koryŏ period, 935-1392 
+• $y Chosŏn dynasty, 1392-1910 
+• $y 19th century 
+• $y 20th century 
+• $y 21st century 
+G. List of topical subdivisions 
+This list of subdivisions provides free-floating subdivisions used specifically for art headings. 
+Additional subdivisions may be used from the general list of free-floating subdivisions in H 
+1095. These subdivisions may be used following free-floating or established period subdivisions, 
+except as noted below. 
+Note: The scope notes included below may not reflect the full text as found in Classification 
+Web Plus, as it includes information not relevant to art headings. The copy of the scope note as 
+found in Classification Web Plus is authoritative. 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Appreciation 
+Yes 
+Use as a topical subdivision under individual art forms 
+and headings for national and ethnic art. 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Pattern Headings: Art H 1148 | Page 5 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Attribution 
+ 
+Use as a topical subdivision under individual art forms 
+and headings for national or ethnic art. 
+$x Catalogs 
+ 
+Use as a topical subdivision under types of objects, 
+including art objects, collectors' items, etc., for works 
+about listings of those objects that have been 
+produced, that are available or located at particular 
+places, or that occur on a particular market, often 
+systematically arranged with descriptive details, prices, 
+etc., accompanying each entry.  
+$x Conservation and 
+restoration 
+Yes 
+Use as a topical subdivision under types of art objects, 
+etc., for works on preserving and restoring those 
+items. 
+$x Copying 
+ 
+Use as a topical subdivision under individual art forms 
+and headings for national or ethnic art. 
+$x Expertising 
+Yes 
+Use as a topical subdivision under headings for art 
+forms and under types of art objects, types of 
+architecture, and types of buildings. 
+$x Foreign inﬂuences 
+ 
+Not valid under period subdivisions.  
+Use as a topical subdivision under art forms for works 
+on general outside cultural inﬂuences on those topics. 
+$x Forgeries 
+Yes 
+Use as a topical subdivision under types of art objects, 
+documents, etc. 
+$x Inﬂuence 
+ 
+Use as a topical subdivision under forms and 
+movements in the visual arts for works discussing their 
+inﬂuence. 
+$x Reproduction 
+ 
+Use as a topical subdivision under individual art forms 
+and headings for national or ethnic art for the 
+processes of producing images of the art. 
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | Pattern Headings: Art H 1148 | Page 6 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Technique 
+ 
+Use under individual art forms and headings for 
+national or ethnic art for works on artistic technique. 
+$x Themes, motives 
+ 
+Use as a topical subdivision under names of individual 
+persons and individual literary and art forms. 
+H. List of form subdivisions 
+LC practice: In 2026, the use of form subdivisions was phased out. Library of Congress 
+catalogers assign Library of Congress Genre/Form Terms (LCGFT) to bring out the form(s) 
+and/or genre(s) of the resource being cataloged. Therefore, the form subdivisions maintained 
+on this list are not available for use by Library of Congress catalogers. Catalogers at institutions 
+external to LC may use them as dictated by their own institutional policies. 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$v Catalogs 
+ 
+Use as a form subdivision under types of objects, 
+including types of merchandise, art objects, products, 
+publications, collectors' items, technical equipment, 
+etc., for listings of those objects that have been 
+produced, that are available or located at particular 
+places, or that occur on a particular market, often 
+systematically arranged with descriptive details, prices, 
+etc., accompanying each entry.  
+$v Chronology 
+ 
+Use as a form subdivision under headings for art for 
+lists of dates of events pertinent to the subject in order 
+of their occurrence. 
+Revision history 
+2026-04: Updated template. Added instructions related to LCGFT implementation. 

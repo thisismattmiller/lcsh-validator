@@ -1,0 +1,132 @@
+
+
+<<<PAGE 1>>>
+ 
+Congo  H 928 
+  
+ 
+ 
+Subject Headings Manual 
+H 928 Page 1 
+ 
+June 2013 
+ 
+BACKGROUND:  In 1997, the Democratic Republic of the Congo, which had been called 
+Zaire during the period 1971-1997, reverted to its previous name.  As a result, there are now 
+two countries called Congo, represented by the headings Congo (Brazzaville) and Congo 
+(Democratic Republic).  This instruction sheet provides guidelines on the assignment of these 
+two headings as subjects, as well as on usage of the term Congo as a geographic qualifier and 
+the term Congolese as an adjectival qualifier. 
+ 
+ 
+ 
+1.  Congo (Democratic Republic).  Use Congo (Democratic Republic) as a subject heading or 
+as a geographic subdivision for works about the country formerly known as the Belgian Congo 
+or Zaire, whose capital is Kinshasa. 
+ 
+The name headings Belgian Congo and Zaire are not valid for use as subject headings. 
+ 
+ 
+ 
+ 
+2.  Congo (Brazzaville).  Use Congo (Brazzaville) as a subject heading or as a geographic 
+subdivision for works about the People's Republic of the Congo, formerly known as Middle 
+Congo, whose capital is Brazzaville. 
+ 
+The name heading Middle Congo is not valid for use as a subject heading. 
+ 
+ 
+ 
+ 
+3.  (Congo) as a geographic qualifier.  When establishing headings or formulating UF 
+references for entities that are qualified by names of countries, such as geographic features or 
+names of events, use Congo, without further qualification, to refer to either of the two countries 
+called Congo.  This is consistent with the practice followed in establishing name headings that 
+are qualified by Congo.  Examples: 
+ 
+151 ## $a Niari River (Congo) 
+550 ## $w g $a Rivers $z Congo (Brazzaville) 
+ 
+ 
+151 ## $a Giri River (Congo) 
+550 ## $w g $a Rivers $z Congo (Democratic Republic) 
+
+
+<<<PAGE 2>>>
+H 928  Congo 
+ 
+ 
+ 
+H 928 Page 2 
+Subject Headings Manual 
+June 2013 
+3.  (Congo) as a geographic qualifier. 
+ 
+Examples:  (Continued) 
+ 
+ 
+151 ## $a Parc national des Virunga (Congo) 
+550 ## $w g $a National parks and reserves $z Congo (Democratic 
+            Republic) 
+ 
+ 
+ 
+151 ## $a Congo (Democratic Republic) $x History $y Shaba 
+            Uprising, 1978 
+450 ## $a Shaba Uprising, Congo, 1978 
+ 
+ 
+ 
+Exceptions:  For entities that are located in both countries, designate both in the 
+qualifier. Example: 
+ 
+ 
+151 ## $a Stanley Pool (Congo (Brazzaville) and Congo (Democratic 
+            Republic)) 
+550 ## $w g $a Lakes $z Congo (Brazzaville) 
+550 ## $w g $a Lakes $z Congo (Democratic Republic) 
+ 
+ 
+ 
+If it is necessary to distinguish between two identically named entities, one in each of the 
+two Congos, use the full name of the country as the geographic qualifier.  Examples: 
+ 
+ 
+151 ## $a Atlantic Coast (Congo (Brazzaville)) 
+550 ## $w g $a Coasts $z Congo (Brazzaville) 
+ 
+ 
+151 ## $a Atlantic Coast (Congo (Democratic Republic)) 
+550 ## $w g $a Coasts $z Congo (Democratic Republic) 
+
+
+<<<PAGE 3>>>
+ 
+Congo  H 928 
+  
+ 
+ 
+Subject Headings Manual 
+H 928 Page 3 
+ 
+June 2013 
+ 
+4.  Congolese as an adjectival qualifier.  When establishing a subject heading qualified by the 
+adjective form Congolese add the designation (Brazzaville) or (Democratic Republic) to refer 
+to the appropriate country.  Examples: 
+ 
+150 ## $a Congolese (Brazzaville) literature 
+150 ## $a Congolese (Democratic Republic) literature 
+150 ## $a Congolese (Brazzaville) fiction (French) 
+150 ## $a Congolese (Democratic Republic) literature (French) 
+150 ## $a Arts, Congolese (Brazzaville) 
+150 ## $a Civics, Congolese (Democratic Republic) 
+150 ## $a Cooking, Congolese (Democratic Republic) 
+150 ## $a Diplomatic and consular service, Congolese (Brazzaville) 
+150 ## $a Komo (Congolese (Democratic Republic) people) 
+150 ## $a Kipimpi (Congolese (Democratic Republic) mythology) 
+ 
+ 
+ 
+5.  Geographic area codes.  Use the code f-cf for Congo (Brazzaville) and f-cg for Congo 
+(Democratic Republic). 

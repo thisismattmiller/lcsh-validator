@@ -1,0 +1,86 @@
+
+
+<<<PAGE 1>>>
+ 
+Name Changes in Non-Jurisdictional Corporate Bodies  H 460 
+ 
+ 
+ 
+Subject Headings Manual 
+H 460 Page 1 
+ 
+February 2021 
+BACKGROUND:  There are three types of corporate body name changes: (1) simple linear 
+name changes, for example, United States Steel changes its name to USX; (2) mergers, that is, 
+two or more bodies join to form a new body; or (3) splits, that is, a single body divides to form 
+two or more new bodies.  When any of these types of name change occurs, separate name 
+authority records are created for each of the corporate body’s various names and the earlier 
+and/or later name(s) are recorded in 510 fields in each authority record.  The 510 fields that 
+represent the earlier name of the corporate body have a $w control subfield that contains either 
+the value a or the value r in the initial position. If the latter, the fields also have an $i subfield 
+that contains a relationship designator showing the nature of the relationship.  Examples: 
+ 
+ 
+LINEAR NAME CHANGES 
+ 
+110 2# $a Pillsbury Company 
+510 2# $w a $a Pillsbury Mills, Inc. 
+ 
+110 2# $a American Architectural Foundation 
+510 2# $w r $i Predecessor: $a American Institute of Architects  
+Foundation 
+ 
+ 
+MERGERS 
+ 
+110 2# $a Ringling Brothers Barnum and Bailey Combined Shows 
+510 2# $w a $a Ringling Brothers 
+510 2# $w a $a Barnum and Bailey 
+ 
+110 2# $a Library and Information Technology Association (U.S.) 
+510 2# $w r $i Mergee: $a Association for Library Collections &  
+Technical Services 
+510 2# $w r $i Mergee: $a Library Leadership and Management  
+Association 
+ 
+This instruction sheet provides guidelines for subject catalogers in selecting which heading(s) to 
+use when cataloging a work about a non-jurisdictional corporate body that has undergone a 
+change of name. 
+ 
+Note:  Occasionally non-jurisdictional corporate bodies are tagged 151 rather than 110. 
+The principles in this instruction sheet apply to corporate bodies of that type as well.  
+Example: 
+ 
+ 
+LINEAR NAME CHANGE 
+ 
+151 ## $a Buckley Air Force Base (Colo.) 
+551 ## $w a $a Buckley Air National Guard Base (Colo.) 
+ 
+
+
+<<<PAGE 2>>>
+H 460  Name Changes in Non-Jurisdictional Corporate Bodies 
+ 
+ 
+ 
+H 460 Page 2 
+Subject Headings Manual 
+February 2021 
+1.  Assignment of name for latest period covered.  Assign the heading for the name used by the 
+body during the latest period covered by the work being cataloged. 
+ 
+Note:  Do not construe an incidental reference to a recent period as being “coverage” 
+of that period.  For example, a work about the New York Central Railroad published in 
+1985 that mentions only briefly in the closing chapter the railroad’s absorption into 
+Amtrak and ConRail would not be considered to “cover” the recent period and would not 
+be assigned the headings for Amtrak and ConRail.  Only the heading for the New York 
+Central Railroad would be assigned. 
+ 
+ 
+2.  Assignment of earlier names.  If an earlier name is prominently featured in the work being 
+cataloged, assign the heading for the earlier name as well.  For example, an up-to-date history of 
+the Ringling Bros. Barnum & Bailey Circus that prominently features the histories of its 
+predecessors, the Ringling Bros. Circus and the Barnum and Bailey Circus, would be assigned 
+the heading for its latest name, Ringling Brothers Barnum and Bailey Combined Shows, as 
+well as the headings Ringling Brothers and Barnum and Bailey.  

@@ -1,0 +1,69 @@
+
+
+<<<PAGE 1>>>
+ 
+Research  H 2020 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2020 Page 1 
+ 
+June 2013 
+BACKGROUND:  Until 1973 subject headings for research in various fields were established 
+in the form [topic]BResearch (May Subd Geog) or as phrase headings such as Historical 
+research or Medical research.  In 1973 the subdivision BResearch (May Subd Geog) was 
+established as a free-floating subdivision and phrase headings were later converted to 
+[topic]BResearch wherever possible. 
+ 
+For instructions on the use of the free-floating subdivision BLegal research, see H 1710. 
+ 
+ 
+ 
+1.  The subject heading Research.  Assign the heading to general works that discuss 
+comprehensively all aspects of research, such as proposals, finance, goals, management, 
+personnel, special projects, etc., in all fields, and to works on general scientific research.  Do 
+not assign the heading to works that discuss the results of research.  For works that are limited 
+to a specific aspect of research assign the heading Research with the appropriate topical 
+subdivision, such as BFinance, BManagement, or BMethodology. 
+ 
+ 
+2.  The free-floating subdivision BResearch.  Assign BResearch (May Subd Geog) as a 
+free-floating subdivision under names of places and corporate bodies, classes of persons, ethnic 
+groups, and topical headings, for general works that discuss comprehensively all aspects of 
+research, such as proposals, finance, goals, etc., as applied to the topic.  Do not assign the 
+subdivision to works that discuss the results of research in a particular field.  For works that are 
+limited to a specific aspect of research assign the subdivision BResearch further subdivided by 
+the appropriate topical subdivision, such as BFinance, BManagement, or BMethodology. 
+ 
+ 
+3.  Conflict.  Before assigning the subdivision, determine whether the use under consideration 
+conflicts with a previously established heading in the subject authority file.  For example, the 
+heading ScienceBResearch may not be assigned because it appears as a UF under the heading 
+Research. 
+ 
+ 
+4.  Phrase headings for research.  Establish a phrase heading for research only to designate a 
+type of research or when it is not possible to construct a heading of the type [topic]B Research.  
+Examples: 
+ 
+150 ## $a Action research 
+150 ## $a Single subject research 
+
+
+<<<PAGE 2>>>
+H 2020  Research 
+ 
+ 
+ 
+H 2020 Page 2 
+Subject Headings Manual 
+June 2013 
+5.  Special aspects of research.  For works that are limited to a special aspect of research, 
+assign the appropriate heading for the topic.  Examples: 
+ 
+650 #0 $a Agriculture $x Research $z United States $x Finance. 
+650 #0 $a Education $x Research $x Management. 
+650 #0 $a History $x Methodology. 
+650 #0 $a Medicine $x Research grants $z United States. 
+ 

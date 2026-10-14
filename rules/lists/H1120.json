@@ -1,0 +1,665 @@
+{
+  "sheet": "H 1120",
+  "title": "Free-Floating Subdivisions: Names of Families",
+  "kind": "names-of-families",
+  "scope": "Topical and form subdivisions usable on a free-floating basis under headings for individual families, dynasties, royal houses, etc. (e.g. Smith family; Ptolemaic dynasty, 305-30 B.C.; Bourbon, House of; Normandy, Dukes of)",
+  "pattern_headings": [],
+  "pattern_category": "",
+  "general_notes": [
+    "LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. *Textbooks*. To replace a form subdivision that includes a demographic group, also assign Library of Congress Demographic Groups Terms (LCDGT) to bring out the audience of the resource being cataloged, e.g. *German speakers* or *Arabic, Students of*.",
+    "Note: Most form subdivisions coded $v in this list may also be used as topical subdivisions coded $x when assigned to works about the form (see H 1075, sec. 1.d.)."
+  ],
+  "entries": [
+    {
+      "subdivision": "--Archaeological collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of individual persons, families, and corporate bodies for works about their collections of archaeological items or artifacts",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Archaeological collections"
+    },
+    {
+      "subdivision": "--Art collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of individual persons and families for works about their collections of art",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Art collections"
+    },
+    {
+      "subdivision": "--Art patronage",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of individual persons, families, and corporate bodies for works about their support and patronage of the arts",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Art patronage"
+    },
+    {
+      "subdivision": "--Bonsai collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of individual persons, families, and corporate bodies for works about their collections of bonsai",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Bonsai collections"
+    },
+    {
+      "subdivision": "--Clothing",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Clothing"
+    },
+    {
+      "subdivision": "--Coin collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of individual persons, families, and corporate bodies for works about their coin collections",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Coin collections"
+    },
+    {
+      "subdivision": "--Ethnological collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of individual persons, corporate bodies, and families for works about their ethnological collections",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Ethnological collections"
+    },
+    {
+      "subdivision": "--Ethnomusicological collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of individual persons, corporate bodies, and families for works about their ethnomusicological collections",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Ethnomusicological collections"
+    },
+    {
+      "subdivision": "--Health",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of individual persons and families for works on the person's or family members' state of health, including diseases suffered and accounts of specific diseases",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Health"
+    },
+    {
+      "subdivision": "--Herbarium",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Herbarium"
+    },
+    {
+      "subdivision": "--Homes and Haunts",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "Use as a topical subdivision under names of individual persons, families, and performing groups, classes of persons, and ethnic groups for works on the homes of individual persons, families, or members of the group from an architectural or historical point of view",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Homes and Haunts"
+    },
+    {
+      "subdivision": "--In comics",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of individual persons, families, corporate bodies, and countries, cities etc., Christian denominations and uniform titles of sacred works, and under names of deities, mythological or legendary figures, and fictitious characters, for works on those persons, organizations, and places in comics",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1430"
+      ],
+      "endnote": "",
+      "marc": "$x In comics"
+    },
+    {
+      "subdivision": "--In literature",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of individual persons, families, corporate bodies, and countries, cities etc., Christian denominations and uniform titles of sacred works, and under names of deities, mythological or legendary figures, and fictitious characters, for works on those persons, organizations, and places in literature",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 362",
+        "H 1780",
+        "H 1790",
+        "H 1800"
+      ],
+      "endnote": "",
+      "marc": "$x In literature"
+    },
+    {
+      "subdivision": "--In mass media",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of individual persons, families, corporate bodies, and countries, cities, etc., and under names of deities, mythological or legendary figures, and fictitious characters, for works on those persons, organizations, and places in mass media",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x In mass media"
+    },
+    {
+      "subdivision": "--In motion pictures",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of individual persons, families, corporate bodies, countries, cities, etc., and Christian denominations, and under names of deities, mythological or legendary figures, and fictitious characters, for works about those persons, organizations or places depicted in motion pictures",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x In motion pictures"
+    },
+    {
+      "subdivision": "--Library",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Library"
+    },
+    {
+      "subdivision": "--Manuscripts",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of individual persons and families, individual works entered under title, uniform titles of sacred works, and under classes of persons, ethnic groups, groups of literary authors, individual literatures, and topical headings for works about manuscripts by those persons, of those titles or literatures, or about those topics",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Manuscripts"
+    },
+    {
+      "subdivision": "--Map collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of individual persons, families, and corporate bodies for works on their collections of maps",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Map collections"
+    },
+    {
+      "subdivision": "--Monuments",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1916"
+      ],
+      "endnote": "",
+      "marc": "$x Monuments"
+    },
+    {
+      "subdivision": "--Museums",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "Use as a topical subdivision under names of individual persons, families, and corporate bodies, and under ethnic groups, individual wars, and topical headings for which phrase headings for the type of museum have not been established",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Museums"
+    },
+    {
+      "subdivision": "--Musical instrument collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of individual persons, families, and corporate bodies for works about their collections of musical instruments",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Musical instrument collections"
+    },
+    {
+      "subdivision": "--Natural history collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of individual persons, families, and corporate bodies for works about their collections of natural history items or specimens",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Natural history collections"
+    },
+    {
+      "subdivision": "--Numismatic collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of individual persons, families, and corporate bodies for works about their numismatic collections",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Numismatic collections"
+    },
+    {
+      "subdivision": "--Photograph collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of individual persons, families, and corporate bodies for works on their collections of photographs",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Photograph collections"
+    },
+    {
+      "subdivision": "--Political activity",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "Use as a topical subdivision under names of individual persons, families, and corporate bodies; and under classes of persons, types of industries and corporate bodies, military services, and Christian denominations for works on the political participation of those persons or organizations",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1942"
+      ],
+      "endnote": "",
+      "marc": "$x Political activity"
+    },
+    {
+      "subdivision": "--Poster collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of individual persons, families, and corporate bodies for works on their collections of posters",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Poster collections"
+    },
+    {
+      "subdivision": "--Relics",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "Use as a topical subdivision under names of individual persons and families for works on disinterred bones, etc.",
+      "notes": "For works on graves, interred bones, etc., use the subdivision *--Tombs* under names of individual families.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Relics"
+    },
+    {
+      "subdivision": "--Scientific apparatus collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of individual persons, families, and corporate bodies for works about their collections of scientific apparatus",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Scientific apparatus collections"
+    },
+    {
+      "subdivision": "--Slide collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Slide collections"
+    },
+    {
+      "subdivision": "--Societies, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under names of individual persons, families, and corporate bodies, and under classes of persons, ethnic groups, uniform titles of sacred works, and topical headings for works discussing two or more societies or institutions related to those subjects",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Societies, etc."
+    },
+    {
+      "subdivision": "--Stamp collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Stamp collections"
+    },
+    {
+      "subdivision": "--Tombs",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "Use as a topical subdivision under names of individual families, royal houses, dynasties, etc., and under classes of persons",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Tombs"
+    },
+    {
+      "subdivision": "--Archives",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1230"
+      ],
+      "endnote": "",
+      "marc": "$v Archives"
+    },
+    {
+      "subdivision": "--Caricatures and cartoons",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Caricatures and cartoons"
+    },
+    {
+      "subdivision": "--Catalogs",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1360"
+      ],
+      "endnote": "",
+      "marc": "$v Catalogs"
+    },
+    {
+      "subdivision": "--Correspondence",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1480"
+      ],
+      "endnote": "",
+      "marc": "$v Correspondence"
+    },
+    {
+      "subdivision": "--Diaries",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1538"
+      ],
+      "endnote": "",
+      "marc": "$v Diaries"
+    },
+    {
+      "subdivision": "--Directories",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1558"
+      ],
+      "endnote": "",
+      "marc": "$v Directories"
+    },
+    {
+      "subdivision": "--Drama",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1558"
+      ],
+      "endnote": "",
+      "marc": "$v Drama"
+    },
+    {
+      "subdivision": "--Fiction",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1790"
+      ],
+      "endnote": "",
+      "marc": "$v Fiction"
+    },
+    {
+      "subdivision": "--Literary collections",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Literary collections"
+    },
+    {
+      "subdivision": "--Pictorial works",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1935"
+      ],
+      "endnote": "",
+      "marc": "$v Pictorial works"
+    },
+    {
+      "subdivision": "--Poetry",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1800"
+      ],
+      "endnote": "",
+      "marc": "$v Poetry"
+    },
+    {
+      "subdivision": "--Portraits",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1935"
+      ],
+      "endnote": "",
+      "marc": "$v Portraits"
+    },
+    {
+      "subdivision": "--Quotations",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1969"
+      ],
+      "endnote": "",
+      "marc": "$v Quotations"
+    },
+    {
+      "subdivision": "--Registers",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1558"
+      ],
+      "endnote": "",
+      "marc": "$v Registers"
+    },
+    {
+      "subdivision": "--Telephone calls",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Telephone calls"
+    },
+    {
+      "subdivision": "--Trials, litigation, etc.",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2228"
+      ],
+      "endnote": "",
+      "marc": "$v Trials, litigation, etc."
+    }
+  ]
+}

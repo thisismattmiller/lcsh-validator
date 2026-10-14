@@ -1,0 +1,50 @@
+
+
+<<<PAGE 1>>>
+ 
+Religious Life and Customs  H 2016 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2016 Page 1 
+ 
+June 2013 
+BACKGROUND:  The subdivision BReligious life and customs is used under names of 
+countries, cities, etc., for works on the religious customs, practices, etc., of these places.  This 
+instruction sheet provides guidelines for assigning this subdivision. 
+ 
+ 
+ 
+1.  General.  Assign the free-floating subdivision BReligious life and customs under names of 
+countries, cities, etc.  Examples: 
+ 
+651 #0 $a Asia $x Religious life and customs. 
+651 #0 $a Brazil $x Religious life and customs. 
+651 #0 $a California $x Religious life and customs. 
+651 #0 $a New York (N.Y.) $x Religious life and customs. 
+ 
+ 
+ 
+2.  By period.  Do not use the subdivision BHistory after BReligious life and customs (see 
+H 1647).  If period subdivisions have been established and are appropriate for the work, assign 
+headings of the type [place]BReligious life and customsB[period subdivision] to works on the 
+history of the religious customs, etc., in a place during a particular period.  Example: 
+ 
+651 #0 $a Germany $x Religious life and customs $y Middle Ages, 
+            843-1517. 
+ 
+Establish new period subdivisions under headings of the type [place]BReligious life and 
+customs as needed, except if the place in question is a city or town. 
+ 
+ 
+ 
+3.  By religion or denomination.  Assign headings of the type [religion or denomination]B 
+Customs and practices and [place]BReligious life and customs to works on the customs and 
+practices of an individual religion or denomination in a particular place.  Example: 
+ 
+Title:  Popular expressions of Catholicism in Mexico today. 
+610 20 $a Catholic Church $z Mexico $x Customs and  
+            practices. 
+651 #0 $a Mexico $x Religious life and customs. 
+ 

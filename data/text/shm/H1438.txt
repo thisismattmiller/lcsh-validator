@@ -1,0 +1,106 @@
+
+
+<<<PAGE 1>>>
+ Composers and Works about Music of Individual Composers  H 1438 
+  
+ 
+ 
+Subject Headings Manual 
+H 1438 Page 1 
+ 
+September 2013 
+1.  Works about individual composers.  For general works about an individual composer, 
+assign the personal name heading for the composer, subdivided by appropriate subdivisions from 
+H 1110. 
+ 
+ 
+a.  Comprehensive works.  For comprehensive discussions or criticism of a composer's 
+works, subdivide the name of the composer by BCriticism and interpretation.  
+Example: 
+ 
+ 
+Title:  Benjamin Britten, his music. 
+600 10 $a Britten, Benjamin, $d 1913-1976 $x Criticism 
+            and interpretation. 
+ 
+ 
+b.  Works on specific topics or forms.  Use more specific subdivisions for works about 
+the composer that have a particular focus or form:  BAppreciation; BDiscography;  
+BHarmony; BInfluence; BPerformances; BSources; BStories, plots, etc.; BSymbolism; 
+BThematic catalogs; BWritten works; etc.  Examples: 
+ 
+ 
+Title:  Bartok's harmonic language. 
+600 10 $a Bartók, Béla, $d 1881-1945 $x Harmony. 
+ 
+ 
+Title:  Chopin playing : from the composer to the present day. 
+600 10 $a Chopin, Frédéric, $d 1810-1849  
+            $x Performances.  
+650 #0 $a Piano music $x Interpretation (Phrasing, 
+            dynamics, etc.) 
+ 
+ 
+Title: Beiträge zur Symbolsprache Johann Sebastian Bachs. 
+600 10 $a Bach, Johann Sebastian, $d 1685-1750  
+            $x Symbolism. 
+ 
+ 
+c.  Biographical works.  For biographical works about an individual composer, follow 
+the provisions of H 1330, assigning the name of the composer with an appropriate 
+biographical subdivision from H 1110, if needed, as well as a heading for the class of 
+persons with appropriate biographical subdivision. 
+
+
+<<<PAGE 2>>>
+H 1438  Composers and Works about Music of Individual Composers 
+ 
+ 
+ 
+H 1438 Page 2 
+Subject Headings Manual 
+September 2013 
+2.  Works about specific compositions.  For works discussing a single composition, assign the 
+name-title heading for the composition.  Example: 
+ 
+ 
+Title:  Some thoughts on Beethoven's Choral symphony.  
+600 10 $a Beethoven, Ludwig van, $d 1770-1827.  
+            $t Symphonies, $n no. 9, op. 125, $r D minor. 
+ 
+ 
+ 
+3.  Works about compositions in a musical form or for a general or specific medium of 
+performance.  To works discussing compositions by one composer in a specific form or 
+medium, assign a name-title heading using a collective uniform title formulated according to 
+RDA instructions.  Do not use the uniform title "Selections" or one ending with "Selections."  
+Do not add any of the additions prescribed in rule 6.28.3.  Assign two such headings if 
+necessary, rather than using a single collective uniform title whose scope is much broader than 
+the coverage of the work being cataloged.  If a name-title heading being assigned is not 
+represented by an authority record in the name authority file, create one for it.  Assign 
+additional headings for the type of music subdivided by appropriate form and topical 
+subdivisions from H 1160.  Examples: 
+ 
+ 
+Title:  Analysis of Mahler's symphonies. 
+600 10 $a Mahler, Gustav, $d 1860-1911. $t Symphonies.   
+650 #0 $a Symphonies $x Analysis, appreciation. 
+ 
+ 
+Title:  The symphonies and overtures of Beethoven. 
+600 10 $a Beethoven, Ludwig van, $d 1770-1827.  
+            $t Symphonies.   
+600 10 $a Beethoven, Ludwig van, $d 1770-1827. $t Overtures. 
+  
+ 
+ 
+650 #0 $a Symphony. 
+650 #0 $a Overture. 
+ 
+ 
+Title:  The chamber music of Beethoven and Brahms. 
+600 10 $a Beethoven, Ludwig van, $d 1770-1827. $t Chamber 
+            music. 
+600 10 $a Brahms, Johannes, $d 1833-1897. $t Chamber music. 
+650 #0 $a Chamber music $x History and criticism. 
+ 

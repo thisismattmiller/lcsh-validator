@@ -1,0 +1,38 @@
+
+
+<<<PAGE 1>>>
+ 
+Articles in the Initial Position  H 290 
+ 
+ 
+ 
+Subject Headings Manual 
+H 290 Page 1 
+ 
+June 2013 
+1.  General rule.  Do not establish subject headings with an article (definite or indefinite) in the 
+initial position.  This instruction applies both to English articles and to all foreign language 
+equivalents in the nominative case.  Examples: 
+ 
+ 
+150 ## $a Arts 
+   [not 
+150 ## $a The arts] 
+ 
+150 ## $a Finite, The 
+   [not 
+150 ## $a The finite] 
+ 
+150 ## $a Questione della lingua 
+   [not 
+150 ## $a La questione della lingua] 
+ 
+ 
+ 
+2.  Geographic names.  For geographic names beginning with an article, see H 690, sec. 6. 
+ 
+ 
+ 
+3.  Titles of publications.  Omit all initial articles that precede words in the nominative case 
+when assigning titles as subject headings.  For further details about the assignment of uniform 
+titles as subject headings, see H 1435. 

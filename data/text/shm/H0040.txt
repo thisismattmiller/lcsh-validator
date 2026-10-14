@@ -1,0 +1,88 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Library of Congress Subject Authority Records H 40 | Page 1 
+ 
+Library of Congress Subject Authority Records 
+H 40 
+Table of Contents 
+A. Background ............................................................................................................................... 1 
+B. Recent revisions ........................................................................................................................ 1 
+C. Characteristics of subject authority records .............................................................................. 2 
+C.1. Records for approved headings .......................................................................................... 2 
+C.2. Records for newly proposed headings ................................................................................ 2 
+C.3. Records for headings being updated .................................................................................. 2 
+D. Assigning valid headings as subjects ......................................................................................... 2 
+E. Non-authoritative subject heading sources .............................................................................. 3 
+Revision history ............................................................................................................................. 3 
+A. Background 
+Online subject authority records in Classification Web Plus and the LC Database take 
+precedence over all printed products as authority for the non-free-floating elements of subject 
+headings. Additionally, subdivision authority records have been created to control the more 
+than 3,500 free-floating subdivisions. These records, used in conjunction with name authority 
+records in the LC Database and the lists of free-floating subdivisions and other elements in the 
+Subject Headings Manual, constitute final authority for the assignment of subject headings. 
+A copy of each subject authority record in Classification Web Plus also resides in the LC 
+Database. In addition to being the most authoritative list of subject headings, Classification 
+Web Plus is also used for products such as the Subject Headings Tentative Lists and Library of 
+Congress Subject Headings, which was published annually in print form until 2013. LCSH is now 
+available as free PDF files on the Acquisitions and Bibliographic Access website. 
+B. Recent revisions 
+2026-04: Updated template. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Library of Congress Subject Authority Records H 40 | Page 2 
+ 
+C. Characteristics of subject authority records 
+C.1. Records for approved headings 
+An existing heading that is approved and valid for use is represented in Classification Web Plus 
+and the LC Database by a single authority record with a record ID number in the 010 field 
+having the prefix sh. In the Classification Web Plus browse display, approved headings appear in 
+black. 
+C.2. Records for newly proposed headings 
+Proposed headings reside in the Subject Heading Proposal System, which is a module of 
+Classification Web Plus. The record ID number in the 010 field has the prefix sp. The heading is 
+not valid for use until it has been approved during the editorial process. Once the Policy, 
+Training, and Cooperative Programs Division has assigned the proposal to a tentative list, the 
+list number can be found in the 907 $t subfield of the MARC authority record in the Subject 
+Heading Proposal System. In the Classification Web Plus browse display, newly proposed 
+headings appear in green. 
+Example: 
+Proposal assigned to the December 2024 list: 
+907 ## $a 2412 
+C.3. Records for headings being updated 
+An existing heading that is being changed in any way is represented in the Subject Heading 
+Proposal System by two authority records, one having a record ID number with the prefix sh in 
+the 010 field, and the other having the same record ID number but with the prefix sp. In order 
+to determine the nature of the update being performed, it is necessary to compare the “sh” 
+record with its “sp” counterpart. Once the Policy, Training, and Cooperative Programs Division 
+has assigned the proposal to a tentative list, the list number can be found in the 907 $t subfield 
+of the MARC authority record in the Subject Heading Proposal System. In the Classification Web 
+Plus browse display, change proposal headings appear in orange-brown. 
+D. Assigning valid headings as subjects 
+Before assigning a subject heading to a work being cataloged, ascertain that either  
+1. it is an RDA name heading represented by a name authority record in the LC Database 
+(cf. H 430); or  
+2. it is represented in the LC Database or in Classification Web by a single subject authority 
+record that has an 010 field with an sh record number; or  
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Library of Congress Subject Authority Records H 40 | Page 3 
+ 
+3. if it is represented in the Subject Heading Proposal System by two subject authority 
+records one of which has an 010 field with an sp record number, the change being made 
+is to a field other than the 1XX field; or  
+4. it is authorized by free-floating provisions (cf. H 362 for free-floating terms and phrases, 
+H 1090 for multiple subdivisions, and H 1095-H 1200 for free-floating subdivisions). 
+Do not assign headings that have both “sh” and “sp” records unless the proposed change is in a 
+field other than the 1XX field, that is, unless the heading itself is unaffected by the change.  
+E. Non-authoritative subject heading sources 
+The following sources, although useful tools for reference purposes, may not be treated as 
+authority for the assignment of a subject heading: 
+• Bibliographic records in the LC Database 
+• Tentative lists of new subject heading proposals (including those proposals marked 
+(A)). 
+Revision history 
+2026-04: Updated template. 

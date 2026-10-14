@@ -1,0 +1,78 @@
+
+
+<<<PAGE 1>>>
+ 
+Providing for Geographic Subdivision  H 194 
+                              of Existing Subject Headings           
+ 
+ 
+Subject Headings Manual 
+H 194 Page 1 
+ 
+November 2021 
+BACKGROUND:  A subject heading is authorized to be divided by place when its authority 
+record has the value i in field 008/06.  This causes the notation (May Subd Geog) to be printed 
+beside the heading when it appears on the tentative and approved lists and when it is printed in 
+Library of Congress Subject Headings.  This instruction sheet describes the procedure to 
+request that an existing subject heading be authorized for geographic subdivision.  For the 
+procedure to request that a corporate body name heading be divided by place, see H 475.  For 
+general instructions on authorization for geographic subdivision, see H 364. 
+ 
+ 
+ 
+1.  Retrieving the heading in the Subject Heading Proposal System.  In order to divide by place 
+a subject heading that is not currently authorized for geographic subdivision, retrieve the heading 
+in the Subject Heading Proposal System. Click on the icon to the right of the heading in the 
+browse display, and in the dropdown menu click Propose a change to this record.   
+ 
+ 
+ 
+2.  Changing the 008 field.  To permit the subject heading to be divided by place, select the 
+May Subd Geog radio button.   
+ 
+ 
+ 
+3.  Bibliographic file maintenance.  Add a 952 field showing the number of bibliographic 
+records that are being submitted to be changed if the proposal is approved.  Format the field as 
+in the following example: 
+ 
+ 
+952 ## $a Bib. records to be changed: 5 
+ 
+ 
+If no records are submitted, indicate Bib. records to be changed: 0. 
+ 
+ 
+Note:  Searching the LC Database to locate and print out existing bibliographic records 
+in which the heading could be divided by place is an optional procedure.  Proposals to 
+divide a heading by place may be submitted with no accompanying bibliographic 
+records. 
+ 
+ 
+
+
+<<<PAGE 2>>>
+H 194  Providing for Geographic Subdivision  
+            of Existing Subject Headings 
+ 
+ 
+ 
+H 194 Page 2 
+Subject Headings Manual 
+November 2021 
+4.  Saving and viewing the record.  Save the proposed revision to the Subject Heading 
+Proposal System by clicking on the wrench icon in the upper right-hand corner to reveal the 
+Tools menu and clicking the Save button. The proposed revision is now searchable within the 
+system.  Search for the proposed heading in the browse display. The text of the heading is 
+displayed in brown, indicating that it is a proposed revision and not yet approved. 
+ 
+ 
+ 
+5.  Submitting the proposal.  Make a PDF of the revised authority record for the heading that is 
+being changed as well as PDFs of all related authority records that were revised in conjunction 
+with the proposal.  Submit the PDFs to the Policy, Training, and Cooperative Programs 
+Division according to the instructions in H 200 sec. 19.  Once these PDFs have been submitted 
+to PTCP, make no further changes to the online authority records in the Subject Heading 
+Proposal System.  If any further additions or changes are required, notify PTCP by telephone, 
+email, or inter-office mail. 
+ 

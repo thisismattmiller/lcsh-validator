@@ -1,0 +1,253 @@
+
+
+<<<PAGE 1>>>
+ 
+Authorization for Geographic Subdivision  H 364 
+ 
+ 
+ 
+Subject Headings Manual 
+H 364 Page 1 
+ 
+September 2013 
+BACKGROUND:  The MARC 21 Format for Authority Data provides four codes in field 008/06, 
+Direct/indirect geographic subdivision, to indicate whether a heading may be subdivided by 
+place:  
+ 
+(1)  Code # indicates that the heading may not be subdivided geographically.  This 
+code is represented by an underscore character ( _ ) in the LC ILS and generates Not 
+Subd Geog in LC’s printed subject heading products.  LC began using this code in 1987. 
+  
+ 
+(2)  Code d indicates that the heading may be subdivided geographically—direct.  LC 
+does not use this code.  For information on LC’s past use of the direct method of 
+geographic subdivision in bibliographic records, see H 830.   
+ 
+(3)  Code i indicates that the heading may be subdivided geographically—indirect.  
+This same code is used in the LC ILS and generates May Subd Geog in LC’s printed 
+subject heading products.  For instructions on dividing headings geographically, see H 
+830.    
+ 
+(4)  Code n indicates that geographic subdivision is not applicable.  This code is used 
+when the term in the 150 field is not a valid heading, as in a reference record for a 
+general see reference (cf. H 374).  It generates no print constant in printed subject 
+heading products. 
+ 
+In addition, MARC 21 and the LC ILS allow for a fill character ( | ) that represents no attempt to 
+code.  Its use means that no decision has yet been made regarding geographic subdivision of 
+the subject heading, and until it has, geographic subdivision may not be used after the heading. 
+ 
+The Library’s past practice was to authorize subject headings for geographic subdivision only 
+when further subdivision by place was actually needed for works being cataloged.  Currently, 
+new headings are authorized for geographic subdivision at the point when they are established if 
+they represent topics that could exist in a specific location or could be discussed in relation to a 
+place, whether or not geographic subdivision is needed for the item in hand.  In addition, LC 
+previously did not authorize certain categories of headings for geographic subdivision, such as 
+Latin names of animals and plants below the taxonomic level of order, domestic breeds of 
+animals, and individual groups of Indians.  These types of headings now receive authorization 
+to be subdivided by place when they are established.  Projects have been undertaken at LC to 
+add geographic subdivision authorization to categories of previously unsubdivided headings, but 
+numerous headings with potential geographic orientation currently lack the authorization. 
+
+
+<<<PAGE 2>>>
+H 364  Authorization for Geographic Subdivision 
+ 
+ 
+ 
+H 364 Page 2 
+Subject Headings Manual 
+September 2013 
+BACKGROUND:  (Continued) 
+ 
+This instruction sheet provides guidelines for when to add codes to indicate that a heading may 
+be subdivided geographically or not, and when to leave the fill character in place to signify no 
+decision.  For procedures for coding for geographic subdivision when establishing new 
+headings, see H 200, sec. 5.  For procedures for providing for geographic subdivision of 
+existing subject headings, see H 194.  For procedures for providing for geographic subdivision 
+of certain corporate body name headings, see H 475.  For rules and instructions on assigning 
+headings with geographic subdivisions, see H 830. 
+  
+ 
+Note:  Field 008/06 does not appear in the Subject Heading Proposal System templates 
+for certain types of headings because it is set by default and cannot be edited.  For 
+example, in the template for family name headings, the 008/06 is set to Not Subd Geog 
+and may not be changed. 
+ 
+ 
+ 
+1.  Authorizing new headings for geographic subdivision.  When establishing a new subject 
+heading, authorize geographic subdivision by selecting the radio button labeled May Subd Geog 
+on the proposal template in the Subject Heading Proposal System.  Authorize  headings to be 
+subdivided geographically that represent topics that have a geographic orientation, or that could 
+be discussed in relation to a place or to a population in a particular location, including ethnic 
+groups; living, extinct, or fossil organisms; languages; types of objects and equipment; types of 
+organizations and structures; disciplines and fields of study; processes, activities, and 
+phenomena; chemicals and materials; diseases; economic, social, and psychological concepts; 
+types of events; etc.  Code such headings to authorize geographic subdivision whether or not 
+geographic subdivision is needed for individual works being cataloged. 
+ 
+When establishing main heading-subdivision combinations formulated with a subdivision that is 
+normally authorized for further subdivision by place, for example, —Law and legislation, code 
+the extended heading for geographic subdivision.  For instructions on using subdivisions further 
+subdivided by place, see H 860. 
+ 
+ 
+
+
+<<<PAGE 3>>>
+ 
+Authorization for Geographic Subdivision  H 364 
+ 
+ 
+ 
+Subject Headings Manual 
+H 364 Page 3 
+ 
+September 2013 
+2.  Coding new headings to indicate that they are not subdivided geographically.  Code a 
+new subject heading to be not subdivided geographically by selecting the radio button labeled 
+Not Subd Geog on the proposal template in the Subject Heading Proposal System.  Use this 
+code when Library of Congress Subject Headings provides an alternative way of expressing that 
+topic in relation to a place, and in situations where a decision has been made that all headings 
+belonging to a particular category are to be coded as Not subdivided geographically.  Also use 
+this code in situations in which it is judged desirable to record a definite decision that an 
+individual heading is not to be used with geographic subdivisions, such as when the meaning of 
+the heading calls for it, or when subdivision by place would be ambiguous. 
+ 
+ 
+Code all headings of the following types as Not subdivided geographically: 
+ 
+ 
+ 
+headings for topics that have corresponding subdivisions that are used to represent 
+that topic in conjunction with a place.  For example, the heading Commerce is not 
+subdivided geographically.  Instead, the corresponding subdivision BCommerce is 
+used under names of countries, cities, etc., to represent the commerce and trade of 
+that place.  This situation occurs most frequently for general headings that 
+correspond to free-floating subdivisions used under names of places  (cf. H 1140). 
+ 
+ 
+ 
+headings for general literary forms or genres.  Headings like Poetry, Short stories, 
+and Lawyers' writings are not subdivided geographically because specific headings 
+with national adjectival qualifiers are established to represent those forms or genres 
+originating in a particular country, for example, Canadian poetry; Short stories, 
+Mexican; Lawyers' writings, Chilean.           
+ 
+ 
+ 
+headings for literary or artistic forms established with regional geographic qualifiers, 
+for example, Epic poetry, European.  The epic poetry of individual European 
+countries is expressed by separate headings that are qualified by their country of 
+origin, for example, Epic poetry, Italian. 
+ 
+ 
+
+
+<<<PAGE 4>>>
+H 364  Authorization for Geographic Subdivision 
+ 
+ 
+ 
+H 364 Page 4 
+Subject Headings Manual 
+September 2013 
+2.  Coding new headings to indicate that they are not subdivided geographically. (Continued) 
+ 
+ 
+individual headings in the following categories:   
+ 
+o names of families, royal houses, dynasties, for example, Windsor, House of 
+ 
+o named brands and products, for example, IBM microcomputers  
+ 
+o names of groups of fictitious and legendary characters, for example, Hardy Boys 
+(Fictitious characters) 
+ 
+ 
+headings for which geographic subdivision is not conceptually logical.  For example, 
+the heading World politics is not subdivided geographically because it signifies 
+political history and conditions worldwide.  Similarly, the heading Global 
+environmental change is not subdivided geographically because it stands for the 
+global phenomenon.  However, extended headings formulated by combining such 
+headings with subdivisions that have a geographic orientation may subdivide 
+geographically, for example, Global environmental change—Economic aspects  
+(May Subd Geog).  
+ 
+ 
+headings of the type [topic] in art, [topic] in literature, [topic] in mass media, 
+[topic] in motion pictures, [topic] in music, [topic] in opera, and [topic] on 
+television, when the headings represent the portrayal of special topics in these media. 
+With these headings, it would not be clear whether a geographic subdivision would 
+refer to the location of the topic or the medium. 
+  
+ 
+
+
+<<<PAGE 5>>>
+ 
+Authorization for Geographic Subdivision  H 364 
+ 
+ 
+ 
+Subject Headings Manual 
+H 364 Page 5 
+ 
+September 2013 
+3.  No decision regarding geographic subdivision.  For new subject headings that do not fall 
+into the categories listed in either sec. 1 or sec. 2, select the radio button labeled No attempt to 
+code on the proposal template in the Subject Heading Proposal System.  Headings that are 
+neither authorized for geographic subdivision nor coded to indicate that they are not subdivided 
+geographically include: 
+ 
+ purely abstract or theoretical concepts, for example, Boolean rings 
+ 
+ extended headings formed with subdivisions that are not customarily subdivided by 
+place, such as headings of the type [topic]—[national or ethnic qualifier] influences 
+ or [...] industry—Foreign ownership where geographic subdivisions are interposed 
+instead, for example, Medicine—Germany—Dutch influences or Computer indus-
+try—Mexico—Foreign ownership.  For instructions in interposing geographic 
+subdivisions, see H 870.     
+ 
+ Geographic features, for example, Potomac River 
+ 
+ Named buildings, structures, etc., for example, White House (Washington, D.C.) 
+ 
+ Named events, disasters, etc., that include their location in a qualifier, for example, 
+World Trade Center Bombing, New York, N.Y., 1993  
+ 
+ 
+When in doubt whether to authorize geographic subdivision for a given heading, select the No 
+attempt to code radio button.   
+ 
+ 
+4.  Changing the coding for geographic subdivision on existing headings.  Submit proposals 
+to add geographic subdivision authorization to existing subject headings as they are needed in 
+current cataloging following the procedures in H 194. 
+ 
+When revising an existing heading for another reason, such as changing its reference structure or 
+adding a classification number, add authorization for geographic subdivision if it is not yet 
+authorized and falls within one of the categories enumerated in sec. 1.  Change the coding to 
+indicate that a heading is not geographically subdivided if it is a heading of the type listed in 
+sec. 2.  
+ 
+ 
+
+
+<<<PAGE 6>>>
+H 364  Authorization for Geographic Subdivision 
+ 
+ 
+ 
+H 364 Page 6 
+Subject Headings Manual 
+September 2013 
+5.  Authorizing corporate body name headings for geographic subdivision.  Following the 
+procedures in H 475, submit proposals to authorize geographic subdivision for corporate body 
+name headings for religions, denominations, religious orders, and international organizations as 
+their assignment in conjunction with a place is needed in current cataloging. 
+ 
+Assign corporate body name headings divided by place to denote the physical presence of the 
+corporate body or its individual members in the place indicated by the geographic subdivision, or 
+the activities of the body in that place. 

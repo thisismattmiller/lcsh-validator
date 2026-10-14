@@ -1,0 +1,258 @@
+
+
+<<<PAGE 1>>>
+ 
+Study and Teaching  H 2110 
+  
+ 
+ 
+Subject Headings Manual 
+H 2110 Page 1 
+ 
+September 2013 
+BACKGROUND:  The subdivision BStudy and teaching is used under certain types of headings 
+for works on study and teaching, including methods, institutions, facilities, programs, courses, 
+funding, etc.  This instruction sheet provides guidelines for assigning the subdivision BStudy 
+and teaching.  For classification of works on the teaching of particular subjects, see F 730. 
+ 
+ 
+1.  General.  Assign the free-floating subdivision BStudy and teaching (May Subd Geog) under 
+names of individual persons, corporate bodies, and places, and under classes of persons, ethnic 
+groups, and topical headings for works on study and teaching about these subjects. 
+ 
+Do not use this subdivision under music headings, or under names of individual Christian 
+denominations. 
+ 
+For some broad disciplines, phrase headings have been established to cover all aspects of study 
+and teaching pertaining to these subjects, for example, Agricultural education; Technical 
+education.  In these fields headings of the type [topic]BStudy and teaching are restricted in 
+meaning to methods of study and teaching. 
+ 
+ 
+ 
+2.  Level of study.  Assign the free-floating subdivision BStudy and teaching, qualified by level 
+of study, to works on the study and teaching of a topic limited to a particular educational level, 
+for example, HistoryBStudy and teaching (Elementary)BFrance; ScienceBStudy and 
+teaching (Higher)BGreat Britain. 
+ 
+The following free-floating subdivisions may be used, if appropriate: 
+ 
+BStudy and teaching (Continuing education) 
+BStudy and teaching (Early childhood) 
+BStudy and teaching (Elementary) 
+BStudy and teaching (Graduate) 
+BStudy and teaching (Higher) 
+BStudy and teaching (Internship) 
+BStudy and teaching (Middle school) 
+BStudy and teaching (Preschool) 
+BStudy and teaching (Primary) 
+BStudy and teaching (Residency) 
+BStudy and teaching (Secondary) 
+
+
+<<<PAGE 2>>>
+H 2110  Study and Teaching 
+ 
+ 
+ 
+H 2110 Page 2 
+Subject Headings Manual 
+September 2013 
+3.  Supervision.  Assign the free-floating subdivision BStudy and teachingBSupervision (May 
+Subd Geog) under topical headings to works on the supervision of study and teaching in these 
+fields.  Example: 
+ 
+Title:  The Art of clinical supervision : a pastoral counseling perspective. 
+650 #0 $a Pastoral counseling $x Study and teaching  
+            $x Supervision. 
+ 
+ 
+4.  BStudy and teaching vs. BTraining of.  To works that discuss the study and teaching of a 
+topic as part of training for an occupation or profession, assign headings of the type [topic]B 
+Study and teaching or [...] education and [class of persons]BTraining of, if appropriate.  For 
+instructions on assigning the subdivision BTraining of, see H 2217. 
+ 
+ 
+5.  Places.  Assign the free-floating subdivision BStudy and teaching (May Subd Geog) under 
+names of places for general works on study and teaching about these places. 
+ 
+Phrase headings of the type [...] studies for area studies, for example, African studies, were 
+discontinued in 1977 and should be changed when encountered on bibliographic records. 
+ 
+For works on study and teaching about a place published in that place, omit the geographical 
+subdivision under BStudy and teaching.  Example: 
+ 
+Title:  Understanding the United States : a guide for American teachers. 
+651 #0 $a United States $x Study and teaching (Secondary) 
+ 
+For works on study and teaching about a country for use in a locality of the same country or for 
+use in another country, subdivide BStudy and teaching by the place in which the study and 
+teaching is to be carried out.  Examples: 
+ 
+Title:  Helping Chinese students to understand the United States. 
+651 #0 $a United States $x Study and teaching (Secondary)  
+            $z China. 
+  
+Title:  Studying the United States : a guide for social studies teachers in 
+Boston. 
+651 #0 $a United States $x Study and teaching (Secondary) 
+            $z Massachusetts $z Boston. 
+
+
+<<<PAGE 3>>>
+ 
+Study and Teaching  H 2110 
+  
+ 
+ 
+Subject Headings Manual 
+H 2110 Page 3 
+ 
+September 2013 
+5.  Places.  (Continued) 
+ 
+For works on a special aspect of study and teaching about a place, interpose a topical subdivision 
+between the place and the subdivision BStudy and teaching, for example, SwedenBSocial life 
+and customsBStudy and teaching. 
+ 
+Do not interpose place between a topical heading and the subdivision BStudy and teaching. 
+ 
+ 
+ 
+ 
+6.  Languages.  Assign the free-floating subdivision BStudy and teaching (May Subd Geog) 
+under individual languages and groups of languages to general works on the study and teaching 
+of these languages. 
+ 
+Add a parenthetical qualifier to indicate level of study, if appropriate, for example, English 
+languageBStudy and teaching (Continuing education). 
+ 
+In accordance with H 1154, subdivide headings of the type [language or language 
+group]BStudy and teaching by special topics, if appropriate, to bring out particular aspects of 
+the study and teaching of these languages, for example, Spanish languageBStudy and 
+teachingBForeign speakers. 
+ 
+ 
+ 
+ 
+7.  Sacred works.  Assign the free-floating subdivision BStudy and teaching (May Subd Geog) 
+under uniform titles for sacred works to works on how to study and teach these sacred works, 
+including their individual parts, for example, Book of MormonBStudy and teaching. 
+ 
+Note: Prior to 1991, the subdivision BStudy was used under individual sacred works.  
+That subdivision is now obsolete. 
+ 
+ 
+ 
+ 
+8.  Music.  The free-floating subdivision BInstruction and study (May Subd Geog) is used 
+instead of BStudy and teaching in the field of music.  For guidelines on assigning this 
+subdivision, see H 1160 and H 1161. 
+
+
+<<<PAGE 4>>>
+H 2110  Study and Teaching 
+ 
+ 
+ 
+H 2110 Page 4 
+Subject Headings Manual 
+September 2013 
+9.  Audiovisual 
+materials.  Assign 
+the 
+free-floating 
+subdivision 
+BStudy 
+and 
+teachingBAudio-visual aids under topics to works on aids to the learning and teaching of a 
+subject. 
+ 
+To works on audiovisual materials about a topic that are not specifically designed for educational 
+purposes, assign the subdivision BAudio-visual aids directly under the topic. 
+ 
+For guidelines on assigning headings to catalogs of audiovisual materials, see H 1361, sec. 3. 
+ 
+ 
+ 
+10.  Simulation 
+methods.  Assign 
+the 
+free-floating 
+subdivision 
+BStudy 
+and 
+teach-
+ingBSimulation methods under topics to works on the use of simulation methods for instruction 
+in a specific field. 
+ 
+To works on the use of a particular simulation method, assign an additional heading for the 
+method, for example, Simulation games in education. 
+ 
+ 
+ 
+11.  Activity programs.  Assign the free-floating subdivision BStudy and teachingBActivity 
+programs (May Subd Geog) under topics to works on activities to be engaged in for the purpose 
+of acquiring certain skills, concepts, or knowledge. 
+ 
+ 
+ 
+12.  Textbooks.  Do not assign headings of the type [topic]BStudy and teaching to textbooks for 
+students.  For guidelines on assigning headings to textbooks, see H 2187. 
+ 
+ 
+ 
+13.  Examples. 
+ 
+Title:  Experiences with literature : creative activities for K-3 Spanish language 
+arts. 
+650 #0 $a Spanish literature $x Study and teaching (Primary) 
+            $z United States. 
+650 #0 $a Spanish language $x Study and teaching (Primary)  
+            $z United States. 
+650 #0 $a Spanish language $x Study and teaching  
+            $x Bilingual method. 
+
+
+<<<PAGE 5>>>
+ 
+Study and Teaching  H 2110 
+  
+ 
+ 
+Subject Headings Manual 
+H 2110 Page 5 
+ 
+September 2013 
+13.  Examples.  (Continued) 
+ 
+Title:  Supervision and education-formation for ministry. 
+650 #0 $a Clergy $x Training of $z United States. 
+650 #0 $a Theology $x Study and teaching $z United States. 
+650 #0 $a Theology $x Study and teaching $x Supervision. 
+ 
+ 
+Title:  Visual communication in science : learning through sharing images. 
+650 #0 $a Science $x Study and teaching (Secondary)  
+            $x Audio-visual aids. 
+650 #0 $a Visual communication. 
+ 
+ 
+Title:  Internship training in applied anthropology. 
+650 #0 $a Applied anthropology $x Study and teaching 
+            (Internship) $z Florida. 
+610 20 $a University of South Florida. $b Center for Applied 
+            Anthropology. 
+ 
+ 
+Title:  Approaching the Gospels together : a leaders' guide for group Gospels 
+study. 
+630 00 $a Bible. $p Gospels $x Study and teaching. 
+650 #0 $a Church group work. 
+ 
+ 
+Title:  Teaching the sciences in community colleges. 
+650 #0 $a Science $x Study and teaching (Higher) $z United 
+            States. 
+650 #0 $a Community colleges $x Curricula $z United States. 
+ 

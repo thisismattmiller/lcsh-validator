@@ -1,0 +1,77 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Hong Kong H 978 | Page 1 
+ 
+ 
+Hong Kong 
+H 978 
+A. Background ................................................................................................................................. 1 
+B. Recent revisions .......................................................................................................................... 1 
+C. Treatment as a political division of China ................................................................................... 1 
+D. Geographic subdivision practice ................................................................................................ 1 
+E. Establishing headings for entities in Hong Kong ......................................................................... 2 
+F. Transfer of sovereignty ............................................................................................................... 2 
+G. Geographic area code................................................................................................................. 2 
+Revision history ............................................................................................................................... 3 
+A. Background 
+Prior to the transfer of sovereignty from Great Britain to China in 1997, Hong Kong was treated 
+in subject cataloging practice as an autonomous entity. Since July 1997, Hong Kong is treated as 
+a political division of China. This instruction sheet describes that practice. 
+B. Recent revisions 
+2026-08: Updated template. Updated instructions related to Hong Kong qualifiers for buildings, 
+parks, etc. in Section E. 
+C. Treatment as a political division of China 
+Treat *Hong Kong (China)* as an administrative division of China rather than as a country, 
+assigning as required subdivisions that are appropriate for use under political divisions of 
+countries (see H 1140). 
+Examples: 
+651 #0 $a Hong Kong (China) $x Officials and employees. 
+651 #0 $a Hong Kong (China) $x Social conditions. 
+D. Geographic subdivision practice 
+When using *Hong Kong* as a geographic subdivision, divide through China. 
+Examples: 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Hong Kong H 978 | Page 2 
+ 
+ 
+650 #0 $a Agriculture $z China $z Hong Kong. 
+650 #0 $a Secret societies $z China $z Hong Kong. 
+Also divide through *China* for localities within Hong Kong used as geographic subdivisions. 
+Example: 
+650 #0 $a City planning $z China $z Victoria Harbor. 
+E. Establishing headings for entities in Hong Kong 
+Use *(China)* to qualify geographic features within Hong Kong. 
+Examples: 
+151 ## $a Mirs Bay (China) 
+151 ## $a Wang Lang Island (China) 
+Use the qualifier *(Hong Kong, China)* only if it is necessary to distinguish between an entity in 
+Hong Kong and another entity with the same name and of the same type located elsewhere in 
+China. 
+Qualify buildings, parks, archaeological sites, and other entities of the type that may be 
+qualified by names of cities by the qualifier *(Hong Kong, China)*. 
+Example: 
+151 ## $a Lizhengwu Site (Hong Kong, China) 
+Note: The previous practice added a qualifier based on the name of the appropriate locality in 
+Hong Kong to buildings, parks, etc. This practice changed in June 2026. 
+Divide topical headings that are used as broader terms for named entities in Hong Kong by 
+*China*, not *Hong Kong*. 
+Examples: 
+151 ## $a Hong Kong Island (China) 
+550 ## $w g $a Islands $z China 
+F. Transfer of sovereignty 
+Assign to works about the 1997 transfer of sovereignty over Hong Kong to China the subject 
+heading *Hong Kong (China)--History--Transfer of Sovereignty from Great Britain, 1997*. 
+G. Geographic area code 
+Assign the code a-cc-hk. 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Hong Kong H 978 | Page 3 
+ 
+ 
+Revision history 
+2026-08: Updated template. Updated instructions related to Hong Kong qualifiers for buildings, 
+parks, etc. in Section E. 

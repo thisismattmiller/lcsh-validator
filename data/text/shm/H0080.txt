@@ -1,0 +1,52 @@
+
+
+<<<PAGE 1>>>
+ 
+Order of Subject Headings  H 80 
+ 
+ 
+ 
+Subject Headings Manual 
+H 80 Page 1 
+ 
+June 2013 
+BACKGROUND:  Both the Library of Congress classification number and the first subject 
+heading(s) assigned to a work are based on the predominant topic of the work.  Therefore the 
+class number and the first subject heading(s) usually match.  However, it is not always possible 
+to achieve an exact match because the classification system and the subject headings system 
+have different conventions.  Class numbers, for example, are sometimes less specific and 
+sometimes more specific than subject headings.  In some cases, it requires several subject 
+headings collectively to designate what the classification expresses in a single 
+caption.  Therefore the principle that the first subject heading(s) matches the class number is a 
+somewhat flexible one.  This instruction sheet provides guidelines for the order of the subject 
+headings assigned to a particular work. 
+ 
+Note:  The Library of Congress does not apply the provision of the MARC 21 Format for 
+Bibliographic Data that allows indication of primary and secondary descriptors in the 
+first indicator of 650 fields. 
+ 
+ 
+ 
+ 
+1.  General rule.  Assign the heading that represents the predominant topic of the work as the 
+first subject heading.  
+ 
+If the predominant topic cannot be represented by a single heading, assign as the first and second 
+headings the two headings that, taken together, express the predominant topic.  Although it is not 
+significant which of the two is assigned first and which second, if one of the two more closely 
+approximates the class number it is usually assigned first. 
+ 
+For works of individual biography, assign as the first subject heading the name of the 
+biographee. 
+ 
+ 
+2.  Works with two equally important topics.  If a work has two equally important major topics, 
+assign heading(s) for the second of these topics immediately after the heading(s) for the first, and 
+before any headings for secondary topics. 
+ 
+ 
+3.  Order of secondary topics.  Assign headings for secondary topics, as well as headings 
+required to complete standard arrays, in any order following the heading(s) for the major 
+topic(s). 
+ 
+ 

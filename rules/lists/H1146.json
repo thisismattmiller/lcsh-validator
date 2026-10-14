@@ -1,0 +1,43 @@
+{
+  "sheet": "H 1146",
+  "title": "Subdivisions Controlled by Pattern Headings",
+  "kind": "pattern-chart",
+  "scope": "Chart (sec. I) of the pattern headings designated to date, arranged by major discipline then by category, with the SHM pattern list that governs each category",
+  "pattern_headings": [],
+  "pattern_category": "",
+  "general_notes": [
+    "Use any subdivision that is established under a pattern heading as a free-floating subdivision under any other heading belonging to its category if it is appropriate and if no conflicting heading is established in the subject authority file in either phrase or main heading-subdivision form.",
+    "Pattern headings have not been designated for all possible categories in the world of knowledge. Not all headings in the Library of Congress Subject Heading system are covered by pattern headings.",
+    "Lists of the free-floating subdivisions controlled by pattern headings follow as H 1147-H 1200. On each list the usage of some subdivisions is explained in endnotes. Subfield coding is provided for each subdivision.",
+    "The 'sheet' values below are given as printed in the chart (with 'H' supplied where the chart omits it). Several printed values appear to be errors in the source; see each entry's 'note'."
+  ],
+  "entries": [
+    {"discipline": "Religion", "category": "Religious and monastic orders", "pattern_headings": ["Jesuits"], "sheet": "H 1186", "note": ""},
+    {"discipline": "Religion", "category": "Religions", "pattern_headings": ["Buddhism"], "sheet": "H 1185", "note": ""},
+    {"discipline": "Religion", "category": "Christian denominations", "pattern_headings": ["Catholic Church"], "sheet": "H 1187", "note": ""},
+    {"discipline": "Religion", "category": "Sacred works (including parts)", "pattern_headings": ["Bible"], "sheet": "H 1188", "note": ""},
+    {"discipline": "History and Geography", "category": "Colonies of individual countries", "pattern_headings": ["Great Britain--Colonies"], "sheet": "H 1149.5", "note": ""},
+    {"discipline": "History and Geography", "category": "Legislative bodies (including individual chambers)", "pattern_headings": ["United States. Congress"], "sheet": "H 1155", "note": ""},
+    {"discipline": "History and Geography", "category": "Military services (including armies, navies, marines, etc.)", "pattern_headings": ["United States--Armed Forces", "United States. Air Force", "United States. Army", "United States. Marine Corps", "United States. Navy"], "sheet": "H 1159", "note": ""},
+    {"discipline": "History and Geography", "category": "Wars", "pattern_headings": ["World War, 1939-1945", "United States--History--Civil War, 1861-1865"], "sheet": "H 1200", "note": ""},
+    {"discipline": "Social Sciences", "category": "Industries", "pattern_headings": ["Construction industry", "Retail trade"], "sheet": "H 1153", "note": ""},
+    {"discipline": "Social Sciences", "category": "Types of educational institutions", "pattern_headings": ["Universities and colleges"], "sheet": "H 1151.5", "note": ""},
+    {"discipline": "Social Sciences", "category": "Individual educational institutions", "pattern_headings": ["Harvard University"], "sheet": "H 1151", "note": ""},
+    {"discipline": "Social Sciences", "category": "Legal topics", "pattern_headings": ["Labor laws and legislations"], "sheet": "H 1154.5", "note": "Pattern heading printed as 'Labor laws and legislations'; the established LCSH heading is 'Labor laws and legislation'."},
+    {"discipline": "The Arts", "category": "Art", "pattern_headings": ["Art, Chinese", "Art, Italian", "Art, Japanese", "Art, Korean"], "sheet": "H 1148", "note": ""},
+    {"discipline": "The Arts", "category": "Groups of literary authors (including authors, poets, dramatists, etc.)", "pattern_headings": ["Authors, English"], "sheet": "H 1155.2", "note": ""},
+    {"discipline": "The Arts", "category": "Literary works entered under author", "pattern_headings": ["Shakespeare, William, 1564-1616. Hamlet"], "sheet": "H 1155.6", "note": ""},
+    {"discipline": "The Arts", "category": "Literary works entered under title", "pattern_headings": ["Beowulf"], "sheet": "H 1158.8", "note": "Printed as 'H 1158.8'; the pattern list for literary works entered under title is H 1155.8."},
+    {"discipline": "The Arts", "category": "Languages and groups of languages", "pattern_headings": ["English language", "French language", "Romance languages"], "sheet": "H 1154", "note": ""},
+    {"discipline": "The Arts", "category": "Literatures (including individual genres)", "pattern_headings": ["English literature"], "sheet": "H 1156", "note": "Printed as 'Consult 1156' (no 'H')."},
+    {"discipline": "The Arts", "category": "Musical compositions", "pattern_headings": ["Operas"], "sheet": "H 1160", "note": "Printed as 'Consult 1160' (no 'H')."},
+    {"discipline": "The Arts", "category": "Musical instruments", "pattern_headings": ["Piano", "Clarinet", "Violin"], "sheet": "H 1161", "note": "Printed as 'Consult 1161' (no 'H')."},
+    {"discipline": "Science and Technology", "category": "Land vehicles", "pattern_headings": ["Automobiles"], "sheet": "H 1195", "note": ""},
+    {"discipline": "Science and Technology", "category": "Materials", "pattern_headings": ["Concrete", "Metals"], "sheet": "H 1158", "note": ""},
+    {"discipline": "Science and Technology", "category": "Chemicals", "pattern_headings": ["Copper", "Insulin"], "sheet": "H 1149", "note": ""},
+    {"discipline": "Science and Technology", "category": "Organs and regions of the body", "pattern_headings": ["Heart", "Foot"], "sheet": "H 1200", "note": "Printed as 'Consult H 1200', but H 1200 is the Wars list; sec. C of this sheet identifies H 1164 as the pattern list for organs and regions of the body."},
+    {"discipline": "Science and Technology", "category": "Disease", "pattern_headings": ["Cancer", "Tuberculosis"], "sheet": "H 1164", "note": "Printed as 'Consult 1164', but H 1164 is the organs and regions of the body list (see sec. C); the pattern list for diseases is H 1150."},
+    {"discipline": "Science and Technology", "category": "Plants and crops", "pattern_headings": ["Corn"], "sheet": "H 1180", "note": "Printed as 'Consult 1180' (no 'H')."},
+    {"discipline": "Science and Technology", "category": "Animals", "pattern_headings": ["Fishes", "Cattle"], "sheet": "H 1147", "note": "Printed as 'Consult 1147' (no 'H')."}
+  ]
+}

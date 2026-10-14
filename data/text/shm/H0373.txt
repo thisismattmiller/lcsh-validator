@@ -1,0 +1,233 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | “Used For” References H 373 | Page 1 
+ 
+“Used For” References 
+H 373 
+A. Recent revisions ........................................................................................................................ 1 
+B. Definitions ................................................................................................................................. 2 
+C. General rule .............................................................................................................................. 2 
+D. Types of “Used For” references ................................................................................................ 2 
+D.1. References beginning with significant words ..................................................................... 2 
+D.2. References from alternative spellings, word endings, etc. ................................................. 3 
+D.3. References from changed or cancelled headings ............................................................... 3 
+D.4. Upward “Used For” references .......................................................................................... 4 
+D.5. Abbreviations, acronyms, etc. ............................................................................................ 4 
+D.6. Foreign terms ..................................................................................................................... 4 
+D.7. Headings qualified by nationality, ethnic group, or language ............................................ 4 
+D.8. [ . . . ] and [ . . . ] headings .................................................................................................. 5 
+D.9. Topics subdivided by other topics ...................................................................................... 5 
+E. When to omit UF references ..................................................................................................... 5 
+E.1. First word would match BT ................................................................................................. 5 
+E.2. Diacritics and normalization ............................................................................................... 6 
+E.3. Variations controlled on a base heading ............................................................................. 6 
+E.4. Foreign language equivalents ............................................................................................. 6 
+E.5. Subheadings ....................................................................................................................... 6 
+E.6. Free-floating subdivisions ................................................................................................... 6 
+F. Used For references in change proposals .................................................................................. 6 
+Revision history ............................................................................................................................. 7 
+A. Recent revisions 
+2026-03: Updated template. Added text related to handling old references for change 
+proposals. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | “Used For” References H 373 | Page 2 
+ 
+B. Definitions 
+“Used For” references: Also known as cross-references, see references; UFs. 
+C. General rule 
+After deciding which term or phrase is to represent a concept when formulating a new heading, 
+add all other equivalent terms and phrases found while conducting authority research as UF 
+references to the new heading. Place these references in alphabetical order. 
+Example: 
+150 ## $a Bait fishing 
+450 ## $a Bobber fishing 
+450 ## $a British float fishing 
+450 ## $a Fishing with natural bait 
+450 ## $a Float fishing, British 
+450 ## $a Ledgering (Fishing) 
+450 ## $a Livebait fishing 
+450 ## $a Still fishing 
+D. Types of “Used For” references 
+D.1. References beginning with significant words 
+In addition to the above UFs, rearrange the words of the new heading and its alternative forms 
+so that additional UFs are provided under each significant word in the file position, as long as 
+the resulting combination of words represents an expression under which a catalog user might 
+logically be expected to search. The standard means of accomplishing this is by inverted 
+references, although phrase equivalents of the inverted forms are also used. 
+Examples: 
+Heading 
+UF references 
+Truck driving 
+Driving, Truck 
+Songs, Irish 
+Irish songs 
+Mount Abbot 
+Abbot, Mount 
+Business intelligence 
+Business espionage 
+Corporate intelligence 
+Espionage, Business 
+Espionage, Industrial 
+Intelligence, Corporate 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | “Used For” References H 373 | Page 3 
+ 
+Exception: Do not make an inverted UF in instances where a BT is made that begins with the 
+same word or words as the UF or where the heading is in a hierarchy leading up to the same 
+word(s) except as noted in sec. D.7, below. 
+Examples: 
+150 ## $a Talking birds 
+550 ## $w g $a Birds 
+[The UF Birds, Talking is not made because the BT Birds begins with the same 
+word.] 
+ 
+150 ## $a Freshwater plants 
+550 ## $w g $a Aquatic plants 
+[The UF Plants, Freshwater is not made because Aquatic plants has the BT 
+Plants.] 
+D.2. References from alternative spellings, word endings, etc. 
+If alternative spellings are possible, including singular and plural forms, alternative word 
+endings, etc., make additional UFs covering these possibilities. 
+Examples: 
+Heading 
+UF References 
+Door knobs 
+Doorknobs 
+Cluster housing 
+Clustered housing 
+Glamour photography 
+Glamor photography 
+Historic farms 
+Historical farms 
+Serial publications 
+Serials (Publications) 
+Buses--Vandalism 
+Bus vandalism 
+See sec. E below for instructions on when not to make references from alternate spellings. 
+D.3. References from changed or cancelled headings 
+If a heading is changed to a new form, or if a phrase heading is cancelled and converted to a 
+heading of the type *[topic]--[free-floating subdivision]*, or *[topic]--[free-floating 
+subdivision controlled by a pattern heading]*, make a UF from the old form or from the 
+cancelled heading to the new heading (cf. H 193, sec. D.5.a). 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | “Used For” References H 373 | Page 4 
+ 
+D.4. Upward “Used For” references 
+Occasionally it is appropriate to make UF references from other than strictly synonymous terms 
+or phrases in order to inform the catalog user that a particular concept is entered under 
+another, usually broader, heading. A UF reference from a specific term to a broader heading is 
+referred to as an "upward" reference. 
+Examples: 
+150 ## $a Bait fishing 
+450 ## $a Worm fishing 
+Make references of this type only when it is clearly impractical to establish specific headings for 
+the separate concepts. 
+D.5. Abbreviations, acronyms, etc. 
+When a concept is well known both in its fully spelled out form and as an acronym or 
+abbreviation, make UFs from the abbreviated forms if the full form is selected as the form of 
+the heading. Add an explanatory parenthetical qualifier to the acronym or abbreviation. 
+If a concept is better known as an acronym or in abbreviated form, select that form for the 
+heading, for example, *DDT (Insecticide)*. Make a UF from the full form of the heading. 
+D.6. Foreign terms 
+In general, do not add UFs to topical headings from their equivalents in foreign languages. 
+However, such references may be made from foreign terms that are in widespread use in 
+English-language sources. 
+Example: 
+150 ## $a Morale 
+450 ## $a Esprit de corps 
+Note: This restriction does not apply to headings for named entities, for which UFs from 
+vernacular forms are regularly made when the heading is established in English. When making 
+vernacular UF references for those types of headings, provide the reference in romanized form. 
+D.7. Headings qualified by nationality, ethnic group, or language 
+For all such headings, whether established in direct or inverted form, make a UF from the 
+alternative form. 
+Examples: 
+150 ## $a Art, French 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | “Used For” References H 373 | Page 5 
+ 
+450 ## $a French art 
+ 
+150 ## $a Mexican American arts 
+450 ## $a Arts, Mexican American 
+550 ## $w g $a Arts—United States 
+Note: Make an inverted UF of this type even if a BT is made that begins with the same word or 
+words. 
+See H 374 for instructions on making general see references from non-used variant forms of 
+national and ethnic adjectival qualifiers. 
+D.8. [ . . . ] and [ . . . ] headings 
+For headings established in the form *[Topic A] and [Topic B]*, make a UF from the reversed 
+form (cf. H 310). 
+Example: 
+150 ## $a Feminism and the arts 
+450 ## $a Arts and feminism 
+D.9. Topics subdivided by other topics 
+For headings constructed in the form of a single heading subdivided by various other topical 
+headings, make a UF from the reversed form. 
+Examples: 
+150 ## $a Advertising $x Newspapers 
+450 ## $a Newspapers $x Advertising 
+ 
+150 ## $a Strikes and lockouts $x Airlines 
+450 ## $a Airlines $x Strikes and lockouts 
+E. When to omit UF references 
+E.1. First word would match BT 
+Do not make an inverted UF in instances where a BT is made that begins with the same word or 
+words as the UF or where the heading is in a hierarchy leading up to the same word(s) except as 
+noted in sec. D.7, above. 
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | “Used For” References H 373 | Page 6 
+ 
+E.2. Diacritics and normalization 
+Do not make a UF reference from a form in which the only difference is the presence of a 
+hyphen, diacritic, or capital letter because these forms “normalize” to the same string of 
+characters as the heading itself. 
+E.3. Variations controlled on a base heading 
+In headings based on another heading, do not make UF references that repeat alternative 
+spellings or variants that are already covered by a UF reference in the basic heading. For 
+example, do not make the UF *Communication in paediatrics* on the heading 
+*Communication in pediatrics* because the basic heading *Pediatrics* already has the UF 
+*Paediatrics*. 
+E.4. Foreign language equivalents 
+In general, do not add UFs to topical headings from their equivalents in foreign languages. See 
+sec. D.6, above, for exceptions. 
+E.5. Subheadings 
+Generally, when establishing a heading for a named entity in the subject authority file, do not 
+add a UF in the form of a subheading under a higher body. Do not, for example, add a UF of the 
+following type: 
+Example: 
+110 2# $a Filene Center (Va.) 
+[not 410 2# $a Wolf Trap National Park for the Performing Arts (Va.). Filene 
+Center] 
+References of this type are normally made only for headings established in the name authority 
+file. 
+E.6. Free-floating subdivisions 
+Some subdivisions that are normally free-floating are occasionally established because of 
+special circumstances. In such situations, make no UFs. For example, the heading *Mice--
+Control* does not have UFs such as Control of mice or Extermination of mice because the 
+subdivision *--Control* is normally free-floating under animals. 
+F. “Used For” references in change proposals 
+Regardless of the kind of change being proposed, all UFs should also be evaluated as part of the 
+change proposal process. Ensure all UFs, including older UFs, are supported by source citations 
+in the 670 fields, performing research and recording additional 670 fields as needed. See H 193, 
+
+
+<<<PAGE 7>>>
+Subject Headings Manual | “Used For” References H 373 | Page 7 
+ 
+sec. D.7 for instructions on how to record research for references that cannot be supported by 
+citations. 
+Revision history 
+2026-03: Updated template. Added text related to handling old references for change 
+proposals. 

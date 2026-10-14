@@ -1,0 +1,194 @@
+
+
+<<<PAGE 1>>>
+ 
+Pattern Headings: Industries  H 1153 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1153 Page 1 
+ 
+June 2013 
+PATTERNS:  Construction industry; Retail trade 
+ 
+TYPES OF HEADINGS COVERED BY THE PATTERN:  Headings for types of industries, 
+including service industries as well as those based on commodities, manufactured goods, or 
+natural resources.  Examples:  Animal industry; Cobalt industry; Electronic industries; 
+Food industry and trade; Gardening equipment industry; High technology industries; 
+Laundry industry; Lumber trade; Macadamia nut industry; Wedding supplies and services 
+industry.  Also included are headings which represent industries but do not explicitly include 
+the term industry, for example, Aeronautics, Commercial and Tourism.  The category does 
+not include names of individual businesses or corporations, nor the general heading Industries.  
+For subdivisions used under the names of individual businesses or corporations, see H 1105.  
+Establish new subdivisions under Construction industry, if possible.  If that is not possible, 
+establish them under Retail trade.   
+ 
+CONFLICTS:  Any subdivision listed here can be used as a free-floating subdivision under any 
+heading belonging to the category if it is appropriate and no conflict exists in the subject 
+authority file.  Subject authority records may exist for headings employing variant phrases or 
+subdivisions equivalent to subdivisions on this list. 
+ 
+LC practice:  
+If an exceptional variant form is to be retained, make a UF reference from the equivalent 
+free-floating subdivision form following the procedures in H 195 if the reference does not yet 
+exist.  Otherwise, submit a proposal to change the variant form along with all bibliographic 
+records requiring correction following the procedures in H 193. 
+ 
+Note:  Most form subdivisions coded $v in this list may also be used as topical 
+subdivisions coded $x when assigned to works about the form (see H 1075, sec. 1.d.). 
+ 
+$x Accidents  (May Subd Geog) 
+$x Accounting 
+$x Accounting $x Law and legislation1  (May Subd Geog) 
+$x Appropriate technology  (May Subd Geog) 
+$x Auditing 
+$x Automation 
+$x Capital investments  (May Subd Geog) 
+$x Capital productivity  (May Subd Geog) 
+$x Certification  (May Subd Geog) 
+$x Communication systems 
+$x Corrupt practices  (May Subd Geog) 
+$x Cost control 
+
+
+<<<PAGE 2>>>
+H 1153  Pattern Headings: Industries 
+ 
+ 
+ 
+H 1153 Page 2 
+Subject Headings Manual 
+June 2013 
+$x Cost effectiveness 
+$x Costs 
+$x Credit ratings 
+$x Customer services  (May Subd Geog) 
+$x Defense measures  (May Subd Geog) 
+$x Deregulation  (May Subd Geog) 
+$x Dust control  (May Subd Geog) 
+$x Econometric models 
+$x Electric equipment  (May Subd Geog) 
+$x Electronic equipment  (May Subd Geog)  
+$x Employees2 
+$x Employees $x Diseases  (May Subd Geog) 
+$x Employees $x Effect of technological  innovations on  (May Subd Geog) 
+$x Employees $x Health and hygiene  (May Subd Geog) 
+$x Employees $v Job descriptions  (May Subd Geog) 
+$x Employees $x Legal status, laws etc.1  (May Subd Geog) 
+$x Employees $x Medical care  (May Subd Geog) 
+$x Employees $x Pensions  (May Subd Geog) 
+$x Employees $x Pensions $x Law and legislation1  (May Subd Geog) 
+$x Employees $x Supply and demand  (May Subd Geog) 
+$x Employees $x Training of  (May Subd Geog) 
+$x Energy conservation  (May Subd Geog) 
+$x Energy consumption  (May Subd Geog) 
+$x Environmental aspects  (May Subd Geog) 
+$x Equipment and supplies3 
+$x Estimates4  (May Subd Geog) 
+$x Finance 
+$x Finance $x Law and legislation1  (May Subd Geog) 
+$x Fires and fire prevention  (May Subd Geog) 
+$x Foreign ownership 
+$x Fume control  (May Subd Geog) 
+$x Government ownership  (May Subd Geog) 
+$x Government policy  (May Subd Geog) 
+$x Health aspects  (May Subd Geog) 
+$x Industrial capacity  (May Subd Geog) 
+$x Information resources management  (May Subd Geog) 
+$x Information services 
+$x Information services $x Law and legislation1  (May Subd Geog) 
+$x Information technology  (May Subd Geog) 
+$x Insurance  (May Subd Geog) 
+
+
+<<<PAGE 3>>>
+ 
+Pattern Headings: Industries  H 1153 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1153 Page 3 
+ 
+June 2013 
+$x Insurance $x Law and legislation1  (May Subd Geog) 
+$v Inventories5 
+$x Inventory control  (May Subd Geog) 
+$x Job vacancies  (May Subd Geog) 
+$x Labor productivity  (May Subd Geog) 
+$x Law and legislation1  (May Subd Geog) 
+$x Licenses  (May Subd Geog) 
+$x Licenses $x Fees  (May Subd Geog) 
+$x Location  (May Subd Geog) 
+$x Management 
+$x Management $x Employee participation (May Subd Geog) 
+$x Management $x Employee participation $x Law and legislation1  (May Subd Geog) 
+$x Materials management  (May Subd Geog) 
+$x Mergers  (May Subd Geog) 
+$x Military aspects  (May Subd Geog)6 
+$x Noise 
+$x Ownership  (May Subd Geog) 
+$x Personnel management 
+$x Planning 
+$x Political activity  (May Subd Geog) 
+$x Power supply  (May Subd Geog) 
+$x Prices7  (May Subd Geog) 
+$x Prices $x Government policy7  (May Subd Geog) 
+$x Prices $x Law and legislation1,7  (May Subd Geog) 
+$x Privatization  (May Subd Geog) 
+$x Production control  (May Subd Geog) 
+$x Production standards  (May Subd Geog) 
+$x Quality control 
+$v Records and correspondence 
+$x Risk management  (May Subd Geog)  
+$x Safety measures 
+$x Safety regulations1  (May Subd Geog) 
+$x Sanitation  (May Subd Geog) 
+$x Seasonal variations  (May Subd Geog) 
+$x Security measures  (May Subd Geog) 
+$x Self-regulation  (May Subd Geog) 
+$x Social aspects  (May Subd Geog) 
+$v Specifications8  (May Subd Geog) 
+$x Standards  (May Subd Geog) 
+$x State supervision (May Subd Geog) 
+
+
+<<<PAGE 4>>>
+H 1153  Pattern Headings: Industries 
+ 
+ 
+ 
+H 1153 Page 4 
+Subject Headings Manual 
+June 2013 
+ 
+$x Statistical methods 
+$x Statistical services 
+$x Subcontracting  (May Subd Geog) 
+$x Subsidies  (May Subd Geog) 
+$x Technological innovations  (May Subd Geog) 
+$v Telephone directories 
+$v Trademarks 
+$x Vertical integration  (May Subd Geog) 
+$x Vocational guidance  (May Subd Geog) 
+$x Waste disposal  (May Subd Geog) 
+$x Waste minimization  (May Subd Geog) 
+$x Water-supply 
+ 
+ 
+ 
+NOTES 
+1See H 1154.5 for further subdivisions used under legal topics. 
+2See H 1100 for further subdivisions used under classes of persons. 
+3Not valid under Construction industry. 
+4Not established under Construction industry or Retail trade.  Use under other industries as appropriate for 
+estimates of the cost of construction, installation, etc., or the carrying out of a task to completion, for example, 
+Aerospace industriesBEstimates. 
+5Not valid under Retail trade. 
+6 Not valid under headings for military-related industries (e.g., Defense industries; Military fiber optics industry) 
+ 
+7Not valid under Retail trade.  Use the subdivision BPrices under headings for products, merchandise, etc.  Use 
+under the heading for an industry only when one general heading for the products of that industry is lacking. 
+8Use under an industry only in those cases where discussion of specifications is not limited to a single product of the 
+industry.  Use under headings for products, merchandise, etc., for specifications of single products, etc. 

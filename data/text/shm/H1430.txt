@@ -1,0 +1,593 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Comics and Comic Characters H 1430 | Page 1 
+ 
+ 
+Comics and Comic Characters 
+H 1430 
+A. Recent revisions ........................................................................................................................ 2 
+B. Background ............................................................................................................................... 2 
+C. Definitions ................................................................................................................................. 2 
+D. General rule .............................................................................................................................. 3 
+E. Selections of comic strips or cartoons and original works of fiction, including graphic novels . 3 
+E.1. Biographical fiction ............................................................................................................. 3 
+E.2. Historical fiction .................................................................................................................. 4 
+E.3. Animal stories ..................................................................................................................... 4 
+E.4. Assignment of additional form subdivisions ....................................................................... 5 
+F. Comics characters ..................................................................................................................... 6 
+F.1. Establishing headings for characters ................................................................................... 6 
+F.2. Assignment of headings for individual characters or groups of characters ......................... 6 
+G. Nonfiction written in comic book or graphic novel style .......................................................... 6 
+H. History and criticism ................................................................................................................. 7 
+H.1. General rule ....................................................................................................................... 7 
+H.2. Works about individual graphic novels, comic strips, or cartoons ..................................... 7 
+H.3. Works about graphic novels, comic strips, or cartoons, treated collectively ..................... 7 
+H.4. Comics about individual persons and families ................................................................... 7 
+H.5. Comics about imaginary persons ....................................................................................... 8 
+H.6. Comics about individual corporate bodies, places, and sacred works ................................ 8 
+H.7. Comics about wars and similar events ............................................................................... 8 
+I. Special provisions for increased subject access to fictional comics ............................................ 8 
+I.1. Application of special provisions ......................................................................................... 8 
+I.2. General principles ................................................................................................................ 9 
+I.3. Form and genre headings .................................................................................................... 9 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Comics and Comic Characters H 1430 | Page 2 
+ 
+ 
+I.4. Character(s) ......................................................................................................................... 9 
+I.4.a. Individual characters ..................................................................................................... 9 
+I.4.b. Classes of persons ....................................................................................................... 10 
+I.5. Setting ............................................................................................................................... 10 
+I.6. Topical access .................................................................................................................... 11 
+J. Examples .................................................................................................................................. 11 
+Revision history ........................................................................................................................... 16 
+ 
+A. Recent revisions 
+2026-02: Replaced LCGFT *Literary criticism* with *Comics criticism* in example. 
+B. Background 
+This instruction sheet provides guidelines for assigning genre/form terms and subject headings 
+to represent the content of graphic novels and selections from comic strips and cartoons; and 
+also for assigning subject headings to works about individual comic strips, single panel cartoons, 
+and comic characters. 
+It is subject cataloging policy to assign a genre/form term to selections from a comic strip or 
+single panel cartoon, and to graphic novels; for single works of fiction, assign headings to bring 
+out topic(s) and form as described below. For classification of comic books and graphic novels, 
+see the Library of Congress Classification and Shelflisting Manual F 565. 
+For works that consist of selections from a comic strip or single panel cartoon, as well as for 
+works about a comic strip or cartoon, it is descriptive cataloging policy to provide an added 
+entry for the title of the strip or cartoon when that title differs from the work being cataloged, 
+and to justify the added entry by means of a note if necessary. Descriptive catalogers are 
+responsible for establishing these headings. 
+C. Definitions 
+The following definitions apply for the purposes of this instruction sheet. 
+Consider to be a comic book: 
+• A collection or selection of comic strips or cartoons; 
+• A comic book cataloged as a serial; or, 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Comics and Comic Characters H 1430 | Page 3 
+ 
+ 
+• Selected issues of serial comics that have been collected and republished as 
+monographs. 
+Consider to be a graphic novel any work created specifically for the publication in hand and that 
+is complete, or intended to be complete, in one or more volumes. 
+Comics and graphic novels are considered a form that includes both the written word and visual 
+art. They include both fiction and nonfiction genres. 
+D. General rule 
+Assign terms from Library of Congress Genre/Form Terms (LCGFT) (e.g., *Comics (Graphic 
+works)*; *Graphic novels*) according to the guidelines in J 110 of the Library of Congress 
+Genre/Form Terms Manual. In case of doubt, assign the LCGFT term *Comics (Graphic works)*. 
+LC practice: Assign subject headings according to the guidelines in section E below, which follow 
+general principles for fiction presented in H 1790, section E. For an alternative approach to 
+fictional comics, see the section I below. 
+E. Selections of comic strips or cartoons and original works of fiction, including 
+graphic novels 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Comics (Graphic works)*, *Graphic novels*, or *Detective and mystery comics*. To replace a 
+form subdivision that includes a demographic group, also assign Library of Congress 
+Demographic Group Terms (LCDGT) to bring out the audience of the resource being cataloged, 
+e.g. *Children*. 
+E.1. Biographical fiction 
+Assign the heading *[name of biographee]--Comic books, strips, etc.*. 
+LC practice: Do not use a form subdivision of the type *--Comic books, strips, etc.*. Instead, 
+assign an appropriate term or terms from LCGFT, e.g. *Comics (Graphic works)* or *Graphic 
+novels*. To replace a form subdivision that includes a demographic group, also assign LCDGT to 
+bring out the audience of the resource being cataloged, e.g. *Children*. 
+Example: 
+Title: Aristotle : a graphic biography. 
+600 10 $a Aristotle $v Comic books, strips, etc. 
+650 #0 $a Philosophers $z Greece $v Biography $v Comic books, strips, etc. 
+650 #0 $a Philosophy, Ancient $v Comic books, strips, etc. 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Comics and Comic Characters H 1430 | Page 4 
+ 
+ 
+LC practice: 
+600 10 $a Aristotle. 
+650 #0 $a Philosophers $z Greece. 
+650 #0 $a Philosophy, Ancient. 
+655 #7 $a Biographical comics. $2 lcgft 
+655 #7 $a Comics (Graphic works) $2 lcgft 
+655 #7 $a Biographies. $2 lcgft 
+E.2. Historical fiction 
+Assign headings for specific historical events, periods, etc., with the subdivision *--Comic books, 
+strips, etc.*, e.g. *World War, 1939 1945--Comic books, strips, etc.*; *San Francisco 
+Earthquake and Fire, Calif., 1906--Comic books, strips, etc.*. 
+Do not assign a heading of this type when the event or period is merely the backdrop to a story. 
+Assign it only when the event or period is the principal focus of the work. 
+Interpret the term *historical fiction* broadly to include works about entities such as 
+movements, corporate bodies or other jurisdictions, camps, parks, structures, geographical 
+features other than regions, ethnic groups, disasters, categories of events, etc. 
+LC practice: Do not use a form subdivision of the type *--Comic books, strips, etc.*. Instead 
+assign an appropriate term or terms from LCGFT, e.g. *Comics (Graphic works)* or *Historical 
+comics*. To replace a form subdivision that includes a demographic group, also assign LCDGT to 
+bring out the audience of the resource being cataloged, e.g. *Children*.  
+Example: 
+Title: The lions of Leningrad. 
+650 #0 $a World War, 1939-1945 $z Soviet Union $v Comic books, strips, etc. 
+651 #0 $a Saint Petersburg (Russia) $x History $y Siege, 1941-1944 $v Comic 
+books, strips, etc. 
+LC practice: 
+650 #0 $a World War, 1939-1945 $z Soviet Union. 
+651 #0 $a Saint Petersburg (Russia) $x History $y Siege, 1941-1944. 
+655 #7 $a Historical comics. $2 lcgft 
+655 #7 $a Graphic novels. $2 lcgft 
+E.3. Animal stories 
+Assign the heading *Animals--Comic books, strips, etc.* to individual novels or stories about 
+animals in general. For a work about a specific type of animal, assign a heading for the type of 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Comics and Comic Characters H 1430 | Page 5 
+ 
+ 
+animal with the subdivision *--Comic books, strips, etc.*, e.g. *Horses--Comic books, strips, 
+etc.*. 
+LC practice: Do not use a form subdivision of the type *--Comic books, strips, etc.*. Instead 
+assign an appropriate term or terms from LCGFT, e.g. *Comics (Graphic works)* or *Animal 
+comics*. To replace a form subdivision that includes a demographic group, also assign LCDGT to 
+bring out the audience of the resource being cataloged, e.g. *Children*.  
+Example: 
+Title: Elephants : living large. 
+650 #0 $a Elephants $v Comic books, strips, etc. 
+650 #0 $a Elephants $v Juvenile literature. 
+LC practice: 
+650 #0 $a Elephants. 
+655 #7 $a Animal comics. $2 lcgft 
+655 #7 $a Graphic novels. $2 lcgft 
+655 #7 $a Nonfiction comics. $2 lcgft 
+385 ## $a Children $2 lcdgt 
+E.4. Assignment of additional form subdivisions 
+The form subdivision *--Comic books, strips, etc.* denotes both fiction and non-fiction works. 
+In general, other form subdivisions may be added or interposed if necessary, e.g. *--Biography--
+Comic books, strips, etc.*; *--Comic books, strips, etc.--Periodicals*. 
+However, do not add form subdivisions for juvenile literature to *--Comic books, strips, etc.*. 
+For juvenile works assign an additional heading subdivided by *--Juvenile literature* (for 
+nonfiction works) or *--Juvenile fiction*. 
+LC practice: Do not use a form subdivision of the type *--Comic books, strips, etc.*, *--
+Biography*, *--Juvenile fiction*, etc. Instead assign an appropriate term or terms from LCGFT, 
+e.g. *Comics (Graphic works)*, *Biographies*, etc. To replace a form subdivision that includes 
+a demographic group, also assign LCDGT to bring out the audience of the resource being 
+cataloged, e.g. *Children*.  
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | Comics and Comic Characters H 1430 | Page 6 
+ 
+ 
+F. Comics characters 
+F.1. Establishing headings for characters 
+Establish new subject headings for groups of characters in graphic novels, comic strips, or single 
+panel cartoons under their names (cf. H 1610). Names of individual characters are established 
+in the name authority file. 
+F.2. Assignment of headings for individual characters or groups of characters 
+Assign such headings to works of criticism about a particular comic or cartoon character. If 
+appropriate, assign also the heading for the strip or cartoon itself. Do not use the subdivision *-
+-History and criticism*. Do not assign headings for characters to fictional works featuring the 
+characters unless following the guidelines in section I below. 
+G. Nonfiction written in comic book or graphic novel style 
+Assign the appropriate subject heading array. Subdivide each heading by *--Comic books, 
+strips, etc.*. Also assign a genre/form term from LCGFT (e.g., *Graphic novels*) according to 
+the guidelines in the LCGFT manual. 
+LC practice: Do not use a form subdivision of the type *--Comic books, strips, etc.*. Instead 
+assign an appropriate term or terms from LCGFT, e.g. *Comics (Graphic works)*, *Nonfiction 
+comics*, etc. To replace a form subdivision that includes a demographic group, also assign 
+LCDGT to bring out the audience of the resource being cataloged, e.g. *Children*.  
+Example: 
+Title: The graphic history of hip hop. 
+650 #0 $a Hip-hop $v Comic books, strips, etc. 
+650 #0 $a Hip-hop $x History $v Comic books, strips, etc. 
+650 #0 $a Rap (Music) $x History $v Comic books, strips, etc. 
+LC practice: 
+650 #0 $a Hip-hop. 
+650 #0 $a Hip-hop $x History. 
+650 #0 $a Rap (Music) $x History. 
+655 #7 $a Comics (Graphic works) $2 lcgft 
+655 #7 $a Nonfiction comics. $2 lcgft 
+
+
+<<<PAGE 7>>>
+Subject Headings Manual | Comics and Comic Characters H 1430 | Page 7 
+ 
+ 
+H. History and criticism 
+H.1. General rule 
+For works about particular themes in comics, assign as many headings as necessary to bring out 
+the form (with subdivision *--History and criticism*) and the topic(s) (normally using headings 
+of the type *[topic] in comics*).  
+Note: Headings of the type *[topic] in comics*, the free-floating subdivision *--In comics*, and 
+the non-free-floating subdivision *--Comics and the war, [revolution, uprising, etc.]* were 
+authorized for use effective March 2022. 
+Examples: 
+650 #0 $a Comic books, strips, etc. $z United States $x History and 
+criticism.  
+650 #0 $a Politics in comics. 
+650 #0 $a Korean War, 1950-1953 $x Comics and the war. 
+H.2. Works about individual graphic novels, comic strips, or cartoons 
+Assign the authorized title or name-title heading for a graphic novel, comic strip, or single panel 
+cartoon to works about such comics. 
+H.3. Works about graphic novels, comic strips, or cartoons, treated collectively 
+Assign form and topical headings following the general principles in H 180 to bring out the form 
+(e.g., *Graphic novels*; *Science fiction comic books, strips, etc.*), place of origin, and/or 
+special topics discussed. Subdivide form headings by *--History and criticism* (e.g., *Graphic 
+novels--History and criticism*).  
+H.4. Comics about individual persons and families 
+For criticism of comics about particular individuals or families, including dynasties and royal 
+houses, assign the name of the person or family with the free-floating subdivision *--In 
+comics*. 
+Examples: 
+600 10 $a Hemingway, Ernest, $d 1899-1961 $x In comics. 
+600 10 $a Shakespeare, William, $d 1564-1616 $x In comics. 
+600 30 $a Romanov, House of $x In comics. 
+600 30 $a Bender family $x In comics. 
+
+
+<<<PAGE 8>>>
+Subject Headings Manual | Comics and Comic Characters H 1430 | Page 8 
+ 
+ 
+H.5. Comics about imaginary persons 
+For criticism of comics about particular imaginary individuals, assign the name of the person. 
+Also assign if appropriate for the work the name of the author with the subdivision                     
+*--Characters* (cf. H 1610). 
+Example: 
+600 10 $a Doyle, Arthur Conan, $c Sir, $d 1859-1930 $x Characters. 
+600 10 $a Holmes, Sherlock. 
+H.6. Comics about individual corporate bodies, places, and sacred works 
+For criticism of comics about particular corporate bodies, places, or sacred works, assign the 
+name of the entity with the free-floating subdivision *--In comics*. 
+Examples: 
+610 10 $a United States. $b Federal Bureau of Investigation $x In comics. 
+651 #0 $a Tahiti (French Polynesia : Island) $x In comics. 
+630 00 $a Bible $x In comics. 
+630 00 $a Qurʼan $x In comics. 
+H.7. Comics about wars and similar events 
+For works about the comics of a specific war, revolution, uprising, etc., assign *[name of     
+event]--Comics and the war, [revolution, uprising, etc.]* as a topical heading (cf. H 1200). 
+Note: The free-floating subdivisions under Wars (H 1200) will not include this subdivision. 
+Establish editorially all instances of this subdivision, in accordance with the policy in H 1090. 
+Examples: 
+650 #00 $a World War, 1939-1945 $x Comics and the war. 
+651 #0 $a Algeria $x History $y Revolution, 1954-1962 $x Comics and the 
+revolution. 
+I. Special provisions for increased subject access to fictional comics 
+I.1. Application of special provisions 
+The Library of Congress applies special provisions for increased subject access to fictional 
+comics as internal resources permit. As of April 2022, these provisions may be applied to 
+cataloging for current acquisitions of fictional comic strips, cartoons, and graphic novels. As of 
+2026, it is no longer LC practice to assign headings that include form subdivisions. 
+
+
+<<<PAGE 9>>>
+Subject Headings Manual | Comics and Comic Characters H 1430 | Page 9 
+ 
+ 
+I.2. General principles 
+The assignment of subject headings to individual works of fictional comics is intended to 
+provide the library users with an additional method of discovering and selecting comics. Several 
+types of subject headings are available to provide this access. Any, all, or none of the following 
+categories of headings may be appropriate for an individual fictional comic: form/genre, 
+character, setting, topic. These headings should be assigned only as they come readily to mind 
+after an initial review of the work being cataloged. 
+I.3. Form and genre headings 
+Select an appropriate term or terms from Library of Congress Genre/Form Terms for Library and 
+Archival Materials (LCGFT), for example, *Biographical comics*; *Spy comics*. Assign terms 
+from LCGFT in accordance with the instructions in J 235 of the LCGFT manual. For MARC coding 
+of LCGFT, see J 105. 
+I.4. Character(s) 
+I.4.a. Individual characters 
+If the work prominently features a real person, a legendary character, or other major character 
+not created by the author of the work, assign a subject heading for the name of the character 
+with the subdivision *--Comic books, strips, etc.*. If the primary character is a fictitious 
+character created by the author, assign a subject heading only if the character appears in three 
+or more works. For instructions on establishing subject headings for fictitious characters see H 
+1610. 
+LC practice: Do not use a form subdivision of the type *--Comic books, strips, etc.*. Instead 
+assign an appropriate term or terms from LCGFT, e.g. *Comics (Graphic works)*, *Graphic 
+novels*, etc. To replace a form subdivision that includes a demographic group, also assign 
+LCDGT to bring out the audience of the resource being cataloged, e.g. *Children*.  
+Note: Fictitious characters may be borrowed by an author from another author, or from 
+another source, and used in the creation of a new work. Assign the same heading to works by 
+the original creator of the character and to works in which the character has been borrowed.  
+Assign a separate heading when characters share a name but are clearly unrelated to each 
+other. 
+Example: 
+600 00 $a Guardian $c (Fictitious character from DC Comics, Inc.) $v Comic 
+books, strips, etc. 
+LC practice: 
+
+
+<<<PAGE 10>>>
+Subject Headings Manual | Comics and Comic Characters H 1430 | Page 10 
+ 
+ 
+600 00 $a Guardian $c (Fictitious character from DC Comics, Inc.)  
+655 #7 $a Superhero comics. $2 lcgft 
+ 
+Example: 
+600 00 $a Guardian $c (Fictitious character from Marvel Comics Group) $v 
+Comic books, strips, etc. 
+LC practice: 
+600 00 $a Guardian $c (Fictitious character from Marvel Comics Group)  
+655 #7 $a Superhero comics. $2 lcgft 
+I.4.b. Classes of persons 
+A heading may also be assigned for the class of persons to which the primary character belongs 
+if that class of persons is established and is likely to be sought by library users, for example, 
+women detectives or teenage superheroes. Generally follow the same principles that are used 
+for selecting class-of-persons headings for individual biographies (cf. H 1330). Subdivide the 
+heading with the subdivision *--Comic books, strips, etc.*. 
+LC practice: Do not use a form subdivision of the type *--Comic books, strips, etc.*. Instead 
+assign an appropriate term or terms from LCGFT, e.g. *Comics (Graphic works)*, *Graphic 
+novels*, etc. To replace a form subdivision that includes a demographic group, also assign 
+LCDGT to bring out the audience of the resource being cataloged, e.g. *Children*.  
+I.5. Setting 
+Assign a subject heading for a place, event, or time period that is featured prominently in an 
+individual work. Subdivide the heading with the subdivision *--Comic books, strips, etc.*. Since 
+almost all fictitious works have a specific place and time, assign these headings only if the place 
+or time is significant. Generally do not assign headings for a time period that is 
+contemporaneous to the period in which the work was written, for example, do not express the 
+19th-century setting of a work that was written in the 19th century.  
+Assign a subject for an imaginary place or organization only if the place appears in three or 
+more works. The place of the work may also be included as a subdivision of a topical heading, in 
+accordance with normal subject cataloging practice, either in addition to a separate heading for 
+place or as a substitute for a separate heading. Subdivide the heading with the subdivision *--
+Comic books, strips, etc.*. 
+LC practice: Do not use a form subdivision of the type *--Comic books, strips, etc.*. Instead 
+assign an appropriate term or terms from LCGFT, e.g. *Comics (Graphic works)*, *Graphic 
+
+
+<<<PAGE 11>>>
+Subject Headings Manual | Comics and Comic Characters H 1430 | Page 11 
+ 
+ 
+novels*, etc. To replace a form subdivision that includes a demographic group, also assign 
+LCDGT to bring out the audience of the resource being cataloged, e.g. *Children*.  
+I.6. Topical access 
+Assign headings for specific topics that are the focal point of a fictional comic. Assign headings 
+only for topics that have been made explicit by the author or publisher, such as those topics 
+that are mentioned in the title, series, introductory matter, dustjacket, or other prominent 
+location. The purpose of the topical heading is to provide access for those topics that 
+distinguish the work from most other works.  
+Do not assign headings for vague and general topics, such as fate, evil, belief, psychology, 
+interpersonal relations, emotions, social customs, or community life. The same principle of 
+specificity should be applied as is used in non-literary cataloging. Do not assign both a broader 
+and more specific heading to the same work; assign only the most specific heading that is 
+appropriate. Some will have no topical heading.  
+Subdivide the heading with the subdivision *--Comic books, strips, etc.*. 
+LC practice: Do not use a form subdivision of the type *--Comic books, strips, etc.*. Instead 
+assign an appropriate term or terms from LCGFT, e.g. *Comics (Graphic works)*, *Graphic 
+novels*, etc. To replace a form subdivision that includes a demographic group, also assign 
+LCDGT to bring out the audience of the resource being cataloged, e.g. *Children*.  
+J. Examples 
+Title: Superman, Batman. 
+[selected issues of a comic serial republished as a monograph] 
+655 #7 $a Comics (Graphic works) $2 lcgft 
+655 #7 $a Superhero comics. $2 lcgft 
+ 
+Title: The white lama. 
+[original work complete in six volumes] 
+655 #7 $a Graphic novels. $2 lcgft 
+ 
+Title: The battle of the Alamo. 
+[nonfiction work about the Alamo] 
+651 #0 $a Alamo (San Antonio, Texas) $x Siege, 1836 $v Comic books, strips, 
+etc. 
+655 #7 $a Graphic novels. $2 lcgft 
+655 #7 $a Historical comics. $2 lcgft 
+
+
+<<<PAGE 12>>>
+Subject Headings Manual | Comics and Comic Characters H 1430 | Page 12 
+ 
+ 
+655 #7 $a War comics. $2 lcgft 
+655 #7 $a Nonfiction comics. $2 lcgft 
+LC practice: 
+651 #0 $a Alamo (San Antonio, Texas) $x Siege, 1836. 
+655 #7 $a Graphic novels. $2 lcgft 
+655 #7 $a Historical comics. $2 lcgft 
+655 #7 $a War comics. $2 lcgft 
+655 #7 $a Nonfiction comics. $2 lcgft 
+ 
+Title: The Peanuts papers : writers and cartoonists on Charlie Brown, 
+Snoopy & the Gang, and the meaning of life. 
+600 10 $a Schulz, Charles M. $q (Charles Monroe), $d 1922-2000. $t Peanuts.  
+600 10 $a Schulz, Charles M. $q (Charles Monroe), $d 1922-2000 $x 
+Characters. 
+600 10 $a Brown, Charlie $c (Fictitious character) 
+600 00 $a Snoopy $c (Fictitious character) 
+655 #7 $a Comics criticism. $2 lcgft 
+ 
+Title: Considering Maus : approaches to Art Spiegelman’s “Survivor’s 
+tale” of the Holocaust. 
+600 10 $a Spiegelman, Art. $t Maus. 
+650 #0 $a Holocaust, Jewish (1939-1945), in comics. 
+655 #7 $a Comics criticism. $2 lcgft 
+ 
+Title: Webslinger : unauthorized essays on your friendly neighborhood 
+Spider-Man. 
+[work of history and criticism] 
+600 00 $a Spider-Man $c (Fictitious character) 
+655 #7 $a Essays. $2 lcgft 
+655 #7 $a Comics criticism. $2 lcgft 
+ 
+Title: The 10 cent war : comic books, propaganda, and World War II. 
+[work of history and criticism] 
+650 #0 $a Comic books, strips, etc. $z United States $x History and 
+criticism. 
+650 #0 $a World War, 1939-1945 $x Comics and the war. 
+
+
+<<<PAGE 13>>>
+Subject Headings Manual | Comics and Comic Characters H 1430 | Page 13 
+ 
+ 
+650 #0 $a National characteristics, American, in comics. 
+650 #0 $a Literature and society $z United States $x History $y 20th 
+century. 
+655 #7 $a Comics criticism. $2 lcgft 
+ 
+Title: Korean War comic books. 
+[work of history and criticism] 
+650 #0 $a Comic books, strips, etc. $z United States $x History and 
+criticism. 
+650 #0 $a Korean War, 1950-1953 $x Comics and the war. 
+650 #0 $a Censorship $z United States $x History $y 20th century. 
+650 #0 $a War in comics. 
+655 #7 $a Comics criticism. $2 lcgft 
+ 
+Title: Calamity Jane : the calamitous life of Martha Jane Cannary, 
+1852- 1903. 
+600 00 $a Calamity Jane, $d 1856-1903 $v Comic books, strips, etc. 
+650 #0 $a Women pioneers $z West (U.S.) $v Biography $v Comic books, strips, 
+etc. 
+650 #0 $a Frontier and pioneer life $v Comic books, strips, etc. 
+655 #7 $a Biographical comics. $2 lcgft 
+655 #7 $a Graphic novels. $2 lcgft 
+LC practice: 
+600 00 $a Calamity Jane, $d 1856-1903. 
+650 #0 $a Women pioneers $z West (U.S.)  
+650 #0 $a Frontier and pioneer life. 
+655 #7 $a Biographical comics. $2 lcgft 
+655 #7 $a Graphic novels. $2 lcgft 
+ 
+Title: Scooby apocalypse. 
+[monthly comic book] 
+600 00 $a Scooby-Doo $c (Fictitious character) $v Comic books, strips, etc. 
+$v Periodicals. 
+650 #0 $a Dogs $v Comic books, strips, etc. $v Periodicals. 
+655 #7 $a Comics (Graphic works) $2 lcgft 
+655 #7 $a Apocalyptic comics. $2 lcgft 
+
+
+<<<PAGE 14>>>
+Subject Headings Manual | Comics and Comic Characters H 1430 | Page 14 
+ 
+ 
+655 #7 $a Horror comics. $2 lcgft 
+655 #7 $a Periodicals. $2 lcgft 
+LC practice: 
+600 00 $a Scooby-Doo $c (Fictitious character)  
+650 #0 $a Dogs. 
+655 #7 $a Comics (Graphic works) $2 lcgft 
+655 #7 $a Apocalyptic comics. $2 lcgft 
+655 #7 $a Horror comics. $2 lcgft 
+655 #7 $a Periodicals. $2 lcgft 
+ 
+Title: The empty man : recurrence. 
+[selected issues of a comic serial republished as a monograph] 
+650 #0 $a Pandemics $v Comic books, strips, etc. 
+650 #0 $a Families $v Comic books, strips, etc. 
+610 10 $a United States. $b Federal Bureau of Investigation $v Comic books, 
+strips, etc. 
+610 20 $a Centers for Disease Control and Prevention (U.S.) $v Comic books, 
+strips, etc. 
+650 #0 $a Cults $v Comic books, strips, etc. 
+650 #0 $a Quarantine $v Comic books, strips, etc. 
+655 #7 $a Comics (Graphic works) $2 lcgft 
+655 #7 $a Graphic medicine (Comics) $2 lcgft 
+655 #7 $a Dystopian comics. $2 lcgft 
+LC practice: 
+650 #0 $a Pandemics. 
+650 #0 $a Families. 
+610 10 $a United States. $b Federal Bureau of Investigation. 
+610 20 $a Centers for Disease Control and Prevention (U.S.) 
+650 #0 $a Cults. 
+650 #0 $a Quarantine. 
+655 #7 $a Comics (Graphic works) $2 lcgft 
+655 #7 $a Graphic medicine (Comics) $2 lcgft 
+655 #7 $a Dystopian comics. $2 lcgft 
+ 
+Title: Superb. Vol. 1, Life after the fallout. 
+
+
+<<<PAGE 15>>>
+Subject Headings Manual | Comics and Comic Characters H 1430 | Page 15 
+ 
+ 
+[selected issues of a comic serial republished as a monograph] 
+650 #0 $a Superheroes $v Comic books, strips, etc. 
+650 #0 $a Superheroes with disabilities $v Comic books, strips, etc. 
+650 #0 $a Teenage superheroes $v Comic books, strips, etc. 
+650 #0 $a Down syndrome $x Patients $v Comic books, strips, etc. 
+650 #0 $a Robots $v Comic books, strips, etc. 
+651 #0 $a Youngstown (Ohio) $v Comic books, strips, etc. 
+655 #7 $a Comics (Graphic works) $2 lcgft 
+655 #7 $a Superhero comics. $2 lcgft 
+655 #7 $a Science fiction comics. $2 lcgft 
+LC practice: 
+650 #0 $a Superheroes. 
+650 #0 $a Superheroes with disabilities. 
+650 #0 $a Teenage superheroes. 
+650 #0 $a Down syndrome. 
+650 #0 $a Robots. 
+651 #0 $a Youngstown (Ohio)  
+655 #7 $a Comics (Graphic works) $2 lcgft 
+655 #7 $a Superhero comics. $2 lcgft 
+655 #7 $a Science fiction comics. $2 lcgft 
+ 
+Title: Whistle : a new Gotham City hero. 
+[a graphic novel for young adults] 
+650 #0 $a Ability $v Comic books, strips, etc. 
+650 #0 $a Ability $v Juvenile fiction. 
+650 #0 $a Gotham City (Imaginary place) $v Comic books, strips, etc. 
+650 #0 $a Gotham City (Imaginary place) $v Juvenile fiction. 
+600 00 $a Riddler $c (Fictitious character) $v Comic books, strips, etc. 
+600 00 $a Riddler $c (Fictitious character) $v Juvenile fiction. 
+650 #0 $a Women superheroes $v Comic books, strips, etc. 
+650 #0 $a Women superheroes $v Juvenile fiction. 
+650 #0 $a Jewish superheroes $v Comic books, strips, etc. 
+650 #0 $a Jewish superheroes $v Juvenile fiction. 
+650 #0 $a Superheroes $v Comic books, strips, etc. 
+650 #0 $a Superheroes $v Juvenile fiction. 
+
+
+<<<PAGE 16>>>
+Subject Headings Manual | Comics and Comic Characters H 1430 | Page 16 
+ 
+ 
+655 #7 $a Graphic novels. $2 lcgft 
+655 #7 $a Superhero comics. $2 lcgft 
+655 #7 $a Science fiction comics. $2 lcgft 
+LC practice: 
+650 #0 $a Ability. 
+650 #0 $a Gotham City (Imaginary place)  
+600 00 $a Riddler $c (Fictitious character)  
+650 #0 $a Women superheroes. 
+650 #0 $a Jewish superheroes. 
+650 #0 $a Superheroes. 
+655 #7 $a Graphic novels. $2 lcgft 
+655 #7 $a Superhero comics. $2 lcgft 
+655 #7 $a Science fiction comics. $2 lcgft 
+385 ## $a Teenagers $2 lcdgt 
+Revision history 
+2026-02: Replaced LCGFT *Literary criticism* with *Comics criticism* in example. 
+2026-01: Updated template. Added instructions related to LCGFT implementation. 

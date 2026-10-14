@@ -1,0 +1,240 @@
+
+
+<<<PAGE 1>>>
+ 
+Streets and Roads  H 2098 
+  
+ 
+ 
+Subject Headings Manual 
+H 2098 Page 1 
+ 
+August 2018 
+BACKGROUND:  Because streets and roads have some characteristics of geographic features 
+and some characteristics of structures, special provisions apply in constructing and qualifying 
+headings for these entities.  This instruction sheet describes these special provisions. 
+ 
+ 
+ 
+ 
+1.  Formulating the heading.  Establish a heading for a street or road directly under its own 
+name in the vernacular of the country in which it is located.  Use the form of name found to be 
+in predominant usage after doing authority research.  If the vernacular form cannot be found in 
+the work cataloged or in readily available reference sources, establish the heading 
+“provisionally,” as described in H 1334, sec. 2.c.(3).  For streets that have numerical names 
+below one hundred, spell out ordinal numerals. Examples: 
+ 
+ 
+151 ## $a Forty-seventh Street (Seattle, Wash.) 
+151 ## $a One Hundred Twenty-fifth Street (New York, N.Y.) 
+[but 151 ## $a Avenida 18 de Julio (Montevideo, Uruguay)] 
+ 
+ 
+ 
+2.  Qualifying the heading. 
+ 
+ 
+a.  Streets or roads wholly outside of cities.  Qualify according to the principles 
+described in H 1334.  Examples: 
+ 
+ 
+151 ## $a Rodovia Transamazônica (Brazil) 
+151 ## $a New York State Thruway (N.Y.) 
+151 ## $a George Washington Memorial Parkway (Va. and  
+          Washington, D.C.) 
+151 ## $a Interstate 77 
+ 
+ 
+Follow these principles also for roads that pass through or link cities but are 
+predominantly located outside the city or cities. 
+ 
+
+
+<<<PAGE 2>>>
+H 2098  Streets and Roads 
+ 
+ 
+ 
+H 2098 Page 2 
+Subject Headings Manual 
+August 2018 
+2.  Qualifying the heading.  (Continued) 
+ 
+ 
+b.  Streets or roads in cities.  Qualify by the name of the city in which the street is located. 
+Examples: 
+ 
+151 ## $a Jarvis Street (Toronto, Ont.) 
+151 ## $a Bond Street (London, England) 
+ 
+ 
+If it is necessary to resolve a conflict between two or more streets with the same name in 
+the same city, use the name of a borough, city section, etc. to create a unique heading.  
+Examples: 
+ 
+ 
+151 ## $a Seventh Avenue (Manhattan, New York, N.Y.) 
+151 ## $a Seventh Avenue (Brooklyn, New York, N.Y.) 
+151 ## $a High Road (Haringey, London, England) 
+ 
+ 
+ 
+Streets in Washington, D.C.  Do not include in the heading or qualifier the name 
+of the quadrant or city section in which the street is located, even to resolve 
+conflicts.  Instead use the same heading to designate the street in any of the four 
+quadrants.  Example: 
+ 
+ 
+151 ## $a M Street (Washington, D.C.) 
+  [not 151 ## $a M Street N.W. (Washington, D.C.)] 
+  [not 151 ## $a M Street (Georgetown, Washington, D.C.)] 
+ 
+ 
+ 
+Treat a street that originates in a city and is generally associated with the city as being in 
+the city, even though it may extend somewhat beyond the city limits.  Qualify by the 
+name of the city with which the street is associated.  Examples: 
+ 
+151 ## $a Pennsylvania Avenue (Washington, D.C.) 
+151 ## $a Main Street (Buffalo, N.Y.) 
+ 
+
+
+<<<PAGE 3>>>
+ 
+Streets and Roads  H 2098 
+  
+ 
+ 
+Subject Headings Manual 
+H 2098 Page 3 
+ 
+August 2018 
+3.  References.  Add 451 fields for any variant forms found.  If the street or road name has a 
+generic term in the initial position, also add a 451 field from a form constructed with the proper 
+name in the initial position and with the generic term translated into English.  Example: 
+ 
+151 ## $a Calle de los Herreros (Villafranca del Panadés, 
+            Spain) 
+451 ## $a Carrer dels Terrers (Villafranca del 
+            Panadés, Spain) 
+451 ## $a Herreros Street (Villafranca del Panadés, 
+            Spain) 
+451 ## $a Terrers Street (Villafranca del Panadés, 
+            Spain) 
+ 
+Add a 550 (broader term) field from either the heading StreetsC[place], RoadsC[place], or from 
+a more specific heading such as Express highwaysC[place], ParkwaysC[place], etc., if 
+applicable.  Divide these references only to the level of the country (or first order political 
+division in the case of Canada, Great Britain, and the United States). Do not add a 551 field from 
+a [city]C[topic] heading.  Instead, when appropriate, assign a heading of that type, for example, 
+[city]CDescription and travel, to the work being cataloged. 
+ 
+ 
+4. A road that is a segment of a larger road. Segments of roads that have separate proper names 
+(e.g., a segment named for a person or event; a segment named for a local place) may be 
+established according to the guidelines in sec. 1-3 above. In addition to the references described 
+in sec. 3, include an additional 551 (broader term) field from the name of the larger road if it has 
+been established. Example: 
+ 
+ 
+151 ## $a Lewis-Clark Highway (Idaho and Mont.) 
+550 ## $w g $a Roads $z Idaho 
+550 ## $w g $a Roads $z Montana 
+551 ## $w g $a United States Highway 12 
+ 
+ 
+151 ## $a Chinook State Byway (Wash.) 
+550 ## $w g $a Scenic byways $z Washington (State) 
+551 ## $w g $a Washington State Route 410 (Wash.) 
+ 
+ 
+Propose a heading for the road as a whole if the segment has only a numeric designator. For 
+example, a heading for State Road 170 should be proposed for a work on Segment 2 of State 
+Road 170. 
+ 
+ 
+
+
+<<<PAGE 4>>>
+H 2098  Streets and Roads 
+ 
+ 
+ 
+H 2098 Page 4 
+Subject Headings Manual 
+August 2018 
+5.  Express highway interchanges.  Establish a heading for a specific interchange on an 
+express highway under its own name in the vernacular of the country in which it is located.  Tag 
+it 151. Qualify it by the name of the express highway with which it is associated.  Provide 451 
+fields from any variant forms found, qualified by the name of the highway.  Add a 550 (broader 
+term) reference from the heading Express highway interchangesB[place].  Divide this 
+reference to the level of the country (or first order political division in the case of Canada, Great 
+Britain, and the United States) in which the interchange is located, regardless of how the heading 
+for the highway is qualfied.  Also add a 551 (broader term) reference from the heading for the 
+highway.  Add a 667 field with the text “This heading is not valid for use as a geographic 
+subdivision.”  Example: 
+ 
+151 ## $a Nisqually Interchange (Interstate 5) 
+451 ## $a Nisqually Flats Interchange (Interstate 5) 
+550 ## $w g $a Express highway interchanges $z Washington (State) 
+551 ## $w g $a Interstate 5 
+667 ## $a This heading is not valid for use as a geographic 
+            subdivision. 
+ 
+ 
+6.  Examples of headings for streets and roads. 
+  
+ 
+151 ## $a Cumberland Road 
+451 ## $a Great National Pike 
+451 ## $a National Road (Cumberland Road) 
+451 ## $a Old National Road 
+451 ## $a Old Pike 
+550 ## $w g $a Roads $z United States 
+551 ## $w g $a United States Highway 40 
+ 
+ 
+ 
+151 ## $a United States Highway 40 
+451 ## $a Highway 40 (U.S.) 
+451 ## $a Route 40 (U.S.) 
+451 ## $a U.S. 40 
+451 ## $a U.S. Highway 40 
+451 ## $a United States Route 40 
+550 ## $w g $a Roads $z United States 
+ 
+ 
+151 ## $a Third Street (Yreka, Calif.) 
+451 ## $a 3rd Street (Yreka, Calif.) 
+550 ## $w g $a Streets $z California 
+ 
+ 
+
+
+<<<PAGE 5>>>
+ 
+Streets and Roads  H 2098 
+  
+ 
+ 
+Subject Headings Manual 
+H 2098 Page 5 
+ 
+August 2018 
+6.  Examples of headings for streets and roads.  (Continued) 
+ 
+ 
+151 ## $a East Papago Freeway (Phoenix, Ariz.) 
+550 ## $w g $a Express highways $z Arizona 
+ 
+ 
+151 ## $a Crêt-Vaillant (Locle, Switzerland) 
+451 ## $a Rue du Crêt-Vaillant (Locle, Switzerland) 
+550 ## $w g $a Streets $z Switzerland 
+ 
+ 
+151 ## $a Interstate 77 
+451 ## $a I-77 
+451 ## $a Interstate Highway 77 
+550 ## $w g $a Express highways $z United States 

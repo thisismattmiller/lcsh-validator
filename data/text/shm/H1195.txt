@@ -1,0 +1,294 @@
+
+
+<<<PAGE 1>>>
+ 
+Pattern Headings: Land Vehicles  H 1195 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1195 Page 1 
+ 
+November 2020 
+PATTERN:  Automobiles 
+ 
+TYPES OF HEADINGS COVERED BY THE PATTERN:  Headings for types of motorized 
+vehicles used on land, including the heading Motor vehicles and headings for individual makes 
+or models of land vehicles.  Examples:  Buses; Dune buggies; Farm tractors; Sports cars; 
+Tanks (Military science); Trucks; Harley-Davidson motorcycle; Leopard (Tank); Mustang 
+automobile. 
+ 
+ 
+CONFLICTS:  Any subdivision listed here can be used as a free-floating subdivision under any 
+heading belonging to the category if it is appropriate and no conflict exists in the subject 
+authority file.  Subject authority records may exist for headings employing variant phrases or 
+subdivisions equivalent to subdivisions on this list. 
+ 
+LC practice: 
+If an exceptional variant form is to be retained, make a UF reference from the equivalent 
+free-floating subdivision form following the procedures in H 195 if the reference does not yet 
+exist.  Otherwise, submit a proposal to change the variant form along with all bibliographic 
+records requiring correction following the procedures in H 193. 
+ 
+Note:  Most form subdivisions coded $v in this list may also be used as topical 
+subdivisions coded $x when assigned to works about the form (see H 1075, sec. 1.d.). 
+ 
+$x Aerodynamics 
+$x Air conditioning  (May Subd Geog) 
+$x Air disc brakes 
+$x Air suspension   (May Subd Geog) 
+$x Anti-theft devices 
+$x Antilock brake systems 
+$x Audio equipment  (May Subd Geog) 
+$x Automatic control 
+$x Axles 
+$x Batteries  (May Subd Geog) 
+$x Bearings  (May Subd Geog) 
+$x Bodies  (May Subd Geog) 
+$x Bodies $x Alignment  (May Subd Geog) 
+
+
+<<<PAGE 2>>>
+H 1195  Pattern Headings: Land Vehicles 
+ 
+ 
+H 1195 Page 2 
+Subject Headings Manual 
+November 2020 
+$x Bodies $x Parts  (May Subd Geog) 
+$x Brakes 
+$x Breaking in 
+$x Bumpers  
+$x Catalytic converters 
+$x Chassis 
+$x Climatic factors  (May Subd Geog) 
+$x Clutches   (May Subd Geog) 
+$x Cold weather operation  (May Subd Geog) 
+$x Collectors and collecting  (May Subd Geog) 
+$x Collision avoidance systems  (May Subd Geog) 
+$x Collision damage  (May Subd Geog) 
+$x Conservation and restoration   (May Subd Geog) 
+$x Corrosion  (May Subd Geog) 
+$x Cost of operation 
+$x Crash tests  (May Subd Geog) 
+$x Crashworthiness  (May Subd Geog) 
+$x Customizing  (May Subd Geog) 
+$x Decoration  (May Subd Geog) 
+$x Defects  (May Subd Geog) 
+$x Defects $x Law and legislation1  (May Subd Geog) 
+$x Defects $x Reporting  (May Subd Geog) 
+$x Design and construction 
+$x Design and construction $x Law and legislation1  (May Subd Geog) 
+$x Design and construction $x Optical methods 
+$x Differentials 
+$x Disc brakes 
+$x Doors 
+$x Drum brakes 
+$x Dynamics 
+$x Economic aspects  (May Subd Geog)  
+$x Effect of environment on  (May Subd Geog) 
+$x Effect of explosive devices on  (May Subd Geog) 
+$x Electric equipment  (May Subd Geog) 
+$x Electric generators  (May Subd Geog) 
+$x Electric wiring 
+$x Electronic equipment  (May Subd Geog)  
+$x Environmental aspects  (May Subd Geog) 
+
+
+<<<PAGE 3>>>
+ 
+Pattern Headings: Land Vehicles  H 1195 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1195 Page 3 
+ 
+November 2020 
+$x Equipment and supplies 
+$x Fenders 
+$x Fires and fire prevention  (May Subd Geog) 
+$x Fluid capacities  (May Subd Geog) 
+$x Front-wheel drive 
+$x Fuel consumption 
+$x Fuel consumption $x Law and legislation1  (May Subd Geog) 
+$x Fuel systems 
+$x Fuel systems $x Vapor lock 
+$x Fuel tanks 
+$x Gas producers  (May Subd Geog) 
+$x Grilles 
+$x Handling characteristics  (May Subd Geog) 
+$x Heating and ventilation  (May Subd Geog) 
+$x Horns  
+$x Hydraulic equipment 
+$x Ignition 
+$x Ignition $x Electronic systems 
+$x Inspection  (May Subd Geog) 
+$x Instrument panels 
+$x Instrument panels $x Padding 
+$x Instruments 
+$x Instruments $x Display systems 
+$x Interiors   (May Subd Geog) 
+$x Lateral stability 
+$x Law and legislation1  (May Subd Geog) 
+$x Licenses  (May Subd Geog) 
+$x Licenses $x Fees  (May Subd Geog) 
+$x Lighting  (May Subd Geog) 
+$x Lighting $x Law and legislation1  (May Subd Geog) 
+$x Locks 
+$x Lubrication 
+$x Maintenance and repair 
+$x Maintenance and repair $x Law and legislation1  (May Subd Geog) 
+$x Marketing 
+$x Materials  (May Subd Geog) 
+$x Materials $x Dynamic testing  (May Subd Geog) 
+$x Misfueling  (May Subd Geog) 
+
+
+<<<PAGE 4>>>
+H 1195  Pattern Headings: Land Vehicles 
+ 
+ 
+H 1195 Page 4 
+Subject Headings Manual 
+November 2020 
+$x Models  (May Subd Geog) 
+$x Models $x Finishing  (May Subd Geog) 
+$x Models $x Radio control  (May Subd Geog) 
+$x Moral and ethical aspects  (May Subd Geog) 
+$x Motors 
+$x Motors $x Bearings  (May Subd Geog) 
+$x Motors $x Camshafts 
+$x Motors $x Carburetors 
+$x Motors $x Combustion  (May Subd Geog) 
+$x Motors $x Computer control systems  (May Subd Geog) 
+$x Motors $x Control systems 
+$x Motors $x Cooling  (May Subd Geog) 
+$x Motors $x Cooling systems  (May Subd Geog) 
+$x Motors $x Crankshafts 
+$x Motors $x Cylinder blocks 
+$x Motors $x Cylinder heads  (May Subd Geog) 
+$x Motors $x Cylinders 
+$x Motors $x Cylinders $x Fluid dynamics 
+$x Motors $x Electronic fuel injection systems 
+$x Motors $x Exhaust gas  (May Subd Geog) 
+$x Motors $x Exhaust gas $x Law and legislation1  (May Subd Geog) 
+$x Motors $x Exhaust manifolds 
+$x Motors $x Exhaust systems 
+$x Motors $x Fuel injection systems 
+$x Motors $x Fuel injection systems $x Fluid dynamics 
+$x Motors $x Gaskets 
+$x Motors $x Knock  (May Subd Geog) 
+$x Motors $x Lubrication systems  (May Subd Geog) 
+$x Motors $x Lubrication systems $x Fluid dynamics   
+$x Motors $x Modification  (May Subd Geog) 
+$x Motors $x Mounts  
+$x Motors $x Mufflers 
+$x Motors $x Mufflers $x Acoustic properties  (May Subd Geog) 
+$x Motors $x Oil filters 
+$x Motors $x Parts  (May Subd Geog) 
+$x Motors $x Pistons and piston rings 
+$x Motors $x Soundproofing  (May Subd Geog) 
+$x Motors $x Superchargers 
+$x Motors $x Thermodynamics 
+$x Motors $x Timing belts  (May Subd Geog) 
+
+
+<<<PAGE 5>>>
+ 
+Pattern Headings: Land Vehicles  H 1195 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1195 Page 5 
+ 
+November 2020 
+$x Motors $x Turbochargers 
+$x Motors $x Valves  (May Subd Geog) 
+$x Motors $x Vibration  (May Subd Geog) 
+$x Motors (Compressed-gas)  (May Subd Geog) 
+$x Motors (Diesel) 
+$x Motors (Diesel) $x Exhaust gas  (May Subd Geog)  
+$x Motors (Diesel) $x Exhaust systems  (May Subd Geog)  
+$x Motors (Diesel) $x Turbochargers  (May Subd Geog)  
+$x Motors (Liquid nitrogen)  (May Subd Geog) 
+$x Motors (Two-stroke cycle) 
+$x Occupant restraint systems  (May Subd Geog) 
+$x Off-road operation  (May Subd Geog) 
+$x Painting  (May Subd Geog)  
+$x Parts  (May Subd Geog) 
+$x Parts $x Law and legislation1  (May Subd Geog) 
+$x Performance   (May Subd Geog) 
+$x Pneumatic equipment 
+$x Pollution control devices 
+$x Pollution control devices $x Law and legislation1  (May Subd Geog) 
+$x Power trains  (May Subd Geog) 
+$x Prices  (May Subd Geog) 
+$x Prices $x Law and legislation1  (May Subd Geog) 
+$x Protection  (May Subd Geog) 
+$x Radiator ornaments 
+$x Radiators 
+$x Radio antennas 
+$x Radio equipment 
+$x Radio equipment $x Security measures (May Subd Geog) 
+$x Registration and transfer  (May Subd Geog) 
+$x Registration and transfer $x Fees  (May Subd Geog) 
+$x Retarders  (May Subd Geog) 
+$x Riding qualities  (May Subd Geog) 
+$x Rollover protective structures  (May Subd Geog) 
+$x Safety appliances  (May Subd Geog) 
+$x Scrapping  (May Subd Geog) 
+$x Seat belts 
+x Seat belts $x Law and legislation1  (May Subd Geog) 
+$x Seats  (May Subd Geog) 
+
+
+<<<PAGE 6>>>
+H 1195  Pattern Headings: Land Vehicles 
+ 
+ 
+H 1195 Page 6 
+Subject Headings Manual 
+November 2020 
+$x Serial numbers 
+$x Service life (May Subd Geog) 
+$x Shock absorbers 
+$x Sizes  (May Subd Geog) 
+$x Skidding  (May Subd Geog) 
+$x Snow protection and removal  (May Subd Geog) 
+$x Social aspects  (May Subd Geog) 
+$x Speed 
+$x Spray control  (May Subd Geog) 
+$x Springs and suspension  (May Subd Geog) 
+$x Stability 
+$x Starting devices  (May Subd Geog) 
+$x Steering-gear 
+$x Tires 
+$x Tires $x Inflation pressure 
+$x Tires $x Repairing  (May Subd Geog) 
+$x Towing  (May Subd Geog) 
+$x Traction  (May Subd Geog) 
+$x Transaxles 
+$x Transmission devices 
+$x Transmission devices $x Parts  (May Subd Geog) 
+$x Transmission devices, Automatic 
+$x Transmission devices, Automatic $x Cooling systems  (May Subd Geog) 
+$x Transmission devices, Automatic $x Parts  (May Subd Geog) 
+$x Transportation  (May Subd Geog) 
+$x Transportation $x Law and legislation1  (May Subd Geog) 
+$x Upholstery  (May Subd Geog) 
+$x Vibration  (May Subd Geog) 
+$x Welding  (May Subd Geog) 
+$x Wheels 
+$x Wheels $x Alignment  (May Subd Geog) 
+$x Wheels $x Balancing  (May Subd Geog) 
+$x Windows and windshields  (May Subd Geog) 
+$x Windows and windshields $x Defrosters 
+$x Windows and windshields $x Law and legislation1  (May Subd Geog) 
+ 
+ 
+ 
+NOTE 
+ 
+1See H 1154.5 for further subdivisions used under legal topics. 

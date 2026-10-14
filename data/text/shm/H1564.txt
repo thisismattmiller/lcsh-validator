@@ -1,0 +1,191 @@
+
+
+<<<PAGE 1>>>
+ 
+Discovery and Exploration  H 1564 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1564 Page 1 
+ 
+June 2013 
+BACKGROUND:  The heading Discoveries in geography and the free-floating subdivision 
+BDiscovery and exploration under places are used for works on geographical exploration of 
+places that are unsettled or sparsely settled and are unknown to the rest of the world.  This 
+instruction sheet provides guidelines for assigning the heading Discoveries in geography and 
+the free-floating subdivision BDiscovery and exploration.  It also covers use of the heading 
+Outer spaceBExploration for space exploration in general and use of the subdivision 
+BExploration under headings for celestial bodies. 
+ 
+                                        
+                              
+ 
+ 
+1.  History of exploration.   
+ 
+a.  General.  Assign the heading Discoveries in geography to general works on the 
+history of discovery and exploration.  Treat this heading as inherently historical and do 
+not subdivide it by BHistory. 
+ 
+ 
+b.  By country.  For works on the history of discovery and exploration conducted by one 
+country, subdivide the heading Discoveries in geography by the nationality carrying out 
+the exploration.  Examples: 
+ 
+650 #0 $a Discoveries in geography $x American. 
+650 #0 $a Discoveries in geography $x Spanish. 
+ 
+The subdivision BExploring expeditions, formerly used under names of places for works 
+on expeditions sent from those places for purposes of exploration, was discontinued in 
+1993. 
+ 
+ 
+ 
+2.  Exploration of a particular place.   
+ 
+a.  General.  Use the free-floating subdivision BDiscovery and exploration under 
+names of places that were unsettled or sparsely settled and largely unknown to the rest of 
+the world at the time of exploration for historical works on the exploration of those 
+places or first person accounts of explorers.  In accordance with H 1647, do not 
+subdivide further by BHistory. 
+
+
+<<<PAGE 2>>>
+H 1564  Discovery and Exploration 
+ 
+ 
+ 
+H 1564 Page 2 
+Subject Headings Manual 
+June 2013 
+2.  Exploration of a particular place.  (Continued) 
+ 
+b.  The New World. 
+ 
+(1) General.  Assign the heading AmericaBDiscovery and exploration to 
+works on the discovery and exploration of the New World by Columbus and other 
+early explorers.  
+ 
+For first person accounts, assign as an additional heading AmericaBEarly 
+accounts to 1600. 
+ 
+(2) Special.  For works on later explorations in individual regions, countries, 
+states, etc., of the Western Hemisphere, assign a heading of the type 
+[place]BDiscovery and exploration. 
+ 
+The former practice of prohibiting the use of the subdivision BDiscovery and 
+exploration under the United States and Latin America and under places smaller 
+than countries was discontinued in 1987. 
+ 
+c.  By country.  For works on the exploration of a place by explorers from a particular 
+foreign country, assign a heading of the type [place]BDiscovery and exploration 
+subdivided further by the nationality of the explorers or country supporting the 
+exploration.  Examples: 
+ 
+651 #0 $a America $x Discovery and exploration $x Spanish. 
+ 
+ 
+3.  Space exploration.  Use the heading Outer spaceBExploration for the topic of exploration 
+of space in general, through either manned space vehicles or unmanned probes.  For the 
+exploration of individual and types of objects in space, assign headings of the type 
+MoonBExploration; 
+Inner 
+planetsBExploration; 
+Jupiter 
+(Planet)BExploration; 
+etc.  
+Establish new headings as needed.  Do not use the subdivision BDiscovery and exploration 
+under names of individual celestial bodies.    
+ 
+4.  Assigning additional headings.  Works on discovery and exploration are usually 
+multifaceted, requiring an array of headings to bring out various aspects of the material.  Assign 
+several headings, if appropriate, to cover all important topics discussed in the work, such as the 
+place explored, the persons or country conducting the exploration, special aspects of the 
+exploration, etc. 
+
+
+<<<PAGE 3>>>
+ 
+Discovery and Exploration  H 1564 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1564 Page 3 
+ 
+June 2013 
+5.  Examples. 
+ 
+Title:  Scientific expeditions in the Portuguese overseas territories. 
+650 #0 $a Scientific expeditions $z Portugal $x History. 
+651 #0 $a Africa $x Discovery and exploration $x Portuguese. 
+ 
+ 
+ 
+Title:  World exploration by the Royal Geographic Society. 
+610 20 $a Royal Geographical Society (Great Britain)  
+            $x History. 
+650 #0 $a Discoveries in geography $x British. 
+ 
+ 
+ 
+Title:  America's founding years, 1492-1815. 
+651 #0 $a United States $x History $y Colonial period, ca. 
+            1600-1775. 
+651 #0 $a United States $x History $y Revolution, 1775-1783. 
+651 #0 $a United States $x History $y 1783-1815. 
+651 #0 $a America $x Discovery and exploration. 
+ 
+ 
+ 
+Title:  Westward vision : the story of the Oregon Trail. 
+651 #0 $a Oregon Trail. 
+650 #0 $a Overland journeys to the Pacific. 
+651 #0 $a West (U.S.) $x Discovery and exploration. 
+ 
+ 
+ 
+Title:  Spanish exploration of the Pacific Northwest. 
+651 #0 $a Northwest, Pacific $x Discovery and exploration  
+            $x Spanish. 
+650 #0 $a Explorers $z Northwest, Pacific $x History. 
+650 #0 $a Explorers $z Spain $x History. 
+ 
+ 
+ 
+Title:  The Portuguese explorers. 
+650 #0 $a Discoveries in geography $x Portuguese. 
+650 #0 $a Explorers $z Portugal. 
+650 #0 $a Voyages and travels. 
+651 #0 $a Portugal $x History $y Period of discoveries, 
+            1385-1580. 
+
+
+<<<PAGE 4>>>
+H 1564  Discovery and Exploration 
+ 
+ 
+ 
+H 1564 Page 4 
+Subject Headings Manual 
+June 2013 
+5.  Examples.  (Continued) 
+ 
+ 
+Title:  The log of Christopher Columbus. 
+600 10 $a Columbus, Christopher $v Diaries. 
+650 #0 $a Explorers $z America $v Diaries. 
+650 #0 $a Explorers $z Spain $v Diaries. 
+651 #0 $a America $x Discovery and exploration $x Spanish. 
+651 #0 $a America $v Early accounts to 1600. 
+ 
+ 
+ 
+Title:  Smith's exploring expedition to Brazil. 
+651 #0 $a Brazil $x Discovery and exploration $x British. 
+600 10 $a Smith, Robert, $d 1810-1870 $x Travel $z Brazil. 
+650 #0 $a Explorers $z Great Britain $v Biography. 
+650 #0 $a Explorers $z Brazil $v Biography. 
+650 #0 $a Natural history $z Brazil. 
+ 

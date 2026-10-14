@@ -1,0 +1,86 @@
+
+
+<<<PAGE 1>>>
+ 
+Reviews  H 2021 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2021 Page 1 
+ 
+June 2013 
+BACKGROUND:  The subdivisions BReviews and BBook reviews are used as form 
+subdivisions for collections of explanatory or critical accounts of artistic productions or 
+performances, such as books, plays, concerts, etc.  This instruction sheet provides guidelines 
+for assigning these subdivisions.  
+ 
+ 
+ 
+1.  Books. 
+ 
+a.  BooksBReviews.  Use the free-floating subdivision BReviews under the heading 
+Books for collections of descriptive and evaluative accounts of books on many subjects.  
+Example: 
+ 
+Title:  Book review digest. 
+650 #0 $a Books $v Reviews $v Periodicals. 
+ 
+Assign this heading only to collections too broad to be assigned a more specific heading. 
+ 
+Note:  For works about the technique of writing book reviews, assign the topical 
+heading Book reviewing (May Subd Geog). 
+ 
+Also use the free-floating subdivision BReviews under headings for types of books, for 
+example, Reference booksBReviews. 
+ 
+ 
+ 
+b.  [topic]BBook reviews.  Assign the free-floating subdivision BBook reviews under 
+topical headings and names of places for collections of appraisals of books on these 
+topics.  Examples: 
+ 
+ 
+650 #0 $a Art $v Book reviews. 
+651 #0 $a California $v Book reviews. 
+650 #0 $a English literature $y l9th century $x History and 
+            criticism $v Book reviews. 
+650 #0 $a French imprints $v Book reviews. 
+650 #0 $a Medicine $v Book reviews. 
+651 #0 $a United States $x History $y Civil War, 1861-1865 
+            $v Book reviews. 
+
+
+<<<PAGE 2>>>
+H 2021  Reviews 
+ 
+ 
+ 
+H 2021 Page 2 
+Subject Headings Manual 
+June 2013 
+2.  Newspapers.  Assign the heading NewspapersBSections, columns, etc.BReviews and 
+headings of the type [...] newspapersBSections, columns, etc.BReviews for works on the 
+writing and editing of reviews of books, music, theater, etc., and for collections of these writings. 
+ Example: 
+ 
+650 #0 $a Canadian newspapers $x Sections, columns, etc.  
+          $x Reviews. 
+ 
+ 
+3.  Non-book materials.  Assign the free-floating subdivision BReviews under headings for 
+non-book materials for collections of descriptive and evaluative accounts of these materials.  
+Examples: 
+ 
+650 #0 $a Compact discs $v Reviews. 
+650 #0 $a Audiotapes $v Reviews. 
+ 
+ 
+4.  Mass media and performing arts.  Assign the free-floating subdivision BReviews under 
+headings for mass media and the performing arts for collections of critical writings about 
+programs, performances, etc.  Examples: 
+ 
+650 #0 $a Performing arts $z England $z London $v Reviews. 
+650 #0 $a Television programs $z United States $v Reviews. 
+650 #0 $a Theater $v Reviews. 
+ 

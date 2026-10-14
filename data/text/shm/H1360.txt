@@ -1,0 +1,154 @@
+
+
+<<<PAGE 1>>>
+ 
+Catalogs  H 1360 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1360 Page 1 
+ 
+June 2013 
+Note:  The order of subject headings used in the text and examples in this 
+instruction sheet is not significant, since the actual arrangement of headings in 
+each individual case is determined according to the provisions of H 80.  In the 
+examples below, the additional headings that may be required for the particular 
+kinds of objects involved, such as the headings for antiquities required by H 1225, 
+Archaeological Works, have been omitted because they are not pertinent to the 
+topic of this instruction sheet. 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  General rule.  Use the subdivision BCatalogs as a free-floating form subdivision under 
+types of objects, including types of merchandise, art objects, collectors' items, technical 
+equipment, etc., for listings of those objects that have been produced, that are available or are 
+located at particular places, or that occur on a particular market, often systematically arranged 
+with descriptive details, prices, etc., accompanying each entry.  Use BCatalogs under the 
+heading Excavations (Archaeology) as well as under headings for individual archaeological 
+sites for works listing objects found.  Use BCatalogs under artists or craftspersons and families 
+of artists or craftspersons for works listing their art works or crafts that are located in, or 
+available for purchase at, particular institutions or places.  Use BCatalogs under names of 
+persons and families doing business as sellers under their own names.  Also use BCatalogs 
+under types of organizations and names of individual corporate bodies for works listing objects, 
+art works, products, etc., located in or available from those organizations.  Examples: 
+ 
+ 
+650 #0 $a Automobiles $v Catalogs. 
+650 #0 $a Art objects $v Catalogs. 
+650 #0 $a Food service $x Equipment and supplies $v Catalogs. 
+650 #0 $a Painting, French $z France $z Paris $v Catalogs. 
+650 #0 $a Flags $z United States $v Catalogs. 
+600 10 $a Munch, Edvard, $d 1863-1944 $v Catalogs. 
+650 #0 $a Museum stores $z New York (State) $z New York  
+            $v Catalogs. 
+610 20 $a Montgomery Ward $v Catalogs. 
+ 
+ 
+For catalogs of publications, see H 1361, Catalogs of Library Materials and H 1965, Publishers' 
+Catalogs. 
+
+
+<<<PAGE 2>>>
+H 1360  Catalogs 
+ 
+ 
+ 
+H 1360 Page 2 
+Subject Headings Manual 
+June 2013 
+2.  Companion headings.  The subdivision BCatalogs is assigned to works that list objects 
+located in particular places or collections.  In accordance with H 1427, assign additional 
+headings when possible to bring out where the objects are located and in what collection, if any. 
+ 
+ 
+a.  Objects in particular kinds of institutions.  Assign a heading for the type of 
+institution in which the objects are located with the subdivision BCatalogs, unless other 
+provisions have been made, such as the use of Catalogs, UnionB[place] (see H 1361, sec. 
+1). 
+ 
+650 #0 $a [objects] $v Catalogs. 
+650 #0 $a [kind of institution] $v Catalogs. 
+ 
+ 
+Examples: 
+ 
+ 
+650 #0 $a Stone implements $z Africa $v Catalogs.   
+650 #0 $a Archaeological museums and collections $z Maryland 
+            $v Catalogs. 
+ 
+650 #0 $a Sculpture $z Maryland $z Baltimore $v Catalogs. 
+650 #0 $a Art museums $z Maryland $z Baltimore $v Catalogs. 
+ 
+ 
+Do not assign a heading of this type if the objects are located in an individual institution, 
+society, or collection. 
+ 
+ 
+ 
+ 
+b.  Objects in a particular institution or society and/or collection.  Assign additional 
+headings for the name of the institution (or society) and the name of the collection, if any, 
+using the subdivision BCatalogs under each heading. 
+ 
+650 #0 $a [objects] $v Catalogs. 
+610 X0 $a [the name of the institution or society]  
+          $v Catalogs.   
+6XX X0 $a [name of the collection] $v Catalogs. 
+
+
+<<<PAGE 3>>>
+ 
+Catalogs  H 1360 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1360 Page 3 
+ 
+June 2013 
+2.  Companion headings. 
+ 
+b.  Objects in a particular institution or society and/or collection.  (Continued) 
+ 
+If the named collection is a private collection, use a heading of the type [objects]B 
+Private collectionsB[place]BCatalogs as the first heading (except for collections of 
+library materials, which are discussed in H 1361).  For the specific private collection 
+subdivisions used under names of persons, see H 1427. 
+ 
+650 #0 $a [objects] $x Private collections $v Catalogs.   
+610 X0 $a [the name of the institution or society]  
+          $v Catalogs.   
+6XX X0 $a [name of the private collection] $v Catalogs. 
+ 
+Examples: 
+ 
+650 #0 $a Stone implements $z Africa $v Catalogs.   
+610 20 $a John Smith Museum $v Catalogs.   
+610 20 $a African Early Man Collection (John Smith Museum) 
+            $v Catalogs. 
+ 
+650 #0 $a Stone implements $x Private collections  
+            $z Maryland $z Baltimore $v Catalogs. 
+610 20 $a John Smith Museum $v Catalogs.   
+600 10 $a Doe, John $x Archaeological collections  
+            $v Catalogs. 
+ 
+ 
+ 
+3.  Natural objects and musical items.  Use the subdivision BCatalogs and collections instead 
+of BCatalogs under objects that belong to either of these categories, for example, 
+BeetlesBCatalogs and collections; PianoBCatalogs and collections.  Do not interpose the 
+subdivision BPrivate collections between the heading for the objects and the subdivision 
+BCatalogs and collections.  Example: 
+ 
+650 #0 $a Brass instruments $v Catalogs and collections $z South 
+            Dakota $z Vermillion. 
+610 20 $a Shrine to Music Museum (University of South Dakota)  
+            $v Catalogs.  
+600 10 $a Larson, Anne B. $x Musical instrument collections  
+            $v Catalogs. 

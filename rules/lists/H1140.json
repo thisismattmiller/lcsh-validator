@@ -1,0 +1,4816 @@
+{
+  "sheet": "H 1140",
+  "title": "Free-Floating Subdivisions: Names of Places",
+  "kind": "names-of-places",
+  "scope": "Topical, chronological, form, and area subdivisions usable on a free-floating basis, within the limits of the usage notes, under geographic place names (continents, regions, islands, countries, states, counties, cities, extinct cities, city sections, metropolitan/suburban areas, regions based on cities, geographic features and designated areas, bodies of water, U.S.-recognized tribal jurisdictions); not under celestial bodies, non-jurisdictional international organizations or corporate bodies, or agencies controlling parks",
+  "pattern_headings": [],
+  "pattern_category": "",
+  "general_notes": [
+    "LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. *Textbooks*. To replace a form subdivision that includes a demographic group, also assign Library of Congress Demographic Groups Terms (LCDGT) to bring out the audience of the resource being cataloged, e.g. *German speakers* or *Arabic, Students of*.",
+    "Chronological subdivisions: In 1997 restrictions were lifted on use of subdivisions of the type *--16th*, [*17th*, *18th*, *19th*, *20th*, *21st*] century under *--Civilization* and *--Intellectual life*, thereby allowing their use under geographic headings at any level. At the same time, subdivisions of the type *--16th*, [*17th*, *18th*, *19th*, *20th*, *21st*] century were added under the subdivisions *--Economic conditions*; *--History*; *--History, Military*; *--History, Naval*; *--Politics and government*; *--Social conditions*; and *--Social life and customs*. These free-floating century subdivisions should be used with caution under names of countries and other geographic entities where chronological subdivisions for specific time periods have been established. Assign these century subdivisions only where there is no conflict with chronological subdivisions established in the subject authority file.",
+    "For additional subdivisions used only under names of bodies of water, streams, etc., see H 1145.5.",
+    "Section G (Areas and regions) entries are free-floating geographic phrase headings formed from city names or geographic features (consult H 790), not subdivisions appended with --."
+  ],
+  "entries": [
+    {
+      "subdivision": "--Abstracts",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1205"
+      ],
+      "endnote": "",
+      "marc": "$x Abstracts"
+    },
+    {
+      "subdivision": "--Abstracting and indexing",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Abstracting and indexing"
+    },
+    {
+      "subdivision": "--Administrative and political divisions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "marc": "$x Administrative and political divisions"
+    },
+    {
+      "subdivision": "--Aerial exploration",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under cities.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Aerial exploration"
+    },
+    {
+      "subdivision": "--Aerial film and video footage",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Aerial film and video footage"
+    },
+    {
+      "subdivision": "--Aerial photographs",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1210.5"
+      ],
+      "endnote": "",
+      "marc": "$x Aerial photographs"
+    },
+    {
+      "subdivision": "--Altitudes",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under cities.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Altitudes"
+    },
+    {
+      "subdivision": "--Annexation to […]",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under cities.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Annexation to […]"
+    },
+    {
+      "subdivision": "--Anniversaries, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Anniversaries, etc."
+    },
+    {
+      "subdivision": "--Antiquities",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under names of extinct cities.",
+      "see_also": [],
+      "consult": [
+        "H 1225",
+        "H 1845"
+      ],
+      "endnote": "",
+      "marc": "$x Antiquities"
+    },
+    {
+      "subdivision": "--Antiquities--Collection and preservation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "Use for methods of collection",
+      "notes": "Do not use under names of extinct cities.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Antiquities $x Collection and preservation"
+    },
+    {
+      "subdivision": "--Antiquities--Collectors and collecting",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "Use for collectors of antiquities and history of collecting",
+      "notes": "Do not use under names of extinct cities",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Antiquities $x Collectors and collecting"
+    },
+    {
+      "subdivision": "--Antiquities, Byzantine",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under the name of extinct cities.",
+      "see_also": [],
+      "consult": [
+        "H 1225"
+      ],
+      "endnote": "",
+      "marc": "$x Antiquities, Byzantine"
+    },
+    {
+      "subdivision": "--Antiquities, Celtic",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under the name of extinct cities.",
+      "see_also": [],
+      "consult": [
+        "H 1225"
+      ],
+      "endnote": "",
+      "marc": "$x Antiquities, Celtic"
+    },
+    {
+      "subdivision": "--Antiquities, Germanic",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under the name of extinct cities.",
+      "see_also": [],
+      "consult": [
+        "H 1225"
+      ],
+      "endnote": "",
+      "marc": "$x Antiquities, Germanic"
+    },
+    {
+      "subdivision": "--Antiquities, Phoenician",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under the name of extinct cities.",
+      "see_also": [],
+      "consult": [
+        "H 1225"
+      ],
+      "endnote": "",
+      "marc": "$x Antiquities, Phoenician"
+    },
+    {
+      "subdivision": "--Antiquities, Roman",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under the name of extinct cities.",
+      "see_also": [],
+      "consult": [
+        "H 1225"
+      ],
+      "endnote": "",
+      "marc": "$x Antiquities, Roman"
+    },
+    {
+      "subdivision": "--Antiquities, Slavic",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under the name of extinct cities.",
+      "see_also": [],
+      "consult": [
+        "H 1225"
+      ],
+      "endnote": "",
+      "marc": "$x Antiquities, Slavic"
+    },
+    {
+      "subdivision": "--Antiquities, Turkish",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under the name of extinct cities.",
+      "see_also": [],
+      "consult": [
+        "H 1225"
+      ],
+      "endnote": "",
+      "marc": "$x Antiquities, Turkish"
+    },
+    {
+      "subdivision": "--Appropriations and expenditures",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1624"
+      ],
+      "endnote": "",
+      "marc": "$x Appropriations and expenditures"
+    },
+    {
+      "subdivision": "--Appropriations and expenditures--Effect of inflation on",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1580"
+      ],
+      "endnote": "",
+      "marc": "$x Appropriations and expenditures $x Effect of inflation on"
+    },
+    {
+      "subdivision": "--Archival resources",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1230"
+      ],
+      "endnote": "",
+      "marc": "$x Archival resources"
+    },
+    {
+      "subdivision": "--Area",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use for descriptions of the physical area of a place as well as for works on measurement of the area of a place",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Area"
+    },
+    {
+      "subdivision": "--Armed Forces",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "Use only under countries and under regions larger than countries",
+      "notes": "Consult H 1159 for further subdivisions used under military services.",
+      "see_also": [],
+      "consult": [
+        "H 1159"
+      ],
+      "endnote": "",
+      "marc": "$x Armed Forces"
+    },
+    {
+      "subdivision": "--Biography",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [
+        "--History--[Period subdivision]--Biography"
+      ],
+      "consult": [
+        "H 1330",
+        "H 1845"
+      ],
+      "endnote": "",
+      "marc": "$x Biography"
+    },
+    {
+      "subdivision": "--Biography--History and criticism",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Biography $x History and criticism"
+    },
+    {
+      "subdivision": "--Biography--Portraits",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1935"
+      ],
+      "endnote": "",
+      "marc": "$x Biography $x Portraits"
+    },
+    {
+      "subdivision": "--Boundaries",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1333.5"
+      ],
+      "endnote": "",
+      "marc": "$x Boundaries"
+    },
+    {
+      "subdivision": "--Buildings, structures, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use only under cities and city sections",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1334",
+        "H 1334.5"
+      ],
+      "endnote": "",
+      "marc": "$x Buildings, structures, etc."
+    },
+    {
+      "subdivision": "--Calendars",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Calendars"
+    },
+    {
+      "subdivision": "--Capital and capitol",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under cities.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Capital and capitol"
+    },
+    {
+      "subdivision": "--Census",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1366"
+      ],
+      "endnote": "",
+      "marc": "$x Census"
+    },
+    {
+      "subdivision": "--Census--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1705"
+      ],
+      "endnote": "",
+      "marc": "$x Census $x Law and legislation"
+    },
+    {
+      "subdivision": "--Centennial celebrations, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Centennial celebrations, etc."
+    },
+    {
+      "subdivision": "--Charters",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use only under states, counties, cities, etc., of the United States and under Indigenous jurisdictions of the United States",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Charters"
+    },
+    {
+      "subdivision": "--Charters, grants, and privileges",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use as a topical subdivision under countries, etc., other than the United States, and under names of cities other than those of the United States for works about charters, grants, etc., of those places",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Charters, grants, and privileges"
+    },
+    {
+      "subdivision": "--Church history",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1845"
+      ],
+      "endnote": "",
+      "marc": "$x Church history"
+    },
+    {
+      "subdivision": "--Church history--16th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Church history $y 16th century"
+    },
+    {
+      "subdivision": "--Church history--17th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Church history $y 17th century"
+    },
+    {
+      "subdivision": "--Church history--18th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Church history $y 18th century"
+    },
+    {
+      "subdivision": "--Church history--19th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Church history $y 19th century"
+    },
+    {
+      "subdivision": "--Church history--20th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Church history $y 20th century"
+    },
+    {
+      "subdivision": "--Church history--21st century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Church history $y 21st century"
+    },
+    {
+      "subdivision": "--Civilization",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1370"
+      ],
+      "endnote": "",
+      "marc": "$x Civilization"
+    },
+    {
+      "subdivision": "--Civilization--16th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1370"
+      ],
+      "endnote": "",
+      "marc": "$x Civilization $y 16th century"
+    },
+    {
+      "subdivision": "--Civilization--17th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1370"
+      ],
+      "endnote": "",
+      "marc": "$x Civilization $y 17th century"
+    },
+    {
+      "subdivision": "--Civilization--18th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1370"
+      ],
+      "endnote": "",
+      "marc": "$x Civilization $y 18th century"
+    },
+    {
+      "subdivision": "--Civilization--19th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1370"
+      ],
+      "endnote": "",
+      "marc": "$x Civilization $y 19th century"
+    },
+    {
+      "subdivision": "--Civilization--20th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1370"
+      ],
+      "endnote": "",
+      "marc": "$x Civilization $y 20th century"
+    },
+    {
+      "subdivision": "--Civilization--21st century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1370"
+      ],
+      "endnote": "",
+      "marc": "$x Civilization $y 21st century"
+    },
+    {
+      "subdivision": "--Civilization--Foreign influences",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1370"
+      ],
+      "endnote": "",
+      "marc": "$x Civilization $x Foreign influences"
+    },
+    {
+      "subdivision": "--Civilization--Philosophy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Civilization $x Philosophy"
+    },
+    {
+      "subdivision": "--Claims",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Claims"
+    },
+    {
+      "subdivision": "--Claims vs. …",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Claims vs. …"
+    },
+    {
+      "subdivision": "--Climate",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Climate"
+    },
+    {
+      "subdivision": "--Colonial influence",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Colonial influence"
+    },
+    {
+      "subdivision": "--Colonies",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Colonies"
+    },
+    {
+      "subdivision": "--[Name of country]--Colonies",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "May also be used under topical headings, for example, *Education--Great Britain--Colonies*. Consult H 1149.5 for further subdivisions.",
+      "see_also": [],
+      "consult": [
+        "H 1149.5"
+      ],
+      "endnote": "",
+      "marc": "$x [Name of country] $x Colonies"
+    },
+    {
+      "subdivision": "--Colonization",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Colonization"
+    },
+    {
+      "subdivision": "--Commerce",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "Use for works on foreign or domestic trade of the place",
+      "notes": "For works on reciprocal trade between countries, cities, etc., assign a combination of headings: *[Place A]--Commerce--[Place B]*; *[Place B]--Commerce--[Place A]*.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Commerce"
+    },
+    {
+      "subdivision": "--Commercial policy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use only under countries and regions larger than countries",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Commercial policy"
+    },
+    {
+      "subdivision": "--Commercial treaties",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use only under states, counties, cities, etc., of the United States and under indigenous jurisdictions of the United States",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Commercial treaties"
+    },
+    {
+      "subdivision": "--Court and courtiers",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Court and courtiers"
+    },
+    {
+      "subdivision": "--Court and courtiers--Clothing",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Court and courtiers $x Clothing"
+    },
+    {
+      "subdivision": "--Court and courtiers--Food",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Court and courtiers $x Food"
+    },
+    {
+      "subdivision": "--Court and courtiers--Language",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Court and courtiers $x Language"
+    },
+    {
+      "subdivision": "--Cultural policy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Cultural policy"
+    },
+    {
+      "subdivision": "--Defenses",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use only under countries and regions larger than countries",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Defenses"
+    },
+    {
+      "subdivision": "--Defenses--Economic aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use only under countries and regions larger than countries",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Defenses $x Economic aspects"
+    },
+    {
+      "subdivision": "--Defenses--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use only under countries and regions larger than countries",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1705"
+      ],
+      "endnote": "",
+      "marc": "$x Defenses $x Law and legislation"
+    },
+    {
+      "subdivision": "--Dependency on [place]",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use only under countries and regions larger than countries",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Dependency on [place]"
+    },
+    {
+      "subdivision": "--Dependency on foreign countries",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use only under countries and regions larger than countries",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Dependency on foreign countries"
+    },
+    {
+      "subdivision": "--Description and travel",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1530",
+        "H 1845"
+      ],
+      "endnote": "",
+      "marc": "$x Description and travel"
+    },
+    {
+      "subdivision": "--Discovery and exploration",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1564"
+      ],
+      "endnote": "",
+      "marc": "$x Discovery and exploration"
+    },
+    {
+      "subdivision": "--Discovery and exploration--French, [Spanish, etc.]",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1564"
+      ],
+      "endnote": "",
+      "marc": "$x Discovery and exploration $x French, [Spanish, etc.]"
+    },
+    {
+      "subdivision": "--Distances, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Distances, etc."
+    },
+    {
+      "subdivision": "--Early works to 1800",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1576"
+      ],
+      "endnote": "",
+      "marc": "$x Early works to 1800"
+    },
+    {
+      "subdivision": "--Economic conditions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1578",
+        "H 1845"
+      ],
+      "endnote": "",
+      "marc": "$x Economic conditions"
+    },
+    {
+      "subdivision": "--Economic conditions--16th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1578"
+      ],
+      "endnote": "",
+      "marc": "$x Economic conditions $y 16th century"
+    },
+    {
+      "subdivision": "--Economic conditions--17th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1578"
+      ],
+      "endnote": "",
+      "marc": "$x Economic conditions $y 17th century"
+    },
+    {
+      "subdivision": "--Economic conditions--18th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1578"
+      ],
+      "endnote": "",
+      "marc": "$x Economic conditions $y 18th century"
+    },
+    {
+      "subdivision": "--Economic conditions--19th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1578"
+      ],
+      "endnote": "",
+      "marc": "$x Economic conditions $y 19th century"
+    },
+    {
+      "subdivision": "--Economic conditions--20th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1578"
+      ],
+      "endnote": "",
+      "marc": "$x Economic conditions $y 20th century"
+    },
+    {
+      "subdivision": "--Economic conditions--21st century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1578"
+      ],
+      "endnote": "",
+      "marc": "$x Economic conditions $y 21st century"
+    },
+    {
+      "subdivision": "--Economic conditions--[Period subdivision]--Regional disparities",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under cities.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Economic conditions $y [Period subdivision] $x Regional disparities"
+    },
+    {
+      "subdivision": "--Economic conditions--Regional disparities",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under cities.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Economic conditions $x Regional disparities"
+    },
+    {
+      "subdivision": "--Economic integration",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use only under regions larger than countries",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Economic integration"
+    },
+    {
+      "subdivision": "--Economic policy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Economic policy"
+    },
+    {
+      "subdivision": "--Emigration and immigration",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1581"
+      ],
+      "endnote": "",
+      "marc": "$x Emigration and immigration"
+    },
+    {
+      "subdivision": "--Emigration and immigration--Economic aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Emigration and immigration $x Economic aspects"
+    },
+    {
+      "subdivision": "--Emigration and immigration--Governmental policy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1642"
+      ],
+      "endnote": "",
+      "marc": "$x Emigration and immigration $x Governmental policy"
+    },
+    {
+      "subdivision": "--Emigration and immigration--Religious aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "May be subdivided topically by a religion or Christian denomination. Editorially establish each heading of the type *[Place]--Emigration and immigration--Religious aspects--[Name of religion or denomination]*.",
+      "see_also": [],
+      "consult": [
+        "H 1998"
+      ],
+      "endnote": "",
+      "marc": "$x Emigration and immigration $x Religious aspects"
+    },
+    {
+      "subdivision": "--Emigration and immigration--Social aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Emigration and immigration $x Social aspects"
+    },
+    {
+      "subdivision": "--Environmental conditions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Environmental conditions"
+    },
+    {
+      "subdivision": "--Environmental conditions--16th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Environmental conditions $y 16th century"
+    },
+    {
+      "subdivision": "--Environmental conditions--17th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Environmental conditions $y 17th century"
+    },
+    {
+      "subdivision": "--Environmental conditions--18th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Environmental conditions $y 18th century"
+    },
+    {
+      "subdivision": "--Environmental conditions--19th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Environmental conditions $y 19th century"
+    },
+    {
+      "subdivision": "--Environmental conditions--20th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Environmental conditions $y 20th century"
+    },
+    {
+      "subdivision": "--Environmental conditions--21st century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Environmental conditions $y 21st century"
+    },
+    {
+      "subdivision": "--Eruption, [date]",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of volcanoes",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1078"
+      ],
+      "endnote": "",
+      "marc": "$x Eruption, [date]"
+    },
+    {
+      "subdivision": "--Eruptions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of volcanoes",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Eruptions"
+    },
+    {
+      "subdivision": "--Ethnic relations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1845"
+      ],
+      "endnote": "",
+      "marc": "$x Ethnic relations"
+    },
+    {
+      "subdivision": "--Ethnic relations--Economic aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Ethnic relations $x Economic aspects"
+    },
+    {
+      "subdivision": "--Ethnic relations--Political aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Ethnic relations $x Political aspects"
+    },
+    {
+      "subdivision": "--Folklore",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "For works discussing folklore originating in the place use *Folklore--[Place]*.",
+      "see_also": [],
+      "consult": [
+        "H 1627"
+      ],
+      "endnote": "",
+      "marc": "$x Folklore"
+    },
+    {
+      "subdivision": "--Forecasting",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1628"
+      ],
+      "endnote": "",
+      "marc": "$x Forecasting"
+    },
+    {
+      "subdivision": "--Foreign economic relations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Foreign economic relations"
+    },
+    {
+      "subdivision": "--Foreign public opinion",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use only under countries and regions larger than countries",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1955"
+      ],
+      "endnote": "",
+      "marc": "$x Foreign public opinion"
+    },
+    {
+      "subdivision": "--Foreign public opinion, Austrian, [British, etc.]",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use only under countries and regions larger than countries",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1955"
+      ],
+      "endnote": "",
+      "marc": "$x Foreign public opinion, Austrian, [British, etc.]"
+    },
+    {
+      "subdivision": "--Foreign relations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "Use only under countries and regions larger than countries",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1629"
+      ],
+      "endnote": "",
+      "marc": "$x Foreign relations"
+    },
+    {
+      "subdivision": "--Foreign relations--Catholic Church",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use only under countries and regions larger than countries",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1629"
+      ],
+      "endnote": "",
+      "marc": "$x Foreign relations $x Catholic Church"
+    },
+    {
+      "subdivision": "--Foreign relations--Executive agreements",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use only under countries and regions larger than countries",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2227"
+      ],
+      "endnote": "",
+      "marc": "$x Foreign relations $x Executive agreements"
+    },
+    {
+      "subdivision": "--Foreign relations--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use only under countries and regions larger than countries",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1705"
+      ],
+      "endnote": "",
+      "marc": "$x Foreign relations $x Law and legislation"
+    },
+    {
+      "subdivision": "--Foreign relations--Philosophy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use only under countries and regions larger than countries",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Foreign relations $x Philosophy"
+    },
+    {
+      "subdivision": "--Foreign relations administration",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use only under countries and regions larger than countries",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Foreign relations administration"
+    },
+    {
+      "subdivision": "--Gazetteers",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1630"
+      ],
+      "endnote": "",
+      "marc": "$x Gazetteers"
+    },
+    {
+      "subdivision": "--Genealogy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1631",
+        "H 1845"
+      ],
+      "endnote": "",
+      "marc": "$x Genealogy"
+    },
+    {
+      "subdivision": "--Genealogy--Religious aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1998"
+      ],
+      "endnote": "",
+      "marc": "$x Genealogy $x Religious aspects"
+    },
+    {
+      "subdivision": "--Geography",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Geography"
+    },
+    {
+      "subdivision": "--Gold discoveries",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under cities.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Gold discoveries"
+    },
+    {
+      "subdivision": "--Historical geography",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Historical geography"
+    },
+    {
+      "subdivision": "--Historiography",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Historiography"
+    },
+    {
+      "subdivision": "--History",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1647",
+        "H 1845"
+      ],
+      "endnote": "",
+      "marc": "$x History"
+    },
+    {
+      "subdivision": "--History--16th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1647"
+      ],
+      "endnote": "",
+      "marc": "$x History $y 16th century"
+    },
+    {
+      "subdivision": "--History--17th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1647"
+      ],
+      "endnote": "",
+      "marc": "$x History $y 17th century"
+    },
+    {
+      "subdivision": "--History--18th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1647"
+      ],
+      "endnote": "",
+      "marc": "$x History $y 18th century"
+    },
+    {
+      "subdivision": "--History--19th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1647"
+      ],
+      "endnote": "",
+      "marc": "$x History $y 19th century"
+    },
+    {
+      "subdivision": "--History--20th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1647"
+      ],
+      "endnote": "",
+      "marc": "$x History $y 20th century"
+    },
+    {
+      "subdivision": "--History--21st century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1647"
+      ],
+      "endnote": "",
+      "marc": "$x History $y 21st century"
+    },
+    {
+      "subdivision": "--History--[Period subdivision]--Philosophy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x History $y [Period subdivision] $x Philosophy"
+    },
+    {
+      "subdivision": "--History--Autonomy and independence movements",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under cities.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x History $x Autonomy and independence movements"
+    },
+    {
+      "subdivision": "--History--Errors, inventions, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x History $x Errors, inventions, etc."
+    },
+    {
+      "subdivision": "--History--Periodization",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x History $x Periodization"
+    },
+    {
+      "subdivision": "--History--Philosophy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x History $x Philosophy"
+    },
+    {
+      "subdivision": "--History--Prophecies",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x History $x Prophecies"
+    },
+    {
+      "subdivision": "--History--Religious aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "May be subdivided topically by a religion or Christian denomination. Editorially establish each heading of the type *[Place]--History--Religious aspects--[Name of religion or denomination]*.",
+      "see_also": [],
+      "consult": [
+        "H 1998"
+      ],
+      "endnote": "",
+      "marc": "$x History $x Religious aspects."
+    },
+    {
+      "subdivision": "--History--Sources",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2080"
+      ],
+      "endnote": "",
+      "marc": "$x History $x Sources"
+    },
+    {
+      "subdivision": "--History, Local",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of regions, countries, states, etc., for the collective histories of several local units",
+      "notes": "Do not use under cities. For the history of a single locality, use the subdivision *--History* under the name of the locality.",
+      "see_also": [],
+      "consult": [
+        "H 1845"
+      ],
+      "endnote": "",
+      "marc": "$x History, Local"
+    },
+    {
+      "subdivision": "--History, Local--Collectibles",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under names of cities.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x History, Local $x Collectibles"
+    },
+    {
+      "subdivision": "--History, Military",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1845"
+      ],
+      "endnote": "",
+      "marc": "$x History, Military"
+    },
+    {
+      "subdivision": "--History, Military--16th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x History, Military $y 16th century"
+    },
+    {
+      "subdivision": "--History, Military--17th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x History, Military $y 17th century"
+    },
+    {
+      "subdivision": "--History, Military--18th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x History, Military $y 18th century"
+    },
+    {
+      "subdivision": "--History, Military--19th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x History, Military $y 19th century"
+    },
+    {
+      "subdivision": "--History, Military--20th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x History, Military $y 20th century"
+    },
+    {
+      "subdivision": "--History, Military--21st century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x History, Military $y 21st century"
+    },
+    {
+      "subdivision": "--History, Military--Religious aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1998"
+      ],
+      "endnote": "",
+      "marc": "$x History, Military $x Religious aspects"
+    },
+    {
+      "subdivision": "--History, Naval",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1845"
+      ],
+      "endnote": "",
+      "marc": "$x History, Naval"
+    },
+    {
+      "subdivision": "--History, Naval--16th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x History, Naval $y 16th century"
+    },
+    {
+      "subdivision": "--History, Naval--17th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x History, Naval $y 17th century"
+    },
+    {
+      "subdivision": "--History, Naval--18th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x History, Naval $y 18th century"
+    },
+    {
+      "subdivision": "--History, Naval--19th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x History, Naval $y 19th century"
+    },
+    {
+      "subdivision": "--History, Naval--20th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x History, Naval $y 20th century"
+    },
+    {
+      "subdivision": "--History, Naval--21st century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x History, Naval $y 21st century"
+    },
+    {
+      "subdivision": "--Humor",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Humor"
+    },
+    {
+      "subdivision": "--In bookplates",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x In bookplates"
+    },
+    {
+      "subdivision": "--In comics",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1430"
+      ],
+      "endnote": "",
+      "marc": "$x In comics"
+    },
+    {
+      "subdivision": "--In literature",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 362",
+        "H 910",
+        "H 1780",
+        "H 1790",
+        "H 1800"
+      ],
+      "endnote": "",
+      "marc": "$x In literature"
+    },
+    {
+      "subdivision": "--In mass media",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x In mass media"
+    },
+    {
+      "subdivision": "--In motion pictures",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x In motion pictures"
+    },
+    {
+      "subdivision": "--In opera",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x In opera"
+    },
+    {
+      "subdivision": "--In popular culture",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x In popular culture"
+    },
+    {
+      "subdivision": "--Information services",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1675.5"
+      ],
+      "endnote": "",
+      "marc": "$x Information services"
+    },
+    {
+      "subdivision": "--Intellectual life",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Intellectual life"
+    },
+    {
+      "subdivision": "--Intellectual life--16th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Intellectual life $y 16th century"
+    },
+    {
+      "subdivision": "--Intellectual life--17th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Intellectual life $y 17th century"
+    },
+    {
+      "subdivision": "--Intellectual life--18th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Intellectual life $y 18th century"
+    },
+    {
+      "subdivision": "--Intellectual life--19th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Intellectual life $y 19th century"
+    },
+    {
+      "subdivision": "--Intellectual life--20th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Intellectual life $y 20th century"
+    },
+    {
+      "subdivision": "--Intellectual life--21st century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Intellectual life $y 21st century"
+    },
+    {
+      "subdivision": "--International status",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x International status"
+    },
+    {
+      "subdivision": "--Kings and rulers",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Consult H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1574",
+        "H 1100"
+      ],
+      "endnote": "",
+      "marc": "$x Kings and rulers"
+    },
+    {
+      "subdivision": "--Kings and rulers--Abdication",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Kings and rulers $x Abdication"
+    },
+    {
+      "subdivision": "--Kings and rulers--Art patronage",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Kings and rulers $x Art patronage"
+    },
+    {
+      "subdivision": "--Kings and rulers--Assassination",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Kings and rulers $x Assassination"
+    },
+    {
+      "subdivision": "--Kings and rulers--Brothers",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Consult H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "",
+      "marc": "$x Kings and rulers $x Brothers"
+    },
+    {
+      "subdivision": "--Kings and rulers--Children",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Consult H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "",
+      "marc": "$x Kings and rulers $x Children"
+    },
+    {
+      "subdivision": "--Kings and rulers--Death and burial",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Kings and rulers $x Death and burial"
+    },
+    {
+      "subdivision": "--Kings and rulers--Deposition",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Kings and rulers $x Deposition"
+    },
+    {
+      "subdivision": "--Kings and rulers--Dwellings",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Kings and rulers $x Dwellings"
+    },
+    {
+      "subdivision": "--Kings and rulers--Education",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1579"
+      ],
+      "endnote": "",
+      "marc": "$x Kings and rulers $x Education"
+    },
+    {
+      "subdivision": "--Kings and rulers--Folklore",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1627"
+      ],
+      "endnote": "",
+      "marc": "$x Kings and rulers $x Folklore"
+    },
+    {
+      "subdivision": "--Kings and rulers--Genealogy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1631"
+      ],
+      "endnote": "",
+      "marc": "$x Kings and rulers $x Genealogy"
+    },
+    {
+      "subdivision": "--Kings and rulers--Heraldry",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Kings and rulers $x Heraldry"
+    },
+    {
+      "subdivision": "--Kings and rulers--Mythology",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1998"
+      ],
+      "endnote": "",
+      "marc": "$x Kings and rulers $x Mythology"
+    },
+    {
+      "subdivision": "--Kings and rulers--Paramours",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Consult H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "",
+      "marc": "$x Kings and rulers $x Paramours"
+    },
+    {
+      "subdivision": "--Kings and rulers--Religious aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1998"
+      ],
+      "endnote": "",
+      "marc": "$x Kings and rulers $x Religious aspects"
+    },
+    {
+      "subdivision": "--Kings and rulers--Sisters",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Consult H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "",
+      "marc": "$x Kings and rulers $x Sisters"
+    },
+    {
+      "subdivision": "--Kings and rulers--Succession",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Kings and rulers $x Succession"
+    },
+    {
+      "subdivision": "--Kings and rulers--Tombs",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Kings and rulers $x Tombs"
+    },
+    {
+      "subdivision": "--Kings and rulers--Travel",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Kings and rulers $x Travel"
+    },
+    {
+      "subdivision": "--Languages",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Consult H 1154 for further subdivisions used under languages.",
+      "see_also": [],
+      "consult": [
+        "H 1154"
+      ],
+      "endnote": "",
+      "marc": "$x Languages"
+    },
+    {
+      "subdivision": "--Languages--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1705"
+      ],
+      "endnote": "",
+      "marc": "$x Languages $x Law and legislation"
+    },
+    {
+      "subdivision": "--Languages--Political aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1942"
+      ],
+      "endnote": "",
+      "marc": "$x Languages $x Political aspects"
+    },
+    {
+      "subdivision": "--Library resources",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Library resources"
+    },
+    {
+      "subdivision": "--Literatures",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Consult H 1156 for further subdivisions used under literatures.",
+      "see_also": [],
+      "consult": [
+        "H 1156"
+      ],
+      "endnote": "",
+      "marc": "$x Literatures"
+    },
+    {
+      "subdivision": "--Maps",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1865"
+      ],
+      "endnote": "",
+      "marc": "$x Maps"
+    },
+    {
+      "subdivision": "--Maps--Early works to 1800",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1576"
+      ],
+      "endnote": "",
+      "marc": "$x Maps $x Early works to 1800"
+    },
+    {
+      "subdivision": "--Military policy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use only under countries and regions larger than countries",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Military policy"
+    },
+    {
+      "subdivision": "--Military policy--Religious aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use only under countries and regions larger than countries",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1998"
+      ],
+      "endnote": "",
+      "marc": "$x Military policy $x Religious aspects"
+    },
+    {
+      "subdivision": "--Military relations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1996"
+      ],
+      "endnote": "",
+      "marc": "$x Military relations"
+    },
+    {
+      "subdivision": "--Militia",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under cities. Consult H 1159 for further subdivisions used under military services.",
+      "see_also": [],
+      "consult": [
+        "H 1159"
+      ],
+      "endnote": "",
+      "marc": "$x Militia"
+    },
+    {
+      "subdivision": "--Moral conditions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Moral conditions"
+    },
+    {
+      "subdivision": "--Name",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1919"
+      ],
+      "endnote": "",
+      "marc": "$x Name"
+    },
+    {
+      "subdivision": "--National Guard",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use only under countries and regions larger than countries",
+      "notes": "Consult H 1159 for further subdivisions used under military services.",
+      "see_also": [],
+      "consult": [
+        "H 1159"
+      ],
+      "endnote": "",
+      "marc": "$x National Guard"
+    },
+    {
+      "subdivision": "--Naval militia",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under cities.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Naval militia"
+    },
+    {
+      "subdivision": "--Officials and employees",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "Consult H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "",
+      "marc": "$x Officials and employees"
+    },
+    {
+      "subdivision": "--Officials and employees--Accidents",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Officials and employees $x Accidents"
+    },
+    {
+      "subdivision": "--Officials and employees--Foreign countries",
+      "subfield": "z",
+      "type": "geographic",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Officials and employees $z Foreign countries"
+    },
+    {
+      "subdivision": "--Officials and employees--Foreign countries--Foreign language competency",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Officials and employees $z Foreign countries $x Foreign language competency"
+    },
+    {
+      "subdivision": "--Officials and employees--Furloughs",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Officials and employees $x Furloughs"
+    },
+    {
+      "subdivision": "--Officials and employees--Leave regulations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Officials and employees $x Leave regulations"
+    },
+    {
+      "subdivision": "--Officials and employees--Payroll deductions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Officials and employees $x Payroll deductions"
+    },
+    {
+      "subdivision": "--Officials and employees--Salaries, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Officials and employees $x Salaries, etc."
+    },
+    {
+      "subdivision": "--Officials and employees--Salaries, etc.--Regional disparities",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under cities.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Officials and employees $x Salaries, etc. $x Regional disparities"
+    },
+    {
+      "subdivision": "--Officials and employees--Turnover",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Officials and employees $x Turnover"
+    },
+    {
+      "subdivision": "--Officials and employees, Noncitizen",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Consult H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "",
+      "marc": "$x Officials and employees, Noncitizen"
+    },
+    {
+      "subdivision": "--Officials and employees, Honorary",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Consult H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "",
+      "marc": "$x Officials and employees, Honorary"
+    },
+    {
+      "subdivision": "--Officials and employees, Retired",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Consult H 1100 for further subdivisions used under classes of persons.",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "",
+      "marc": "$x Officials and employees, Retired"
+    },
+    {
+      "subdivision": "--On postage stamps",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1945"
+      ],
+      "endnote": "",
+      "marc": "$x On postage stamps"
+    },
+    {
+      "subdivision": "--On television",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x On television"
+    },
+    {
+      "subdivision": "--Politics and government",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1942"
+      ],
+      "endnote": "",
+      "marc": "$x Politics and government"
+    },
+    {
+      "subdivision": "--Politics and government--16th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1942"
+      ],
+      "endnote": "",
+      "marc": "$x Politics and government $y 16th century"
+    },
+    {
+      "subdivision": "--Politics and government--17th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1942"
+      ],
+      "endnote": "",
+      "marc": "$x Politics and government $y 17th century"
+    },
+    {
+      "subdivision": "--Politics and government--18th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1942"
+      ],
+      "endnote": "",
+      "marc": "$x Politics and government $y 18th century"
+    },
+    {
+      "subdivision": "--Politics and government--19th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1942"
+      ],
+      "endnote": "",
+      "marc": "$x Politics and government $y 19th century"
+    },
+    {
+      "subdivision": "--Politics and government--20th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1942"
+      ],
+      "endnote": "",
+      "marc": "$x Politics and government $y 20th century"
+    },
+    {
+      "subdivision": "--Politics and government--21st century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1942"
+      ],
+      "endnote": "",
+      "marc": "$x Politics and government $y 21st century"
+    },
+    {
+      "subdivision": "--Politics and government--[Period subdivision]--Philosophy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Politics and government $y [Period subdivision] $x Philosophy"
+    },
+    {
+      "subdivision": "--Politics and government--Philosophy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Politics and government $x Philosophy"
+    },
+    {
+      "subdivision": "--Population",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Population"
+    },
+    {
+      "subdivision": "--Population--Economic aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Population $x Economic aspects"
+    },
+    {
+      "subdivision": "--Population--Environmental aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Population $x Environmental aspects"
+    },
+    {
+      "subdivision": "--Population policy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Population policy"
+    },
+    {
+      "subdivision": "--Posters",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1945.5"
+      ],
+      "endnote": "",
+      "marc": "$x Posters"
+    },
+    {
+      "subdivision": "--Press coverage",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Press coverage"
+    },
+    {
+      "subdivision": "--Quotations, maxims, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1969"
+      ],
+      "endnote": "",
+      "marc": "$x Quotations, maxims, etc."
+    },
+    {
+      "subdivision": "--Race relations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1845"
+      ],
+      "endnote": "",
+      "marc": "$x Race relations"
+    },
+    {
+      "subdivision": "--Race relations--Economic aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Race relations $x Economic aspects"
+    },
+    {
+      "subdivision": "--Race relations--Political aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Race relations $x Political aspects"
+    },
+    {
+      "subdivision": "--Relations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1996"
+      ],
+      "endnote": "",
+      "marc": "$x Relations"
+    },
+    {
+      "subdivision": "--Religion",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1845",
+        "H 1997"
+      ],
+      "endnote": "",
+      "marc": "$x Religion"
+    },
+    {
+      "subdivision": "--Religion--16th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1997"
+      ],
+      "endnote": "",
+      "marc": "$x Religion $y 16th century"
+    },
+    {
+      "subdivision": "--Religion--17th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1997"
+      ],
+      "endnote": "",
+      "marc": "$x Religion $y 17th century"
+    },
+    {
+      "subdivision": "--Religion--18th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1997"
+      ],
+      "endnote": "",
+      "marc": "$x Religion $y 18th century"
+    },
+    {
+      "subdivision": "--Religion--19th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1997"
+      ],
+      "endnote": "",
+      "marc": "$x Religion $y 19th century"
+    },
+    {
+      "subdivision": "--Religion--20th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1997"
+      ],
+      "endnote": "",
+      "marc": "$x Religion $y 20th century"
+    },
+    {
+      "subdivision": "--Religion--21st century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1997"
+      ],
+      "endnote": "",
+      "marc": "$x Religion $y 21st century"
+    },
+    {
+      "subdivision": "--Religion--Economic aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Religion $x Economic aspects"
+    },
+    {
+      "subdivision": "--Religious life and customs",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1845",
+        "H 2016"
+      ],
+      "endnote": "",
+      "marc": "$x Religious life and customs"
+    },
+    {
+      "subdivision": "--Research",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2020"
+      ],
+      "endnote": "",
+      "marc": "$x Research"
+    },
+    {
+      "subdivision": "--Rural conditions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use under cities.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Rural conditions"
+    },
+    {
+      "subdivision": "--Scheduled tribes",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use only under India and names of states, regions, cities, etc., of India",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Scheduled tribes"
+    },
+    {
+      "subdivision": "--Seal",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Seal"
+    },
+    {
+      "subdivision": "--Social conditions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1845",
+        "H 2055"
+      ],
+      "endnote": "",
+      "marc": "$x Social conditions"
+    },
+    {
+      "subdivision": "--Social conditions--16th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2055"
+      ],
+      "endnote": "",
+      "marc": "$x Social conditions $y 16th century"
+    },
+    {
+      "subdivision": "--Social conditions--17th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2055"
+      ],
+      "endnote": "",
+      "marc": "$x Social conditions $y 17th century"
+    },
+    {
+      "subdivision": "--Social conditions--18th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2055"
+      ],
+      "endnote": "",
+      "marc": "$x Social conditions $y 18th century"
+    },
+    {
+      "subdivision": "--Social conditions--19th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2055"
+      ],
+      "endnote": "",
+      "marc": "$x Social conditions $y 19th century"
+    },
+    {
+      "subdivision": "--Social conditions--20th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2055"
+      ],
+      "endnote": "",
+      "marc": "$x Social conditions $y 20th century"
+    },
+    {
+      "subdivision": "--Social conditions--21st century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2055"
+      ],
+      "endnote": "",
+      "marc": "$x Social conditions $y 21st century"
+    },
+    {
+      "subdivision": "--Social life and customs",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1627",
+        "H 1845",
+        "H 2057"
+      ],
+      "endnote": "",
+      "marc": "$x Social life and customs"
+    },
+    {
+      "subdivision": "--Social life and customs--16th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2057"
+      ],
+      "endnote": "",
+      "marc": "$x Social life and customs $y 16th century"
+    },
+    {
+      "subdivision": "--Social life and customs--17th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2057"
+      ],
+      "endnote": "",
+      "marc": "$x Social life and customs $y 17th century"
+    },
+    {
+      "subdivision": "--Social life and customs--18th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2057"
+      ],
+      "endnote": "",
+      "marc": "$x Social life and customs $y 18th century"
+    },
+    {
+      "subdivision": "--Social life and customs--19th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2057"
+      ],
+      "endnote": "",
+      "marc": "$x Social life and customs $y 19th century"
+    },
+    {
+      "subdivision": "--Social life and customs--20th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2057"
+      ],
+      "endnote": "",
+      "marc": "$x Social life and customs $y 20th century"
+    },
+    {
+      "subdivision": "--Social life and customs--21st century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2057"
+      ],
+      "endnote": "",
+      "marc": "$x Social life and customs $y 21st century"
+    },
+    {
+      "subdivision": "--Social policy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Social policy"
+    },
+    {
+      "subdivision": "--Songs and music",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Songs and music"
+    },
+    {
+      "subdivision": "--Songs and music--History and criticism",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2075"
+      ],
+      "endnote": "",
+      "marc": "$x Songs and music $x History and criticism"
+    },
+    {
+      "subdivision": "--Statistical services",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2095"
+      ],
+      "endnote": "",
+      "marc": "$x Statistical services"
+    },
+    {
+      "subdivision": "--Statistical services--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1705"
+      ],
+      "endnote": "",
+      "marc": "$x Statistical services $x Law and legislation"
+    },
+    {
+      "subdivision": "--Statistics",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2095"
+      ],
+      "endnote": "",
+      "marc": "$x Statistics"
+    },
+    {
+      "subdivision": "--Statistics, Medical",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2095"
+      ],
+      "endnote": "",
+      "marc": "$x Statistics, Medical"
+    },
+    {
+      "subdivision": "--Statistics, Vital",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2095"
+      ],
+      "endnote": "",
+      "marc": "$x Statistics, Vital"
+    },
+    {
+      "subdivision": "--Strategic aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Strategic aspects"
+    },
+    {
+      "subdivision": "--Study and teaching",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "Use for works on study and teaching about the place",
+      "notes": "The free-floating subdivision *--Study and teaching*, qualified by level of study, for example, *--Study and teaching (Elementary)*; *--Study and teaching (Secondary)*, may also be used under places.",
+      "see_also": [],
+      "consult": [
+        "H 1095",
+        "H 2110"
+      ],
+      "endnote": "",
+      "marc": "$x Study and teaching"
+    },
+    {
+      "subdivision": "--Study and teaching--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1705"
+      ],
+      "endnote": "",
+      "marc": "$x Study and teaching $x Law and legislation"
+    },
+    {
+      "subdivision": "--Symbolic representation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Symbolic representation"
+    },
+    {
+      "subdivision": "--Territorial expansion",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use only under countries and regions larger than countries",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Territorial expansion"
+    },
+    {
+      "subdivision": "--Territories and possessions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "Use only under countries and regions larger than countries",
+      "notes": "*[Name of country]--Territories and possessions* may also be used under topical headings, for example, *Taxation--United States--Territories and possessions*.",
+      "see_also": [],
+      "consult": [
+        "H 2185"
+      ],
+      "endnote": "",
+      "marc": "$x Territories and possessions"
+    },
+    {
+      "subdivision": "--Territories and possessions--Politics and government",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Territories and possessions $x Politics and government"
+    },
+    {
+      "subdivision": "--Trials, litigation, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2228"
+      ],
+      "endnote": "",
+      "marc": "$x Trials, litigation, etc."
+    },
+    {
+      "subdivision": "--Abstracts",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1205"
+      ],
+      "endnote": "",
+      "marc": "$v Abstracts"
+    },
+    {
+      "subdivision": "--Aerial film and video footage",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Aerial film and video footage"
+    },
+    {
+      "subdivision": "--Aerial photographs",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1210.5"
+      ],
+      "endnote": "",
+      "marc": "$v Aerial photographs"
+    },
+    {
+      "subdivision": "--Aerial views",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1210.5"
+      ],
+      "endnote": "",
+      "marc": "$v Aerial views"
+    },
+    {
+      "subdivision": "--Anecdotes",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Anecdotes"
+    },
+    {
+      "subdivision": "--Audiocassette catalogs",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1361"
+      ],
+      "endnote": "",
+      "marc": "$v Audiocassette catalogs"
+    },
+    {
+      "subdivision": "--Audiotape catalogs",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1361"
+      ],
+      "endnote": "",
+      "marc": "$v Audiotape catalogs"
+    },
+    {
+      "subdivision": "--Bio-bibliography",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1328"
+      ],
+      "endnote": "",
+      "marc": "$v Bio-bibliography"
+    },
+    {
+      "subdivision": "--Biography",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [
+        "--History--[Period subdivision]--Biography"
+      ],
+      "consult": [
+        "H 1330",
+        "H 1845"
+      ],
+      "endnote": "",
+      "marc": "$v Biography"
+    },
+    {
+      "subdivision": "--Biography--Anecdotes",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Biography $v Anecdotes"
+    },
+    {
+      "subdivision": "--Biography--Caricatures and cartoons",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Biography $v Caricatures and cartoons"
+    },
+    {
+      "subdivision": "--Biography--Dictionaries",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Biography $v Dictionaries"
+    },
+    {
+      "subdivision": "--Biography--Dictionaries--French, [Italian, etc.]",
+      "subfield": "x",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Biography $v Dictionaries $x French, [Italian, etc.]"
+    },
+    {
+      "subdivision": "--Biography--Humor",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Biography $v Humor"
+    },
+    {
+      "subdivision": "--Biography--Pictorial works",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1935"
+      ],
+      "endnote": "",
+      "marc": "$v Biography $v Pictorial works"
+    },
+    {
+      "subdivision": "--Biography--Portraits",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1935"
+      ],
+      "endnote": "",
+      "marc": "$v Biography $v Portraits"
+    },
+    {
+      "subdivision": "--Biography--Sources",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Biography $v Sources"
+    },
+    {
+      "subdivision": "--Book reviews",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2021"
+      ],
+      "endnote": "",
+      "marc": "$v Book reviews"
+    },
+    {
+      "subdivision": "--Calendars",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Calendars"
+    },
+    {
+      "subdivision": "--Census",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1366"
+      ],
+      "endnote": "",
+      "marc": "$v Census"
+    },
+    {
+      "subdivision": "--Census, [date]",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1366"
+      ],
+      "endnote": "",
+      "marc": "$v Census, [date]"
+    },
+    {
+      "subdivision": "--Charters",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use only under states, counties, cities, etc., of the United States and under Indigenous jurisdictions of the United States",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Charters"
+    },
+    {
+      "subdivision": "--Charters, grants, privileges",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use as a form subdivision under names of countries, etc., other than the United States, and under names of cities other than those of the United States for individual or collections of charters, grants, etc., of those places",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Charters, grants, privileges"
+    },
+    {
+      "subdivision": "--Climate--Observations",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Climate $v Observations"
+    },
+    {
+      "subdivision": "--Commercial treaties",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use only under countries and regions larger than countries",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2227"
+      ],
+      "endnote": "",
+      "marc": "$v Commercial treaties"
+    },
+    {
+      "subdivision": "--Compact disc catalogs",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1361"
+      ],
+      "endnote": "",
+      "marc": "$v Compact disc catalogs"
+    },
+    {
+      "subdivision": "--Directories",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1558"
+      ],
+      "endnote": "",
+      "marc": "$v Directories"
+    },
+    {
+      "subdivision": "--Drama",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1780"
+      ],
+      "endnote": "",
+      "marc": "$v Drama"
+    },
+    {
+      "subdivision": "--Early works to 1800",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1576"
+      ],
+      "endnote": "",
+      "marc": "$v Early works to 1800"
+    },
+    {
+      "subdivision": "--Fiction",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1790"
+      ],
+      "endnote": "",
+      "marc": "$v Fiction"
+    },
+    {
+      "subdivision": "--Folklore",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use as a form subdivision under names of countries, cities, etc. for collections of folklore texts",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1627"
+      ],
+      "endnote": "",
+      "marc": "$v Folklore"
+    },
+    {
+      "subdivision": "--Gazetteers",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1630"
+      ],
+      "endnote": "",
+      "marc": "$v Gazetteers"
+    },
+    {
+      "subdivision": "--Genealogy",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1631",
+        "H 1845"
+      ],
+      "endnote": "",
+      "marc": "$v Genealogy"
+    },
+    {
+      "subdivision": "--Guidebooks",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1645"
+      ],
+      "endnote": "",
+      "marc": "$v Guidebooks"
+    },
+    {
+      "subdivision": "--History--Anecdotes",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x History $v Anecdotes"
+    },
+    {
+      "subdivision": "--History--Chronology",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1367"
+      ],
+      "endnote": "",
+      "marc": "$x History $v Chronology"
+    },
+    {
+      "subdivision": "--History--Comic books, strips, etc.",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x History $v Comic books, strips, etc."
+    },
+    {
+      "subdivision": "--History--Humor",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x History $v Humor"
+    },
+    {
+      "subdivision": "--History--Pictorial works",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1935"
+      ],
+      "endnote": "",
+      "marc": "$x History $v Pictorial works"
+    },
+    {
+      "subdivision": "--History--Sources",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2080"
+      ],
+      "endnote": "",
+      "marc": "$x History $v Sources"
+    },
+    {
+      "subdivision": "--Humor",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Humor"
+    },
+    {
+      "subdivision": "--Imprints",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1660"
+      ],
+      "endnote": "",
+      "marc": "$v Imprints"
+    },
+    {
+      "subdivision": "--In art",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "names of countries, cities, etc. for works consisting of reproductions of artistic works that depict that place",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 362",
+        "H 910",
+        "H 1250",
+        "H 1935"
+      ],
+      "endnote": "",
+      "marc": "$v In art"
+    },
+    {
+      "subdivision": "--Juvenile drama",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1690"
+      ],
+      "endnote": "",
+      "marc": "$v Juvenile drama"
+    },
+    {
+      "subdivision": "--Juvenile fiction",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1690"
+      ],
+      "endnote": "",
+      "marc": "$v Juvenile fiction"
+    },
+    {
+      "subdivision": "--Juvenile humor",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1690"
+      ],
+      "endnote": "",
+      "marc": "$v Juvenile humor"
+    },
+    {
+      "subdivision": "--Juvenile poetry",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1690"
+      ],
+      "endnote": "",
+      "marc": "$v Juvenile poetry"
+    },
+    {
+      "subdivision": "--Kings and rulers--Folklore",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1627"
+      ],
+      "endnote": "",
+      "marc": "$v Kings and rulers $v Folklore"
+    },
+    {
+      "subdivision": "--Kings and rulers--Genealogy",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1631"
+      ],
+      "endnote": "",
+      "marc": "$v Kings and rulers $v Genealogy"
+    },
+    {
+      "subdivision": "--Languages--Texts",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2190"
+      ],
+      "endnote": "",
+      "marc": "$v Languages $v Texts"
+    },
+    {
+      "subdivision": "--Literary collections",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 910"
+      ],
+      "endnote": "",
+      "marc": "$v Literary collections"
+    },
+    {
+      "subdivision": "--Literatures",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Consult H 1156 for further subdivisions used under literatures.",
+      "see_also": [],
+      "consult": [
+        "H 1156",
+        "H 1828"
+      ],
+      "endnote": "",
+      "marc": "$v Literatures"
+    },
+    {
+      "subdivision": "--Maps",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1865"
+      ],
+      "endnote": "",
+      "marc": "$v Maps"
+    },
+    {
+      "subdivision": "--Maps--Bibliography",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Maps $v Bibliography"
+    },
+    {
+      "subdivision": "--Maps--Early works to 1800",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1576"
+      ],
+      "endnote": "",
+      "marc": "$v Maps $v Early works to 1800"
+    },
+    {
+      "subdivision": "--Maps--Facsimiles",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1595"
+      ],
+      "endnote": "",
+      "marc": "$v Maps $v Facsimiles"
+    },
+    {
+      "subdivision": "--Newspapers",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "Use for newspapers for and about specific places",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1920"
+      ],
+      "endnote": "",
+      "marc": "$v Newspapers"
+    },
+    {
+      "subdivision": "--Photographs from space",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Do not use for cartographic materials.",
+      "see_also": [],
+      "consult": [
+        "H 1210.5"
+      ],
+      "endnote": "",
+      "marc": "$v Photographs from space"
+    },
+    {
+      "subdivision": "--Pictorial works",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1935"
+      ],
+      "endnote": "",
+      "marc": "$v Pictorial works"
+    },
+    {
+      "subdivision": "--Poetry",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1800"
+      ],
+      "endnote": "",
+      "marc": "$v Poetry"
+    },
+    {
+      "subdivision": "--Posters",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1945.5"
+      ],
+      "endnote": "",
+      "marc": "$v Posters"
+    },
+    {
+      "subdivision": "--Quotations, maxims, etc.",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1969"
+      ],
+      "endnote": "",
+      "marc": "$v Quotations, maxims, etc."
+    },
+    {
+      "subdivision": "--Registers",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1558"
+      ],
+      "endnote": "",
+      "marc": "$v Registers"
+    },
+    {
+      "subdivision": "--Relief models",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Relief models"
+    },
+    {
+      "subdivision": "--Remote-sensing images",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Remote-sensing images"
+    },
+    {
+      "subdivision": "--Slides",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Slides"
+    },
+    {
+      "subdivision": "--Songs and music",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2075"
+      ],
+      "endnote": "",
+      "marc": "$v Songs and music"
+    },
+    {
+      "subdivision": "--Songs and music--Texts",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2190"
+      ],
+      "endnote": "",
+      "marc": "$v Songs and music $v Texts"
+    },
+    {
+      "subdivision": "--Statistics",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2095"
+      ],
+      "endnote": "",
+      "marc": "$v Statistics"
+    },
+    {
+      "subdivision": "--Statistics, Medical",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2095"
+      ],
+      "endnote": "",
+      "marc": "$v Statistics, Medical"
+    },
+    {
+      "subdivision": "--Statistics, Vital",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2095"
+      ],
+      "endnote": "",
+      "marc": "$v Statistics, Vital"
+    },
+    {
+      "subdivision": "--Surveys",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Surveys"
+    },
+    {
+      "subdivision": "--Telephone directories",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1558"
+      ],
+      "endnote": "",
+      "marc": "$v Telephone directories"
+    },
+    {
+      "subdivision": "--Telephone directories--Yellow pages",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Telephone directories $v Yellow pages"
+    },
+    {
+      "subdivision": "--Tours",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1645"
+      ],
+      "endnote": "",
+      "marc": "$v Tours"
+    },
+    {
+      "subdivision": "--Trials, litigation, etc.",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 2228"
+      ],
+      "endnote": "",
+      "marc": "$v Trials, litigation, etc."
+    },
+    {
+      "subdivision": "--…Metropolitan Area ([Geographic qualifier])",
+      "subfield": "z",
+      "type": "geographic",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Based on names of cities.",
+      "see_also": [],
+      "consult": [
+        "H 790"
+      ],
+      "endnote": "",
+      "marc": "$z …Metropolitan Area ([Geographic qualifier])"
+    },
+    {
+      "subdivision": "--…Suburban Area ([Geographic qualifier])",
+      "subfield": "z",
+      "type": "geographic",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Based on names of cities.",
+      "see_also": [],
+      "consult": [
+        "H 790"
+      ],
+      "endnote": "",
+      "marc": "$z …Suburban Area ([Geographic qualifier])"
+    },
+    {
+      "subdivision": "--…Region ([Geographic qualifier])",
+      "subfield": "z",
+      "type": "geographic",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Based on names of cities and geographic features.",
+      "see_also": [],
+      "consult": [
+        "H 790"
+      ],
+      "endnote": "",
+      "marc": "$z …Region ([Geographic qualifier])"
+    }
+  ]
+}

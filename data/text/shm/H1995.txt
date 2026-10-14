@@ -1,0 +1,69 @@
+
+
+<<<PAGE 1>>>
+ 
+Regimental Histories  H 1995 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1995 Page 1 
+ 
+September 2013 
+1.  General rule.  Use the subdivision BRegimental histories as a free-floating topical subdi- 
+vision under names of wars for histories of individual participating military organizations for the 
+period of the war. 
+ 
+ 
+ 
+ 
+2.  Generic usage.  Use the subdivision in the generic sense for the history of any organiza-
+tional unit lower than a branch of the armed forces, including individual divisions, regiments, 
+fleets, squadrons, etc. 
+ 
+ 
+ 
+3.  Geographic subdivision.  Further subdivide the subdivision, if appropriate, by the name of 
+the country to which the organization belongs; do not subdivide BRegimental histories by a 
+jurisdiction smaller than a country. 
+ 
+Do not further subdivide the subdivision BRegimental histories or the subdivision BRegimental 
+historiesB[country] by the name of the military unit. 
+ 
+ 
+ 
+ 
+4.  Usage under names of wars.  When using the subdivision under names of wars, assign as an 
+additional subject heading the corporate name of the individual military unit.  Examples: 
+ 
+651 #0 $a United States $x History $y Civil War, 1861-1865  
+            $x Regimental histories. 
+610 10 $a United States. $b Army. $b Pennsylvania Cavalry  
+            Regiment, 7th (1861-1865) $x History. 
+ 
+650 #0 $a World War, 1939-1945 $x Regimental histories $z United 
+            States.   
+610 10 $a United States. $b Army. $b Armored Division, 3rd  
+            $x History. 
+ 
+In accordance with H 1200, sec. 3.b., for wars established as subdivisions under the United 
+States, also assign the heading [name of state or locality]BHistoryB[name of war]BRegimental 
+histories, if the war has been established as a period subdivision under the state or locality in 
+question and if appropriate for the work being cataloged. 
+
+
+<<<PAGE 2>>>
+H 1995  Regimental Histories 
+ 
+ 
+ 
+H 1995 Page 2 
+Subject Headings Manual 
+September 2013 
+5.  Branch of the armed forces.  For a work that deals specifically and exclusively with the 
+activities of a particular branch of a country's armed forces during a war, assign a heading of the 
+type United States.  ArmyBHistoryBWorld War, 1939-1945 in accordance with H 1159. 
+ 
+Headings of this type are assigned only in addition to a heading designating the particular war 
+(with topical or local subdivisions, as appropriate).  Do not assign in such cases a heading for 
+the war with the subdivision BRegimental histories. 

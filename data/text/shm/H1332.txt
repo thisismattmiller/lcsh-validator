@@ -1,0 +1,415 @@
+
+
+<<<PAGE 1>>>
+ 
+Biological Names  H 1332 
+ 
+ 
+BACKGROUND:  Formerly, headings for names of animals and plants at particular 
+taxonomic levels were established only when a work about an organism at that specific level was 
+cataloged.  In the early 1970s, the practice was adopted of always making the BT reference from 
+a heading at the next higher level along the hierarchy of species-genus-family-order-class- 
+phylum even if it meant establishing a heading for which no work had been cataloged.  
+Intermediate levels such as superfamilies or suborders are no longer established, or retained 
+from the old system, unless the intermediate grouping is considered particularly helpful or 
+warranted by common usage, for example, butterflies or trout.  Intermediate group names are 
+used 
+as 
+additional 
+BT 
+references 
+but 
+do 
+not 
+replace 
+the 
+standard 
+genus-family-order-class-phylum reference structure. 
+ 
+This instruction sheet provides guidelines for establishing names of animals and plants, 
+including domestic animal breeds, cultivated plant varieties, and fossils. 
+ 
+ 
+ 
+ 
+1.  Level of name.  Establish names of animals and plants at the following taxonomic levels 
+only:  species, genus, family, order, class, phylum, or division.  Do not establish other levels, 
+such as suborders or superfamilies except in the case of popular names for intermediate groups, 
+such as butterflies or trout, or common names for well-known subspecies. 
+ 
+ 
+ 
+ 
+2.  Form of name. 
+ 
+a.  Latin or common name.  Prefer the common name if it is in popular use and 
+unambiguous, using as reference sources Web. 3, other general dictionaries or 
+encyclopedias, recent textbooks, popular field guides, and lists of official common names 
+issued by societies or government agencies.  Prefer the common name for animals and 
+plants of economic importance, such as pests or cultivated plants.  Prefer Latin when the 
+common name represents several levels (species, genus, family) or the term is not in 
+general lay usage.  In general, for organisms occurring only in foreign countries, prefer 
+the Latin name unless an English common name is found in standard reference sources.  
+A local common name may be used if it does not conflict with a common name from the 
+United States.  Do not begin a heading for the name of a plant or animal with the word 
+common, unless the name appears in that form in Web. 3 or some other authoritative 
+source. 
+ 
+Subject Headings Manual 
+H 1332 Page 1 
+ 
+February 2015 
+
+
+<<<PAGE 2>>>
+H 1332  Biological Names 
+ 
+ 
+2.  Form of name.  (Continued)   
+ 
+b.  Singular or plural form of common name.  Establish species in the singular form.  
+Establish all higher levels in the plural form.  Many older headings do not conform to 
+this policy and may be revised as workload permits.  For use of animal names in 
+headings of the type [type of animal] as [ . . . ], see H 360, sec. 5. 
+ 
+ 
+ 
+Exception:  Headings for domestic animals that humans raise as livestock or 
+keep as pets and cultivated plants are often established in the plural even if they 
+represent the species level, for example, Cats; Dogs; Sweet potatoes.  Domestic 
+animal breeds and cultivated plant varieties are established in the singular.  See 
+sec. 8 below.  
+ 
+ 
+ 
+ 
+  
+c.  Parenthetical qualifiers of names.  Add a parenthetical qualifier when necessary to 
+distinguish two or more meanings of the same term.  Use the singular form to qualify 
+species and the plural for higher taxonomic levels.  Examples: 
+ 
+ 
+ 
+Divers (Birds)  
+vs. 
+Divers  [the people] 
+ 
+Cranes (Birds)  
+vs. 
+Cranes, derricks, etc. 
+ 
+Redhead (Bird) 
+vs. 
+Redheads  [the people] 
+ 
+Docks (Plants) 
+vs. 
+Docks  [for boats] 
+ 
+ 
+ 
+If it is necessary to distinguish taxonomic levels, add a parenthetical qualifier for the level, 
+for example, Rhinoceros (Genus) (to distinguish the genus from Rhinoceroses, the 
+common name for the family level). 
+ 
+H 1332 Page 2 
+Subject Headings Manual 
+February 2015 
+
+
+<<<PAGE 3>>>
+ 
+Biological Names  H 1332 
+ 
+ 
+2.  Form of name. 
+ 
+c.  Parenthetical qualifiers of names.  (Continued) 
+ 
+ 
+(1) Animals.  Choose as the qualifier the appropriate term from the list below: 
+ 
+Invertebrates (Phyla)  
+ 
+     Arthropoda (Classes)* 
+Acanthocephala 
+ 
+Mollusks 
+ 
+   Arachnida 
+Annelida 
+ 
+ 
+Nematoda 
+        Crustacea 
+Arthropoda*  
+ 
+Nemertinea 
+ 
+   Insects 
+Brachiopoda  
+ 
+Onychophora 
+Bryozoa 
+ 
+ 
+Pentastomida      Vertebrates (Classes) 
+Chaetognatha  
+ 
+Platyhelminthes 
+   Amphibians 
+Cnidaria      
+ 
+Pogonophora     
+   Birds 
+Ctenophora 
+ 
+ 
+Priapulida  
+ 
+   Fish 
+Echinodermata 
+ 
+Protochordates 
+   Mammals 
+Echiura      
+ 
+Protozoa 
+ 
+   Reptiles 
+Entoprocta 
+ 
+ 
+Rotifera 
+Gastrotricha 
+ 
+ 
+Sipuncula 
+Gordiacea 
+ 
+ 
+Sponges    
+Kinorhyncha  
+ 
+Tardigrada 
+Mesozoa 
+ 
+                 
+ 
+ 
+*Organisms of the Arthropod phylum are qualified by the term Arthropoda, 
+except for arachnids, crustaceans, and insects, which are qualified at the class 
+level. 
+ 
+ 
+(2)  Plants.  Choose as the qualifier the appropriate term from the list below: 
+ 
+ 
+Algae  
+ 
+Lichens 
+Bryophytes 
+ 
+Liverworts 
+Ferns  
+ 
+Mosses 
+Fungi  
+ 
+Angiosperms 
+ 
+If none of these terms is appropriate, use the term Plants as the qualifier. 
+ 
+Subject Headings Manual 
+H 1332 Page 3 
+ 
+February 2015 
+
+
+<<<PAGE 4>>>
+H 1332  Biological Names 
+ 
+ 
+ 
+3.  Authorities for names.  Preference is given to: 
+ 
+ 
+ (1) The authorities followed by the Smithsonian Institution's taxonomists.   
+ 
+ 
+(2) Work cataloged, when published by a renowned research institute.  Use caution 
+with foreign classifications that may conflict with American practice. 
+ 
+ 
+(3) Taxonomic lists issued by American societies or government agencies, such as the 
+American Entomological Society, United States Department of Agriculture, Environ-
+mental Protection Agency, etc. 
+ 
+ 
+(4) General thesauri and classifications such as the McGraw-Hill Synopsis, FAO lists, 
+Wilson's Biological & Agricultural Index. 
+ 
+ 
+(5) Web. 3 and other general reference books, textbooks, and field guides. 
+ 
+ 
+ 
+ 
+4.  References. 
+ 
+ 
+a.  UF references.  Add 450 fields with Latin and English variants. 
+ 
+ 
+Also add 450 fields with inverted forms when it would be helpful to provide entry from 
+embedded terms.  However, do not add 450 fields from inverted forms in instances 
+where a 550 (broader term) field is present that begins with the same word as the UF or 
+where the heading is in a hierarchy leading up to the same word(s) (cf. H 373 sec. 2). 
+ 
+ 
+Do not add 450 fields beginning with the word common unless that form is found in 
+authoritative reference sources. 
+ 
+H 1332 Page 4 
+Subject Headings Manual 
+February 2015 
+
+
+<<<PAGE 5>>>
+ 
+Biological Names  H 1332 
+ 
+ 
+ 
+ 
+4.  References.  (Continued) 
+ 
+b.  Broader term references.  Add 550 (broader term) fields from the next broader level 
+in the hierarchy of genus, family, order, class, phylum, or division. 
+ 
+Even if the species and genus are both established in the Latin form and both begin with 
+the same word, add the heading for the genus as a 550 (broader term) field in the record 
+for the heading for the species. 
+ 
+Whenever necessary, establish the name of the next broader level in order to make the 
+broader term reference. 
+ 
+Make an additional broader term reference for any intermediate group common name, 
+such as butterflies or trout, if it exists.  For example, a moth family name would have 
+both BT Lepidoptera and BT Moths.  Do not establish common name groups solely to 
+make references. 
+ 
+5.  Geographic subdivision of names.  Authorize geographic subdivision for headings for 
+animals and plants in Latin or common names at any taxonomic level following the procedures in 
+H 200 sec. 5. 
+ 
+6.  Classification numbers.  Provide classification numbers in 053 fields of records for animal 
+and plant headings following the procedures in H 200 sec. 6, as specifically as the QL (Zoology) 
+and QK (Botany) schedules allow, which is usually at the family level.  Also provide 
+classification numbers from the SB (Plant culture), SD (Forestry), and SF (Animal culture) 
+schedules for crops, pests, domestic animals, and pets when specific numbers exist in those 
+schedules.  Because it is possible for works about many animals and plants to class in either Q 
+or S, depending on context, generally supply qualifiers for the classification numbers.  Use 
+(Zoology) or (Protozoology) for QL and (Botany), (Algology), or (Mycology) for QK. 
+ 
+7.  Nonprint (OMIT) headings.  Formerly, Latin names below the order level were omitted from 
+printing in Library of Congress Subject Headings.  All Latin names are now established in the 
+subject authority file. Some headings that were not printed when they were first established were 
+later printed because they were generated by their use as a BT for another heading.  These 
+computer-generated headings lack appropriate reference structure and classification numbers and 
+should be revised as necessary when they are encountered. 
+ 
+Subject Headings Manual 
+H 1332 Page 5 
+ 
+February 2015 
+
+
+<<<PAGE 6>>>
+H 1332  Biological Names 
+ 
+ 
+8.  Animal and plant culture. 
+ 
+a.  Form of name.  Establish names of domestic animal breeds and cultivated plant 
+varieties in English, if possible.  Establish such names in the singular unless they are 
+group names for several breeds or varieties, such as Hounds or Melons. 
+ 
+ 
+b.  Authorities for names.  Seek authority for the name in the lists of breeds or varieties 
+published by societies or government agencies such as the American Kennel Association 
+or the United States Department of Agriculture, or in other standard reference sources. 
+ 
+ 
+c.  References.  Make UF references from synonymous names and broader term 
+references from group names. 
+ 
+ 
+d.  Geographic subdivision of names.  Authorize domestic animal breeds and cultivated 
+plant varieties for geographic subdivision, for example, Hereford cattleBTexas; Brocco-
+liB California. 
+ 
+ 
+ 
+9.  Animals with proper names. Headings for individual animals with proper names are 
+established in the name authority file and may be assigned as subject headings. Existing subject 
+headings may continue to be assigned until they are cancelled in favor of name headings. 
+ 
+Note: Until 2013, headings for proper names of individual animals that were publicly 
+known, such as pets of famous people, animal performers, zoo animals, etc., were 
+established in LCSH. The headings were qualified by the type of animal and a BT was 
+made from the generic heading for the type of animal.  Particular aspects of the animal, 
+such as breed or special use, were not brought out and animals of the same type with the 
+same name were not differentiated.  
+ 
+ 
+ 
+For guidelines on assigning headings to biographies of individual animals and anecdotal works 
+about pets, see H 1720, sec. 3. 
+ 
+ 
+ 
+H 1332 Page 6 
+Subject Headings Manual 
+February 2015 
+
+
+<<<PAGE 7>>>
+ 
+Biological Names  H 1332 
+ 
+ 
+10.  Fossil names.  Follow the same guidelines given in sec. 1-7 for names of living organisms 
+to establish headings for names of fossil animals and plants.  
+ 
+a.  Form of name.  For animals and plants existing in both Recent and earlier geologic 
+time periods, base the fossil headings on the established headings for the living animals 
+and plants in Latin or common forms.  Add the qualifier , Fossil, for example, 
+Silicoflagellates, Fossil; Rhinoceroses, Fossil.  If headings for the living groups are not 
+yet established, establish them at the same time as the fossil headings. 
+ 
+For fossils that existed only in earlier geologic time periods and did not survive into the 
+Recent Epoch, such as Dinosaurs, establish them without the qualifier , Fossil.  Base 
+the heading on names found in predominant use in standard paleontology reference 
+sources and texts, such as Fossil Record 2; Treatise on Invertebrate Paleontology; 
+Vertebrate Paleontology and Evolution; Dinosaur Encyclopedia; Mammalian Paleofau-
+nas of the World; Index of Generic Names of Fossil Plants; Biology and Evolution of 
+Fossil Plants. 
+ 
+b.  References.   Make no UF references beginning with the word Fossil.  Make BT 
+references from the next broader level in the hierarchy of genus, family, order, class,  
+phylum, or division.  Whenever necessary, establish the next broader level in order to 
+make the BT reference. 
+ 
+ 
+c.  Classification numbers.   Provide classification numbers from the QE (Geology; 
+Paleontology) schedule in 053 fields, as specifically as that schedule allows. 
+ 
+ 
+11.  Subdivisions.  For free-floating subdivisions used under animals, see H 1147.  For 
+free-floating subdivisions used under plants and crops, see H 1180. 
+ 
+Subject Headings Manual 
+H 1332 Page 7 
+ 
+February 2015 

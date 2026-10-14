@@ -1,0 +1,1142 @@
+
+
+<<<PAGE 1>>>
+ 
+Manuscripts  H 1855 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1855 Page 1 
+ 
+September 2013 
+BACKGROUND:  Because of the unique characteristics of manuscripts and works about them, 
+it is necessary for subject catalogers to assign a complex of subject headings in order to bring 
+out various aspects, each of which represents a possible means of retrieval.  Included among 
+these various aspects are the following:  the topical information presented in the manuscript; 
+the category of works to which the manuscript belongs, such as missals; the illuminations 
+present; the name of the collection to which the manuscript belongs; etc.  This instruction sheet 
+was prepared in collaboration with the National Gallery of Art Library and the J. Paul Getty 
+Center for the History of Art and the Humanities, under the auspices of the Art Libraries Society 
+of North America (ARLIS/NA). 
+ 
+This instruction sheet presents guidelines for assigning subject headings to facsimiles of 
+manuscripts, and to works about manuscripts.  The procedures are organized and arranged as 
+follows: 
+ 
+1.  Individual manuscripts and works about them 
+ 
+This section presents a basic list of important aspects to be brought out when assigning 
+headings to individual manuscripts or works about them, followed by an explanation of 
+what is meant by each aspect listed.  Whenever possible, one or more headings should 
+be assigned to bring out each aspect.  For the typical manuscript, however, not all 
+aspects will be brought out, either because they are not all pertinent or because 
+insufficient information is available. 
+ 
+Note:  Special provisions applicable to facsimiles of manuscripts are made in 
+various places throughout this section.  For those who catalog only facsimile 
+editions rather than the original manuscripts themselves, these special provisions 
+are the most pertinent part of this instruction sheet. 
+ 
+2.  Collections of manuscripts and works about them 
+ 
+Whenever possible, collections are treated the same as individual manuscripts. 
+ 
+3.  Special cataloging situations 
+ 
+This section consists of lists of headings appropriate for specific situations, illustrated 
+with examples. 
+ 
+4.  Implementation 
+
+
+<<<PAGE 2>>>
+H 1855  Manuscripts 
+ 
+ 
+ 
+H 1855 Page 2 
+Subject Headings Manual 
+September 2013 
+1.  Individual manuscripts and works about them. 
+ 
+ 
+a.  General rule.  When cataloging an individual manuscript, or a work that discusses 
+an individual manuscript (whether accompanied by the original text or not), bring out as 
+many of the aspects listed below as possible, depending upon the nature of the work and 
+the information available. 
+ 
+ 
+! 
+Topical information 
+! 
+Category of religious work, for example, missals  
+! 
+Liturgical use by specific religion or denomination  
+! 
+Manuscript heading; or facsimile heading for the manuscript  
+! 
+Facsimile heading for literary works 
+! 
+Illuminations present 
+! 
+Name of work (i.e. author/title or uniform title heading)  
+! 
+Name of manuscript; or repository designation  
+! 
+Institution where housed; and/or private collection  
+! 
+Name of artist(s) discussed 
+ 
+ 
+Exception:  When cataloging a work that consists of the complete text of a 
+manuscript with no commentary whatsoever, generally bring out only the first six 
+of the aspects listed above.  If, however, a facsimile edition of a manuscript is 
+issued in order to highlight its artwork, or if selections from the manuscript are 
+issued separately for the same purpose, bring out all of the aspects listed above.  
+For example, if the illuminations from a particular manuscript are separately 
+published, bring out all of the aspects listed. 
+ 
+ 
+ 
+Note:  Treat a facsimile edition (as defined in sec. 1.e., below) in the same 
+manner as an original manuscript. 
+ 
+ 
+ 
+The paragraphs that follow in this section discuss each of these individual aspects in the 
+order in which they are listed above. 
+
+
+<<<PAGE 3>>>
+ 
+Manuscripts  H 1855 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1855 Page 3 
+ 
+September 2013 
+1.  Individual manuscripts and works about them.  (Continued) 
+ 
+ 
+b.  Topical information.  This refers to the theme of the manuscript, i.e., the topic or 
+topics that the text of the manuscript is about.  Assign topical headings in accordance 
+with normal policies for assigning headings to topical works. 
+ 
+ 
+ 
+ 
+The topical headings assigned should be subdivided, when appropriate, by the various 
+form subdivisions normally used under topical headings.  Two situations that require the 
+use of form subdivisions are especially common when cataloging manuscripts: 
+ 
+ 
+ 
+ 
+! 
+If the manuscript being cataloged (with or without commentary) was 
+completed before 1800, use the subdivision BEarly works to 1800, 
+for example, Military engineeringBEarly works to 1800. 
+ 
+ 
+ 
+ 
+! 
+If the manuscript (or selection from a manuscript) being cataloged 
+was issued to highlight its artwork, designate the theme of the art, 
+when appropriate, by assigning headings of the type [topic] in art, 
+[name of person, deity, or legendary figure]BArt, or [name of 
+corporate body or place]BIn art. 
+ 
+ 
+ 
+ 
+Note:  Do not use BManuscripts as a form subdivision except in the case of 
+facsimile editions of literary works, described in sec. 1.f., below, and facsimiles of 
+music manuscripts (cf. H 1595, sec. 2.d.).  Under most conditions, BManuscripts 
+is used under topical headings for works that discuss collections of manuscripts 
+on those topics. 
+
+
+<<<PAGE 4>>>
+H 1855  Manuscripts 
+ 
+ 
+ 
+H 1855 Page 4 
+Subject Headings Manual 
+September 2013 
+1.  Individual manuscripts and works about them.  (Continued) 
+ 
+ 
+c.  Category of religious work.  If a manuscript is representative of a special category of 
+religious works, bring this out by assigning the appropriate form heading if it has been 
+established in the subject authority file.  The following are examples of this type of 
+heading:  Breviaries; Buddhist mantras; Divine office; Evangeliaries; Books of 
+hours; Missals; [name of religious denomination]BPrayers and devotions; Psalters; 
+Sacramentaries. 
+ 
+ 
+If the complete original text is present in the work, use the subdivision BTexts after this 
+heading, for example, PsaltersBTexts. 
+ 
+Exception:  Do not use the subdivision BTexts under the heading [name of 
+religious denomination]BPrayers and devotions. 
+ 
+ 
+If the focus of the work is on its illuminations, or it consists only of illuminations, use the 
+subdivision BIllustrations under this heading, for example, PsaltersBIllustrations. 
+ 
+ 
+ 
+d.  Liturgical use by specific religion or denomination.  If the manuscript being 
+cataloged is not only a religious work but also a work used in the liturgy of a particular 
+religion or denomination, bring this out by assigning a separate heading using the 
+appropriate subdivision from H 1185 or H 1187, for example, BuddhismBRituals; 
+Catholic ChurchB Liturgy. 
+ 
+ 
+If the work includes the text of the manuscript, use the subdivision BTexts under this 
+heading; if the work consists only of commentary, use BTextsBHistory and criticism in 
+accordance with H 1185 or H 1187, for example, JudaismBLiturgyBTextsBHistory and 
+criticism. 
+ 
+ 
+If the focus of the work is on its illuminations, or if it consists only of selected 
+illuminations, use the subdivision BTextsBIllustrations, for example, Catholic ChurchB 
+LiturgyBTexts BIllustrations. 
+
+
+<<<PAGE 5>>>
+ 
+Manuscripts  H 1855 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1855 Page 5 
+ 
+September 2013 
+1.  Individual manuscripts and works about them.  (Continued) 
+ 
+e.  Manuscript heading.  If the work being cataloged is an original manuscript rather 
+than a facsimile, assign a manuscript heading of the type Manuscripts, [language]B 
+[place where presently located], for example, Manuscripts, FrenchBFranceBParis.  
+This heading provides for retrieval by form. 
+ 
+Facsimile editions.  Assign this heading also to facsimiles of original manu-
+scripts using the subdivision BFacsimiles (cf. H 1595), for example, Manuscripts, 
+Latin (Medieval and modern)BWashington (D.C.)BFacsimiles. 
+ 
+Note:  Interpret the term facsimile broadly to include any type of exact 
+copy of the complete, or essentially complete, original text, including 
+photocopy editions.  Do not assign the manuscript heading to facsimiles 
+consisting only of selected passages or reproductions of illuminations, or 
+to editions in which the original text has been transcribed. 
+ 
+f.  Facsimile heading for literary works.  If the work being cataloged is a facsimile 
+edition of an individual work of belles lettres, assign a heading consisting of the name of 
+the author of the work (or uniform title, if the work is anonymous) with the subdivision 
+BManuscriptsB Facsimiles, in accordance with the provisions of H 1110 and H 1155.8.  
+Examples: 
+ 
+600 10 $a Orwell, George, $d 1903-1950 $v Manuscripts  
+            $v Facsimiles. 
+630 00 $a Cantar de mío Cid $v Manuscripts $v Facsimiles. 
+ 
+g.  Illuminations present.  Assign to the work being cataloged the heading Illumina-
+tion of books and manuscripts if the work has been issued to highlight its illuminations, 
+if the work consists of reproductions of illuminations from a manuscript, or if the work 
+discusses the illuminations of a particular manuscript.  Qualify this heading by 
+nationality, period, style, etc. in accordance with general practices for fine arts cataloging 
+(cf. H 1250).  Subdivide the heading by place in order to bring out the place of origin of 
+the art.  If necessary, assign more than one heading of this type in order to bring out all 
+details.  Examples: 
+ 
+650 #0 $a Illumination of books and manuscripts, Romanesque  
+            $z England. 
+  
+ 
+ 
+650 #0 $a Illumination of books and manuscripts, English. 
+ 
+Do not use the subdivisions BSpecimens or BFacsimiles under these headings. 
+
+
+<<<PAGE 6>>>
+H 1855  Manuscripts 
+ 
+ 
+ 
+H 1855 Page 6 
+Subject Headings Manual 
+September 2013 
+1.  Individual manuscripts and works about them.  (Continued) 
+ 
+ 
+h.  Name of work.  To all works about a manuscript, including those that contain the 
+original text, assign a heading for the name of the work discussed.  This heading may be 
+in the form of an author/title heading, or a uniform title heading (cf. H 1435), for example, 
+Chaucer, Geoffrey, -1400.  Troilus and Criseyde; or Beowulf. 
+ 
+ 
+ 
+ 
+Works of belles lettres.  If the manuscript discussed is a work of belles lettres 
+with literary commentary, further subdivide this heading using the appropriate 
+literary subdivisions from H 1155.6 and H 1155.8.  In accordance with general 
+cataloging practices for literature, also assign, when necessary, a heading for the 
+literary author with the appropriate subdivision from H 1110. 
+ 
+ 
+ 
+ 
+Sacred works.  For individual sacred works, such as the Bible, assign the 
+appropriate uniform title heading for the text itself, disregarding language, edition, 
+date, etc., for example, Bible. Revelation. 
+ 
+If, in accordance with sec. 1.c., above, a heading for the category of religious 
+work was assigned, omit the uniform title heading representing the text of the 
+same work.  For example, if the heading Psalters was assigned, omit the 
+heading Bible. Psalms.  If, in the case of a liturgical work, a heading for the 
+category of religious work was assigned, also omit the corresponding author/title 
+heading for the text of the work.  For example, if Psalters was assigned, omit 
+the heading Catholic Church.  Psalter (...). 
+ 
+If appropriate, further divide the uniform title heading using the appropriate 
+subdivision from H 1188.  For example, if the focus of the work is on its 
+illuminations, if the work consists only of selected illuminations, or if the work is 
+a discussion of the illuminations, use the subdivision BIllustrations, for example, 
+Bible. New TestamentBIllustrations. 
+ 
+
+
+<<<PAGE 7>>>
+ 
+Manuscripts  H 1855 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1855 Page 7 
+ 
+September 2013 
+1.  Individual manuscripts and works about them.  (Continued) 
+ 
+ 
+i.  Name of manuscript.  To all works about a manuscript, including those that contain 
+the original text, assign a heading for the name of the physical manuscript if it is known, 
+for example, Bamberg Apocalypse; Isabella psalter. 
+ 
+ 
+ 
+Since this heading is a uniform title, it must be separately established in the name 
+authority file.  Do not use the corresponding heading for the textual content of the 
+manuscript.  For example, use Isabella psalter, not Catholic Church.  Psalter (Ms. 
+Isabella psalter). 
+ 
+ 
+ 
+If the name of the manuscript is unknown, assign the repository designation as a heading. 
+Examples: 
+ 
+ 
+610 20 $a Bodleian Library.  $k Manuscript.  $n Douce 180. 
+610 20 $a Biblioteca apostolica vaticana.  $k Manuscript. 
+            $n Cod. Cap. 63B. 
+ 
+ 
+ 
+Do not assign both the manuscript name and the repository designation to the same work. 
+ Assign the manuscript name whenever it is known. 
+ 
+ 
+ 
+If the focus of the work is on its illuminations, if the work consists only of selected 
+illuminations, or if the work is a discussion of the illuminations, use the subdivision 
+BIllustrations under either of these types of headings.  Code BIllustrations as an $x 
+subfield if the work discusses the illuminations.  Code it as a $v subfield if the work 
+consists of the actual illuminations.  Examples: 
+ 
+ 
+630 00 $a Bamberg Apocalypse $x Illustrations. 
+610 20 $a Bodleian Library.  $k Manuscript.  $n Douce 180  
+          $v Illustrations. 
+
+
+<<<PAGE 8>>>
+H 1855  Manuscripts 
+ 
+ 
+ 
+H 1855 Page 8 
+Subject Headings Manual 
+September 2013 
+1.  Individual manuscripts and works about them.  (Continued) 
+ 
+j.  Institution where housed, etc.  In order to bring out the location and ownership of a 
+manuscript, assign one or more headings of the type described below to works that 
+discuss a particular manuscript, including those that contain the text.  Assign these 
+headings when the required information is readily available. 
+ 
+ 
+(1) General rule.  If a manuscript is not privately owned, bring out the name of 
+the institution in which it is permanently housed, for example, Biblioteca 
+apostolica vaticana. 
+ 
+If the manuscript is a part of a special collection of the institution, use a special 
+collection subdivision under the heading for the name of the institution, as 
+described in sec. 1.j.(2), below. 
+ 
+Omit this heading if, in accordance with sec. 1.i., above, a heading was assigned 
+for the repository designation. 
+ 
+ 
+(2) Manuscripts in named collections.  In addition to the heading for the 
+institution where the manuscript is permanently housed, assign the heading for the 
+name of the collection (cf. H 1427).  Examples: 
+ 
+600 10 $a Bradfer-Lawrence, H. L. $q (Harry Lawrence)  $x Art 
+          collections. 
+600 30 $a Barberini family $x Library. 
+610 20 $a New-York Historical Society $x Archives. 
+ 
+If the name of the collection consists of the name of the institution where the 
+manuscript is housed followed by a collection subdivision, the one heading 
+satisfies the requirements of both sec. 1.j.(1) and 1.j.(2). 
+ 
+ 
+(3) Original owner.  If the original owner is often associated with a particular 
+manuscript, also assign the heading for his or her name.  Use a collection 
+subdivision, such as BLibrary, under this heading only if it is known that the 
+manuscript was originally stored as part of a collection.  For example, in the case 
+of La Bibbia di Borso d'Este, assign the heading Borso d'Este, Duke of Ferrara, 
+Modena and Reggio, 1413-1471. 
+
+
+<<<PAGE 9>>>
+ 
+Manuscripts  H 1855 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1855 Page 9 
+ 
+September 2013 
+1.  Individual manuscripts and works about them.  (Continued) 
+ 
+ 
+k.  Name of artist(s) discussed.  To works that discuss the illuminations of a manuscript 
+that are by a known artist, including works that contain the original text, assign the 
+heading for the name of the artist or artists, for example, Clovio, Giulio, 1498-1578; 
+Limbourg family.  Also assign this heading to works that include only reproductions of 
+selected illuminations, provided that the illuminations are discussed in the work.  Omit 
+the heading if a work contains reproductions with no discussion of the artwork. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.  Collections of manuscripts and works about them.  Specific guidelines for cataloging 
+collections of manuscripts or works about groups of manuscripts cannot be formulated because 
+the diversity of such materials is too great, and because such collections share common features 
+with so many other types of library materials.  Insofar as possible, however, the same broad 
+principles followed in cataloging individual manuscripts apply also to collections.  Because of 
+the difference in nature between individual manuscripts and collections of manuscripts, many of 
+the specific provisions for individual manuscripts are not applicable to collections.  For 
+example, the requirement to assign a heading for the name of a manuscript or for the name of an 
+artist would generally not apply to a collection.  Conversely, because general cataloging 
+practices for collections of publications apply also to collections of manuscripts, some headings 
+not mentioned in connection with individual manuscripts are, nevertheless, required for 
+collections.  For example, the literary form headings required for collections of literary works, 
+such as English literatureBMiddle English, 1100-1500BManuscriptsBFacsimiles, are also 
+required for collections of manuscripts of literary works.  Similarly, the headings required for 
+catalogs of library materials (cf. H 1361) are also required for catalogs of manuscript collections. 
+
+
+<<<PAGE 10>>>
+H 1855  Manuscripts 
+ 
+ 
+ 
+H 1855 Page 10 
+Subject Headings Manual 
+September 2013 
+3.  Special cataloging situations. 
+ 
+ 
+ 
+Note:  This section includes examples from the LC MARC bibliographic database. 
+Most of these are AACR2 records, but in a few instances AACR1 records were used 
+because no AACR2 examples were available to illustrate a point.  Only condensed 
+descriptions of the works are provided.  The subject headings provided 
+correspond to the provisions of this instruction sheet and are not necessarily the 
+same as those found in the actual LC record for the title.  Only the information 
+available in each record was used for assigning subject headings; no attempt was 
+made to examine the actual pieces.  The subject headings are listed in the same 
+order as the topics are discussed in this instruction sheet.  This is not necessarily 
+the order in which they would actually be assigned; the actual order would 
+depend on the classification of the work in the LC Classification system and on the 
+other provisions in H 80. 
+ 
+ 
+ 
+ 
+ 
+a.  Text without important features. 
+ 
+ 
+(1) Original manuscript.  If the work is the original manuscript, assign the 
+following headings: 
+ 
+ 
+[topic] (BEarly works to 1800)  
+Manuscripts, [language]B[place] 
+ 
+ 
+ 
+(2) Facsimile editions.  If the work is a facsimile edition without commentary, 
+assign the following headings: 
+ 
+ 
+[topic] (BEarly works to 1800)  
+Manuscripts, [language]B[place]BFacsimiles 
+
+
+<<<PAGE 11>>>
+ 
+Manuscripts  H 1855 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1855 Page 11 
+ 
+September 2013 
+3.  Special cataloging situations. 
+ 
+a.  Text without important features.  (Continued) 
+ 
+ 
+(3) Commentaries.  If the work is a commentary on either the original manuscript 
+or on a facsimile edition, with or without the text, assign the following headings: 
+ 
+[topic] (BEarly works to 1800)  
+Manuscripts, [language]B[place]BFacsimiles  
+[name of work, i.e. author/title or uniform title heading]  
+[name of manuscript; or repository designation]  
+[institution where housed; and/or private collection; owner] 
+ 
+ 
+Examples: 
+ 
+Valturio, Roberto, 1405-1475. 
+   De re militari.  [Italy, 3d quarter of 15th cent.]  
+   [Rosenwald Coll. Ms. no. 14]  
+   Manuscript on paper.  Humanistic script. 
+650 #0 $a Military art and science $v Early 
+            works to 1800.   
+650 #0 $a Manuscripts, Latin (Medieval and  
+            modern) $z Washington (D.C.) 
+ 
+ 
+Pepys Library.  Manuscript.  Pepys 1047. 
+   Stere htt well: a book of medieval refinements, recipes and 
+remedies, from a manuscript in Samuel Pepys's library.  Intro-
+duction by Delia Smith.  Facsimile ... 
+650 #0 $a Cooking, English $v Early works to 
+            1800.   
+650 #0 $a Medicine, Medieval. 
+650 #0 $a Manuscripts, English $z England  
+            $z Cambridge $v Facsimiles.  
+  
+ 
+ 
+ 
+ 
+610 10 $a Pepys Library. $k Manuscript. $n Pepys 
+            1047. 
+600 10 $a Pepys, Samuel, $d 1633-1703  
+            $x Library. 
+
+
+<<<PAGE 12>>>
+H 1855  Manuscripts 
+ 
+ 
+ 
+H 1855 Page 12 
+Subject Headings Manual 
+September 2013 
+3.  Special cataloging situations. 
+ 
+a.  Text without important features. 
+ 
+ 
+Examples:  (Continued) 
+ 
+Alcock, N. W. (Nathaniel Warren)  
+   Warwickshire grazier and London skinner, 1532-1555 : the 
+account book of Peter Temple and Thomas Heritage. 
+   Contains the complete text of Huntington Library Ms. ST 36. 
+650 #0 $a Agriculture $z England $z Warwickshire 
+            $x Accounting $v Early works to 1800. 
+650 #0 $a Wool industry $z England $z London  
+            $x Accounting $v Early works to 1800. 
+610 20 $a Henry E. Huntington Library and Art 
+            Gallery. $k Manuscript. $n ST 36. 
+600 10 $a Temple, Peter, $d ca. 1517-ca. 1588  
+            $x Archives.   
+600 10 $a Heritage, Thomas $x Archives. 
+ 
+ 
+Sächsische Landesbibliothek (Dresden, Germany). 
+   
+Manuscript. C 80, fol. 368r-378v. 
+   Die erste deutsche Algebra aus dem Jahre 1481.  Erläutert 
+von Kurt Vogel. 
+   Consists of the Middle High German text of and notes on 
+manuscript ... 
+650 #0 $a Arithmetic $v Early works to 1900. 
+610 20 $a Sächsische Landesbibliothek (Dresden, 
+            Germany). $k Manuscript. $n C 80, fol. 
+            368r-378v. 
+ 
+ 
+Domesday book / facsimiles with introduction. 
+   6 p., ix p. of plates. 
+   Includes bibliographical references. 
+651 #0 $a Great Britain $x History $y Norman 
+            period, 1066-1154.   
+630 00 $a Domesday book. 
+
+
+<<<PAGE 13>>>
+ 
+Manuscripts  H 1855 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1855 Page 13 
+ 
+September 2013 
+3.  Special cataloging situations. 
+ 
+b.  Texts of religious works; or works of belles lettres. 
+ 
+(1) Reprints of original text.  If the work is a reprint of the original text, without 
+commentary, assign the following headings: 
+ 
+[topic] (BEarly works to 1800)  
+[category of religious work]BTexts  
+[denomination]BLiturgyBTexts 
+ 
+(2) Facsimile editions.  If the work is a facsimile edition of the original text, 
+without commentary, assign, in addition to any of the appropriate headings above, 
+the following headings: 
+ 
+Manuscripts, [language]B[place]BFacsimiles  
+[name of literary author]BManuscriptsBFacsimiles 
+ 
+(3) Commentaries.  If the work is a commentary on one of the above types of 
+works, assign the following headings: 
+ 
+[topic] (BEarly works to 1800)  
+[category of religious work]BTexts  
+[denomination]BLiturgyBTexts (BHistory and criticism)  
+Manuscripts, [language]B[place]BFacsimiles  
+[name of literary author]BManuscriptsBFacsimiles  
+[name of work, i.e. author/title or uniform title heading]  
+[name of manuscript; or repository designation]  
+[institution where housed; and/or private collection; owner] 
+ 
+Examples: 
+ 
+Durham Gospels. 
+   The Durham gospels, Durham Cathedral Library.   
+   Early English manuscripts in facsimile; text of gospels in 
+Latin. 
+650 #0 $a Manuscripts, Latin (Medieval and 
+            modern) $z England $z Durham  
+            $v Facsimiles. 
+
+
+<<<PAGE 14>>>
+H 1855  Manuscripts 
+ 
+ 
+ 
+H 1855 Page 14 
+Subject Headings Manual 
+September 2013 
+3.  Special cataloging situtations. 
+ 
+b.  Texts of religious works; or works of belles lettres. 
+ 
+ 
+Examples:  (Continued) 
+ 
+ 
+Chaucer, Geoffrey, -1400. 
+   Troilus and Criseyde. 
+   St. John's College, Cambridge, Manuscript L.1 : a facsimile. 
+Introduction by Richard Beadle and Jeremy Griffiths. 
+650 #0 $a Manuscripts, English (Middle)  
+            $z England $z Cambridge $v Facsimiles. 
+600 10 $a Chaucer, Geoffrey, $d -1400  
+            $v Manuscripts $v Facsimiles.   
+600 10 $a Chaucer, Geoffrey, $d -1400.  
+            $t Troilus and Criseyde. 
+610 20 $a St. John's College (University of  
+            Cambridge). $b Library. $k Manuscript. 
+            $n L.1. 
+ 
+ 
+ 
+ 
+Catholic Church. 
+   Echternacher Sakramentar und Antiphonar : vollständige 
+Faksimile-Ausgabe im Originalformat der Handschrift 1946 aus 
+dem Besitz der Hessischen Landes- und Hochschulbibliothek 
+Darmstadt. 
+   Facsim. vol. in Latin; commentary partly in German ... 
+650 #0 $a Sacramentaries $v Texts.   
+650 #0 $a Antiphonaries $v Texts.   
+610 20 $a Catholic Church $x Liturgy $v Texts.   
+650 #0 $a Manuscripts, Latin (Medieval and  
+            modern) $z Germany $z Darmstadt  
+            $v Facsimiles. 
+610 20 $a Hessische Landes- und  
+            Hochschulbibliothek Darmstadt.  
+            $k Manuscript. $n 1946. 
+
+
+<<<PAGE 15>>>
+ 
+Manuscripts  H 1855 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1855 Page 15 
+ 
+September 2013 
+3.  Special cataloging situations. 
+ 
+b.  Texts of religious works; or works of belles lettres. 
+ 
+ 
+Examples:  (Continued) 
+ 
+Códice Tudela. 
+   Códice Tudela. 
+   Full-color facsim. of the manuscript of the Museo de América 
+in Madrid. 
+   Containing commentary and transcription. 
+650 #0 $a Aztec mythology $v Early works to 
+            1800.   
+650 #0 $a Aztec calendar. 
+650 #0 $a Manuscripts, Nahuatl $z Spain  
+            $z Madrid $v Facsimiles.   
+630 00 $a Códice Tudela. 
+610 20 $a Museo de América (Madrid, Spain) 
+ 
+ 
+c.  Text with important illustrations. 
+ 
+ 
+(1) Reprints of original text.  If the work is a reprint of the original text, without 
+commentary, assign the following headings: 
+ 
+ 
+[topic] (BEarly works to 1800)  
+[category of religious work]BTexts (or BIllustrations)  
+ 
+ 
+ 
+subdivided to bring out nationality, period, etc.] 
+ 
+ 
+(2) Facsimile editions.  If the work is a facsimile edition or the original text, 
+without commentary, assign, in addition to any of the appropriate headings above, 
+the following heading: 
+ 
+Manuscripts, [language]B[place]BFacsimiles 
+
+
+<<<PAGE 16>>>
+H 1855  Manuscripts 
+ 
+ 
+ 
+H 1855 Page 16 
+Subject Headings Manual 
+September 2013 
+3.  Special cataloging situations. 
+ 
+c.  Text with important illustrations.  (Continued) 
+ 
+(3) Commentaries.  If the work is a commentary on one of the above types of 
+works, assign the following headings: 
+ 
+ 
+[topic] (BEarly works to 1800); or [topic] in art; or [topic]BArt 
+[category of religious work]BIllustrations  
+[denomination]BLiturgyBTextsBIllustrations  
+Manuscripts, [language]B[place]BFacsimiles  
+  
+ 
+ 
+ 
+Illumination of books and manuscripts [qualified and/or 
+subdivided to bring out nationality, period, etc.] 
+[name of work, i.e. author/title or uniform title heading]B 
+Illustrations 
+  
+[name of manuscript; or repository designation]BIllustrations  
+[institution where housed; and/or private collection; owner]  
+[name of artist(s)] 
+ 
+ 
+Examples: 
+ 
+Clovio, Giulio, 1498-1578. 
+   The Farnese hours : the Pierpont Morgan Library / 
+introduction and commentaries by Webster Smith. 
+   Facsim. of the pages from ms. M69, with illuminations by 
+Giulio Clovio. 
+650 #0 $a Books of hours $v Illustrations.   
+610 20 $a Catholic Church $x Liturgy $v Texts  
+            $v Illustrations.   
+650 #0 $a Illumination of books and manuscripts, 
+            Renaissance $z Italy. 
+650 #0 $a Illumination of books and manuscripts, 
+            Italian.   
+630 00 $a Farnese hours $v Illustrations.   
+610 20 $a Pierpont Morgan Library.   
+600 10 $a Clovio, Giulio, $d 1498-1578. 
+ 
+
+
+<<<PAGE 17>>>
+ 
+Manuscripts  H 1855 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1855 Page 17 
+ 
+September 2013 
+3.  Special cataloging situations. 
+ 
+c.  Text with important illustrations. 
+ 
+ 
+Examples:  (Continued) 
+ 
+Cassee, Elly. 
+   The missal of Cardinal Bertrand de Deux : a study in 
+14th-century Bolognese miniature painting. 
+650 #0 $a Missals $v Illustrations.   
+610 20 $a Catholic Church $x Liturgy $v Texts  
+            $v Illustrations.   
+650 #0 $a Illumination of books and manuscripts, 
+            Gothic $z Italy $z Bologna. 
+650 #0 $a Illumination of books and manuscripts, 
+  
+ 
+ 
+ 
+ 
+            Italian $z Italy $z Bologna. 
+610 20 $a Biblioteca apostolica vaticana.  
+            $k Manuscript. $n Cod. Cap. 63B  
+            $v Illustrations. 
+600 00 $a Bertrand de Deux, $c Cardinal,  
+            $d -1355. 
+ 
+ 
+ 
+Harnischfeger, Ernst. 
+   Die Bamberger Apokalypse.   
+   Includes reproductions of the illustrations.   
+   Manuscript held by the Staatsbibliothek Bamberg (Bibl. 140) 
+650 #0 $a Illumination of books and manuscripts, 
+            
+     German.   
+650 #0 $a Illumination of books and manuscripts, 
+  
+ 
+ 
+ 
+ 
+            Medieval $z Germany. 
+630 00 $a Bible. $p N.T. $p Revelation  
+            $v Illustrations.   
+630 00 $a Bamberg Apocalypse $v Illustrations.   
+610 20 $a Staatsbibliothek Bamberg. 
+ 
+
+
+<<<PAGE 18>>>
+H 1855  Manuscripts 
+ 
+ 
+ 
+H 1855 Page 18 
+Subject Headings Manual 
+September 2013 
+3.  Special cataloging situations. 
+ 
+c.  Text with important illustrations. 
+ 
+ 
+Examples:  (Continued) 
+ 
+ 
+ 
+The travels of Sir John Mandeville : a manuscript in the   
+ 
+   
+   translated from the Czech ... 
+   Reproduced from Add. Ms. 24189 in the British Library, 
+   London. 
+650 #0 $a Voyages and travels $v Early works to 
+            1800.  
+650 #0 $a Illumination of books and manuscripts, 
+            Medieval $z Czechoslovakia. 
+650 #0 $a Illumination of books and manuscripts, 
+            Czech.   
+600 10 $a Mandeville, John, $c Sir.  
+            $t Itinerarium $v Illustrations.   
+610 20 $a British Library. $k Manuscript.  
+            $n Additional 24189 $v Illustrations. 
+ 
+ 
+ 
+ 
+ 
+The Book of Kells : forty-eight pages and details in color from 
+   the manuscript in Trinity College, Dublin / selected and 
+   introduced by ... 
+650 #0 $a Illumination of books and manuscripts, 
+            Celtic.   
+650 #0 $a Illumination of books and manuscripts, 
+            Medieval $z Ireland. 
+630 00 $a Bible. $p Gospels  
+            $v Illustrations. 
+630 00 $a Book of Kells $v Illustrations. 
+610 20 $a Trinity College (Dublin, Ireland) 
+ 
+
+
+<<<PAGE 19>>>
+ 
+Manuscripts  H 1855 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1855 Page 19 
+ 
+September 2013 
+3.  Special cataloging situations. 
+ 
+d.  Collections of manuscripts. 
+ 
+(1) Original texts.  If the collection is of original texts, without commentary, 
+assign the following headings, as applicable: 
+ 
+[topic] (BEarly works to 1800) 
+[category of religious works]BTexts  
+[denomination]BLiturgyBTexts  
+Manuscripts, [language]B[place]BFacsimiles  
+[literary genre]BManuscriptsBFacsimiles  
+Illumination of books and manuscripts [qualified and/or 
+subdivided to bring out nationality, period, etc.] 
+Illumination of books and manuscriptsBPrivate collectionsB 
+[place] 
+ 
+ 
+(2) Commentaries.  If the work is a commentary on a collection, with or without 
+original texts, assign the following headings, as applicable: 
+ 
+ 
+[topic]BEarly works to 1800; or [topic]BManuscripts  
+[category of religious works]BTexts (or BManuscripts)  
+[denomination]BLiturgyBTexts (BHistory and criticism)  
+Manuscripts, [language]B[place] (BFacsimiles)  
+  
+ 
+ 
+[literary genre] (BHistory and criticism)  
+Illumination of books and manuscripts [qualified and/or 
+subdivided to bring out nationality, period, etc.] 
+Illumination of books and manuscriptsBPrivate collectionsB 
+[place] 
+[name of collective work, i.e., author/title or uniform title heading] 
+(BManuscripts) 
+[manuscript collection name; or repository designation]  
+[institution where housed; and/or private collection; owner]  
+[name of artist(s)] 
+ 
+ 
+
+
+<<<PAGE 20>>>
+H 1855  Manuscripts 
+ 
+ 
+ 
+H 1855 Page 20 
+Subject Headings Manual 
+September 2013 
+3.  Special cataloging situations. 
+ 
+d.  Collections of manuscripts.  (Continued) 
+ 
+Examples: 
+ 
+ 
+The Winchester anthology : a facsimile of the British Library 
+   additional manuscript 60577 / with an introduction and list 
+   of contents ... 
+650 #0 $a Commonplace-books $v Facsimiles. 
+650 #0 $a Manuscripts, English (Middle)  
+            $z England $z London $v Facsimiles. 
+650 #0 $a Manuscripts, Latin (Medieval and  
+            modern) $z England $z London  
+            $v Facsimiles. 
+650 #0 $a English literature $y Middle English, 
+            1100-1500 $v Manuscripts  
+            $v Facsimiles. 
+650 #0 $a Latin literature, Medieval and modern  
+            $v Manuscripts $v Facsimiles. 
+610 20 $a British Library. $k Manuscript.  
+            $n Additional 60577. 
+ 
+ 
+ 
+Delaissé, L. M. J. 
+   Illuminated manuscripts.                                
+        
+   Catalog of the James A. de Rothschild collection at 
+Waddesdon Manor. 
+ 
+ 
+ 
+ 
+ 
+650 #0 $a Manuscripts $z England $z Waddesdon  
+            $v Catalogs. 
+650 #0 $a Illumination of books and manuscripts  
+            $x Private collections $z England  
+            $z Waddesdon $v Catalogs. 
+610 20 $a Waddesdon Manor (Waddesdon, England)  
+            $v Catalogs.   
+600 10 $a De Rothschild, J. A. $q (James 
+            Armand), $d 1878-1957 $x Art  
+            collections $v Catalogs. 
+ 
+
+
+<<<PAGE 21>>>
+ 
+Manuscripts  H 1855 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1855 Page 21 
+ 
+September 2013 
+3.  Special cataloging situations. 
+ 
+d.  Collections of manuscripts. 
+ 
+Examples:  (Continued) 
+ 
+ 
+Ames-Lewis, Francis, 1943- 
+   The library and manuscripts of Piero di Cosimo de'Medici. 
+650 #0 $a Manuscripts $z Italy $z Florence  
+            $v Catalogs.   
+650 #0 $a Illumination of books and manuscripts, 
+            Renaissance $x Private collections  
+            $z Italy $z Florence $v Catalogs.   
+600 10 $a Medici, Piero de', $d 1416-1469  
+            $x Library $v Catalogs. 
+   
+ 
+Charlesworth, James H. 
+   The new discoveries in St. Catherine's Monastery : a 
+preliminary report. 
+650 #0 $a Manuscripts, Greek. 
+610 20 $a Saint Catherine (Monastery : Mount 
+            Sinai) 
+ 
+ 
+Nowell codex. 
+   The Nowell codex; British Museum Cotton Vitellius A. XV, 
+second ms. 
+ 
+ 
+ 
+ 
+ 
+ 
+   Early English manuscripts in facsimile...contains five works. 
+650 #0 $a Manuscripts $z England $z London  
+            $v Facsimiles.   
+650 #0 $a Manuscripts, English (Old) $z England  
+            $z London $v Facsimiles.  
+  
+ 
+ 
+ 
+650 #0 $a English literature $y Old English,  
+            ca. 450-1100 $v Manuscripts  
+            $v Facsimiles.   
+610 20 $a British Library. $k Manuscript.  
+            $n Cotton Vitellius A XV. 
+
+
+<<<PAGE 22>>>
+H 1855  Manuscripts 
+ 
+ 
+ 
+H 1855 Page 22 
+Subject Headings Manual 
+September 2013 
+3.  Special cataloging situations. 
+ 
+d.  Collections of manuscripts. 
+ 
+Examples:  (Continued) 
+ 
+Russo, Francesco. 
+   Napoli, Biblioteca teologica S. Tommaso.  Inventari dei 
+manoscritti. 
+650 #0 $a Theology $x Manuscripts $v Catalogs.   
+650 #0 $a Manuscripts $z Italy $z Naples  
+            $v Catalogs. 
+610 20 $a Biblioteca teologica S. Tommaso di 
+            Napoli $v Catalogs. 
+ 
+ 
+ 
+ 
+LC practice: 
+4.  Implementation.  The procedures in this instruction sheet apply mainly to new materials 
+being cataloged.  Do not attempt to revise systematically the subject headings assigned to 
+existing records in the LC Database.  Re-evaluate and revise as necessary only those existing 
+records that are encountered during the course of normal cataloging activities. 

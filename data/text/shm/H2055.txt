@@ -1,0 +1,106 @@
+
+
+<<<PAGE 1>>>
+ 
+Social Conditions  H 2055 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2055 Page 1 
+ 
+June 2013 
+1.  General rule.  Use the free-floating subdivision BSocial conditions under names of regions, 
+countries, cities, etc.; under names of ethnic groups; and under classes of persons, including 
+occupational groups.  Use the subdivision for works discussing the social history or sociology 
+of a place, ethnic group, or class of persons, including such subtopics of sociology as social 
+problems, stability, change, interaction, adjustment, structure, social institutions, etc.  For the 
+sociological conditions within institutions, use the subdivision BSociological aspects under 
+headings for types of institutions.  Examples: 
+ 
+651 #0 $a Europe $x Social conditions. 
+651 #0 $a China $x Social conditions. 
+651 #0 $a Buffalo (N.Y.) $x Social conditions. 
+650 #0 $a African Americans $z Rhode Island $x Social conditions. 
+650 #0 $a Indians of North America $x Social conditions. 
+650 #0 $a Older people $z Iowa $x Social conditions. 
+650 #0 $a Carpenters $z Ohio $z Canton $x Social conditions. 
+ 
+ 
+ 
+2.  Sociological topics in relation to specific places.  When further subdividing a sociological 
+topic or problem by place, also assign, if appropriate, an additional heading for [place]BSocial 
+conditions.  Example: 
+ 
+Title:  Social mobility in Montgomery County, Maryland. 
+650 #0 $a Social mobility $z Maryland $z Montgomery County. 
+651 #0 $a Montgomery County (Md.) $x Social conditions. 
+ 
+ 
+ 
+3.  BSocioeconomic status.  The subdivision BSocioeconomic status under headings for 
+special occupational groups is no longer used.  Instead, use the free-floating subdivision(s) 
+BSocial conditions and/or BEconomic conditions, as appropriate. 
+ 
+ 
+ 
+4.  Further form or topical subdivisions.  BSocial conditions may be further subdivided by 
+free-floating form or topical subdivisions appropriate for the work cataloged.  Examples: 
+ 
+651 #0 $a Colombia $x Social conditions $x Mathematical models. 
+650 #0 $a Women $x Social conditions $v Statistics. 
+ 
+Do not further subdivide BSocial conditions by BHistory. 
+ 
+
+
+<<<PAGE 2>>>
+H 2055  Social Conditions 
+ 
+ 
+ 
+H 2055 Page 2 
+Subject Headings Manual 
+June 2013 
+5.  Period subdivisions.  Further subdivide headings of the type [place]BSocial conditions by 
+established chronological subdivisions or by the free-floating century subdivisions listed under 
+BSocial conditions in H 1140:  B16th, [17th, 18th, 19th, 20th, or 21st] century.  Assign 
+century subdivisions only when they do not conflict with established subdivisions for specific 
+time periods.  Establish new subdivisions for other significant periods under headings of the 
+type [place]BSocial conditions where there is sufficient material to warrant it.  Examples: 
+ 
+651 #0 $a Europe $x Social conditions $y 1789-1900. 
+651 #0 $a Great Britain $x Social conditions $y 20th century. 
+651 #0 $a United States $x Social conditions $y 1960-1980. 
+651 #0 $a Chicago (Ill.) $x Social conditions $y 19th century. 
+ 
+When appropriate, further subdivide [place]BSocial conditionsB[period subdivision] by 
+free-floating form or topical subdivisions that are used after BSocial conditions.  Examples: 
+ 
+651 #0 $a Europe $x Social conditions $y 20th century  
+            $v Periodicals. 
+651 #0 $a China $x Social conditions $y 1949-1976 $v Statistics. 
+651 #0 $a India $x Social conditions $y 1947- $x Mathematical 
+            models. 
+ 
+When appropriate, further subdivide headings of the type [class of persons]BSocial conditions 
+and [ethnic group]BSocial conditions by the free-floating century subdivisions listed under 
+BSocial conditions in H 1100 and H 1103: B16th, [17th, 18th, 19th, 20th, or 21st] century. 
+ 
+6.  Examples of assignment of headings. 
+ 
+Title:  The social history of the United States. 
+651 #0 $a United States $x Social conditions. 
+ 
+Title:  Carpenters in California : general social conditions. 
+650 #0 $a Carpenters $z California $x Social conditions. 
+ 
+Title:  The socioeconomic status of librarians. 
+650 #0 $a Librarians $x Economic conditions.   
+650 #0 $a Librarians $x Social conditions. 
+ 
+Title:  Factors contributing to the high divorce rate among District of Columbia 
+police. 
+650 #0 $a Divorce $z Washington (D.C.)  
+650 #0 $a Police $z Washington (D.C.) $x Social conditions. 
+651 #0 $a Washington (D.C.) $x Social conditions. 

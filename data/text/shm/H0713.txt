@@ -1,0 +1,122 @@
+
+
+<<<PAGE 1>>>
+ 
+First Order Political Divisions of Countries  H 713 
+ 
+ 
+ 
+Subject Headings Manual 
+H 713 Page 1 
+ 
+November 2019 
+BACKGROUND:  The first order political divisions of countries are called departments, 
+provinces, republics, states, etc.  For certain countries, topical headings have been established 
+to refer to these divisions collectively, for example, Canadian provinces and U.S. states.  These 
+are used with appropriate subdivisions to bring out certain topics as they occur in the various 
+first order divisions of the country in question.  For topics that are expressed by using headings 
+of the type [topic]B[place], the following free-floating subdivisions are used to designate 
+collectively the first order divisions of countries: 
+ 
+BAutonomous communities 
+BAutonomous regions 
+BCantons                
+BDepartments     
+BGovernorates        
+BProvinces 
+BRegions 
+BRepublics 
+BStates 
+BUnion territories 
+BVoivodeships 
+ 
+This instruction sheet provides guidelines for assigning headings to works about topics in 
+relation to the first order political divisions of a country. 
+ 
+1.  Individual first order political divisions.  To works on a topic as it occurs in an individual 
+first order political division, assign headings of the type [topic]B[place].  Examples: 
+ 
+650 #0 $a Agricultural laws and legislation $z Manitoba. 
+650 #0 $a Budget $z California. 
+650 #0 $a Economic indicators $z France $z Gard. 
+ 
+2.  Topical headings that designate the first order divisions of a country.  Certain topics are 
+normally expressed as subdivisions under the name of a place.  For a comparative work that 
+discusses a topic of this type as it occurs in each of the first order political divisions of a country, 
+assign a heading of the type Canadian provinces, U.S. states, or Roman provinces, subdivided 
+by the appropriate topical subdivision.  Establish new headings of this type as they are needed in 
+current cataloging.  Topical subdivisions are not free-floating under these headings; they must 
+be established as needed.  However, free-floating form subdivisions may be used under these 
+headings without establishing them.  Tag these headings 650, not 651.  Examples: 
+
+
+<<<PAGE 2>>>
+H 713  First Order Political Divisions of Countries 
+ 
+ 
+ 
+H 713 Page 2 
+Subject Headings Manual 
+November 2019 
+2.  Topical headings that designate the first order divisions of a country. (Continued) 
+ 
+650 #0 $a Canadian provinces $x Economic conditions. 
+650 #0 $a U.S. states $x Social policy. 
+650 #0 $a Roman provinces $x Religious life and customs. 
+ 
+ 
+ 
+3.  First order political divisions treated collectively.  Most topics are brought out by using 
+topical headings divisible by names of places.  For a comparative work that discusses a topic of 
+this type as it occurs in each of the first order political divisions of a country, assign a heading of 
+the type [topic]B[country], subdivided by the appropriate type of first order political division.  
+Code these free-floating subdivisions that designate a type of first order division x, not z.  
+Examples: 
+ 
+650 #0 $a Budget $z Colombia $x Departments. 
+650 #0 $a Cabinet system $z Soviet Union $x Republics. 
+650 #0 $a Cooperative societies $x Law and legislation $z Canada 
+          $x Provinces. 
+650 #0 $a Finance, Public $z Spain $x Autonomous communities. 
+650 #0 $a Land use $z India $x Union territories. 
+650 #0 $a Law $z Italy $x Regions. 
+650 #0 $a Sales tax $z United States $x States. 
+650 #0 $a Transportation $x Law and legislation $z Switzerland  
+          $x Cantons. 
+650 #0 $a Minorities $z China $x Autonomous regions $x Economic 
+          conditions. 
+ 
+ 
+In cases where geographic subdivision is interposed between a topical heading and a topical 
+subdivision, place the subdivision representing the first order political division immediately after 
+the country rather than at the end of the heading.  Examples: 
+ 
+650 #0 $a Judges $z United States $x States $x Discipline. 
+  [not 650 #0 $a Judges $z United States $x Discipline $x States.] 
+ 
+Do not use these subdivisions after names of countries that appear in the initial position in the 
+heading (the $a subfield).  For example, do not construct a heading such as 
+CanadaBProvincesB Statistics.  Assign instead a heading of the type described in sec. 2, above, 
+for example, Canadian provincesBStatistics. 
+ 
+ 
+ 
+
+
+<<<PAGE 3>>>
+ 
+First Order Political Divisions of Countries  H 713 
+ 
+ 
+ 
+Subject Headings Manual 
+H 713 Page 3 
+ 
+November 2019 
+4.  Assignment of multiple headings.  If a work discusses a topic both in relation to a country as a 
+whole and as it occurs in each of the first order political divisions of a country, assign two 
+headings.  Example: 
+ 
+Title:  Civil service in the United States. 
+650 #0 $a Civil service $z United States. 
+650 #0 $a Civil service $z United States $x States. 

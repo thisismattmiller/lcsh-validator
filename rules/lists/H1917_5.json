@@ -1,0 +1,661 @@
+{
+  "sheet": "H 1917.5",
+  "title": "Music Form/Genre Headings: Medium of Performance",
+  "kind": "free-floating-phrases",
+  "scope": "Patterns for music form/genre headings that include medium of performance (parenthetical medium qualifiers, instrument-list headings, 'and'/'with' connectors, numbers in parentheses, vocal range, type of chorus, choral parts, ', Arranged', ', Unaccompanied'). Each entry states whether the sheet makes the construction free-floating or requires an authority record.",
+  "pattern_headings": [],
+  "pattern_category": "",
+  "general_notes": [
+    "A large number of music form/genre headings that include medium of performance have been established in the subject authority file. With some exceptions (see H 250 and below), authority records for these types of headings are no longer made because: 1) cross references are no longer required; 2) the order of musical instruments given in the headings has been a pattern for some time; and 3) the patterns the headings follow are amply illustrated in the authority file.",
+    "When specifying an instrument in a heading, use the form of name for the instrument established in the subject authority file. If the name of the instrument has not been established, make two proposals, one for the name of the instrument and the other for its music, which will authorize the instrument to be used in bibliographic records as a medium of performance.",
+    "Do not include more than 9 instruments or 9 soloists in a heading, counting all categories. If the solo group is larger than 9, use an appropriate heading that incorporates the term \"ensemble\" (cf. sec. 5).",
+    "For guidance on subdivisions for musical compositions, see H 1160."
+  ],
+  "entries": [
+    {
+      "pattern": "[Form/genre heading] ([solo instrument], [solo instrument], ...)",
+      "free_floating": true,
+      "authority_record_required": false,
+      "section": "sec. 2",
+      "rule": "Solo instruments in category order: (1) keyboard, (2) wind, (3) plucked or hammered stringed without keyboard, (4) percussion, electronic, and other, (5) bowed stringed, (6) unspecified, (7) continuo; alphabetical within each category except bowed strings in score order, high to low. Comma-separated; 3 to 9 instruments/soloists. First word capitalized, rest lowercase.",
+      "examples": [
+        "Nonets (Bassoon, clarinet, flute, horn, oboe, violin, viola, cello, double bass)",
+        "Octets (Piano, clarinet, flute, guitar, mandolin, accordion, percussion, double bass)",
+        "Quartets (Flute, violin, viola, continuo)",
+        "Suites (Flute, harp, vibraphone, cello)",
+        "Quartets (Pianos (3), computer)",
+        "Quartets (Clarinet, flute, computer, double bass)",
+        "Septets (Electronics, percussion)",
+        "String quintets (Violin, viola d'amore, viola, cello, violone)",
+        "Trios (Piano (4 hands), reed organ)",
+        "Sextets (Piano, clarinet, flute, percussion, violin, cello)",
+        "Wind trios (Oboes (2), trumpet)"
+      ],
+      "exceptions": [
+        "More than 9 instruments or soloists: use a heading with the term \"ensemble\" (sec. 5).",
+        "Do not use \"and\" between elements when three or more elements precede \"with\" or when there are more than two soloists (sec. 6.a)."
+      ]
+    },
+    {
+      "pattern": "[Form/genre heading] ([instrument] and [instrument])",
+      "free_floating": true,
+      "authority_record_required": false,
+      "section": "sec. 2, 3, 6.a",
+      "rule": "Two solo instruments joined by \"and\"; order per sec. 2, but for Western music the chordal or accompanying instrument is second (sec. 3.c).",
+      "examples": [
+        "Sonatas (Flute and violin)",
+        "Variations (Organ and piano)",
+        "Suites (Violin and piano)",
+        "Concertos (Violin and viola)"
+      ],
+      "exceptions": [
+        "Chordal (keyboard or plucked) or accompanying instrument goes in second position (sec. 3.c)."
+      ]
+    },
+    {
+      "pattern": "[Instrument] and [instrument] music",
+      "free_floating": false,
+      "authority_record_required": true,
+      "section": "sec. 3.a, 3.c",
+      "rule": "Create an authority record for the combination; reference from reverse order. Order per sec. 2; chordal or accompanying instrument second for Western music on Western instruments (optionally one Western and one non-Western instrument).",
+      "examples": [
+        "Balloon and electronic music",
+        "Bassoon and flute music",
+        "Trombone and piano music",
+        "Mandolin and piano music",
+        "Alto flute and viola music",
+        "Saxophone and guitar music",
+        "Violin and piano music",
+        "Flute and violin music",
+        "Electronic and percussion music"
+      ],
+      "exceptions": [
+        "Electronic and balloon music [reference, not authorized]",
+        "Flute and bassoon music [reference, not authorized]",
+        "Piano and trombone music [reference, not authorized]",
+        "Piano and mandolin music [reference, not authorized]"
+      ]
+    },
+    {
+      "pattern": "Duets (Unspecified instrument and [instrument])",
+      "free_floating": false,
+      "authority_record_required": true,
+      "section": "sec. 3.b",
+      "rule": "When one of two instruments is unspecified, establish the heading beginning with Duets; references from both other forms.",
+      "examples": ["Duets (Unspecified instrument and piano)"],
+      "exceptions": [
+        "Duets (Piano and unspecified instrument) [reference]",
+        "Piano and unspecified instrument music [reference]"
+      ]
+    },
+    {
+      "pattern": "[Instruments, plural] ([n])  (within a mixed-group medium statement)",
+      "free_floating": true,
+      "authority_record_required": false,
+      "section": "sec. 4.a",
+      "rule": "Two or more parts for the same instrument, or for unspecified instruments, in a group with other solo instruments: plural name followed by arabic numeral in parentheses. No authority record necessary.",
+      "examples": [
+        "Concertos (Euphonium, horns (4) with band)",
+        "Concertos (Flutes (3), harp)",
+        "Concertos (Harpsichord, guitars (2), harp, double bass)",
+        "Horns (3), violin with chamber orchestra",
+        "String nonets (Violins (4), violas (2), cellos (2), double bass)",
+        "Septets (Organ (4 hands), horn, trombone, trumpets (2), tuba)"
+      ],
+      "exceptions": [
+        "Do not number percussion players (sec. 4.b(4)(b)).",
+        "Do not number electronics, Electronic music, or Computer music (sec. 4.b(5))."
+      ]
+    },
+    {
+      "pattern": "[Instrument] music ([Instruments] (2))",
+      "free_floating": false,
+      "authority_record_required": true,
+      "section": "sec. 4.b(1)(a), 4.b(2)(b)(i)",
+      "rule": "Music for two of the same wind, plucked, bowed stringed, or keyboard instrument. The authority record then authorizes the modification in all pattern headings.",
+      "examples": [
+        "Flute music (Flutes (2))",
+        "Cello music (Cellos (2))",
+        "Electronic organ music (Electronic organs (2))",
+        "Harpsichord music (Harpsichords (2))",
+        "Organ music (Organs (2))",
+        "Pianos (2)",
+        "Chorale preludes (Electronic organs (2))",
+        "Concertos (Harpsichords (2) with string orchestra)",
+        "Organs (2) with orchestra",
+        "Quartets (Pianos (2), percussion)",
+        "Sonatas (Alto flutes (2))"
+      ],
+      "exceptions": [
+        "Three or more keyboard instruments constitute an ensemble: [Instrument] ensembles / Keyboard instrument ensembles (sec. 4.b(2)(b)(ii))."
+      ]
+    },
+    {
+      "pattern": "[Instrument] music ([n] hands); in qualifiers: ([Instrument], [n] hands) when sole instrument, [instrument] ([n] hands) in a list",
+      "free_floating": false,
+      "authority_record_required": true,
+      "section": "sec. 4.b(1)(b), 4.b(2)(a), 4.b(4)(a)",
+      "rule": "Exceptional number of hands (other than two) for an instrument; authority record for the music of the instrument with that number of hands. With more than one instrument, hands follow the number of instruments.",
+      "examples": [
+        "Lute music (4 hands)",
+        "Songs (High voice) with lute (4 hands)",
+        "Viola music (3 hands)",
+        "Sonatas (Viola, 3 hands)",
+        "Piano music (1 hand)",
+        "Concertos (Piano, 1 hand)",
+        "Quintets (Piano (1 hand), clarinet, violin, viola, cello)",
+        "Piano music (Pianos (2), 6 hands)",
+        "Organ music (4 hands)",
+        "Canons, fugues, etc. (Organ, 4 hands), Arranged",
+        "Septets (Organ (4 hands), horn, trombone, trumpets (2), tuba)",
+        "Vibraphone music (4 hands)",
+        "Trios (Flute, vibraphone (4 hands))",
+        "Piano music (4 hands)"
+      ],
+      "exceptions": [
+        "Left-hand piano music [reference]",
+        "Right-hand piano music [reference]",
+        "Keyboard as accompaniment in vocal music headings: no parentheses, comma form: Songs (High voice) with piano, 4 hands; Choruses, Secular (Mixed voices) with piano, 4 hands."
+      ]
+    },
+    {
+      "pattern": "[Instrument] music ([Instruments] (2), 1 performer)",
+      "free_floating": false,
+      "authority_record_required": true,
+      "section": "sec. 4.b(2)(b)(iii)",
+      "rule": "One performer playing more than one of the same keyboard instrument; performer is the last element.",
+      "examples": ["Piano music (Pianos (2), 1 performer)"],
+      "exceptions": []
+    },
+    {
+      "pattern": "[Duets|Trios|Quartets|Quintets|Sextets|Septets|Octets|Nonets] (Unspecified instruments ([n]))",
+      "free_floating": false,
+      "authority_record_required": false,
+      "section": "sec. 4.b(3)",
+      "rule": "Established headings for 2 through 9 unspecified instruments; number of unspecified instruments indicated even when the heading begins with the number of players; the number is also given in related headings.",
+      "examples": [
+        "Duets (Unspecified instruments (2))",
+        "Nonets (Unspecified instruments (9))",
+        "Canons, fugues, etc. (Unspecified instruments (5))",
+        "Trio sonatas (Unspecified instruments (2), continuo)"
+      ],
+      "exceptions": []
+    },
+    {
+      "pattern": "[Form/genre heading] ([solo instrument(s)] with [accompanying instrument(s) or ensemble])",
+      "free_floating": true,
+      "authority_record_required": false,
+      "section": "sec. 5, 6.b, 6.c",
+      "rule": "Accompaniment follows the connector \"with\" inside the qualifier. Solo instruments listed per sec. 2 / sec. 3. Ensemble term singular.",
+      "examples": [
+        "Concertos (Piano with string orchestra)",
+        "Concertos (Piano, saxophone, double bass with instrumental ensemble)",
+        "Concertos (Bass clarinet and double bass with jazz ensemble)",
+        "Concertos (Tuba with wind ensemble)",
+        "Concertos (Jazz ensemble with band)",
+        "Concertos (Clarinet with band)",
+        "Concertos (Percussion with instrumental ensemble)",
+        "Concertos (Violins (2) with string orchestra)",
+        "Suites (Piano with band)",
+        "Variations (Piano with clarinet choir)",
+        "Variations (Clarinet with string ensemble)"
+      ],
+      "exceptions": [
+        "Full orchestra is assumed for concertos: Concertos (Clarinet), not Concertos (Clarinet with orchestra) (sec. 5.d)."
+      ]
+    },
+    {
+      "pattern": "[Form/genre heading] ([ensemble])",
+      "free_floating": true,
+      "authority_record_required": false,
+      "section": "sec. 5.a, 5.d, 5.e",
+      "rule": "An established ensemble term (singular) as the sole medium.",
+      "examples": [
+        "Suites (Orchestra)",
+        "Concertos (String orchestra)",
+        "Variations (Instrumental ensemble)",
+        "Symphonies (Brass ensemble)",
+        "Suites (Recorder ensemble)",
+        "Canons, fugues, etc. (Violin ensemble)",
+        "Suites (Piano ensemble)",
+        "Overtures (Dance orchestra)",
+        "Concertos (Orchestra)"
+      ],
+      "exceptions": [
+        "Orchestra is not added to overtures, symphonic poems, symphonies (and as concerto accompaniment) when performed by full orchestra: Symphonic poems; Symphonies (sec. 5.d).",
+        "Concertos (Orchestra [Band, etc.]) only when the composer calls the work a concerto for the entire large ensemble; never for chamber music with one player to a part (sec. 5.e)."
+      ]
+    },
+    {
+      "pattern": "[Form/genre heading] ([single instrument or electronics])  (non-orchestral medium for forms assuming orchestra)",
+      "free_floating": true,
+      "authority_record_required": false,
+      "section": "sec. 5.d",
+      "rule": "When a form that assumes full orchestra is for another medium, include the medium.",
+      "examples": [
+        "Symphonic poems (Organ)",
+        "Symphonies (Electronics)",
+        "Concertos (Clarinet)"
+      ],
+      "exceptions": []
+    },
+    {
+      "pattern": "[Solo instrument(s)] with [ensemble]",
+      "free_floating": true,
+      "authority_record_required": false,
+      "section": "sec. 2, 5, 6",
+      "rule": "Instrument-list heading (no form term) followed by \"with\" and the accompanying ensemble. Two soloists joined by \"and\"; three or more by commas with no \"and\".",
+      "examples": [
+        "Clarinet, flute, violin, cello with chamber orchestra",
+        "Piano, horn, glockenspiel, xylophone with orchestra",
+        "Pianos (2), celesta, percussion, synthesizer with chamber orchestra",
+        "Horns (3), violin with chamber orchestra",
+        "Alto trombone with string orchestra",
+        "Violin with orchestra",
+        "Piano with clarinet choir",
+        "Harp with instrumental ensemble",
+        "Brass ensemble with orchestra",
+        "Clarinet with wind ensemble",
+        "Clarinet with clarinet ensemble",
+        "Vibraphone with percussion ensemble",
+        "Guitar and piano with jazz ensemble",
+        "Saxophone and guitar with jazz ensemble",
+        "Electronics and piano with percussion ensemble",
+        "Piano with band",
+        "Organs (2) with orchestra",
+        "Clarinet, flute, violin, cello with instrumental ensemble"
+      ],
+      "exceptions": []
+    },
+    {
+      "pattern": "[heading], Arranged",
+      "free_floating": true,
+      "authority_record_required": false,
+      "section": "sec. 7.a",
+      "rule": "Free-floating with form/genre headings for arranged instrumental music; follows any closing parenthesis.",
+      "examples": [
+        "Piano music, Arranged",
+        "Violin and piano music, Arranged",
+        "Variations (Violin and piano), Arranged",
+        "Quartets (Flute, violin, viola, cello), Arranged",
+        "Piano ensembles, Arranged",
+        "Canons, fugues, etc. (Organ, 4 hands), Arranged"
+      ],
+      "exceptions": [
+        "Larger vocal forms and instrumental forms that do not indicate medium: not free-floating; must be established, e.g. Operas, Arranged; Oratorios, Arranged; Motion picture music, Arranged; Incidental music, Arranged (sec. 7.b).",
+        "Never with forms usually qualified by type of chorus: Cantatas; Masses; Choruses; Requiems (sec. 7.b).",
+        "Never with works for solo singers or one singer to a part: Sacred vocal duets [trios, etc.]; Songs; Sacred songs; Vocal duets [trios, etc.]; Solo cantatas; Vocalises (sec. 7.b).",
+        "When the heading could take --Excerpts, use the free-floating subdivision --Excerpts, Arranged instead (sec. 7.c)."
+      ]
+    },
+    {
+      "pattern": "[heading]--Excerpts, Arranged",
+      "free_floating": true,
+      "authority_record_required": false,
+      "section": "sec. 7.c",
+      "rule": "Used instead of the qualifier , Arranged when the heading could be modified by --Excerpts (cf. H 1160).",
+      "examples": [],
+      "exceptions": []
+    },
+    {
+      "pattern": "[Sacred songs|Solo cantatas|Solo cantatas, Sacred|Solo cantatas, Secular|Songs|Vocalises] ([High voice|Medium voice|Low voice])",
+      "free_floating": false,
+      "authority_record_required": false,
+      "section": "sec. 8.a(1)",
+      "rule": "One solo voice: vocal range qualifier is the first element in parentheses after the main heading. These headings have been established with each range qualifier.",
+      "examples": [
+        "Sacred songs (Low voice)",
+        "Solo cantatas, Sacred (Medium voice)",
+        "Vocalises (High voice)",
+        "Songs (High voice) with piano",
+        "Songs (Low voice) with percussion",
+        "Sacred songs (High voice) with oboe"
+      ],
+      "exceptions": [
+        "No range qualifier with Vocal duets ... Vocal nonets or Sacred vocal duets ... Sacred vocal nonets (sec. 8.a(2))."
+      ]
+    },
+    {
+      "pattern": "[Vocal|Sacred vocal] [duets|trios|quartets|quintets|sextets|septets|octets|nonets]",
+      "free_floating": false,
+      "authority_record_required": false,
+      "section": "sec. 8.a(2)",
+      "rule": "Established headings for 2 through 9 solo voices; no indication of range.",
+      "examples": [
+        "Vocal duets with continuo",
+        "Sacred vocal quartets, Unaccompanied",
+        "Vocal quintets with instrumental ensemble",
+        "Vocal trios with pianos (2)",
+        "Vocal quartets with pianos (2)"
+      ],
+      "exceptions": []
+    },
+    {
+      "pattern": "Vocalises (Voices ([n]))",
+      "free_floating": true,
+      "authority_record_required": false,
+      "section": "sec. 8.a(2)",
+      "rule": "Number of solo voices (two or more) added on a free-floating basis; no voice range.",
+      "examples": [
+        "Vocalises (Voices (3)), Unaccompanied",
+        "Vocalises (Voices (4)) with pianos (2)"
+      ],
+      "exceptions": []
+    },
+    {
+      "pattern": "[Heading not stating/implying medium] (Voice[ and [instrument]][ with [accompaniment]])",
+      "free_floating": true,
+      "authority_record_required": false,
+      "section": "sec. 8.b(1)",
+      "rule": "One solo voice in a heading that does not state or imply medium: qualifier begins with Voice; order sung part(s), solo instrument, accompaniment; no vocal range, no nature of text. A second heading may be added.",
+      "examples": [
+        "Recorded accompaniments (Voice)",
+        "Sacred monologues with music (Voice with orchestra)"
+      ],
+      "exceptions": [
+        "Do not add , Unaccompanied when voice is the sole medium (sec. 8.b(3))."
+      ]
+    },
+    {
+      "pattern": "[Heading not stating/implying medium] (Voices ([n])[, instrument(s)][ with [accompaniment]])",
+      "free_floating": true,
+      "authority_record_required": false,
+      "section": "sec. 8.b(2)",
+      "rule": "Two or more solo voices: arabic numeral in parentheses after Voices; up to 9; no authority records required.",
+      "examples": [
+        "Marches (Voices (3) with band)",
+        "Variations (Voices (5) with instrumental ensemble)",
+        "Monologues with music (Voices (2), oboe, trumpet with orchestra)",
+        "Canons, fugues, etc. (Voices (3))"
+      ],
+      "exceptions": [
+        "Do not add , Unaccompanied when voice is the sole medium: Canons, fugues, etc. (Voices (3)) (sec. 8.b(3))."
+      ]
+    },
+    {
+      "pattern": "[Choruses|Choruses, Sacred|Choruses, Secular] ([type of chorus])",
+      "free_floating": true,
+      "authority_record_required": false,
+      "section": "sec. 9.a(1)(b)",
+      "rule": "Qualifiers for type of voices are free-floating after these three headings.",
+      "examples": [
+        "Choruses (Women's voices)",
+        "Choruses, Sacred (Mixed voices)",
+        "Choruses, Secular (Mixed voices) with orchestra",
+        "Choruses, Secular (Children's voices) with pianos (2)"
+      ],
+      "exceptions": []
+    },
+    {
+      "pattern": "[Cantatas|Cantatas, Sacred|Cantatas, Secular|Masses|Requiems] ([type of chorus other than Mixed voices])",
+      "free_floating": false,
+      "authority_record_required": true,
+      "section": "sec. 9.a(1)(a), 9.a(1)(c)",
+      "rule": "Mixed voices is assumed and never added; other chorus types have been established with these headings.",
+      "examples": [
+        "Cantatas, Secular (Men's voices)",
+        "Masses (Equal voices)",
+        "Requiems (Unison)"
+      ],
+      "exceptions": [
+        "Cantatas (Mixed voices), Masses (Mixed voices), etc. are not used: Cantatas; Cantatas, Sacred; Cantatas, Secular; Masses; Requiems."
+      ]
+    },
+    {
+      "pattern": "[Choruses|Choruses, Sacred|Choruses, Secular] ([type of chorus], [n] parts)",
+      "free_floating": true,
+      "authority_record_required": false,
+      "section": "sec. 9.a(2)",
+      "rule": "Number of choral parts (8 or fewer) follows type of chorus after a comma in the same parentheses; only with these three headings and only if accompaniment is not present in the heading, is for continuo, for a solo instrument, or for two of the same keyboard instruments, or with , Unaccompanied. Divisi not counted separately unless throughout most or all of the vocal line.",
+      "examples": [
+        "Choruses, Sacred (Equal voices, 3 parts)",
+        "Choruses, Sacred (Mixed voices, 6 parts) with continuo",
+        "Choruses, Sacred (Mixed voices, 4 parts) with piano",
+        "Choruses, Secular (Children's voices, 3 parts), Unaccompanied",
+        "Choruses, Secular (Women's voices, 3 parts) with harp",
+        "Choruses, Sacred (Mixed voices, 5 parts), Unaccompanied",
+        "Choruses, Secular (Mixed voices, 4 parts), Unaccompanied"
+      ],
+      "exceptions": [
+        "Not with ensemble accompaniment.",
+        "Not more than 8 parts.",
+        "Not with headings other than Choruses; Choruses, Sacred; Choruses, Secular."
+      ]
+    },
+    {
+      "pattern": "[Heading not stating/implying medium] (Chorus[ and [instrument]][ with [accompaniment]])",
+      "free_floating": true,
+      "authority_record_required": false,
+      "section": "sec. 9.b",
+      "rule": "Qualifier begins with Chorus; order sung part(s), solo instrument, accompaniment; no type of chorus, no nature of text. A second heading may be added.",
+      "examples": [
+        "Canons, fugues, etc. (Chorus)",
+        "Monologues with music (Chorus with band)",
+        "Variations (Chorus and trumpet with orchestra)",
+        "Canons, fugues, etc. (Chorus and trumpet with string orchestra)",
+        "Symphonies (Chorus and viola with chamber orchestra)",
+        "Canons, fugues, etc. (Chorus with instrumental ensemble)"
+      ],
+      "exceptions": [
+        "Do not use , Unaccompanied when chorus is the only medium of performance."
+      ]
+    },
+    {
+      "pattern": "[vocal heading with qualifier] with [single instrument | two of the same keyboard instrument ([Instruments] (2)) | ensemble]",
+      "free_floating": true,
+      "authority_record_required": false,
+      "section": "sec. 10.b, 10.c, 5.b(4)",
+      "rule": "Accompaniment is the last element. Name a specific instrument only for one instrument or two of the same keyboard instrument; otherwise use the ensemble term. Keyboard hands in comma form: with piano, 4 hands.",
+      "examples": [
+        "Choruses, Secular (Mixed voices) with piano",
+        "Sacred songs (High voice) with oboe",
+        "Vocal quartets with pianos (2)",
+        "Vocalises with piano",
+        "Choruses, Sacred (Mixed voices) with keyboard ensemble",
+        "Songs (High voice) with string ensemble",
+        "Songs (Medium voice) with instrumental ensemble",
+        "Choruses, Sacred (Mixed voices) with brass ensemble",
+        "Songs (Medium voice) with orchestra",
+        "Songs (High voice) with piano, 4 hands",
+        "Songs (High voice) with percussion ensemble",
+        "Choruses, Sacred (Mixed voices) with band",
+        "Sacred songs (Low voice) with orchestra"
+      ],
+      "exceptions": [
+        "not Choruses, Sacred (Mixed voices) with organ and piano",
+        "not Songs (High voice) with string quartet",
+        "not Songs (Medium voice) with piano trio",
+        "not Choruses, Sacred (Mixed voices) with brass trio",
+        "not Canons, fugues, etc. (Chorus and trumpet with organ)",
+        "No accompaniment added to larger vocal forms and dramatic works: Cantatas; Masses; Musicals; Operas; Oratorios; Requiems; Sacred pantomimes with music; Solo cantatas (sec. 10.a)."
+      ]
+    },
+    {
+      "pattern": "[heading], Unaccompanied",
+      "free_floating": true,
+      "authority_record_required": false,
+      "section": "sec. 11.a(1)",
+      "rule": "Final element; free-floating with Choruses; Choruses, Sacred; Choruses, Secular; Sacred vocal duets, [trios, etc.]; Sacred songs; Songs; Vocal duets [trios, etc.]; Vocalises — including when modified by range of solo voice or type of chorus.",
+      "examples": [
+        "Choruses, Secular (Mixed voices, 4 parts), Unaccompanied",
+        "Songs (Medium voice), Unaccompanied",
+        "Vocal quintets, Unaccompanied",
+        "Vocalises (Medium voice), Unaccompanied",
+        "Vocal trios, Unaccompanied",
+        "Sacred vocal quartets, Unaccompanied",
+        "Vocalises (Voices (3)), Unaccompanied"
+      ],
+      "exceptions": [
+        "Authority record required with Masses; Requiems (including with type of chorus); Sacred vocal ensembles; Vocal ensembles, e.g. Masses, Unaccompanied; Requiems (Women's voices), Unaccompanied (sec. 11.a(2)).",
+        "Not with (Voice ...)/(Voices ...) qualifier headings where voice is the sole medium (sec. 8.b(3)) or (Chorus ...) qualifier headings (sec. 9.b).",
+        "Not with the sec. 10.a headings (Cantatas; Musicals; Operas; Oratorios; Sacred pantomimes with music; Solo cantatas), except Masses and Requiems by authority record.",
+        "Never in headings for instrumental music (sec. 11.b)."
+      ]
+    }
+  ],
+  "instrument_terms": {
+    "ordering_groups": [
+      {"order": 1, "group": "keyboard instruments", "within_group_order": "alphabetical"},
+      {"order": 2, "group": "wind instruments", "within_group_order": "alphabetical"},
+      {"order": 3, "group": "plucked or hammered stringed instruments without a keyboard", "within_group_order": "alphabetical"},
+      {"order": 4, "group": "percussion, electronic, and other instruments", "within_group_order": "alphabetical"},
+      {"order": 5, "group": "bowed stringed instruments", "within_group_order": "score order, high to low, basing the order on the range of each instrument as described in standard music reference sources"},
+      {"order": 6, "group": "unspecified instruments", "within_group_order": ""},
+      {"order": 7, "group": "continuo", "within_group_order": ""}
+    ],
+    "ordering_notes": [
+      "Do not include more than 9 instruments or 9 soloists in a heading, counting all categories.",
+      "For two instruments (Western music on Western instruments; optionally one Western and one non-Western): if one is chordal (keyboard or plucked instruments, on which chords are easily played) or accompanies the other, give the chordal or accompanying instrument in the second position.",
+      "Group assignments below are as stated or as implied by the sheet's examples; the sheet does not itself tabulate instruments by group."
+    ],
+    "instruments": [
+      {"term": "piano", "plural": "pianos", "group": 1, "source": "sec. 2"},
+      {"term": "organ", "plural": "organs", "group": 1, "source": "sec. 2, 4.b(2)"},
+      {"term": "reed organ", "plural": "", "group": 1, "source": "sec. 2 (Trios (Piano (4 hands), reed organ))"},
+      {"term": "harpsichord", "plural": "harpsichords", "group": 1, "source": "sec. 4.a, 4.b(2)(b)(i), 5.e"},
+      {"term": "electronic organ", "plural": "electronic organs", "group": 1, "source": "sec. 4.b(2)(b)(i)"},
+      {"term": "bassoon", "plural": "", "group": 2, "source": "sec. 2, 3.a"},
+      {"term": "clarinet", "plural": "", "group": 2, "source": "sec. 1.a(2), 2"},
+      {"term": "bass clarinet", "plural": "", "group": 2, "source": "sec. 1.a(3); only for works for one or two solo players, otherwise \"clarinet\""},
+      {"term": "flute", "plural": "flutes", "group": 2, "source": "sec. 1.a(1), 2, 4.a"},
+      {"term": "alto flute", "plural": "alto flutes", "group": 2, "source": "sec. 1.a(3); only for works for one or two solo players, otherwise \"flute\""},
+      {"term": "horn", "plural": "horns", "group": 2, "source": "sec. 2, 4.a"},
+      {"term": "oboe", "plural": "oboes", "group": 2, "source": "sec. 2, 6.a"},
+      {"term": "saxophone", "plural": "", "group": 2, "source": "sec. 2, 6.c"},
+      {"term": "trombone", "plural": "", "group": 2, "source": "sec. 1.c, 3.c"},
+      {"term": "alto trombone", "plural": "", "group": 2, "source": "sec. 1.a(3); only for works for one or two solo players, otherwise \"trombone\""},
+      {"term": "trumpet", "plural": "trumpets", "group": 2, "source": "sec. 1.a(2), 4.b(2)(a)"},
+      {"term": "tuba", "plural": "", "group": 2, "source": "sec. 4.b(2)(a), 5.a(2)"},
+      {"term": "euphonium", "plural": "", "group": 2, "source": "sec. 4.a"},
+      {"term": "recorder", "plural": "", "group": 2, "source": "sec. 5.a(2)(b) (Recorder ensembles)"},
+      {"term": "panpipes", "plural": "", "group": 2, "source": "sec. 1.b(1) (Panpipes / Panpipes music)"},
+      {"term": "accordion", "plural": "", "group": 4, "source": "sec. 2 (Octets example: after mandolin, before percussion); sec. 5.b(3) Accordion ensembles"},
+      {"term": "guitar", "plural": "guitars", "group": 3, "source": "sec. 2, 4.a"},
+      {"term": "harp", "plural": "", "group": 3, "source": "sec. 2, 4.a"},
+      {"term": "lute", "plural": "", "group": 3, "source": "sec. 4.b(1)(b)"},
+      {"term": "mandolin", "plural": "", "group": 3, "source": "sec. 2, 3.c"},
+      {"term": "percussion", "plural": "", "group": 4, "source": "sec. 2, 4.b(4)(b); never numbered"},
+      {"term": "celesta", "plural": "", "group": 4, "source": "sec. 2 (Pianos (2), celesta, percussion, synthesizer ...); sec. 4.b(4)(a) treats celesta with mallet instruments"},
+      {"term": "glockenspiel", "plural": "", "group": 4, "source": "sec. 2"},
+      {"term": "xylophone", "plural": "", "group": 4, "source": "sec. 2"},
+      {"term": "vibraphone", "plural": "", "group": 4, "source": "sec. 2, 4.b(4)(a)"},
+      {"term": "synthesizer", "plural": "", "group": 4, "source": "sec. 2"},
+      {"term": "computer", "plural": "", "group": 4, "source": "sec. 2; Computer music not numbered (sec. 4.b(5))"},
+      {"term": "electronics", "plural": "", "group": 4, "source": "sec. 2, 4.b(5), 5.d; never numbered; music heading is Electronic music, combination form \"electronic\" (Electronic and percussion music, Balloon and electronic music)"},
+      {"term": "balloon", "plural": "", "group": 4, "source": "sec. 3.a (Balloon and electronic music)"},
+      {"term": "castanets", "plural": "", "group": 4, "source": "sec. 1.b(1) (Castanet music)"},
+      {"term": "clock chimes", "plural": "", "group": 4, "source": "sec. 1.b(1) (Clock chime music)"},
+      {"term": "timpani", "plural": "", "group": 4, "source": "sec. 1.b(1) (Timpani music)"},
+      {"term": "leaves", "plural": "", "group": 4, "source": "sec. 1.a(4) (Leaf music; Leaves (Musical medium of performance))"},
+      {"term": "violin", "plural": "violins", "group": 5, "source": "sec. 2", "score_order": 1},
+      {"term": "viola d'amore", "plural": "", "group": 5, "source": "sec. 2", "score_order": 2},
+      {"term": "viola", "plural": "violas", "group": 5, "source": "sec. 2", "score_order": 3},
+      {"term": "cello", "plural": "cellos", "group": 5, "source": "sec. 2", "score_order": 4},
+      {"term": "violone", "plural": "", "group": 5, "source": "sec. 2", "score_order": 5},
+      {"term": "double bass", "plural": "", "group": 5, "source": "sec. 2", "score_order": 5},
+      {"term": "unspecified instrument", "plural": "unspecified instruments", "group": 6, "source": "sec. 3.b, 4.b(3)"},
+      {"term": "continuo", "plural": "", "group": 7, "source": "sec. 2"}
+    ],
+    "music_of_instrument_headings": [
+      {"instrument": "Castanets", "music": "Castanet music"},
+      {"instrument": "Clock chimes", "music": "Clock chime music"},
+      {"instrument": "Panpipes", "music": "Panpipes music"},
+      {"instrument": "Timpani", "music": "Timpani music"},
+      {"instrument": "Bands (Music)", "music": "Band music"},
+      {"instrument": "Stringed instruments", "music": "Stringed instrument music"},
+      {"instrument": "Flute", "music": "Flute music"},
+      {"instrument": "Leaves (Musical medium of performance)", "music": "Leaf music"}
+    ],
+    "large_ensembles_more_than_one_player_to_a_part": {
+      "note": "The word \"ensembles\" is not part of headings in this category.",
+      "terms": [
+        {"heading": "Orchestra", "medium": "orchestra", "subtype": "different instruments"},
+        {"heading": "String orchestra", "medium": "string orchestra", "subtype": "different instruments", "music_heading": "String orchestra music"},
+        {"heading": "Bands (Music)", "medium": "band", "subtype": "different instruments", "music_heading": "Band music"},
+        {"heading": "", "medium": "chamber orchestra", "subtype": "different instruments", "note": "appears only as medium in examples"},
+        {"heading": "", "medium": "dance orchestra", "subtype": "different instruments", "note": "appears only in Overtures (Dance orchestra)"},
+        {"heading": "Clarinet choir", "medium": "clarinet choir", "subtype": "same instrument"},
+        {"heading": "", "medium": "trombone choir", "subtype": "same instrument", "music_heading": "Trombone choir music"}
+      ]
+    },
+    "ensembles_one_player_to_a_part": {
+      "note": "For individual works \"ensemble(s)\" stands for 10 or more instruments, except as indicated in sec. 5.b(3)-(6); in collections it may represent varying instrumentation or numbers of players. Main heading plural; medium singular.",
+      "terms": [
+        {"heading": "Instrumental ensembles", "medium": "instrumental ensemble", "subtype": "different instruments"},
+        {"heading": "Brass ensembles", "medium": "brass ensemble", "subtype": "different instruments"},
+        {"heading": "Wind ensembles", "medium": "wind ensemble", "subtype": "different instruments"},
+        {"heading": "String ensembles", "medium": "string ensemble", "subtype": "different instruments"},
+        {"heading": "Clarinet ensembles", "medium": "clarinet ensemble", "subtype": "same instrument"},
+        {"heading": "Recorder ensembles", "medium": "recorder ensemble", "subtype": "same instrument"},
+        {"heading": "Violin ensembles", "medium": "violin ensemble", "subtype": "same instrument"},
+        {"heading": "", "medium": "keyboard ensemble", "subtype": "accompaniment", "note": "as in Choruses, Sacred (Mixed voices) with keyboard ensemble"}
+      ]
+    },
+    "ensembles_of_three_or_more": [
+      "Accordion ensembles",
+      "Carillon ensembles",
+      "Concertina ensembles",
+      "Harmonica ensembles",
+      "Harpsichord ensembles",
+      "Keyboard instrument ensembles",
+      "Piano ensembles"
+    ],
+    "percussion_ensembles": {
+      "terms": ["Percussion ensembles", "percussion ensemble"],
+      "note": "Stands for two or more performers, each playing one or more instruments, in works solely for percussion or where the accompaniment is solely for percussion."
+    },
+    "jazz_ensemble": {
+      "terms": ["jazz ensemble"],
+      "note": "Not used as a main heading (see Jazz); used only as a medium of performance for a group of two or more solo instruments with other accompaniment, or for the accompanying group itself."
+    },
+    "number_of_performers_headings": [
+      "Duets", "Trios", "Quartets", "Quintets", "Sextets", "Septets", "Octets", "Nonets"
+    ],
+    "other_number_headings_in_examples": [
+      "String quintets", "String nonets", "Wind trios", "Trio sonatas"
+    ],
+    "solo_vocal_range_qualifiers": [
+      {"term": "High voice", "voice_types": ["soprano", "countertenor", "tenor"]},
+      {"term": "Medium voice", "voice_types": ["mezzo-soprano", "baritone"]},
+      {"term": "Low voice", "voice_types": ["alto", "contralto", "bass"]}
+    ],
+    "headings_established_with_range_qualifiers": [
+      "Sacred songs", "Solo cantatas", "Solo cantatas, Sacred", "Solo cantatas, Secular", "Songs", "Vocalises"
+    ],
+    "solo_voice_ensemble_headings": [
+      "Vocal duets", "Vocal trios", "Vocal quartets", "Vocal quintets", "Vocal sextets", "Vocal septets", "Vocal octets", "Vocal nonets",
+      "Sacred vocal duets", "Sacred vocal trios", "Sacred vocal quartets", "Sacred vocal quintets", "Sacred vocal sextets", "Sacred vocal septets", "Sacred vocal octets", "Sacred vocal nonets",
+      "Vocal ensembles", "Sacred vocal ensembles"
+    ],
+    "sung_part_medium_terms": [
+      {"term": "Voice", "use": "one solo voice in a heading not stating/implying medium (sec. 8.b(1))"},
+      {"term": "Voices ([n])", "use": "2-9 solo voices (sec. 8.b(2)); also Vocalises (Voices ([n])) (sec. 8.a(2))"},
+      {"term": "Chorus", "use": "chorus in a heading not stating/implying medium (sec. 9.b)"}
+    ],
+    "type_of_chorus_qualifiers": [
+      "Changing voices", "Children's voices", "Equal voices", "Men's voices", "Mixed voices", "Unison", "Women's voices"
+    ],
+    "headings_assuming_mixed_voices": ["Cantatas", "Cantatas, Sacred", "Cantatas, Secular", "Masses", "Requiems"],
+    "headings_with_free_floating_chorus_qualifiers": ["Choruses", "Choruses, Sacred", "Choruses, Secular"],
+    "choral_parts_format": "[type of chorus], [n] parts  (n <= 8)",
+    "forms_assuming_full_orchestra": ["Overtures", "Symphonic poems", "Symphonies", "Concertos (accompaniment)"],
+    "large_vocal_forms_no_accompaniment": [
+      "Cantatas", "Masses", "Musicals", "Operas", "Oratorios", "Requiems", "Sacred pantomimes with music", "Solo cantatas"
+    ],
+    "connectors": [
+      {"term": "and", "use": "between exactly two solo instruments, or a sung part and one solo instrument in a qualifier; not when three or more elements precede \"with\" or more than two soloists (use commas)"},
+      {"term": "with", "use": "precedes accompanying solo instrument(s) or accompanying ensemble"}
+    ],
+    "qualifiers": [
+      {"term": ", Arranged", "free_floating_with": "form/genre headings for arranged instrumental music"},
+      {"term": ", Unaccompanied", "free_floating_with": ["Choruses", "Choruses, Sacred", "Choruses, Secular", "Sacred vocal duets, [trios, etc.]", "Sacred songs", "Songs", "Vocal duets [trios, etc.]", "Vocalises"], "authority_record_required_with": ["Masses", "Requiems", "Sacred vocal ensembles", "Vocal ensembles"]}
+    ],
+    "number_modifiers": [
+      {"format": "([n])", "after": "plural instrument name or Voices / Unspecified instruments", "example": "horns (4)"},
+      {"format": "([n] hands)", "after": "instrument name", "example": "Lute music (4 hands)"},
+      {"format": ", [n] hands", "after": "instrument as sole qualifier content, or keyboard accompaniment in vocal headings", "example": "Sonatas (Viola, 3 hands); Songs (High voice) with piano, 4 hands"},
+      {"format": "([Instruments] (2), [n] hands)", "after": "music heading of keyboard instrument", "example": "Piano music (Pianos (2), 6 hands)"},
+      {"format": "([Instruments] (2), 1 performer)", "after": "music heading of keyboard instrument", "example": "Piano music (Pianos (2), 1 performer)"}
+    ]
+  }
+}

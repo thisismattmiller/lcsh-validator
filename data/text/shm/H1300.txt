@@ -1,0 +1,141 @@
+
+
+<<<PAGE 1>>>
+ 
+Bible and Other Sacred Works  H 1300 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1300 Page 1 
+ 
+September 2013 
+BACKGROUND:  The sacred books of the world's religions, such as the Bible, Book of 
+Mormon, Qur’an, Tripitaka, Vedas, etc., have been translated from their original form into other 
+languages in the course of their history.  Generally, translations are made from original texts.  
+In some instances, a modern translation is made from an earlier version, rather than from the 
+original language, for example, an English translation from the Aramaic Targum of Ezekiel, 
+which is itself a translation from the Hebrew.  This instruction sheet provides guidelines for 
+assigning headings to works about versions (translations) of particular sacred books, including 
+their individual parts.  It also provides guidelines for assigning form headings to modern 
+translations of early versions in order to create a link between the early and modern 
+translations. 
+ 
+ 
+1.  Translating.  Use the free-floating subdivision –Translating under the uniform title for a 
+sacred work, or its individual parts, for works on the process of rendering the book from one 
+language to another, including methodology, tools, etc., for example, Book of 
+Mormon--Translating. 
+ 
+ 
+2.  Versions. 
+ 
+a.  General works. Use the free-floating subdivision –Versions under the uniform title 
+for a sacred book, or its individual parts, for general works that discuss collectively 
+translations of the sacred book, for example, Bible—Versions; Beatitudes—Versions.   
+ 
+b.  By language.  
+ 
+(1) Language groups.  Use the free-floating subdivision –Versions, [name of 
+language group] for works that discuss collectively the translations of a sacred 
+book, or its individual parts, into languages belonging to that group, for example, 
+Bible—Versions, Slavic. 
+ 
+Do not use the adjectival qualifier for discussions of versions in an individual 
+language. 
+ 
+(2) Individual languages.  Use the free-floating subdivision –Versions under 
+[uniform title].  [language of translation] for general works on translations of a 
+sacred book, or its individual parts, into an individual language, for example, 
+Qur’an.  Urdu—Versions. 
+
+
+<<<PAGE 2>>>
+H 1300  Bible and Other Sacred Works 
+ 
+ 
+ 
+H 1300 Page 2 
+Subject Headings Manual 
+September 2013 
+2.  Versions.  (Continued) 
+ 
+ 
+c.  Denominational versions.  Use subdivisions of the type –Versions, [name of 
+denomination] for works that discuss translations prepared for use by members of a 
+particular religious denomination, for example, Bible—Versions, Baptist.  If these 
+versions are in a particular language, assign an additional heading to bring out the 
+language of the versions, for example, Bible. English—Versions. 
+ 
+ 
+ 
+ 
+ 
+d.  Individual versions. 
+ 
+ 
+(1) General.  Use the free-floating subdivision –Versions—[name of version] 
+under the uniform title, or its individual parts, to which the language of the 
+translation has been added, for works that discuss a particular translation of a 
+sacred book.  Use as a free-floating subdivision the name of the version as it 
+appears in the uniform title for the translation, for example, Bible.  
+English—Versions--Authorized. 
+ 
+ 
+ 
+(2) Translations of early versions.  Some modern translations of sacred works 
+are made from earlier translations rather than from the original language.  The 
+uniform title for the modern translation does not include the language and name 
+of the earlier version.  To provide a connection between the modern and the 
+early version for these special translations only, assign a form heading of the type 
+[uniform title for the early version]—Translations into [name of language], for 
+example, Bible. Pentateuch.  Aramaic.  Targum Pseudo-Jonathan— 
+Translations into English. 
+ 
+Do not provide a form heading of this type for a translation of a sacred work 
+made from the language in which it was originally written.  For example, an 
+English translation of the Gospel of John from Greek should not be assigned the 
+form heading Bible. John. Greek—Translations into English. 
+                
+
+
+<<<PAGE 3>>>
+ 
+Bible and Other Sacred Works  H 1300 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1300 Page 3 
+ 
+September 2013 
+3.  Examples. 
+ 
+ 
+Title:  The translation debate : what makes a Bible translation good? 
+630 00 $a Bible $x Translating. 
+630 00 $a Bible $x Versions. 
+ 
+ 
+ 
+Title:  A Bibliography of scriptures in African languages. 
+630 00 $a Bible $x Versions, African $v Bibliography. 
+ 
+ 
+ 
+Title:  Catholic German Bibles from the Reformation until today. 
+630 00 $a Bible $x Versions, Catholic $x History. 
+630 00 $a Bible. $l German $x Versions $x History. 
+ 
+ 
+ 
+Title:  About the New English Bible. 
+630 00 $a Bible. $l English $x Versions $x New English. 
+ 
+ 
+ 
+Title:  The Targums of Onkelos and Jonathan ben Uzziel on the Pentateuch. 
+1968. 
+630 00 $a Bible. $p Pentateuch. $l Aramaic. $s Onk.elos $v 
+Translations into English. 
+ 

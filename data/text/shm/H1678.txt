@@ -1,0 +1,164 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Interviews H 1678 | Page 1 
+ 
+ 
+Interviews 
+H 1678 
+A. Background ............................................................................................................................... 1 
+B. Recent revisions ........................................................................................................................ 2 
+C. Definitions ................................................................................................................................. 2 
+D. The heading Interviews ............................................................................................................. 2 
+E. --Interviews as a form subdivision ............................................................................................. 2 
+E.1. Classes of persons or ethnic groups .................................................................................... 2 
+E.2. Individual persons ............................................................................................................... 3 
+F. --Interviews as a topical subdivision .......................................................................................... 3 
+G. Assigning additional headings ................................................................................................... 4 
+Revision history ............................................................................................................................. 5 
+A. Background 
+This instruction sheet provides guidelines for the use of the heading *Interviews*, as well as for 
+the use of the free-floating subdivision *--Interviews*. The free-floating subdivision *--
+Interviews* is used as a form subdivision under headings for classes of persons, ethnic groups, 
+names of individual corporate bodies, and names of individual persons, including literary 
+authors, for transcripts of what was said during the course of interviews or conversations with 
+one or more persons on one or more occasions. The free-floating subdivision *--Interviews* is 
+used as a topical subdivision under the same types of headings for works about those 
+interviews. 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Interviews*. To replace a form subdivision that includes a demographic group, also assign 
+Library of Congress Demographic Groups Terms (LCDGT) to bring out the audience of the 
+resource being cataloged, e.g. *German speakers* or *Arabic, Students of*. 
+For guidelines on bio-bibliography, see H 1328. For guidelines on biography, see H 1330. For 
+guidelines on diaries, see H 1538. For guidelines on personal narratives of wars or disasters, see 
+H 1928. For guidelines on genealogy and family histories, see H 1631. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Interviews H 1678 | Page 2 
+ 
+ 
+B. Recent revisions 
+2026-02: Updated template. Added instructions related to LCGFT implementation. 
+C. Definitions 
+Interviews: transcripts of what was said during the course of interviews or conversations with 
+one or more persons on one or more occasions. 
+D. The heading Interviews 
+Assign the heading *Interviews* to general collections of interviews with persons from a wide 
+variety of groups or with undesignated backgrounds. 
+Example: 
+Title: Talks with prominent Americans. 
+650 #0 $a Interviews $z United States. 
+E. --Interviews as a form subdivision 
+E.1. Classes of persons or ethnic groups 
+Assign a heading or headings of the type *[class of persons]--Interviews* or *[ethnic group]--
+Interviews* to works consisting of interviews with one or more persons from specific fields or 
+ethnic groups. 
+Examples: 
+650 #0 $a African Americans $v Interviews. 
+650 #0 $a Children of divorced parents $z United States $v Interviews. 
+650 #0 $a Scientists $z Hungary $v Interviews. 
+650 #0 $a Terminally ill $z Sweden $v Interviews. 
+610 10 $a United States. $b Navy $x Surgeons $v Interviews. 
+650 #0 $a Women mountaineers $z Europe $v Interviews. 
+LC practice: 
+650 #0 $a Children of divorced parents $z United States. 
+655 #7 $a Interviews. $2 lcgft 
+Exception: If the heading representing the special class of persons does not exist and it is not 
+possible to establish such a heading, use *--Interviews* under the heading for the appropriate 
+field or discipline. In such situations the subdivision is not free floating and must be established. 
+An example of a work requiring such treatment would be a collection of interviews with several 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Interviews H 1678 | Page 3 
+ 
+ 
+persons involved in the field of dance, including dancers, choreographers, impresarios, 
+composers, costume designers, patrons, etc. 
+Also use the subdivision *--Interviews* under names of individual corporate bodies, including 
+performing groups, for collections of interviews with persons associated with the corporate 
+body, for example, *Minnesota Vikings (Football team)--Interviews*; *Guarneri Quartet--
+Interviews*. Use more specific subdivisions representing classes of persons, for example, *--
+Employees* or *--Presidents*, under the corporate body heading, if appropriate. 
+LC practice: Assign the subject term for the class of persons, ethnic group, or corporate bodies 
+if the group is a focus of the topic. If no appropriate class of persons exists, use the heading for 
+the field or discipline. Also assign LCGFT appropriate to the form and/or genre of the resource 
+in hand, e.g. LCGFT *Interviews* or the more specific term. 
+E.2. Individual persons 
+Use the free-floating subdivision *--Interviews* under names of individual persons, including 
+literary authors, for works consisting of interviews with them. 
+LC practice: Assign the subject term for individual person. Also assign LCGFT appropriate to the 
+form and/or genre of the resource in hand, e.g. LCGFT *Interviews* or the more specific term. 
+Examples: 
+Title: Entretiens avec Marcel Duchamp. 
+600 10 $a Duchamp, Marcel, $d 1887-1968 $v Interviews. 
+650 #0 $a Artists $z France $v Interviews. 
+LC practice: 
+600 10 $a Duchamp, Marcel, $d 1887-1968. 
+650 #0 $a Artists $z France. 
+655 #7 $a Interviews. $2 lcgft 
+ 
+Title: Borges at eighty : conversations. 
+600 10 $a Borges, Jorge Luis, $d 1899-1986 $v Interviews. 
+650 #0 $a Authors, Argentine $y 20th century $v Interviews. 
+LC practice: 
+600 10 $a Borges, Jorge Luis, $d 1899-1986. 
+650 #0 $a Authors, Argentine $y 20th century. 
+655 #7 $a Interviews. $2 lcgft 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Interviews H 1678 | Page 4 
+ 
+ 
+F. --Interviews as a topical subdivision 
+For works about interviews or conversations with one or more persons on one or more 
+occasions, use *--Interviews* as a topical subdivision under headings for classes of persons, 
+ethnic groups, names of individual corporate bodies, and names of individual persons, including 
+literary authors. 
+Examples: 
+Title: Frost/Nixon. 
+600 10 $a Nixon, Richard M. $q (Richard Milhous), $d 1913-1994 $x 
+Interviews. 
+650 #0 $a Presidents $z United States $x Interviews. 
+650 #0 $a Ex-presidents $z United States $x Interviews. 
+600 10 $a Frost, David, $d 1939 Apr. 7- 
+ 
+Title: Enron 1986-2001. 
+610 20 $a Enron Corp. $x Employees $x Interviews. 
+650 #0 $a Energy industries $z United States. 
+G. Assigning additional headings 
+Assign additional appropriate headings as needed to bring out the focus of the interviews or 
+specific topics discussed. Do not further subdivide these headings by *--Interviews*. 
+Examples: 
+Title: Soviet leaders face American journalists. 
+651 #0 $a Soviet Union $x Foreign relations $y 1953-1975. 
+651 #0 $a Soviet Union $x Foreign relations $z United States. 
+651 #0 $a United States $x Foreign relations $z Soviet Union. 
+650 #0 $a Statesmen $z Soviet Union $v Interviews. 
+LC practice: 
+651 #0 $a Soviet Union $x Foreign relations $y 1953-1975. 
+651 #0 $a Soviet Union $x Foreign relations $z United States. 
+651 #0 $a United States $x Foreign relations $z Soviet Union. 
+650 #0 $a Statesmen $z Soviet Union. 
+655 #7 $a Interviews. $2 lcgft 
+ 
+Title: Ici et maintenant : conversations avec... 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Interviews H 1678 | Page 5 
+ 
+ 
+600 10 $a Mitterrand, François, $d 1916-1996 $v Interviews. 
+650 #0 $a Statesmen $z France $v Interviews. 
+651 #0 $a France $x Politics and government $y 1974-1981. 
+LC practice: 
+600 10 $a Mitterrand, François, $d 1916-1996. 
+650 #0 $a Statesmen $z France. 
+651 #0 $a France $x Politics and government $y 1974-1981. 
+655 #7 $a Interviews. $2 lcgft 
+Revision history 
+2026-02: Updated template. Added instructions related to LCGFT implementation. 

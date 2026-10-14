@@ -1,0 +1,66 @@
+
+
+<<<PAGE 1>>>
+ 
+Collected Works and Collections  H 1425 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1425 Page 1 
+ 
+June 2013 
+BACKGROUND:  Until early 1988, the subdivision BCollected works was used as a form 
+subdivision under topical headings to designate a collection of independent works published 
+together in one or more volumes on the topic.  The subdivision BCollections was used in the 
+same manner, but only under the headings listed below.  Although BCollections is still valid for 
+use under these headings, the subdivision BCollected works has been discontinued. 
+ 
+ 
+ 
+1.  BCollected works.   
+ 
+a.  General rule.  Do not use the subdivision BCollected works under headings assigned 
+to any new work being cataloged.  To any work that would formerly have been assigned 
+this subdivision, assign the appropriate headings with no form subdivision. 
+ 
+LC practice: 
+b.  Bibliographic file maintenance.  Do not make any systematic attempt to delete the 
+subdivision from existing bibliographic records.  However, if the subject headings on an 
+individual record are being revised or updated for other reasons, delete BCollected works 
+at the same time. 
+ 
+LC practice: 
+c.  New editions.  If a new edition of a work is being cataloged, earlier editions of which 
+have been assigned headings with the subdivision BCollected works, update records of 
+those earlier editions having imprint dates of 1981 or later, so that the 6XX fields in the 
+records for all post-1980 editions match.  Do not update records for editions having an 
+imprint date earlier than 1981. 
+ 
+ 
+2.  BCollections.  Use the form subdivision BCollections only under the following headings, 
+where it has been specifically established: 
+ 
+Autographs 
+ 
+ 
+ 
+Manuscripts 
+Charters 
+ 
+ 
+ 
+Playbills 
+Drama  
+ 
+ 
+ 
+Poetry 
+Fiction  
+ 
+ 
+ 
+Treaties 
+Literature 
+ 
+Do not submit proposals to establish this subdivision under any other headings. 

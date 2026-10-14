@@ -1,0 +1,193 @@
+
+
+<<<PAGE 1>>>
+ 
+Correspondence of Individual Persons  H 1480 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1480 Page 1 
+ 
+June 2013 
+BACKGROUND:  This instruction sheet applies only to the personal correspondence of 
+individuals.  Official correspondence or correspondence involving corporate entities, including 
+heads of state acting in their official capacity, is not covered. 
+ 
+ 
+ 
+ 
+ 
+1.  Complex of headings.  Assign the following combination of headings to collections of 
+personal correspondence: 
+ 
+ 
+600 X0 $a [name of the letter writer(s)] $v Correspondence. 
+600 X0 $a [name of the addressee(s)] $v Correspondence. 
+650 #0 $a [class of persons, or ethnic group] $v Correspondence. 
+650 #0 $a [special topics discussed in the letters] 
+ 
+ 
+ 
+ 
+2.  Individual writers.  Assign as subject headings the name or names of the individual writers 
+of the letters, up to a maximum of three.  If there are more than three writers, do not designate 
+any individual writer.  Subdivide the name(s) by the free-floating form subdivision 
+BCorrespondence. 
+ 
+Interpret this general rule somewhat loosely.  If the letters of many writers are contained in the 
+work, but the focus is on only one or two, bring out these persons, if it would be useful to do so. 
+ 
+ 
+ 
+ 
+3.  Individual addressees.  Assign as subject headings the name or names of the individuals 
+who received the correspondence, provided that there are no more than one or two names.  If 
+there are more than two recipients, do not assign headings of this type.  Subdivide the name(s) 
+by the free-floating form subdivision BCorrespondence. 
+
+
+<<<PAGE 2>>>
+H 1480  Correspondence of Individual Persons 
+ 
+ 
+ 
+H 1480 Page 2 
+Subject Headings Manual 
+June 2013 
+4.  [class of persons, or ethnic group]BCorrespondence.  Assign headings of the type [class of 
+persons, or ethnic group]BCorrespondence if the writer(s) (not addressees) of the collection of 
+letters can be identified with a particular subject area or discipline or a particular ethnic group.  
+Examples: 
+ 
+ 
+ 
+651 #0 $a Austria $x Kings and rulers $v Correspondence. 
+650 #0 $a Scientists $v Correspondence. 
+650 #0 $a Mexican American artists $z California  
+          $v Correspondence. 
+  
+ 
+650 #0 $a Poets, English $y 20th century $v Correspondence. 
+610 20 $a Catholic Church $z United States $x Clergy  
+          $v Correspondence. 
+650 #0 $a African Americans $v Correspondence. 
+ 
+ 
+ 
+Note:  The subdivision BCorrespondence should be used under headings for classes of 
+persons or ethnic groups for works that consist of letters, regardless of whether or not 
+the letters contain biographical information.  Assign headings with this subdivision 
+regardless of the number of writers whose letters are represented in the work.  However, 
+if only a single letter writer is represented, do not assign both a class of persons heading 
+and an ethnic group heading.  In such cases prefer the class of persons heading. 
+ 
+ 
+ 
+ 
+ 
+5.  Special topics.  If the work of correspondence contains information about topics not covered 
+by headings of the type [class of persons]BCorrespondence, or [ethnic group]B 
+Correspondence, assign additional headings for the topics, including headings of the type 
+[place]BBiography (cf. H 1330, sec. 1.c.) or [individual war or event]BPersonal narratives (cf. 
+H 1928), if appropriate. 
+ 
+ 
+Since the correspondence of any individual person may or may not be regarded as historical 
+source material, depending on the viewpoint of the reader, do not add the subdivision BSources 
+or BHistoryBSources to the additional headings assigned for special topics. 
+
+
+<<<PAGE 3>>>
+ 
+Correspondence of Individual Persons  H 1480 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1480 Page 3 
+ 
+June 2013 
+6.  Letters as a literary genre.  Headings of the type English letters; French letters, etc., are 
+literary genre headings.  Assign such headings only to collections of personal letters by more 
+than one writer that are classed as literary works.  Assign no personal name headings. 
+ 
+If the collection is not limited to an individual body of literature, assign the heading Letters. 
+ 
+ 
+7.  Examples. 
+ 
+ 
+Note:  The subject headings provided in the following hypothetical examples are listed 
+in the order described above, and are not necessarily significant for purposes of 
+classification. 
+ 
+ 
+Title:  Letters from John Smith, metallurgist, to his student, John Doe, 
+concerning his research into zinc alloys.   
+600 10 $a Smith, John $v Correspondence. 
+600 10 $a Doe, John $v Correspondence. 
+650 #0 $a Metallurgists $z Maryland $v Correspondence.   
+ 
+ 
+ 
+650 #0 $a Zinc alloys. 
+ 
+ 
+ 
+Title:  A treasury of great Latin letters. 
+650 #0 $a Latin letters. 
+ 
+ 
+ 
+Title:  A collection of letters received from District of Columbia Blacks 
+participating in the Vietnamese War.   
+650 #0 $a African Americans $z Washington (D.C.)  
+            $v Correspondence.   
+650 #0 $a African Americans $z Vietnam $v Correspondence.   
+650 #0 $a Vietnam War, 1961-1975 $x African Americans. 
+   
+ 
+ 
+650 #0 $a Vietnam War, 1961-1975 $v Personal narratives, 
+            American.   
+651 #0 $a Washington (D.C.) $v Biography. 
+
+
+<<<PAGE 4>>>
+H 1480  Correspondence of Individual Persons 
+ 
+ 
+ 
+H 1480 Page 4 
+Subject Headings Manual 
+June 2013 
+7.  Examples.  (Continued) 
+ 
+ 
+Title:  The exchange of correspondence between Irish American author, Mary 
+O'Brien and her publisher, Sam Brown, during her stay in France 
+in 1925-30. 
+600 10 $a O'Brien, Mary $v Correspondence. 
+600 10 $a Brown, Sam $v Correspondence. 
+650 #0 $a Authors, American $y 20th century  
+          $v Correspondence.   
+650 #0 $a Publishers and publishing $z New York (State) 
+          $v Correspondence. 
+  
+ 
+ 
+651 #0 $a France $x Description and travel. 
+651 #0 $a France $x Civilization $y 1901-1945. 
+ 
+ 
+ 
+Title:  A glimpse of Colonial village life as described in the letters of Mary 
+Jones of Jonesville, Mass., to her friend Cathy.   
+[Note:  It is assumed that Mary Jones is identified with no occupation or 
+activity and her correspondent has not been identified] 
+600 10 $a Jones, Mary $v Correspondence.   
+651 #0 $a Jonesville (Mass.) $v Biography.   
+651 #0 $a Massachusetts $x Social life and customs $y To 
+          1775. 
+ 

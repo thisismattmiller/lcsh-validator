@@ -1,0 +1,169 @@
+
+
+<<<PAGE 1>>>
+ 
+Visual Materials and Non-Music Sound Recordings  H 2230 
+ 
+Subject Headings Manual 
+H 2230 Page 1 
+ 
+September 2013 
+e assignment of 
+strips, video recordings, and other types of visual 
+materials, as well as to non-music sound recordings.  These guidelines are followed in addition 
+to t
+ 
+Note:  As used in this instruction sheet, the word film is understood to refer to 
+ 
+ in the summary 
+t, assign subject 
+headings for both the specific and the general topics.   
+form subdivisions only to the extent that such subdivisions are applicable both to print 
+and audiovisual media.  Do not use the form subdivision BPictorial works for visual materials. 
+  
+ 
+Examples
+ 
+ 
+luding the 
+coffee. 
+nd travel. 
+ 
+ 
+ 
+pecial emphasis 
+650 #0 $a Steel industry and trade $z India. 
+ 
+ 
+ 
+520 ## $a Documents the intellectual expansion in medieval  
+            Germany, as illustrated by the Nuremberg chronicle. 
+600 10 $a Schedel, Hartmann, $d 1440-1514. $t Liber  
+            chronicarum. 
+651 #0 $a Germany $x Intellectual life. 
+ 
+ 
+BACKGROUND:  This instruction sheet provides special guidelines for th
+subject headings to motion pictures, slides, film
+he normal rules for the assignment of subject headings. 
+any type of visual material. 
+ 
+1.  General rules.  Assign subject headings for all important topics mentioned
+statement (520 field).   
+ 
+If a specific topic is emphasized in order to illustrate a more general concep
+ 
+Assign 
+: 
+520 ## $a Describes the 
+ 
+highlights of Colombia, inc
+            production of
+651 #0 $a Colombia $x Description a
+650 #0 $a Coffee $z Colombia. 
+520 ## $a Surveys the industries of India
+ steel industry. 
+, with s
+            on the
+650 #0 $a Industries $z India. 
+
+
+<<<PAGE 2>>>
+H 2230  Visual Materials and Non-Music Sound Recordings 
+ 
+H 2230 Page 2 
+Subject Headings Manual 
+September 2013 
+ake, 
+insofar as possible, a subject entry under both the topic and the place.  Examples: 
+ 
+ 
+ 
+            drug abuse treatment program in New York City. 
+ 
+3.  Partic
+ of a profession or 
+activity, a
+ Do not, as a general 
+rule, treat
+ographies.  Example: 
+ 
+day in the life of prizefighter Muhammad Ali as he 
+ains for a championship bout. 
+ 
+ 
+4.  Special types of visual materials. 
+ 
+ (or, in the case 
+enile fiction films, the subdivision BJuvenile films).  Assign headings of this type 
+uch headings are assigned to individual dramas in book form (cf. 
+ 
+b. Foreign language teaching films.  Assign the heading [...] languageBFilms for [...] 
+ny special topics by assigning additional 
+ 
+c.  Juvenile films.  See H 1690. 
+ 
+d. Films for the hearing impaired and for people with disabilities. See H 1913, sec. 1.e. 
+ 
+ 
+5.  Moving image genre/form headings.  See H 1913. 
+ 
+ 
+2.  Particular places.  When a topic is discussed in conjunction with a particular place, m
+520 ## $a Describes the oases of the Sahara. 
+650 #0 $a Oases $z Sahara. 
+651 #0 $a Sahara $x Description and travel. 
+520 ## $a Interviews with medical personnel and participants in a 
+650 #0 $a Drug abuse $z New York (State) $z New York.
+651 #0 $a New York (N.Y.) $x Social conditions. 
+ 
+ 
+ular persons.  When a particular person is treated as illustrative
+ssign a heading for both the person and the field of endeavor. 
+ such materials as bi
+520 ## $a A 
+            tr
+600 10 $a Ali, Muhammad, $d 1942- 
+650 #0 $a Boxing. 
+a.  Fiction films.  Assign topical headings with the subdivision BDrama
+of juv
+to the same extent that s
+H 1780, sec. 4). 
+speakers as the first heading, and bring out a
+headings. 
+
+
+<<<PAGE 3>>>
+ 
+Visual Materials and Non-Music Sound Recordings  H 2230 
+ 
+Subject Headings Manual 
+H 2230 Page 3 
+ 
+September 2013 
+io program genre/form terms. See H 1969.5. 
+LC practice: 
+7.  
+ 
+and the sound recording or visual presentation are the same, the subject cataloging should 
+match, even if it is necessary to assign new, more appropriate headings to the printed 
+ 
+ 
+rk is sometimes issued in more than 
+one format, for example, as a motion picture and as a video recording, or as a cassette 
+ats with records in 
+ct the subject headings that were 
+assigned when the work was originally cataloged in another format. 
+ 
+ 
+7.  043 fields.  Assign geographic area codes in the 043 field as appropriate. 
+ 
+ 
+6.  Rad
+ 
+Treatment of "editions". 
+a.  Audio or visual presentions of published works.  If the contents of the printed edition 
+edition(s). 
+b.  Identical works in different formats.  A single wo
+and as a compact disc.  The subject headings for the work in all form
+MARC should match, even if it is necessary to corre

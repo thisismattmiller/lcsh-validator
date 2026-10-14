@@ -1,0 +1,101 @@
+
+
+<<<PAGE 1>>>
+ 
+Finance  H 1624 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1624 Page 1 
+ 
+June 2013 
+BACKGROUND:  This instruction sheet provides guidelines for using the free-floating 
+subdivisions BFinance, BAppropriations and expenditures, and related subdivisions. 
+ 
+ 
+ 
+1.  BFinance.  Use the free-floating subdivision BFinance under names of individual 
+nongovernmental corporate bodies, including individual Christian denominations, and under 
+types of industries, services, technical operations, etc., for works on the financial management or 
+condition of these organizations or activities. 
+ 
+Use BFinance under government bodies only for works on their management of nonappropriated 
+funds. 
+ 
+Use BFinance under headings for individual wars and subdivide further by place if the war is 
+established directly under its own name, for example, World War, 1939-1945BFinanceB 
+France. 
+ 
+Use BFinance under ethnic groups for the financial affairs of the group as an organized group, 
+for example, Indians of North AmericaBFinance. 
+ 
+ 
+ 
+2.  BAppropriations and expenditures.  Use the free-floating subdivision BAppropriations and 
+expenditures under names of countries, cities, etc., and under individual government bodies for 
+works on the authorization of money to be paid from the government treasury and used by the 
+government or its agencies for specified purposes.  Example: 
+ 
+Title:  Government spending in Scotland. 
+651 #0 $a Scotland $x Appropriations and expenditures. 
+650 #0 $a Government spending policy $z Scotland. 
+ 
+For works that discuss the appropriations of one, two, or three specific government agencies, 
+assign the heading(s) for the individual agency or agencies with the subdivision 
+BAppropriations and expenditures rather than the broader heading [place]BAppropriations 
+and expenditures. 
+ 
+For works on individual United States appropriations bills of a general nature, qualify the 
+heading United StatesBAppropriations and expenditures by the date for the fiscal year for 
+which the appropriations are made, for example, United StatesBAppropriations and 
+expenditures, 1944. 
+
+
+<<<PAGE 2>>>
+H 1624  Finance 
+ 
+ 
+ 
+H 1624 Page 2 
+Subject Headings Manual 
+June 2013 
+3.  BAccounting.  Use the free-floating subdivision BAccounting under names of individual 
+corporate bodies and topical headings for works on the methods employed in classifying, 
+recording, and summarizing the business and financial transactions of the corporate body or 
+activity. 
+ 
+For works containing the accounts or financial statements of an organization or type of industry, 
+service, etc., use the subdivision BFinance. 
+ 
+ 
+ 
+4.  BAuditing.  Use the free-floating subdivision BAuditing under individual corporate bodies 
+and topical headings for works on the examination of records, activities or processes for the 
+purpose of determining conformity with prescribed criteria or to provide a basis for independent 
+evaluation.  Example: 
+ 
+ 
+Title:  Single Audit Act of 1984. 
+650 #0 $a Finance, Public $x Auditing $x Law and legislation 
+            $z United States. 
+650 #0 $a Grants-in-aid $x Auditing $x Law and legislation 
+            $z United States. 
+ 
+ 
+ 
+5.  BFinance, Personal.  Use the free-floating subdivision BFinance, Personal under names of 
+individual persons and under classes of persons and ethnic groups for works on the management 
+or condition of the personal financial affairs of the individual or members of the group.  
+Examples: 
+ 
+ 
+Title:  George Washington and his money. 
+600 10 $a Washington, George, $d 1732-1799 $x Finance,  
+            Personal. 
+650 #0 $a Finance, Personal $z United States. 
+ 
+ 
+Title:  The smart woman's guide to spending, saving and managing money. 
+650 #0 $a Women $x Finance, Personal. 
+ 

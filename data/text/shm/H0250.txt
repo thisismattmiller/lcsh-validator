@@ -1,0 +1,438 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Music Heading Authority Records H 250 | Page 1 
+ 
+Music Heading Authority Records 
+H 250 
+A. Background ................................................................................................................................. 2 
+B. Recent revisions .......................................................................................................................... 2 
+C. Creating authority records for music .......................................................................................... 2 
+C.1. General rule .......................................................................................................................... 2 
+C.1.a. Headings consisting of single word or term .................................................................. 2 
+C.1.b. Headings consisting of combinations of terms ............................................................. 4 
+C.2. Special rules for certain categories of headings .................................................................. 5 
+C.2.a. Headings that may be qualified by language ................................................................ 5 
+C.2.b. Addition of the qualifier ", Arranged" ........................................................................... 6 
+C.2.c. Dances ............................................................................................................................ 6 
+C.3. Recorded accompaniments ................................................................................................. 7 
+C.4. Cross references for headings that specify medium of performance ................................. 7 
+D. Pattern headings......................................................................................................................... 7 
+D.1. Pattern: Medium of performance ....................................................................................... 8 
+D.1.a. Headings that contain a word for the number of performers ...................................... 8 
+D.1.b. Headings for form, genre, type, etc., of music ............................................................. 8 
+D.1.c. Certain headings for vocal music .................................................................................. 9 
+D.1.d. Headings for accompanying ensemble ......................................................................... 9 
+D.2. Pattern: Musical format ..................................................................................................... 10 
+D.3. Pattern: Singuar/plural form ............................................................................................. 11 
+D.4. Pattern: Qualifier to distinguish homographs ................................................................... 11 
+D.5. Pattern: Free-floating subdivisions used under instruments ............................................ 12 
+E. Geographic subdivision ............................................................................................................. 12 
+Revision history ............................................................................................................................. 12 
+ 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Music Heading Authority Records H 250 | Page 2 
+ 
+A. Background 
+This instruction sheet provides guidelines for establishing headings for musical compositions. 
+For guidelines on establishing headings for musical instruments, see H 1918. 
+B. Recent revisions 
+2025-06: Updated to new template. 
+C. Creating authority records for music 
+C.1. General rule 
+Authority records are required for headings of the types described below. In general, do not 
+add a broader term if the heading contains or implies a medium of performance, or a number 
+of players, or is a term for a generic form of instrumental music such as *Canons, fugues, etc.*; 
+*Sonatas*; *Toccatas*; etc. Some additional guidelines concerning references appear in the 
+relevant sections below. 
+C.1.a. Headings consisting of single word or term 
+C.1.a.i. Music for a single instrument or a single performer 
+Examples: 
+150 ## $a Drum set music 
+150 ## $a Plucked instrument music 
+150 ## $a Violin music 
+C.1.a.ii. Music for ensembles of instruments or singers 
+In general, establish terms that do not include the word music in the plural. 
+Examples: 
+150 ## $a Band music 
+150 ## $a Choruses, Sacred 
+150 ## $a Clarinet choir music 
+150 ## $a Instrumental ensembles 
+150 ## $a Nonets 
+150 ## $a Orchestral music 
+150 ## $a String quartets 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Music Heading Authority Records H 250 | Page 3 
+ 
+150 ## $a Vocal trios 
+C.1.a.iii. Styles, types, genres, etc., of music 
+Establish terms that do not include the word music in the plural unless a plural is not idiomatic. 
+Examples: 
+150 ## $a Blues (Music) 
+150 ## $a Carnatic music 
+150 ## $a Honkyoku 
+150 ## $a Foxtrots 
+150 ## $a Jazz 
+150 ## $a Oratorios 
+If appropriate in records for styles of music, include a see also reference to other headings that 
+may contain a qualifier for the style, and a scope note to indicate the number of performers, if 
+more than two. 
+Examples: 
+150 ## $a Alternative rock music 
+360 ## $i headings for music of individual instruments followed by the 
+qualifier "(Alternative rock)" and the subdivisions $a Methods 
+(Alternative rock) $i and $a Studies and exercises (Alternative rock) 
+$i under individual musical instruments and families of instruments 
+680 ## $i This heading is assigned to alternative rock music for two or more 
+performers 
+ 
+150 ## $a Gospel music 
+360 ## $i subdivisions $a Methods (Gospel) $i and $a Studies and exercises 
+(Gospel) $i under individual musical instruments and families of 
+instruments 
+Do not add such references and notes when the style of music is not needed as a qualifier 
+either in a heading for music for a solo instrument or in a free-floating subdivision for an 
+instructional work. 
+C.1.a.iv. Musical settings of certain sacred texts 
+Examples: 
+150 ## $a Psalms (Music) 
+150 ## $a Te Deum laudamus (Music) 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Music Heading Authority Records H 250 | Page 4 
+ 
+C.1.b. Headings consisting of combinations of terms  
+Headings that consist of combinations of terms must be separately established, unless the 
+headings are governed by the patterns described in sec. D. 
+C.1.b.i. Music of a single instrument qualified by style of music or playing 
+Examples: 
+150 ## $a Trumpet music (Jazz) 
+150 ## $a Piano music (Ragtime) 
+150 ## $a Bass guitar music (Rock) 
+The term in the qualifier must also be established as a heading for music in that style. 
+Examples: 
+150 ## $a Jazz 
+150 ## $a Ragtime music 
+150 ## $a Rock music 
+Include in the record for the music style of the instrument a broader term for the style. 
+Examples: 
+150 ## $a Trumpet music (Jazz) 
+550 ## $w g $a Jazz 
+ 
+150 ## $a Piano music (Ragtime) 
+550 ## $w g $a Ragtime music 
+ 
+150 ## $a Bass guitar music (Rock) 
+550 ## $w g $a Rock music 
+C.1.b.ii. Music for combinations of two instruments 
+Provide references from the instruments in reverse order or from other appropriate phrases. 
+Examples: 
+150 ## $a Duets (Unspecified instrument and cittern) 
+450 ## $a Duets (Cittern and unspecified instrument) 
+ 
+150 ## $a Piano music (Pianos (2)) 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Music Heading Authority Records H 250 | Page 5 
+ 
+450 ## $a Piano duets 
+ 
+150 ## $a Violin and piano music 
+450 ## $a Piano and violin music 
+C.1.b.iii. Headings with qualifiers for language of text 
+Establish the heading in inverted form (cf. H 306, sec. 2). Provide a reference from the direct 
+form. The language, language group, or dialect must also be established. 
+Examples: 
+150 ## $a Buddhist hymns, Japanese 
+450 ## $a Japanese Buddhist hymns 
+ 
+150 ## $a Folk songs, Norwegian 
+450 ## $a Norwegian folk songs 
+ 
+150 ## $a Children’s songs, Papiamentu 
+450 ## $a Papiamentu children’s songs 
+C.2. Special rules for certain categories of headings 
+C.2.a. Headings that may be qualified by language 
+The following headings may be qualified by language of text. 
+Examples: 
+150 ## $a Ballads 
+150 ## $a Buddhist hymns 
+150 ## $a Bhajans 
+150 ## $a Canzonets (Part songs) 
+150 ## $a Carols 
+150 ## $a Children’s songs 
+150 ## $a Folk songs 
+150 ## $a Hindu hymns 
+150 ## $a Hymns 
+150 ## $a Jaina hymns 
+150 ## $a Part songs 
+150 ## $a Revolutionary ballads and songs 
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | Music Heading Authority Records H 250 | Page 6 
+ 
+150 ## $a Sikh hymns 
+150 ## $a Songs 
+Do not add the language to the headings *Sacred songs* or *Part songs, Sacred*. Instead, 
+generally assign a second heading with the language and without the term sacred. 
+Examples: 
+650 #0 $a Sacred songs. 
+650 #0 $a Songs, Provençal. 
+ 
+650 #0 $a Part songs, Italian. 
+650 #0 $a Part songs, Sacred. 
+C.2.b. Addition of the qualifier ", Arranged" 
+Authority records are required when adding “, Arranged” to headings for vocal forms and 
+instrumental forms that do not imply medium of performance (cf. H 1917.5, sec 7). 
+Examples: 
+150 ## $a Incidental music, Arranged 
+150 ## $a Motion picture music, Arranged 
+150 ## $a Oratorios, Arranged 
+C.2.c. Dances 
+C.2.c.i. The qualifier “(Music)” 
+Establish new headings representing types of dance music with the qualifier (Music) even if 
+there is no corresponding heading for the dance. Establish new dance headings with the 
+qualifier (Dance) even if there is no corresponding heading for the music for that dance. Do not 
+retrospectively add a qualifier to the music heading when a corresponding new dance heading 
+is established. 
+C.2.c.ii. Medium of performance 
+Headings for the music of individual dances are not qualified by medium of performance. If 
+appropriate when cataloging dance music, add a second heading for medium of performance. 
+Examples: 
+650 #0 $a Hulas (Music) 
+650 #0 $a Guitar music (Slack key) 
+
+
+<<<PAGE 7>>>
+Subject Headings Manual | Music Heading Authority Records H 250 | Page 7 
+ 
+ 
+650 #0 $a Waltzes. 
+650 #0 $a Orchestral music. 
+C.3. Recorded accompaniments 
+Recorded accompaniments are sound recordings with performance parts omitted so they can 
+be performed by live musicians. Parenthetical qualifiers added to the heading *Recorded 
+accompaniments* specify the medium of performance of the missing part(s), and not the 
+medium of performance on the recording. Authority records are required for the headings with 
+their qualifier. Make a related term reference to a general heading for unaccompanied music 
+for the live performer and include a scope note explaining the unusual meaning of the heading. 
+Examples: 
+150 ## $a Recorded accompaniments (Flute) 
+550 ## $a Flute music 
+680 ## $a Here are entered musical sound recordings to be played while a 
+live performer plays the flute part. 
+ 
+150 ## $a Recorded accompaniments (High voice) 
+550 ## $a Songs (High voice) 
+680 ## $a Here are entered musical sound recordings to be played while a 
+live performer sings the voice part. 
+C.4. Cross references for headings that specify medium of performance 
+With the exception of music for combinations of two instruments described in sec. C.1.b.ii 
+above, no cross references or broader terms are given in authority records for headings 
+containing combinations of terms for medium of performance by solo performers (cf. sec. D.1 
+below and H 1917.5). 
+Example: 
+150 ## $a Concertos (Oboe and harp) 
+150 ## $a Piano, flute, violin with instrumental ensemble 
+150 ## $a Woodwind quartets (Bassoon, clarinet, English horn, oboe) 
+D. Pattern headings 
+No authority records are required for headings that conform to the patterns described below. 
+
+
+<<<PAGE 8>>>
+Subject Headings Manual | Music Heading Authority Records H 250 | Page 8 
+ 
+D.1. Pattern: Medium of performance 
+Medium of performance is the vocal, instrumental, or other performers for which individual 
+musical works are written. Listed below are the four categories of headings to which terms for 
+medium of performance can be added as needed. H 1917.5 describes the categories and their 
+components in detail, and also includes instructions on creating authority records for general 
+see also references.  
+Note: The subject authority file contains a large number of headings for forms, types, and 
+genres of music that consist of or include medium of performance. With the exceptions 
+indicated in sec. C.1 above, in general, these types of headings are no longer established 
+because:  
+1. the patterns for the order of musical instruments in headings have existed for some 
+time;  
+2. cross references giving the terms for medium of performance in alternative order are 
+no longer made; and  
+3. the headings already in the subject authority file amply illustrate the patterns.  
+Authority records are now created only to provide examples of the use of particular mediums 
+of performance, such as those that are new. 
+D.1.a. Headings that contain a word for the number of performers 
+Examples: 
+150 ## $a Trios, [Quartets, Quintets, etc.] 
+150 ## $a Brass trios, [quartets, quintets, etc.] 
+150 ## $a String trios, [quartets, quintets, etc.] 
+150 ## $a Wind trios, [quartets, quintets, etc.] 
+150 ## $a Woodwind trios, [quartets, quintets, etc.] 
+150 ## $a Sacred vocal duets, [trios, quartets, etc.] 
+150 ## $a Vocal duets, [trios, quartets, etc.] 
+D.1.b. Headings for form, genre, type, etc., of music 
+Examples: 
+150 ## $a Canons, fugues, etc. 
+150 ## $a Chaconnes 
+150 ## $a Chorale preludes 
+
+
+<<<PAGE 9>>>
+Subject Headings Manual | Music Heading Authority Records H 250 | Page 9 
+ 
+150 ## $a Concertos 
+150 ## $a Marches 
+150 ## $a Monologues with music 
+150 ## $a Overtures 
+150 ## $a Passacaglias 
+150 ## $a Potpourris 
+150 ## $a Rondos 
+150 ## $a Sacred monologues with music 
+150 ## $a Scherzos 
+150 ## $a Sonatas 
+150 ## $a Suites 
+150 ## $a Symphonic poems 
+150 ## $a Symphonies 
+150 ## $a Trio sonatas 
+150 ## $a Variations 
+D.1.c. Certain headings for vocal music 
+Examples: 
+150 ## $a Choruses 
+150 ## $a Choruses, Sacred 
+150 ## $a Choruses, Secular 
+150 ## $a Sacred songs 
+150 ## $a Songs 
+150 ## $a Vocalises 
+D.1.d. Headings for accompanying ensemble 
+An accompanying ensemble may be added to headings for solo instrument(s) and solo vocal 
+music, as long as the ensemble has itself been established. The pattern applies to the 
+connecting word “with” and the terms for the accompaniment that follow it. 
+Examples: 
+150 ## $a Piano music 
+150 ## $a Chamber orchestra music 
+650 #0 $a Piano with chamber orchestra. 
+ 
+150 ## $a Violin and piano music 
+
+
+<<<PAGE 10>>>
+Subject Headings Manual | Music Heading Authority Records H 250 | Page 10 
+ 
+150 ## $a String orchestra music 
+These headings authorize: 
+650 #0 $a Violin and piano with string orchestra. 
+ 
+150 ## $a Chamber orchestra music 
+150 ## $a Clarinet music 
+150 ## $a Flute music 
+150 ## $a Violin music 
+150 ## $a Cello music 
+These headings authorize: 
+650 #0 $a Clarinet, flute, violin, cello with chamber orchestra. 
+ 
+150 ## $a Songs 
+150 ## $a Piano music 
+These headings authorize: 
+650 #0 $a Songs (High voice) with piano. 
+ 
+150 ## $a String quartet 
+150 ## $a Instrumental ensemble 
+These headings authorize: 
+650 #0 $a String quartet with instrumental ensemble. 
+D.2. Pattern: Musical format 
+This pattern applies to the free-floating form subdivisions that characterize the physical format 
+and some standard types of arrangement of the music. The subdivisions are listed in H 1160. 
+Examples: 
+650 #0 $a Concertos (Violin) $v Solo with piano. 
+650 #0 $a Operas $v Vocal scores with piano. 
+650 #0 $a Piano music (Pianos (2)) $v Scores. 
+650 #0 $a Symphonies $v 2-piano scores. 
+650 #0 $a Wind quintets (Bassoon, clarinet, flute, horn, oboe) $v Scores and 
+parts. 
+
+
+<<<PAGE 11>>>
+Subject Headings Manual | Music Heading Authority Records H 250 | Page 11 
+ 
+D.3. Pattern: Singuar/plural form 
+Names of musical instruments established in the singular may be used also in the plural as may 
+be needed to specify medium of performance in form/genre headings for musical works. 
+Conversely, types of instrumental ensembles established in the plural may also be used in the 
+singular. For additional guidelines, see H 1917.5 and H 1918. 
+Examples: 
+150 ## $a Bassoon music 
+150 ## $a Clarinet music 
+150 ## $a Horn music 
+150 ## $a Oboe music 
+These headings authorize "bassoons," "clarinets," "horns," "oboes," as used in:  
+650 #0 $a Wind nonets (Bassoons (3), clarinets (2), horns (2), oboes (2)) 
+ 
+150 ## $a Instrumental ensembles 
+This heading authorizes "instrumental ensemble," as used in:  
+650 #0 $a Trumpet with instrumental ensemble. 
+D.4. Pattern: Qualifier to distinguish homographs 
+If the name of a musical instrument must be established with a qualifier to show the term 
+belongs to music and not some other field, omit the qualifier when the instrument appears as a 
+medium of performance in form/genre headings for musical compositions. 
+Examples: 
+Heading established for the instrument: 
+150 ## $a Horn (Musical instrument) 
+Instrument as a medium of performance: 
+150 ## $a Horn and organ music 
+650 #0 $a Sonatas (Horn and organ) 
+If the name of an instrument has been established with a qualifier to distinguish it from another 
+instrument with the same name, retain the qualifier when the instrument is used as a medium 
+of performance in form/genre headings for musical compositions. 
+Examples: 
+150 ## $a Tar (Lute)  
+
+
+<<<PAGE 12>>>
+Subject Headings Manual | Music Heading Authority Records H 250 | Page 12 
+ 
+["Tar" is also the term for several types of drum] 
+150 ## $a Tar (Lute) and zarb music 
+However, when the same term is used for two or more instruments and one usage is clearly 
+better known, that heading does not need a qualifier. 
+Examples: 
+Headings established for the instruments: 
+150 ## $a Guiro   
+ 
+[predominantly a scraper] 
+ 
+150 ## $a Atcheré 
+450 ## $a Guiro (Rattle)  
+[alternate name for the atcheré, a rattle] 
+ 
+Instrument as a medium of performance: 
+150 ## $a Flute and guiro music 
+D.5. Pattern: Free-floating subdivisions used under instruments 
+Instruction sheet H 1161 lists the free-floating subdivisions that may be used under headings 
+for individual musical instruments and families of instruments. For subdivisions that include a 
+qualifier for type or style of music, the instrument must be established and the term in the 
+qualifier for type or style of music must be established as a heading and in the subdivision list. 
+Examples: 
+150 ## $a Electric guitar 
+150 ## $a Alternative rock music 
+185 ## $v Methods (Alternative rock) 
+These headings authorize: 
+650 #0 $a Electric guitar $v Methods (Alternative rock) 
+E. Geographic subdivision 
+Headings covered by this instruction sheet may be subdivided geographically. If the current 
+authority record is not coded i in the 008/06 position, email PTCP to request its change. See H 
+1160, sec. 3; H 1916.5 sec. 3; and H 1917 sec. 2.c. for guidance on when to assign geographic 
+subdivisions to headings for musical works. 
+Revision history 
+2025-06: Updated to new template. 
+
+
+<<<PAGE 13>>>
+Subject Headings Manual | Music Heading Authority Records H 250 | Page 13 
+ 
+2024-08: Updated to new template. Corrected typo. Removed LC practice section, which is no 
+longer accurate. 

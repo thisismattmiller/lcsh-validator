@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LCSH Heading Validator</title>
+<meta name="description" content="Checks whether a Library of Congress Subject Heading string is validly constructed under the Subject Headings Manual, with the model's reasoning and rule citations.">
+<link rel="stylesheet" href="style.css?v=5">
+<script src="config.js?v=2"></script>
+</head>
+<body>
+<header>
+  <h1>LCSH Heading Validator</h1>
+  <p class="tagline">Is this subject heading string constructed correctly under the <em>Subject Headings Manual</em>? Deterministic lookups in the LCSH/LCNAF authority files plus a model's pass over the SHM rules, with every tool call and citation shown.</p>
+</header>
+
+<main>
+  <section class="card" id="heading-section">
+    <h2>Validate a heading</h2>
+    <form id="heading-form" autocomplete="off">
+      <textarea id="heading-input" rows="4" placeholder="One heading per line, e.g.&#10;Taxation--France--Paris&#10;650 _0 $a Tacos $x History&#10;Music--Canada--Toronto" spellcheck="false" required></textarea>
+      <div class="row">
+        <span class="hint">One heading per line; MARC fields are fine. Cmd/Ctrl+Enter validates.</span>
+        <select id="effort" title="Model reasoning effort">
+          <option value="low">low effort</option>
+          <option value="medium" selected>medium effort</option>
+          <option value="high">high effort</option>
+        </select>
+        <button type="submit" id="validate-btn">Validate</button>
+      </div>
+      <div class="examples" id="examples">
+        <span>Try:</span>
+      </div>
+    </form>
+  </section>
+
+  <section class="card" id="lccn-section">
+    <h2>Or pull the subjects from a record by LCCN</h2>
+    <form id="lccn-form" autocomplete="off">
+      <div class="row">
+        <input id="lccn-input" type="text" placeholder="LCCN, e.g. 2022051926" spellcheck="false" required>
+        <button type="submit" id="lccn-btn">Load record</button>
+      </div>
+      <p class="hint">Resolved through <code>id.loc.gov/resources/instances/identifier/&lt;lccn&gt;</code> and the instance's BIBFRAME description; subjects from the Work are listed below.</p>
+    </form>
+    <div id="record"></div>
+  </section>
+
+  <section id="results"></section>
+</main>
+
+<footer>
+  <p class="hint">Verdicts are the model's reading of the SHM and the authority files as of the data build; they are an aid, not an authority. LC no longer assigns form subdivisions ($v) in current practice; the validator flags these as LC-practice notes rather than errors.</p>
+</footer>
+
+<template id="result-template">
+  <article class="result">
+    <header class="result-head">
+      <div class="verdict-badge"></div>
+      <div class="result-title">
+        <div class="heading-string"></div>
+        <div class="heading-type"></div>
+      </div>
+      <button type="button" class="close" title="Remove">&times;</button>
+    </header>
+    <div class="result-body">
+      <div class="status"></div>
+      <div class="normalized"></div>
+      <div class="explanation"></div>
+      <table class="elements"><thead><tr><th>Element</th><th>Role</th><th>Status</th><th>Basis</th></tr></thead><tbody></tbody></table>
+      <ul class="issues"></ul>
+      <ul class="lc-practice"></ul>
+      <ul class="alternatives"></ul>
+      <details class="reasoning"><summary>Reasoning: model turns and tool calls</summary><div class="transcript"></div></details>
+      <details class="facts"><summary>Deterministic facts sent to the model</summary><pre></pre></details>
+      <details class="raw"><summary>Raw JSON</summary><pre></pre></details>
+      <div class="stats"></div>
+      <div class="report">
+        <button type="button" class="secondary report-btn">This validation is wrong</button>
+        <span class="report-status hint"></span>
+        <form class="report-form" hidden>
+          <textarea class="report-comment" rows="3" placeholder="Optional: what is wrong with this verdict?"></textarea>
+          <div class="row">
+            <button type="submit">Add comment</button>
+            <span class="hint">The report was already sent with this heading, the verdict, the reasoning and your IP address; a comment updates it.</span>
+          </div>
+        </form>
+      </div>
+    </div>
+  </article>
+</template>
+
+<script src="app.js?v=7"></script>
+</body>
+</html>

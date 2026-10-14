@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+data/derived/lcsh.sqlite
+data/derived/rules.sqlite
+data/derived/name_cache.sqlite
+data/derived/eval_results.jsonl
+data/derived/h1095_parts/
+data/derived/h1110_parts/
+data/derived/mads_samples*.txt
+data/derived/build_db.log
+.env
+data/derived/marva/

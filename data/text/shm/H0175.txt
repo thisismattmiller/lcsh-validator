@@ -1,0 +1,40 @@
+
+
+<<<PAGE 1>>>
+ 
+Editions  H 175 
+ 
+ 
+ 
+Subject Headings Manual 
+H 175 Page 1 
+ 
+June 2013 
+BACKGROUND:  This instruction sheet provides Library of Congress catalogers with policy 
+guidelines for assigning subject headings to an edition or a translation of a work when another 
+edition of the same work has already been cataloged by the Library.  It replaces parts of D 450, 
+an instruction sheets that was formerly in the Subject Cataloging Manual: General Cataloging 
+Procedures. For information on classifying editions, see F 175.  For information on shelflisting 
+editions, see G 145 
+ 
+LC practice: 
+1.  General rule.  Assign the same subject heading or set of subject headings to all editions of a 
+single work that are present in the LC database and that have an imprint date of 1981 or later. 
+ 
+Exception:  If the content of a new edition of a work changes so significantly that its 
+scope and focus are entirely different from earlier editions, assign the headings 
+required to designate properly the contents of the edition being cataloged regardless of 
+the headings assigned to the other edition(s).  If the variation in content is slight, 
+however, assign the same heading(s) to all post-1980 editions. 
+ 
+LC practice: 
+2.  Changing subject headings on earlier editions.  When a decision is made to assign different 
+headings to a new edition from those assigned to the earlier edition(s) for reasons other than 
+those described as exceptions above, change the headings of all other editions of the work in the 
+LC Database that have an imprint date of 1981 or later, so that they match those assigned to the 
+new edition. 
+ 
+Follow the procedures described in H 165 for the correction of subject headings in existing 
+bibliographic records. 
+ 
+Do not change the headings on editions having an imprint date earlier than1981. 

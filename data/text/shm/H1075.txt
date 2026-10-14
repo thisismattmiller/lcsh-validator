@@ -1,0 +1,293 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Subdivisions H 1075 | Page 1 
+ 
+Subdivisions 
+H 1075 
+A. Background ................................................................................................................................. 1 
+B. Recent revisions .......................................................................................................................... 2 
+C. Types of subdivisions .................................................................................................................. 2 
+C.1. Topical subdivisions .............................................................................................................. 2 
+C.2. Geographic subdivisons ....................................................................................................... 2 
+C.3. Chronological subdivisions ................................................................................................... 2 
+C.4. Form subdivisions ................................................................................................................. 3 
+D. Order of subdivisions .................................................................................................................. 5 
+D.1. [Place]--[Topic] headings ..................................................................................................... 5 
+D.2. [Topic]--[Place] headings ..................................................................................................... 6 
+E. Order of subdivisions and meaning of subject headings strings ................................................ 7 
+Revision history ............................................................................................................................... 8 
+A. Background 
+Subdivisions are essential elements in the Library of Congress subject heading system. They are 
+extensively used to combine various aspects of a topic into one heading and to arrange entries 
+that share the same main heading in a file. This instruction sheet outlines the four types of 
+subdivisions and the two basic orders that are used to combine subdivisions in complete and 
+meaningful subject heading strings. For instructions on those subdivisions whose use is 
+authorized by general instructions in the Subject Cataloging Manual and in the subject 
+authority file, see H 1095, Free-Floating Subdivisions. 
+In early 2026, as the Library of Congress began integrating linked data practices into its 
+cataloging routines, the use of form subdivisions was phased out. Metadata descriptions 
+created in the Marva Quartz linked data editor no longer included subject strings with form 
+subdivisions. Library of Congress catalogers were instead instructed to use Library of Congress 
+Genre/Form Terms (LCGFT) to bring out the form of the resource being cataloged. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Subdivisions H 1075 | Page 2 
+ 
+This instruction sheet will continue to be maintained even though bibliographic records created 
+in the Marva Quartz linked data editor at the Library of Congress will cease including form 
+subdivisions in subject strings. For instructions on assigning LCGFT, see the LCGFT Manual. 
+B. Recent revisions 
+2026-01: Updated template. Added instructions related to LCGFT implementation. 
+C. Types of subdivisions 
+There are four types of subdivisions: topical, geographic, chronological, and form. 
+C.1. Topical subdivisions 
+Topical subdivisions are used under headings of all types to limit the concept expressed by the 
+heading to a subtopic. Many common topical subdivisions represent actions, attributes, or 
+aspects, for example, *Helicopters--Flight testing*; *Drinking water--Aluminum content*; 
+*Mental health--Nutritional aspects*. Topical subdivisions are used as a standard way of 
+expressing concepts, methods, or techniques that are common to several fields, or that may be 
+applied to numerous headings, for example, *--Psychological aspects*; *--Research*; *--
+Statistical methods*. Subdivisions are generally preferred over phrase headings for subtopics 
+or aspects that may repeatedly appear in association with a variety of topics or entities. In some 
+cases, particularly with headings for objects, subdivisions are used to designate parts of the 
+whole represented by the main heading, for example, *Ships--Radio antennas* or *Fishes--
+Nervous system*. When more than one topical subdivision is used with a main heading, each 
+subdivision refines the concept expressed by the heading and makes it more specific, for 
+example, *Construction industry--Management*; *Construction industry--Management--
+Employee participation*. Topical subdivisions appear in $x subfields in MARC 21. 
+C.2. Geographic subdivisions 
+Geographic subdivisions indicate the geographic area to which treatment of a topic is limited. 
+They may designate where something is located, or where something is from, depending upon 
+the topic. When a heading is authorized for geographic subdivision, it may be subdivided by 
+place. See H 364 for guidelines on coding authority records to authorize geographic subdivision 
+for headings. See H 830 for instructions on assigning authorized headings with geographic 
+subdivisions. Geographic subdivisions appear in $z subfields in MARC 21. 
+C.3. Chronological subdivisions 
+Chronological or period subdivisions indicate time periods covered in the contents of the work. 
+They are usually associated with a historical treatment of a topic and are established or used 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Subdivisions H 1075 | Page 3 
+ 
+under topics after the subdivision *--History*, for example, *Women--History--To 500*. With 
+topics and topical subdivisions that the Library of Congress treats as inherently historical (cf. H 
+1647, sec. 4), chronological subdivisions are established without interposing the subdivision *--
+History*, for example, *Russia--Social conditions--1801--1917*. Chronological subdivisions that 
+are established or used under artistic, literary, or music form/genre headings modify the main 
+heading and represent artistic, literary, or musical compositions or works created in that time 
+period, for example, *Engraving--18th century*; *French poetry--19th century*; *Sonatas 
+(Piano)--20th century*. Consult H 620 for further information on chronological subdivisions. 
+Chronological subdivisions appear in $y subfields in MARC 21. 
+C.4. Form subdivisions 
+LC practice: As of 2025, do not assign subject strings that include form subdivisions when 
+creating metadata descriptions in the linked data editor. Assign LCGFT to bring out the form of 
+the resource being cataloged. When it is necessary to replace a form subdivision that includes a 
+demographic group, also assign LC Demographic Group Terms (LCDGT) to bring out the 
+audience of the resource being cataloged, e.g., assign LCGFT *Fiction* and LCDGT *Children* 
+and do not use the form subdivision *--Juvenile fiction*. 
+Form subdivisions indicate what the item is rather than what it is about. The most frequently 
+used form subdivisions, such as *--Bibliography*, *--Juvenile literature*, and *--Periodicals*, 
+may be used with all types of main headings and other subdivisions. Most form subdivisions 
+may also be used as topical subdivisions for works about those specific forms. For example, the 
+heading *Medicine--Periodicals* is assigned to a general medical periodical; the heading 
+*Medicine--Periodicals--History*, where the $v subfield is now replaced by a $x subfield, is 
+assigned to a monograph on the history of medical periodicals. Generally, a form subdivision is 
+the final element in a heading, for example, *Nuclear reactors--Design and construction--
+Software*. Occasionally, two subdivisions are needed to indicate form, for example, 
+*Technology--Bibliography--Periodicals* (for a bibliography that is issued as a periodical). 
+Include a form subdivision in a subject heading string when the appropriate form subdivision 
+exists and it is Library of Congress practice to designate that form. As a general rule, include the 
+same form subdivision in all headings assigned to the work unless (1) the form subdivision is not 
+authorized for use under a particular type of heading (cf. H 1927 for periodicals), or (2) the form 
+represents only a part of the work and separate headings are being assigned for that portion of 
+the work. 
+Until 1999, form subdivisions were coded as $x subfields, the same subfield code used for 
+topical subdivisions. In February 1999, the Library of Congress began to apply the new subfield 
+code approved in MARC 21 to distinguish form subdivisions, the $v subfield, to newly cataloged 
+materials. After that date, code a form subdivision for the function that the subdivision 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Subdivisions H 1075 | Page 4 
+ 
+performs in the subject heading string. Code a form subdivision as a $v subfield when it 
+represents what the item being cataloged is. 
+Example: 
+Title: Investors guide to stock quotations 
+650 #0 $a Stock quotations $v Handbooks, manuals etc. 
+LC practice: 
+650 #0 $a Stock quotations. 
+655 #7 $a Handbooks and manuals. $2 lcgft 
+Example: 
+Title: Words you need to know to pass admissions & standardized tests. 
+650 #0 $a Vocabulary tests $v Study guides. 
+650 #0 $a Vocabulary $v Problems, exercises, etc. 
+LC practice: 
+650 #0 $a Vocabulary tests. 
+650 #0 $a Vocabulary. 
+655 #7 $a Study guides. $2 lcgft 
+655 #7 $a Problems and exercises. $2 lcgft 
+Code a form subdivision as an $x subfield when it represents a form that the item is about. This 
+often occurs when a subdivision that is normally a form subdivision is immediately followed by 
+another form subdivision, or by a topical subdivision. 
+Example: 
+Title: Metals handbook comprehensive index. 
+630 00 $a Metals handbook $v Indexes. 
+650 #0 $a Metals $x Handbooks, manuals, etc. $v Indexes. 
+LC practice: 
+630 00 $a Metals handbook. 
+650 #0 $a Metals $x Handbooks, manuals, etc. 
+655 #7 $a Indexes. $2 lcgft 
+[In the second heading in the above example, *--Handbooks, manuals, 
+etc.*, which is normally a form subdivision, is coded as an $x 
+subfield, because the work itself is not a handbook, but is an index to 
+handbooks.] 
+Example: 
+Title: A bibliography of test study materials. 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Subdivisions H 1075 | Page 5 
+ 
+650 #0 $a Examinations $x Study guides $v Bibliography. 
+LC practice: 
+650 #0 $a Examinations $x Study guides. 
+655 #7 $a Bibliographies. $2 lcgft 
+[In the above example, *--Study guides*, which is normally a form 
+subdivision, is coded as an $x subfield because the work itself is not 
+a study guide, but is a bibliography of study guides.] 
+D. Order of subdivisions 
+There are two basic orders for combining headings with subdivisions to form subject heading 
+strings: [place]--[topic] and [topic]--[place]. 
+D.1. [Place]--[Topic] headings 
+This order is generally used for aspects of a place, for example, its history, politics, economics, 
+civilization, intellectual life, or social history and conditions. The free-floating form and topical 
+subdivisions used under places are listed in H 1140 for regions, countries, etc., and H 1145.5 for 
+bodies of water. The order of a subject heading string of this type that includes all types of 
+subdivisions is usually: 
+Example: 
+651 00 $a [place] $x [topic] $y [chronological period] $v [form]. 
+LC practice: 
+651 00 $a [place] $x [topic] $y [chronological period]. 
+655 #7 $a [form]. $2 lcgft 
+Minor variations are possible when additional topical or place elements are present, or when 
+more than one form subdivision is required in a single heading. 
+Example: 
+651 #0 $a United States $x Social conditions $y 1980- $x Juvenile literature 
+$v Bibliography. 
+LC practice: 
+651 #0 $a United States $x Social conditions $y 1980- $x Juvenile 
+literature. 
+655 #7 $a Bibliographies. $2 lcgft 
+Example: 
+651 #0 $a Great Britain $x Kings and rulers $x Travel $z Canada $v Pictorial 
+works $v Juvenile literature. 
+LC practice: 
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | Subdivisions H 1075 | Page 6 
+ 
+651 #0 $a Great Britain $x Kings and rulers $x Travel $z Canada. 
+655 #7 $a Illustrated works. $2 lcgft 
+655 #7 $a Literature. $2 lcgft 
+385 ## $a Children. $2 lcdgt 
+D.2. [Topic]--[Place] headings 
+This order is used for topical headings that are authorized for geographic subdivision. The order 
+of a subject heading string of this type that includes all types of subdivisions is usually one of 
+the following depending on whether the topical subdivision is authorized for further subdivision 
+by place (cf. H 860). 
+Example: 
+651 00 $a [topic] $x [place] $x [topic] $y [chronological period] $v [form]. 
+LC practice: 
+651 00 $a [topic] $x [place] $x [topic] $y [chronological period]. 
+655 #7 $a [form]. $2 lcgft 
+or 
+651 00 $a [topic] $x [topic] $z [place] $y [chronological period] $v [form]. 
+LC practice: 
+651 00 $a [topic] $x [topic] $z [place] $y [chronological period]. 
+655 #7 $a [form]. $2 lcgft 
+Minor variations are possible when additional topical elements are present, or when more than 
+one form subdivision is required in a single heading. 
+Example: 
+650 #0 $a Railroads $z France $x Maintenance and repair $x History $y 19th 
+century $v Pictorial works $v Juvenile literature. 
+LC practice: 
+650 #0 $a Railroads $z France $x Maintenance and repair $x History $y 19th 
+century. 
+655 #7 $a Illustrated works. $2 lcgft 
+655 #7 $a Informational works. $2 lcgft 
+385 ## $a Children. $2 lcdgt 
+Example: 
+650 #0 $a Tuberculosis $x Patients $x Hospital care $z Maryland $z Baltimore 
+$x History $y 20th century $v Bibliography. 
+LC practice: 
+
+
+<<<PAGE 7>>>
+Subject Headings Manual | Subdivisions H 1075 | Page 7 
+ 
+650 #0 $a Tuberculosis $x Patients $x Hospital care $z Maryland $z Baltimore 
+$x History $y 20th century. 
+655 #7 $a Bibliographies. $2 lcgft 
+Example: 
+650 #0 $a Church and state $z France $x History $y 19th century $x 
+Periodicals $v Bibliography. 
+LC practice: 
+650 #0 $a Church and state $z France $x History $y 19th century $x 
+Periodicals. 
+655 #7 $a Bibliographies. $2 lcgft 
+E. Order of subdivisions and meaning of subject headings strings 
+Generally, use established headings and follow instructions for combining them with free-
+floating subdivisions, placing form subdivisions last. Follow a logical thought process to express 
+the topic that most closely corresponds to the contents of the work being cataloged. The 
+meaning of a subject heading string may be tested by constructing a phrase using the individual 
+elements of the subject heading string in reverse order. 
+Example: 
+650 #0 $a Authors, English $y 20th century $v Biography. 
+LC practice:  
+650 #0 $a Authors, English $y 20th century. 
+655 #7 $a Biographies. $2 lcgft 
+[A biography of 20th century English authors] 
+Example: 
+651 #0 $a United States $x Foreign relations $y 1783--1815 $x Sources $v 
+Bibliography. 
+LC practice: 
+651 #0 $a United States $x Foreign relations $y 1783--1815 $x Sources. 
+655 #7 $a Bibliographies. $2 lcgft 
+[A bibliography of sources for foreign relations of the United States 
+during the period 1783-1815] 
+Example: 
+650 #0 $a German literature $x History and criticism $v Periodicals. 
+LC practice: 
+650 #0 $a German literature $x History and criticism. 
+655 #7 $a Periodicals. $2 lcgft 
+
+
+<<<PAGE 8>>>
+Subject Headings Manual | Subdivisions H 1075 | Page 8 
+ 
+The same elements may express different concepts depending upon their order in a subject 
+heading string. 
+Example: 
+650 #0 $a Hospitals $x Administration $x Data processing $x Evaluation.  
+[Evaluation of the application of data processing to the administration 
+of hospitals] 
+Example: 
+650 #0 $a Hospitals $x Administration $x Evaluation $x Data processing. 
+[Application of data processing to the evaluation of the administration 
+of hospitals] 
+Example: 
+650 #0 $a Science $x History $v Periodicals. 
+LC practice: 
+650 #0 $a Science $x History. 
+655 #7 $a Periodicals. $2 lcgft 
+[A periodical on the history of science] 
+Example: 
+650 #0 $a Science $x Periodicals $x History. 
+[A history of periodicals in the field of science] 
+Revision history 
+2026-01: Updated template. Added instructions related to LCGFT implementation. 

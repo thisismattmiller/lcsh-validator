@@ -1,0 +1,1046 @@
+{
+  "sheet": "H 1150",
+  "title": "Pattern Headings: Diseases",
+  "kind": "pattern",
+  "scope": "Free-floating subdivisions for use under headings for individual diseases or types of diseases and other medical conditions (human and animal, not plant), including [part of the body]--[pathological subdivision] and [chemical]--Metabolism--Disorders; pattern headings Cancer and Tuberculosis.",
+  "pattern_headings": [
+    "Cancer",
+    "Tuberculosis"
+  ],
+  "pattern_category": "individual diseases or types of diseases and other medical conditions",
+  "general_notes": [
+    "TYPES OF HEADINGS COVERED BY THE PATTERN: Headings for individual or types of diseases and other medical conditions, including abnormalities, functional disorders, mental disorders, manifestations of disease, and wounds and injuries. The category includes animal as well as human diseases but does not cover plant diseases. Examples: Bronchitis; Burns and scalds; Cleft palate; Down syndrome; Equine herpesvirus diseases; Fever in children; Gastrointestinal system--Motility--Disorders; Pain; Rabies; Sleep disorders; Schizophrenia; Sports injuries; Tuberculosis in poultry; Virus diseases. Also included are headings for parts of the body divided by subdivisions for diseases, injuries, or other pathological conditions from the pattern list for organs and regions of the body (H 1164), for example, Brain--Abscess; Breast--Cancer; Duodenum--Ulcers; Face--Abnormalities; Liver--Diseases; Skin--Infections; Spine--Wounds and injuries; and headings for chemical substances subdivided by --Metabolism--Disorders, for example, Calcium--Metabolism--Disorders; Proteins--Metabolism--Disorders. Not covered are headings for medical or surgical procedures and the general heading Diseases.",
+    "CONFLICTS: Any subdivision listed here can be used as a free-floating subdivision under any heading belonging to the category if it is appropriate and no conflict exists in the subject authority file. Subject authority records may exist for headings employing variant phrases or subdivisions equivalent to subdivisions on this list.",
+    "Note: Most form subdivisions coded $v in this list may also be used as topical subdivisions coded $x when assigned to works about the form (see H 1075, sec. 1.d.)."
+  ],
+  "entries": [
+    {
+      "subdivision": "--Adjuvant treatment",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Age factors",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Alternative treatment",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Animal models",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Ayurvedic treatment",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Chemoprevention",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Chemotherapy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Chemotherapy--Complications",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Chiropractic treatment",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "other diseases and conditions as appropriate, for example, Backache--Chiropractic treatment",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "Not established under Cancer or Tuberculosis. Use under other diseases and conditions as appropriate, for example, Backache--Chiropractic treatment."
+    },
+    {
+      "subdivision": "--Code numbers",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Complications",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "Further subdivide the subdivisions --Complications, --Relapse, --Surgery--Complications, and --Vaccination--Complications by other subdivisions from this list as appropriate."
+    },
+    {
+      "subdivision": "--Cryosurgery",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1164"
+      ],
+      "endnote": "Do not use --Cryosurgery, --Cytopathology, --Endoscopic surgery, --Imaging, --Interventional radiology, --Laser surgery, --Magnetic resonance imaging, --Pathophysiology, --Radionuclide imaging, --Reoperation, --Spectroscopic imaging, --Surgery, --Tomography, or --Ultrasonic imaging under headings of the type [part of the body] --Diseases. Instead assign [part of the body] --Cryosurgery, [part of the body] --Pathophysiology, [part of the body] --Surgery; etc. (cf. H 1164)."
+    },
+    {
+      "subdivision": "--Cryotherapy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Cytodiagnosis",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Cytopathology",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1164"
+      ],
+      "endnote": "Do not use --Cryosurgery, --Cytopathology, --Endoscopic surgery, --Imaging, --Interventional radiology, --Laser surgery, --Magnetic resonance imaging, --Pathophysiology, --Radionuclide imaging, --Reoperation, --Spectroscopic imaging, --Surgery, --Tomography, or --Ultrasonic imaging under headings of the type [part of the body] --Diseases. Instead assign [part of the body] --Cryosurgery, [part of the body] --Pathophysiology, [part of the body] --Surgery; etc. (cf. H 1164)."
+    },
+    {
+      "subdivision": "--Diagnosis",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Diet therapy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Diet therapy--Recipes",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Differentiation therapy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Dosimetric treatment",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Early detection",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Eclectic treatment",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Economic aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Endocrine aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Endoscopic surgery",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1164"
+      ],
+      "endnote": "Do not use --Cryosurgery, --Cytopathology, --Endoscopic surgery, --Imaging, --Interventional radiology, --Laser surgery, --Magnetic resonance imaging, --Pathophysiology, --Radionuclide imaging, --Reoperation, --Spectroscopic imaging, --Surgery, --Tomography, or --Ultrasonic imaging under headings of the type [part of the body] --Diseases. Instead assign [part of the body] --Cryosurgery, [part of the body] --Pathophysiology, [part of the body] --Surgery; etc. (cf. H 1164)."
+    },
+    {
+      "subdivision": "--Environmental aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Epidemiology",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Etiology",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Exercise therapy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Gene therapy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Genetic aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Histopathology",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Homeopathic treatment",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Hormone therapy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Hormone therapy--Complications",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Hospitals",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Imaging",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1164"
+      ],
+      "endnote": "Do not use --Cryosurgery, --Cytopathology, --Endoscopic surgery, --Imaging, --Interventional radiology, --Laser surgery, --Magnetic resonance imaging, --Pathophysiology, --Radionuclide imaging, --Reoperation, --Spectroscopic imaging, --Surgery, --Tomography, or --Ultrasonic imaging under headings of the type [part of the body] --Diseases. Instead assign [part of the body] --Cryosurgery, [part of the body] --Pathophysiology, [part of the body] --Surgery; etc. (cf. H 1164)."
+    },
+    {
+      "subdivision": "--Immunodiagnosis",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Immunological aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Immunotherapy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Interventional radiology",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1164"
+      ],
+      "endnote": "Do not use --Cryosurgery, --Cytopathology, --Endoscopic surgery, --Imaging, --Interventional radiology, --Laser surgery, --Magnetic resonance imaging, --Pathophysiology, --Radionuclide imaging, --Reoperation, --Spectroscopic imaging, --Surgery, --Tomography, or --Ultrasonic imaging under headings of the type [part of the body] --Diseases. Instead assign [part of the body] --Cryosurgery, [part of the body] --Pathophysiology, [part of the body] --Surgery; etc. (cf. H 1164)."
+    },
+    {
+      "subdivision": "--Intraoperative radiotherapy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Laser surgery",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1164"
+      ],
+      "endnote": "Do not use --Cryosurgery, --Cytopathology, --Endoscopic surgery, --Imaging, --Interventional radiology, --Laser surgery, --Magnetic resonance imaging, --Pathophysiology, --Radionuclide imaging, --Reoperation, --Spectroscopic imaging, --Surgery, --Tomography, or --Ultrasonic imaging under headings of the type [part of the body] --Diseases. Instead assign [part of the body] --Cryosurgery, [part of the body] --Pathophysiology, [part of the body] --Surgery; etc. (cf. H 1164)."
+    },
+    {
+      "subdivision": "--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1154.5"
+      ],
+      "endnote": "See H 1154.5 for further subdivisions used under legal topics."
+    },
+    {
+      "subdivision": "--Magnetic resonance imaging",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1164"
+      ],
+      "endnote": "Do not use --Cryosurgery, --Cytopathology, --Endoscopic surgery, --Imaging, --Interventional radiology, --Laser surgery, --Magnetic resonance imaging, --Pathophysiology, --Radionuclide imaging, --Reoperation, --Spectroscopic imaging, --Surgery, --Tomography, or --Ultrasonic imaging under headings of the type [part of the body] --Diseases. Instead assign [part of the body] --Cryosurgery, [part of the body] --Pathophysiology, [part of the body] --Surgery; etc. (cf. H 1164)."
+    },
+    {
+      "subdivision": "--Microbiology",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Molecular aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Molecular diagnosis",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Mortality",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "Use the heading [disease]--Mortality instead of [disease]--Patients--Mortality."
+    },
+    {
+      "subdivision": "--Nursing",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Nutritional aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Palliative treatment",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Pathogenesis",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "Not established under Cancer; use Carcinogenesis instead."
+    },
+    {
+      "subdivision": "--Pathophysiology",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1164"
+      ],
+      "endnote": "Do not use --Cryosurgery, --Cytopathology, --Endoscopic surgery, --Imaging, --Interventional radiology, --Laser surgery, --Magnetic resonance imaging, --Pathophysiology, --Radionuclide imaging, --Reoperation, --Spectroscopic imaging, --Surgery, --Tomography, or --Ultrasonic imaging under headings of the type [part of the body] --Diseases. Instead assign [part of the body] --Cryosurgery, [part of the body] --Pathophysiology, [part of the body] --Surgery; etc. (cf. H 1164)."
+    },
+    {
+      "subdivision": "--Patients",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1100"
+      ],
+      "endnote": "Do not use --Patients under headings for chronic or disabling conditions for which separate headings for the afflicted persons have been established, for example, use Blind [not Blindness--Patients]; Chronically ill [not Chronic diseases--Patients]; Deaf [not Deafness--Patients]; Mentally ill [not Mental illness--Patients]. See H 1100 for further subdivisions used under classes of persons."
+    },
+    {
+      "subdivision": "--Photochemotherapy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Phototherapy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Physical therapy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Political aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Prevention",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Prevention--Needs assessment",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Prognosis",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Psychological aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "Use the heading [disease]--Psychological aspects instead of [disease]--Patients--Psychology. Do not use the subdivision --Psychological aspects under headings for psychological conditions or psychoses (e.g., Manic-depressive illness)."
+    },
+    {
+      "subdivision": "--Psychosomatic aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Radioimmunoimaging",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Radioimmunotherapy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Radionuclide imaging",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1164"
+      ],
+      "endnote": "Do not use --Cryosurgery, --Cytopathology, --Endoscopic surgery, --Imaging, --Interventional radiology, --Laser surgery, --Magnetic resonance imaging, --Pathophysiology, --Radionuclide imaging, --Reoperation, --Spectroscopic imaging, --Surgery, --Tomography, or --Ultrasonic imaging under headings of the type [part of the body] --Diseases. Instead assign [part of the body] --Cryosurgery, [part of the body] --Pathophysiology, [part of the body] --Surgery; etc. (cf. H 1164)."
+    },
+    {
+      "subdivision": "--Radiotherapy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Radiotherapy--Complications",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Relapse",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "Further subdivide the subdivisions --Complications, --Relapse, --Surgery--Complications, and --Vaccination--Complications by other subdivisions from this list as appropriate."
+    },
+    {
+      "subdivision": "--Religious aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1998"
+      ],
+      "endnote": "May be subdivided topically by a religion or Christian denomination. Editorially establish each heading of the type [disease]--Religious aspects--[name of religion or denomination]. For instructions, see H 1998."
+    },
+    {
+      "subdivision": "--Reoperation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1164"
+      ],
+      "endnote": "Do not use --Cryosurgery, --Cytopathology, --Endoscopic surgery, --Imaging, --Interventional radiology, --Laser surgery, --Magnetic resonance imaging, --Pathophysiology, --Radionuclide imaging, --Reoperation, --Spectroscopic imaging, --Surgery, --Tomography, or --Ultrasonic imaging under headings of the type [part of the body] --Diseases. Instead assign [part of the body] --Cryosurgery, [part of the body] --Pathophysiology, [part of the body] --Surgery; etc. (cf. H 1164)."
+    },
+    {
+      "subdivision": "--Reporting",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Risk factors",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Seasonal variations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Serodiagnosis",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Sex factors",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Spectroscopic imaging",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1164"
+      ],
+      "endnote": "Do not use --Cryosurgery, --Cytopathology, --Endoscopic surgery, --Imaging, --Interventional radiology, --Laser surgery, --Magnetic resonance imaging, --Pathophysiology, --Radionuclide imaging, --Reoperation, --Spectroscopic imaging, --Surgery, --Tomography, or --Ultrasonic imaging under headings of the type [part of the body] --Diseases. Instead assign [part of the body] --Cryosurgery, [part of the body] --Pathophysiology, [part of the body] --Surgery; etc. (cf. H 1164)."
+    },
+    {
+      "subdivision": "--Surgery",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1164"
+      ],
+      "endnote": "Do not use --Cryosurgery, --Cytopathology, --Endoscopic surgery, --Imaging, --Interventional radiology, --Laser surgery, --Magnetic resonance imaging, --Pathophysiology, --Radionuclide imaging, --Reoperation, --Spectroscopic imaging, --Surgery, --Tomography, or --Ultrasonic imaging under headings of the type [part of the body] --Diseases. Instead assign [part of the body] --Cryosurgery, [part of the body] --Pathophysiology, [part of the body] --Surgery; etc. (cf. H 1164)."
+    },
+    {
+      "subdivision": "--Surgery--Complications",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1164"
+      ],
+      "endnote": "[2] Further subdivide the subdivisions --Complications, --Relapse, --Surgery--Complications, and --Vaccination--Complications by other subdivisions from this list as appropriate. [3] Do not use --Cryosurgery, --Cytopathology, --Endoscopic surgery, --Imaging, --Interventional radiology, --Laser surgery, --Magnetic resonance imaging, --Pathophysiology, --Radionuclide imaging, --Reoperation, --Spectroscopic imaging, --Surgery, --Tomography, or --Ultrasonic imaging under headings of the type [part of the body] --Diseases. Instead assign [part of the body] --Cryosurgery, [part of the body] --Pathophysiology, [part of the body] --Surgery; etc. (cf. H 1164)."
+    },
+    {
+      "subdivision": "--Surgery--Nursing",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1164"
+      ],
+      "endnote": "Do not use --Cryosurgery, --Cytopathology, --Endoscopic surgery, --Imaging, --Interventional radiology, --Laser surgery, --Magnetic resonance imaging, --Pathophysiology, --Radionuclide imaging, --Reoperation, --Spectroscopic imaging, --Surgery, --Tomography, or --Ultrasonic imaging under headings of the type [part of the body] --Diseases. Instead assign [part of the body] --Cryosurgery, [part of the body] --Pathophysiology, [part of the body] --Surgery; etc. (cf. H 1164)."
+    },
+    {
+      "subdivision": "--Susceptibility",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Thermotherapy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Tomography",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1164"
+      ],
+      "endnote": "Do not use --Cryosurgery, --Cytopathology, --Endoscopic surgery, --Imaging, --Interventional radiology, --Laser surgery, --Magnetic resonance imaging, --Pathophysiology, --Radionuclide imaging, --Reoperation, --Spectroscopic imaging, --Surgery, --Tomography, or --Ultrasonic imaging under headings of the type [part of the body] --Diseases. Instead assign [part of the body] --Cryosurgery, [part of the body] --Pathophysiology, [part of the body] --Surgery; etc. (cf. H 1164)."
+    },
+    {
+      "subdivision": "--Transmission",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Treatment",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Treatment--Complications",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Ultrasonic imaging",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1164"
+      ],
+      "endnote": "Do not use --Cryosurgery, --Cytopathology, --Endoscopic surgery, --Imaging, --Interventional radiology, --Laser surgery, --Magnetic resonance imaging, --Pathophysiology, --Radionuclide imaging, --Reoperation, --Spectroscopic imaging, --Surgery, --Tomography, or --Ultrasonic imaging under headings of the type [part of the body] --Diseases. Instead assign [part of the body] --Cryosurgery, [part of the body] --Pathophysiology, [part of the body] --Surgery; etc. (cf. H 1164)."
+    },
+    {
+      "subdivision": "--Vaccination",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Vaccination--Complications",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "Further subdivide the subdivisions --Complications, --Relapse, --Surgery--Complications, and --Vaccination--Complications by other subdivisions from this list as appropriate."
+    }
+  ]
+}

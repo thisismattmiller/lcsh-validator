@@ -1,0 +1,52 @@
+
+
+<<<PAGE 1>>>
+ 
+Tables  H 2160 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2160 Page 1 
+ 
+June 2013 
+BACKGROUND:  The subdivision BTables is used for works in tabular form that present 
+systematic listings of results already computed, worked out, or processed, and that are to be 
+used as reference tools to reduce the labor of computors and investigators, or to form a basis for 
+future predictions.  Works of this type are to be distinguished from those that merely present 
+lists of unprocessed or raw data resulting from survey, experimentation, observation, etc., for 
+which headings or subdivisions representing special kinds of statistics, measurements, 
+observations, etc. are used.  For instructions on cataloging works containing statistical data, 
+see H 2095. 
+ 
+ 
+ 
+1.  General rule.  Use the subdivision BTables as a free-floating form subdivision under topical 
+headings for works of the type described above.  Examples: 
+ 
+650 #0 $a Food $x Caloric content $v Tables. 
+650 #0 $a Gas lasers $v Tables. 
+650 #0 $a Ellipsometry $v Tables. 
+650 #0 $a Photographic surveying $v Tables. 
+650 #0 $a Irrigation canals and flumes $v Tables. 
+650 #0 $a Mortality $z Latin America $v Tables. 
+ 
+ 
+ 
+2.  Obsolete forms.  Other subdivisions designating tables were used in the past, including 
+BTables and ready-reckoners; BTables, calculations, etc.; BTables, etc.; BFormulae, tables, 
+etc.   
+ 
+LC practice: 
+Do not assign these subdivisions.  When they are encountered in the bibliographic database, 
+replace them with the subdivision BTables. 
+ 
+ 
+ 
+3.  Conversion tables.  Use the subdivision BConversion tables as a free-floating form 
+subdivision under topical headings for tables of equivalents for changing units of measure or 
+weight into other units.  Examples: 
+ 
+650 #0 $a Temperature $v Conversion tables. 
+650 #0 $a Time $v Conversion tables. 
+ 

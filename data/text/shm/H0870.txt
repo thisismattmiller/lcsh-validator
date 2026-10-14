@@ -1,0 +1,164 @@
+
+
+<<<PAGE 1>>>
+ 
+Interposition of Geographic Subdivisions  H 870 
+ 
+ 
+ 
+Subject Headings Manual 
+H 870 Page 1 
+ 
+June 2013 
+BACKGROUND:  When topical headings are combined with topical subdivisions, place may 
+be expressed by one of two methods:  (1) interposing the name of the place between the heading 
+and the subdivision, for example, Construction industryBPolandBFinance, or (2) further 
+subdividing the topical subdivision by place, for example, Construction industryBLaw and 
+legislationBPoland.  In the past, the practice had been to assign two headings instead of a 
+single heading, as in the following example: 
+ 
+ 
+ 
+650 #0 $a Construction industry $x Finance.   
+650 #0 $a Construction industry $z Poland. 
+ 
+ 
+ 
+In the 1960s, the first method above was adopted as a replacement for the previous practice of 
+assigning two headings, and the second or alternative method of further subdividing topical 
+subdivisions was reserved for a limited number of exceptional subdivisions.  The Subject 
+Subdivisions Conference that took place at Airlie, Virginia, in 1991 recommended that the 
+standard order of subdivisions should be [topic]B [place]B[chronology]B[form].  In 1992, it 
+was decided to adopt that order where it could be applied.  Toward achieving the standard 
+order, new topical subdivisions for which geographic orientation is logical are now established 
+with authorization for further subdivision by place.  On a case-by-case basis, subdivisions not 
+previously divided by place are being authorized for geographic subdivision.  The method of 
+further dividing subdivisions by place is discussed in H 860. 
+ 
+ 
+ 
+This instruction sheet discusses the method of interposing geographic subdivisions between 
+headings and topical subdivisions that are not authorized for further subdivision by place.  It 
+also covers interposing geographic subdivisions between headings and chronological 
+subdivisions and between headings and form subdivisions. 
+ 
+ 
+ 
+ 
+1.  General rule.  Bring out place for topical headings with topical subdivisions by interposing 
+the name of the place between the main heading and its subdivision following the guidelines in 
+H 830, provided that the heading is authorized for geographic subdivision and the subdivision is 
+not, for example, Construction industryBPolandBFinance. 
+
+
+<<<PAGE 2>>>
+H 870  Interposition of Geographic Subdivisions 
+ 
+ 
+ 
+H 870 Page 2 
+Subject Headings Manual 
+June 2013 
+2.  Exceptions.  Assign only one heading specified in sec. 1, above, except under the following 
+conditions: 
+ 
+! If the work being cataloged deals with the general topic as well as with the topic as it 
+applies to a particular place, assign two headings, for example, 
+ 
+650 #0 $a Construction industry $x Finance.   
+650 #0 $a Construction industry $z Poland $x Finance. 
+ 
+! In certain subjects and with particular headings and subdivisions, there are 
+long-standing practices of assigning multiple headings, for example, wars and other 
+armed conflicts (cf. H 1200, sec. 1), the subdivision BReligious aspects (cf. H 1998, 
+sec. 2.a.),  and  religious denominations or religions as subdivisions (cf. H 2015, 
+sec. 4).  Continue to follow these practices. 
+ 
+ 
+3.  Chronological subdivisions. 
+ 
+a. Art and music.  Chronological subdivisions are used under headings for national and 
+ethnic art and art forms (cf. H 1148) and  musical compositions (cf. H 1160 and 
+H 1916.5)  to represent the art and music of those periods.  Interpose geographic 
+subdivisions between main headings and chronological subdivisions to represent the art 
+and music of those places in those times.  Examples: 
+ 
+   
+ 
+650 #0 $a Landscape painting, French $z France $z Marseille  
+            $y 19th century. 
+650 #0 $a Pottery, Japanese $z Japan $z Hiroshima-ken $y To 794. 
+650 #0 $a Art, Aboriginal Australian $z Australia $z Queensland 
+            $y 20th century. 
+650 #0 $a Choral music $z Germany $y 18th century.   
+650 #0 $a Jazz $z Louisiana $z New Orleans $y 1951-1960. 
+ 
+ 
+b.  BHistoryB[dates].  Interpose geographic subdivisions between headings that are 
+authorized for geographic subdivision and the topical subdivision BHistory followed by 
+either established or free-floating chronological subdivisions, provided that the time 
+period is appropriate for the place, for example, WomenBItalyBHistoryBRenaissance, 
+1450-1600; ChemistryBGermanyBHistoryB19th century.  Consider establishing 
+headings of the type [topic]B[place]BHistoryB[dates] where a specific date span is 
+pertinent for a place and there is sufficient material to warrant it, for example, Finance, 
+PublicBFranceBHistoryB1789-1871. 
+
+
+<<<PAGE 3>>>
+ 
+Interposition of Geographic Subdivisions  H 870 
+ 
+ 
+ 
+Subject Headings Manual 
+H 870 Page 3 
+ 
+June 2013 
+3. Chronological subdivisions. (Continued) 
+ 
+c.  BForeign relationsB[dates].  Date subdivisions are established under headings of the 
+type [place]BForeign relations to express the diplomatic relations of a region or country 
+during that time period.  To express the diplomatic relations between two specific 
+regions or countries during a time period, do not interpose geographic subdivisions 
+between [place]BForeign relations and the date subdivision.  Assign multiple headings 
+instead (cf.  H 1629).  Example: 
+ 
+   
+ 
+651 #0 $a Great Britain $x Foreign relations $y 1979-1997. 
+651 #0 $a Great Britain $x Foreign relations $z Argentina. 
+651 #0 $a Argentina $x Foreign relations $z Great Britain. 
+651 #0 $a Argentina $x Foreign relations $y 1955-1983.   
+ 
+d.  Literature.  Chronological subdivisions are used under headings for individual 
+literatures and genres of those literatures (cf. H 1156), and groups of literary authors (cf. 
+H 1155.2) to represent the literatures and groups of authors in those periods.  Do not 
+interpose geographic subdivisions between the headings for the literatures and groups of 
+authors and chronological subdivisions.  Assign two headings instead.   
+ 
+e.  Geology and paleontology.  Following long-standing practice, do not interpose 
+geographic subdivisions between the headings Geology, Stratigraphic; Paleontology; 
+Paleobotany; etc., and established chronological subdivisions for geologic eras, periods, 
+and 
+epochs, 
+for 
+example, 
+Geology, 
+StratigraphicBPermian; 
+PaleontologyBPennsylvanian; PaleobotanyBCarboniferous.  Assign two headings 
+instead.  Example: 
+ 
+   
+ 
+650 #0 $a Paleontology $y Cretaceous. 
+650 #0 $a Paleontology $z Montana. 
+ 
+       [not 
+650 #0 $a Paleontology $z Montana $y Cretaceous.] 
+ 
+4.  Form subdivisions.  Form subdivisions are generally the last element in subject headings 
+(cf. H 1075, sec. 2).  Interpose geographic subdivisions between headings that are authorized 
+for geographic subdivision and form subdivisions unless the subdivision is one of the 
+exceptional form subdivisions that are authorized for further geographic subdivision, for 
+example, BCatalogs and collections (May Subd Geog); BJob descriptions (May Subd Geog); 
+BRegisters of dead (May Subd Geog).  

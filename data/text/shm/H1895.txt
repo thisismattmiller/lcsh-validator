@@ -1,0 +1,57 @@
+
+
+<<<PAGE 1>>>
+ 
+Miniature Books  H 1895 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1895 Page 1 
+ 
+June 2013 
+BACKGROUND:  In 1985 the topical heading Miniature books replaced the obsolete heading 
+BibliographyBMicroscopic and miniature editions; the form heading Miniature booksB 
+Specimens, assigned to actual specimens of such books, replaced BibliographyBMiniature and 
+microscopic editionsBSpecimens.  This instruction sheet presents guidelines on the use of the 
+topical subject heading Miniature books and the form heading Miniature booksBSpecimens.   
+ 
+ 
+1.  Scope of the headings.  The topical heading Miniature books (May Subd Geog) is used 
+for works that discuss books 10 centimeters (i.e. 100 millimeters) or less in both height and 
+width. 
+ 
+The form heading Miniature booksBSpecimens is used for actual specimens of such books.  
+This form heading is assigned without geographic subdivision. 
+ 
+ 
+2.  Assignment of the form heading.  In addition to the appropriate topical or form headings, 
+assign to a miniature book the form heading Miniature booksBSpecimens. 
+ 
+ 
+3.  Examples. 
+ 
+Title:  Russian miniature books : a history. 
+(29 cm.) 
+650 #0 $a Miniature books $z Russia $x History. 
+ 
+Title:  American miniature books : a bibliography. 
+(48 mm.) 
+650 #0 $a Miniature books $z United States $v Bibliography.  
+650 #0 $a Miniature books $v Specimens. 
+ 
+Title:  Romanian painting 1921-1971. 
+(50 mm.) 
+650 #0 $a Painting, Romanian $y 20th century. 
+650 #0 $a Miniature books $v Specimens. 
+ 
+Title:  The selected poems of Longfellow. 
+(10 cm.) 
+650 #0 $a Miniature books $v Specimens. 
+ 
+Title:  A bibliography of miniature book bibliographies. 
+ 
+(10 cm.) 
+650 #0 $a Miniature books $v Bibliography of bibliographies.  
+650 #0 $a Miniature books $v Specimens. 
+ 

@@ -1,0 +1,187 @@
+
+
+<<<PAGE 1>>>
+ 
+Areas Associated with Cities  H 790 
+ 
+ 
+ 
+Subject Headings Manual 
+H 790 Page 1 
+ 
+June 2013 
+BACKGROUND:  There are four headings by which the various territories associated with a 
+city may be designated: 
+ 
+[city name]:  the territory over which the city exercises its control, that is, the 
+jurisdiction itself.  For subdivisions used under names of cities, see H 1140. 
+   
+[city] Metropolitan Area:  a quasi-official name for a well-defined area consisting of the 
+city itself and those densely populated territories immediately surrounding the city which 
+are socially and economically integrated with it. 
+ 
+[city] Suburban Area:  the territory associated with a city, including neighboring 
+residential areas lying outside the city, as well as nearby smaller satellite jurisdictions; 
+the territory designated does not include the city itself. 
+ 
+[city] Region:  the city itself and its surrounding territory, the exact size and boundaries 
+of which are indefinite and may vary according to each individual work being cataloged. 
+ 
+For classification of works on metropolitan areas, see F 550. 
+ 
+ 
+1.  Metropolitan areas. 
+ 
+a.  Construction of headings.  Construct free-floating headings for names of 
+metropolitan areas by inserting the phrase Metropolitan Area between an established 
+city name and its geographic qualifier.  Example: 
+ 
+151 ## $a Pensacola (Fla.) 
+651 #0 $a Pensacola Metropolitan Area (Fla.) 
+ 
+If the city name has been established without a qualifier, add the phrase Metropolitan 
+Area to the established form of the name.  Example: 
+ 
+151 ## $a Jerusalem 
+651 #0 $a Jerusalem Metropolitan Area. 
+ 
+Exception:  New York Metropolitan Area and Washington Metropolitan 
+Area are established without geographic qualifiers even though the city names 
+are qualified. 
+ 
+
+
+<<<PAGE 2>>>
+H 790  Areas Associated with Cities 
+ 
+ 
+ 
+H 790 Page 2 
+Subject Headings Manual 
+June 2013 
+1.  Metropolitan areas. 
+ 
+a.  Construction of headings.  (Continued) 
+ 
+If a metropolitan area spreads across portions of two or more jurisdictions, qualify only 
+by the name of the jurisdiction in which the city proper is located.  Example: 
+ 
+151 ## $a Binghamton (N.Y.) 
+651 #0 $a Binghamton Metropolitan Area (N.Y.) 
+ 
+  [not 651 #0 $a Binghamton Metropolitan Area (N.Y. and Pa.)] 
+ 
+ 
+ 
+ 
+b.  Metropolitan areas that include two cities.  Do not construct a heading for a single 
+metropolitan area involving two cities by combining their names with a hyphen.  Assign 
+the metropolitan area of each city separately.  Example: 
+ 
+651 #0 $a Fort Worth Metropolitan Area (Tex.)  
+651 #0 $a Dallas Metropolitan Area (Tex.) 
+ 
+  [not 651 #0 $a Dallas-Fort Worth Metropolitan Area (Tex.)] 
+ 
+ 
+ 
+ 
+c.  Metropolitan area headings vs. region headings.  Assign metropolitan areas as 
+headings or subdivisions if there is evidence, either from the work being cataloged or 
+from another acceptable source, that the proposed area has been officially designated a 
+metropolitan area.  Otherwise treat the area in question as a region related to the city. 
+ 
+ 
+ 
+ 
+d.  Topical subdivisions under metropolitan area headings.  Assign the name of the 
+metropolitan area with appropriate topical subdivisions used under regions, countries, etc. 
+(cf. H 1140).  Do not assign subdivisions used only under names of cities. 
+ 
+
+
+<<<PAGE 3>>>
+ 
+Areas Associated with Cities  H 790 
+ 
+ 
+ 
+Subject Headings Manual 
+H 790 Page 3 
+ 
+June 2013 
+1.  Metropolitan areas.  (Continued) 
+ 
+e.  Metropolitan areas as geographic subdivisions.  Assign metropolitan areas as 
+geographic subdivisions through the jurisdiction in which the city proper is located, even 
+if the metropolitan area spreads over more than a single country or first order political 
+division in the case of Canada, Great Britain, and the United States.  Follow the 
+provisions of H 830 regarding the deletion or retention of information within 
+parenthetical qualifiers.  Example: 
+ 
+650 #0 $a Minorities $z Missouri $z Saint Louis Metropolitan 
+          Area. 
+ 
+Exception:  The New York, Washington, and Jerusalem metropolitan areas are 
+used directly after topics.  Example: 
+ 
+650 #0 $a Minorities $z New York Metropolitan Area. 
+650 #0 $a Minorities $z Washington Metropolitan Area. 
+650 #0 $a Minorities $z Jerusalem Metropolitan Area. 
+ 
+ 
+ 
+2.  Suburban areas. 
+ 
+Note:  The subdivision CSuburbs and environs was discontinued and replaced 
+by the free-floating phrase ... Suburban Area in 1985.  During the years 
+1979-1982 when neither the subdivision nor the phrase was in use, the 
+corresponding city region or metropolitan area heading was used to designate 
+the suburban area associated with a city. 
+ 
+a.  Construction of headings.  Construct headings for suburban areas by using the 
+free-floating phrase ... Suburban Area, following the same provisions as for 
+metropolitan areas, described above. 
+ 
+ 
+b.  Assignment of headings.  Assign these headings in the same manner prescribed for 
+metropolitan areas.  Do not use city subdivisions under these headings. 
+ 
+ 
+c.  Suburban areas as geographic subdivisions.  Assign suburban areas as geographic 
+subdivisions according to the same principles described above for metropolitan areas. 
+
+
+<<<PAGE 4>>>
+H 790  Areas Associated with Cities 
+ 
+ 
+ 
+H 790 Page 4 
+Subject Headings Manual 
+June 2013 
+3.  City regions. 
+ 
+a.  Construction of headings.  Construct free-floating headings for city regions by 
+inserting the word Region between an established city name and its geographic qualifier. 
+ Example: 
+ 
+151 ## $a Pensacola (Fla.) 
+651 #0 $a Pensacola Region (Fla.) 
+ 
+If the city name has been established without a qualifier, add the word Region to the 
+established form of the name.  Example: 
+ 
+151 ## $a Jerusalem 
+651 #0 $a Jerusalem Region. 
+ 
+Exception:  New York Region and Washington Region are established without 
+geographic qualifiers even though the city names are qualified. 
+ 
+ 
+b.  City regions that include two cities.  Do not construct a heading for a single region 
+consisting of the names of two cities connected by a hyphen. 
+ 
+ 
+c.  Assignment of headings.  Assign city regions in the same manner prescribed for 
+metropolitan areas above.  Do not assign subdivisions used only under names of cities. 

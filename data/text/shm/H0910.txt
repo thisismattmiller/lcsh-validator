@@ -1,0 +1,122 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Place as a Theme in Art, Literature, Motion Pictures, etc. H 910 | 
+Page 1 
+ 
+ 
+Place as a Theme in Art, Literature, Motion 
+Pictures, etc. 
+H 910 
+A. Background ............................................................................................................................... 1 
+B. Recent revisions ........................................................................................................................ 2 
+C. [Place]--In art ............................................................................................................................ 2 
+D. [Place]--In literature .................................................................................................................. 2 
+E. [Place]--In motion pictures ........................................................................................................ 3 
+F. Places in sacred works ............................................................................................................... 3 
+G. [Place] in […] headings .............................................................................................................. 3 
+Revision history ............................................................................................................................. 4 
+A. Background 
+In 1973, the practice of assigning headings of the type *[name of place]--Description and 
+travel--Views* or *[name of place]--Description--Views* to works consisting of reproductions 
+of art works having a particular place as a theme was discontinued in favor of the use of 
+headings of the type *[name of place] in art* as either form or topical headings. In 1997 
+headings of this type were changed to *[name of place]--In art*. Phrase headings of the type 
+*[name of place] in the Bible, etc.*, continued to be used until 2013, when they were largely 
+discontinued in favor of headings of the type *[name of place]--In the Bible*. They are assigned 
+only as topical headings. 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Paintings*. To replace a form subdivision that includes a demographic group, also assign 
+Library of Congress Demographic Groups Terms (LCDGT) to bring out the audience of the 
+resource being cataloged, e.g. *German speakers* or *Arabic, Students of*. 
+For guidelines on place as a theme in art, see H 910. For guidelines on artistic photography, see 
+H 1255. For guidelines on illustrations, see H 1659. For guidelines on pictorial works, see H 
+1935. For guidelines on exhibitions, see H 1593. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Place as a Theme in Art, Literature, Motion Pictures, etc. H 910 | 
+Page 2 
+ 
+ 
+B. Recent revisions 
+2026-04: Updated template. Added instructions related to LCGFT implementation. 
+C. [Place]--In art 
+Use the free-floating subdivision *--In art* as a form subdivision coded $v for reproductions of 
+art works with a specific place as a theme. 
+Exception: Assign to works that consist of photographs of a place, or of paintings made before 
+the invention of photography merely to give views, the heading *[place]--Pictorial works*. 
+LC practice: For collections of art depicting places, assign *[Place] $x In art* as a theme. Also 
+assign LCGFT appropriate to the form and/or genre of the resource. For guidelines on assigning 
+LCGFT to artistic and visual works, see J 210. 
+Example: 
+Title: Manhattan observed : selections of drawings, prints, and 
+paintings. 
+651 #0 $a New York (N.Y.) $v In art. 
+651 #0 $a Manhattan (New York, N.Y.) $v In art. 
+LC practice: 
+651 #0 $a New York (N.Y.) $x In art. 
+651 #0 $a Manhattan (New York, N.Y.) $x In art. 
+Also use the free-floating subdivision *--In art* as a topical subdivision coded $x for works that 
+discuss a specific place as a theme in art. 
+Example: 
+Title: Michel Delacroix, eternal Paris. 
+600 10 $a Delacroix, Michel $x Themes, motives. 
+651 #0 $a Paris (France) $x In art. 
+Use of the free-floating phrase heading *[name of place] in art* was discontinued in January 
+1997. 
+D. [Place]--In literature 
+Use the free-floating topical subdivision *--In literature* under names of places for works that 
+discuss the treatment of a specific place in the various literary genres collectively, or in any 
+individual literary genre. 
+Example: 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Place as a Theme in Art, Literature, Motion Pictures, etc. H 910 | 
+Page 3 
+ 
+ 
+Title: The Paris of the novelists 
+651 #0 $a Paris (France) $x In literature. 
+650 #0 $a Fiction $y 19th century $x History and criticism. 
+Note: The standard provisions for literary form headings apply to collections of literature or 
+individual literary works featuring a specific place as a theme, that is, the subdivisions *--
+Literary collections*, *--Fiction*, *--Drama*, or *--Poetry* are used under the place name. 
+LC practice: In place of the form subdivisions mentioned in the note, instead, assign LCGFT 
+appropriate to the form and/or genre of the resource. 
+Use of the free-floating phrase heading * [name of place] in literature* was discontinued in 
+August 1993. 
+E. [Place]--In motion pictures 
+Use the free-floating topical subdivision *--In motion pictures* under names of places for 
+works that discuss the treatment of a specific place in motion pictures. 
+Example: 
+Title: Hollywood's Canada : the Americanization of our national image. 
+651 #0 $a Canada $x In motion pictures. 
+650 #0 $a Motion pictures $z United States $x History. 
+Use of phrase headings of the type *[name of place] in motion pictures* was discontinued in 
+December 1997. 
+F. Places in sacred works 
+Submit proposals to editorially establish headings of the type *[place]–In the Bible*, *[place]--
+In the Vedas*, etc. as needed for works that discuss the treatment of a specific place in a 
+sacred work. 
+Use of phrase headings of the type *[name of place] in the Bible* was discontinued in June 
+2013. 
+G. [Place] in […] headings 
+Submit proposals to establish editorially headings of the type *[place] in textbooks*, *[place] 
+in the performing arts*, etc. Assign these as topical headings to works that discuss the 
+treatment of the place in textbooks, the performing arts, etc. 
+Example: 
+Title: Die Römerzeit im Selbstverständnis der Franzosen und Deutschen. 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Place as a Theme in Art, Literature, Motion Pictures, etc. H 910 | 
+Page 4 
+ 
+ 
+650 #0 $a Rome in textbooks. 
+Note: For instructions on assigning names of places as topics of musical works, see H 2075. 
+Revision history 
+2026-04: Updated template. Added instructions related to LCGFT implementation. 

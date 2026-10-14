@@ -1,0 +1,17 @@
+.venv/
+.git/
+.env
+__pycache__/
+*.pyc
+subjects.madsrdf.xml.gz
+data/raw/
+data/text/
+data/derived/h1095_parts/
+data/derived/h1110_parts/
+data/derived/mads_samples*.txt
+data/derived/eval_*
+data/derived/build_db.log
+docs/
+lambda/*.md
+tests/
+scripts/

@@ -1,0 +1,78 @@
+
+
+<<<PAGE 1>>>
+ 
+Pattern Headings: Legal Topics  H 1154.5 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1154.5 Page 1 
+ 
+May 2021 
+PATTERN:  Labor laws and legislation 
+ 
+ 
+TYPES OF HEADINGS COVERED BY THE PATTERN:  Headings for legal topics, for 
+example, Torts; Civil procedure; Domestic relations; Airspace (International law); legal 
+phrase headings, for example, Agricultural laws and legislation; Criminal law; Trade 
+regulation; headings for legal systems, for example, Islamic law; International law; topical 
+headings subdivided by the legal subdivisions –Law and legislation; –Legal status, laws, etc.; 
+and –Safety regulations; place names subdivided by legal subdivisions, for example, –Foreign 
+relations–Law and legislation. 
+ 
+ 
+Note:  Establish editorially new uses of the subdivision –Law and legislation.  For 
+guidelines on the usage of the subdivisions –Law and legislation; –Legal status, laws, 
+etc.; and –Safety regulations under topical headings, see H 1705.   
+ 
+ 
+CONFLICTS:  Any subdivision listed here can be used as a free-floating subdivision under any 
+heading belonging to this category if it is appropriate and no conflict exists in the subject 
+authority file.  Subject authority records may exist for headings employing variant phrases or 
+subdivisions equivalent to subdivisions on this list. 
+ 
+LC practice: 
+If an exceptional variant form is to be retained, make a UF reference from the equivalent 
+free-floating subdivision form following the procedures in H 195 if the reference does not yet 
+exist.  Otherwise, submit a proposal to change the variant form along with all bibliographic 
+records requiring correction following the procedures in H 193. 
+ 
+Note:  Most form subdivisions coded $v in this list may also be used as topical 
+subdivisions coded $x when assigned to works about the form (see H 1075, sec. 1.d.). 
+ 
+$v Cases 
+$x Codification 
+$x Compliance costs  (May Subd Geog) 
+$x Criminal provisions 
+$v Digests 
+$x Environmental aspects (May Subd Geog) 
+$v Forms 
+$x International unification 
+
+
+<<<PAGE 2>>>
+H 1154.5  Pattern Headings: Legal Topics 
+ 
+ 
+ 
+H 1154.5 Page 2 
+Subject Headings Manual 
+May 2021 
+$x Interpretation and construction1 
+$x Language 
+$x Legal research2 
+$x Legislative history3 
+$v Popular works 
+$x Research  (May Subd Geog)2 
+$x Trial practice 
+ 
+ 
+NOTES 
+ 
+ 
+                     
+1Do not use under the heading Constitutional law. 
+2For the distinction in usage between the subdivisions –Legal research and –Research, see H 1710. 
+3The subdivision –Legislative history may also be used as a free-floating subdivision under names of individual 
+legislative enactments (see H 1715, sec. 3.c.). 

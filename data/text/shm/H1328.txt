@@ -1,0 +1,87 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Bio-bibliography H 1328 | Page 1 
+ 
+ 
+Bio-bibliography 
+H 1328 
+A. Background ............................................................................................................................... 1 
+B. Recent revisions ........................................................................................................................ 1 
+C. Definitions ................................................................................................................................. 1 
+D. General ..................................................................................................................................... 2 
+E. Dictionaries ............................................................................................................................... 3 
+Revision history ............................................................................................................................. 3 
+A. Background 
+The free-floating form subdivision *--Bio-bibliography* is assigned to works that contain both 
+biographical information about authors and lists of books, articles, etc., written by them. This 
+instruction sheet provides guidelines for using the subdivision *--Bio-bibliography*. 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Bio-bibliographies*. To replace a form subdivision that includes a demographic group, also 
+assign Library of Congress Demographic Groups Terms (LCDGT) to bring out the audience of the 
+resource being cataloged, e.g. *German speakers* or *Arabic, Students of*. 
+For guidelines on abstracts, see H 1205. For guidelines on bibliographies of individuals, see H 
+1322. For guidelines on bibliographies of bibliographies, see H 1325. For guidelines on 
+biography, see H 1330. For catalogs of library materials, see H 1361. For guidelines on diaries, 
+see H 1538. For guidelines on digests of legal materials, see H 1550. For guidelines on 
+interviews, see H 1678. For guidelines on personal narratives of wars or disasters, see H 1928. 
+For guidelines on genealogy and family histories, see H 1631. 
+B. Recent revisions 
+2026-02: Updated template. Added instructions related to LCGFT implementation. 
+C. Definitions 
+Bio-bibliography: a bibliography with biographical notes about the authors or authors listed0F1 
+ 
+1 https://www.merriam-webster.com/dictionary/biobibliography 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Bio-bibliography H 1328 | Page 2 
+ 
+ 
+D. General 
+Use the free-floating form subdivision *--Bio-bibliography* under names of places, names of 
+individual Christian denominations or monastic and religious orders, literatures, including 
+individual genres, ethnic groups, and topical headings, for works containing both biographical 
+information about persons associated with the topic in question and bibliographies of writings 
+by and/or about them. In general, the bibliography is primary and the biography is secondary. 
+LC practice: Assign a subject heading for a topic for works containing both biographical 
+information about persons associated with the topic in question and bibliographies of writings 
+by and/or about them. Also assign LCGFT appropriate to the form and/or genre of the resource 
+in hand, e.g. LCGFT *Bio-bibliographies*. 
+Example: 
+Title: The pro football bio-bibliography. 
+650 #0 $a Football $v Bio-bibliography. 
+LC practice: 
+650 #0 $a Football. 
+655 #7 $a Bio-bibliographies. $2 lcgft 
+Do not use *--Bio-bibliography* under classes of persons, unless a heading for the 
+corresponding subject area does not exist and cannot be established. 
+Use *--Bio-bibliography* only for works that cover more than one person, not for bio-
+bibliographies of a single individual. For the latter type of work, assign separate headings to 
+cover the biographical and bibliographical aspects of the work 
+LC practice: Treat bio-bibliographies about individual persons and classes of persons the same 
+as bio-bibliographies about any other topic. Assign LCGFT appropriate to the form and/or genre 
+of the resource in hand, e.g. LCGFT *Bio-bibliographies*. 
+Example: 
+Title: Spencer Tracy : a bio-bibliography. 
+600 10 $a Tracy, Spencer, $d 1900-1967. 
+600 10 $a Tracy, Spencer, $d 1900-1967 $v Bibliography. 
+650 #0 $a Motion picture actors and actresses $v Biography. 
+LC practice: 
+600 10 $a Tracy, Spencer, $d 1900-1967. 
+650 #0 $a Motion picture actors and actresses. 
+655 #7 $a Bio-bibliographies. $2 lcgft 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Bio-bibliography H 1328 | Page 3 
+ 
+ 
+E. Dictionaries 
+For bio-bibliographies arranged in dictionary format, use *--Bio-bibliography--Dictionaries* 
+and subdivide further by language, if appropriate, in accordance with H 1540. 
+LC practice: For bio-bibliographies arranged in dictionary format, also assign LCGFT 
+*Dictionaries*. Bring out language through the appropriate aspects of descriptive cataloging. 
+Revision history 
+2026-02: Updated template. Added instructions related to LCGFT implementation. 

@@ -1,0 +1,127 @@
+{
+  "sheet": "H 1145.5",
+  "title": "Free-floating Subdivisions: Bodies of Water",
+  "kind": "bodies-of-water",
+  "scope": "Additional topical subdivisions usable on a free-floating basis only under names of individual bodies of water (oceans, seas, bays, rivers, lakes, man-made lakes, reservoirs, estuaries, canals), in addition to appropriate subdivisions from H 1140; not under types of bodies of water or national/wild and scenic rivers",
+  "pattern_headings": [],
+  "pattern_category": "",
+  "general_notes": [
+    "Appropriate subdivisions on the list of subdivisions used under names of places, H 1140, may also be used under names of bodies of water. This list contains the additional subdivisions authorized for use only under individual bodies of water.",
+    "Any subdivision listed here can be used as a free-floating subdivision under any heading belonging to the category if it is appropriate and no conflict exists in the subject authority file. Subject authority records may exist for headings employing variant phrases or subdivisions equivalent to a subdivision on this list.",
+    "LC practice: If an exceptional variant form is to be retained, make a UF reference from the equivalent free-floating subdivision form following the procedures in H 195 if the reference does not yet exist. Otherwise, submit a proposal to change the variant form along with all bibliographic records requiring correction following the procedures in H 193.",
+    "The term *Region* may be added to existing headings for names of bodies of water to form free-floating phrase headings (cf. H 800, sec. 10); if the heading has a parenthetical qualifier, add the term before the qualifier, e.g. Tahoe, Lake, Region (Calif. and Nev.); Danube River Region; Penobscot Bay Region (Me.).",
+    "Former free-floating terms no longer valid: --Delta under names of rivers (discontinued 1991; see H 800, sec. 6); \"Estuary\" added to names of rivers (discontinued 1991; see H 800, sec. 7); \"Watershed\" added to names of rivers and lakes (discontinued March 1993; see H 800, sec. 9); \"Valley\" added to names of river systems (discontinued July 1995; see H 800, sec. 8)."
+  ],
+  "entries": [
+    {
+      "subdivision": "--Alluvial plain",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Alluvial plain"
+    },
+    {
+      "subdivision": "--Channelization",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Channelization"
+    },
+    {
+      "subdivision": "--Channels",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Channels"
+    },
+    {
+      "subdivision": "--Fertilization",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Fertilization"
+    },
+    {
+      "subdivision": "--Navigation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Navigation"
+    },
+    {
+      "subdivision": "--Navigation--Law and legislation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See H 1154.4 for further subdivisions used under legal topics.",
+      "see_also": [],
+      "consult": [
+        "H 1154.4"
+      ],
+      "endnote": "",
+      "marc": "$x Navigation $x Law and legislation"
+    },
+    {
+      "subdivision": "--Power utilization",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Power utilization"
+    },
+    {
+      "subdivision": "--Regulation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Regulation"
+    },
+    {
+      "subdivision": "--Water rights",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Water rights"
+    }
+  ]
+}

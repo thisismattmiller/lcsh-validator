@@ -1,0 +1,45 @@
+
+
+<<<PAGE 1>>>
+ 
+Territories and Possessions  H 2185 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2185 Page 1 
+ 
+September 2013 
+BACKGROUND:  Territories and possessions are those parts of a country that are subject to 
+its government but not fully integrated into the nation to which they belong.  In countries such 
+as the United States, Mexico, Brazil, and Australia, the federal government sets up governments 
+for its territories, but these jurisdictions do not have representation in the national government.  
+This instruction sheet provides guidelines for assigning the free-floating subdivision BTerritories 
+and possessions.  For instructions on cataloging works on the colonies belonging to a region 
+or country, see H 1149.5. 
+ 
+ 
+ 
+ 
+1.  General works.  Use the subdivision BTerritories and possessions under names of 
+countries or regions larger than countries for works discussing collectively the territories and 
+possessions belonging to a country or to a group of countries located within a particular region.  
+Code the subfield x.  Example: 
+ 
+Title:  Australia's island territories. 
+651 #0 $a Australia $x Territories and possessions. 
+ 
+Do not use the subdivision BTerritories and possessions for works on an individual territory or 
+possession.  For such works, assign the name of the territory or possession with appropriate 
+subdivision or the topical subject divided by the name of the territory or possession, for example, 
+Puerto RicoBHistoryB1898-1952; GroundwaterBUnited States Virgin Islands. 
+   
+ 
+  
+2.  Topical subjects.  For works on topics pertaining to the territories and possessions of a 
+country or region larger than a country, subdivide headings of the type [topic]B[place] by 
+BTerritories and possessions.  Example: 
+ 
+Title:  Territorial energy assessment. 
+650 #0 $a Power resources $z United States $x Territories 
+            and possessions. 

@@ -1,0 +1,415 @@
+
+
+<<<PAGE 1>>>
+ 
+Music of Ethnic, National, and Religious Groups  H 1917 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1917 Page 1 
+ 
+May 2021 
+BACKGROUND:  This instruction sheet provides guidelines for assigning subject headings to 
+works that consist of or discuss the music of ethnic groups, music with national emphasis, 
+religious music of certain groups, and non-Western art music, including works about the musical 
+instruments of these groups.  For instructions on song texts published without the music, see 
+H 2190, sec. 2. 
+ 
+ 
+1. Assignment of headings. 
+ 
+a.  General rule.  Assign as appropriate a combination of headings from the following 
+categories to the types of works described above: 
+ 
+ 
+ 
+650 #0 $a [ethnic or national group] $z [place] $v Music. 
+ 
+ 
+650 #0 $a [heading(s) for music of individual religious          
+            group(s)] $z [place]. 
+ 
+ 
+650 #0 $a [heading(s) for musical genre, type, or style, for 
+                ballads and songs, or for songs implying national 
+                emphasis]. 
+ 
+ 
+650 #0 $a [heading(s) qualified by language of text, such as  
+ 
+650 #0 $a Ballads, English.  
+650 #0 $a Folk songs, Abor. 
+650 #0 $a Songs, Ndebele (Zimbabwe) 
+ 
+ 
+650 #0 $a Musical instruments $z [place]. 
+   
+ 
+[other headings, as applicable] 
+ 
+ 
+b.  Special provisions. 
+ 
+(1) Musical works.  Assign to musical works headings in the first and/or second 
+categories and in the third category in the General rule above.  Assign headings 
+from the remaining categories as appropriate for the work. 
+ 
+ 
+To works that consist of the texts of ballads, folk songs, or songs of ethnic groups, 
+assign only headings in the fourth category, with the form subdivision –Texts. 
+
+
+<<<PAGE 2>>>
+H 1917  Music of Ethnic, National, and Religious Groups 
+ 
+ 
+ 
+H 1917 Page 2 
+Subject Headings Manual 
+May 2021 
+1. Assignment of headings. 
+ 
+b.  Special provisions.  (Continued) 
+ 
+(2) Works about the music of ethnic and national groups.  To such works, 
+assign headings in all the categories, as applicable, with appropriate subdivisions 
+such as –History and criticism, –Bibliography, –Discography, etc. 
+ 
+Although most general works about ethnic or national music include some 
+discussion of musical instruments, do not assign the subject heading Musical 
+instruments unless at least twenty percent of the work is devoted to the musical 
+instruments themselves.  Assign headings in the fifth category to works solely 
+about the musical instruments of a people. 
+ 
+ 
+2. Explanation of the categories of headings listed in sec. 1.a. 
+ 
+a.  Ethnic or national group. 
+ 
+(1) General rule.  Assign headings of the type [ethnic or national group]–[place, 
+if appropriate]–Music.  Examples: 
+ 
+650 #0 $a Kabre (African people) $v Music. 
+650 #0 $a Germans $z Hungary $v Music. 
+650 #0 $a African Americans $z Louisiana $v Music. 
+ 
+(2) National groups in their own country.  Do not assign headings of this type to 
+an individual nationality within its own country.  Headings for musical type or 
+style, etc., with geographic subdivision are generally sufficient. 
+ 
+(3) American Indians.  For American Indian music, assign the heading for the 
+specific tribe, if any, or for the major group if the work is not limited to a specific 
+tribe.  Examples: 
+ 
+650 #0 $a Navajo Indians $v Music. 
+650 #0 $a Indians of North America $z New Mexico  
+          $v Music. 
+ 
+Note: The practice of assigning two headings, one for the major group 
+and one for the tribe, was discontinued. 
+
+
+<<<PAGE 3>>>
+ 
+Music of Ethnic, National, and Religious Groups  H 1917 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1917 Page 3 
+ 
+May 2021 
+ 
+2. Explanation of the categories of headings listed in sec. 1.a.  (Continued) 
+ 
+(4) African Americans. Do not assign headings of this type of works by African 
+Americans unless doing so reflects explicit information on the resource being 
+cataloged.  Headings for musical type or style, etc., are generally sufficient.  
+Examples: 
+ 
+Title:  African American song. 
+  650 #0 $a African Americans $v Music. 
+ 
+Title:  Black vocal groups: complete recorded works in chronological 
+order 
+  650 #0 $a Spirituals (Songs) 
+  650 #0 $a Gospel music. 
+ 
+b.  Music of individual religious groups.  Assign headings such as Hindu music to 
+music of or general works about the music of individual religious groups.  Add an 
+appropriate subdivision to the heading for works about the music, according to the 
+provisions of H 1160.  Also assign headings for specific musical forms or genres where 
+appropriate, for example, Buddhist hymns.  Do not assign such headings to the music 
+of or about Christian denominations. 
+ 
+ 
+c.  Genre, type, or style of music. 
+ 
+(1) General rule. Assign a heading of the following broad type, with geographic 
+subdivision: 
+ 
+650 #0 $a Music. 
+650 #0 $a Folk music. 
+ 
+ 
+650 #0 $a Popular music. 
+650 #0 $a Dance music. 
+650 #0 $a Folk dance music. 
+650 #0 $a Patriotic music. 
+ 
+Note:  The practice of assigning the headings for folk music to the music 
+of cultures where art music, popular music, or folk music, are not 
+differentiated has been discontinued.  Instead, the general term “music” 
+is used.  Headings for folk music or popular music are assigned as may 
+be appropriate to the music of cultures that make such distinctions. 
+
+
+<<<PAGE 4>>>
+H 1917  Music of Ethnic, National, and Religious Groups 
+ 
+ 
+ 
+H 1917 Page 4 
+Subject Headings Manual 
+May 2021 
+ 
+2. Explanation of the categories of headings listed in sec. 1.a.  (Continued) 
+ 
+(2)  Additional headings.  Assign other headings as needed.  Examples: 
+ 
+ 
+650 #0 $a Bagpipe music. 
+650 #0 $a Buddhist hymns. 
+650 #0 $a Children’s songs. 
+650 #0 $a Flamenco music. 
+650 #0 $a Hunting songs. 
+650 #0 $a Kumiuta. 
+650 #0 $a Ragas. 
+650 #0 $a Sarod music. 
+650 #0 $a Satirical songs. 
+ 
+d.   Place and language. 
+ 
+(1)  National groups outside their own country.  For national groups in 
+countries other than their own, assign headings to bring out both localities.  
+Example: 
+ 
+Title: A Colorado Dutch hop sampler. 
+650 #0 $a German Americans $z Colorado $v Music. 
+650 #0 $a Folk music $z Colorado. 
+650 #0 $a Folk music $z Germany. 
+ 
+(2)  Qualification by language of text.  If the work is composed entirely or 
+primarily of ballads, folk songs, children’s songs, or songs, assign up to two 
+headings for that form qualified by the original language of the text.  Do not 
+bring out the language into which original texts may be translated, and do not use 
+the subdivision –Translations into [language] under these headings.  Add a 
+geographic subdivision if appropriate.  Examples: 
+ 
+650 #0 $a Ballads, Irish $z Ireland. 
+650 #0 $a Children=s songs, Swahili. 
+650 #0 $a Folk songs, Swedish $z Finland. 
+650 #0 $a Songs, Spanish. 
+ 
+However, when three or more languages are represented, do not assign a language 
+qualifier unless the languages are related.  In that case, assign the heading with a 
+qualifier for the language group.  Examples: 
+ 
+650 #0 $a Ballads, Slavic. 
+650 #0 $a Folk songs, Scandinavian. 
+
+
+<<<PAGE 5>>>
+ 
+Music of Ethnic, National, and Religious Groups  H 1917 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1917 Page 5 
+ 
+May 2021 
+2. Explanation of the categories of headings listed in sec. 1.a. 
+ 
+  
+d.   Place and language. 
+ 
+(2)  Qualification by language of text.  (Continued) 
+ 
+If three or more languages are present and they do not conform to the provision 
+for related languages described above, or if there is a combination of related and 
+unrelated languages, do not use a language qualifier.  Also do not qualify by 
+language of text song headings implying national emphasis, such as National 
+songs; Political ballads and songs; Revolutionary ballads and songs; War 
+songs.  Do subdivide geographically if appropriate.  Examples: 
+ 
+650 #0 $a National songs $z Denmark $x History and     
+     criticism. 
+650 #0 $a Revolutionary ballads and songs $z China $z  
+     Anhui Sheng. 
+ 
+e.  Musical instruments. 
+ 
+(1) General rule.  Assign the following combination of headings to works solely 
+about the musical instruments of a people: 
+ 
+650 #0 $a [ethnic or national group] $z [place]  
+            $x Music $x History and criticism. 
+650 #0 $a Musical instruments $z [place]. 
+650 #0 $a [specific musical instrument(s), if  
+            applicable]. 
+ 
+Note:  Do not use the subdivision –History and criticism under the 
+heading Musical instruments or under headings for specific musical 
+instruments.  Instead, use the subdivision –History when appropriate.  
+See also H 1161. 
+ 
+(2) National groups outside their own country.  For national groups in countries 
+other than their own, assign a heading of the type Musical instruments–[place] 
+for each of the two localities involved.  Example: 
+ 
+Title: Irish immigrant musicians in Australia. 
+650 #0 $a Irish $z Australia $x Music $x History 
+            and criticism.   
+650 #0 $a Musical instruments $z Australia.   
+650 #0 $a Musical instruments $z Ireland. 
+
+
+<<<PAGE 6>>>
+H 1917  Music of Ethnic, National, and Religious Groups 
+ 
+ 
+ 
+H 1917 Page 6 
+Subject Headings Manual 
+May 2021 
+2. Explanation of the categories of headings listed in sec. 1.a. 
+ 
+e.  Musical instruments. 
+ 
+(2) National groups outside their own country.  (Continued) 
+ 
+Assign the following combination of headings to works about the musical 
+instruments of national groups discussed from a global standpoint. 
+ 
+650 #0 $a [national group] $z Foreign countries $x Music $x 
+History and criticism. 
+650 #0 $a Musical instruments $z [place of origin]. 
+650 #0 $a [specific musical instrument(s), if applicable]. 
+ 
+3.  Examples. 
+ 
+Title:  Quechua songs of Peru. 
+650 #0 $a Quechua Indians $v Music.   
+650 #0 $a Songs, Quechua $z Peru. 
+650 #0 $a Music $z Peru. 
+ 
+ 
+Title:  Black American music. 
+650 #0 $a African Americans $x Music $x History and  
+            criticism. 
+650 #0 $a Music $z United States $x History and criticism. 
+ 
+ 
+Title:  Songs and dances of Quebec. 
+650 #0 $a French-Canadians $v Music.   
+650 #0 $a Folk music $z Québec (Province)  
+650 #0 $a Folk dance music $z Québec (Province)  
+650 #0 $a Folk songs, French $z Québec (Province) 
+ 
+ 
+Title:  Musique kabiyè, Togo. 
+650 #0 $a Kabre (African people) $v Music. 
+650 #0 $a Music $z Togo. 
+ 
+ 
+Title:  Traditional and modern music of the Maori. 
+650 #0 $a Maori (New Zealand people) $x Music $x History and 
+            criticism.   
+650 #0 $a Folk music $z New Zealand $x History and  
+            criticism.   
+650 #0 $a Music $z New Zealand $x History and criticism. 
+
+
+<<<PAGE 7>>>
+ 
+Music of Ethnic, National, and Religious Groups  H 1917 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1917 Page 7 
+ 
+May 2021 
+ 
+3.  Examples.  (Continued) 
+ 
+ 
+Title:  Spinnstubenlieder; Lieder der Frauengemeinschaften in den 
+ 
+ 
+Magyarischen Sprachinseln im Burgenland. 
+650 #0 $a Hungarians $z Austria $z Burgenland $x Music  
+            $x History and criticism. 
+650 #0 $a Folk music $z Austria $z Burgenland $x History and 
+            criticism.   
+650 #0 $a Folk music $z Hungary $x History and criticism.   
+650 #0 $a Folk songs, Hungarian $z Austria $z Burgenland  
+            $x History and criticism. 
+ 
+Title:  Introduction to shamisen kumiuta. 
+650 #0 $a Kumiuta $x History and criticism. 
+650 #0 $a Music $z Japan $x History and criticism.   
+650 #0 $a Songs, Japanese $z Japan $x History and criticism. 
+ 
+ 
+Title:  The art of Portuguese fado. 
+650 #0 $a Fados. 
+650 #0 $a Music $z Portugal. 
+650 #0 $a Folk songs, Portuguese $z Portugal. 
+ 
+ 
+Title:  Classical Japanese koto music. 
+650 #0 $a Koto music. 
+650 #0 $a Music $z Japan. 
+ 
+ 
+Title:  The music, songs, and instruments of the Acoli people of Uganda. 
+650 #0 $a Acoli (African people) $x Music $x History and 
+            criticism. 
+650 #0 $a Music $z Uganda $x History and criticism.   
+650 #0 $a Songs, Acoli $z Uganda $x History and criticism. 
+650 #0 $a Musical instruments $z Uganda. 
+ 
+ 
+Title:  Amsterdams chazzanoet; synagogale muziek van de Ashkenazische 
+gemeente. 
+650 #0 $a Ashkenazim $z Netherlands $z Amsterdam $v Music. 
+650 #0 $a Synagogue music $z Netherlands $z Amsterdam. 
+650 #0 $a Jewish chants. 
+ 
+ 
+
+
+<<<PAGE 8>>>
+H 1917  Music of Ethnic, National, and Religious Groups 
+ 
+ 
+ 
+H 1917 Page 8 
+Subject Headings Manual 
+May 2021 
+3.  Examples.  (Continued) 
+ 
+Title:  Bukkyō seika. 
+650 #0 $a Buddhist hymns, Japanese. 
+650 #0 $a Buddhist music $z Japan. 
+650 #0 $a Choruses, Sacred. 
+ 
+ 
+Title:  Songs and gifts at the frontier : person and exchange in the Agusan 
+Manobo possession ritual, Philippines. 
+650 #0 $a Songs, Agusan Manobo $x History and criticism. 
+650 #0 $a Manobos (Philippine people) $x Music $x Social 
+            aspects. 

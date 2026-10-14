@@ -1,0 +1,424 @@
+
+
+<<<PAGE 1>>>
+ 
+Appendix A: Abbreviations 
+  
+ 
+ 
+Subject Headings Manual 
+Appendix A Page 1 
+ 
+September 2013  
+BACKGROUND:  In order to facilitate filing and searching in online systems, most of the 
+standard abbreviations formerly used in subject headings were discontinued in 1969, with a few 
+exceptions.  Other abbreviations were changed as a result of the adoption of AACR2 in 1981.  
+This instruction sheet describes the present status of abbreviations in subject heading practice.  
+For guidelines on punctuation and spacing of abbreviations, see Appendix D. 
+ 
+ 
+ 
+ 
+1.  Policy for headings established in the subject authority file.  Generally, do not include 
+abbreviations when establishing new subject headings, except when specifically authorized in 
+this instruction sheet. 
+ 
+ 
+2.  Policy for headings established in the name authority file and used as subject headings.  
+When assigning personal, corporate body, or jurisdictional name headings as subject headings, 
+assign them exactly as they appear in name authority records, including all abbreviations. 
+ 
+ 
+LC practice: 
+3.  Correction of existing records and headings in the subject authority file.  When an error 
+involving an abbreviation on a bibliographic record is encountered, update the record following 
+standard correction procedures.  When an obsolete heading involving an abbreviation is 
+encountered in the subject authority file, change it according to the provisions of H 193. 
+ 
+ 
+4.  Form and topical subdivisions with abbreviations.  Many standard subdivisions were 
+formerly abbreviated on LC cards, and may still be encountered when working with pre-1970 
+records.  Spell out in full all topical and form subdivisions when assigning headings to new 
+works being cataloged.  Use no abbreviations in form or topical subdivisions except etc. (cf. sec. 
+9, below).  Examples: 
+ 
+$x Description and travel 
+[not  $x Desc. & trav.] 
+$x History and criticism 
+[not  $x Hist. & crit.] 
+$x Periodicals 
+ 
+ 
+[not  $x Period.] 
+$x Politics and government 
+[not  $x Pol. & govt.] 
+   
+ 
+$x Social life and customs 
+[not  $x Soc. life & cust.] 
+
+
+<<<PAGE 2>>>
+Appendix A: Abbreviations 
+ 
+ 
+ 
+Appendix A Page 2 
+Subject Headings Manual 
+September 2013 
+5.  Acronyms, initialisms, etc.  Establish concepts that are known primarily in an abbreviated 
+form as such.  Use the form of the abbreviation, acronym, etc., preferred in reference sources.  
+Add a 4XX field with the spelled out form.  Examples: 
+ 
+150 ## $a C.O.D. shipments 
+450 ## $a Cash on delivery shipments 
+450 ## $a Collect on delivery shipments 
+ 
+150 ## $a DBS/R (Computer system) 
+450 ## $a Datenbankbetriebssystem Robotron (Computer 
+          system) 
+ 
+150 ## $a DC-to-DC converters 
+450 ## $a Direct current-to-direct current converters 
+ 
+150 ## $a DDT (Insecticide) 
+450 ## $a Dichlorodiphenyltrichloroethane 
+ 
+150 ## $a MARC formats 
+450 ## $a Machine-Readable Cataloging formats 
+ 
+150 ## $a T-shirts 
+450 ## $a Tee shirts 
+ 
+6.  Ampersands.  Use ampersands in the following situations: 
+ 
+$ Name headings assigned as subjects.  When assigning a name heading established 
+with an ampersand as a subject heading, retain the ampersand.  Examples: 
+ 
+610 20 $a Black & Decker Manufacturing Company (Towson, Md.) 
+610 20 $a C.S. Wertsner & Son. 
+610 20 $a Dow Jones & Co. 
+ 
+$ Subject headings for named entities.  When establishing a subject heading for a 
+proper- named entity tagged 110 or 151, establish it using an ampersand if the name 
+is found only in that form in all sources consulted.  Add a 4XX field with the 
+ampersand spelled out as and.  If the name is found in both a form that uses the 
+ampersand and a form where and is spelled out, establish the heading using the 
+spelled out form.  Add a 4XX field using the ampersand form.  Examples: 
+ 
+151 ## $a E & E Ranch (Tex.) [no other form found] 
+451 ## $a E and E Ranch (Tex.) 
+
+
+<<<PAGE 3>>>
+ 
+Appendix A: Abbreviations 
+  
+ 
+ 
+Subject Headings Manual 
+Appendix A Page 3 
+ 
+September 2013  
+6.  Ampersands. 
+ 
+$ Subject headings for named entities. 
+ 
+Examples:  (Continued)  
+ 
+151 ## $a Chesapeake and Ohio Canal (Md. and Washington, 
+            D.C.) 
+451 ## $a C & O Canal (Md. and Washington, D.C.) 
+451 ## $a C and O Canal (Md. and Washington, D.C.) 
+451 ## $a Chesapeake & Ohio Canal (Md. and Washington, D.C.) 
+ 
+$ Topical subject headings based on name headings.  When establishing a topical 
+subject heading that is based on a name heading that includes an ampersand, retain 
+the ampersand.  Examples: 
+ 
+150 ## $a Currier & Ives dinnerware 
+150 ## $a Bil & traktor (Firm) Strike, 1978 
+ 
+Do not use ampersands in the following situations: 
+ 
+$ Topical or form headings or subdivisions.  When establishing a form or topical 
+heading tagged 150 (except those based on name headings, as noted above), spell out 
+the word and.  When establishing or assigning a form or topical subdivision, spell 
+out the word and.  For example, use BHistory and criticism, not BHist. & crit.   
+ 
+$ Geographic qualifiers.  Spell out the word and when it is used to connect two 
+elements in the qualifier of a geographic heading.  For example, use Harding, Lake 
+(Ga. and Ala.), not Harding, Lake (Ga. & Ala.). 
+ 
+ 
+7.  Coined plurals.  Form the plurals of letters and acronyms by adding the lowercase letter s 
+without an apostrophe, provided that the resulting construction is clear and unambiguous.  
+Examples: 
+ 
+150 ## $a Biological response modifiers 
+450 ## $a BRMs (Biochemistry) 
+ 
+150 ## $a Threshold limit values (Industrial toxicology) 
+450 ## $a TLVs (Industrial toxicology) 
+ 
+ 
+
+
+<<<PAGE 4>>>
+Appendix A: Abbreviations 
+ 
+ 
+ 
+Appendix A Page 4 
+Subject Headings Manual 
+September 2013 
+8.  Dates. 
+ 
+a.  Anno Domini; Before Christ.  Use the abbreviations A.D. and B.C., when 
+appropriate, but only after a specific year or span of years.  Add A.D. to dates only if the 
+dates in question span both B.C. and A.D.  Add B.C. to all B.C. dates.  If a date span is 
+B.C., add B.C. only to the end of the span.  Examples: 
+ 
+651 #0 $a Egypt $x History $y 332-30 B.C.   
+651 #0 $a China $x History $y Han dynasty, 202 B.C.-220 A.D. 
+ 
+b.  [...] century.  Spell out the word century in full.  Examples: 
+ 
+650 #0 $a English literature $y 20th century. 
+650 #0 $a Twenty-first century. 
+ 
+c.  Circa.  Use the abbreviation ca. in period subdivisions, placing it before the date to 
+which it refers.  Examples: 
+ 
+651 #0 $a United States $x History $y Colonial period, ca. 
+            1600-1775. 
+650 #0 $a Church history $y Primitive and early church, ca. 
+            30-600. 
+600 30 $a Hoysala dynasty, ca. 1006-ca. 1346. 
+ 
+d.  Names of months.  Spell out names of months in full in subject headings and 
+subdivisions.  Examples: 
+ 
+651 #0 $a Bulgaria $x History $y September Uprising, 1944. 
+600 10 $a Ford, Gerald R., $d 1913-2006 $x Assassination 
+            attempt, 1975 (September 5)  
+ 
+Use name headings with abbreviated months if they appear in that form in name authority 
+records.  Example: 
+ 
+610 10 $a Italy $k Treaties, etc. $g Yugoslavia,  
+            1975 Nov. 18. 
+ 
+9.  Doctor; Doctor of [...].  Use the abbreviation used in the name authority record.  Examples: 
+ 
+610 20 $a Dr. Williams's Library $v Catalogs. 
+600 10 $a Francis, John, $c Dr. $x Art collections. 
+600 10 $a Hartmann, Peter, $c Dr. jur. $x Poster collections. 
+600 10 $a Grant, David, $c M.D. 
+
+
+<<<PAGE 5>>>
+ 
+Appendix A: Abbreviations 
+  
+ 
+ 
+Subject Headings Manual 
+Appendix A Page 5 
+ 
+September 2013  
+10.  Et cetera.  Use the abbreviation etc. in headings and subdivisions.  Examples: 
+ 
+650 #0 $a Law reports, digests, etc. $z United States. 
+650 #0 $a Surveying $v Handbooks, manuals, etc.   
+ 
+11.  Geographic qualifiers.  Most geographic headings are qualified by the name of the larger 
+geographic unit.  Jurisdictions that are to be abbreviated when used as geographic qualifiers are 
+listed in H 810.  Examples: 
+ 
+651 #0 $a West (U.S.) 
+651 #0 $a Harpers Ferry (W. Va.) 
+651 #0 $a Harry S. Truman Dam (Mo.)  
+651 #0 $a Red River (Tex.-La.) 
+ 
+12.  Great Britain.  Spell out in full.  The abbreviation Gt. Brit. is not authorized by RDA. 
+Examples: 
+ 
+651 #0 $a Great Britain $x History.  
+ [not 
+651 #0 $a Gt. Brit. $x Hist.] 
+ 
+650 #0 $a Women artists $z Great Britain. 
+ [not 650 #0 $a Women artists $z Gt. Brit.] 
+ 
+610 20 $a Labour Party (Great Britain) 
+ [not 610 20 $a Labour Party (Gt. Brit.)] 
+ 
+610 10 $a Great Britain. $b Royal Navy. 
+ [not 610 10 $a Gt. Brit. $b Royal Navy.] 
+ 
+13.  Mount; Mountain; Mountains.  Spell out in full in subject headings for geographic 
+features.  Examples: 
+ 
+651 #0 $a Fuji, Mount (Japan) 
+651 #0 $a Signal Mountain (Tenn.) 
+651 #0 $a Appalachian Mountains. 
+ 
+Use name headings with abbreviations if they appear in that form in name authority records.  
+Example: 
+ 
+610 10 $a Mt. Lebanon School District (Mount Lebanon, Pa.) 
+
+
+<<<PAGE 6>>>
+Appendix A: Abbreviations 
+ 
+ 
+ 
+Appendix A Page 6 
+Subject Headings Manual 
+September 2013 
+14.  Mr.; Mrs.  Use name headings with the abbreviations Mr. or Mrs. if they appear in that 
+form in name authority records.  Examples: 
+ 
+610 20 $a Mr. A's Boys' Ranch $x History. 
+600 00 $a Mr. Lucky. $t Trick dog training. 
+600 10 $a Downing, Clyde, $c Mrs. $x Art collections $v Catalogs. 
+ 
+ 
+ 
+ 
+ 
+15.  Numerals. 
+   
+a.  Cardinal and roman numerals.  Spell out cardinal and roman numerals.  
+Examples:  
+ 
+650 #0 $a One (The number) 
+650 #0 $a Three-dimensional display systems. 
+650 #0 $a Zero (The number) 
+ 
+Exceptions: 
+ 
+$ When reference sources indicate that a numeral in a specific phrase is not 
+normally spelled out, establish and assign the heading in that form.  
+Examples: 
+ 
+650 #0 $a 35mm cameras. 
+650 #0 $a 4-H clubs. 
+650 #0 $a TRS-80 Model III (Computer) 
+ 
+ 
+$ For buildings established under their street addresses, numerals may be used.  
+Example: 
+ 
+610 20 $a 14 Wall Street (New York, N.Y.) 
+ 
+
+
+<<<PAGE 7>>>
+ 
+Appendix A: Abbreviations 
+  
+ 
+ 
+Subject Headings Manual 
+Appendix A Page 7 
+ 
+September 2013  
+15.  Numerals.  (Continued) 
+ 
+b.  Ordinal numerals.  Spell out an ordinal numeral if it is the initial element of a 
+heading.  Examples: 
+ 
+650 #0 $a First communion. 
+650 #0 $a Fourth of July. 
+650 #0 $a Fifteenth century. 
+650 #0 $a Twenty-first century. 
+650 #0 $a Twelfth Avenue (Seattle, Wash.) 
+ 
+Exceptions:   
+ 
+$ When reference sources indicate that a numeral in a specific phrase is not 
+normally spelled out, establish and assign the heading in that form.  
+Example: 
+ 
+650 #0 $a 20th Century Limited (Express train) 
+ 
+$ For streets that have numerical names above one hundred, ordinal numerals 
+may be abbreviated.  Example: 
+ 
+651 #0 $a 114th Street (Edmonton, Alta.) 
+ 
+Record ordinal numerals not in the initial position in a heading in the form lst, 2nd, 3rd, 
+4th, etc.  Examples: 
+ 
+650 #0 $a Dacian War, 1st, 101-102. 
+650 #0 $a Dacian War, 2nd, 105-106. 
+650 #0 $a Church history $y 3rd century. 
+651 #0 $a United States $x Social life and customs  
+            $y 20th century. 
+ 
+ 
+ 
+16.  Saint (including foreign equivalents).  Spell out in full in subject headings.  Examples: 
+ 
+650 #0 $a Saint Bernard dog. 
+651 #0 $a Saint Lawrence River. 
+651 #0 $a Saint Ninian's Island (Scotland) 
+600 30 $a Saint John family. 
+ 
+ 
+
+
+<<<PAGE 8>>>
+Appendix A: Abbreviations 
+ 
+ 
+ 
+Appendix A Page 8 
+Subject Headings Manual 
+September 2013 
+16.  Saint (including foreign equivalents).  (Continued) 
+ 
+When assigning name headings as subjects, use the headings exactly as they appear in name 
+authority records.  Examples: 
+ 
+610 20 $a Federal Reserve Bank of St. Louis. 
+610 20 $a Saint Louis Museum of Fine Arts. 
+630 #0 $a St. Louis post-dispatch. 
+610 20 $a Eglise de St-Joachim (Saint-Joachim, Québec) 
+ 
+[no period after St] 
+651 #0 $a St. Andrews (Scotland) 
+ 
+17.  United States.  Spell out in full in subject headings.  Examples: 
+ 
+651 #0 $a United States $x Economic conditions. 
+651 #0 $a France $x Foreign relations $z United States. 
+650 #0 $a Progressivism (United States politics) 
+650 #0 $a Certificate of Merit (United States Army) 
+ 
+Exception:  As a geographic qualifier, United States is abbreviated (U.S.).  Examples: 
+ 
+651 #0 $a Atlantic Coast (U.S.) 
+651 #0 $a West (U.S.) 
+650 #0 $a Coal Miners' Strike, U.S., 1949-1950. 
+650 #0 $a Distinguished Service Cross (U.S.) 
+ 
+When assigning name headings as subjects, use the headings exactly as they appear in name 
+authority records.  Examples: 
+ 
+610 10 $a United States. $b Congress. $b House.   
+610 10 $a United States. $b Department of Agriculture. 
+ 
+610 20 $a U.S. Army Engineer Topographic Laboratories.   
+610 20 $a U.S. Nuclear Regulatory Commission. 
+ 
+610 20 $a US Army Military Police School.   
+610 20 $a US-USSR Joint Symposium on Myocardial Metabolism. 
+ 
+610 20 $a Chemical Center and School (U.S.)  
+610 10 $a Ryukyu Islands (United States Civil  
+            Administration, 1950-1972). $b Office of the High 
+            Commissioner. 

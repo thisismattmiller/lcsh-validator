@@ -1,0 +1,221 @@
+{
+  "sheet": "H 1186",
+  "title": "Pattern Headings: Religious and Monastic Orders",
+  "kind": "pattern",
+  "scope": "Free-floating subdivisions used under names of individual religious and monastic orders (male and female, all religions) established as corporate bodies in the name authority file; H 1105 subdivisions are also free-floating under them.",
+  "pattern_headings": [
+    "Jesuits"
+  ],
+  "pattern_category": "individual religious and monastic orders",
+  "general_notes": [
+    "RELATION TO H 1105:  Subdivisions on the list of free-floating subdivisions used under names of individual corporate bodies, H 1105, are also free-floating under individual religious and monastic orders where there is no conflict.  This list contains additional subdivisions appropriate for religious and monastic orders.",
+    "CONFLICTS: Any subdivision listed here can be used as a free-floating subdivision under any heading belonging to the category if it is appropriate and no conflict exists in the subject authority file.  Subject authority records may exist for headings employing variant phrases or subdivisions equivalent to subdivisions on this list.",
+    "Note:  Most form subdivisions coded $v in this list may also be used as topical subdivisions coded $x when assigned to works about the form (see H 1075, sec. 1.d.)."
+  ],
+  "entries": [
+    {
+      "subdivision": "--Bio-bibliography",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Bio-bibliography"
+    },
+    {
+      "subdivision": "--Controversial literature",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Controversial literature"
+    },
+    {
+      "subdivision": "--Controversial literature--History and criticism",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Controversial literature $x History and criticism"
+    },
+    {
+      "subdivision": "--Customs and practices",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Customs and practices"
+    },
+    {
+      "subdivision": "--Education",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Education"
+    },
+    {
+      "subdivision": "--Liturgy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Liturgy"
+    },
+    {
+      "subdivision": "--Liturgy--Texts",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Liturgy $v Texts"
+    },
+    {
+      "subdivision": "--Missions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Missions"
+    },
+    {
+      "subdivision": "--Nazi persecution",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Nazi persecution"
+    },
+    {
+      "subdivision": "--Necrology",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Necrology"
+    },
+    {
+      "subdivision": "--Occupations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Occupations"
+    },
+    {
+      "subdivision": "--Portraits",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Portraits"
+    },
+    {
+      "subdivision": "--Prayers and devotions",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Prayers and devotions"
+    },
+    {
+      "subdivision": "--Prayers and devotions--History and criticism",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Prayers and devotions $x History and criticism"
+    },
+    {
+      "subdivision": "--Rules",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$v Rules"
+    },
+    {
+      "subdivision": "--Spiritual life",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Spiritual life"
+    },
+    {
+      "subdivision": "--Theology",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "marc": "$x Theology"
+    }
+  ]
+}

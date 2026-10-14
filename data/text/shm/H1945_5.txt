@@ -1,0 +1,138 @@
+
+
+<<<PAGE 1>>>
+ 
+Posters  H 1945.5 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1945.5 Page 1 
+ 
+June 2013 
+BACKGROUND:  The term posters was used originally in England in the 19th century to refer 
+to printed sheets of paper combining text and illustrations that were displayed in public places 
+as announcements or advertisements.  Since World War II, a new kind of poster has evolved, 
+sometimes without text, that has advertising or promotional aims, but is a vehicle for 
+philosophical, moral, or purely aesthetic messages.  This instruction sheet provides guidelines 
+for assigning an array of headings to individual posters and collections and/or discussions of 
+posters depicting special topics, themes, products, events, etc.  It does not cover posters treated 
+purely as an art form.  For instructions on cataloging these posters, see H 1250. 
+ 
+ 
+ 
+ 
+ 
+1.  BPosters.  Assign the free-floating subdivision BPosters under names of individual places, 
+persons and corporate bodies, classes of persons, ethnic groups, topical subjects, and wars for 
+individual posters and collections and/or discussions of posters about these subjects.  Code the 
+subdivision as a $v subfield for individual posters or collections of posters, and as an $x subfield 
+for discussions of posters.  Examples: 
+ 
+ 
+650 #0 $a Automobile racing $x Posters. 
+610 20 $a Beatles $v Posters. 
+600 10 $a Castro, Fidel, $d 1926- $x Posters. 
+650 #0 $a Industrial safety $z Poland $x Posters. 
+651 #0 $a Outer space $v Posters. 
+610 20 $a Socialist Party of Ireland $x Posters. 
+650 #0 $a World War, 1939-1945 $v Posters. 
+ 
+ 
+2.  Phrase headings.  Certain broad categories of posters have been established as phrase 
+headings.  Assign phrase headings to individual posters and collections and/or discussions of 
+these types of posters.  Examples: 
+ 
+ 
+650 #0 $a Dance posters. 
+650 #0 $a Film posters. 
+650 #0 $a Political posters. 
+650 #0 $a Sports posters. 
+650 #0 $a Theatrical posters. 
+650 #0 $a Travel posters. 
+650 #0 $a War posters. 
+
+
+<<<PAGE 2>>>
+H 1945.5  Posters 
+ 
+ 
+ 
+H 1945.5 Page 2 
+Subject Headings Manual 
+June 2013 
+3.  Nationality.  To individual posters and collections and/or discussions of posters produced by 
+artists of a particular nationality, assign a phrase heading for the specific type of poster, qualified 
+by the nationality.  Examples: 
+ 
+650 #0 $a Political posters, French. 
+650 #0 $a Theatrical posters, German. 
+ 
+If the posters do not belong to a specific type and a phrase heading cannot be used, assign the 
+heading Posters, qualified by the nationality.  Examples: 
+ 
+650 #0 $a Posters, American. 
+650 #0 $a Posters, Polish. 
+ 
+Subdivide headings of this type by the place of origin only if it is necessary to bring out a 
+particular place that is not expressed in the nationality qualifier, for example, Posters, 
+FrenchBFranceBParis. 
+ 
+ 
+4.  Assigning an array of headings. 
+ 
+a.  General.  To individual posters and collections and/or discussions of posters, assign 
+an array of headings to bring out the theme, type, and nationality of the posters.  Usually 
+at least two headings will be required to cover all aspects of the work.  Examples: 
+ 
+Title:  Affiches. 
+610 20 $a Parti socialiste (France) $x Posters. 
+650 #0 $a Socialism $z France $x Posters. 
+650 #0 $a Political posters, French. 
+ 
+Title:  100 posters of Buffalo Bill's Wild West. 
+600 00 $a Buffalo Bill, $d 1846-1917 $v Posters. 
+610 20 $a Buffalo Bill's Wild West Company $v Posters. 
+650 #0 $a Posters, American. 
+ 
+Title:  Poster propaganda : contemporary political posters. 
+650 #0 $a World politics $y 20th century $x Posters. 
+650 #0 $a Political posters, German. 
+ 
+Title:  Paris theatrical posters. 
+650 #0 $a Theatrical posters, French $z France  
+            $z Paris. 
+
+
+<<<PAGE 3>>>
+ 
+Posters  H 1945.5 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1945.5 Page 3 
+ 
+June 2013 
+4.  Assigning an array of headings.  (Continued) 
+ 
+b.  Travel posters.  To individual posters and collections and/or discussions of travel 
+posters, assign a heading of the type Travel posters, [nationality] to bring out the place 
+where the posters were produced and, if appropriate, headings for the place depicted in 
+the posters, the company issuing the posters, etc.  Examples: 
+ 
+ 
+Title:  15 posters for Air France. 
+650 #0 $a Travel posters, French. 
+610 20 $a Air France $v Posters. 
+ 
+ 
+Title:  Switzerland in posters. 
+651 #0 $a Switzerland $x Posters. 
+650 #0 $a Travel posters, American. 
+ 
+ 
+5.  Poster collections.  For instructions on assigning headings to discussions of individual poster 
+collections, see H 1427.  For instructions on assigning headings to catalogs of individual poster 
+collections, see H 1360 and H 1427. 
+ 

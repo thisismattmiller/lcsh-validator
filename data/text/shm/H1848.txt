@@ -1,0 +1,53 @@
+
+
+<<<PAGE 1>>>
+ 
+Longitudinal Studies  H 1848 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1848 Page 1 
+ 
+June 2013 
+DEFINITION:  Longitudinal studies are case studies in which variables related to a topic or 
+group of people are assessed over a period of time or observed at successive stages in order to 
+determine change or stability.  Such studies may follow the development of trends or evaluate 
+the effects of stimuli, events, or experience. 
+ 
+ 
+ 
+ 
+1.  General usage of BLongitudinal studies.  Use the free-floating subdivision BLongitudinal 
+studies as either a form or a topical subdivision under topical headings and headings for classes 
+of persons and ethnic groups for works that report the results of longitudinal studies or discuss 
+the methods and techniques of conducting them.  Examples: 
+ 
+Title:  Longitudinal research on drug use : empirical findings and 
+Methodological issues. 
+650 #0 $a Drug abuse $x Longitudinal studies. 
+ 
+Title:  RN's one and five years after graduation. 
+650 #0 $a Nurses $z United States $v Longitudinal studies. 
+ 
+Title:  Patterns of aggregate and individual changes in contraceptive practice : 
+United States, 1965-1975. 
+650 #0 $a Birth control $z United States $v Longitudinal 
+            studies. 
+650 #0 $a Contraception $z United States $v Longitudinal 
+            studies. 
+ 
+ 
+2.  Longitudinal case studies.  Use BLongitudinal studies for works that cover one or more 
+case studies longitudinally.  Examples: 
+ 
+Title:  Longitudinal evaluation of a Wisconsin nutrition program for the elderly. 
+650 #0 $a Food relief $z Wisconsin $v Longitudinal studies.  
+650 #0 $a Older people $z Wisconsin $x Nutrition  
+            $v Longitudinal studies. 
+ 
+Title:  The persistence of preschool effects : a long-term follow-up of fourteen 
+infant and preschool experiments. 
+650 #0 $a Education, Preschool $z United States  
+            $x Longitudinal studies. 
+ 

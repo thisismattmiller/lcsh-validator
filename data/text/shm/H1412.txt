@@ -1,0 +1,31 @@
+
+
+<<<PAGE 1>>>
+ 
+Classical and Ancient Works  H 1412 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1412 Page 1 
+ 
+June 2013 
+BACKGROUND:  This instruction sheet provides guidelines for assigning topical headings to 
+classical and ancient works.  Although pre-1950 Library of Congress cataloging reflects a 
+policy of not assigning topical headings to these works, that policy is no longer followed. 
+ 
+ 
+ 
+1.  Topical works.  Assign topical headings to any ancient work, original text or translation, that 
+has a topical orientation.  Example: 
+ 
+Title:  Aristotle's Politics. 
+[a translation of the work by Aristotle] 
+650 #0 $a Political science $v Early works to 1800. 
+ 
+ 
+2.  Works of belles lettres.  Assign a literary form heading to any individual work of belles 
+lettres, original text or translation, on an identifiable topic.  Example: 
+ 
+650 #0 $a Oedipus (Greek mythology) $v Drama. 
+ 

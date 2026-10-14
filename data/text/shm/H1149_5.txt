@@ -1,0 +1,84 @@
+
+
+<<<PAGE 1>>>
+ 
+Pattern Headings: Colonies  H 1149.5 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1149.5 Page 1 
+ 
+October 2018 
+PATTERN:  Great BritainBColonies 
+ 
+ 
+1.  The subdivision BColonies.  Use the subdivision BColonies under names of countries for 
+works discussing collectively the colonies ruled by a country, for example, FranceBColonies; 
+JapanB Colonies; RomeBColonies. 
+ 
+Do not use the subdivision BColonies for works that discuss an individual colony.  For such 
+works, assign the name of the colony with an appropriate subdivision, or the topical subject 
+divided by the name of the colony, for example, IndiaBPolitics and governmentB1919-1947; 
+Postage stampsBIndia. 
+ 
+ 
+2.  [Topic]B[country].  Topical subjects subdivided by place may also be further subdivided by 
+BColonies, for example, Postage stampsBGreat BritainBColonies. 
+ 
+ 
+3.  [Country]BColonies.  Headings of the type [country]BColonies may be further subdivided 
+by the topical and broad regional geographic subdivisions listed below, for example,  ItalyB 
+ColoniesBCommerce; 
+GermanyBColoniesBAfrica; 
+FranceBColoniesBOceaniaBEconomic 
+conditions. 
+ 
+ 
+4.  The subdivision BPolitics and government.  Do not use the subdivision BPolitics and 
+government under headings of the type [country]BColonies.  For general colonial politics and 
+government, use the subdivision BAdministration, for example, PortugalBColoniesBAdminis- 
+tration; Great BritainBColoniesBAmericaBAdministration. 
+ 
+ 
+ 
+REGIONAL SUBDIVISIONS: 
+ 
+$z Africa 
+$z America 
+$z Asia 
+$z Oceania 
+ 
+
+
+<<<PAGE 2>>>
+H 1149.5  Pattern Headings: Colonies 
+ 
+ 
+ 
+H 1149.5 Page 2 
+Subject Headings Manual 
+October 2018 
+TOPICAL SUBDIVISIONS: 
+ 
+$x Administration 
+$x Boundaries  (May Subd Geog) 
+$x Commerce  (May Subd Geog) 
+$x Defenses 
+$x Description and travel 
+$x Discovery and exploration 
+$x Economic conditions 
+$x Economic policy 
+$x Emigration and immigration 
+$x Geography 
+$x History 
+$x Intellectual life 
+$x Officials and employees 
+$x Population 
+$x Race relations 
+$x Religion 
+$x Religious life and customs 
+$x Rural conditions 
+$x Social conditions 
+$x Social life and customs 
+$x Social policy 

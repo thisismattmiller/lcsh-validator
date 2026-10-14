@@ -1,0 +1,52 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Establishing New Subdivisions Having General Application H 205 | 
+Page 1 
+ 
+ 
+Establishing New Subdivisions Having General 
+Application 
+H 205 
+A. Background ................................................................................................................................. 1 
+B. Recent revisions .......................................................................................................................... 1 
+C. General rule ................................................................................................................................ 1 
+D. Representative sample of topics ................................................................................................ 2 
+E. LC practice for bibliographic file maintenance ........................................................................... 2 
+Revision history ............................................................................................................................... 2 
+A. Background 
+Occasionally a work being cataloged generates a proposal for a new generic heading and for a 
+corresponding subdivision that is applicable not only under the heading being assigned to the 
+new work, but also under other headings as well. In such cases, it is useful to propose the 
+subdivision under all of the appropriate headings at the same time. This serves to establish the 
+new concept and its pattern of usage firmly in the subject authority file. 
+B. Recent revisions 
+2025-04: Updated template. Updated text in sec. E to current practice. 
+C. General rule 
+When establishing a new subdivision that is applicable to many different topics, make a 
+reasonable effort to locate the other appropriate topics under which the subdivision should 
+also be established. 
+Example: 
+When the heading *Contracting out* and the subdivision *–Contracting out* were 
+established for a work on the contracting out of municipal services, the subdivision was 
+established not only under *Municipal services* but also under *Corrections*; 
+*Police*; *Public welfare*; *Social service*; and *Wildfires—Prevention and control*. 
+These usages were all justified by titles that had been previously cataloged. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Establishing New Subdivisions Having General Application H 205 | 
+Page 2 
+ 
+ 
+D. Representative sample of topics 
+If the new subdivision is applicable to so many topics that it would be virtually impossible to 
+establish it under them all, establish it at least under a representative sample of the most 
+important topics in order to illustrate how it is to be used. 
+E. LC practice for bibliographic file maintenance 
+In accordance with standard procedures for new subject heading proposals given in H 200 sec. 
+D.11, record the number of records whose subject assignments will require correction because 
+of the new subdivision being established. If the number is less than fifteen, submit a list of 
+LCCNs of the records to be updated. 
+Revision history 
+2025-04: Updated template. Updated text in sec. E to current practice. 

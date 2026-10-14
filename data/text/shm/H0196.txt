@@ -1,0 +1,71 @@
+
+
+<<<PAGE 1>>>
+ 
+Changing Class Numbers in Subject Authority Records  H 196 
+ 
+ 
+ 
+Subject Headings Manual 
+H 196 Page 1 
+ 
+November 2021 
+BACKGROUND:  LC classification numbers associated with subject headings appear in 053 
+fields in subject authority records.  When there is more than one class number or span of 
+numbers associated with a heading, the authority record has a separate 053 field for each.  
+Class numbers are formulated and added to subject headings according to the principles 
+described in H 365.  When it is necessary to add a new 053 field or to make other changes in an 
+existing record, existing 053 fields should be reviewed to determine that they are substantively 
+correct, that is, that the numbers are still valid and appropriate for the heading and that the 
+qualifying terms, if any, are correct.   
+ 
+This instruction sheet describes the procedures followed by Library of Congress cataloging staff 
+to add or change a class number in an existing authority record.  In most cases, proposals to 
+add or revise 053 fields are processed “off-list,” that is, the Policy, Training, and Cooperative 
+Programs Division reviews and approves the proposal and inputs the change into Classification 
+Web without putting it on a tentative list for formal editorial review.  Therefore it is not 
+necessary for catalogers to follow the normal procedures for changing the authority record 
+online by copying it, revising it, and printing it out. Instead, catalogers can email requests to add, 
+change or delete 053 fields to a subject policy specialist, or print out the original authority 
+record and annotate it. 
+ 
+Note: If it is necessary to make any other change to the record in addition to the 053 
+change(s), follow the procedures appropriate for those other types of changes.  For 
+example, to add a broader term reference and change an 053 field in the same record, 
+follow the procedures in H 195, Changing References in Subject Authority Records, 
+rather than the procedures in this instruction sheet.  Follow the procedures in this 
+instruction sheet only when proposed changes are limited to the 053 field(s). 
+ 
+1. Emailing a subject policy specialist. Include in the email the heading and a description of the 
+revision to be made (i.e., revise an existing 053, add or delete an 053). Include the class number(s) 
+in the email. This method is preferred over the method described in sec. 2. 
+ 
+2.  Sending a printout. 
+ 
+a. Preparing the printout.  In order to add, change, or delete an 053 field in a subject 
+authority record, make a printout of the record.  Annotate the printout, using red ink if 
+possible, by editing or crossing off existing 053 fields that need to be changed or deleted. 
+Add new 053s by writing instructions in a blank area on the printout, for example, 
+ 
+add: 053 QD380-QD388 (Chemistry) 
+add: 053 QP801.P64 (Biochemistry) 
+ 
+
+
+<<<PAGE 2>>>
+H 196  Changing Class Numbers in Subject Authority Records 
+ 
+ 
+ 
+H 196 Page 2 
+Subject Headings Manual 
+November 2021 
+2.  Sending a printout.  (Continued) 
+ 
+ 
+b.  Submitting the proposal.  Write your cataloger’s code and the date on the printout.  
+Submit the proposal to the Policy, Training, and Cooperative Programs Division.  After 
+the proposal has been reviewed and approved in PTCP, the authority record in 
+Classification Web will be updated to reflect the change. 
+ 
+ 

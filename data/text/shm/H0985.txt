@@ -1,0 +1,69 @@
+
+
+<<<PAGE 1>>>
+ 
+Latin America  H 985 
+ 
+ 
+ 
+Subject Headings Manual 
+H 985 Page 1 
+ 
+June 2013 
+BACKGROUND:  This instruction sheet provides guidelines for assigning the subject headings 
+Latin America and Latin Americans and for constructing and assigning headings incorporating 
+the adjectives Latin American and Spanish American. 
+ 
+ 
+ 
+ 
+1.  Latin America.  Assign the heading Latin America to works dealing collectively with the 
+area and/or countries south of the Rio Grande, as well as all or parts of three or more of the 
+regions that make up Latin America, that is, Mexico, Central America, South America, and the 
+West Indies. 
+ 
+Also assign Latin America as the collective geographic heading and subdivision for the 
+Spanish-speaking countries of Latin America. 
+ 
+ 
+2.  Latin Americans.  Assign the heading Latin Americans to works dealing collectively with 
+the citizens of Latin American countries.  For works limited to Spanish-speaking Latin 
+Americans, use Spanish Americans (Latin America). 
+ 
+Use the heading Hispanic Americans for United States citizens of Latin American descent. 
+ 
+ 
+3.  Latin American.  Construct and assign headings incorporating the adjective Latin 
+American in accordance with the provisions of H 320 and H 351 to designate origin or 
+occurrence in Latin America.  Examples: 
+ 
+ 
+650 #0 $a Arts, Latin American. 
+650 #0 $a National characteristics, Latin American. 
+651 #0 $a United States $x Foreign public opinion, Latin American. 
+ 
+Use Latin American to qualify literary subject headings referring to material relating 
+collectively to the Spanish, Portuguese, English, and/or French-speaking countries of Latin 
+America.  Examples: 
+ 
+650 #0 $a Authors, Latin American. 
+650 #0 $a Love poetry, Latin American. 
+650 #0 $a Latin American fiction. 
+
+
+<<<PAGE 2>>>
+H 985  Latin America 
+ 
+ 
+ 
+H 985 Page 2 
+Subject Headings Manual 
+June 2013 
+4.  Spanish American.  Qualify literary subject headings with the adjective Spanish American 
+to refer to material limited to the parts of Latin America where Spanish is the prevailing 
+language. Examples: 
+ 
+650 #0 $a Spanish American poetry. 
+650 #0 $a Women authors, Spanish American. 
+650 #0 $a Historical fiction, Spanish American. 
+ 

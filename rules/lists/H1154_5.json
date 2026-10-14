@@ -1,0 +1,189 @@
+{
+  "sheet": "H 1154.5",
+  "title": "Pattern Headings: Legal Topics",
+  "kind": "pattern",
+  "scope": "Free-floating subdivisions for use under headings for legal topics, legal phrase headings, legal systems, topical headings subdivided by --Law and legislation, --Legal status, laws, etc., or --Safety regulations, and place names subdivided by legal subdivisions; pattern heading Labor laws and legislation.",
+  "pattern_headings": [
+    "Labor laws and legislation"
+  ],
+  "pattern_category": "legal topics, legal phrase headings, legal systems, and headings subdivided by legal subdivisions",
+  "general_notes": [
+    "TYPES OF HEADINGS COVERED BY THE PATTERN: Headings for legal topics, for example, Torts; Civil procedure; Domestic relations; Airspace (International law); legal phrase headings, for example, Agricultural laws and legislation; Criminal law; Trade regulation; headings for legal systems, for example, Islamic law; International law; topical headings subdivided by the legal subdivisions --Law and legislation; --Legal status, laws, etc.; and --Safety regulations; place names subdivided by legal subdivisions, for example, --Foreign relations--Law and legislation.",
+    "Note: Establish editorially new uses of the subdivision --Law and legislation. For guidelines on the usage of the subdivisions --Law and legislation; --Legal status, laws, etc.; and --Safety regulations under topical headings, see H 1705.",
+    "CONFLICTS: Any subdivision listed here can be used as a free-floating subdivision under any heading belonging to this category if it is appropriate and no conflict exists in the subject authority file. Subject authority records may exist for headings employing variant phrases or subdivisions equivalent to subdivisions on this list.",
+    "Note: Most form subdivisions coded $v in this list may also be used as topical subdivisions coded $x when assigned to works about the form (see H 1075, sec. 1.d.)."
+  ],
+  "entries": [
+    {
+      "subdivision": "--Cases",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Codification",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Compliance costs",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Criminal provisions",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Digests",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Environmental aspects",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Forms",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--International unification",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Interpretation and construction",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "Do not use under the heading Constitutional law."
+    },
+    {
+      "subdivision": "--Language",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Legal research",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1710"
+      ],
+      "endnote": "For the distinction in usage between the subdivisions --Legal research and --Research, see H 1710."
+    },
+    {
+      "subdivision": "--Legislative history",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1715"
+      ],
+      "endnote": "The subdivision --Legislative history may also be used as a free-floating subdivision under names of individual legislative enactments (see H 1715, sec. 3.c.)."
+    },
+    {
+      "subdivision": "--Popular works",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Research",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [
+        "H 1710"
+      ],
+      "endnote": "For the distinction in usage between the subdivisions --Legal research and --Research, see H 1710."
+    },
+    {
+      "subdivision": "--Trial practice",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    }
+  ]
+}

@@ -1,0 +1,1288 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Pattern Headings: Military Services H 1159 | Page 1 
+ 
+Pattern Headings: Military Services 
+H 1159 
+Patterns: *United States–Armed Forces*; *United States. Air Force*; *United 
+States. Army*; *United States. Marine Corps*; *United States. Navy* 
+A. Recent revisions ........................................................................................................................ 1 
+B. Types of headings covered by the pattern ................................................................................ 1 
+C. Types of headings not covered ................................................................................................. 2 
+D. Conflicts .................................................................................................................................... 2 
+E. Establishing new subdivisions ................................................................................................... 3 
+F. Combinations of subdivisions .................................................................................................... 3 
+G. Special provisions for corporate bodies .................................................................................... 4 
+H. List of topical subdivisions ........................................................................................................ 4 
+I. List of form subdivisions ........................................................................................................... 17 
+Revision history ........................................................................................................................... 19 
+A. Recent revisions 
+2026-03: Updated template. Clarified text. Separated general and form subdivisions. Added 
+instructions related to LCGFT implementation. 
+B. Types of headings covered by the pattern 
+This instruction sheet contains the free-floating subdivisions that may be used under headings 
+for names of individual military services established as corporate bodies in the name authority 
+file, including military organizations at the state or province level, such as national guards. Also 
+included are subject headings formed using the free-floating subdivisions *--Armed Forces* 
+and *--National Guard* under names of regions and countries, and the free-floating subdivision 
+*--Militia* under names of places larger than cities, and headings established using *--Armed 
+Forces* under names of international agencies having armed forces. 
+Examples: 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Pattern Headings: Military Services H 1159 | Page 2 
+ 
+Great Britain. Army 
+Italy. Marina 
+Germany. Kriegsmarine 
+Japan. Rikugun 
+Texas. National Guard 
+Soviet Union–Armed Forces 
+United States–National Guard 
+Ohio–Militia 
+United Nations–Armed Forces 
+Warsaw Treaty Organization–Armed Forces 
+C. Types of headings not covered 
+The category does not include names of subordinate organizational units lower than a branch 
+of the armed forces, such as divisions, regiments, battalions, fleets, or squadrons. For 
+instructions on assigning headings to histories of individual organizational units lower than a 
+branch of the armed forces, see H 1995. Also excluded are names of government agencies 
+responsible for the operation of individual military services, for example, *United States. Navy 
+Department*. 
+D. Conflicts 
+D.1. General rule 
+Any subdivision listed here can be used as a free-floating subdivision under any heading 
+belonging to the category if it is appropriate and no conflict exists in the subject authority file. 
+Although many of the subdivisions listed here are logically applicable to only one branch of 
+military service, they have been treated in this list as free-floating under all branches provided 
+there is no conflicting subdivision used under another branch. Such conflicts are identified in 
+the subdivision lists below. Subject authority records may exist for headings employing variant 
+phrases or subdivisions equivalent to subdivisions on this list. 
+D.2. LC practice 
+If an exceptional variant form is to be retained, make a UF reference from the equivalent free-
+floating subdivision form following the procedures in H 195 if the reference does not yet exist.  
+Otherwise, submit a proposal to change the variant form along with all bibliographic records 
+requiring correction following the procedures in H 193. 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Pattern Headings: Military Services H 1159 | Page 3 
+ 
+E. Establishing new subdivisions 
+Establish new subdivisions under *United States--Armed Forces* in all cases where it is 
+possible to do so. If a subdivision is not logically appropriate under that heading, establish it 
+under the pattern heading for the particular branch of military service needed for the work 
+being cataloged. For example, if a new subdivision is required for a work on a particular air 
+force and the subdivision cannot logically be established under *United States--Armed Forces*, 
+establish it under *United States. Air Force*. If the topic of the proposed new subdivision is 
+unique to the military services of countries other than the United States, and therefore cannot 
+logically be established under any of the pattern headings, establish it under the specific 
+heading required for the work being cataloged. 
+F. Combinations of subdivisions 
+F.1. Class of persons subdivisions 
+Subdivisions on this list representing classes of persons, for example, *--Apprentices*; *--
+Nurses*; *--Officers*, may be further subdivided, as appropriate, by subdivisions from the list 
+of free-floating subdivisions used under classes of persons (H 1100).   
+F.2. Period subdivisions 
+The subdivisions *--History* and *--Recruiting, enlistment, etc.* may be further subdivided on 
+a free-floating basis by subdivisions for wars or armed conflicts in which the military service 
+took part. The subdivisions may be formed based on headings for wars established either 
+directly under their names or as subdivisions under place names. 
+Examples 
+Great Britain. Royal Navy–History–Falkland Islands War, 1982 
+United States. Navy–History–Spanish-American War, 1898 
+France. Armée–History–Revolution, 1789-1799 
+Canada. Royal Canadian Navy–History–World War, 1939-1945 
+Assign an additional heading designating the war with appropriate topical or geographic 
+subdivisions. For subdivisions used under names of individual wars, see H 1200. 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Pattern Headings: Military Services H 1159 | Page 4 
+ 
+G. Special provisions for corporate bodies 
+Several of the subdivisions listed below may be equivalent to a corporate body subheading. If 
+the concept exists as a corporate body, assign a heading with the subdivision and assign an 
+additional heading for the corporate body if the work discusses the corporate or organizational 
+aspects of the body. For example, in Belgium the artillery is an organized unit represented by 
+the corporate heading *Belgium. Armée. Artillerie*. For works on the Belgian artillery, assign 
+the heading *Belgium. Armée--Artillery*. If appropriate, assign as an additional heading the 
+name of the corporate body. 
+In some cases, the corporate heading may only be valid for certain time periods. For example, 
+Canada united all military services into one organization in 1968. The corporate heading 
+*Canada. Canadian Armed Forces* should be used only for the period after 1968 and only for 
+discussions of the corporate or organizational aspects of the body. All works on the Canadian 
+military services discussed collectively should be assigned the subject heading *Canada--Armed 
+Forces*, regardless of the time period covered. 
+H. List of topical subdivisions  
+A-B | C-D | E-F | G-H | I-L | M-N | O-Q | R-S | T-Z 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes  
+$x Accounting 
+ 
+ 
+$x Aerial gunners 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x African American officers 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x African American troops 
+ 
+ 
+$x African Americans 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Aides 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Air police 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Pattern Headings: Military Services H 1159 | Page 5 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes  
+Use only under air forces; use *--Shore patrol* under 
+navies; use *--Military police* under other military 
+services. 
+$x Airborne troops 
+ 
+ 
+$x Airborne troops $x 
+Communication systems 
+ 
+ 
+$x Airmen 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Ambulances 
+ 
+ 
+$x Appointments and 
+retirements 
+ 
+ 
+$x Apprentices 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Appropriations and 
+expenditures 
+ 
+ 
+$x Archives 
+ 
+Use as a topical subdivision under military services for 
+works about documents or historical records, including 
+notes, correspondence, minutes, photographs, legal 
+papers, etc., pertaining to those services. 
+$x Armored troops 
+ 
+ 
+$x Artillery 
+ 
+For countries in which the artillery, cavalry, or infantry 
+is an organized unit, assign the corporate body name 
+heading as an additional heading for discussions of the 
+corporate or organizational aspects of the body. See 
+explanation in sec. G, above. 
+$x Artillery $x Drill and tactics 
+ 
+ 
+$x Asian Americans 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Aviation 
+ 
+ 
+$x Aviation $x Ground 
+support 
+ 
+Use as a topical subdivision under military services 
+other than air forces. Under air forces, use the 
+subdivision *--Ground support*. 
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | Pattern Headings: Military Services H 1159 | Page 6 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes  
+$x Aviation $x Job 
+descriptions 
+ 
+Do not use under air forces. Use this subdivision 
+combination as a topical subdivision under military 
+services for summaries of the essential activities 
+involved in the performance of jobs. 
+$x Aviation electronics 
+technicians 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Aviation mechanics 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Aviation supplies and 
+stores 
+ 
+ 
+$x Awards 
+ 
+ 
+$x Bandmasters 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Bands 
+ 
+ 
+$x Barracks and quarters 
+ 
+ 
+$x Barracks and quarters $x 
+Furniture 
+ 
+ 
+$x Biography $x Portraits 
+ 
+Use as a topical subdivision under military services for 
+works about portraits of persons in those military 
+services. 
+$x Boats 
+ 
+ 
+$x Boatswains 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Boatswain's mates 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Boiler technicians 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Cavalry 
+ 
+For countries in which the artillery, cavalry, or infantry 
+is an organized unit, assign the corporate body name 
+heading as an additional heading for discussions of the 
+corporate or organizational aspects of the body. See 
+explanation in sec. G, above. 
+
+
+<<<PAGE 7>>>
+Subject Headings Manual | Pattern Headings: Military Services H 1159 | Page 7 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes  
+$x Cavalry $x Drill and tactics 
+ 
+ 
+$x Chaplains 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+Do not use under *[place]--Armed Forces*; use 
+*Military chaplains--[place]*, instead. 
+$x Chaplain's assistants 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Civic action 
+ 
+ 
+$x Civil functions 
+ 
+ 
+$x Civilian employees 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Clerical work 
+ 
+ 
+$x Collier service 
+ 
+ 
+$x Colonial forces 
+Yes 
+Not established under any branch of the United States 
+armed forces. Use only under the military services of 
+countries having colonial forces, for example, *Great 
+Britain. Army--Colonial forces*; *Spain. Ejército--
+Colonial forces*. 
+$x Combat sustainability 
+ 
+ 
+$x Commando troops 
+ 
+ 
+$x Commissariat 
+ 
+Do not use under navies; use *--Provisioning* under 
+navies. 
+$x Communication systems 
+ 
+ 
+$x Construction mechanics 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Cost control 
+ 
+ 
+$x Coxswains 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Cruise, [date] 
+ 
+See H 1078 for instructions on dates in subdivisions for 
+specific events. 
+$x Demobilization 
+ 
+ 
+$x Dental care 
+Yes 
+ 
+
+
+<<<PAGE 8>>>
+Subject Headings Manual | Pattern Headings: Military Services H 1159 | Page 8 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes  
+$x Diaries 
+ 
+Use as a topical subdivision under military services for 
+works about diaries of persons belonging to those 
+services. 
+$x Drill and tactics 
+ 
+ 
+$x Electric installations 
+ 
+ 
+$x Electronic installations 
+ 
+ 
+$x Electronic technicians 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Energy consumption 
+ 
+ 
+$x Environmental aspects 
+Yes 
+ 
+$x Equipment 
+ 
+ 
+$x Equipment $x Quality 
+control 
+ 
+ 
+$x Examinations 
+ 
+ 
+$x Facilities 
+ 
+ 
+$x Facilities $x Law and 
+legislation 
+ 
+See H 1154.5 for further subdivisions used under legal 
+topics. 
+$x Field service 
+ 
+ 
+$x Finance 
+ 
+ 
+$x Finance $x Law and 
+legislation 
+No 
+See H 1154.5 for further subdivisions used under legal 
+topics. 
+$x Fire controlmen 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Firearms 
+ 
+ 
+$x Firearms $x Markings 
+ 
+ 
+$x Firemen 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Flags 
+ 
+ 
+$x Flight officers 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Flight surgeons 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+
+
+<<<PAGE 9>>>
+Subject Headings Manual | Pattern Headings: Military Services H 1159 | Page 9 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes  
+$z Foreign countries 
+ 
+Use as a geographic subdivision under military services. 
+$x Foreign service   
+Yes 
+ 
+$x Fuel 
+ 
+ 
+$x Gay people 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+Do not use under *[place]--Armed Forces*; use *Gay 
+military personnel–[place]*, instead. 
+$x General staff officers 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x German Americans 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Ground support 
+ 
+Use only under air forces; use *--Aviation--Ground 
+support* under other military services. 
+$x Guard duty 
+ 
+ 
+$x Guided missile personnel 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Guided missile personnel 
+$x Training of 
+Yes 
+ 
+$x Guided missile personnel 
+$x Training of $x Aids and 
+devices 
+ 
+ 
+$x Gunners 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Headquarters 
+ 
+ 
+$x Hispanic Americans 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x History 
+ 
+ 
+$x History $y 16th century 
+ 
+ 
+$x History $y 17th century 
+ 
+ 
+$x History $y 18th century 
+ 
+ 
+$x History $y 19th century 
+ 
+ 
+$x History $y 20th century 
+ 
+ 
+
+
+<<<PAGE 10>>>
+Subject Headings Manual | Pattern Headings: Military Services H 1159 | Page 10 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes  
+$x History $y 21st century 
+ 
+ 
+$x History $y Revolution, 
+1775-1783, [War of 1812, etc.] 
+ 
+The subdivision *--History--Revolution, 1775-1783* is 
+not valid under *United States. Army*. Use *United 
+States. Continental Army—History* instead. 
+$x Honorific unit titles 
+ 
+ 
+$x Hospital ships 
+ 
+ 
+$x Ice breaking operations 
+ 
+ 
+$x Indian troops 
+ 
+ 
+$x Infantry 
+ 
+For countries in which the artillery, cavalry, or infantry 
+is an organized unit, assign the corporate body name 
+heading as an additional heading for discussions of the 
+corporate or organizational aspects of the body. See 
+explanation in sec. G, above. 
+$x Infantry $x Drill and tactics 
+ 
+ 
+$x Information services 
+ 
+ 
+$x Insignia 
+ 
+ 
+$x Inspection 
+No 
+ 
+$x Intelligence specialists 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Inventory control 
+ 
+ 
+$x Irish Americans 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Italian Americans 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Japanese Americans 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Job descriptions 
+Yes 
+Use as a topical subdivision under military for works 
+about summaries of the essential activities involved in 
+the performance of jobs. 
+$x Journalists 
+Yes 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+
+
+<<<PAGE 11>>>
+Subject Headings Manual | Pattern Headings: Military Services H 1159 | Page 11 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes  
+$x Lawyers 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Leaves and furloughs 
+ 
+ 
+$x Machine gun drill and 
+tactics 
+ 
+ 
+$x Management 
+ 
+ 
+$x Maneuvers 
+ 
+ 
+$x Mascots 
+ 
+ 
+$x Masters-at-arms 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Medals, badges, 
+decorations, etc. 
+ 
+Do not use under *[place]--Armed Forces*; use 
+*Military decorations–[place]* instead. 
+$x Medical care 
+Yes 
+ 
+$x Medical care $x Law and 
+legislation 
+ 
+See H 1154.5 for further subdivisions used under legal 
+topics. 
+$x Medical examinations 
+Yes 
+ 
+$x Medical personnel 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Medical personnel $x 
+Malpractice 
+ 
+ 
+$x Medical supplies 
+ 
+ 
+$x Medical technologists 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Messes 
+ 
+ 
+$x Mexican Americans 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Military capital 
+ 
+Do not use under *[place]--Armed Forces*; use 
+*Military capital--[place]* instead. 
+$x Military construction 
+operations 
+ 
+ 
+
+
+<<<PAGE 12>>>
+Subject Headings Manual | Pattern Headings: Military Services H 1159 | Page 12 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes  
+$x Military construction 
+operations $x Law and 
+legislation 
+ 
+See H 1154.5 for further subdivisions used under legal 
+topics. 
+$x Military life 
+ 
+ 
+$x Military police 
+ 
+Do not use under air forces or navies; use *--Air police* 
+under air forces; use *--Shore patrol* under navies. 
+$x Military police $x Foreign 
+auxiliaries 
+ 
+ 
+$x Minorities 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Mobilization 
+ 
+ 
+$x Motorcycle troops  
+ 
+ 
+$x Mountain troops 
+ 
+ 
+$x Musical groups 
+ 
+ 
+$x Non-commissioned officers 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Nurses 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Occupational specialties 
+ 
+ 
+$x Officer efficiency reports 
+ 
+ 
+$x Officers 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Officers' clubs 
+ 
+ 
+$x Officers on detached 
+service 
+ 
+ 
+$x Officials and employees 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+Do not use under armies, navies, and other branches of 
+the armed forces. Use only under *[place]--Armed 
+Forces* and under names of government agencies 
+responsible for the operation of individual military 
+
+
+<<<PAGE 13>>>
+Subject Headings Manual | Pattern Headings: Military Services H 1159 | Page 13 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes  
+services, for example, *United States. Department of 
+the Army--Officials and employees*. 
+$x On television 
+ 
+ 
+$x Operating room 
+technicians 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Operational readiness 
+ 
+ 
+$x Operations other than war 
+ 
+ 
+$x Optical instrument 
+repairers 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Ordnance and ordnance 
+stores 
+ 
+ 
+$x Ordnance and ordnance 
+stores $x Effect of 
+environment on 
+Yes 
+ 
+$x Ordnance and ordnance 
+stores $x Quality control 
+ 
+ 
+$x Ordnance facilities 
+ 
+ 
+$x Organization 
+ 
+ 
+$x Painting of vessels 
+ 
+ 
+$x Parachute troops 
+ 
+ 
+$x Pay, allowances, etc. 
+ 
+ 
+$x Pay, allowances, etc. $x 
+Law and legislation 
+ 
+See H 1154.5 for further subdivisions used under legal 
+topics. 
+$x Personnel management 
+ 
+ 
+$x Personnel management $x 
+Law and legislation 
+Yes 
+See H 1154.5 for further subdivisions used under legal 
+topics. 
+$x Personnel records 
+ 
+ 
+$x Petty officers 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Photographers 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Physical training 
+Yes 
+ 
+
+
+<<<PAGE 14>>>
+Subject Headings Manual | Pattern Headings: Military Services H 1159 | Page 14 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes  
+$x Political activity 
+Yes 
+ 
+$x Political-military affairs 
+officers 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Postal clerks 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Postal service 
+ 
+ 
+$x Prisons 
+ 
+ 
+$x Procurement 
+ 
+ 
+$x Promotions 
+ 
+ 
+$x Provisioning 
+ 
+Use only under navies; use *--Commissariat* under 
+other military services. 
+$x Public relations 
+Yes 
+ 
+$x Radio installations 
+ 
+ 
+$x Radiomen 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Records and 
+correspondence 
+ 
+Use as a topical subdivision under military services for 
+works about records of those organizations. 
+$x Recruiting, enlistment, etc. 
+ 
+ 
+$x Recruiting, enlistment, etc. 
+$x Law and legislation 
+ 
+See H 1154.5 for further subdivisions used under legal 
+topics. 
+$x Recruiting, enlistment, etc. 
+$y Revolution, 1775-1783, 
+[Spanish-American War, 1898, 
+etc.] 
+ 
+The subdivision *--Recruiting, enlistment, etc.--
+Revolution, 1775-1783* is not valid under *United 
+States. Army*. Use *United States. Continental Army--
+Recruiting, enlistment, etc.* instead. 
+$x Regulations 
+ 
+Use as a topical subdivision under military services for 
+works about regulations of those services. 
+$x Religious life 
+ 
+ 
+$x Remount service 
+ 
+ 
+$x Reorganization 
+ 
+ 
+$x Reserve fleets 
+ 
+ 
+$x Reserves 
+ 
+ 
+
+
+<<<PAGE 15>>>
+Subject Headings Manual | Pattern Headings: Military Services H 1159 | Page 15 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes  
+$x Reserves $x Pay, 
+allowances, etc. 
+ 
+ 
+$x Reserves $x Personnel 
+records 
+ 
+ 
+$x Reserves $x Promotions 
+ 
+ 
+$x Robots 
+ 
+ 
+$x Rum ration 
+ 
+ 
+$x Safety measures 
+ 
+ 
+$x Sanitary affairs 
+ 
+ 
+$x Sea life 
+ 
+ 
+$x Search and rescue 
+operations 
+Yes 
+ 
+$x Security measures 
+No 
+ 
+$x Service clubs 
+ 
+ 
+$x Service craft 
+ 
+ 
+$x Shore patrol 
+ 
+Use only under navies; use *--Air police* under air 
+forces; use *--Military police* under other military 
+services. 
+$x Ski troops 
+ 
+ 
+$x Small-boat service 
+ 
+ 
+$x Social services 
+ 
+Do not use under *[place]--Armed Forces*; use 
+*Military social work--[place]* instead. 
+$x Songs and music 
+ 
+Use as a topical subdivision under military services for 
+works about vocal or instrumental music about those 
+services. 
+$x Songs and music $x History 
+and criticism 
+ 
+ 
+$x Sports 
+ 
+ 
+$x Stability operations 
+ 
+ 
+$x Staff corps 
+ 
+ 
+$x Staffs 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+
+
+<<<PAGE 16>>>
+Subject Headings Manual | Pattern Headings: Military Services H 1159 | Page 16 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes  
+$x Stewards 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Storekeepers 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Submarine forces 
+ 
+ 
+$x Supplies and stores 
+ 
+ 
+$x Supplies and stores $x Law 
+and legislation 
+ 
+See H 1154.5 for further subdivisions used under legal 
+topics. 
+$x Supplies and stores $x 
+Quality control 
+ 
+ 
+$x Surgeons 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Surgeons $x Malpractice 
+ 
+ 
+$x Swiss Americans 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Tactical aviation 
+Yes 
+ 
+$x Target practice 
+ 
+ 
+$x Test shooting 
+ 
+ 
+$x Training administrators 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Transport of sick and 
+wounded 
+ 
+ 
+$x Transport service 
+ 
+ 
+$x Transportation 
+No 
+ 
+$x Trials of vessels 
+ 
+ 
+$x Uniforms 
+ 
+ 
+$x Unit cohesion 
+ 
+ 
+$x Vocational guidance 
+Yes 
+ 
+$x Wage fixing 
+ 
+ 
+$x Warrant officers 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Watch duty 
+ 
+Use as a topical subdivision under individual navies. 
+
+
+<<<PAGE 17>>>
+Subject Headings Manual | Pattern Headings: Military Services H 1159 | Page 17 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes  
+$x Weapons systems 
+ 
+ 
+$x Women 
+No 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Women's reserves 
+ 
+ 
+$x Yeomen 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+I. List of form subdivisions 
+LC practice: In early 2025, the use of form subdivisions was phased out. Library of Congress 
+catalogers assign Library of Congress Genre/Form Terms (LCGFT) to bring out the form(s) 
+and/or genre(s) of the resource being cataloged. Therefore, the form subdivisions maintained 
+on this list are not available for use by Library of Congress catalogers. Catalogers at institutions 
+external to LC may use them as dictated by their own institutional policies. 
+A-C | D-G | H-M | N-R | S-Z 
+Subdivision  
+ 
+May 
+Subd 
+Geog 
+Notes  
+$v Archives 
+ 
+Use as a form subdivision under military services for 
+collections of documents or historical records, including 
+notes, correspondence, minutes, photographs, legal 
+papers, etc., pertaining to those services. 
+$x Archives $v Microform 
+catalogs 
+ 
+Use this subdivision combination as a form subdivision 
+under military services. 
+$x Aviation $v Job 
+descriptions 
+ 
+Do not use under air forces.  
+Use this subdivision combination as a form subdivision 
+under military services for summaries of the essential 
+activities involved in the performance of jobs. 
+$v Biography 
+ 
+Use for collective biographies that include various 
+categories of individuals associated with the military 
+service, for example, a collective biography of the 
+officers and enlisted personnel of a service. For 
+
+
+<<<PAGE 18>>>
+Subject Headings Manual | Pattern Headings: Military Services H 1159 | Page 18 
+ 
+biographies limited to a specific category of individuals 
+associated with a military service, use *--Biography* 
+under the specific subdivision, for example, *--African 
+Americans*; *--Nurses*; *--Officers*; etc. 
+$v Biography $v Portraits 
+ 
+Use as a form subdivision under military services for 
+collections of portraits of persons in those military 
+services. 
+$v Diaries 
+ 
+Use as a form subdivision under military services for 
+diaries of persons belonging to those services. 
+$x Drill and tactics $v 
+Handbooks, manuals, etc. 
+ 
+Use this subdivision combination as a form subdivision 
+under military services. 
+$x Examinations $v Study 
+guides 
+ 
+Use this subdivision combination as a form subdivision 
+under military services for study guides for 
+examinations for, by, or about those services. 
+$v Firing regulations 
+ 
+ 
+$x History $v Chronology 
+ 
+Use this subdivision combination as a form subdivision 
+under military services. 
+$v Job descriptions 
+ 
+Use as a form subdivision under military services for 
+summaries of the essential activities involved in the 
+performance of jobs. 
+$v Lists of vessels 
+ 
+ 
+$v Non-commissioned 
+officers' handbooks 
+ 
+ 
+$v Officers' handbooks 
+ 
+ 
+$v Order-books 
+ 
+ 
+$v Petty officers' handbooks 
+ 
+ 
+$v Records and 
+correspondence 
+ 
+Use as a form subdivision under military services for 
+collections of records of those organizations. 
+$v Registers 
+ 
+ 
+$v Registers of dead 
+No 
+ 
+$v Regulations 
+ 
+Use as a form subdivision under military services for 
+collections of regulations of those services. 
+$v Sailors' handbooks 
+ 
+ 
+
+
+<<<PAGE 19>>>
+Subject Headings Manual | Pattern Headings: Military Services H 1159 | Page 19 
+ 
+$v Songs and music 
+ 
+Use as a form subdivision under military services for 
+collections or single works of vocal or instrumental 
+music about the services. 
+$x Songs and music $v 
+Discography 
+ 
+Use this subdivision combination as a form subdivision 
+under military services. 
+$v Songs and music $v Texts 
+ 
+Use as a form subdivision under military services for 
+texts of songs about those subjects. 
+Revision history 
+2025-08: Updated template. Clarified text. Separated general and form subdivisions. Added 
+instructions related to LCGFT implementation. 

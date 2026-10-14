@@ -1,0 +1,316 @@
+
+
+<<<PAGE 1>>>
+ 
+Cooking and Cookbooks  H 1475 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1475 Page 1 
+ 
+June 2013 
+BACKGROUND:  Prior to 2010, the Library of Congress used the heading Cookery both as a 
+topical heading for general works about cooking and as a form heading for general collections 
+of cooking recipes.  In 2010, the topical heading was changed to Cooking, and a separate 
+genre/form term Cookbooks was established.  The word Cookery was also changed to Cooking 
+in other existing headings such as Cooking, French; Cooking (Blueberries); Cooking for the 
+sick; etc. The topical heading Recipes was changed to Formulas, recipes, etc. to clarify its 
+usage for preparation of non-food items. This instruction sheet provides guidelines for assigning 
+subject headings to cookbooks and works about cooking. 
+ 
+ 
+ 
+1.  Cooking. Assign the heading Cooking (May Subd Geog) to general works on cooking, 
+cuisine, and food preparation.  Use this heading for works about all types of food preparation, 
+including preparation of those foods that do not necessarily need to be heated.  When 
+appropriate, subdivide the heading by place to express the location of the cooking.   Example: 
+ 
+Title: Austin entertains. 
+     650 #0 $a Cooking $z Texas $z Austin. 
+ 
+ 
+ 
+2.  Cookbooks.   
+ 
+a.  Genre/form term.  Assign Cookbooks as a genre/form term to collections of 
+cooking recipes.  Assign the term both to general collections of cooking recipes and to 
+collections focused on specific ingredients, special diets, etc.  Do not subdivide this 
+genre/form term.  Assign topical headings to bring out the location if appropriate.  
+Example: 
+ 
+Title:  Monday to Friday cookbook. 
+      650 #0 $a Cooking $z United States. 
+       655 #7 $a Cookbooks. $2 lcgft 
+ 
+Note:  Do not assign the heading Formulas, recipes, etc. to collections of 
+cooking recipes.  Use that heading only for more general recipe books of 
+household items, cleaning compounds, cosmetics, etc.  Example: 
+ 
+Title:  The Natural formula book for home & yard. 
+650 #0 $a Formulas, recipes, etc. 
+
+
+<<<PAGE 2>>>
+H 1475  Cooking and Cookbooks 
+ 
+ 
+ 
+H 1475 Page 2 
+Subject Headings Manual 
+June 2013 
+2.  Cookbooks.   (Continued) 
+ 
+b.  Topical heading.  Assign Cookbooks as a topical heading to works about 
+cookbooks. Divide the heading by place if appropriate.  Example: 
+ 
+Title:  Pot roast, politics, and ants in the pantry : Missouri's cookbook 
+heritage. 
+     650 #0 $a Cookbooks $z Missouri $x History. 
+ 
+ 
+3.  National and ethnic cuisines and styles of cooking.  Assign the heading Cooking 
+qualified by nationality or ethnic group to works on the specific style of cooking associated with 
+that nationality or ethnic group, for example, Cooking, French; Cooking, Kurdish; Mexican 
+American cooking.   Further subdivide headings for nationality to express regional styles, for 
+example, Cooking, AmericanBLouisiana style.  Do not use geographic subdivision after 
+headings for national or ethnic styles of cooking.  For works on a style of cooking in a specific 
+place, assign a subject heading for the style and an additional subject heading Cooking divided 
+by place.  Example: 
+ 
+ 
+Title:  A taste of bountiful Ohio. 
+     650 #0 $a Cooking, American $x Midwestern style. 
+     650 #0 $a Cooking $z Ohio. 
+ 
+ 
+4.  Specific ingredients or foods.  Assign the heading Cooking with an appropriate 
+parenthetical qualifier to works on the preparation of dishes using a specific ingredient or food, 
+for example, Cooking (Blueberries); Cooking (Eggs); Cooking (Garlic).  For works on the 
+preparation of specific food products assign a heading for the product, for example, Bread; 
+Omelets; Salads.   
+ 
+Note:  In some cases two headings exist, one for the food product itself, for example, 
+Jelly (for works on making jellies) and another for that product as an ingredient in 
+cooking, for example, Cooking (Jelly) (for works on using jelly as an ingredient in other 
+foods).  
+ 
+ Examples: 
+ 
+Title:  The banana lover's cookbook. 
+     650 #0 $a Cooking (Bananas) 
+     655 #7 $a Cookbooks. $2 lcgft 
+
+
+<<<PAGE 3>>>
+ 
+Cooking and Cookbooks  H 1475 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1475 Page 3 
+ 
+June 2013 
+4.  Specific ingredients or foods. 
+ 
+Examples:  (Continued) 
+ 
+Title:  The salmon cookbook. 
+     650 #0 $a Cooking (Salmon) 
+     655 #7 $a Cookbooks. $2 lcgft 
+ 
+ 
+Title:  Basic breads around the world. 
+     650 #0 $a Bread. 
+     650 #0 $a International cooking. 
+ 
+ 
+Title:  Cooking with bread. 
+     650 #0 $a Cooking (Bread) 
+     655 #7 $a Cookbooks. $2 lcgft 
+ 
+ 
+5.  Recipes for special types of diets.  Assign the heading Cooking for the sick to general 
+works on preparing food for patients or persons with diseases. Assign the genre/form term 
+Cookbooks if the work is a general collection of recipes.  Assign the free-floating subdivision 
+BDiet therapyBRecipes under names of individual diseases or under the subdivision BDiseases, 
+for collections of recipes intended for persons with those diseases.  For collections of recipes 
+for special types of diets, such as those free from certain substances or higher or lower in certain 
+substances, assign a heading for the diet with subdivision BRecipes, for example, Milk-free 
+dietBRecipes; High-potassium dietBRecipes.  The subdivision BRecipes is not free-floating 
+for this usage.  Examples: 
+ 
+Title:  Cooking well for the unwell : more than 100 nutritious recipes. 
+     650 #0 $a Cooking for the sick. 
+     655 #7 $a Cookbooks. $2 lcgft 
+ 
+ 
+Title:  The anti-coronary cookbook. 
+     650 #0 $a Heart $x Diseases $x Diet therapy $v Recipes. 
+     650 #0 $a Low-cholesterol diet $v Recipes. 
+     655 #7 $a Cookbooks. $2 lcgft 
+ 
+ 
+Title:  Down home cookin' : without the down home fat. 
+     650 #0 $a Low-fat diet $v Recipes. 
+     655 #7 $a Cookbooks. $2 lcgft 
+
+
+<<<PAGE 4>>>
+H 1475  Cooking and Cookbooks 
+ 
+ 
+ 
+H 1475 Page 4 
+Subject Headings Manual 
+June 2013 
+6.  Recipes associated with specific institutions or organizations.  For collections of recipes 
+used by individual restaurants, families, members of individual organizations, or otherwise 
+related to an individual corporate body, assign the subject headings appropriate to the content of 
+the work.  For recipes from an individual restaurant, assign an additional subject heading for 
+the restaurant. For recipe books from individual families, societies, clubs, etc., assign an 
+additional subject heading for the individual family or corporate body only if the work contains 
+substantial information about the family or body.  Examples: 
+ 
+Title:  Southern cooking from Mary Mac's Tea Room. 
+     650 #0 $a Cooking, American $x Southern style. 
+     650 #0 $a Cooking $z Georgia $z Atlanta. 
+     610 20 $a Mary Mac's Tea Room. 
+     655 #7 $a Cookbooks. $2 lcgft 
+ 
+ 
+Title:  Louisiana entertains : menus and recipes from the Rapides Symphony  
+ 
+ 
+ 
+ 
+Guild, Alexandria, Louisiana. 
+     650 #0 $a Cooking, American $x Louisiana style. 
+     650 #0 $a Menus. 
+     655 #7 $a Cookbooks. $2 lcgft 
+ 
+ 
+Title:  The Oke family cookbook : favorite recipes of Janette's family. 
+[includes historical information about the family] 
+     650 #0 $a Cooking, American $x Louisiana style. 
+     600 30 $a Oke family. 
+     655 #7 $a Cookbooks. $2 lcgft 
+ 
+ 
+7.  Other special aspects of cooking.  Assign, as appropriate, specific subject headings 
+expressing method of preparation, type of meal, or category of food.  Assign subject headings 
+in the following order: 1) ingredient or food; 2) method of preparation; 3) meal or category of 
+food; 4) national or ethnic style; 5) genre/form.  Examples:   
+ 
+Title:  Glorious vegetables in the microwave. 
+     650 #0 $a Cooking (Vegetables) 
+     650 #0 $a Microwave cooking. 
+ 
+ 
+Title:  Indian sweet cookery. 
+     650 #0 $a Desserts $z India. 
+     650 #0 $a Cooking, Indic. 
+
+
+<<<PAGE 5>>>
+ 
+Cooking and Cookbooks  H 1475 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1475 Page 5 
+ 
+June 2013 
+7.  Other special aspects of cooking. 
+ 
+Examples:  (Continued) 
+ 
+Title:  The Southern heritage breakfast and brunch cookbook. 
+     650 #0 $a Breakfasts. 
+     650 #0 $a Brunches. 
+     650 #0 $a Cooking, American $x Southern style. 
+     655 #7 $a Cookbooks. $2 lcgft 
+ 
+Title:  Maida Heatter's Book of great chocolate desserts. 
+     650 #0 $a Cooking (Chocolate) 
+     650 #0 $a Desserts. 
+     655 #7 $a Cookbooks. $2 lcgft 
+ 
+Title:  The breads of France and how to bake them in your own kitchen. 
+     650 #0 $a Bread $z France. 
+     650 #0 $a Cooking, French. 
+     655 #7 $a Cookbooks. $2 lcgft 
+ 
+Title:  The Old West baking book. 
+     650 #0 $a Baking. 
+     650 #0 $a Cooking, American $x Western style. 
+     655 #7 $a Cookbooks. $2 lcgft 
+ 
+Title:  Microwaving light meals & snacks. 
+     650 #0 $a Microwave cooking. 
+     650 #0 $a Appetizers. 
+     655 #7 $a Cookbooks. $2 lcgft 
+ 
+ 
+8. Establishing headings for individual cooking ingredients.  Establish new headings for 
+cooking ingredients according to the following pattern: 
+ 
+150 ## $a Cooking ([name of ingredient]) 
+450 ## $a Cooking with [product or commodity] 
+450 ## $a [product or commodity] $x Use in cooking 
+550 ## $w g $a Cooking ([broader category]) 
+ 
+Examples: 
+ 
+150 ## $a Cooking (Tropical fruit) 
+450 ## $a Cooking with tropical fruit 
+450 ## $a Tropical fruit $x Use in cooking 
+550 ## $w g $a Cooking (Fruit) 
+
+
+<<<PAGE 6>>>
+H 1475  Cooking and Cookbooks 
+ 
+ 
+ 
+H 1475 Page 6 
+Subject Headings Manual 
+June 2013 
+8. Establishing headings for individual cooking ingredients. 
+ 
+Examples:  (Continued) 
+ 
+ 
+150 ## $a Cooking (Cream cheese) 
+450 ## $a Cooking with cream cheese 
+450 ## $a Cream cheese $x Use in cooking 
+550 ## $w g $a Cooking (Cheese) 
+ 
+ 
+Note:  Establish the heading by using the generally recognizable term for the ingredient. 
+If a plant or animal is established under its common name, use the common name.  If a 
+plant or animal is identified by a scientific name, use a generally recognizable term from 
+a higher level in the genus-family-order hierarchy or one of the “intermediate 
+groupings” (see H 1332, Background). 
+ 
+Examples: 
+ 
+ 150 ## $a Cooking (Barley) 
+ [common name] 
+ 
+ 
+ 
+ 150 ## $a Cooking (Orchids) 
+[not 150 ## $a Cooking (Unscented dendrobium)] 
+[higher level of hierarchy] 
+ 
+ 
+ 
+ 150 ## $a Cooking (Trout) 
+[not 150 ## $a Cooking (Salmo obtusirostris)] 
+ 
+ 
+[intermediate grouping] 
+ 

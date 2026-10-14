@@ -1,0 +1,286 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Emigration and Immigration H 1581 | Page 1 
+ 
+ 
+Emigration and Immigration 
+H 1581 
+A. Background ............................................................................................................................... 1 
+B. Recent revisions ........................................................................................................................ 2 
+C. Definitions ................................................................................................................................. 2 
+D. General works on emigration and immigration ........................................................................ 2 
+E. Specific regions, countries, cities, etc. ....................................................................................... 3 
+E.1. General ............................................................................................................................... 3 
+E.2. Government policy ............................................................................................................. 3 
+F. Immigrants ................................................................................................................................ 3 
+F.1. General ............................................................................................................................... 3 
+F.2. By place ............................................................................................................................... 4 
+F.3. Biography ............................................................................................................................ 4 
+G. Ethnic groups ............................................................................................................................ 4 
+G.1. General ............................................................................................................................... 5 
+G.2. Descendants of immigrants ................................................................................................ 5 
+H. Noncitizens ............................................................................................................................... 5 
+I. Migration, Internal ..................................................................................................................... 6 
+I.1. General ................................................................................................................................ 6 
+I.2. Special aspects ..................................................................................................................... 6 
+J. Return migration ........................................................................................................................ 6 
+K. Assigning additional headings ................................................................................................... 6 
+Revision history ............................................................................................................................. 8 
+A. Background 
+Works on population movements are cataloged in various ways, depending on the nature of 
+the material and the type of human movement discussed. The heading *Emigration and 
+immigration* and the free-floating subdivision *--Emigration and immigration* are used for 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Emigration and Immigration H 1581 | Page 2 
+ 
+ 
+works on the process of leaving one's native land and moving to a foreign country in order to 
+settle permanently. *Immigrants* is a class of persons heading used for works on foreign-born 
+persons who enter a country intending to become permanent residents or citizens. 
+*Noncitizens* is a class of persons heading used for works on persons who are not citizens of 
+the country in which they reside. Headings of the type *[place]--Foreign population* and 
+*[place]--Emigration and immigration--Biography* were cancelled in 1987. This instruction 
+sheet provides guidelines for assigning the headings *Emigration and immigration*, 
+*Immigrants*, *Noncitizens*, and related headings. 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Biographies*. To replace a form subdivision that includes a demographic group, also assign 
+Library of Congress Demographic Groups Terms (LCDGT) to bring out the audience of the 
+resource being cataloged, e.g. *German speakers* or *Arabic, Students of*. 
+B. Recent revisions 
+2026-02: Updated template. Added instructions related to LCGFT implementation. 
+C. Definitions 
+Emigration: departure from a place of abode, natural home, or country for life or residence 
+elsewhere.0F1 
+Immigration: travel into a country for the purpose of permanent residence there.1F2 
+D. General works on emigration and immigration 
+Assign the heading *Emigration and immigration* to general works on the process of resettling 
+in a new country, including the administration of the emigration/immigration process, the 
+reasons why persons leave their native land, their arrangements for transportation and the 
+moving of personal and household goods, their trip to another country, their arrival, etc. 
+Subdivide the heading further by the free-floating subdivisions *--History* or *--History--[XX 
+century]*, if appropriate. 
+Example: 
+Title: History of emigration in the 20th century. 
+650 #0 $a Emigration and immigration $x History $y 20th century. 
+650 #0 $a Immigrants $x History $y 20th century. 
+ 
+1 EMIGRATION Definition & Meaning - Merriam-Webster 
+2 IMMIGRATION Definition & Meaning - Merriam-Webster 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Emigration and Immigration H 1581 | Page 3 
+ 
+ 
+E. Specific regions, countries, cities, etc. 
+E.1. General 
+Use the free-floating subdivision *--Emigration and immigration* under names of regions, 
+countries, cities, etc., for works on the process of emigration from or immigration to a place. 
+Subdivide the heading further by the free-floating subdivisions *--History* or *--History--[xx 
+century]*, if appropriate. For works on migration from one country to another, or to a 
+particular place within another country, assign a heading to indicate the place from which 
+emigrants came and a heading for the place to which they moved. 
+Example: 
+Title: Mexico to California : emigration and immigration. 
+651 #0 $a California $x Emigration and immigration. 
+651 #0 $a Mexico $x Emigration and immigration. 
+650 #0 $a Immigrants $z California. 
+650 #0 $a Mexicans $z California. 
+E.2. Government policy 
+Use the free-floating subdivision *--Emigration and immigration--Government policy* under 
+names of regions, countries, cities, etc., for works on the policies adopted by individual 
+governments to encourage or discourage specific types of migration, such as quotas for 
+particular groups, lifting of restrictions for certain occupations, etc. 
+Example: 
+Title: The Caribbean exodus. 
+651 #0 $a Caribbean Area $x Emigration and immigration. 
+651 #0 $a United States $x Emigration and immigration. 
+651 #0 $a United States $x Emigration and immigration $x Government policy. 
+650 #0 $a Immigrants $x Government policy $z United States. 
+F. Immigrants 
+F.1. General 
+Assign *Immigrants* as a class of persons heading to general works on persons who leave their 
+native land and settle in another country in order to become permanent residents or citizens. 
+Use this heading for emigrants as well as immigrants. Subdivide the heading further by the free-
+floating subdivisions used under classes of persons (H 1100), if appropriate. 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Emigration and Immigration H 1581 | Page 4 
+ 
+ 
+F.2. By place 
+For works on immigrants in a particular place, divide the heading by the place in which they 
+have settled. Assign a heading of this type also to works covering both immigrants and their 
+descendants. 
+Example: 
+Title: Immigrants arriving in Ohio in 1985. 
+650 #0 $a Immigrants $z Ohio. 
+651 #0 $a Ohio $x Emigration and immigration. 
+ 
+Title: Australian immigration : the foreign-born population and their 
+Australian-born children. 
+650 #0 $a Immigrants $z Australia $x History. 
+650 #0 $a Children of immigrants $z Australia $x History. 
+651 #0 $a Australia $x Emigration and immigration $x History. 
+F.3. Biography 
+Assign the heading *Immigrants--Biography* or *Immigrants--[place]--Biography* to works of 
+individual or collective biography that are limited to, or include in a significant way, the 
+experience of leaving one country and settling permanently in another. 
+LC practice: Assign a subject heading *Immigrants* or *Immigrants--[place]* to works of 
+individual or collective biography that are limited to, or include in a significant way, the 
+experience of leaving one country and settling permanently in another. Also assign LCGFT 
+appropriate to the form and/or genre of the resource in hand, e.g. LCGFT *Biographies*. 
+Example: 
+Title: Patrick O'Casey : an immigrant in Boston. 
+600 10 $a O'Casey, Patrick, $d 1870-1920. 
+650 #0 $a Immigrants $z Massachusetts $z Boston $v Biography. 
+650 #0 $a Irish $z Massachusetts $z Boston $v Biography. 
+651 #0 $a Boston (Mass.) $v Biography. 
+LC practice: 
+600 10 $a O'Casey, Patrick, $d 1870-1920. 
+650 #0 $a Immigrants $z Massachusetts $z Boston. 
+650 #0 $a Irish $z Massachusetts $z Boston. 
+651 #0 $a Boston (Mass.) 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Emigration and Immigration H 1581 | Page 5 
+ 
+ 
+655 #7 $a Biographies. $2 lcgft 
+G. Ethnic groups 
+G.1. General 
+For works on immigrants belonging to an individual ethnic group, assign a heading for the 
+ethnic group and the heading *Immigrants*. Do not divide *Immigrants* by the place from 
+which they came. Use instead a heading for the name of the ethnic group to bring out their 
+country of origin. 
+Example: 
+Title: Portuguese immigrants in Massachusetts. 
+650 #0 $a Portuguese $z Massachusetts $x History. 
+650 #0 $a Immigrants $z Massachusetts $x History. 
+G.2. Descendants of immigrants 
+For works on individual ethnic groups that do not discuss the immigrant generation, assign a 
+heading for the name of the group. Do not assign the heading *Immigrants*. 
+Example: 
+Title: The economic mobility of third and fourth generation Italian 
+Americans in Hartford, Connecticut. 
+650 #0 $a Italian Americans $z Connecticut $z Hartford $x Economic 
+conditions. 
+H. Noncitizens 
+Assign *Noncitizens* to works that discuss collectively persons who are not citizens of the 
+country in which they reside, including recent immigrants, foreign students, foreign visitors, 
+immigrants and nonciticzens who have entered illegally, military personnel, or government 
+employees temporarily stationed in a foreign country, etc. When this heading is assigned to 
+works on noncitizens who permanently or temporarily relocate across national borders without 
+complying with the legal requirements of the destination country, the heading *Illegal 
+immigration* is also assigned. 
+Example: 
+Title: A history of foreigners in India. 
+650 #0 $a Noncitizens $z India $x History. 
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | Emigration and Immigration H 1581 | Page 6 
+ 
+ 
+I. Migration, Internal 
+I.1. General 
+Assign the heading *Migration, Internal* to works on the movement of persons from one place 
+to another within the same country. 
+Example: 
+Title: Migration in the Prairie Provinces. 
+650 #0 $a Migration, Internal $z Prairie Provinces. 
+I.2. Special aspects 
+Assign headings for specific types of internal migration to works on special aspects of the topic, 
+for example, *Rural-urban migration*, *Urban-rural migration*, etc. 
+Example: 
+Title: Urban migration and economic development in Nigeria. 
+650 #0 $a Rural-urban migration $z Nigeria. 
+651 #0 $a Nigeria $x Economic conditions $y 1960- 
+650 #0 $a Urbanization $z Nigeria. 
+J. Return migration 
+Assign the heading *Return migration* to works on the social or demographic aspects of 
+emigrants' return to their country of origin. 
+Example: 
+Title: The brain drain : emigration to the United States and return. 
+650 #0 $a Brain drain $z Developing countries. 
+650 #0 $a Return migration $z Developing countries. 
+651 #0 $a Developing countries $x Emigration and immigration. 
+651 #0 $a United States $x Emigration and immigration. 
+650 #0 $a Immigrants $z United States. 
+K. Assigning additional headings 
+Works on emigration and immigration are usually multifaceted, requiring an array of headings 
+to bring out various aspects of the material. Assign several headings, if appropriate, to cover 
+the important topics discussed in a work, such as the individual ethnic group involved, the 
+country from which they moved, the immigration process, the place in which they settled, the 
+conditions in which they lived, the history of their descendants, etc. Generally, when assigning 
+
+
+<<<PAGE 7>>>
+Subject Headings Manual | Emigration and Immigration H 1581 | Page 7 
+ 
+ 
+the heading *Emigration and immigration* or *[place]--Emigration and immigration*, assign 
+also the heading *Immigrants*. 
+Examples: 
+Title: The life and hard times of the Rodriguez family in Chicago. 
+600 30 $a Rodriguez family. 
+650 #0 $a Immigrants $z Illinois $z Chicago $v Biography. 
+650 #0 $a Mexicans $z Illinois $z Chicago $v Biography. 
+650 #0 $a Mexican Americans $z Illinois $z Chicago $v Biography. 
+651 #0 $a Chicago (Ill.) $v Biography. 
+651 #0 $a Chicago (Ill.) $x Social conditions. 
+LC practice: 
+600 30 $a Rodriguez family. 
+650 #0 $a Immigrants $z Illinois $z Chicago. 
+650 #0 $a Mexicans $z Illinois $z Chicago. 
+650 #0 $a Mexican Americans $z Illinois $z Chicago. 
+651 #0 $a Chicago (Ill.) $x Social conditions. 
+655 #7 $a Biographies. $2 lcgft 
+ 
+Title: Japanese in Brazil. 
+650 #0 $a Japanese $z Brazil $x History. 
+651 #0 $a Japan $x Emigration and immigration $x History. 
+651 #0 $a Brazil $x Emigration and immigration $x History. 
+650 #0 $a Immigrants $z Brazil $x History. 
+651 #0 $a Brazil $x Civilization $x Japanese influences. 
+ 
+Title: Italian emigration in the 20th century. 
+651 #0 $a Italy $x Emigration and immigration $x History $y 20th century. 
+650 #0 $a Immigrants $x History $y 20th century. 
+650 #0 $a Italians $z Foreign countries $x History $y 20th century. 
+ 
+Title: Cultural assimilation of Chinese immigrant children. 
+650 #0 $a Chinese American children. 
+650 #0 $a Chinese Americans $x Cultural assimilation. 
+650 #0 $a Children of immigrants $z United States. 
+
+
+<<<PAGE 8>>>
+Subject Headings Manual | Emigration and Immigration H 1581 | Page 8 
+ 
+ 
+ 
+Title: Aportaciones e integración de los Vascos a la sociedad mexicana 
+en los siglos XIX-XXI. 
+650 #0 $a Basque diaspora $x History. 
+650 #0 $a Basques $z Mexico $x History. 
+650 #0 $a Basques $z Mexico $x Social life and customs. 
+650 #0 $a Immigrants $z Mexico $x History. 
+650 #0 $a Basques $z Mexico $v Biography. 
+651 #0 $a Mexico $x Civilization $x Basque influences. 
+LC practice: 
+650 #0 $a Basque diaspora $x History. 
+650 #0 $a Basques $z Mexico $x History. 
+650 #0 $a Basques $z Mexico $x Social life and customs. 
+650 #0 $a Immigrants $z Mexico $x History. 
+650 #0 $a Basques $z Mexico. 
+651 #0 $a Mexico $x Civilization $x Basque influences. 
+655 #7 $a Biographies. $2 lcgft 
+Revision history 
+2026-02: Updated template. Added instructions related to LCGFT implementation. 

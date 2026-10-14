@@ -1,0 +1,200 @@
+
+
+<<<PAGE 1>>>
+ 
+Strikes and Lockouts  H 2100 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2100 Page 1 
+ 
+September 2013 
+1.  Subdividing the heading Strikes and lockouts.  When subdividing the heading Strikes and 
+lockouts, use established names of industries rather than groups of employees as subdivisions.  
+Establish each such usage in the subject authority file; add a 450 field reference of the type 
+[heading for industry]BStrikes and lockouts; add no 550 fields.  Provide for geographic 
+subdivision in each case by selecting the May Subd Geog radio button in the Subject Heading 
+Proposal System template.  Example: 
+ 
+ 
+150 ## $a Strikes and lockouts $x Banks and banking 
+450 ## $a Banks and banking $x Strikes and lockouts 
+ 
+ 
+  [not 150 ## $a Strikes and lockouts $x Bank employees 
+450 ## $a Bank employees $x Strikes and lockouts] 
+ 
+ 
+Some older headings established in LCSH do not conform to the policy of using the established 
+name of the industry. Continue to use the headings. Example: 
+ 
+150 ## $a Strikes and lockouts $x Automobile industry 
+450 ## $a Automobile industry and trade $x Strikes and lockouts 
+ 
+ 
+If a heading has already been established using a group of employees as a subdivision, continue 
+to use the heading.  If two headings have been established for the same topic, one subdivided 
+by the name of the industry and the other by the group of employees, cancel the latter heading 
+and use only the former. 
+ 
+ 
+2.  Establishing headings for individually named strikes. 
+ 
+ 
+a.  Strikes not limited to a single employer or firm and not limited to a single city or 
+U.S. county.  Construct the heading as follows: 
+ 
+150 ## $a [generally accepted name or designation in 
+            English], [place], [year(s)] 
+ 
+For [place], use the name of the country, except in the case of a strike limited to a 
+province of Canada, a constituent country of Great Britain, or a state of the United States. 
+
+
+<<<PAGE 2>>>
+H 2100  Strikes and Lockouts 
+ 
+ 
+ 
+H 2100 Page 2 
+Subject Headings Manual 
+September 2013 
+2.  Establishing headings for individually named strikes. 
+ 
+a.  Strikes not limited to a single employer or firm and not limited to a single city or 
+U.S. county.  (Continued) 
+ 
+ 
+Add a 550 (broader term) field from the heading Strikes and lockoutsB[name of 
+industry]B [country (or first order division, when appropriate)].  For general strikes, 
+add the 550 field from the heading General strikesB[place].  Examples: 
+ 
+ 
+150 ## $a Coal Strike, U.S., 1977-1978 
+550 ## $w g $a Strikes and lockouts $x Coal mining  
+            $z United States 
+ 
+150 ## $a Coal Strike, Colo., 1913-1914 
+550 ## $w g $a Strikes and lockouts $x Coal mining  
+            $z Colorado 
+ 
+150 ## $a Police Strike, England, 1919 
+550 ## $w g $a Strikes and lockouts $x Police $z England 
+ 
+150 ## $a Telegraph Workers' Strike, Venezuela, 1930 
+550 ## $w g $a Strikes and lockouts $x Telegraph  
+            $z Venezuela 
+ 
+150 ## $a General Strike, Sri Lanka, 1953 
+550 ## $w g $a General strikes $z Sri Lanka 
+ 
+ 
+ 
+b.  Strikes not limited to a single employer or firm but limited to a single city or U.S. 
+county.  Construct the heading as follows: 
+ 
+150 ## $a [generally accepted name or designation in  
+            English], [city (or U.S. county), larger  
+            jurisdiction], [year(s)] 
+ 
+ 
+Note: Former LC practice was to establish strikes of this type as subdivisions 
+under the city or county. 
+
+
+<<<PAGE 3>>>
+ 
+Strikes and Lockouts  H 2100 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2100 Page 3 
+ 
+September 2013 
+2.  Establishing headings for individually named strikes. 
+ 
+b.  Strikes not limited to a single employer or firm but limited to a single city or U.S. 
+county.  (Continued) 
+ 
+Add a 550 (broader term) field from the heading Strikes and lockoutsB[name of 
+industry]B [country (or first order division, when appropriate)].  For general strikes, 
+add the 550 from the heading General strikesB[place].  Examples: 
+ 
+150 ## $a Bookbinders' Strike, London, England, 1901 
+550 ## $w g $a Strikes and lockouts $x Bookbinders  
+            $z England 
+ 
+150 ## $a Coal Strike, Westmoreland County, Pa., 1910-1911 
+550 ## $w g $a Strikes and lockouts $x Coal mining  
+            $z Pennsylvania 
+ 
+150 ## $a Textile Workers' Strike, Río Blanco, Veracruz- 
+            Llave, Mexico, 1907 
+550 ## $w g $a Strikes and lockouts $x Textile industry 
+            $z Mexico 
+  
+ 
+c.  Strikes against a single employer or firm (not limited to a single city).  Construct 
+the heading as follows: 
+ 
+150 ## $a [heading for the firm as established in RDA form 
+            in the name authority file] Strike, [year(s)] 
+ 
+Add a 550 (broader term) field from the heading Strikes and lockoutsB[name of 
+industry]B [country (or first order division, when appropriate)].  Examples: 
+ 
+150 ## $a United Aircraft of Canada Strike, 1974-1975 
+550 ## $w g $a Strikes and lockouts $x Airlines  
+            $z Québec (Province) 
+ 
+150 ## $a Calvé (Firm) Strike, 1977 
+550 ## $w g $a Strikes and lockouts $x Food industry and 
+            trade $z Netherlands 
+ 
+150 ## $a Spicer, S.A. Strike, 1975. 
+550 ## $w g $a Strikes and lockouts $x Automobile 
+            industry $z Mexico 
+
+
+<<<PAGE 4>>>
+H 2100  Strikes and Lockouts 
+ 
+ 
+ 
+H 2100 Page 4 
+Subject Headings Manual 
+September 2013 
+2.  Establishing headings for individually named strikes.  (Continued) 
+ 
+d.  Strikes against a single employer or firm (limited to a single city).  Construct the 
+heading as follows: 
+ 
+150 ## $a [heading for the firm as established in RDA form 
+            in the name authority file] Strike, [city, larger 
+            jurisdiction], [year(s)] 
+ 
+ 
+Add a 550 (broader term) field from the heading Strikes and lockoutsB[name of indus-
+try]B [country (or first order division, when appropriate)].  Examples: 
+ 
+150 ## $a Stocznia Gda½ska im. Lenina Strike, Gda½sk, 
+            Poland, 1980 
+450 ## $a Lenin Shipyard Strike, Gda½sk, Poland, 
+            1980 
+550 ## $w g $a Strikes and lockouts $x Shipbuilding 
+            industry $z Poland 
+ 
+150 ## $a Marinette Knitting Mills Strike, Marinette, Wis., 
+            1951 
+550 ## $w g $a Strikes and lockouts $x Clothing trade  
+            $z Wisconsin 
+ 
+ 
+e.  Strikes against an educational institution.  Establish strikes by employees against 
+an educational institution according to the instructions in sec. 2.c. or 2.d., above, 
+depending upon whether the educational institution is in a single city.  For student 
+strikes against an educational institution, subdivide the name heading for the institution 
+by the free-floating topical subdivision BStudent strike, [date] (cf. H 1151). 
+ 

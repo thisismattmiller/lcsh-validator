@@ -1,0 +1,85 @@
+
+
+<<<PAGE 1>>>
+ 
+Books and Reading  H 1333 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1333 Page 1 
+ 
+June 2013 
+BACKGROUND:  Books and reading is the heading for the general topic of the significance of 
+books to people, including their reading attitudes and habits.  In the past, the concepts of books 
+and reading for special classes of persons as well as their reading habits were covered by 
+several different types of headings:  Books and reading for [class of persons]; [class of 
+persons]BBooks and reading; [class of persons], Books for; and [class of persons]BBooks for.  
+In 1980 the expression of these topics was standardized in the usage of the free-floating 
+subdivision BBooks and reading.  This subdivision is used under headings for classes of 
+persons, ethnic groups, and names of individual persons for works about books for those persons 
+or about their reading habits and interests.  
+ 
+General lists of recommended books are assigned the heading Best books.  The subdivision 
+BBooks and reading under classes of persons, ethnic groups, or names of individual persons 
+may be further subdivided by the form subdivision BBibliography to designate lists of books 
+recommended for, or read by, those persons. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  Books and reading.  Assign the heading Books and reading to works that discuss the 
+significance of books in people's lives, including their reading habits and attitudes and general 
+interest in reading. 
+ 
+For works limited to the topic of reading interests, assign the heading Reading interests. 
+ 
+ 
+ 
+2.  Best books.  Assign the heading Best books (May Subd Geog) to general lists of 
+recommended books. 
+ 
+For lists of recommended books on specific topics, assign two headings:  
+ 
+650 #0 $a [topic] $v Bibliography. 
+650 #0 $a Best books. 
+ 
+Note:  The heading BibliographyBBest books was changed to Best books (May Subd 
+Geog) in November 1994.  The heading Best books is not subdivided by topic. 
+
+
+<<<PAGE 2>>>
+H 1333  Books and Reading 
+ 
+ 
+ 
+H 1333 Page 2 
+Subject Headings Manual 
+June 2013 
+3.  BBooks and reading. 
+ 
+a.  Classes of persons and ethnic groups.  Use the free-floating subdivision BBooks and 
+reading (May Subd Geog) as a topical subdivision under headings for classes of persons 
+and ethnic groups for works that discuss books for those groups and/or their reading 
+habits and interests.  For works that consist of lists of such books, further subdivide 
+BBooks and reading by BBibliography.  Examples: 
+ 
+650 #0 $a Blind $x Books and reading. 
+650 #0 $a Girls $x Books and reading $v Bibliography. 
+650 #0 $a Legislators $x Books and reading $z United States 
+            $v Bibliography. 
+650 #0 $a Mexican Americans $x Books and reading. 
+ 
+b.  Individual persons.  Use the free-floating subdivision BBooks and reading as a 
+topical subdivision under names of persons for works that discuss their reading interests. 
+ For works that consist of lists of books read by those persons, further subdivide BBooks 
+and reading by BBibliography.  Examples: 
+ 
+600 10 $a Goethe, Johann Wolfgang von, $d 1749-1832 $x Books 
+            and reading . 
+600 10 $a Lincoln, Abraham, $d 1809-1865 $x Books and 
+            reading $v Bibliography. 
+   

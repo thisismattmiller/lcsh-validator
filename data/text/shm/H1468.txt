@@ -1,0 +1,34 @@
+
+
+<<<PAGE 1>>>
+ 
+Contracts  H 1468 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1468 Page 1 
+ 
+June 2013 
+BACKGROUND:  A contract is a legally enforceable agreement between two or more persons 
+or parties to do or not do something specified.  This instruction sheet provides guidelines for 
+assigning the heading Contracts and for establishing phrase headings for particular types of 
+contracts. The free-floating subdivision BContracts and specifications, formerly used under 
+headings for particular types of construction or engineering, was discontinued in 1989. 
+ 
+ 
+ 
+1.  Contracts in general.  Assign the heading Contracts (May Subd Geog) to general works 
+about contracts. 
+ 
+ 
+2.  Special types of contracts.  Establish phrase headings for works containing or discussing 
+specific types of contracts, including those pertaining to types of construction or engineering.  
+Establish these headings in straight rather than inverted form.  Examples: 
+ 
+ 
+150 ## $a Artists' contracts 
+150 ## $a Mechanical engineering contracts 
+150 ## $a Research and development contracts 
+150 ## $a Shipbuilding contracts 
+ 

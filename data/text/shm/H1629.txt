@@ -1,0 +1,156 @@
+
+
+<<<PAGE 1>>>
+ 
+Foreign Relations  H 1629 
+ 
+ 
+BACKGROUND:  The free-floating subdivision BForeign relations is used under names of 
+countries (or regions made up of two or more countries) for works that discuss the diplomatic 
+relations between these countries and other sovereign states.  (The terms country and countries, 
+as used in this instruction sheet, include such entities as colonies, protectorates, and other 
+jurisdictions capable of conducting diplomatic relations, as well as jurisdictions that at any time 
+during their history functioned as autonomous states, such as Sicily.)  This subdivision is not 
+used under jurisdictions below the country level since they do not conduct diplomatic relations 
+and were never sovereign states.  For works that discuss general relations or military relations, 
+the subdivisions BRelations or BMilitary relations are used.  For instructions on the use of 
+these subdivisions, see H 1996.  For classification of works on foreign relations, see F 592. 
+ 
+ 
+ 
+ 
+1.  Diplomatic relations between one region or country and other regions or countries in 
+general.  Assign the heading [region or country]BForeign relations without further 
+subdivision by place, for works that discuss the diplomatic relations of the region or country in 
+general, that is, with three or more regions or countries. 
+ 
+ 
+ 
+Do not further subdivide headings of this type by free-floating century subdivisions.  Headings 
+may be further subdivided by period subdivisions, if they have been editorially established.  Do 
+not interpose the subdivision BHistory between BForeign relations and its period subdivisions. 
+ 
+ 
+ 
+2.  Diplomatic relations between two specific regions or countries.  Further subdivide the 
+subdivision BForeign relations by place for works that discuss the diplomatic relations between 
+two regions or countries.  Make an additional subject entry with the two places in reversed 
+positions.  Example: 
+ 
+ 
+651 #0 $a Great Britain $x Foreign relations $z Argentina.   
+651 #0 $a Argentina $x Foreign relations $z Great Britain. 
+ 
+Subject Headings Manual 
+H 1629 Page 1 
+ 
+November 2015 
+
+
+<<<PAGE 2>>>
+H 1629  Foreign Relations 
+ 
+ 
+2.  Diplomatic relations between two specific regions or countries.  (Continued) 
+ 
+Do not further subdivide headings of this type by period subdivisions.  If appropriate, assign 
+additional headings to bring out a specific time period.  Example: 
+ 
+ 
+Title:  Austria and the Soviet Union, 1918-1935. 
+651 #0 $a Austria $x Foreign relations $z Soviet 
+            Union.   
+651 #0 $a Soviet Union $x Foreign relations  
+            $z Austria. 
+    
+ 
+ 
+ 
+651 #0 $a Austria $x Foreign relations $y 1918-1938. 
+651 #0 $a Soviet Union $x Foreign relations  
+            $y 1917-1945. 
+ 
+ 
+ 
+3.  Diplomatic relations between a region or country and the Catholic Church.  Assign the 
+heading Catholic ChurchBForeign relations to works on the general diplomatic relations of the 
+Catholic Church, that is, on its diplomatic relations with three or more regions or countries.  
+Assign the heading Catholic ChurchBForeign relations (May Subd Geog) to works on the 
+relations of the Church with a specific region or country.  When assigning this heading with 
+local subdivision, assign the additional heading [place]BForeign relationsBCatholic Church.  
+Examples: 
+ 
+ 
+Title:  The Holy See and the international order. 
+610 20 $a Catholic Church $x Foreign relations. 
+650 #0 $a Papacy (International law)  
+650 #0 $a Popes $x Temporal power. 
+ 
+ 
+ 
+Title:  Austria and the papacy in the age of Metternich. 
+610 20 $a Catholic Church $x Foreign relations $z Austria.   
+651 #0 $a Austria $x Foreign relations $x Catholic Church.   
+610 20 $a Catholic Church $z Austria $x History  
+            $y 19th century.   
+650 #0 $a Church and state $z Austria.   
+651 #0 $a Austria $x History $y Francis I, 1792-1835.   
+600 10 $a Metternich, Clemens Wenzel Lothar, $c Fürst von, 
+            $d 1773-1859. 
+ 
+H 1629 Page 2 
+Subject Headings Manual 
+November 2015 
+
+
+<<<PAGE 3>>>
+ 
+Foreign Relations  H 1629 
+ 
+ 
+3.  Diplomatic relations between a region or country and the Catholic Church. 
+ 
+Examples:  (Continued) 
+ 
+Title:  Anglo-Vatican relations, 1914-1939. 
+610 20 $a Catholic Church $x Foreign relations $z Great 
+            Britain.   
+651 #0 $a Great Britain $x Foreign relations $x Catholic 
+            Church. 
+651 #0 $a Great Britain $x Foreign relations $y 1910-1936. 
+651 #0 $a Great Britain $x Foreign relations $y 1936-1945. 
+610 20 $a Catholic Church $x History $y 20th century. 
+ 
+ 
+Do not assign the heading Vatican CityBForeign relations, nor headings of the type 
+[place]BForeign relationsBVatican City. 
+ 
+4.  Diplomatic relations between a region or country and the Palestinian National Authority. 
+See H 980 sec. 4.   
+ 
+5.  Diplomatic relations between a region or country and the Hanseatic League.  Assign the 
+heading Hanseatic LeagueBForeign relations to works on the general diplomatic relations of 
+the Hanseatic League, that is, on its diplomatic relations with three or more regions or countries.  
+Assign the heading Hanseatic LeagueBForeign relations (May Subd Geog) to works on the 
+relations of the League with a specific region or country.  When assigning this heading with 
+local subdivision, assign the additional heading [place]BForeign relationsBHanseatic League.  
+Examples: 
+ 
+Title:  Herrscher und Hansestädte : Studien zum diplomatischen Verkehr im  
+ 
+ 
+ 
+ 
+Spätmittelalter. 
+610 20 $a Hanseatic League $x Foreign relations. 
+ 
+ 
+Title:  Die deutsche Hansa in Russland. 
+610 20 $a Hanseatic League $x Foreign relations $z Russia. 
+651 #0 $a Russia $x Foreign relations $x Hanseatic League. 
+ 
+ 
+Subject Headings Manual 
+H 1629 Page 3 
+ 
+November 2015 

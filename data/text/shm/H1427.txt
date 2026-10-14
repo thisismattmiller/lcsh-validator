@@ -1,0 +1,237 @@
+
+
+<<<PAGE 1>>>
+ 
+Collections of Objects  H 1427 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1427 Page 1 
+ 
+February 2019 
+BACKGROUND:  This instruction sheet provides guidelines for the usage of the free-floating 
+subdivisions designating private collections of objects, and for the assignment of additional 
+headings to works on such collections.  For the treatment of catalogs of private collections and 
+catalogs of library materials, see H 1360 and H 1361.  The following subdivisions are 
+free-floating when used in accordance with the guidelines presented here: 
+ 
+BArchaeological collections 
+BArt collections 
+BBonsai collections 
+BCatalogs and collections  (May Subd Geog)**  
+BCoin collections 
+BEthnological collections  
+BEthnomusicological collections  
+BHerbarium 
+BLibrary 
+BMap collections 
+BMusical instrument collections  
+BNatural history collections 
+BNumismatic collections 
+BPhotograph collections 
+BPoster collections 
+BPrivate collections  (May Subd Geog)**  
+BScientific apparatus collections  
+BSlide collections 
+BStamp collections 
+ 
+**Subdivide geographically only to bring out the place where  
+  the collection is located. 
+ 
+ 
+ 
+ 
+1.  Use of the subdivisions. 
+ 
+a.  General rule.  Use any of the subdivisions listed above (except BPrivate collections 
+and BCatalogs and collections) as a free-floating subdivision under the name of the 
+original owner of a private collection, the owner being an individual person, a family, or 
+a corporate body. 
+
+
+<<<PAGE 2>>>
+H 1427  Collections of Objects 
+ 
+ 
+ 
+H 1427 Page 2 
+Subject Headings Manual 
+February 2019 
+1.  Use of the subdivisions.  (Continued) 
+ 
+b.  BPrivate collections.  Use the subdivision BPrivate collections as a free-floating 
+subdivision under headings for kinds of objects collected (except for natural objects or 
+musical instruments and associated equipment, under which the subdivision BCatalogs 
+and collections is used). 
+ 
+c.  Use of existing subdivisions vs. proposing new subdivisions.  Avoid proposing new 
+subdivisions to be added to the above list.  Whenever possible, use one of the 
+subdivisions provided, such as BArt collections, and assign additional headings in 
+accordance with the provisions below to bring out the specific objects.  Example: 
+ 
+Title:  The Percy Band watch collection. 
+650 #0 $a Clocks and watches $x Private collections  
+         $z New York (State) $z New York.  
+600 10 $a Band, Percy $x Art collections. 
+ 
+  [not 600 10 $a Band, Percy $x Watch collections. 
+(a hypothetical subdivision)] 
+ 
+ 
+2.  Assignment of headings.  Assign the following headings (with form subdivisions, such as 
+BCatalogs, if appropriate) to a work about an individual private collection, including a collection 
+that has been donated or sold to a public institution if the collection is still known by its original 
+name: 
+ 
+ 
+! a heading for the name of owner subdivided by the appropriate collection subdivision. 
+ If the work discusses a private collection owned jointly by a husband and wife, 
+assign headings for both if they have been established.  If owned by a family with 
+one well-known family member named on the title page, assign headings for both the 
+individual person and the family. 
+ 
+! a collection heading that designates the type of object collected.  This may be in the 
+form of a phrase heading such as Photograph collections or a heading with the 
+subdivision BPrivate collections or BCatalogs and collections, as appropriate, for 
+example, ArrowheadsBPrivate collections; Wind instrumentsBCatalogs and 
+collections.  Subdivide this heading by place to bring out the location of the 
+collection when it is possible to do so.  More than one heading may be used to 
+express this aspect of the work. 
+
+
+<<<PAGE 3>>>
+ 
+Collections of Objects  H 1427 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1427 Page 3 
+ 
+February 2019 
+2.  Assignment of headings.  (Continued) 
+ 
+! appropriate heading(s) to bring out any special topics of the collection that have not 
+been covered by the headings assigned in accordance with the above provisions.  
+Use the subdivision BPrivate collections, BCatalogs and collections, or a form 
+subdivision appropriate to the work (for example, BPictorial works, BBibliography, 
+etc.). 
+ 
+! the heading for the institution where the collection is currently housed, if it has been 
+donated or sold by the original owner. 
+ 
+! the name heading for the collection if the collection has a proper name. 
+ 
+ 
+Note:  Partial title added entries were formerly made to bring out the name by which a 
+collection is known if this name appeared embedded in the title of the work being 
+cataloged.  That practice is no longer followed. 
+ 
+ 
+The following examples illustrate the headings to be assigned for each title shown.  The order 
+of the headings has been determined by the nature of the work cataloged and the classification 
+number that would be assigned to it, using the general guidelines presented in H 80. 
+ 
+ 
+Title:  Catalog of the Abram & Frances Pascher Kanof collection of Yiddish 
+theatre posters found in the Library of the American Jewish 
+Historical Society. 
+650 #0 $a Theater, Yiddish $x Posters $x Private collections 
+            $z Massachusetts $z Waltham $v Catalogs. 
+650 #0 $a Theatrical posters $x Private collections  
+            $z Massachusetts $z Waltham $v Catalogs. 
+600 10 $a Kanof, Abram, $d 1903-1999 $x Poster collections 
+            $v Catalogs. 
+600 10 $a Kanof, Frances Pascher $x Poster collections  
+            $v Catalogs. 
+610 20 $a American Jewish Historical Society.  $b Library  
+            $v Catalogs. 
+ 
+ 
+
+
+<<<PAGE 4>>>
+H 1427  Collections of Objects 
+ 
+ 
+ 
+H 1427 Page 4 
+Subject Headings Manual 
+February 2019 
+2.  Assignment of headings.  (Continued) 
+ 
+Title:  Catalogue of coins collected by Maulvi Hakim Habibar Rahman Khan 
+Akhunzada of Dacca and presented to the Dacca Museum. 
+650 #0 $a Coins, Indic $x Private collections $z Bangladesh 
+            $z Dhaka $v Catalogs. 
+600 10 $a Habibar, Rahman Khan, $d 1881-  $x Coin  
+            collections $v Catalogs. 
+610 20 $a Dacca Museum $v Catalogs. 
+ 
+ 
+Title:  Banjos, the Tsumura collection. 
+600 10 $a Tsumura, Akira, $d 1936-  $x Musical instrument 
+            collections $v Catalogs. 
+650 #0 $a Banjo $v Catalogs and collections $z Japan. 
+ 
+ 
+Title:  A catalogue of the Muriel R. Leeds collection of bonsai in the 
+Yoshimura School of Bonsai, Briarcliff, N.Y. 
+650 #0 $a Bonsai $v Catalogs and collections $z New York 
+            (State) $z Briarcliff Manor. 
+600 10 $a Leeds, Muriel R. $x Bonsai collections  
+            $v Catalogs. 
+610 20 $a Yoshimura School of Bonsai $v Catalogs. 
+ 
+ 
+Title:  A catalogue of the Roth collection in the University of Guyana Library. 
+650 #0 $a Indians $v Bibliography $v Catalogs. 
+600 10 $a Roth, Walter E. $q (Walter Edmund), $d 1861-1933 $x 
+ 
+ 
+ 
+ 
+     Library $v Catalogs. 
+610 20 $a University of Guyana. $b Library $v Catalogs. 
+ 
+ 
+Title:  Gold and silver; photographs of Australian goldfields from the 
+ 
+ 
+Holtermann Collection in Scranton.   
+651 #0 $a New South Wales $v Pictorial works. 
+650 #0 $a Gold mines and mining $z Australia $z New South 
+            Wales $v Pictorial works. 
+600 10 $a Holtermann, Bernard Otto, $d 1838-1885  
+            $x Photograph collections. 
+650 #0 $a Photograph collections $z Pennsylvania  
+            $z Scranton. 
+ 
+ 
+
+
+<<<PAGE 5>>>
+ 
+Collections of Objects  H 1427 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1427 Page 5 
+ 
+February 2019 
+2.  Assignment of headings.  (Continued) 
+ 
+Title:  Catalog of the William Mann Collection of California Indian arrow 
+heads in the New York Archaeological Institute. 
+650 #0 $a Arrowheads $x Private collections $z New York 
+            (State) $z New York $v Catalogs. 
+650 #0 $a Indians of North America $x Antiquities $x Private 
+            collections $z New York (State) $z New York  
+            $v Catalogs. 
+651 #0 $a California $x Antiquities $x Private collections 
+            $v Catalogs. 
+600 10 $a Mann, William $x Archaeological collections  
+            $v Catalogs. 
+610 20 $a New York Archaeological Institute $v Catalogs. 

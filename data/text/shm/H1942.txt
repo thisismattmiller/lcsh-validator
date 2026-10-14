@@ -1,0 +1,259 @@
+
+
+<<<PAGE 1>>>
+ 
+Politics and Government  H 1942 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1942 Page 1 
+ 
+September 2013 
+BACKGROUND:  The subject heading Political science, the free-floating subdivision BPolitics 
+and government, and headings and subdivisions for special political topics are assigned to 
+works that discuss the theory, practice, and history of politics and government and citizen 
+participation in the political process.  This instruction sheet provides guidelines for assigning 
+subject headings to works on politics and government and other political topics. 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  Political science.  Assign the heading Political science (May Subd Geog) to works on the 
+discipline or theory of politics.  Subdivide the heading by place for works on the discipline as 
+practiced in a particular place. 
+ 
+Do not use this heading for works on the history of political events or institutions. 
+ 
+ 
+ 
+2.  Political history.  
+ 
+a.  General.  Assign the heading World politics to works on political history 
+worldwide. 
+ 
+Do not assign this heading to theoretical works.  For these works, use the heading 
+International relations. 
+ 
+Assign the heading World politics with established period subdivisions to works on 
+world political history limited to a particular time period.  If an appropriate period 
+subdivision does not exist, establish it for use under this heading.  Because of the size of 
+the files, subdivisions covering ten year periods have been established routinely, 
+beginning with l945-l955.  Example: 
+ 
+Title:  Prospects for East-West relations. 
+650 #0 $a World politics $y l975-1985. 
+651 #0 $a United States $x Foreign relations  
+            $z Soviet Union. 
+651 #0 $a Soviet Union $x Foreign relations  
+            $z United States. 
+
+
+<<<PAGE 2>>>
+H 1942  Politics and Government 
+ 
+ 
+ 
+H 1942 Page 2 
+Subject Headings Manual 
+September 2013 
+2.  Political history.  (Continued) 
+ 
+b.  By place.  Assign the free-floating subdivision BPolitics and government under 
+names of countries, cities, etc., to works on the history of political events and/or the 
+history, description, or critical analysis of governmental and political institutions, parties, 
+organizations, etc., treated collectively. 
+ 
+Further subdivide headings of the type [place]BPolitics and government by established 
+chronological subdivisions or by the free-floating century subdivisions listed under 
+BPolitics and government in H 1140:  B16th, [17th, 18th, 19th, 20th, or 21st] century. 
+Assign century subdivisions only when they do not conflict with established subdivisions 
+for specific time periods.  Establish new chronological subdivisions under headings of 
+the type [place]BPolitics and government to correspond to important events in the 
+history of the place, such as the reign or term of office of a ruler or president of a country. 
+For places smaller than countries, establish subdivisions for significant time periods 
+where there is sufficient material to warrant it.   
+ 
+Generally 
+chronological 
+subdivisions 
+established 
+under 
+[place]BPolitics 
+and 
+government should be the same as those used under the subdivision BHistory for that 
+place but without any intervening descriptive terms.  Example:  
+ 
+ 
+Great BritainBPolitics and governmentB1558-1603  
+ [not  Great BritainBPolitics and governmentBElizabeth, 1558-1603] 
+ 
+ 
+ 
+c.  By ethnic group. 
+ 
+(1) BPolitics and government.  Assign the free-floating subdivision BPolitics 
+and government under individual ethnic groups for works on the group's 
+self-government and/or the political activity of the group or its individual 
+members.  Further subdivide headings of the type [ethnic group]BPolitics and 
+government by the free-floating century subdivisions listed under BPolitics and 
+government in H 1103: B16th, [17th, 18th, 19th, 20th, or 21st] century. 
+ 
+(2) BGovernment relations.  Assign the free-floating subdivision BGovernment 
+relations under individual ethnic groups for works on the relations between the 
+group as a whole and the government of the place in which they reside. 
+
+
+<<<PAGE 3>>>
+ 
+Politics and Government  H 1942 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1942 Page 3 
+ 
+September 2013 
+3.  Practical politics.  Assign the heading Politics, Practical (May Subd Geog) to works on 
+practical methods used in political campaigns, political party work, etc.  
+ 
+ 
+To works discussing the use of practical political methods in a particular place, assign a heading 
+to bring out the place.  Usually this will be a heading of the type [place]BPolitics and 
+government.  
+ 
+ 
+ 
+ 
+4.  Political participation. 
+ 
+a.  General.  Assign the heading Political participation (May Subd Geog) to general 
+works on the participation of citizens in the political process. 
+ 
+ 
+ 
+b.  Classes of persons, organizations, etc.  Assign the free-floating subdivision 
+BPolitical activity (May Subd Geog) under classes of persons, types of corporate bodies, 
+names of individual corporate bodies, persons, families, individual military services, and 
+Christian denominations for works on the political participation of these persons or 
+organizations.  Example: 
+ 
+Title:  Banners unfurled : higher education in Pakistan. 
+650 #0 $a Education, Higher $z Pakistan. 
+650 #0 $a College students $x Political activity 
+            $z Pakistan. 
+ 
+ 
+ 
+c.  By subject.  Assign the free-floating subdivision BCitizen participation under 
+topical headings for works on the participation of citizens in carrying out an activity. 
+ 
+ 
+Do not assign this subdivision under headings for broad disciplines.  Use the 
+subdivision under headings for the specific activity in which citizens participate and 
+share in policy decisions. 
+
+
+<<<PAGE 4>>>
+H 1942  Politics and Government 
+ 
+ 
+ 
+H 1942 Page 4 
+Subject Headings Manual 
+September 2013 
+5.  Political aspects of nonpolitical topics.  Assign the free-floating subdivision BPolitical 
+aspects (May Subd Geog) under topical headings for works on the political dimensions or 
+implications of nonpolitical topics.  Example: 
+ 
+ 
+Title:  Political dynamics of direct foreign investment. 
+650 #0 $a Investments, Foreign $x Political aspects. 
+ 
+ 
+ 
+6.  Special topics.  Assign appropriate specific headings to works on special political topics.  
+Examples: 
+ 
+Campaign funds 
+Lobbying 
+Local government 
+Political parties 
+Pressure groups 
+Right and left (Political science) 
+Voter registration 
+ 
+ 
+ 
+7.  Assigning additional headings.  Works on political topics are usually multifaceted, 
+requiring an array of headings to bring out the important aspects of the material.  Assign several 
+headings, if appropriate, to cover major topics discussed in a work.  In most instances, one of 
+these should be a heading of the type [place]BPolitics and government.  Examples: 
+ 
+Title:  Who's running America? 
+650 #0 $a Elite (Social sciences) $z United States. 
+650 #0 $a Power (Social sciences) 
+650 #0 $a Leadership. 
+651 #0 $a United States $x Politics and government  
+            $y l993-2001. 
+ 
+ 
+Title:  Global collective security in the 1980s. 
+650 #0 $a National security. 
+650 #0 $a World politics $y 1975-1985. 
+
+
+<<<PAGE 5>>>
+ 
+Politics and Government  H 1942 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1942 Page 5 
+ 
+September 2013 
+7.  Assigning additional headings.  Examples:  (Continued) 
+ 
+Title:   Burke and the nature of politics. 
+600 10 $a Burke, Edmund, $d 1729-1797. 
+651 #0 $a Great Britain $x Politics and government $y 1760- 
+            1820. 
+ 
+Title:  Running for office : how women can win. 
+650 #0 $a Political campaigns $z United States. 
+650 #0 $a Politics, Practical $z United States. 
+650 #0 $a Women $x Political activity $z United States. 
+651 #0 $a United States $x Politics and government $y 1989- 
+ 
+Title:  Democracy and empire : Britain, 1865-1914. 
+651 #0 $a Great Britain $x Politics and government  
+            $y 1837-1901. 
+651 #0 $a Great Britain $x Politics and government  
+            $y 1901-1936. 
+ 
+Title:  Drama in the People's Republic of China. 
+650 #0 $a Theater $z China $x History $y 20th century. 
+650 #0 $a Chinese drama $y 20th century $x History and 
+            criticism. 
+650 #0 $a Theater $x Political aspects $z China. 
+650 #0 $a Theater and society $z China. 
+ 
+Title:  Priests, sisters, and political office in the United States. 
+610 20 $a Catholic Church $x Clergy $x Political activity 
+            $z United States $x History $y 20th century. 
+650 #0 $a Nuns $x Political activity $z United States  
+            $x History $y 20th century. 
+650 #0 $a Church and state $z United States $x History  
+            $y 20th century. 
+650 #0 $a Church and state $x Catholic Church $x History  
+            $y 20th century. 
+651 #0 $a United States $x Politics and government $y 1989- 
+ 
+Title: Wake us when it's over : presidential politics of l984. 
+650 #0 $a Presidents $z United States $x Election $y 1984. 
+651 #0 $a United States $x Politics and government  
+            $y 1981-1989. 
+ 

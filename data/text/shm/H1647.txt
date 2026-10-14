@@ -1,0 +1,344 @@
+
+
+<<<PAGE 1>>>
+ 
+History  H 1647 
+  
+ 
+ 
+Subject Headings Manual 
+H 1647 Page 1 
+ 
+February 2018 
+BACKGROUND:  The subdivision BHistory may be used under most headings to designate a 
+historical treatment of the topic in question.  There are, however, certain restrictions on its use. 
+These restrictions are described in this instruction sheet. 
+ 
+1.  General rule.  Except as noted below, use the free-floating subdivision BHistory under 
+topical headings, classes of persons, ethnic groups, uniform titles of sacred works, names of 
+places, including jurisdictions that no longer exist,  and corporate bodies, for descriptions and 
+explanations of past events concerning the topic, group, sacred work, place, or organization.  
+Examples: 
+ 
+650 #0 $a Aeronautics $x History. 
+650 #0 $a Indians of North America $x History. 
+630 00 $a Qur’an $x History.  
+651 #0 $a Washington (D.C.) $x History. 
+651 #0 $a Holy Roman Empire $x History. 
+610 20 $a Catholic Church $x History. 
+610 20 $a General Motors Corporation $x History. 
+ 
+ 
+Do not use BHistory under: 
+ 
+! headings or subdivisions that denote history, that have an obvious historical 
+connotation, or that have been treated as inherently historical 
+ 
+For a discussion of these headings and subdivisions, see sec. 3. 
+ 
+! 
+literary, music, film, television program, and video recording form headings 
+ 
+Instead use BHistory and criticism, for example, English poetryB History and 
+criticism; Dance musicBHistory and criticism; Western filmsBHistory and 
+criticism; Animated television programsBHistory and criticism; Comedy 
+videosBHistory and criticism  For subdivisions used under literatures and 
+literary genres, see H 1156.  For subdivisions used under musical compositions, 
+see H 1160. 
+ 
+! art genre headings qualified by names of national, ethnic, or religious groups 
+ 
+See H 1250, sec. 1. 
+
+
+<<<PAGE 2>>>
+H 1647  History 
+ 
+ 
+ 
+H 1647 Page 2 
+Subject Headings Manual 
+February 2018 
+1.  General rule.  (Continued) 
+ 
+Do not use BHistory under: 
+ 
+! 
+name-title headings or under uniform titles other than sacred works 
+ 
+Assign such headings without subdivision to historical treatments of particular 
+works.  For subdivisions used under literary works entered under author, see H 
+1155.6.  For subdivisions used under literary works entered under title, see H 
+1155.8. 
+ 
+ 
+! names of individual persons or families, including dynasties and royal houses 
+ 
+For subdivisions used under names of individual persons, see H 1110.  For 
+subdivisions used under names of families, see H 1120. For instructions on 
+biographical works, see H 1330.  For instructions on genealogy, see H 1631.  
+For instructions on dynasties, royal houses, etc., see H 1574. 
+ 
+ 
+ 
+2.  Chronological subdivisions.   
+ 
+a.  Established chronological subdivisions.  Use BHistory further subdivided by 
+chronological subdivisions for specific time periods where they are established under 
+headings for topics and places.  Examples: 
+ 
+651 #0 $a United States $x History $y Civil War, 1861-1865. 
+651 #0 $a Japan $x History $y Heian period, 794-1185. 
+650 #0 $a Theater $x History $y To 500. 
+ 
+ 
+b.  Free-floating chronological subdivisions.  Historical periods may also be brought 
+out by headings of the type [topic]BHistoryBTo 1500 or [topic]BHistoryB16th, [17th, 
+18th, 19th, 20th, or 21st] century.  Assign these free-floating BHistoryB[ . . . ] century 
+subdivisions whenever it is possible to do so, that is, when there is no contrary provision 
+in the subject authority file.  Also assign, on a free-floating basis, headings of the type 
+[place or corporate body]B[topic]BHistoryB16th, [17th, 18th, 19th, 20th, or 21st] 
+century so long as the topical subdivision is not one of those listed in sec. 9, and no 
+contrary provision exists in the subject authority file.  
+
+
+<<<PAGE 3>>>
+ 
+History  H 1647 
+  
+ 
+ 
+Subject Headings Manual 
+H 1647 Page 3 
+ 
+February 2018 
+2.  Chronological subdivisions.   
+ 
+b.  Free-floating chronological subdivisions.  (Continued) 
+ 
+ 
+Examples: 
+ 
+ 
+650 #0 $a Technology $z France $x History $y 20th century. 
+651 #0 $a New York (N.Y.) $x Commerce $x History $y 19th 
+            century. 
+610 10 $a Virginia. $b General Assembly $x Contested  
+            elections $x History $y 19th century. 
+ 
+ 
+ 
+For topics or corporate bodies that originated in and are limited to the current century, do 
+not include the century subdivision. 
+ 
+ 
+ 
+In 1997, subdivisions of the type BHistoryB16th, [17th, 18th, 19th, 20th, or 21st] 
+century were added to H 1140, thereby allowing their free-floating use under geographic 
+headings at any level.  These subdivisions were added to facilitate subject access by time 
+period, primarily for places smaller than countries where chronological subdivisions were 
+previously not established.  These free-floating century subdivisions should be used with 
+caution under names of countries and other geographic headings where chronological 
+subdivisions for specific time periods have been established.  Assign these century 
+subdivisions only where there is no conflict with chronological subdivisions established 
+in the subject authority file. 
+ 
+ 
+ 
+c.  Establishing new chronological subdivisions.  In accordance with the instructions in 
+H 620, sec. 3, d. and where there is sufficient material to warrant it, establish new 
+chronological subdivisions under headings of the type [topic or place]BHistory to 
+represent significant time periods in the history of the topic or place, such as the reign or 
+term of office of a ruler or president of a country.  For instructions on establishing 
+events as subdivisions, see H 1592, sec. 5. 
+
+
+<<<PAGE 4>>>
+H 1647  History 
+ 
+ 
+ 
+H 1647 Page 4 
+Subject Headings Manual 
+February 2018 
+3.  Headings and subdivisions that are historical in nature.  Do not use the subdivision 
+BHistory under headings that already denote history, a historical time period, or a historical event, 
+or that have an obvious historical connotation.  Examples: 
+ 
+650 #0 $a Social history. 
+650 #0 $a Nineteen seventies. 
+650 #0 $a Renaissance. 
+650 #0 $a Reconstruction (1914-1939) 
+650 #0 $a Iran-Iraq War, 1980-1988. 
+611 20 $a Paris Peace Conference $d (1919-1920) 
+ 
+ 
+Do not use the subdivision BHistory as a further subdivision after subdivisions that represent 
+events.  Examples: 
+ 
+650 #0 $a Solar eclipses $y 1869. 
+610 20 $a Triangle Shirtwaist Company $x Fire, 1911  
+651 #0 $a Vesuvius (Italy) $x Eruption, 79 
+ 
+ 
+Also, do not use BHistory after subdivisions that denote history or that have traditionally been 
+regarded as being explicitly or implicitly historical.  These are listed in sec. 9. 
+ 
+ 
+Further subdivide these historical headings and subdivisions directly by the chronological 
+subdivisions that are established or authorized for free-floating use with them.  Examples:   
+ 
+650 #0 $a Military history, Modern $y 20th century. 
+651 #0 $a United States $x Foreign relations $y 1783-1815. 
+651 #0 $a Boston (Mass.) $x Politics and government  
+            $y 1775-1865. 
+651 #0 $a Buenos Aires (Argentina) $x Intellectual life 
+            $y 20th century. 
+ 
+ 
+See H 1140 for the free-floating topical subdivisions subdivided by centuries that may be used 
+under geographic headings at any level. 
+     
+ 
+4.  Historical source materials.  See H 2080, sec. 1 for instructions on using the subdivisions 
+BHistoryBSources or BSources for collections or discussions of historical source materials. 
+
+
+<<<PAGE 5>>>
+ 
+History  H 1647 
+  
+ 
+ 
+Subject Headings Manual 
+H 1647 Page 5 
+ 
+February 2018 
+5.  Chronology.  See H 1367, sec. 2 for instructions on using the subdivisions BHistoryB 
+Chronology or BChronology for works containing listings of dates and events in the order of 
+their occurrence in the history of a topic or place. 
+ 
+  
+6.  Philosophy headings. For inverted headings that begin with the word Philosophy, for 
+example, Philosophy, French, and for headings of the type [name of religion] philosophy, for 
+example, Jewish philosophy, chronological subdivisions are established directly under the 
+heading without the interposition of the subdivision BHistory.  Use the subdivision BHistory 
+under these headings only for general historical works, not for those that deal with a specific 
+period.  Do not use the subdivision BHistoryB16th, [17th, 18th, etc.] century under these 
+headings.  If a work deals with a specific period or specific century, and it is judged to be 
+important to bring out that period or century, establish it directly under the heading, if it has not 
+already been established. 
+ 
+ 
+7.  Form subdivisions.  In those instances where it is necessary to designate the history of a form, 
+and no other provisions exist, assign the subdivision BHistory after the subdivision.  Code the 
+subdivision as an $x subfield because it is functioning as a topical subdivision.  Example: 
+ 
+Title:  Development of medical periodicals. 
+650 #0 $a Medicine $x Periodicals $x History. 
+ 
+Consider the following factors, however: 
+ 
+! 
+Form subdivisions that may not be used as topical subdivisions.  Certain form 
+subdivisions may not be used as topical subdivisions because the corresponding 
+topical aspect is designated by another subdivision.  Example: 
+ 
+Form heading:   
+650 #0 $a Medicine $v Indexes. 
+ 
+History of the topic: 
+650 #0 $a Medicine $x Abstracting and indexing  
+            $x History. 
+ 
+! 
+Art form subdivisions.  By custom, art form subdivisions are not further subdivided 
+by BHistory, including the subdivisions BArt, BPortraits, and BIllustrations. 
+
+
+<<<PAGE 6>>>
+H 1647  History 
+ 
+ 
+ 
+H 1647 Page 6 
+Subject Headings Manual 
+February 2018 
+8.  Further subdivision by place.  Do not subdivide the subdivision BHistory by place in order to 
+designate the history of a discipline in a particular place.  Instead, as a general rule, use headings 
+of the type: 
+ 
+650 $0 $a [discipline] $z [place] $x History. 
+ 
+Thus no distinction is normally made between the history of the discipline in a place and the 
+history of conditions in a place.  The above heading is used to designate both aspects. 
+ 
+Note:  For some disciplines these two aspects are separately designated.  In the case of 
+economics, for example, the heading EconomicsB[place]BHistory designates the history 
+of the discipline in a place, whereas the history of economic conditions in a place is 
+designated by the subdivision BEconomic conditions under the name of the place.  
+Normally, exceptional situations of this type are explained by scope notes in the subject 
+authority file. 
+ 
+9.  Subdivisions not further subdivided by BHistory or –History—[century].  Do not use 
+BHistory or –History—[century] after the following free-floating subdivisions: 
+ 
+BAnnexation to [  . . . ] 
+BAnniversaries, etc. 
+BAntiquities  (H 1225) 
+Bart  (H 1250) 
+BCentennial celebrations, etc. 
+BChronology  (H 1367) 
+BChurch history 
+BCivilization  (H 1370) 
+BCommercial policy (H 1642) 
+BCultural policy (H 1642) 
+BDescription and travel  (H 1530) 
+BDiscovery and exploration  (H 1564) 
+BEconomic conditions  (H 1578) 
+BEconomic policy 
+BEnvironmental conditions 
+BForeign economic relations 
+BForeign relations  (H 1629) 
+BGenealogy  (H 1631) 
+BGeography  (H 1530) 
+BGold discoveries 
+BHistorical geography 
+
+
+<<<PAGE 7>>>
+ 
+History  H 1647 
+  
+ 
+ 
+Subject Headings Manual 
+H 1647 Page 7 
+ 
+February 2018 
+9.  Subdivisions not further subdivided by BHistory or –History—[century].  (Continued) 
+ 
+BHistoriography 
+BHistory 
+BHistory, Local  (H 1845) 
+BHistory, Military 
+BHistory, Naval 
+BHistory of doctrines 
+BIllustrations  (H 1659) 
+BIntellectual life 
+BKings and rulers  
+BMilitary policy 
+BMilitary relations  (H 1996) 
+BMoral conditions  
+BOrigin 
+BPolitics and government  (H 1942) 
+BPopulation policy (H 1642) 
+BPortraits  (H 1250) 
+BQueens  
+BRelations  (H 1996) 
+BReligion  (H 1997) 
+BReligious life and customs  (H 2016) 
+BRural conditions 
+BSocial conditions  (H 2055) 
+BSocial life and customs  (H 2057) 
+BSocial policy 

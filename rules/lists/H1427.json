@@ -1,0 +1,231 @@
+{
+  "sheet": "H 1427",
+  "title": "Collections of Objects",
+  "kind": "general-free-floating",
+  "scope": "Free-floating subdivisions designating private collections of objects: all except --Private collections and --Catalogs and collections are used under names of original owners (individual persons, families, corporate bodies); --Private collections and --Catalogs and collections are used under headings for kinds of objects collected.",
+  "pattern_headings": [],
+  "pattern_category": "",
+  "general_notes": [
+    "**Subdivide geographically only to bring out the place where the collection is located.",
+    "Avoid proposing new subdivisions to be added to the above list. Whenever possible, use one of the subdivisions provided, such as --Art collections, and assign additional headings in accordance with the provisions below to bring out the specific objects."
+  ],
+  "entries": [
+    {
+      "subdivision": "--Archaeological collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of original owners of private collections (individual persons, families, or corporate bodies)",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Art collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of original owners of private collections (individual persons, families, or corporate bodies)",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Bonsai collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of original owners of private collections (individual persons, families, or corporate bodies)",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Catalogs and collections",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": true,
+      "use_under": "headings for natural objects or musical instruments and associated equipment (in place of --Private collections)",
+      "notes": "Not used under names of owners (H 1427 sec. 1.a). Coded $v in the sheet's examples, e.g. 650 #0 $a Banjo $v Catalogs and collections $z Japan. Do not interpose --Private collections before it (H 1360 sec. 3).",
+      "see_also": [
+        "--Private collections"
+      ],
+      "consult": [
+        "H 1360"
+      ],
+      "endnote": "Subdivide geographically only to bring out the place where the collection is located."
+    },
+    {
+      "subdivision": "--Coin collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of original owners of private collections (individual persons, families, or corporate bodies)",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Ethnological collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of original owners of private collections (individual persons, families, or corporate bodies)",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Ethnomusicological collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of original owners of private collections (individual persons, families, or corporate bodies)",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Herbarium",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of original owners of private collections (individual persons, families, or corporate bodies)",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Library",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of original owners of private collections (individual persons, families, or corporate bodies)",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Map collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of original owners of private collections (individual persons, families, or corporate bodies)",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Musical instrument collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of original owners of private collections (individual persons, families, or corporate bodies)",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Natural history collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of original owners of private collections (individual persons, families, or corporate bodies)",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Numismatic collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of original owners of private collections (individual persons, families, or corporate bodies)",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Photograph collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of original owners of private collections (individual persons, families, or corporate bodies)",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Poster collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of original owners of private collections (individual persons, families, or corporate bodies)",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Private collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "headings for kinds of objects collected (except for natural objects or musical instruments and associated equipment, under which the subdivision --Catalogs and collections is used)",
+      "notes": "Not used under names of owners (H 1427 sec. 1.a).",
+      "see_also": [
+        "--Catalogs and collections"
+      ],
+      "consult": [
+        "H 1360"
+      ],
+      "endnote": "Subdivide geographically only to bring out the place where the collection is located."
+    },
+    {
+      "subdivision": "--Scientific apparatus collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of original owners of private collections (individual persons, families, or corporate bodies)",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Slide collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of original owners of private collections (individual persons, families, or corporate bodies)",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Stamp collections",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of original owners of private collections (individual persons, families, or corporate bodies)",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    }
+  ]
+}

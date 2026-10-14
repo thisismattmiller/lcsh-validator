@@ -1,0 +1,335 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Families H 1120 | Page 1 
+ 
+ 
+Free-Floating Subdivisions: Names of Families 
+H 1120 
+A. Background ................................................................................................................................. 1 
+B. Recent revisions .......................................................................................................................... 1 
+C. List of topical subdivisions .......................................................................................................... 1 
+D. List of form subdivisions ............................................................................................................. 5 
+Revision history ............................................................................................................................... 6 
+A. Background 
+The subdivisions listed below may be used on a free-floating basis, as appropriate, under 
+subject headings for individual families, dynasties, royal houses, etc., for example, *Smith 
+family*; *Ptolemaic dynasty, 305-30 B.C.*; *Bourbon, House of*; *Normandy, Dukes of*. 
+Note: Most form subdivisions coded $v in this list may also be used as topical subdivisions 
+coded $x when assigned to works about the form (see H 1075, sec. 1.d.). 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Textbooks*. To replace a form subdivision that includes a demographic group, also assign 
+Library of Congress Demographic Groups Terms (LCDGT) to bring out the audience of the 
+resource being cataloged, e.g. *German speakers* or *Arabic, Students of*. 
+B. Recent revisions   
+2026-01: Updated template. Separated general and form subdivisions. Added instructions 
+related to LCGFT implementation. 
+C. List of topical subdivisions 
+A-D | E-H | I-P | Q-Z 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Archaeological 
+collections  
+Use as a topical subdivision under names of individual 
+persons, families, and corporate bodies for works 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Families H 1120 | Page 2 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+about their collections of archaeological items or 
+artifacts. Consult H 1427. 
+$x Art collections 
+ 
+Use as a topical subdivision under names of individual 
+persons and families for works about their collections 
+of art. Consult H 1427. 
+$x Art patronage 
+ 
+Use as a topical subdivision under names of individual 
+persons, families, and corporate bodies for works 
+about their support and patronage of the arts. 
+$x Bonsai collections 
+ 
+Use under names of individual persons, families, and 
+corporate bodies for works about their collections of 
+bonsai. Consult H 1427. 
+$x Clothing 
+ 
+ 
+$x Coin collections 
+ 
+Use as a topical subdivision under names of individual 
+persons, families, and corporate bodies for works 
+about their coin collections. Consult H 1427. 
+$x Ethnological collections 
+ 
+Use as a topical subdivision under names of individual 
+persons, corporate bodies, and families for works 
+about their ethnological collections. Consult H 1427. 
+$x Ethnomusicological 
+collections 
+ 
+Use as a topical subdivision under names of individual 
+persons, corporate bodies, and families for works 
+about their ethnomusicological collections. Consult H 
+1427. 
+$x Health 
+ 
+Use as a topical subdivision under names of individual 
+persons and families for works on the person's or 
+family members' state of health, including diseases 
+suffered and accounts of specific diseases. 
+$x Herbarium 
+ 
+Consult H 1427. 
+$x Homes and Haunts 
+Yes 
+Use as a topical subdivision under names of individual 
+persons, families, and performing groups, classes of 
+persons, and ethnic groups for works on the homes 
+of individual persons, families, or members of the 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Families H 1120 | Page 3 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+group from an architectural or historical point of 
+view. 
+$x In comics 
+ 
+Use as a topical subdivision under names of individual 
+persons, families, corporate bodies, and countries, 
+cities etc., Christian denominations and uniform titles 
+of sacred works, and under names of deities, 
+mythological or legendary figures, and fictitious 
+characters, for works on those persons, 
+organizations, and places in comics. Consult H 1430. 
+$x In literature 
+ 
+Use as a topical subdivision under names of individual 
+persons, families, corporate bodies, and countries, 
+cities etc., Christian denominations and uniform titles 
+of sacred works, and under names of deities, 
+mythological or legendary figures, and fictitious 
+characters, for works on those persons, 
+organizations, and places in literature. Consult H 362; 
+H 1780; H 1790; H 1800. 
+$x In mass media 
+ 
+Use as a topical subdivision under names of individual 
+persons, families, corporate bodies, and countries, 
+cities, etc., and under names of deities, mythological 
+or legendary figures, and fictitious characters, for 
+works on those persons, organizations, and places in 
+mass media. 
+$x In motion pictures 
+ 
+Use as a topical subdivision under names of individual 
+persons, families, corporate bodies, countries, cities, 
+etc., and Christian denominations, and under names 
+of deities, mythological or legendary figures, and 
+fictitious characters, for works about those persons, 
+organizations or places depicted in motion pictures. 
+$x Library 
+ 
+Consult H 1427. 
+$x Manuscripts 
+ 
+Use as a topical subdivision under names of individual 
+persons and families, individual works entered under 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Families H 1120 | Page 4 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+title, uniform titles of sacred works, and under 
+classes of persons, ethnic groups, groups of literary 
+authors, individual literatures, and topical headings 
+for works about manuscripts by those persons, of 
+those titles or literatures, or about those topics. 
+$x Map collections 
+ 
+Use as a topical subdivision under names of individual 
+persons, families, and corporate bodies for works on 
+their collections of maps. Consult H 1427. 
+$x Monuments 
+Yes 
+Consult H 1916. 
+$x Museums 
+Yes 
+Use as a topical subdivision under names of individual 
+persons, families, and corporate bodies, and under 
+ethnic groups, individual wars, and topical headings 
+for which phrase headings for the type of museum 
+have not been established. Consult H 1427. 
+$x Musical instrument 
+collections 
+ 
+Use as a topical subdivision under names of individual 
+persons, families, and corporate bodies for works 
+about their collections of musical instruments. 
+Consult H 1427. 
+$x Natural history 
+collections 
+ 
+Use as a topical subdivision under names of individual 
+persons, families, and corporate bodies for works 
+about their collections of natural history items or 
+specimens. Consult H 1427. 
+$x Numismatic collections 
+ 
+Use as a topical subdivision under names of individual 
+persons, families, and corporate bodies for works 
+about their numismatic collections. Consult H 1427. 
+$x Photograph collections 
+ 
+Use as a topical subdivision under names of individual 
+persons, families, and corporate bodies for works on 
+their collections of photographs. Consult H 1427. 
+$x Political activity 
+Yes 
+Use as a topical subdivision under names of individual 
+persons, families, and corporate bodies; and under 
+classes of persons, types of industries and corporate 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Families H 1120 | Page 5 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+bodies, military services, and Christian 
+denominations for works on the political 
+participation of those persons or organizations. 
+Consult H 1942. 
+$x Poster collections 
+ 
+Use as a topical subdivision under names of individual 
+persons, families, and corporate bodies for works on 
+their collections of posters. Consult H 1427. 
+$x Relics 
+Yes 
+Use as a topical subdivision under names of individual 
+persons and families for works on disinterred bones, 
+etc. For works on graves, interred bones, etc., use the 
+subdivision *--Tombs* under names of individual 
+families. 
+$x Scientific apparatus 
+collections 
+ 
+Use as a topical subdivision under names of individual 
+persons, families, and corporate bodies for works 
+about their collections of scientific apparatus. Consult 
+H 1427. 
+$x Slide collections 
+ 
+Consult H 1427. 
+$x Societies, etc. 
+ 
+Use as a topical subdivision under names of individual 
+persons, families, and corporate bodies, and under 
+classes of persons, ethnic groups, uniform titles of 
+sacred works, and topical headings for works 
+discussing two or more societies or institutions 
+related to those subjects. Consult H 1427. 
+$x Stamp collections 
+ 
+Consult H 1427. 
+$x Tombs 
+Yes 
+Use as a topical subdivision under names of individual 
+families, royal houses, dynasties, etc., and under 
+classes of persons. 
+D. List of form subdivisions 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Textbooks*. 
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Families H 1120 | Page 6 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$v Archives 
+ 
+Consult H 1230. 
+$v Caricatures and cartoons 
+ 
+ 
+$v Catalogs 
+ 
+Consult H 1360. 
+$v Correspondence 
+ 
+Consult H 1480. 
+$v Diaries 
+ 
+Consult H 1538. 
+$v Directories 
+ 
+Consult H 1558. 
+$v Drama 
+ 
+Consult H 1558. 
+$v Fiction 
+ 
+Consult H 1790. 
+$v Literary collections 
+ 
+ 
+$v Pictorial works 
+ 
+Consult H 1935. 
+$v Poetry 
+ 
+Consult H 1800. 
+$v Portraits 
+ 
+Consult H 1935. 
+$v Quotations 
+ 
+Consult H 1969. 
+$v Registers 
+ 
+Consult H 1558. 
+$v Telephone calls 
+ 
+ 
+$v Trials, litigation, etc. 
+ 
+Consult H. 2228. 
+Revision history 
+2026-01: Updated template. Separated general and form subdivisions. Added instructions 
+related to LCGFT implementation. 

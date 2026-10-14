@@ -1,0 +1,86 @@
+
+
+<<<PAGE 1>>>
+ 
+Subdivisions Further Subdivided by Place  H 860 
+ 
+ 
+ 
+Subject Headings Manual 
+H 860 Page 1 
+ 
+January 2022 
+BACKGROUND:  Until 1992, the preferred method of combining a subject heading with both 
+a topical subdivision and a geographic subdivision was to interpose the place name between the 
+heading and the topical subdivision (cf. H 870).  However, a restricted number of subdivisions 
+were authorized for further subdivision by place to form headings of the type [topic]B[topical 
+subdivision]B[place].  Example: 
+ 
+650 #0 $a Construction industry $x Law and legislation  
+          $z Maryland.   
+ 
+The Subject Subdivisions Conference that took place at Airlie, Virginia, in 1991 recommended 
+that the standard order of subdivisions be [topic]--[place]--[chronology]--[form].  In 1992, it 
+was decided to adopt that order where it could be applied.  Toward achieving the 
+recommended order, new subdivisions for which geographic orientation is logical are now 
+established with authorization for further subdivision by place.  On a case-by-case basis, 
+subdivisions not previously divided by place are being authorized for geographic subdivision. 
+ 
+Note:  From 1977 until 1989, certain subdivisions were authorized for exceptional 
+treatment allowing a place name to be located either before the subdivision, after the 
+subdivision, or in both places, for example, Black people--Latin America--Study and 
+teaching--United States.  That practice was discontinued in 1989. 
+ 
+ 
+ 
+ 
+ 
+1.  Free-floating subdivisions.  Free-floating subdivisions that are authorized for further 
+geographic subdivision have the notation (May Subd Geog) on the lists of free-floating 
+subdivisions in H 1095-H 1200.  Use these subdivisions divided by place if required by the 
+work in hand.  Example: 
+ 
+650 #0 $a Chemistry $x Study and teaching $z Maryland. 
+ 
+ 
+ 
+ 
+2.  Non-free-floating subdivisions.  Use subdivisions that are established in the subject 
+authority file with authorization for geographic subdivision divided by place when needed.  
+When establishing new main heading-non-free-floating subdivision combinations, follow the 
+instructions in H 364 sec. 1 to authorize further subdivision by place when appropriate.  
+
+
+<<<PAGE 2>>>
+H 860  Subdivisions Further Subdivided by Place 
+ 
+ 
+ 
+H 860 Page 2 
+Subject Headings Manual 
+January 2022 
+3.  Multiple topical subdivisions.  When combining a main heading with a place name and 
+more than one topical subdivision, place any needed geographic subdivisions following the last 
+subdivision that is authorized for further subdivision by place.  For example, the following 
+subdivisions are on the pattern heading list of free-floating subdivisions used under types of 
+educational institutions (H 1151.5): 
+ 
+--Finance 
+--Finance--Law and legislation  (May Subd Geog) 
+--Services for  (May Subd Geog) 
+--Services for--Contracting out  (May Subd Geog) 
+ 
+Therefore, the following headings may be constructed: 
+ 
+650 #0 $a Medical colleges $z California $x Finance. 
+650 #0 $a Medical colleges $x Finance $x Law and legislation  
+            $z California. 
+650 #0 $a Universities and colleges $x Services for $z Minnesota. 
+650 #0 $a Universities and colleges $x Services for $x Contracting 
+            out $z Minnesota.    
+ 
+ 
+ 
+LC practice: 
+3.  Bibliographic file maintenance.  Correct any bibliographic records encountered in the 
+database that do not conform to current instructions for further geographic subdivision. 

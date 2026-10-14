@@ -1,0 +1,151 @@
+
+
+<<<PAGE 1>>>
+ 
+Extinct Cities  H 715 
+ 
+ 
+ 
+Subject Headings Manual 
+H 715 Page 1 
+ 
+January 2020 
+BACKGROUND:  Because ancient or medieval cities that went out of existence before the 
+creation of modern states seldom produced official publications of their own, headings for these 
+cities are only rarely assigned as descriptive access points.  Therefore headings for all cities 
+that ceased to exist before 1500 are established in the subject authority file, except for those that 
+are established at the request of a descriptive cataloger for use as a main or added entry.  The 
+authority records for the latter reside in the name authority file (cf. H 405).  Until 1991 these 
+headings were established with the qualifier (Ancient city) or (City) depending on the time of 
+existence.  In 1991 both of these qualifiers were replaced by the qualifier (Extinct city).  This 
+instruction sheet provides guidelines for establishing extinct cities as subject headings.  For 
+guidelines on establishing archaeological sites, see H 1225. 
+ 
+ 
+ 
+1.  Extinct cities established as subject headings.  Generally, establish as a subject heading the 
+name of any city, town, village, etc., that ceased to exist by the year 1500, unless it has already 
+been established as a name heading. 
+ 
+Note:  Treat cities of the Americas that ceased to exist by 1500 as archaeological sites 
+rather than as early cities, following the provisions of H 1225. 
+ 
+If it is necessary to assign as a subject heading the name of a city or town that existed beyond 
+1500, or that still exists, establish it as a name heading or request a descriptive cataloger to do 
+so. 
+ 
+Since extinct cities that are needed as main or added entries are established in the name authority 
+file, before establishing such a heading for subject cataloging purposes, search the name 
+authority file to ascertain whether it already exists as a name heading.  Then proceed as 
+follows: 
+ 
+• If the heading is in the name authority file and is coded AACR2 or RDA, assign the 
+heading as established. 
+ 
+• If the heading is in the name authority file but is not coded AACR2 or RDA, establish 
+it as a subject heading.  Notify the Policy, Training, and Cooperative Programs 
+Division of the existence of the invalid heading in the name authority file so that it 
+can be cancelled. 
+ 
+• If the heading is not in the name authority file, establish it as a subject heading 
+according to the guidelines presented in this instruction sheet. 
+
+
+<<<PAGE 2>>>
+H 715  Extinct Cities 
+ 
+ 
+ 
+H 715 Page 2 
+Subject Headings Manual 
+January 2020 
+2.  Early versus modern name.  Do not establish or assign as a subject heading the early name 
+of a city if it is clear that the exact original site of the city in question has been continuously 
+occupied until modern times.  Instead, apply the general rule for a jurisdiction with name 
+change, using only the latest form of the name established as a name heading.  Examples: 
+ 
+London (England) [not Londinium] 
+ 
+Vienna (Austria) [not Vindobona] 
+ 
+Establish an extinct city as a subject heading, however, if a modern village is simply located near 
+or over the extinct city, but has no direct connection with it except the incidental one of 
+proximity. 
+ 
+ 
+3.  Form of heading.  Use the form of the name most commonly applied to the city in standard 
+encyclopedias, gazetteers, etc.  Justify this form in 670 fields in the subject authority record.  
+It is not necessary to request the BGN decision. 
+ 
+Generally choose the form of name that is the most common ancient form.  For example, 
+establish Larsa, not Tall Sankarah, its modern name. 
+ 
+Add to each name the qualifier (Extinct city). 
+ 
+Do not qualify by the name of the current larger jurisdiction in which the city would be located 
+today unless it is necessary to resolve a conflict.  For example, the heading Soli (Cyprus : 
+Extinct city) includes Cyprus as part of the qualifier because there were two ancient cities 
+named Soli, one in what is now Cyprus and one in what is now Turkey. 
+ 
+Do not add the word Site to the heading for the city. 
+ 
+ 
+4.  References.  Make the following references when establishing the heading: 
+ 
+451 #0 $a [alternate early name(s)] (Extinct city) 
+451 #0 $a [alternate modern name(s)] ([modern country]) 
+550 #0 $w g $a Extinct cities $z [modern country] 
+551 #0 $w g $a [modern country] $x Antiquities 
+ 
+Note:  For extinct cities in Great Britain the term [modern country] in the above model 
+refers to the appropriate constituent country. 
+
+
+<<<PAGE 3>>>
+ 
+Extinct Cities  H 715 
+ 
+ 
+ 
+Subject Headings Manual 
+H 715 Page 3 
+ 
+January 2020 
+5.  Use of extinct city names as subjects.  A heading for an extinct city may be treated as either 
+an archaeological site heading or as a city heading, depending on the nature of the work to which 
+it is assigned. 
+ 
+a.  Archaeological site treatment.  If the work discusses the city in its present-day 
+manifestation as an archaeological site, treat the city heading as a site name, following 
+the provisions of H 1225. 
+ 
+b.  Cities treatment.  If the work discusses the city from the viewpoint of its having 
+been a living city, assign the heading in the same manner as headings for modern cities 
+are assigned.  For comprehensive works on the city, assign the name of the city without 
+subdivision.  For works that discuss special aspects of the city (other than 
+archaeological aspects), use topical subdivisions under the city name, as appropriate.  
+Example: 
+ 
+651 #0 $a Carthage (Extinct city) $x Social life and 
+            customs. 
+ 
+Do not use the subdivision –Antiquities under headings for extinct cities. 
+ 
+Use this type of heading both for works limited to the city itself and for those that discuss 
+both the city and its surrounding region.  Do not construct headings of the type [ . . . ] 
+Region (Extinct city) or [ . . . ] (Extinct city) Region. 
+ 
+ 
+6.  Geographic subdivision.  As a geographic subdivision, the heading for an extinct city is 
+divided through the appropriate modern jurisdiction.  Example: 
+ 
+650 #0 $a Coins, Roman $z Bulgaria $z Abrittus (Extinct 
+            city) 
+ 
+ 
+7.  Use of extinct city names as qualifiers.  When the name of an extinct city is used as a 
+qualifier for another heading, for example, for the name of a building, drop the term (Extinct 
+city) from the heading.  Example: 
+ 
+Form of heading for city:  Knossos (Extinct city)  
+Form when used as qualifier:  Palace of Knossos (Knossos) 

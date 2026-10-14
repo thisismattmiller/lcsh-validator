@@ -1,0 +1,1069 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Pattern Headings: Wars H 1200 | Page 1 
+ 
+ 
+Pattern Headings: Wars 
+H 1200 
+Patterns: *United States–History–Civil War, 1861-1865*; *World War, 1939-1945* 
+A. Recent revisions ........................................................................................................................ 1 
+B. Types of headings covered ........................................................................................................ 2 
+C. Types of headings not covered ................................................................................................. 2 
+D. Conflicts .................................................................................................................................... 2 
+E. LC practice ................................................................................................................................. 2 
+F. Special provisions ...................................................................................................................... 2 
+F.1. Geographic subdivision ....................................................................................................... 2 
+F.2. The subdivision –Participation, [...] ..................................................................................... 3 
+F.3. Additional headings for special topics ................................................................................ 3 
+F.3.a. --Participation, [...] ....................................................................................................... 3 
+F.3.b. Topic and subordinate jurisdictions ............................................................................. 4 
+F.3.c. Other special topics ...................................................................................................... 4 
+G. New subdivisions ...................................................................................................................... 4 
+H. List of topical subdivisions ........................................................................................................ 4 
+A-B | C-D | E-F | G-H | I-L | M-P | Q-R | S-T | U-Z ..................................................................... 5 
+I. List of form subdivisions ........................................................................................................... 14 
+Revision history ........................................................................................................................... 15 
+A. Recent revisions 
+2026-03: Updated template. Clarified text. Separated general and form subdivisions. Added 
+instructions related to LCGFT implementation. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Pattern Headings: Wars H 1200 | Page 2 
+ 
+ 
+B. Types of headings covered  
+Headings for individual wars entered directly under their names or as subdivisions under place 
+names. The category includes armed conflicts called by other names, such as coups, 
+revolutions, insurrections, uprisings, invasions, or civil wars. 
+Examples: 
+Crimean War, 1853-1856 
+Turkey--History--Revolution, 1909 
+Transylvania (Romania)--History--Peasant Uprising, 1437-1438 
+Spain--History--Coup d'état, 1981 
+C. Types of headings not covered  
+The category does not include individual battles of wars, for example, *El Alamein, Battle of, 
+Egypt, 1942*. For instructions on individual battles, see H 1285. Also not included are riots, 
+demonstrations, protests, strikes, or other unarmed disturbances, terrorist attacks, and 
+headings that use the word “war” metaphorically rather than literally, such as *War on 
+Terrorism, 2001-2009*. 
+D. Conflicts 
+Any subdivision listed here can be used as a free-floating subdivision under any heading 
+belonging to the category if it is appropriate and no conflict exists in the subject authority file. 
+Subject authority records may exist for headings employing variant phrases or subdivisions 
+equivalent to subdivisions on this list. 
+E. LC practice 
+If an exceptional variant form is to be retained, make a UF reference from the equivalent free-
+floating subdivision form following the procedures in H 195 if the reference does not yet exist. 
+Otherwise, submit a proposal to change the variant form along with all bibliographic records 
+requiring correction following the procedures in H 193. 
+F. Special provisions 
+F.1. Geographic subdivision 
+Subdivisions on this list with the notation (May Subd Geog) should be further subdivided by 
+place only when used after a war established directly under its name, for example, *World 
+War, 1939-1945*. For a war that is established under its own name and that was fought in a 
+single jurisdiction that is either incorporated or implied in the name, further subdivide by place 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Pattern Headings: Wars H 1200 | Page 3 
+ 
+ 
+in accordance with H 830 only to bring out a place other than the one named or implied in the 
+heading, for example, *Falkland Islands War--Military intelligence--Great Britain*, or to bring 
+out a locality within that place, for example, *South African War, 1899-1902--Campaigns--
+South Africa--Calvinia Region*. 
+For a war established as a subdivision under the name of a place, generally a civil war or 
+internal armed conflict, for example, *United States--History--Civil War, 1861-1865*, the 
+subdivisions on this list should not be further subdivided by place. 
+To bring out place in connection with topical subdivisions on this list which do not further 
+subdivide by place, do not construct a single heading by interposing the place between the 
+heading for the war and the topical subdivision. Instead, assign two headings: one for the war 
+divided by topic and another for the war divided by place, for example, *World War, 1914-
+1918--Radar* and *World War, 1914-1918--Denmark*. 
+F.2. The subdivision –Participation, [...] 
+Use subdivisions of the type --Participation, [...], for example, *--Participation, Juvenile*, for 
+discussions of the participation of a particular group in the military actions of a war. Discussions 
+of other aspects of a war in relation to a particular group, such as the war's effect on them, 
+should be entered under a heading of the type [name of war]–[name of group], for example, 
+*World War, 1939-1945--Children*. The subdivision --Participation, [nationality] should be 
+used for works about direct participation of the nationals of the country in the military actions 
+of the war, for example, *Vietnam War, 1961-1975--Participation, Australian*, as well as for 
+works about foreign economic and technical assistance to the combatants, for example, 
+*Poland--History--Revolution, 1863-1864--Participation, Swedish*. Do not use --Participation, 
+[name of group] for the major combatants in any particular war. Do not use *--Participation, 
+Foreign* or --Participation, [nationality] under the headings *World War, 1914-1918* or 
+*World War, 1939-1945*. For the participation of a particular country in one of the world wars, 
+use [name of war]--[country]. 
+F.3. Additional headings for special topics 
+F.3.a. --Participation, [...] 
+When assigning *--Participation, [group of people or nationality]*, assign in addition, either a 
+heading for the group of people involved, subdivided by place if appropriate, or a heading for 
+the country divided by an appropriate subdivision. 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Pattern Headings: Wars H 1200 | Page 4 
+ 
+ 
+F.3.b. Topic and subordinate jurisdictions 
+For works discussing a subordinate jurisdiction in relation to a war established as a subdivision 
+under a place, assign an additional heading for the subordinate jurisdiction, for example, 
+*Spain--History--Civil War, 1936-1939* and *Aragon (Spain)--History*. However, for wars 
+established as subdivisions under the heading *United States--History*, bring out a locality in 
+connection with the war by establishing the war as an event under the locality, for example, 
+*Washington (D.C.)--History--Civil War, 1861-1865*. For general works about the war in this 
+locality, assign only the heading for the locality subdivided by the name of the war. For works 
+about a special topic of a United States war in connection with a specific locality, however, 
+assign both the general heading for the war with appropriate topical subdivision from the list 
+below, as well as the heading for the locality subdivided by the name of the war and the same 
+topical subdivision. 
+Example: 
+651 #0 $a United States $x History $y Revolution, 1775-1783 $x Confiscations 
+and contributions. 
+651 #0 $a New York (State) $x History $y Revolution, 1775-1783 $x 
+Confiscations and contributions. 
+Do not apply this exceptional practice for any place other than the United States (cf. H 1592, 
+sec. 5.e.). 
+F.3.c. Other special topics 
+In cases where a work discusses a specific aspect of a topic covered by a broader subdivision 
+used under wars, assign an additional heading to bring out the specific aspect, if possible. For 
+example, for a work on railroads of the South during the Civil War, assign both the headings 
+*United States--History--Civil War, 1861-1865--Transportation* and *Railroads--Southern 
+States--History--19th century*. 
+G. New subdivisions  
+Establish new subdivisions proposed for this list under *World War, 1939-1945* whenever 
+possible. If a subdivision is not appropriate under that heading, establish it under *United 
+States--History--Civil War, 1861-1865*, if possible. If a subdivision cannot logically be 
+established under either pattern heading, establish it under the specific heading required for 
+the work being cataloged. 
+H. List of topical subdivisions 
+Note: For instructions on geographic subdivision, see sec. F.1. 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Pattern Headings: Wars H 1200 | Page 5 
+ 
+ 
+A-B | C-D | E-F | G-H | I-L | M-P | Q-R | S-T | U-Z 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Aerial operations  
+ 
+ 
+$x Aerial operations, 
+American, [British, etc.]  
+ 
+ 
+$x African Americans 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Amphibious operations 
+ 
+ 
+$x Anniversaries, etc. 
+ 
+ 
+$x Antiaircraft artillery 
+operations 
+ 
+ 
+$x Antiquities 
+ 
+ 
+$x Armistices 
+ 
+ 
+$x Art and the war, 
+[revolution, etc.] 
+ 
+Use as a topical subdivision under individual wars for 
+works about art depicting the war, revolution, etc. 
+Complete the subdivision by repeating the generic term 
+for the type of engagement contained in the heading, 
+for example, Spain--History--Civil War, 1936-1939--Art 
+and the war.  
+$x Artillery operations 
+ 
+ 
+$x Artillery operations, 
+American, [British, French, 
+etc.] 
+ 
+ 
+$x Asian Americans 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Atrocities 
+Yes 
+ 
+$x Autographs 
+ 
+ 
+$x Balloons 
+Yes 
+ 
+$x Basques 
+Yes 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Battleﬁelds 
+Yes 
+ 
+$x Biography 
+ 
+ 
+$x Biological warfare 
+Yes 
+ 
+$x Black people 
+Yes 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | Pattern Headings: Wars H 1200 | Page 6 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Blockades 
+Yes 
+ 
+$x Bomb reconnaissance 
+ 
+ 
+$x Camouﬂage 
+ 
+ 
+$x Campaigns 
+Yes 
+ 
+$x Cartography 
+ 
+ 
+$x Casualties 
+Yes 
+ 
+$x Causes 
+ 
+ 
+$x Cavalry operations 
+ 
+ 
+$x Censorship 
+Yes 
+ 
+$x Centennial celebrations, 
+etc. 
+ 
+ 
+$x Chaplains 
+Yes 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Chemical warfare 
+Yes 
+ 
+$x Children 
+Yes 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Civilian relief 
+Yes 
+ 
+$x Claims 
+ 
+ 
+$x Collaborationists 
+Yes 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Collectibles 
+Yes 
+ 
+$x Commando operations 
+Yes 
+ 
+$x Communications 
+ 
+ 
+$x Concentration camps 
+Yes 
+ 
+$x Conﬁscations and 
+contributions 
+Yes 
+ 
+$x Conscientious objectors 
+Yes 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Conscript labor 
+Yes 
+ 
+$x Cossacks 
+Yes 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Counterfeit money 
+Yes 
+ 
+$x Cryptography 
+ 
+ 
+
+
+<<<PAGE 7>>>
+Subject Headings Manual | Pattern Headings: Wars H 1200 | Page 7 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Deaf 
+Yes 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Deception 
+Yes 
+ 
+$x Desertions 
+Yes 
+ 
+$x Destruction and pillage 
+Yes 
+ 
+$x Diplomatic history 
+ 
+Use only under wars established directly under the 
+name of the war. For wars established under names of 
+places, use [country]--Foreign relations--[period]. 
+$x Draft resisters 
+Yes 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Economic aspects 
+Yes 
+ 
+$x Education and the war, 
+[revolution, etc.] 
+ 
+Complete the subdivision by repeating the generic term 
+for the type of engagement contained in the heading, 
+for example, United States--History--Revolution, 1775-
+1783--Education and the revolution. 
+$x Electronic intelligence 
+Yes 
+ 
+$x Engineering and 
+construction 
+ 
+ 
+$x Environmental aspects 
+Yes 
+ 
+$x Equipment and supplies 
+ 
+ 
+$x Evacuation of civilians 
+Yes 
+ 
+$x Finance 
+Yes 
+ 
+$x Fire ﬁghters 
+Yes 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Flags 
+ 
+ 
+$x Food supply 
+Yes 
+ 
+$x Forced removal of civilians  
+Yes 
+ 
+$x Forced repatriation 
+ 
+ 
+$x Foreign public opinion 
+ 
+Do not use under the headings: World War, 1914-1918; 
+World War, 1939-1945. 
+$x Foreign public opinion, 
+Austrian, [British, etc.] 
+ 
+Do not use under the headings: World War, 1914-1918; 
+World War, 1939-1945. 
+$x Forest warfare 
+Yes 
+ 
+$x Fuel supplies 
+Yes 
+ 
+
+
+<<<PAGE 8>>>
+Subject Headings Manual | Pattern Headings: Wars H 1200 | Page 8 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Gay people 
+Yes 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x German Americans 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Governments in exile 
+ 
+ 
+$x Graﬃti 
+Yes 
+ 
+$x Health aspects 
+Yes 
+ 
+$x Historiography 
+ 
+ 
+$x Hospitals 
+Yes 
+ 
+$x Hostages 
+Yes 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x In bookplates 
+ 
+ 
+$x Indians 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Inﬂuence 
+ 
+ 
+$x Italian Americans 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Japanese Americans 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Jews 
+Yes 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Journalism, Military 
+Yes 
+ 
+$x Journalists 
+Yes 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Jungle warfare 
+Yes 
+ 
+$x Language 
+ 
+ 
+$x Law and legislation 
+Yes 
+See H 1154.5 for further subdivisions used under legal 
+topics. 
+$x Libraries 
+ 
+ 
+$x Literature and the war, 
+[revolution, etc.] 
+ 
+Complete the subdivision by repeating the generic term 
+for the type of engagement contained in the heading, 
+for example, United States--History--Revolution, 1775-
+1783--Literature and the revolution. 
+$x Logistics 
+Yes 
+ 
+
+
+<<<PAGE 9>>>
+Subject Headings Manual | Pattern Headings: Wars H 1200 | Page 9 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Manpower 
+Yes 
+ 
+$x Mass media and the war, 
+[revolution, etc.] 
+ 
+Complete the subdivision by repeating the generic term 
+for the type of engagement contained in the heading, 
+for example, Spain--History--Civil War, 1936-1939--
+Mass media and the war. 
+$x Medals 
+Yes 
+ 
+$x Medical care 
+Yes 
+ 
+$x Mexican Americans 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Military currency 
+Yes 
+ 
+$x Military intelligence 
+Yes 
+ 
+$x Missing in action 
+Yes 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Monuments 
+Yes 
+ 
+$x Moral and ethical aspects 
+Yes 
+ 
+$x Motion pictures and the 
+war, [revolution, etc.] 
+ 
+Complete the subdivision by repeating the generic term 
+for the type of engagement contained in the heading, 
+for example, Sino-Vietnamese Conﬂict, 1979--Motion 
+pictures and the conﬂict. 
+$x Museums 
+Yes 
+ 
+$x Music and the war, 
+[revolution, etc.] 
+ 
+Use as a topical subdivision under individual wars for 
+works about songs or music related to the war. 
+Complete the subdivision by repeating the generic term 
+for the type of engagement contained in the heading, 
+for example, Romania--History--Peasants’ Uprising, 
+1907--Music and the uprising. 
+$x Name 
+ 
+ 
+$x Naval operations 
+ 
+ 
+$x Naval operations $x 
+Submarine 
+ 
+ 
+$x Naval operations, 
+American, [British, etc.] 
+ 
+ 
+$x Occupied territories 
+ 
+ 
+
+
+<<<PAGE 10>>>
+Subject Headings Manual | Pattern Headings: Wars H 1200 | Page 10 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Participation, African 
+American, [Indian, etc.] 
+ 
+For instructions on the use of the subdivision --
+Participation, [...], see sec. E.2 and sec. E.3.a. 
+$x Participation, Buddhist, 
+[Muslim, etc.] 
+ 
+For instructions on the use of the subdivision --
+Participation, [...], see sec. E.2 and sec. E.3.a. 
+$x Participation, Communist 
+ 
+For instructions on the use of the subdivision --
+Participation, [...], see sec. E.2 and sec. E.3.a. 
+$x Participation, Deaf 
+ 
+For instructions on the use of the subdivision --
+Participation, [...], see sec. E.2 and sec. E.3.a. 
+$x Participation, Female 
+ 
+For instructions on the use of the subdivision --
+Participation, [...], see sec. E.2 and sec. E.3.a. 
+$x Participation, Foreign 
+ 
+Do not use under the headings: World War, 1914-1918; 
+World War, 1939-1945. 
+For instructions on the use of the subdivision --
+Participation, [...], see sec. E.2 and sec. E.3.a. 
+$x Participation, Gay 
+ 
+For instructions on the use of the subdivision --
+Participation, [...], see sec. E.2 and sec. E.3.a. 
+$x Participation, German, 
+[Irish, Swiss, etc.] 
+ 
+Do not use under the headings: World War, 1914-1918; 
+World War, 1939-1945. 
+For instructions on the use of the subdivision --
+Participation, [...], see sec. E.2 and sec. E.3.a. 
+$x Participation, Immigrant 
+ 
+For instructions on the use of the subdivision --
+Participation, [...], see sec. E.2 and sec. E.3.a. 
+$x Participation, Indigenous 
+ 
+For instructions on the use of the subdivision --
+Participation, [...], see sec. E.2 and sec. E.3.a. 
+$x Participation, Jewish 
+ 
+For instructions on the use of the subdivision --
+Participation, [...], see sec. E.2 and sec. E.3.a. 
+$x Participation, Juvenile 
+ 
+For instructions on the use of the subdivision --
+Participation, [...], see sec. E.2 and sec. E.3.a. 
+$x Peace 
+ 
+ 
+$x Personal narratives $x 
+History and criticism 
+ 
+ 
+$x Personal narratives, 
+American, [French, etc.] $x 
+History and criticism 
+ 
+ 
+
+
+<<<PAGE 11>>>
+Subject Headings Manual | Pattern Headings: Wars H 1200 | Page 11 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Personal narratives, Jewish 
+$x History and criticism 
+ 
+ 
+$x Photography 
+ 
+ 
+$x Portraits 
+ 
+ 
+$x Postal service 
+ 
+ 
+$x Press coverage 
+Yes 
+ 
+$x Prisoners and prisons 
+ 
+ 
+$x Prisoners and prisons, 
+British, [German, etc.] 
+ 
+When this subdivision is qualiﬁed by nationality, the 
+qualiﬁer refers to the country controlling the prisons 
+and holding the prisoners of war. 
+$x Prizes, etc. 
+ 
+ 
+$x Propaganda 
+ 
+ 
+$x Prophecies 
+ 
+ 
+$x Protest movements 
+Yes 
+ 
+$x Psychological aspects 
+ 
+ 
+$x Public opinion 
+ 
+ 
+$x Radar 
+ 
+ 
+$x Radio broadcasting and the 
+war, [revolution, etc.] 
+ 
+Complete the subdivision by repeating the generic term 
+for the type of engagement contained in the heading, 
+for example, Yugoslav War, 1991-1995--Radio 
+broadcasting and the war. 
+$x Reconnaissance operations 
+ 
+ 
+$x Reconnaissance 
+operations, American, 
+[German, etc.] 
+ 
+ 
+$x Refugees 
+Yes 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Regimental histories 
+Yes 
+For instructions on the use of the subdivision --
+Regimental histories, see H 1995. 
+$x Religious aspects 
+ 
+May be subdivided topically by a religion or Christian 
+denomination. Editorially establish each heading of the 
+type [name of war]--Religious aspects--[name of 
+religion or denomination] or [place]--History--[name 
+of war]--Religious aspects--[name of religion or 
+
+
+<<<PAGE 12>>>
+Subject Headings Manual | Pattern Headings: Wars H 1200 | Page 12 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+denomination]. For instructions on the use of the 
+subdivision, see H 1998. 
+$x Reparations 
+ 
+Do not subdivide geographically under individual wars. 
+$x Repatriation of war dead  
+Yes 
+ 
+$x Riverine operations 
+Yes 
+ 
+$x Riverine operations, 
+American, [British, etc.] 
+Yes 
+ 
+$x Science 
+Yes 
+ 
+$x Scouts and scouting 
+ 
+ 
+$x Search and rescue 
+operations 
+Yes 
+ 
+$x Secret service 
+Yes 
+ 
+$x Sermons 
+ 
+ 
+$x Social aspects 
+Yes 
+ 
+$x Songs and music 
+ 
+Do not further subdivide --Songs and music by --
+History and criticism. Use --Music and the war, 
+[revolution, etc.] instead. 
+$x Sounds 
+ 
+ 
+$x Sources 
+ 
+ 
+$x Tank warfare 
+Yes 
+ 
+$x Technology 
+ 
+ 
+$x Television and the war, 
+[revolution, etc.] 
+ 
+Complete the subdivision by repeating the generic term 
+for the type of engagement contained in the heading, 
+for example, France--History--Revolution, 1789-1799--
+Television and the revolution. 
+$x Territorial questions 
+Yes 
+ 
+$x Theater and the war, 
+[revolution, etc.] 
+ 
+Complete the subdivision by repeating the generic term 
+for the type of engagement contained in the heading, 
+for example, Romania--History--Peasants' Uprising, 
+1907--Theater and the uprising. 
+$x Transportation 
+Yes 
+ 
+$x Treaties 
+ 
+ 
+$x Trench warfare 
+Yes 
+ 
+$x Trophies 
+ 
+ 
+
+
+<<<PAGE 13>>>
+Subject Headings Manual | Pattern Headings: Wars H 1200 | Page 13 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Tunnel warfare 
+Yes 
+ 
+$x Underground literature 
+Yes 
+ 
+$x Underground movements 
+Yes 
+ 
+$x Underground printing 
+plants 
+Yes 
+ 
+$x Unknown military 
+personnel 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Unknown military 
+personnel, American, [British, 
+etc.] 
+ 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Urban warfare 
+Yes 
+ 
+$x Veterans 
+Yes 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Veterinary service 
+Yes 
+ 
+$x War work 
+Yes 
+ 
+$x War work $x American 
+Legion 
+ 
+ 
+$x War work $x Boy Scouts 
+ 
+ 
+$x War work $x Catholic 
+Church, [Methodist Church, 
+etc.] 
+ 
+ 
+$x War work $x Churches 
+ 
+ 
+$x War work $x Elks 
+ 
+ 
+$x War work $x Girl Scouts 
+ 
+ 
+$x War work $x Red Cross 
+ 
+ 
+$x War work $x Salvation 
+Army 
+ 
+ 
+$x War work $x Schools 
+ 
+ 
+$x War work $x Young Men's 
+Christian associations 
+ 
+ 
+$x War work $x Young 
+Women's Christian 
+associations 
+ 
+ 
+
+
+<<<PAGE 14>>>
+Subject Headings Manual | Pattern Headings: Wars H 1200 | Page 14 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Women 
+Yes 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+$x Youth 
+Yes 
+See H 1100 for further subdivisions used under classes 
+of persons. 
+I. List of form subdivisions 
+LC practice: In early 2025, the use of form subdivisions was phased out. Library of Congress 
+catalogers assign Library of Congress Genre/Form Terms (LCGFT) to bring out the form(s) 
+and/or genre(s) of the resource being cataloged. Therefore, the form subdivisions maintained 
+on this list are not available for use by Library of Congress catalogers. Catalogers at institutions 
+external to LC may use them as dictated by their own institutional policies. 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$v Almanacs 
+ 
+ 
+$v Art and the war, 
+[revolution, etc.] 
+ 
+Use as a form subdivision under individual wars for 
+collections of art, including reproductions of art, 
+depicting the war, revolution, etc. Complete the 
+subdivision by repeating the generic term for the type of 
+engagement contained in the heading, for example, 
+Spain--History--Civil War, 1936-1939--Art and the war. 
+$v Autographs 
+ 
+ 
+$v Biography 
+ 
+ 
+$x Casualties $v Statistics 
+ 
+Use this subdivision combination as a form subdivision 
+under individual wars. 
+$v Chronology 
+ 
+ 
+$v Gift books 
+ 
+ 
+$v Pamphlets 
+ 
+ 
+$v Personal narratives 
+ 
+The subdivisions --Personal narratives and --Personal 
+narratives with national or ethnic qualiﬁers may also be 
+used under headings for battles that are parts of wars. 
+For instructions on the use of --Personal narratives, see 
+H 1928. 
+
+
+<<<PAGE 15>>>
+Subject Headings Manual | Pattern Headings: Wars H 1200 | Page 15 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$v Personal narratives, 
+American, [French, etc.] 
+ 
+The subdivisions --Personal narratives and --Personal 
+narratives with national or ethnic qualiﬁers may also be 
+used under headings for battles that are parts of wars. 
+For instructions on the use of --Personal narratives, see 
+H 1928. 
+$v Personal narratives, 
+Confederate 
+ 
+The subdivisions --Personal narratives and --Personal 
+narratives with national or ethnic qualiﬁers may also be 
+used under headings for battles that are parts of wars. 
+For instructions on the use of --Personal narratives, see 
+H 1928. 
+$v Personal narratives, 
+Jewish 
+ 
+The subdivisions --Personal narratives and --Personal 
+narratives with national or ethnic qualiﬁers may also be 
+used under headings for battles that are parts of wars. 
+For instructions on the use of --Personal narratives, see 
+H 1928. 
+$v Pictorial works 
+ 
+ 
+$v Portraits 
+ 
+ 
+$v Registers 
+ 
+ 
+$v Registers of dead 
+Yes 
+ 
+$v Sermons 
+ 
+ 
+$v Songs and music 
+ 
+Do not further subdivide --Songs and music by --History 
+and criticism. Use --Music and the war, [revolution, etc.] 
+instead. 
+$v Songs and music $v Texts 
+ 
+ 
+$v Sources 
+ 
+ 
+$v Treaties 
+ 
+ 
+Revision history 
+2026-03: Updated template. Clarified text. Separated general and form subdivisions. Added 
+instructions related to LCGFT implementation. 

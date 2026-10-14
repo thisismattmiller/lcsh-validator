@@ -1,0 +1,296 @@
+
+
+<<<PAGE 1>>>
+ 
+Gods and Mythological Figures  H 1635 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1635 Page 1 
+ 
+January 2020 
+BACKGROUND:  Until July 2013, headings for individual named gods, goddesses, and 
+mythological figures were established in LCSH.  After that date, headings for individual named 
+gods, goddesses, and mythological figures are established as RDA name authority records.  
+Groups of gods, goddesses, and mythological figures, and types of them, continue to be 
+established in LCSH. The heading God and headings of the type God (name of religion) (e.g., 
+God (Christianity); God (Greek religion)) also continue to be established in LCSH. 
+ 
+This instruction sheet presents guidelines for establishing the names of groups of gods, 
+goddesses, and mythological figures, as well as types of mythological monsters, animals, items, 
+structures, etc.  It describes the procedures for cancelling subject headings for individual 
+named gods, goddesses, and mythological figures when name authority records have been 
+created.  It also describes the application of headings for both individual, and groups of, gods 
+and mythological figures.  For instructions on establishing and assigning headings for 
+legendary characters see H 1795. 
+ 
+ 
+1.  Groups of gods and goddesses.  
+ 
+a.  Form of heading.  Establish named groups of gods and goddesses in the subject 
+authority file.  Qualify the name of each group with ([name of religion, ethnic group, 
+etc.] deities) as appropriate. Do not divide headings geographically.  Examples: 
+ 
+ 
+150 ## $a Ādityas (Hindu deities) 
+150 ## $a Amesha Spentas (Zoroastrian deities)  
+150 ## $a Nymphs (Greek deities) 
+ 
+ 
+b.  References.  Make UF references for variant names.  Optionally, UFs may be 
+added with the name of the group in a language other than the vernacular or English if 
+such a reference is judged to be useful.  
+ 
+Make a BT for Gods or Goddesses, qualified by the name of the religion, ethnic group, 
+etc.  Examples: 
+ 
+550 ## $w g $a Aztec goddesses 
+550 ## $w g $a Gods, Roman 
+550 ## $w g $a Goddesses, Greek 
+   or  550 ## $w g $a Hindu goddesses 
+
+
+<<<PAGE 2>>>
+H 1635  Gods of Greek and Roman Mythology 
+ 
+ 
+ 
+H 1635 Page 2 
+Subject Headings Manual 
+January 2020 
+1.  Groups of gods and goddesses.  
+ 
+b.  References.  (Continued) 
+ 
+Where equivalences between groups of Greek and Roman gods can be determined, also 
+add a 550 (related term) field to the record for each heading. 
+ 
+ 
+ 
+c.  Examples. 
+ 
+150 ## $a Amesha Spentas (Zorastrian deities) 
+450 ## $a Amahrāspand (Zoroastrian deities) 
+450 ## $a Amesa Spentas (Zoroastrian deities) 
+450 ## $a Ameshāspand (Zoroastrian deities) 
+450 ## $a Ameshāspand (Zoroastrian deities) 
+450 ## $a Mahrāspand (Zoroastrian deities) 
+550 ## $w g $a Zoroastrian gods  
+[a type of divine entity] 
+ 
+ 
+150 ## $a Lokapālas (Buddhist deities)   
+450 ## $a Four Guardian Deities (Buddhist deities) 
+450 ## $a Four Guardian Kings (Buddhist deities) 
+450 ## $a Four Heavenly Kings (Buddhist deities) 
+550 ## $w g $a Buddhist gods 
+[group of four individually named gods] 
+ 
+ 
+150 ## $a Muses (Greek deities) 
+550 ## $w g $a Goddesses, Greek 
+[the nine daughters of Zeus and Mnemosyne] 
+ 
+ 
+ 
+2.  Groups of mythological figures. 
+ 
+ 
+a.  Form of heading.  Establish named groups of mythological figures in the subject 
+authority file.  Qualify the name of each group with ([nationality, ethnic group, etc.] 
+mythology) as appropriate. Do not divide headings geographically.  Examples: 
+ 
+ 
+150 ## $a Argonauts (Greek mythology) 
+150 ## $a Furies (Roman mythology) 
+150 ## $a Valkyries (Norse mythology) 
+ 
+
+
+<<<PAGE 3>>>
+ 
+Gods and Mythological Figures  H 1635 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1635 Page 3 
+ 
+January 2020 
+ 
+2.  Groups of mythological figures.  (Continued) 
+ 
+ 
+b.  References.  Make UF references for variant names.  Optionally, UFs may be 
+added with the name of the group in a language other than the vernacular or English if 
+such a reference is judged to be useful.   
+ 
+ 
+Make a BT for Mythology, qualified by the name of the religion, ethnic group, etc. 
+Examples: 
+ 
+ 
+550 ## $w g $a Abenaki mythology 
+550 ## $w g $a Buddhist mythology 
+550 ## $w g $a Gods, Roman 
+   or  550 ## $w g $a Mythology, Japanese 
+ 
+ 
+If the group belongs to a broader general category of mythological beings (e.g., 
+Monsters), make A BT for the category. 
+ 
+ 
+c.  Examples. 
+ 
+ 
+150 ## $a Ba Xian (Taoist mythology) 
+450 ## $a Eight Immortals (Taoist mythology) 
+550 ## $w g $a Taoist mythology 
+[group of eight individually named mythological figures] 
+ 
+ 
+150 ## $a Harpies (Greek mythology) 
+450 ## $a Harpyiae (Greek mythology) 
+550 ## $w g $a Monsters 
+550 ## $w g $a Mythology, Greek 
+[winged beasts, the number of which is unknown] 
+ 
+ 
+150 ## $a Gorgons (Greek mythology) 
+550 ## $w g $a Mythology, Greek 
+[group of three three sisters] 
+ 
+
+
+<<<PAGE 4>>>
+H 1635  Gods of Greek and Roman Mythology 
+ 
+ 
+ 
+H 1635 Page 4 
+Subject Headings Manual 
+January 2020 
+3.  Types of mythological monsters, animals, etc.  
+ 
+ 
+a.  Form of heading. Establish types of mythological monsters, animals, etc., in the 
+subject authority file. Qualify the heading if necessary to remove ambiguity or elucidate 
+the term or phrase (cf. H 357). If adding a qualifier, prefer the form ([nationality, ethnic 
+group, etc.] mythology).  Examples: 
+ 
+ 
+150 ## $a Basilisks (Mythical animals) 
+150 ## $a Leopard men 
+ 
+ 
+ 
+Treat individual mythological items, structures, etc., in the same way.  Example: 
+ 
+ 
+150 ## $a Augean stables (Greek mythology) 
+150 ## $a Golden bough (Roman mythology) 
+ 
+ 
+b.  References.  Make UF references for variant names.  Optionally, UFs may be 
+added with the name of the group in a language other than the vernacular or English if 
+such a reference is judged to be useful.   
+ 
+Make one or more BTs for the broader category to which the heading belongs. 
+ 
+ 
+c.  Examples.   
+ 
+150 ## $a Fauns (Roman mythology) 
+550 ## $w g $a Animals, Mythical 
+550 ## $w g $a Mythology, Roman 
+[beasts that are part man and part goat] 
+ 
+ 
+150 ## $a Unicorns 
+550 ## $w g $a Animals, Mythical 
+[beasts that resemble horses with horns growing from their foreheads] 
+ 
+ 
+150 ## $a Yeti  
+450 ## $a Abominable snowman 
+550 ## $w a $a Monsters $z Himalaya Mountains 
+[man-sized, ape-like creatures of the Himalayas] 
+
+
+<<<PAGE 5>>>
+ 
+Gods and Mythological Figures  H 1635 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1635 Page 5 
+ 
+January 2020 
+4.  Existing LC subject headings for individual gods, goddesses, and mythological figures. 
+Existing LC subject headings for individual gods, goddesses, and mythological figures remain 
+valid for use as subjects until name authority records for the characters are created and the 
+subject authority records are cancelled. Follow the instructions below when creating a new name 
+authority record for an individual god or goddess. 
+ 
+a.  Name heading needed for use as a descriptive access point. Create a name 
+authority record according to the instructions in RDA and the LC-PCC Policy Statements. 
+Search LCSH to determine whether the heading has been established there, and if it has, 
+submit a proposal to cancel the heading, following the instructions in H 193 sec. 14. 
+ 
+Note: Catalogers in PCC libraries who do not submit SACO proposals should 
+make a name authority record and then request the Policy, Training, and 
+Cooperative Programs Division (policy@loc.gov) to create a proposal to cancel 
+the subject heading. 
+ 
+b.  Heading needed for subject use only.  Optionally, an RDA name authority record 
+may be created even if the heading is needed only for use as a subject heading.  Create a 
+name authority record according to the instructions in RDA and the LC-PCC Policy 
+Statements. Submit a proposal to cancel the existing subject heading, following the 
+instructions in H 193 sec. 14. 
+ 
+c.  Phrase headings based on headings for individual gods, goddesses, and 
+mythological figures.  Make proposals to cancel phrase headings based on the heading 
+for the god, goddess, or mythological figure when the phrase will be replaced by a 
+[heading]—[free-floating subdivision] combination, unless the heading is needed for 
+hierarchy (i.e., is a BT for another heading).  Example: 
+ 
+150 ## $a Demeter (Greek deity) 
+682 ##  $i This authority record has been deleted because the subject 
+heading is covered by an identical name heading $0 
+(DLC)no2104024166 
+ 
+150 ## $a Demeter (Greek deity) in literature 
+682 ## $a  This authority record has been deleted because the heading 
+is replaced by the heading $a Demeter (Greek deity)—in 
+literature, $i a heading for which a subject authority record 
+is not made because it uses a free-floating subdivision.  
+ 
+Make proposals to revise phrase headings based on the heading for the god, goddess, or 
+mythological figure when the phrase will be replaced by a [heading]—[subdivision] 
+combination in which the subdivision is not free-floating.   
+
+
+<<<PAGE 6>>>
+H 1635  Gods of Greek and Roman Mythology 
+ 
+ 
+ 
+H 1635 Page 6 
+Subject Headings Manual 
+January 2020 
+ 
+ 
+ 
+5.  Assignment of headings.   
+ 
+ 
+a.  General.  See H 1795 sec. 2.  
+ 
+ 
+b.  Free-floating subdivisions from H 1110.  Free-floating subdivisions used under 
+names of persons established in the name authority file (H 1110) may not be used under 
+headings for gods, goddesses, or mythological figures.  Subdivisions from H 1110 that 
+are needed for use under an individual heading may be editorially established under the 
+specific heading. 

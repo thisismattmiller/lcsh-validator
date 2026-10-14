@@ -1,0 +1,509 @@
+
+
+<<<PAGE 1>>>
+ 
+Folklore  H 1627 
+  
+ 
+ 
+Subject Headings Manual 
+H 1627 Page 1 
+ 
+September 2013 
+BACKGROUND:  The term folklore refers to those aspects of culture that are learned orally, 
+by imitation, or by observation, including traditional beliefs, narratives (tales, legends, proverbs, 
+etc.), folk medicine, and other aspects of the expressive performance and communication 
+involved in oral tradition.  The subdivision BSocial life and customs, in contrast, is broader 
+and includes not only folklore, but also manners, customs, ceremonies, popular traditions, etc. 
+ 
+This instruction sheet provides guidelines for assigning an array of headings to folkloric works.  
+When possible, the following topics should be brought out:  (a) the ethnic, national, or 
+occupational group that originated the folklore, and/or its place of origin; (b) the theme of the 
+folklore; (c) the folkloric emphasis or genre. 
+ 
+These instructions apply primarily to folklore in general.  Where specific instructions exist for 
+subdisciplines of folklore that are in conflict with these instructions, the guidelines for the more 
+specific discipline take precedence.  For example, for folk music, the instructions in H 1917 
+apply; for genres of folk literature, such as folk poetry, the standard provisions for literary 
+works presented in H 1780-H 1800 take precedence over these instructions in case of conflict. 
+ 
+It should be noted that certain genre headings, such as Folk literature, Folk drama, Folk poetry, 
+etc., are treated as literary form headings, while others, such as Tales, are treated as folklore 
+headings.  Literary genre headings may be qualified only by the types of adjectives appropriate 
+to those headings (usually language), even when they are assigned to folkloric works.  
+Conversely, folklore headings may be qualified only by adjectives designating ethnic groups, 
+even when they are assigned to literary works.   
+ 
+For classification of folklore and folk literature, see F 590.  
+ 
+1.  Assignment of headings. 
+ 
+a.  General rule.  Assign the appropriate combination of the following types of 
+headings to folkloric works: 
+ 
+650 #0 $a [ethnic, national, or occupational group] $z [place]  
+            $x Folklore. 
+650 #0 $a [theme] $x Folklore. 
+650 #0 $a [heading(s) for specific folklore genre(s)] $z [place]. 
+650 #0 $a Folklore $z [place]. 
+651 #0 $a [place] $x Social life and customs. 
+650 #0 $a [other topics, as applicable] 
+ 
+Note:  The subdivision BFolkore is free-floating. 
+
+
+<<<PAGE 2>>>
+H 1627  Folklore 
+ 
+ 
+ 
+H 1627 Page 2 
+Subject Headings Manual 
+September 2013 
+1.  Assignment of headings.  (Continued) 
+ 
+b.  Special provisions. 
+ 
+(1) Collections.  Assign to a collection of folklore texts, if possible, the first 
+three categories of headings listed above.  Assign other headings as appropriate 
+for the work. 
+ 
+ 
+(2) Works that discuss folklore.  Assign headings in the first three categories 
+above to works limited to a specific genre, further subdividing the genre heading 
+by BHistory and criticism (or by more specific subdivisions such as BThemes, 
+motives or BClassification, if appropriate). 
+ 
+To works not limited to a specific genre, assign headings in the fourth and fifth 
+categories instead of those in the third category.  Do not use the subdivision 
+BHistory and criticism under these headings. 
+ 
+ 
+ 
+ 
+2.  Explanation of the categories of headings. 
+ 
+a.  Ethnic, national, or occupational group. 
+ 
+(1) General rule.  When possible, assign headings of the type [ethnic, national, 
+or occupational group]B[place, if appropriate]BFolklore.  Examples: 
+ 
+ 
+650 #0 $a African Americans $z Louisiana $x Folklore. 
+650 #0 $a Jews $x Folklore. 
+650 #0 $a Italians $z Austria $x Folklore. 
+650 #0 $a Chimney sweeps $z Netherlands $x Folklore. 
+ 
+ 
+Do not assign headings of this type for individual nationalities within their own 
+countries.  Use instead FolkloreB[place] or headings for individual genres with 
+local subdivision, for example, FolkloreBItaly [not ItaliansBFolklore]. 
+
+
+<<<PAGE 3>>>
+ 
+Folklore  H 1627 
+  
+ 
+ 
+Subject Headings Manual 
+H 1627 Page 3 
+ 
+September 2013 
+2.  Explanation of the categories of headings. 
+ 
+a.  Ethnic, national, or occupational group.  (Continued) 
+ 
+(2) American Indians.  For American Indian groups, assign a heading for the 
+specific tribe, if any, or for the major group, if the work is not limited to a specific 
+tribe.  Examples: 
+ 
+ 
+650 #0 $a Cree Indians $x Folklore. 
+650 #0 $a Indians of North America $z Canada  
+            $x Folklore. 
+ 
+ 
+The former practice of assigning to works on specific tribes a heading for both the 
+tribe and the major group has been discontinued. 
+ 
+The practice of using the subdivision BLegends under groups of Indians was 
+discontinued in 1994. 
+ 
+ 
+ 
+ 
+(3) Occupational groups.  If the work being cataloged discusses the folklore of an 
+occupational group within a single ethnic group, assign headings for both groups. 
+ Example: 
+ 
+ 
+650 #0 $a Weavers $z Morocco $x Folklore. 
+650 #0 $a Berbers $z Morocco $x Folklore. 
+ 
+ 
+ 
+ 
+(4) Influence of one ethnic group on another's folklore.  Designate the influence 
+of an ethnic group on the folklore of another group by establishing and assigning 
+headings of the following type:  [ethnic group]BFolkloreB[ . . . ] influences, for 
+example, Finno-UgriansBFolkloreBSlavic influences. 
+
+
+<<<PAGE 4>>>
+H 1627  Folklore 
+ 
+ 
+ 
+H 1627 Page 4 
+Subject Headings Manual 
+September 2013 
+2.  Explanation of the categories of headings.  (Continued) 
+ 
+b.  Special themes in folklore.  If the work has a special theme, designate the theme by 
+means of the free-floating subdivision BFolklore under topics.  Examples:   
+ 
+ 
+650 #0 $a Stars $x Folklore. 
+650 #0 $a Lizards $z Louisiana $x Folklore. 
+ 
+ 
+Do not use the subdivision BFolklore under topics that are inherently folkloric, such as 
+Evil eye; Ghosts; Mermaids. 
+ 
+Do not confuse this use of the subdivision BFolklore under topics with the use of 
+BLegends under topics.  The latter subdivision is used under a few religious topics, for 
+example, GrailBLegends, but only in connection with published medieval romances and 
+legends.  In all other instances the subdivision BFolklore is used both for folkloric texts 
+and for criticism. 
+ 
+The use of the subdivision BLegends and stories under types of animals has been 
+discontinued (see H 1720). 
+ 
+ 
+ 
+ 
+c.  Headings for specific folklore genres.  The following is a list of typical folklore 
+genre headings, grouped according to treatment category: 
+ 
+ 
+ 
+  Folklore (General)   
+   
+Musical   
+ 
+Literary   
+  
+   Fairy tales   
+ 
+   
+Ballads   
+ 
+Fables 
+   Legends    
+ 
+ 
+Folk music      
+Folk drama 
+   Tales   
+ 
+ 
+ 
+Folk songs      
+Folk literature 
+Folk poetry 
+Nursery rhymes 
+Proverbs 
+Riddles 
+
+
+<<<PAGE 5>>>
+ 
+Folklore  H 1627 
+  
+ 
+ 
+Subject Headings Manual 
+H 1627 Page 5 
+ 
+September 2013 
+2.  Explanation of the categories of headings. 
+ 
+c.  Headings for specific folklore genres.  (Continued) 
+ 
+(1) General provisions.  To a collection of folkloric texts in one genre, assign the 
+appropriate genre heading, subdividing it by place if appropriate.  See the Back-
+ground statement on p. 1 for further information on the various treatments 
+discussed below. 
+ 
+For works of criticism, subdivide the genre heading, or the genre heading with 
+geographic subdivision, by the subdivision BHistory and criticism, for example, 
+TalesBArizonaBHistory and criticism. 
+ 
+Qualify literary genre headings, that is, headings in the third column above, by 
+language or nationality in accordance with normal literary form heading practice. 
+ For translations, subdivide these literary genre headings by the appropriate 
+translation subdivisions, for example, BTranslations or BTranslations into [ . . . ] 
+(cf. H 2220). 
+ 
+Do not qualify headings in the first column above by language or nationality.  
+For the special rules for qualifying musical genre headings, and use of the 
+subdivision BTexts, see H 1917.  Do not use translation subdivisions under 
+headings in either of the first two columns above. 
+ 
+Guidelines applicable to specific genre headings are given below. 
+ 
+ 
+(2) Fairy tales.  Assign this heading to collections of traditional narratives that 
+typically deal with supernatural beings (such as fairies, ogres, dragons) or 
+supernatural events, and which are often created for the amusement of children.  
+If in doubt as to whether to assign the heading Tales, which represents the blanket 
+term for traditional narratives, or Fairy tales, prefer Tales. 
+ 
+ 
+(3) Folk literature.  Assign this heading to collections containing three or more 
+folklore genres.  For collections of two genres, assign the appropriate headings 
+for the genres. 
+
+
+<<<PAGE 6>>>
+H 1627  Folklore 
+ 
+ 
+ 
+H 1627 Page 6 
+Subject Headings Manual 
+September 2013 
+2.  Explanation of the categories of headings. 
+ 
+c.  Headings for specific folklore genres.  (Continued) 
+ 
+(4) Legends.  Assign this heading to collections of traditional narratives generally 
+regarded by their tellers as true.  They may include narratives that are religious 
+(such as those associated with the lives of saints or martyrs, religious objects or 
+beings), supernatural (for example, vampires, werewolves, or ghosts), about 
+individuals (for example, national figures or heroes), or about specific places 
+(such as those emphasizing place name origins, or folk histories). 
+ 
+ 
+For legends associated with historical persons known to have existed, assign 
+headings of the type [name of person]BLegends, for example, Crockett, Davy, 
+1786-1836BLegends. 
+ 
+ 
+For texts involving legendary figures, use headings of the type [name of 
+figure]BLegends, for example, John HenryBLegends. 
+ 
+ 
+To medieval legends involving religious objects, assign topical headings with the 
+subdivision BLegends, for example, GrailBLegends (see sec. 2, above). 
+ 
+ 
+Qualify the heading Legends by the names of religions to designate the legends 
+of individual religions, for example, Christian legends; Buddhist legends. 
+ 
+ 
+For legends of American Indian groups, use the subdivision BFolklore under 
+individual tribes and major groups.  The practice of using the subdivision 
+BLegends under groups of Indians was discontinued in 1994.  Assign the 
+additional heading LegendsB[place]. 
+ 
+ 
+Subdivide the heading Legends or the form subdivision BLegends by the 
+subdivision BHistory and criticism for works that discuss the genre. 
+
+
+<<<PAGE 7>>>
+ 
+Folklore  H 1627 
+  
+ 
+ 
+Subject Headings Manual 
+H 1627 Page 7 
+ 
+September 2013 
+2.  Explanation of the categories of headings. 
+ 
+c.  Headings for specific genres.  (Continued) 
+ 
+(5) Tales.  Assign this heading to collections of traditional narratives that are for 
+the most part fictitious and are told primarily for entertainment.  Example: 
+ 
+Title:  Yankee yarns. 
+650 #0 $a Tales $z New England. 
+ 
+For works that are collections of a single tale type, assign a heading of the type 
+[tale name] (Tale), for example, Dragon slayer (Tale).  For works that discuss 
+the type, subdivide by BHistory and criticism.  Some headings of this type may 
+also be represented by a similar uniform title heading that is used for added 
+entries.  Do not use the uniform title in assigning subject headings.  For 
+example, use Puss in Boots (Tale) instead of the uniform title Puss in boots. 
+ 
+For tales of American Indian groups, use the subdivision BFolklore under 
+individual tribes and major groups.  Assign the additional heading TalesB 
+[place]. 
+ 
+d.  Folklore.  Assign this heading, with geographic subdivision if appropriate, to works 
+that discuss folklore in general or that discuss folklore as a discipline. 
+ 
+Do not assign this heading to a work that deals only with one or more specific folklore 
+genres.  Instead, assign headings for the specific genres with the subdivision BHistory 
+and criticism or the heading Folk literature with the subdivision BHistory and 
+criticism, as described in sec. 3, above. 
+ 
+Do not use the subdivision BHistory and criticism under this heading. 
+ 
+When the heading is subdivided by place, assign an additional heading of the type 
+[place]BSocial life and customs. 
+ 
+In the case of national groups in countries other than their own (but not American ethnic 
+groups), assign a folklore heading to bring out the place of origin and another to bring out 
+the present location.  Example: 
+ 
+650 #0 $a Germans $z Romania $x Folklore. 
+650 #0 $a Folklore $z Romania. 
+650 #0 $a Folklore $z Germany. 
+
+
+<<<PAGE 8>>>
+H 1627  Folklore 
+ 
+ 
+ 
+H 1627 Page 8 
+Subject Headings Manual 
+September 2013 
+2.  Explanation of the categories of headings.  (Continued) 
+ 
+e.  Other topics.  Assign other headings as needed.  Examples: 
+ 
+650 #0 $a Traditional medicine. 
+650 #0 $a Literature and folklore. 
+650 #0 $a Folk dentistry. 
+650 #0 $a Psychoanalysis and folklore. 
+650 #0 $a Oral tradition. 
+650 #0 $a Folklore and history. 
+650 #0 $a Storytelling. 
+ 
+ 
+ 
+3.  Examples. 
+ 
+Note:  Titles are provided in the following examples only to demonstrate a principle of 
+subject assignment, and are not the titles of real works.  The subject headings are listed 
+in the order of the categories given in sec. 1.a.  The actual order of assignment of these 
+headings is determined by the principles described in H 80. 
+ 
+Title:  A classification of American folk tales. 
+650 #0 $a Tales $z United States $v Classification. 
+ 
+Title:  Folklore of Tunisian potters. 
+650 #0 $a Potters $z Tunisia $x Folklore. 
+650 #0 $a Folklore $z Tunisia. 
+651 #0 $a Tunisia $x Social life and customs. 
+ 
+Title:  Legends collected among the preliterate peoples of Nigeria. 
+650 #0 $a Legends $z Nigeria. 
+ 
+Title:  Scottish tales and legends. 
+650 #0 $a Tales $z Scotland. 
+650 #0 $a Legends $z Scotland. 
+ 
+Title:  Mexican American folk medicine traditions from Texas. 
+650 #0 $a Mexican Americans $z Texas $x Folklore. 
+650 #0 $a Mexican Americans $x Medicine $z Texas. 
+650 #0 $a Traditional medicine $z Texas. 
+651 #0 $a Texas $x Social life and customs. 
+
+
+<<<PAGE 9>>>
+ 
+Folklore  H 1627 
+  
+ 
+ 
+Subject Headings Manual 
+H 1627 Page 9 
+ 
+September 2013 
+3.  Examples  (Continued) 
+ 
+Title:  Analysis of legends told by Italians in Austria. 
+650 #0 $a Italians $z Austria $x Folklore.   
+650 #0 $a Legends $z Italy $x History and criticism.   
+650 #0 $a Legends $z Austria $x History and criticism. 
+ 
+  
+Title:  Bachama stories and storytelling. 
+650 #0 $a Bachama (African people) $x Folklore. 
+650 #0 $a Tales $z Nigeria. 
+650 #0 $a Storytelling $z Nigeria. 
+ 
+ 
+Title:  Folklore of the Jews in the Ukraine. 
+650 #0 $a Jews $z Ukraine $x Folklore. 
+650 #0 $a Folklore $z Ukraine. 
+651 #0 $a Ukraine $x Social life and customs. 
+ 
+ 
+Title:  Navajo animal tales translated into English. 
+650 #0 $a Navajo Indians $v Folklore. 
+650 #0 $a Animals $v Folklore. 
+650 #0 $a Tales $z Southwest, New. 
+ 
+ 
+Title:  An analysis of Navajo legends. 
+650 #0 $a Navajo Indians $x Folklore.   
+650 #0 $a Legends $z Southwest, New $x History and  
+            criticism. 
+ 
+ 
+Title:  About Afro-American tales in Gullah from Georgia. 
+650 #0 $a African Americans $z Georgia $x Folklore.   
+650 #0 $a Tales $z Georgia $x History and criticism. 
+650 #0 $a Sea Islands Creole dialect. 
+
+
+<<<PAGE 10>>>
+H 1627  Folklore 
+ 
+ 
+ 
+H 1627 Page 10 
+Subject Headings Manual 
+September 2013 
+3.  Examples.  (Continued) 
+ 
+Title:  Folklore of the Berber weavers of Morocco. 
+650 #0 $a Berbers $z Morocco $x Folklore.   
+650 #0 $a Weavers $z Morocco $x Folklore. 
+650 #0 $a Folklore $z Morocco. 
+651 #0 $a Morocco $x Social life and customs. 
+ 
+ 
+ 
+Title:  Iban tales, legends, proverbs collected in Sarawak. 
+650 #0 $a Iban (Bornean people) $v Folklore.   
+650 #0 $a Folk literature, Iban $z Malaysia $z Sarawak. 
+ 
+ 
+ 
+Title:  A collection of tales, songs and poems obtained among the Tuaregs and  
+ 
+ 
+ 
+translated into English. 
+650 #0 $a Tuaregs $v Folklore. 
+650 #0 $a Folk literature, Tamashek $v Translations into 
+          English.   
+ 
+ 
+ 
+Title:  The folklore of garlic among Italian Americans in 
+Massachusetts. 
+650 #0 $a Italian Americans $z Massachusetts $x Folklore.   
+650 #0 $a Garlic $z Massachusetts $x Folklore.   
+650 #0 $a Folklore $z Massachusetts.   
+651 #0 $a Massachusetts $x Social life and customs. 
+ 

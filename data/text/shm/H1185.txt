@@ -1,0 +1,122 @@
+
+
+<<<PAGE 1>>>
+ 
+Pattern Headings: Religions  H 1185 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1185 Page 1 
+ 
+January 2022 
+PATTERN:  Buddhism 
+ 
+ 
+TYPES OF HEADINGS COVERED BY THE PATTERN:  Headings for named religions, 
+including their sects and denominations, established in either the name authority file or the 
+subject authority file.  Examples:  Bahai Faith; Hinduism; International Society for 
+Krishna Consciousness; Islam; Judaism; Shin (Sect); Shinto; Sufism; United Church of 
+Religious Science; Vaishnavism.  The category does not include Christianity or Christian 
+denominations and sects.  For variant Christian phrase headings and subdivisions used under 
+Christianity, see the subject authority file.  For subdivisions used under individual Christian 
+denominations and sects, see H 1187.  The category also does not cover name headings for 
+individual or local temples, congregations, etc., nor subject headings for religious movements.  
+For subdivisions used under the names of individual religious or monastic orders of all religions, 
+see H 1186. 
+ 
+ 
+CONFLICTS:  Any subdivision listed here can be used as a free-floating subdivision under any 
+heading belonging to the category if it is appropriate and no conflict exists in the subject 
+authority file.  Subject authority records may exist for headings employing variant phrases or 
+subdivisions equivalent to subdivisions on this list. 
+ 
+LC practice: 
+If an exceptional variant form is to be retained, make a UF reference from the equivalent 
+free-floating subdivision form following the procedures in H 195 if the reference does not yet 
+exist.  Otherwise, submit a proposal to change the variant form along with all bibliographic 
+records requiring correction following the procedures in H 193. 
+ 
+ 
+Note:  Most form subdivisions coded $v in this list may also be used as topical 
+subdivisions coded $x when assigned to works about the form (see H 1075, sec. 1.d.). 
+ 
+ 
+$v Apologetic works 
+$x Apologetic works $x History and criticism 
+$v Catechisms 
+$x Charities 
+$v Controversial literature 
+$x Controversial literature $x History and criticism 
+$v Creeds 
+$x Customs and practices 
+
+
+<<<PAGE 2>>>
+H 1185  Pattern Headings: Religions 
+ 
+ 
+ 
+H 1185 Page 2 
+Subject Headings Manual 
+January 2022 
+$x Discipline 
+$x Doctrines 
+$x Essence, genius, nature 
+$x Government 
+$x Influence 
+$x Lexicography 
+$x Liturgical objects  (May Subd Geog) 
+$x Missions  (May Subd Geog) 
+$x Origin 
+$x Political aspects1  (May Subd Geog) 
+$v Prayers and devotions 
+$x Prayers and devotions $x History and criticism 
+$x Psychology 
+$x Relations5 
+$x Relations $x Christianity, [Islam, etc.]5 
+$x Rituals2 
+$x Rituals $v Texts2 
+$x Rituals $x Texts $v Concordances2 
+$x Rituals $x Texts $x History and criticism2 
+$v Sacred books3 
+$x Sacred books $x Hermeneutics 
+$x Sacred books $v Introductions 
+$x Sacred books $x Language, style 
+$x Sacred books $x Preservation  (May Subd Geog) 
+$x Sacred books $v Quotations 
+$v Sermons4 
+$x Sermons $x History and criticism4 
+$x Social aspects  (May Subd Geog) 
+ 
+ 
+ 
+NOTES 
+ 
+1Not established under Buddhism.  Use only under individual sects or denominations.  For religions, assign a 
+heading of the type: [name of religion] and politics, for example, Buddhism and politics. 
+2Do not use the subdivision –Rituals and its further subdivisions under Judaism and sects of Judaism.  Instead use 
+the subdivision –Liturgy under Judaism, its sects, and its rites.  The latter subdivision may be further subdivided 
+by –Study and teaching; –Texts; and –Texts–History and criticism. 
+3For subdivisions used under the uniform titles of individual sacred works, see H 1188. 
+
+
+<<<PAGE 3>>>
+ 
+Pattern Headings: Religions  H 1185 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1185 Page 3 
+ 
+January 2022 
+ 
+ 
+4Use only under individual sects or denominations.  For individual religions, establish headings of the type [name 
+of religion] sermons, for example, Buddhist sermons. 
+5For instructions on the use of this subdivision see H 1996 sec. 1 and sec. 3.  
+  
+Make an additional subject entry with the two religions in reversed positions (e.g., Buddhism—Relations—Islam 
+and Islam—Relations—Buddhism). 
+ 

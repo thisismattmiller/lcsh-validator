@@ -1,0 +1,200 @@
+
+
+<<<PAGE 1>>>
+ 
+Music: Jazz and Popular Music  H 1916.5 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1916.5 Page 1 
+ 
+June 2013 
+BACKGROUND:  This instruction sheet provides guidelines for assigning headings to jazz and 
+popular music, and for using geographic and chronological subdivisions. 
+ 
+ 
+ 
+ 
+1.  Headings. 
+ 
+ 
+a.  Jazz.  Assign the heading Jazz, with geographic and chronological subdivisions if 
+appropriate.  In addition: 
+ 
+ 
+(1)  Solo jazz.  Assign headings of the type Piano music (Jazz) or Guitar music 
+(Jazz) to jazz for a solo instrument. 
+ 
+ 
+(2)  Solo instrument(s) accompanied by jazz ensemble.  Assign headings of the 
+type Trumpet with jazz ensemble or Concertos (Piano and saxophone with 
+jazz ensemble) to music for one or more solo instruments accompanied by a jazz 
+ensemble. 
+ 
+ 
+(3)  Genres or styles of jazz.  Assign headings for specific jazz genres or styles, 
+such as Big band music; Dixieland music. 
+ 
+ 
+(4)  Jazz vocals.  Assign the heading Jazz vocals to songs performed in jazz 
+style by a vocalist or vocal group, with or without accompaniment. 
+ 
+ 
+ 
+b.  Popular music.  Assign the headings Popular music or Popular instrumental 
+music when more specific headings for style or genre are not appropriate.  Judge the 
+portion of a collection sufficient for assigning more specific headings according to 
+standard practice.  Assign Popular music to items consisting entirely of vocal music or 
+of both vocal and instrumental popular music.  Assign Popular instrumental music to 
+items consisting entirely of instrumental popular music. 
+
+
+<<<PAGE 2>>>
+H 1916.5  Music: Jazz and Popular Music 
+ 
+ 
+ 
+H 1916.5 Page 2 
+Subject Headings Manual 
+June 2013 
+2.  Geographic and chronological subdivisions.  Use geographic and chronological 
+subdivisions for all items to which the subdivisions apply, collections and individual works.  
+This policy differs from the policy for using geographic and chronological subdivisions under 
+headings for Western art music, which is described in H 1160. 
+ 
+ 
+ 
+a.  Styles and genres not subdivided by BUnited States.  Special treatment for 
+geographic subdivision is provided for the popular music styles and genres listed below, 
+which originated in the United States.  Do not subdivide these headings by BUnited 
+States.  Do subdivide by regions, states, cities of the United States, etc., as appropriate.  
+References of the type Country musicBUnited States use Country music have been 
+made in the subject authority file under the headings in this list: 
+ 
+ 
+ 
+150 ## $a Big band music 
+150 ## $a Bluegrass music 
+150 ## $a Blues (Music) 
+150 ## $a Boogie woogie (Music) 
+150 ## $a Bop (Music) 
+150 ## $a Country music 
+150 ## $a Dixieland music 
+150 ## $a Doo-wop (Music) 
+150 ## $a Folk-rock music 
+150 ## $a Funk (Music) 
+150 ## $a Honky-tonk music 
+150 ## $a Jazz 
+150 ## $a Jazz vocals 
+150 ## $a Old-time music 
+150 ## $a Ragtime music 
+150 ## $a Rap (Music) 
+150 ## $a Rhythm and blues music 
+150 ## $a Rockabilly music 
+150 ## $a Soul music 
+150 ## $a Swing (Music) 
+150 ## $a Western swing (Music) 
+150 ## $a Women's music 
+ 
+ 
+ 
+Rock music, though American in origin, is not included in this list because the genre has 
+become an international one. 
+
+
+<<<PAGE 3>>>
+ 
+Music: Jazz and Popular Music  H 1916.5 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1916.5 Page 3 
+ 
+June 2013 
+2.  Geographic and chronological subdivisions.   (Continued) 
+ 
+b.  Anglo-American popular music.  Care needs to be taken when using 
+Anglo-American countries as geographic subdivisions, particularly the United States, 
+Canada, and Great Britain, where the intended market and the popularity of the music are 
+not limited to the country of publication.  As a general rule, noting the exception in para. 
+a. above, use these countries as geographic subdivisions only if the country is 
+emphasized specifically in the work or the music is obviously of national focus. 
+ 
+This provision does not apply to works with regional or local focus.  For such works, 
+subdivide by the region or other locality, according to standard practice for geographic 
+subdivision given in H 830. 
+ 
+ 
+c.  Special chronological subdivisions for certain headings.   
+ 
+ 
+(1) Headings with exceptional chronological subdivisions.  For the headings 
+listed below special chronological subdivisions have been established, mainly by 
+decade.  Use these instead of the standard subdivisions for musical works shown 
+in H 1160:  
+ 
+150 ## $a Bluegrass music 
+$y To 1951; $y 1951-1960; [etc.] 
+150 ## $a Blues (Music)  
+$y To 1931; $y 1931-1940; [etc.] 
+150 ## $a Country music  
+$y To 1951; $y 1951-1960; [etc.] 
+150 ## $a Jazz 
+ 
+ 
+$y To 1921; $y 1921-1930; [etc.] 
+150 ## $a Popular instrumental  
+            music 
+ 
+ 
+$y To 1901; $y 1901-1910; [etc.] 
+150 ## $a Popular music  
+$y To 1901; $y 1901-1910; [etc.] 
+150 ## $a Rock music 
+ 
+$y To 1961; $y 1961-1970; [etc.] 
+ 
+ 
+(2) Usage of special chronological subdivisions. 
+ 
+(a) Written music.  Select chronological subdivisions on the basis of 
+when the music was popular, or if that is not known, by date of 
+composition or publication, in that order of preference. 
+ 
+(b) Performed music (sound recordings, moving image materials, etc.).  
+Select chronological subdivisions on the basis of when the music was 
+popular, or if that is not known, by the date of recording, etc. 
+
+
+<<<PAGE 4>>>
+H 1916.5  Music: Jazz and Popular Music 
+ 
+ 
+ 
+H 1916.5 Page 4 
+Subject Headings Manual 
+June 2013 
+2.  Geographic and chronological subdivisions.    
+ 
+ 
+c.  Special chronological subdivisions for certain headings. 
+ 
+ 
+(2) Usage of special chronological subdivisions.  (Continued) 
+ 
+ 
+(c) Books and other materials about jazz and popular music.  Use 
+chronological subdivisions, including those in sec. 2.c.(1) above where 
+they apply, as appropriate based on the content of the work. 
+ 
+ 
+(d) Limit of two chronological subdivisions.  Do not use more than two 
+chronological subdivisions.  If more than two would be required to 
+describe the item completely, do not use chronological subdivisions. 
+ 
+ 
+ 
+d.  Geographic area codes.  For the headings listed in sec. 3.a., above, where 
+geographic orientation is implied assign the geographic area code n-us---. 

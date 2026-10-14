@@ -1,0 +1,138 @@
+
+
+<<<PAGE 1>>>
+ 
+Textbooks  H 2187 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2187 Page 1 
+ 
+June 2013 
+BACKGROUND:  This instruction sheet provides guidelines for the cataloging of textbooks 
+and works about textbooks.  For purposes of this instruction sheet, a textbook is defined as a 
+work that presents a particular subject in an organized and simplified manner and is explicitly 
+intended to be used for the purpose of learning that subject.  Until 2002, the Library of 
+Congress did not generally use the subdivision BTextbooks as a form subdivision except in the 
+case of textbooks for the study of sacred works and in the case of variant forms of the 
+subdivision for religious education textbooks and textbooks for the study of foreign languages.  
+In 2002, those restrictions on the usage of  BTextbooks as a form subdivision were discontinued. 
+  
+ 
+ 
+ 
+ 
+1.  The heading Textbooks.  Use the heading Textbooks (May Subd Geog) as a topical heading 
+for general works on textbooks or works on the textbooks of several disciplines discussed 
+collectively. 
+ 
+ 
+ 
+ 
+2.  The subdivision BTextbooks.  Use the subdivision BTextbooks as a free-floating topical 
+subdivision under any subject for works that discuss textbooks on that subject.  Examples: 
+ 
+Title:  Textbooks for Canadian history : a study. 
+651 #0 $a Canada $x History $x Textbooks. 
+ 
+Title:  Science textbooks of the 19th century. 
+650 #0 $a Science $x Textbooks $x History $y 19th century. 
+ 
+ 
+Also use the subdivision as a form subdivision for individual textbooks at all levels.  Example: 
+ 
+Title:  Chemistry : an introductory textbook. 
+650 #0 $a Chemistry $v Textbooks. 
+ 
+Note:  Use the subdivision BTextbooks as a form subdivision only if a work is explicitly 
+identified as a textbook.  In the case of narrative treatises that may be used as textbooks 
+but are not necessarily published for that purpose, or in other cases of doubt, do not 
+assign the subdivision. 
+
+
+<<<PAGE 2>>>
+H 2187  Textbooks 
+ 
+ 
+ 
+H 2187 Page 2 
+Subject Headings Manual 
+June 2013 
+3.  Special topics in textbooks.  For works on the presence of a topic in textbooks not devoted 
+to that topic, assign a heading of the type [topic] in textbooks.  Examples: 
+ 
+ 
+Title:  Racism in American textbooks. 
+650 #0 $a Racism in textbooks. 
+650 #0 $a Textbooks $z United States. 
+ 
+ 
+Title:  The treatment of religion in social studies textbooks. 
+650 #0 $a Religion in textbooks. 
+650 #0 $a Social sciences $x Textbooks. 
+ 
+ 
+ 
+ 
+ 
+4.  Religious education textbooks.  For individual religious education textbooks, assign a 
+subdivision indicating the age level of the intended audience of the work.  Assign a subdivision 
+of the type BTextbooks for adults, [children, etc.] under the religious education heading for an 
+individual religion, for example, Christian educationBTextbooks for preschool children; 
+Islamic religious educationBTextbooks for children. 
+ 
+ 
+ 
+ 
+ 
+5.  Textbooks for foreign language study. 
+ 
+ 
+a.  General.  Use the subdivision BTextbooks for foreign speakers as a free-floating 
+form subdivision under names of languages for textbooks to be used in learning the 
+language as a foreign language.  If the textbook is written for native speakers of another 
+particular language, subdivide further by the name of the native language.  Examples: 
+ 
+ 
+Title:  Everyday English for foreign students. 
+650 #0 $a English language $v Textbooks for foreign 
+            speakers. 
+ 
+
+
+<<<PAGE 3>>>
+ 
+Textbooks  H 2187 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2187 Page 3 
+ 
+June 2013 
+5.  Textbooks for foreign language study. 
+ 
+a.  General.  Examples:  (Continued) 
+ 
+Title:  English in 20 lessons for German speakers. 
+650 #0 $a English language $v Textbooks for foreign 
+            speakers $x German. 
+ 
+Title:  Chinese for the English-speaking student. 
+650 #0 $a Chinese language $v Textbooks for foreign 
+            speakers $x English. 
+ 
+ 
+ 
+b.  Artificial languages.  Use the free-floating form subdivision BTextbooks for 
+English, [French, etc.] speakers for textbooks to be used in learning artificial languages, 
+specifying the native language of the student, for example, EsperantoBTextbooks for 
+English speakers; Ling (Artificial language)BTextbooks for Swedish speakers. 
+ 
+ 
+ 
+ 
+6.  Juvenile textbooks. Use the form subdivision BTextbooks for individual textbooks for 
+students through age 15 or the 9th grade.  Do not use BJuvenile literature as a further 
+subdivision and do not assign a duplicate heading using the subdivision BJuvenile literature. 

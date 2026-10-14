@@ -1,0 +1,68 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Festschriften H 1600 | Page 1 
+ 
+ 
+Festschriften 
+H 1600 
+A. Background ............................................................................................................................... 1 
+B. Recent revisions ........................................................................................................................ 1 
+C. Definitions ................................................................................................................................. 1 
+D. Topic ......................................................................................................................................... 2 
+E. Honoree(s) ................................................................................................................................ 2 
+Revision history ............................................................................................................................. 2 
+A. Background 
+A festschrift is a complimentary or memorial publication usually in the form of a collection of 
+essays, addresses, or biographical, bibliographical, scientific, or other contributions, often 
+embodying the results of research, issued in honor of a person, an institution, or a society, 
+usually on the occasion of an anniversary celebration. This instruction sheet provides guidelines 
+for assigning subject headings to festschriften. 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Textbooks*. To replace a form subdivision that includes a demographic group, also assign 
+Library of Congress Demographic Groups Terms (LCDGT) to bring out the audience of the 
+resource being cataloged, e.g. *German speakers* or *Arabic, Students of*. 
+B. Recent revisions 
+2026-07: Updated template. Added instructions related to LCGFT implementation. 
+C. Definitions 
+Festschrift: complimentary or memorial publication usually in the form of a collection of essays, 
+addresses, or biographical, bibliographical, scientific, or other contributions, often embodying 
+the results of research, issued in honor of a person, an institution, or a society, usually on the 
+occasion of an anniversary celebration 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Festschriften H 1600 | Page 2 
+ 
+ 
+D. Topic 
+Assign a heading or headings to cover the subject matter of the festschrift as a whole, normally 
+without form subdivision. (The subdivision *--Addresses, essays, lectures*, formerly used for 
+this type of material, was discontinued in 1986.) 
+If the work is the result of a congress held in honor of the person, society, etc., use the form 
+subdivision *--Congresses*. 
+LC practice: Assign heading(s) for the topic(s) covered in the festschrift, following standard 
+practices. Assign LCGFT appropriate to the form and/or genre of the resource in hand, e.g. 
+LCGFT *Festschriften*. 
+Examples: 
+Title: Africa in the long run : festschrift in the honour of Professor 
+Arvi Hurskainen. 
+600 10 $a Hurskainen, Arvi.  
+650 #0 $a Ethnology $z Africa  
+650 #0 $a Anthropological linguistics $z Africa.  
+650 #0 $a African languages $x Research  
+651 #0 $a Africa $x Social life and customs. 
+LC practice: 
+No change of subject headings. 
+655 #7 $a Festschriften. $2 lcgft 
+E. Honoree(s) 
+Assign a heading for the name of the person or corporate body in whose honor the publication 
+is issued only if more than 20% of the work is about the person or corporate body. 
+If the work contains a bibliography relating to the honoree which is more than 20% of the work, 
+assign the name of the honoree with the subdivision *--Bibliography*. 
+LC practice: If the work contains a bibliography relating to the honoree which is more than 20% 
+of the work, assign the name of the honoree as a subject heading. Assign LCGFT appropriate to 
+the form and/or genre of the resource in hand, e.g. LCGFT *Bibliographies*. 
+Revision history 
+2026-07: Updated template. Added instructions related to LCGFT implementation. 

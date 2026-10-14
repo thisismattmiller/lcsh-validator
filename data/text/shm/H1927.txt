@@ -1,0 +1,140 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Periodicals H 1927 | Page 1 
+ 
+ 
+Periodicals 
+H 1927 
+A. Background ................................................................................................................................. 1 
+B. Recent revisions .......................................................................................................................... 1 
+C. Definitions ................................................................................................................................... 2 
+D. General rule ................................................................................................................................ 2 
+D.1. Regularity of publication ...................................................................................................... 2 
+D.2. Juvenile periodicals .............................................................................................................. 2 
+D.3 Serials that are not periodicals ............................................................................................. 3 
+D.4 Monographic series .............................................................................................................. 3 
+E. Periodicals under form headings and other form subdivisions .................................................. 3 
+E.1. Exception .............................................................................................................................. 3 
+F. Works about periodicals ............................................................................................................. 4 
+Revision history ............................................................................................................................... 4 
+A. Background  
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Catalogs*. To replace a form subdivision that includes a demographic group, also assign 
+Library of Congress Demographic Groups Terms (LCDGT) to bring out the audience of the 
+resource being cataloged, e.g. *German speakers* or *Arabic, Students of*. 
+For guidelines on assigning LCGFT to periodicals, see the LCGFT Manual J243. 
+For guidelines on catalogs of periodicals, see H 1361. For guidelines on electronic serials, see H 
+1580.5. For guidelines on indexes to periodicals, see H 1670. For guidelines on newspapers on 
+special topics and newspapers of ethnic groups in the United States, see H 1920. For guidelines 
+on classification of periodicals, see F 210 and F 220. 
+B. Recent revisions  
+2026-08: Updated template. Added instructions related to LCGFT implementation. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Periodicals H 1927 | Page 2 
+ 
+ 
+C. Definitions 
+Periodicals: a publication other than a newspaper that is actually or purportedly issued 
+according to a regular schedule (monthly, quarterly, biennially, etc.) in successive parts, each of 
+which bears a numerical or chronological designation, and that is intended to be continued 
+indefinitely. 
+Note: This definition is broader than the traditional definition, which states that a periodical is 
+generally published more frequently than annually and normally contains separate articles. 
+Serials: used in a broad sense to refer to any title cataloged as a serial, including periodicals, 
+newspapers, monographic series, etc. 
+D. General rule 
+Use *--Periodicals* as a form subdivision under all headings assigned to works that conform to 
+the definition of periodicals given above, including annual reports. Use this subdivision under 
+topical headings, personal name headings, corporate body headings, geographic headings, etc., 
+without restriction. 
+LC practice: Assign subject headings to bring out the topic of the periodical. Also assign LCGFT 
+appropriate to the form and/or genre of the resource in hand, e.g. LCGFT *Periodicals*. 
+D.1. Regularity of publication 
+When a resource’s frequency cannot be determined, assign the form subdivision *--
+Periodicals* using cataloger’s judgement. Base this judgment on whether or not the periodical 
+appears to be issued regularly. In case of doubt, assume that it is issued regularly and assign the 
+form subdivision *--Periodicals*. 
+If a publication is known to be issued irregularly but contains articles, etc., and in all other ways 
+appears to be a periodical as defined above, assign the form subdivision *--Periodicals* 
+LC practice: Use judgment to determine the frequency, as described above. As appropriate, 
+assign LCGFT appropriate to the form and/or genre of the resource in hand, e.g. LCGFT 
+*Periodicals*. 
+D.2. Juvenile periodicals 
+When using this form subdivision *--Periodicals* in conjunction with the form subdivision *--
+Juvenile literature*, construct the heading as follows:  
+Model: 
+[topic]--Periodicals--Juvenile literature. 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Periodicals H 1927 | Page 3 
+ 
+ 
+LC practice: Do not use either form subdivision. Assign LCDGT to identify the intended 
+audience, e.g. LCDGT *Children*. Assign LCGFT appropriate to the form and/or genre of the 
+resource in hand, e.g. LCGFT *Periodicals*. 
+D.3 Serials that are not periodicals 
+Do not use the form subdivision under headings assigned to publications that are revised and 
+reissued in full on a regular basis, and are therefore cataloged as serials for convenience, but 
+are not periodicals as defined above. For example, Library of Congress Subject Headings was 
+published annually and is cataloged as a serial, but the subdivision *--Periodicals* is 
+inappropriate for this work. 
+D.4 Monographic series 
+Do not use the form subdivision under headings assigned to monographic series. 
+E. --Periodicals under form headings and other form subdivisions 
+Use the form subdivision *--Periodicals* as a further subdivision under most form headings and 
+form subdivisions, for example, *American poetry--Periodicals; *Tuberculosis--Statistics--
+Periodicals*. 
+LC practice: Assign the subject heading for the form when it is needed to bring out language, 
+nationality, or ethnicity. Also assign LCGFT appropriate to the form and/or genre of the 
+resource in hand, e.g. LCGFT *Poetry* and/or *Periodicals*. 
+E.1. Exception 
+Do not use the form subdivision *--Periodicals* as a further subdivision under the following 
+form subdivisions: 
+• Amateurs’ manual 
+• Atlases 
+• Calendars 
+• Cases 
+• Congress 
+• Databases 
+• Dictionaries 
+• Digests 
+• Directories 
+• Encyclopedias 
+• Gazetteers 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Periodicals H 1927 | Page 4 
+ 
+ 
+• Guidebooks 
+• Handbooks, manuals, etc. 
+• Juvenile films 
+• Juvenile literature 
+• Juvenile sound recordings 
+• Juvenile sound recordings 
+• Laboratory manuals 
+• Maps 
+• Newspapers 
+• Observers’ manuals 
+• Outlines, syllabi, etc. 
+• Photo maps 
+• Registers 
+• Telephone directories 
+F. Works about periodicals 
+Use *--Periodicals* also as a topical subdivision for general works that discuss periodicals on a 
+specific subject. Do not further subdivide by *--History and criticism*. For works on the history 
+of periodicals on a specific subject, the subdivision *--History* may be used. For bibliographies, 
+catalogs, indexes, union lists, etc., of periodicals further subdivide *--Periodicals* by the 
+appropriate form subdivision. However, for a bibliography of periodical articles on a topic, 
+assign *[topic]--Bibliography* without interposing the subdivision *--Periodicals*. 
+LC practice: For works about periodicals, assign *--Periodicals* as a topical subdivision. Assign 
+LCGFT appropriate to the form and/or genre of the resource in hand, e.g. LCGFT 
+*Bibliographies*. 
+Revision history 
+2026-08: Updated template. Added instructions related to LCGFT implementation. 

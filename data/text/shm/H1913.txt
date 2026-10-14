@@ -1,0 +1,259 @@
+
+
+<<<PAGE 1>>>
+ 
+Moving Image Genre/Form Terms  H 1913 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1913 Page 1 
+ 
+June 2013 
+BACKGROUND: Moving image works are defined as those created by recording moving visual 
+images, with or without sound.  Individual moving image works are usually cataloged in the 
+Motion Picture, Broadcasting, and Recorded Sound Division (MBRS) of the Library of Congress. 
+This instruction sheet provides special guidelines for the assignment of genre/form terms to 
+works cataloged by MBRS.  For guidelines on assigning subject headings to bring out the 
+content of individual moving image works, see H 2230. 
+ 
+Note: As used in this instruction sheet and in the genre/form terms themselves, the word 
+films refers to works that are originally recorded and released on motion picture film, on 
+video, or digitally.  The phrase television programs refers to those works that are 
+originally telecast.  
+ 
+ 
+1.  Assignment of genre/form terms. 
+ 
+a.  General rule.  Assign genre/form terms to both fiction and nonfiction works.  
+Terms may be assigned from different levels of the same hierarchy if desired.   
+ 
+b.  Limiting to fiction or non-fiction.  Also assign one of the terms in the following list 
+to each work to distinguish between fiction and nonfiction treatments of a subject:   
+ 
+Fiction films 
+Nonfiction films 
+Fiction television programs 
+Nonfiction television programs 
+ 
+Examples: 
+ 
+Title:  Till the clouds roll by. 
+655 #7 $a Biographical films. $2 lcgft 
+655 #7 $a Fiction films. $2 lcgft 
+ 
+Title:  Survivor : Thailand. 
+655 #7 $a Survival television programs. $2 lcgft 
+655 #7 $a Nonfiction television programs. $2 lcgft 
+ 
+Title:  Harlan County, U.S.A. 
+655 #7 $a Documentary films. $2 lcgft 
+655 #7 $a Nonfiction films. $2 lcgft
+
+
+<<<PAGE 2>>>
+H 1913 Moving Image Genre/Form Terms 
+ 
+ 
+ 
+ 
+H 1913 Page 2 
+Subject Headings Manual 
+June 2013 
+1.  Assignment of genre/form headings.  (Continued) 
+ 
+ 
+c.  Short films or Feature films.  Additionally, for motion pictures assign either Short 
+films or Feature films as appropriate.  Short films are defined as those running less 
+than 40 minutes, and feature films are full-length films running 40 minutes or longer.  
+ 
+ 
+d.  Multiple genres.  Assign as many genre/form terms as necessary to bring out 
+important forms and genres to which the work belongs.  Example: 
+ 
+Title: The Wizard of Oz 
+655 #7 $a Musical films. $2 lcgft 
+655 #7 $a Fantasy films. $2 lcgft 
+655 #7 $a Children=s films. $2 lcgft 
+655 #7 $a Film adaptations. $2 lcgft 
+655 #7 $a Fiction films. $2 lcgft 
+655 #7 $a Feature films. $2 lcgft 
+ 
+ 
+e.  Moving image works for people with disabilities. 
+ 
+(1) Hearing impaired.  Assign one of two terms to moving-image works 
+produced with captions or sign language for viewing by the hearing impaired:  
+Films for the hearing impaired or Television programs for the hearing 
+impaired. 
+ 
+Do not assign this term to works in one language with subtitles in another 
+language if the subtitles are intended only as a translation, and not specifically as 
+an aid for the hearing impaired. 
+ 
+(2) Visually impaired. Assign one of two terms to moving-image works with 
+additional audio description provided for people with visual disabilities:  Films 
+for people with visual disabilities or Television programs for people with 
+visual disabilities. 
+ 
+Note: The terms Video recordings for the hearing impaired and Video 
+recordings for people with visual disabilities are also provided, as an exception.  
+Individual libraries may choose to develop local policies to assign them instead of, 
+or in addition to, the above required terms. 
+
+
+<<<PAGE 3>>>
+ 
+Moving Image Genre/Form Terms  H 1913 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1913 Page 3 
+ 
+June 2013 
+2.  Construction of headings. 
+ 
+ 
+a.  General rule.  All genre/form terms must be established.  The process for 
+proposing genre/form terms follows the general guidelines on the creation of subject 
+authority records, see H 200.  
+ 
+ 
+ 
+b.  Form of term.   
+ 
+ 
+(1) Use of headings already in LCSH. Before proposing a new genre/form term, 
+search LCSH to determine whether there is a topical subject heading that is 
+appropriate for use as a genre/form term.  If there is, propose that the new 
+genre/form term be identical to the topical heading. 
+ 
+ 
+Example: The work in hand is a film made by a child.  The topical term 
+Dystopian films exists in LCSH and can be proposed for use as a 
+genre/form term. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2) Construction of new terms.  Create separate terms for film and television 
+genres and forms.  Prefer the formulas [. . .] films and [. . .] television programs, 
+or Film [. . .] or Television [. . .].  If neither of the above two options is practical 
+(e.g., due to common usage or literary warrant), then terms may be constructed by 
+using the qualifiers (Motion pictures) or (Television programs) or by another 
+appropriate  method.  Examples: 
+ 
+ 
+155 ## $a Horror films 
+155 ## $a Film adaptations 
+155 ## $a Rushes (Motion pictures) 
+155 ## $a Horror television programs 
+155 ## $a Television adaptations 
+155 ## $a Variety shows (Television programs) 
+ 
+ 
+ 
+  [but 155 ## $a Televised sports events] 
+
+
+<<<PAGE 4>>>
+H 1913 Moving Image Genre/Form Terms 
+ 
+ 
+ 
+ 
+H 1913 Page 4 
+Subject Headings Manual 
+June 2013 
+2.  Construction of headings. (Continued)  
+ 
+ 
+c.  References.  Construct references according to the following guidelines, which 
+follow the general principles for references presented in H 370. 
+ 
+ 
+(1) Used for references. Add 455 fields for variant terminology and/or different 
+forms. 
+ 
+(a) Television programs.  Provide a reference including the phrase 
+“television programs” for terms that have the structure [. . .] shows. 
+Example: 
+ 
+155 ## $a Television cooking shows 
+455 ## $a Cooking television programs 
+ 
+ 
+(2) Broader term references. Judiciously add broader term references for explicit 
+class/class member relationships.  Examples: 
+ 
+ 
+155 ## $a Romantic comedy films 
+555 ## $w g $a Comedy films 
+ 
+ 
+155 ## $a Cinéma vérité films 
+555 ## $w g $a Documentary films 
+ 
+     155 ## $a Buddy films 
+555 ## $w g $a Motion pictures 
+ 
+ 
+(3)  Related term references. Link through related term references those terms 
+with meanings that overlap to some extent, or that are used somewhat 
+interchangeably. 
+ 
+155 ## $a Disaster films 
+555 ## $a Survival films 
+ 
+155 ## $a Survival films 
+555 ## $a Disaster films 
+
+
+<<<PAGE 5>>>
+ 
+Moving Image Genre/Form Terms  H 1913 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1913 Page 5 
+ 
+June 2013 
+2.  Construction of headings. (Continued) 
+ 
+d.  Scope notes.  Add a scope note to define the meaning of the genre/form term if 
+necessary.  Consult H 400 for guidance. 
+  
+155 ## $a Novelty films 
+680 ## $i This heading is used as a genre/form heading for 
+            whimsical or humorous short films designed to catch 
+            one=s attention momentarily with something of a 
+            novel twist.  
+ 
+e.  Research. Perform thorough authority research demonstrating that the word or phrase 
+selected for the proposed term is the appropriate one.  In addition to other research, cite 
+at least one of the following sources:  
+ 
+Katz, Ephraim.  The film encyclopedia. 
+ 
+Konigsberg, Ira.  The complete film dictionary. 
+ 
+Lopez, Daniel.  Films by genre : 775 categories, styles, trends and movements 
+defined, with a filmography for each.  
+ 
+Taves, Brian.  The moving image genre-form guide.  
+<http://www.loc.gov/rr/mopic/migintro.html> 
+ 
+Yee, Martha M. Moving image materials : genre terms. 
+ 
+3.  MARC 21 content designation and input conventions.  Library of Congress genre/form 
+terms are recorded in field 155 in the authority format, with both indicators blank.  In the 
+bibliographic format they are recorded in field 655 with a second indicator of 7 (seven) and a $2 
+subfield lcgft.  Example: 
+ 
+ 
+655 #7 $a Horror films. $2 lcgft 

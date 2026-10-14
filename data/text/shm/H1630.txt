@@ -1,0 +1,95 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Gazetteers H 1630 | Page 1 
+ 
+ 
+Gazetteers 
+H 1630 
+A. Background ................................................................................................................................. 1 
+B. Recent revisions .......................................................................................................................... 1 
+C. Definitions ................................................................................................................................... 1 
+D. General ....................................................................................................................................... 2 
+E. By place ....................................................................................................................................... 2 
+F. Other ........................................................................................................................................... 3 
+G. MARC 21 coding ......................................................................................................................... 3 
+Revision history ............................................................................................................................... 3 
+A. Background 
+A gazetteer is a geographical dictionary in which names of places are given in alphabetical order 
+with location and/or coordinates. In addition, entries sometimes include pronunciation and 
+brief historical information. This instruction sheet provides guidelines for assigning the heading 
+and the subdivision *--Gazetteers*. 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Textbooks*. To replace a form subdivision that includes a demographic group, also assign 
+Library of Congress Demographic Groups Terms (LCDGT) to bring out the audience of the 
+resource being cataloged, e.g. *German speakers* or *Arabic, Students of*. 
+B. Recent revisions 
+2026-08: Updated template. Added instructions related to LCGFT implementation. 
+C. Definitions 
+Gazetteer: geographical dictionary in which names of places are given in alphabetical order with 
+location and/or coordinates, sometimes including brief historical information and geographical 
+description. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Gazetteers H 1630 | Page 2 
+ 
+ 
+D. General 
+Assign the heading *Gazetteers* to general geographical dictionaries not limited to a particular 
+place. 
+Do not use the subdivision *--Dictionaries* under the heading *Gazetteers*. 
+LC practice: For general gazetteers not limited to a particular place, no subject heading is 
+necessary. Assign LCGFT appropriate to the form and/or genre of the resource in hand, e.g. 
+LCGFT *Gazetteers*. 
+Example: 
+Title: Webster's New geographical dictionary. 
+650 #0 $a Gazetteers. 
+LC practice: 
+No subject heading. 
+655 #7 $a Gazetteers. $2 lcgft 
+E. By place 
+Use the free-floating form subdivision *--Gazetteers* under names of places for geographical 
+dictionaries of these places. 
+LC practice: Assign the subject heading(s) for the place. Assign LCGFT appropriate to the form 
+and/or genre of the resource in hand, e.g. LCGFT *Gazetteers*. 
+Examples: 
+Title: Survey gazetteer of the British Isles. 
+651 #0 $a British Isles $v Gazetteers. 
+LC practice: 
+651 #0 $a British Isles. 
+655 #7 $a Gazetteers. $2 lcgft 
+ 
+Title: A gazetteer of New Hampshire, containing descriptions of all the 
+counties, towns, and districts in the state. 
+651 #0 $a New Hampshire $v Gazetteers. 
+LC practice: 
+651 #0 $a New Hampshire. 
+655 #7 $a Gazetteers. $2 lcgft 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Gazetteers H 1630 | Page 3 
+ 
+ 
+F. Other 
+Assign the heading *Names, Geographical* to other types of works about place names, such as 
+works that focus on the origin and meaning of geographical names or lists of places not 
+arranged in alphabetical order. 
+Do not subdivide *Names, Geographical* by *--Dictionaries*. 
+Examples: 
+Title: California place names : the origin and etymology of current 
+geographical names. 
+650 #0 $a Names, Geographical $z California. 
+651 #0 $a California $x History, Local. 
+ 
+Title: Geographical names in ancient Indian inscriptions. 
+650 #0 $a Names, Geographical $z India. 
+650 #0 $a Inscriptions $z India. 
+651 #0 $a India $x Historical geography. 
+G. MARC 21 coding 
+Select code d, Dictionaries for field 008/24-27 (the box labeled Contents on the 008 input 
+screen in the LC ILS) for gazetteers and for works on geographical names in dictionary format. 
+Revision history 
+2026-08: Updated template. Added instructions related to LCGFT implementation. 

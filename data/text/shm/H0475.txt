@@ -1,0 +1,52 @@
+
+
+<<<PAGE 1>>>
+ 
+Subdividing Corporate Name Headings by Place  H 475 
+ 
+ 
+ 
+Subject Headings Manual 
+H 475 Page 1 
+ 
+January 2020 
+BACKGROUND:  It is customary to divide by place certain categories of corporate name 
+headings, primarily names of religions or religious orders, when they are assigned as subject 
+headings.  This authorization appears as the value i in field 008/06 (the box labeled 
+Direct/indirect geographic subdivision on the 008 input screen in the LC ILS).  This 
+instruction sheet defines the types of corporate body headings that are appropriate for 
+geographic subdivision and describes the procedures to determine whether a corporate body 
+name has already been authorized for geographic subdivision or to add this authorization to an 
+existing heading. 
+ 
+ 
+ 
+1.  Types of corporate body headings that may be divided by place.  Geographic subdivision of 
+a corporate body heading is used only to bring out the actual physical presence of the corporate 
+body or its individual members in the place indicated by the geographic subdivision.  Although 
+this technique is used most frequently for religions and religious orders, there are occasionally 
+other headings for which it is appropriate.  Examples: 
+ 
+610 20 $a Catholic Church $z United States. 
+610 20 $a Jesuits $z France. 
+610 20 $a Peace Corps (U.S.) $z Ghana. 
+610 20 $a International Labour Organisation $z Switzerland. 
+ 
+ 
+LC practice: 
+2.  Searching the LC Database.  To determine whether geographic subdivision has already 
+been authorized for a particular corporate body heading, retrieve the name authority record for 
+the heading in the LC Database.  If the code i appears in field 008/06, the heading may be 
+divided geographically. 
+ 
+ 
+3.  Proposals to divide corporate name headings geographically.  If a new or existing heading 
+has not been authorized to be divided by place and it is necessary to do so to catalog a current 
+work, set the 008/06 data element in the name authority record to i. 
+ 
+Note:  An automated validation program reports on a daily basis new name headings 
+where the 008/06 has been set to i or existing name headings where the 008/06 has been 
+changed to i. These reports are sent to the Policy, Training, and Cooperative Programs 
+Division for review.  PTCP either approves the 008/06 setting or, if the setting is not 
+appropriate, changes it back to the default setting of n and notifies the individual who 
+created or changed the record. 

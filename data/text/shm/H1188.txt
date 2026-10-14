@@ -1,0 +1,254 @@
+
+
+<<<PAGE 1>>>
+ 
+Pattern Headings: Sacred Works  H 1188 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1188 Page 1 
+ 
+May 2022 
+PATTERN:  Bible 
+ 
+ 
+TYPES OF HEADINGS COVERED BY THE PATTERN:  Headings for the uniform titles of 
+individual sacred works or scriptures from all religions, including their individual parts.  Also 
+included are uniform titles for apocryphal works.  Examples:  Book of Mormon; Qur’an; 
+Talmud; Tripitaka; Vedas; Bible.  Wisdom of Solomon; Bible.  Gospels; Sermon on the 
+mount; Beatitudes; Epistle of Barnabas.  The category does not include headings for individual 
+non-sacred liturgical or theological works, nor form headings for collections of sacred or religious 
+works.  For subdivisions used under the uniform titles of secular classics, see H 1155.8. 
+ 
+CONFLICTS:  Any subdivision listed here can be used as a free-floating subdivision under any 
+heading belonging to the category if it is appropriate and no conflict exists in the subject authority 
+file.  Subject authority records may exist for headings employing variant phrases or subdivisions 
+equivalent to subdivisions on this list. 
+ 
+LC practice: 
+If an exceptional variant form is to be retained, make a UF reference from the equivalent free-
+floating subdivision form following the procedures in H 195 if the reference does not yet exist.  
+Otherwise, submit a proposal to change the variant form along with all bibliographic records 
+requiring correction following the procedures in H 193. 
+ 
+Note:  Most form subdivisions coded $v in this list may also be used as topical 
+subdivisions coded $x when assigned to works about the form (see H 1075, sec. 1.d.). 
+ 
+ 
+$v Abridgments 
+$x Abstracting and indexing  (May Subd Geog) 
+$x Accents and accentuation1 
+$x Allegorical interpretations 
+$v Anecdotes 
+$x Antiquities 
+$x Appreciation  (May Subd Geog) 
+$x Authorship 
+$x Authorship $x Date of authorship 
+$x Bahai interpretations 
+$v Biography 
+$v Biography $v Sermons 
+$x Black interpretations 
+$x Buddhist interpretations 
+
+
+<<<PAGE 2>>>
+H 1188  Pattern Headings: Sacred Works 
+ 
+ 
+ 
+H 1188 Page 2 
+Subject Headings Manual 
+May 2022 
+$x Canon 
+$x Canonical criticism 
+$v Caricatures and cartoons 
+$v Children's sermons 
+$x Children's use  (May Subd Geog)  
+$v Chronology 
+$v Comic books, strips, etc. 
+$v Commentaries 
+$x Commentaries $x History and criticism 
+$v Comparative studies 
+$v Concordances 
+$v Concordances, English 
+$v Condordances, English $x Authorized, [Living Bible, Revised Standard, etc.] 
+$v Concordances, French, [German, etc.] 
+$v Controversial literature 
+$x Controversial literature $x History and criticism 
+$x Copies, Curious 
+$x Criticism, Form 
+$x Criticism, interpretation, etc.  (May Subd Geog) 
+$x Criticism, interpretation, etc. $x History 
+$x Criticism, interpretation, etc. $x History $y Early church, ca. 30-600 
+$x Criticism, interpretation, etc. $x History $y Middle Ages, 600-1500 
+$x Criticism, interpretation, etc. $x History $y Modern period, 1500- 
+$x Criticism, interpretation, etc. $x History $y 16th century 
+$x Criticism, interpretation, etc. $x History $y 17th century 
+$x Criticism, interpretation, etc. $x History $y 18th century 
+$x Criticism, interpretation, etc. $x History $y 19th century 
+$x Criticism, interpretation, etc. $x History $y 20th century 
+$x Criticism, interpretation, etc. $x History $y 21st century 
+$x Criticism, interpretation, etc., Jewish1 
+$x Criticism, Narrative 
+$x Criticism, Redaction 
+$x Criticism, Textual 
+$v Cross references 
+$v Devotional literature 
+$x Devotional use 
+$x Editions, Curious 
+$x Evidences, authority, etc. 
+$v Examinations, questions, etc. 
+$x Extra-canonical parallels 
+$x Feminist criticism  (May Subd Geog) 
+
+
+<<<PAGE 3>>>
+ 
+Pattern Headings: Sacred Works  H 1188 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1188 Page 3 
+ 
+May 2022 
+$v Folklore 
+$x Gay interpretations 
+$x Geography 
+$v Harmonies 
+$x Harmonies $x History and criticism 
+$v Harmonies, English, [French, German, etc.] 
+$x Harmonies, English, [French, German, etc.] $x History and criticism 
+$x Hermeneutics 
+$x Hindu interpretations 
+$x Historiography 
+$x History 
+$x History of Biblical events 
+$x History of Biblical events $v Art 
+$x History of contemporary events 
+$x Homiletical use 
+$v Humor 
+$v Illustrations 
+$x In comics 
+$x In literature 
+$x Influence 
+$x Influence $x Medieval civilization 
+$x Influence $x Modern civilization 
+$x Influence $x Slavic civilization 
+$x Influence $x Western civilization 
+$x Inspiration 
+$v Interlinear translations 
+$v Interlinear translations, English, [French, etc.] 
+$v Introductions 
+$x Islamic interpretations 
+$v Juvenile humor 
+$x Language, style 
+$v Legends 
+$v Liturgical lessons, Dutch, [English, etc.] 
+$x Liturgical use  (May Subd Geog)  
+$x Manuscripts 
+$x Manuscripts $x Paragraphs 
+$x Manuscripts, English, [Latin, Aramaic, etc.] 
+$x Manuscripts (Papyri) 
+$v Marginal readings 
+$v Meditations 
+
+
+<<<PAGE 4>>>
+H 1188  Pattern Headings: Sacred Works 
+ 
+ 
+ 
+H 1188 Page 4 
+Subject Headings Manual 
+May 2022 
+$x Memorizing 
+$x Mnemonic devices 
+$x Numerical division 
+$v Outlines, syllabi, etc. 
+$x Parables 
+$x Paragraphs 
+$v Parallel versions, English, [French, etc.] 
+$v Paraphrases 
+$x Paraphrases $x History and criticism 
+$v Paraphrases, English, [French, German, etc.] 
+$x Paraphrases, English, [French, German, etc.] $x History and criticism 
+$v Parodies, imitations, etc. 
+$x Philosophy 
+$v Picture Bibles 
+$v Postcolonial criticism  (May Subd Geog) 
+$v Prayers 
+$x Prayers $x History and criticism 
+$v Prefaces 
+$x Prophecies 
+$x Prophecies $v Chronology          
+$x Prophecies $x [subject of prophecy] 
+$x Psychology 
+$x Publication and distribution  (May Subd Geog) 
+$v Quotations 
+$v Quotations, Early 
+$v Quotations in rabbinical literature1 
+$v Quotations in the New Testament1 
+$x Reader-response criticism 
+$x Reading  (May Subd Geog) 
+$v Reference editions 
+$x Relation to Matthew, [Jeremiah, etc.]2 
+$x Relation to the Old Testament3 
+$v Sermons 
+$x Sermons $v Outlines, syllabi, etc. 
+$x Social scientific criticism  (May Subd Geog) 
+$x Societies, etc. 
+$x Socio-rhetorical criticism  (May Subd Geog) 
+$x Structuralist criticism  (May Subd Geog) 
+$x Study and teaching  (May Subd Geog) 
+$x Study and teaching $x Baptists, [Catholic Church, etc.] 
+$x Teenagers' use  (May Subd Geog) 
+
+
+<<<PAGE 5>>>
+ 
+Pattern Headings: Sacred Works  H 1188 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1188 Page 5 
+ 
+May 2022 
+$v Terminology 
+$x Terminology $x Pronunciation 
+$v Textbooks 
+$x Theology 
+$x Titles of books 
+$x Translating   (May Subd Geog) 
+$x Use 
+$x Use in hymns 
+$x Versions4 
+$x Versions $x Authorized, [Living Bible, Revised Standard, etc.] 
+$x Versions, African, [Indic, Slavic, etc.]5 
+$x Versions, Baptist 
+$x Versions, Catholic 
+$x Versions, Catholic vs. Protestant 
+$x Versions, Hussite 
+$x Versions, Jehovah's Witnesses 
+ 
+ 
+ 
+NOTES 
+1Use only under Bible. Old Testament or individual parts or books of the Old Testament. 
+2Use only under individual books or groups of books of the Bible.  Make a duplicate entry under the reverse.  
+Example: 
+ 
+630 00 $a Bible. $p Psalms $x Relation to Jeremiah. 
+630 00 $a Bible. $p Jeremiah $x Relation to Psalms. 
+3Use only under the New Testament or under individual books or groups of books of the New Testament.  Make a 
+duplicate entry under the reverse.  Example: 
+ 
+630 00 $a Bible. $p Matthew $x Relation to the Old Testament. 
+630 00 $a Bible. $p Old Testament $x Relation to Matthew. 
+4See H 1300 for instructions on the use of the subdivision BVersions. 
+5Assign the adjectival qualifier for groups of languages only.  For works on translations of the Bible into individual 
+languages, assign:  Bible.  [language]BVersions.  For works on particular translations, use Bible.  [language]B 
+VersionsB[name of version], for example, Bible.  EnglishBVersionsBAuthorized. 
+ 

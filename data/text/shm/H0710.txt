@@ -1,0 +1,197 @@
+
+
+<<<PAGE 1>>>
+ 
+Jurisdictional Mergers and Splits  H 710 
+ 
+ 
+BACKGROUND:  Over the course of their history, jurisdictions are likely to be renamed, be 
+reorganized, merge with other jurisdictions, divide into multiple jurisdictions, be conquered, 
+become independent, and in other ways change their names and organizational structure.  The 
+area included within a single jurisdiction may also vary over time.  Cataloging practice for 
+subject headings is to use the latest name for a jurisdiction as long as the territorial identity 
+remains essentially unchanged (see H 708).  Where the territorial identity has changed, usually 
+because of mergers or splits, previous practice was to use the latest name for scientific topics 
+and the earlier and/or later names (according to coverage of the work) for historical, political or 
+cultural topics.  Subject usage in such cases was recorded in specific information/history 
+references in the name authority records.  When these information references were 
+discontinued in 1981, the distinction in subject usage between scientific and other topics was 
+gradually abandoned.  This instruction sheet explains current subject heading practice for 
+jurisdictions that have merged or split. 
+ 
+ 
+1.  General principles.  For situations where jurisdictions have merged or split, various 
+headings may be appropriate depending on the area and the time period being discussed.  In 
+general, assign subject headings that correspond to the physical extent of the area being 
+discussed. 
+ 
+ 
+2.  Mergers. 
+ 
+a.  Pre-merger coverage.  For the area corresponding to the post-merger jurisdiction, 
+assign the heading for the post-merger jurisdiction.  Assign this heading even though the 
+jurisdiction did not exist for the pre-merger time period.  For an area corresponding to 
+one of the pre-merger jurisdictions, assign the heading for the pre-merger jurisdiction. 
+ 
+Example 1:  The nation of Somalia was formed in 1960 by the merger of  
+British Somaliland and Italian Somaliland.  The heading Somalia is used for the 
+pre-merger period for works discussing the area corresponding to the present 
+nation.  The heading British Somaliland is used for works on the area 
+corresponding to that jurisdiction.  The heading Italian Somaliland is used for 
+works on the area corresponding to that jurisdiction. 
+ 
+Example 2:  Germany did not exist as a jurisdiction until the 19th century, but 
+the heading Germany is used for earlier coverage of the area now known as  
+Germany.  Headings for the various jurisdictions that preceded the formation of 
+Germany are used for works discussing those areas individually. 
+ 
+Subject Headings Manual 
+H 710 Page 1 
+ 
+July 2015 
+
+
+<<<PAGE 2>>>
+H 710  Jurisdictional Mergers and Splits 
+ 
+2.  Mergers.  (Continued) 
+ 
+b.  Post-merger coverage.  For the area corresponding to the post-merger jurisdiction, 
+assign the heading for the post-merger jurisdiction.  For an area corresponding to one of 
+the pre-merger jurisdictions, assign the heading for the pre-merger jurisdiction.  Assign 
+the heading for the pre-merger jurisdiction even if the jurisdiction no longer exists or the 
+heading is not valid for descriptive access for that time period.   
+ 
+ 
+ 
+Example:  Malaya merged with other jurisdictions in 1963 to form the nation of 
+Malaysia.  The heading Malaysia is used for works on the entire nation. The 
+heading Malaya is used for works discussing the area corresponding to the former 
+jurisdiction Malaya, even though there is no longer any jurisdiction corresponding 
+to that area. 
+ 
+ 
+ 
+ 
+ 
+ 
+3.  Splits.   
+ 
+a.  Name of earlier jurisdiction not reused by later jurisdiction. 
+ 
+(1)  Pre-split coverage.  For the area corresponding to the pre-split jurisdiction, 
+assign the heading for the pre-split jurisdiction even if that jurisdiction no longer 
+exists.  For an area corresponding to one of the post-split jurisdictions, assign the 
+heading for the post-split jurisdiction. 
+ 
+ 
+ 
+Example:  The nation of Czechoslovakia split into the Czech Republic 
+and Slovakia.  The heading Czechoslovakia is used for works on the 
+entire nation for the pre-split period.  The heading Czech Republic is 
+used for works on the area corresponding to that jurisdiction.  The 
+heading Slovakia is used for works on the area corresponding to that 
+jurisdiction. 
+ 
+H 710 Page 2 
+Subject Headings Manual 
+July 2015 
+
+
+<<<PAGE 3>>>
+ 
+Jurisdictional Mergers and Splits  H 710 
+ 
+ 
+3.  Splits.   
+ 
+a.  Name of earlier jurisdiction not reused by later jurisdiction.  (Continued) 
+ 
+(2)  Post-split coverage.  For the area corresponding to the pre-split jurisdiction, 
+assign the heading for the pre-split jurisdiction if the name is still in use for the 
+region.  If the former jurisdictional name is no longer in common use as a name 
+for the region, assign an equivalent subject heading, or assign the headings for the 
+post-split jurisdictions.  For an area corresponding to one of the post-split 
+jurisdictions,  assign the heading for the post-split jurisdiction. 
+ 
+ 
+Example 1 (name still used for region):  The former French province of 
+Normandy no longer exists, having been divided into several jurisdictions. 
+ However the name is still commonly used to refer to the geographic 
+region corresponding to the province.  The heading Normandy is used 
+for works on the region corresponding to the former province.  Headings 
+for the various jurisdictions now included within the region of Normandy 
+are used for works on the jurisdictions individually. 
+ 
+ 
+Example 2 (equivalent subject heading):  The former administrative 
+grouping of French territories known as French Equatorial Africa was 
+divided into the four independent nations of Chad, Central African 
+Republic, Gabon and Congo (Brazzaville).  These four nations are now 
+referred to collectively as French-speaking Equatorial Africa.  The 
+subject heading Africa, French-speaking Equatorial is used for works 
+on this area in its entirety.  The headings for the present nations are used 
+for works on those nations individually. 
+ 
+ 
+Example 3 (no equivalent heading):  The nation of  Czechoslovakia 
+split into the Czech Republic and Slovakia.  The name of the former 
+nation is no longer commonly used to refer to the Czech Republic and 
+Slovakia collectively for the post-split period.  The two headings Czech 
+Republic and Slovakia are used for works on the two nations collectively 
+for the post-split period.  The heading for the individual nation, Czech 
+Republic or Slovakia, is used for works on one of the nations treated 
+individually.     
+ 
+Subject Headings Manual 
+H 710 Page 3 
+ 
+July 2015 
+
+
+<<<PAGE 4>>>
+H 710  Jurisdictional Mergers and Splits 
+ 
+3.  Splits.  (Continued) 
+ 
+b.  Name of earlier jurisdiction retained by one of the later jurisdictions. 
+ 
+(1)  Pre-split coverage.  For the area corresponding to the pre-split jurisdiction, 
+assign the heading for the pre-split jurisdiction.  For an area corresponding to 
+one of the post-split jurisdictions,  assign the heading for the post-split 
+jurisdiction. 
+ 
+Example:  The state of Virginia originally included the area now 
+comprising the state of West Virginia.  The heading Virginia is used for 
+works on the pre-split period discussing the area corresponding to the 
+present Virginia and West Virginia collectively. The heading Virginia is 
+also used for works on the pre-split period discussing the area 
+corresponding to the present state of Virginia.  The heading West 
+Virginia is used for works on  the pre-split period discussing the area 
+now included in the present state of West Virginia. 
+ 
+(2)  Post-split coverage.  For the area corresponding to the pre-split jurisdiction, 
+assign headings for all post-split jurisdictions.  For an area corresponding to one 
+of the post-split jurisdictions, assign the heading for the post-split jurisdiction. 
+ 
+Example: The present nations of Pakistan and Bangladesh were previously 
+provinces of a larger nation called Pakistan.  The two headings Pakistan 
+and Bangladesh are used for works discussing the two nations together for 
+the post-split period.  The heading for the individual nation, Pakistan or 
+Bangladesh, is used for works on one of the nations treated individually.  
+ 
+4. Geographic subdivision usage.  Subject headings for merged or split jurisdictions follow the 
+normal procedures for use as geographic subdivisions.  For place names using the practice of 
+indirect subdivision, assign the name as a subdivision following the name of the country where 
+currently located, regardless of the time period covered.  For detailed instructions see H 830. 
+ 
+5.  Special or complex situations.  Because there are a variety of ways in which jurisdictions 
+may be merged, split, or otherwise reorganized, the above instructions may not apply in every 
+case.  In exceptional or complex situations, subject usage notes may be added to name authority 
+records according to the procedures in H 432, or scope notes may be added to subject authority 
+records.  For instructions on Germany, see H 945; for Soviet Union, see H 1023; for Yugoslavia, 
+see H 1055. 
+ 
+H 710 Page 4 
+Subject Headings Manual 
+July 2015 

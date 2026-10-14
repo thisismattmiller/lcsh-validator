@@ -1,0 +1,809 @@
+
+
+<<<PAGE 1>>>
+ 
+Buildings and Other Structures  H 1334 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1334 Page 1 
+ 
+August 2017 
+BACKGROUND:  This instruction sheet provides guidelines for establishing and assigning 
+names of buildings and other structures as subject headings.  The following types of entities are 
+covered by these guidelines: 
+ 
+Bridges 
+Buildings and building complexes (castles, houses, city halls, etc.) 
+Building details (windows, doors, domes, rooms)  
+Fortresses 
+Gates 
+Monuments 
+Plazas 
+Tunnels 
+Walls  
+ 
+In the case of structures that house corporate bodies, the provisions of this instruction sheet 
+apply to those structures known by different names from the organizations that occupy them.  
+Generally, when a building is known by the same name as the corporate body that occupies it, a 
+corporate name heading is established for the body and that name heading is used as a subject 
+heading for works about either the organization or the building.  Typical cases include 
+buildings such as churches, schools, hospitals, libraries, prisons, etc.  Exceptions to this 
+general rule are occasionally made on a case-by-case basis when there are special 
+circumstances warranting an exception. 
+ 
+For instructions on establishing names of dwellings with extensive grounds, such as National 
+Trust properties, see H 1572. 
+ 
+ 
+1.  Existing headings.  If an established heading for a structure is needed for cataloging new 
+material and it does not conform to the guidelines in this instruction sheet, change it as necessary. 
+Follow the procedures in H 193.  
+ 
+2.  Form of entry. 
+ 
+a.  Model. 
+ 
+1XX X# $a [name of structure] ([geographic qualifier]) 
+4XX X# $a [alternate name(s)] ([geographic  
+            qualifier]) 
+550 ## $w g $a [type of structure] $z [country, or first 
+            order division] 
+ 
+
+
+<<<PAGE 2>>>
+H 1334  Buildings and Other Structures 
+ 
+ 
+ 
+H 1334 Page 2 
+Subject Headings Manual 
+August 2017 
+2.  Form of entry. 
+ 
+a.  Model.  (Continued) 
+ 
+Do not add a broader term of the type [name of city]BBuildings, structures, etc.; instead, 
+assign a heading of that type to the work being cataloged, as described in sec. 7, below. 
+ 
+ 
+b.  Tagging.  Consult the list of Group 2 headings in H 405 for the appropriate MARC tag 
+to use for the type of structure proposed. 
+ 
+ 
+c.  Entry term.  Enter the heading for a particular building or structure directly under its 
+own name, in uninverted form, and qualify it by the name of the geographic entity in 
+which the structure is located.  Also enter structures in cities directly under name rather 
+than under the name of the city.  For a building known by its street address rather than a 
+name, use the address, for example, Number 10 Downing Street (London, England).  
+For building details, see sec. 5, below. 
+ 
+ 
+Do not formulate a heading for a named structure that consists solely of a generic term 
+with a geographic qualifier unless there is evidence that this is also the proper name of 
+the structure. 
+ 
+ 
+d.  Language. 
+ 
+(1) Post-1500 entities.  Establish the name of a structure built after 1500 in the 
+vernacular of the country in which it is located. 
+ 
+ 
+(2) Pre-1500 entities.  If the name of a structure of pre-1500 origin has become 
+firmly established in an English form in English language usage, establish it in 
+this English form.  Determine this by consulting those English language 
+reference sources that are readily available.   
+ 
+Do not treat informal generic references to the structure (such as "a castle in [...]"), 
+as justification for establishing its name in English.  If no firmly established 
+English form exists, establish the name in the vernacular of the country in which it 
+is located. 
+
+
+<<<PAGE 3>>>
+ 
+Buildings and Other Structures  H 1334 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1334 Page 3 
+ 
+August 2017 
+2.  Form of entry. 
+ 
+d.  Language.  (Continued) 
+ 
+  
+(3) Provisional headings.  If, according to the above rules, the vernacular form 
+is required but cannot be found either in the work being cataloged or in readily 
+available reference sources, use the form found in the work being cataloged.  In a 
+670 field, provide a brief explanation, such as Established in English; 
+vernacular form not found.  Add a 952 field with the word Provisional.  
+When preparing the record to be assigned to a tentative list, the Data Integrity 
+Section will code for "Provisional" in field 008/33 (the Level of Establishment 
+box on the 008 input screen for authority records in the LC ILS).  If, when 
+cataloging a subsequent work for which the heading is required, the vernacular 
+form is found, submit a proposal to change the established heading to the proper 
+form and to remove the "provisional" coding, changing it to "fully established" 
+(code a in field 008/33). 
+ 
+ 
+3.  Geographic qualifier. 
+ 
+a.  General. 
+ 
+(1) Single jurisdiction.  For a structure located wholly within a single jurisdic-
+tion, construct the geographic qualifier by placing the name of the jurisdiction in a 
+single set of parentheses after the name of the structure. 
+ 
+ 
+(2) Two jurisdictions.  For a structure in two jurisdictions, use the names of the 
+two jurisdictions separated by the word and; add the names alphabetically unless 
+the structure is located principally in one of the jurisdictions, in which case add 
+the name of that jurisdiction as the first of the two names. 
+ 
+ 
+(3) More than two jurisdictions.  For a structure in more than two jurisdictions, 
+omit the geographic qualifier. 
+ 
+ 
+
+
+<<<PAGE 4>>>
+H 1334  Buildings and Other Structures 
+ 
+ 
+ 
+H 1334 Page 4 
+Subject Headings Manual 
+August 2017 
+3.  Geographic qualifier. 
+ 
+a.  General.  (Continued) 
+  
+(4) Latest name of jurisdiction.  Use only the latest form of the name when 
+designating a jurisdiction in the qualifier. 
+ 
+(5) Form of name to use.  The form of name used in the qualifier is the form as 
+established in the name authority file, with these exceptions: 
+ 
+ 
+! certain place names are abbreviated in a qualifier (see H 810 for the list 
+of authorized abbreviations) 
+ 
+! qualifying terms such as (Province), (State), (Federation), (Extinct 
+city), etc., are omitted 
+ 
+! a place name qualified by the name of a larger place retains that 
+qualifier when the smaller place is itself used as a qualifier, substitut-
+ing a comma and a space for parentheses.  For example, Chicago (Ill.) 
+becomes (Chicago, Ill.). 
+ 
+ 
+b.  Structure outside a city. 
+ 
+(1) General.  Use the name of the country in which the structure is located as the 
+geographic qualifier, except for the countries listed below. 
+ 
+ 
+ 
+ 
+ 
+Country 
+ 
+ 
+ 
+Qualifier 
+Australia 
+ 
+ 
+ 
+state name 
+Canada 
+ 
+ 
+ 
+province name 
+Great Britain  
+ 
+ 
+constituent country name 
+Malaysia 
+ 
+ 
+ 
+state name 
+United States  
+ 
+ 
+state name 
+ 
+Note:  For a list of the first order divisions of these countries and 
+the form used in qualifiers, see H 810. 
+
+
+<<<PAGE 5>>>
+ 
+Buildings and Other Structures  H 1334 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1334 Page 5 
+ 
+August 2017 
+3.  Geographic qualifier. 
+ 
+b.  Structure outside a city.  (Continued) 
+ 
+(2) Islands.  For a structure located on an individual island but outside a city, 
+qualify according to the rules for qualifying entities on islands (see H 810, 
+sec. 2.d.). 
+ 
+ 
+c.  Structure in a city.  Use as a qualifier the name of the city in which the structure is 
+located, as established in the name authority file. 
+ 
+ 
+If there are two or more structures with the same name in the same city add, after the 
+name of the city, a space, a colon, another space, and a street name, to create a distinctive 
+heading, for example, Apollo Theater (New York, N.Y. : 125th Street) and Apollo 
+Theatre (New York, N.Y. : 42nd Street).  In situations where structures of the same 
+name successively occupied the same site, add date spans to the qualifier, for example, 
+Minnesota State Capitol (Saint Paul, Minn. : 1883-1905) and Minnesota State 
+Capitol (Saint Paul, Minn. : 1905-  ). 
+ 
+ 
+Structures in London, England.  For a structure located in the original City of 
+London or one of the inner boroughs, use the qualifier (London, England), for 
+example, Buckingham Palace (London, England).  The inner boroughs of 
+London are Camden, Greenwich, Hackney, Hammersmith and Fulham, Islington, 
+Kensington and Chelsea, Lambeth, Lewisham, Southwark, Tower Hamlets, 
+Wandsworth, and the City of Westminster.  For a structure located in one of the 
+outer boroughs, use as a qualifier the borough name as established in the name 
+authority file, for example, Hampton Court (Richmond upon Thames, London, 
+England). 
+ 
+ 
+d.  Temporary exhibition buildings.  For temporary buildings associated with a 
+particular exhibition, exposition, world's fair, etc., qualify by the name of the exhibition 
+as established in the name authority file, substituting commas for any colons or 
+parentheses that are part of the name heading.  Do not separately subfield code the 
+qualifier or any elements of it.  Examples: 
+
+
+<<<PAGE 6>>>
+H 1334  Buildings and Other Structures 
+ 
+ 
+ 
+H 1334 Page 6 
+Subject Headings Manual 
+August 2017 
+3.  Geographic qualifier. 
+ 
+d.  Temporary exhibition buildings.  (Continued) 
+ 
+ 
+ 
+Name heading for exposition:   
+ 
+111 2# $a Exposition internationale $d (1937 : $c Paris, 
+            France) 
+ 
+Exhibition building:   
+ 
+110 2# $a Pavillon de l'Espagne (Exposition internationale, 
+            1937, Paris, France) 
+ 
+ 
+ 
+Name heading for exposition:   
+ 
+111 2# $a New York World's Fair $d (1964-1965) 
+ 
+Exhibition building:   
+ 
+110 2# $a New Jersey Tercentenary Pavilion (New York World's 
+            Fair, 1964-1965) 
+ 
+ 
+ 
+e.  Bridges and tunnels.  For bridges and tunnels that link either two cities or a city with 
+another jurisdiction or area, use as the geographic qualifier the name of the city with 
+which the structure is predominantly associated, for example, Golden Gate Bridge (San 
+Francisco, Calif.).  If the structure is associated equally with both, use both, in 
+alphabetical order, for example, Westerscheldetunnel (Goes and Terneuzen, 
+Netherlands);  Mária Valéria Híd (Esztergom, Hungary, and Štúrovo, Slovakia). 
+ 
+ 
+ 
+
+
+<<<PAGE 7>>>
+ 
+Buildings and Other Structures  H 1334 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1334 Page 7 
+ 
+August 2017 
+3.  Geographic qualifier.  (Continued) 
+ 
+f.  Conflict.  In the case where the heading for a structure constructed according to these 
+rules would be the same as the heading for some other entity, the heading for the structure 
+must be altered in some way to make it unique.  There are two possible techniques: 
+ 
+! add the name of a smaller jurisdiction such as the county to the qualifier 
+ 
+! designate the kind of structure involved by adding, following the place in the 
+qualifier, an appropriate generic term in English, for example, (France : 
+Castle).  In the absence of a conflict, do not add a designating term merely to 
+explain the nature of the structure. 
+ 
+Generally, use the first technique when the conflicting entities are of the same 
+type, for example, two buildings.  Use the second technique when the conflicting 
+entities are of different types, for example, a city and a building, or when the first 
+technique will not resolve the conflict.  For conflicting entities within a single 
+city, see sec. 3.c., above. 
+ 
+ 
+4.  References. 
+ 
+a.  UF references. 
+ 
+(1) Variant forms of name.  Add 4XX fields from variant and alternative forms 
+of the name found while conducting authority research, including any earlier 
+names, appropriate vernacular forms if the name is established in English, or the 
+English form if the name is established in the vernacular. 
+ 
+(2) Translating and rearranging elements. If an English form is not found and if 
+a vernacular heading includes a generic term for which there is a clear English 
+equivalent, translate the generic term.  Rearrange the words in the heading to 
+bring the proper name portion into the first position, if necessary.  Example: 
+ 
+ 
+110 2# $a Castillo de Ponferrada (Ponferrada, Spain) 
+410 2# $a Ponferrada Castle (Ponferrada, 
+            Spain) 
+ 
+
+
+<<<PAGE 8>>>
+H 1334  Buildings and Other Structures 
+ 
+ 
+ 
+H 1334 Page 8 
+Subject Headings Manual 
+August 2017 
+4.  References. 
+ 
+a.  UF references.  (Continued) 
+ 
+ (3) Proper name in the initial position.  If the name of the structure as 
+established in the heading has a generic term rather than a proper name in the first 
+position, add a 4XX field with the name inverted in such a way as to bring the 
+proper name into the first position.  However, omit this inverted 4XX field if any 
+of the other 4XX fields in straight order begin with the same word.  Example: 
+ 
+ 
+110 2# $a Castillo de Ponferrada (Ponferrada, Spain) 
+410 2# $a Ponferrada Castle (Ponferrada, 
+            Spain) 
+ 
+Do not add the following 410 since the first 410 begins with the same word:  
+ 
+[410 2# $a Ponferrada, Castillo de (Ponferrada, 
+           Spain)]  
+ 
+ 
+ 
+(4) Forename in the initial position. If the name of the structure as established in 
+the heading begins with a forename followed by a surname, add a 4XX field that 
+begins with the surname. Example: 
+ 
+ 
+110 2# $a John Hancock Center (Chicago, Ill.) 
+410 2# $a Hancock Center (Chicago, Ill.) 
+ 
+ 
+If the name of the structure as given in a 4XX field begins with a forename 
+followed by a surname, add an additional 4XX field that begins with the surname. 
+Example: 
+ 
+ 
+110 2# $a Still Bend (Two Rivers, Wis.) 
+410 2# $a Bernard Schwartz House (Two Rivers, Wis.) 
+410 2# $a Schwartz House (Two Rivers, Wis.)  
+ 
+
+
+<<<PAGE 9>>>
+ 
+Buildings and Other Structures  H 1334 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1334 Page 9 
+ 
+August 2017 
+4.  References. 
+ 
+a.  UF references.  (Continued) 
+ 
+ 
+(5) Buildings established as street addresses.  Do not add a 4XX field with the 
+numeral of the street address spelled out, unless that form is actually found in the 
+item being cataloged or in other sources that were consulted.  Example: 
+ 
+ 
+110 2# $a 2040 Union Street (San Francisco, Calif.) 
+ 
+Do not add the following 410s unless these forms are found in the item being 
+cataloged or in other sources:  
+ 
+[410 2# $a Twenty forty Union Street (San Francisco 
+             Calif.) ]  
+[410 2#  $a Two thousand forty Union Street (San Francisco 
+ 
+ 
+ 
+ 
+ 
+      (Calif.)] 
+ 
+ 
+ 
+b.  Broader terms.  Consult recent subject authority records whose references have been 
+evaluated to determine patterns for the appropriate 5XX (broader term) field to add for 
+[type of structure].  In late 1984, the implementation of new policies for creating BTs 
+resulted in many changes in reference patterns for named buildings, structures, etc.  The 
+most significant of these are listed below. 
+ 
+ 
+Note:  For information on the geographic subdivision used in broader 
+term references for structures (shown by the notation [place] in the 
+examples below), see H 375. 
+ 
+ 
+Public buildings.  The broader term Public buildingsB[place] is made only for 
+those public buildings for which it is not possible to construct a broader term 
+[specific type of building]B[place] because their only function is to house 
+government offices. 
+ 
+ 
+
+
+<<<PAGE 10>>>
+H 1334  Buildings and Other Structures 
+ 
+ 
+ 
+H 1334 Page 10 
+Subject Headings Manual 
+August 2017 
+4.  References. 
+ 
+b.  Broader terms.  (Continued) 
+ 
+Bridges.  Make the broader term BridgesB[country, or first order political 
+division].  The construction type of the bridge, for example, Suspension bridges, 
+is not brought out as a broader term.  The body of water the bridge spans is not 
+brought out as a broader term. 
+ 
+ 
+Dwellings.  The broader term Architecture, DomesticB[place] is no longer 
+made.  Instead, Architecture, DomesticB[place] is assigned as a heading to 
+architectural studies of a particular dwelling.  Because of the subjective nature of 
+determining 
+what 
+is 
+a 
+mansion, 
+use 
+DwellingsB[place] 
+rather 
+than 
+MansionsB[place] for dwellings that may be described as mansions. 
+ 
+ 
+Official residences of heads of government or other officials.  Two broader 
+terms are added:  Official residencesB[place] and [type of head of government 
+or official]BDwellingsB[place]. 
+ 
+ 
+Historic buildings.  Do not add a broader term Historic buildingsB[place].  
+Instead add a broader term [specific type of building]B[place]. 
+ 
+ 
+Temporary exhibition buildings.  Add a broader term Exhibition build-
+ingsB[place].  Do not add a broader term from the name heading for the 
+exhibition. 
+ 
+ 
+
+
+<<<PAGE 11>>>
+ 
+Buildings and Other Structures  H 1334 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1334 Page 11 
+ 
+August 2017 
+5.  Building details. 
+    
+a.  Named building details.  If a building detail, such as a window, door, portal, dome,  
+or room, has a proper name, establish a specific subject heading for it.  If the building  
+of which it is a part has been established as a subject heading or as a name heading with a 
+geographic qualifier, establish the building detail according to the following model: 
+  
+  
+1XX ## $a [name of detail] ([name of structure], [geographic 
+            qualifier]) 
+4XX ## $a [alternate name(s)] ([name of structure], 
+            [geographic qualifier]) 
+5XX X# $ g $a [heading for the main structure] 
+550 ## $ g $a [type of detail] $z [country] 
+  
+If the main building has been established as a name heading that has no geographic 
+qualifier, use the following model: 
+  
+ 
+1XX ## $a [name of detail] ([name of structure]) 
+4XX ## $a [alternate name(s)] ([name of structure]) 
+5XX X# $w g $a [heading for the main structure] 
+550 ## $w g $a [type of detail] $z [country] 
+  
+  
+  
+  
+b.  Unnamed building details.  If a building detail does not have a proper name, do not 
+establish a separate heading for it.  Instead, assign two headings to bring out the detail: 
+  
+  
+650 #0 $a [generic heading for the type of building detail] 
+            $z [place] 
+610 20 $a [heading for the main structure] 
+ 
+ 
+ 
+ 
+6.  Parts of complex structures.  Also establish the name of a component part of a complex 
+structure directly under its own name, following the pattern in sec. 5, above, for example, pagoda 
+forming part of a temple complex. 
+ 
+
+
+<<<PAGE 12>>>
+H 1334  Buildings and Other Structures 
+ 
+ 
+ 
+H 1334 Page 12 
+Subject Headings Manual 
+August 2017 
+ 
+7.  Assignment of headings.  Assign the appropriate combination of the following types of 
+headings to a work about an individual structure: 
+ 
+6XX X0 $a [name of structure]. 
+ 
+651 #0 $a [name of city] $x Buildings, structures, etc. 
+ 
+Assign this heading if the structure or building is located in a city and the work 
+being cataloged discusses it from the architectural standpoint, that is, if it 
+describes the structure or building as a physical entity. 
+ 
+6X0 X0 $a [name of architect or architectural firm]. 
+ 
+Assign this heading if the work discusses the structure from the architectural point 
+of view, and if the name of the architect or firm is readily available. 
+ 
+ 
+6X0 X0 $a [name of owner, resident, etc.] $x Homes and haunts  
+            $z [place]. 
+ 
+Assign if the work discusses the person, family, or performing group who owns or 
+resides in the structure. 
+ 
+600 X0 $a [name of person memorialized] $x Monuments $z [place]. 
+ 
+Assign this heading if the structure is a memorial or monument erected in honor 
+of a particular person, and the name of the person is readily available. 
+ 
+6XX X0 $a [any special feature or topic appropriate to the work being  
+            cataloged]. 
+ 
+ 
+The name of the structure in the first heading above refers either to a corporate name heading 
+established by descriptive catalogers and used by subject catalogers to designate a named 
+structure, for example, churches, museums, etc., or to a heading for an individual structure 
+established by subject catalogers in accordance with the provisions of the earlier portion of this 
+instruction sheet. 
+ 
+The order of headings assigned to a particular work depends on the emphasis of the work, and 
+may not correspond to the order given above. 
+
+
+<<<PAGE 13>>>
+ 
+Buildings and Other Structures  H 1334 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1334 Page 13 
+ 
+August 2017 
+8.  Examples. 
+ 
+151 ## $a Brooklyn Bridge (New York, N.Y.) 
+550 ## $w g $a Bridges $z New York (State) 
+ 
+ 
+ 
+151 ## $a Pont-Neuf (Paris, France) 
+550 ## $w g $a Bridges $z France 
+ 
+ 
+ 
+151 ## $a Westminster Bridge (London, England) 
+550 ## $w g $a Bridges $z England 
+ 
+ 
+ 
+110 2# $a Castillo de Ponferrada (Ponferrada, Spain) 
+410 2# $a Ponferrada Castle (Ponferrada, Spain) 
+550 ## $w g $a Castles $z Spain 
+ 
+ 
+ 
+110 2# $a Schloss Halbturn (Halbturn, Austria) 
+410 2# $a Halbturn Castle (Halbturn, Austria) 
+550 ## $w g $a Castles $z Austria 
+ 
+ 
+ 
+110 2# $a Château de Versailles (Versailles, France) 
+410 2# $a Versailles Palace (Versailles, France) 
+550 ## $w g $a Palaces $z France 
+ 
+ 
+ 
+151 ## $a Yihe Yuan (Beijing, China) 
+451 ## $w nne $a I Ho Yüan (Beijing, China) 
+451 ## $w nne $a I Ho Yüan (Peking, China) 
+451 ## $a Summer Palace (Beijing, China) 
+451 ## $a Yi He Yuan (Beijing, China) 
+550 ## $w g $a Parks $z China 
+ 
+ 
+ 
+110 2# $a Herbert Hoover Memorial Building (Stanford, Calif.) 
+410 2# $a Herbert Hoover Memorial Education Building 
+          (Stanford, Calif.) 
+410 2# $a Hoover Memorial Building (Stanford, Calif.) 
+550 ## $w g $a College buildings $z California 
+ 
+ 
+ 
+
+
+<<<PAGE 14>>>
+H 1334  Buildings and Other Structures 
+ 
+ 
+ 
+H 1334 Page 14 
+Subject Headings Manual 
+August 2017 
+8.  Examples.  (Continued) 
+ 
+ 
+110 2# $a 2040 Union Street (San Francisco, Calif.) 
+550 ## $w g $a Dwellings $z California 
+ 
+ 
+110 2# $a Maison Fornel (Québec, Québec) 
+410 2# $a Fornel House (Québec, Québec) 
+410 2# $a Maison Villeray (Québec, Québec)  
+    
+ 
+410 2# $a Villeray House (Québec, Québec) 
+550 ## $w g $a Dwellings $z Québec (Province) 
+ 
+ 
+110 2# $a Mount Clare (Baltimore, Md. : Building) 
+550 ## $w g $a Dwellings $z Maryland 
+ 
+ 
+110 2# $a Library of Congress James Madison Memorial Building 
+            (Washington, D.C.) 
+410 2# $a James Madison Memorial Building (Washington, 
+            D.C.) 
+410 2# $a Library of Congress Madison Building  
+            (Washington, D.C.)  
+410 2# $a Madison Building, Library of Congress  
+            (Washington, D.C.) 
+550 ## $w g $a Library buildings $z Washington (D.C.) 
+ 
+ 
+110 2# $a White House (Washington, D.C.) 
+550 ## $a Official residences $z Washington (D.C.) 
+550 ## $w g $a Presidents $x Dwellings $z Washington (D.C.) 
+ 
+ 
+110 2# $a Indian Point Nuclear Power Plant (N.Y.) 
+550 ## $w g $a Nuclear power plants $z New York (State) 
+ 
+ 
+110 2# $a Hauptbahnhof (Hamburg, Germany) 
+550 ## $w g $a Railroad stations $z Germany 
+ 
+ 
+110 2# $a Cleveland Municipal Stadium (Cleveland, Ohio) 
+410 2# $a Municipal Stadium (Cleveland, Ohio) 
+550 ## $w g $a Stadiums $z Ohio 
+ 
+ 
+110 2# $a Presbytère (New Orleans, La.) 
+550 ## $w g $a Buildings $z Louisiana 
+
+
+<<<PAGE 15>>>
+ 
+Buildings and Other Structures  H 1334 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1334 Page 15 
+ 
+August 2017 
+8.  Examples.  (Continued) 
+ 
+ 
+110 2# $a Hadrian's Villa (Tivoli, Italy) 
+410 2# $a Adriana Villa (Tivoli, Italy) 
+410 2# $a Villa Adriana (Tivoli, Italy) 
+551 ## $w g $a Italy $x Antiquities 
+550 ## $w g $a Palaces $z Italy 
+ 
+ 
+ 
+110 2# $a Sait (Yakushiji, Nara-shi, Japan) 
+410 2# $a West Pagoda (Yakushiji, Nara-shi, Japan) 
+550 ## $w g $a Pagodas $z Japan 
+510 2# $w g $a Yakushiji (Nara-shi, Japan) 
+ 
+ 
+ 
+150 ## $a Hyman Liberman Memorial Door (South African National 
+          Gallery) 
+450 ## $a Liberman Memorial Door (South African National 
+          Gallery) 
+550 ## $w g $a Doors $z South Africa 
+510 2# $w g $a South African National Gallery 
+ 
+ 
+ 
+151 ## $a Plaza de Bolívar (Panama, Panama) 
+451 ## $a Bolívar Plaza (Panama, Panama) 
+550 ## $w g $a Plazas $z Panama 
+ 
+ 
+ 
+150 ## $a Western Wall (Jerusalem) 
+450 ## $a Wailing Wall (Jerusalem) 
+550 ## $w g $a Walls $z Jerusalem 

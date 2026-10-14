@@ -1,0 +1,247 @@
+
+
+<<<PAGE 1>>>
+ 
+Public Opinion  H 1955 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1955 Page 1 
+ 
+June 2013 
+BACKGROUND:  The expression public opinion refers to the predominant attitude of a 
+community of people on a topic.  Public opinion is generally brought out in subject heading 
+practice by assigning a pair of headings to the work being cataloged:  the main heading Public 
+opinion with local subdivision, and a heading for the topic of the opinion with the subdivision 
+BPublic opinion.  A variant form of the subdivision, BForeign public opinion, is used under 
+certain circumstances described in this instruction sheet.  These headings are not used to 
+designate the class of persons or ethnic group holding an opinion, however; the heading [class 
+of persons or ethnic group]BAttitudes is assigned as an additional heading for this purpose.  
+This instruction sheet provides guidelines for assigning the various headings and subdivisions 
+for public opinion. 
+ 
+ 
+ 
+ 
+1.  General rule.  Assign to works about public opinion on a topic the following combination of 
+headings: 
+ 
+ 
+(1)  [topic]B[place, if appropriate]BPublic opinion 
+(2)  Public opinionB[place] 
+ 
+ 
+ 
+a.  First heading.  The topic in the first heading is the topic about which the opinion is 
+held.  Most authorized subject or name headings may be assigned for this purpose, with 
+the exception of those noted in sec. 3-4, below.  Divide the topic by place to bring out 
+the location of the topic, not the place where the opinion is held.  If a heading 
+designating a class of persons or ethnic group is used, the heading refers to the group of 
+people as the topic of the opinion, not to the group of people holding the opinion.  For 
+example, the heading PoliceBNew York (State)BNew YorkBPublic opinion refers to 
+public opinion about the police, not to opinions held by the police.  Until 1972, the 
+subdivision BPublic opinion was qualified by names of regions or countries, but that 
+practice was discontinued. 
+ 
+ 
+ 
+b.  Second heading.  The place in the second heading identifies the location of the people 
+who hold the opinion.  If no specific location is identified in the work being cataloged, 
+omit the second heading. 
+
+
+<<<PAGE 2>>>
+H 1955  Public Opinion 
+ 
+ 
+ 
+H 1955 Page 2 
+Subject Headings Manual 
+June 2013 
+1.  General rule.  (Continued) 
+ 
+ 
+c.  Examples: 
+ 
+ 
+Title:  Crown and people : the view of the British. 
+651 #0 $a Great Britain $x Kings and rulers $x Public 
+            opinion. 
+650 #0 $a Public opinion $z Great Britain. 
+ 
+ 
+ 
+Title:  Public attitudes in Maryland toward urban expressway 
+construction. 
+650 #0 $a Express highways $x Public opinion. 
+650 #0 $a Public opinion $z Maryland. 
+ 
+ 
+ 
+Title:  Tax revolt : Virginians look at California's property tax initiative. 
+650 #0 $a Real property tax $z California $x Public 
+            opinion. 
+650 #0 $a Public opinion $z Virginia. 
+ 
+ 
+ 
+Title:  Worldwide attitudes toward abortion. 
+650 #0 $a Abortion $x Public opinion. 
+ 
+ 
+ 
+ 
+2.  Designating the class of persons or ethnic group.  If the work discusses the opinion held by 
+a particular class of persons or ethnic group, assign the heading [class of persons or ethnic 
+group]BAttitudes in addition to the pair of headings described above.  Example: 
+ 
+ 
+Title:  The views of San Francisco college students on drug addiction. 
+650 #0 $a College students $z California $z San Francisco  
+            $x Attitudes. 
+650 #0 $a Drug abuse $z United States $x Public opinion. 
+650 #0 $a Public opinion $z California $z San Francisco. 
+
+
+<<<PAGE 3>>>
+ 
+Public Opinion  H 1955 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1955 Page 3 
+ 
+June 2013 
+3.  Opinion about places. 
+ 
+ 
+a.  General.  To bring out an opinion about a place, assign headings of the type 
+[place]B[topic]BPublic opinion, interposing a suitable topical subdivision between the 
+heading for the place and the subdivision BPublic opinion.  Construct headings of this 
+type only when it is not possible to assign a heading of the type [topic]B [place]BPublic 
+opinion. 
+ 
+ 
+ 
+ 
+Do not use the subdivision BPublic opinion directly under names of places.  If, because 
+of the general nature of the work being cataloged, a very specific topical subdivision is 
+not appropriate, use one of the more general subdivisions, such as BCivilization, 
+BEconomic conditions, BPolitics and government,  or BSocial conditions. 
+ 
+ 
+ 
+ 
+Examples: 
+ 
+ 
+ 
+Title:  Detroit as its people see it. 
+651 #0 $a Detroit (Mich.) $x Social conditions  
+            $x Public opinion. 
+650 #0 $a Public opinion $z Michigan $z Detroit. 
+ 
+ 
+ 
+ 
+Title:  The attitude of Americans toward their homeland. 
+651 #0 $a United States $x Civilization $y 1970- 
+            $x Public opinion. 
+650 #0 $a Public opinion $z United States. 
+ 
+ 
+ 
+
+
+<<<PAGE 4>>>
+H 1955  Public Opinion 
+ 
+ 
+ 
+H 1955 Page 4 
+Subject Headings Manual 
+June 2013 
+3.  Opinion about places.  (Continued) 
+ 
+ 
+b.  Foreign opinion about a place.  Use the subdivision BForeign public opinion 
+directly under names of regions or countries, not under names of smaller entities, to 
+designate foreign opinion about regions or countries.  Example: 
+ 
+ 
+ 
+Title:  America in the eyes of the world. 
+651 #0 $a United States $x Foreign public opinion. 
+ 
+ 
+ 
+To designate opinion about a region or country held by the residents of another region or 
+country, qualify the subdivision BForeign public opinion by the adjective designating 
+the region or country where the opinion is held.  Example: 
+ 
+ 
+ 
+Title: Japan from the British perspective. 
+651 #0 $a Japan $x Foreign public opinion, British. 
+650 #0 $a Public opinion $z Great Britain. 
+ 
+ 
+ 
+If the opinion is held on a specific topic, add a heading for the topic.  Example: 
+ 
+ 
+ 
+Title:  The American perspectives on South Africa. 
+651 #0 $a South Africa $x Politics and government  
+            $y 1978-1989 $x Public opinion.  
+651 #0 $a South Africa $x Foreign public opinion, 
+            American. 
+650 #0 $a Public opinion $z United States. 
+
+
+<<<PAGE 5>>>
+ 
+Public Opinion  H 1955 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1955 Page 5 
+ 
+June 2013 
+4.  Opinion about wars.  In general, use the subdivision BPublic opinion under names of 
+individual wars, treating wars like any other topic.  Example: 
+ 
+ 
+Title:  The intellectuals of Europe and World War II. 
+650 #0 $a Intellectuals $z Europe $x Attitudes. 
+650 #0 $a World War, 1939-1945 $x Public opinion. 
+650 #0 $a Public opinion $z Europe. 
+ 
+ 
+ 
+Opinion of non-participants.  If the opinion held is that of persons in regions or 
+countries not participating in the war, use the subdivision BForeign public opinion 
+instead of BPublic opinion under the name of the war.  If the opinion is limited to a 
+single region or country, add a qualifier to the subdivision to indicate the location of the 
+foreign public opinion.  Examples: 
+ 
+ 
+ 
+Title:  World reaction to the Grenada invasion. 
+651 #0 $a Grenada $x History $y American Invasion, 
+            1983 $x Foreign public opinion. 
+ 
+ 
+ 
+Title:  The American reaction to the Falkland War. 
+650 #0 $a Falkland Islands War, 1982 $x Foreign public 
+            opinion, American. 
+650 #0 $a Public opinion $z United States. 
+ 
+ 
+Note:  Use the subdivision BPublic opinion instead of BForeign public opinion 
+under the headings World War, 1914-1918 and World War, 1939-1945.   
+ 

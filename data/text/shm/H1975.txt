@@ -1,0 +1,86 @@
+
+
+<<<PAGE 1>>>
+ 
+Readers  H 1975 
+ 
+ 
+1.  General.  Use the free-floating subdivision BReaders as a form subdivision under names of 
+languages (except English) for reading texts to be used in learning those languages, for example, 
+French languageBReaders. 
+ 
+ 
+Do not bring out specific age levels for foreign language readers by using qualifiers such as 
+(Primary), (Secondary), etc., after the subdivision BReaders. 
+ 
+ 
+Further subdivide the subdivision by topic or form if the reader is limited to a particular subject 
+or literary form, for example, French languageBReadersBMedicine; French lan-
+guageBReadersB Science fiction.  Assign this subdivision on a free-floating basis, if the topic 
+or form itself is an established heading. 
+ 
+ 
+When assigning a heading further subdivided by form or topic, assign an additional heading for 
+the form or topic.  Examples: 
+ 
+ 
+Title:  Cuentos argentinos de misterio. 
+650 #0 $a Spanish language $v Readers $v Detective and 
+            mystery stories, Argentine. 
+650 #0 $a Detective and mystery stories, Argentine. 
+ 
+Title:  German readings in science. 
+650 #0 $a German language $v Readers $x Science. 
+650 #0 $a Science. 
+ 
+ 
+Subdivide the additional heading for topic by a form subdivision, if appropriate, for example, 
+BPopular works.  If the reader consists of literary selections, subdivide it by BLiterary 
+collections.  Example: 
+ 
+ 
+Title:  Le voyage. 
+650 #0 $a French language $v Readers $x Voyages 
+            and travels. 
+650 #0 $a Voyages and travels $v Literary 
+            collections. 
+ 
+Subject Headings Manual 
+H 1975 Page 1 
+ 
+November 2015 
+
+
+<<<PAGE 2>>>
+H 1975  Readers 
+ 
+ 
+2.  When the topic is a place.  The topical subdivision used under the heading or subdivision 
+Readers may be the name of a place, for example, French languageBReadersBUnited States. 
+ 
+Further subdivide the place subdivision by subdivisions such as BCivilization, BHistory, etc., if 
+appropriate.  Example: 
+ 
+Title:  France in perspective; highlights in French civilization. 
+650 #0 $a French language $v Readers $x France  
+            $x Civilization.   
+651 #0 $a France $x Civilization. 
+ 
+When a place name is used as a topic in this manner, subfield code it $x rather than $z. 
+ 
+ 
+ 
+3.  English.  For English language readers, assign the form heading Readers. 
+ 
+For non-topical English-language readers limited to a specific age level, use headings of the type 
+Readers (Primary), Readers (Elementary), etc. 
+ 
+For English readers on particular topics or in particular forms, subdivide the heading Readers by 
+the topic or the form, for example, ReadersBAgriculture; ReadersBRomance fiction. 
+ 
+Assign the same type of additional heading for topic or form as described in sec. 1-2, above. 
+ 
+ 
+H 1975 Page 2 
+Subject Headings Manual 
+November 2015 

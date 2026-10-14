@@ -1,0 +1,323 @@
+{
+  "sheet": "H 1155.8",
+  "title": "Pattern Headings: Literary Works Entered Under Title",
+  "kind": "pattern",
+  "scope": "Free-floating subdivisions for use under uniform titles of literary works entered directly under title (not sacred works, not author-title entries); pattern heading Beowulf.",
+  "pattern_headings": [
+    "Beowulf"
+  ],
+  "pattern_category": "literary works entered directly under uniform title",
+  "general_notes": [
+    "Headings for literary works entered directly under uniform title. Examples: Arabian nights; Chanson de Roland; Charlemagne (Play); Guillaume (Chanson de geste).",
+    "The subject cataloging of anonymous sacred classics, for example, Bible; Qur’an; Vedas, differs substantially and should not be confused with the treatment of the literary works discussed here. For free-floating subdivisions used under the uniform titles of sacred works, see H 1188. For subdivisions used under literary works entered under author, see H 1155.6.",
+    "Any subdivision listed here can be used as a free-floating subdivision under any heading belonging to the category if it is appropriate and no conflict exists in the subject authority file.",
+    "The subdivisions listed in H 1095 as authorized for use under subjects in general, for example, --Bibliography or --Exhibitions, or under individual works (author-title or title entries), for example, --Concordances or --Sources, are also free-floating under literary works. The additional subdivisions listed below follow the usage given in the individual literary authors list (H 1110). Do not use the subdivision --Criticism and interpretation under entries for literary works. For a work of general criticism and interpretation or a discussion combining the approaches of several subdivisions, assign as a subject heading the uniform title of the literary work without subdivision.",
+    "LC practice: As stated in H 1075, Library of Congress catalogers will no longer use form subdivisions. Instead assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT) to bring out the form(s) and/or genre(s) of the resource being cataloged. The form subdivisions maintained on this list are not available for use by LC catalogers. Catalogers at institutions external to LC may use them as dictated by their own institutional policies.",
+    "The entry 'Film and video adaptations' (printed without a subfield code, with '--' in the geographic column) is a reference: see 'Film adaptations' and 'Television adaptations'; it is carried in this JSON with subfield \"\"."
+  ],
+  "entries": [
+    {
+      "subdivision": "--Adaptations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "literary works entered under title for works about adaptations of those works",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Appreciation",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Authorship",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Characters",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "literary works entered under title for works about the work's characters in general, a specific group or category of characters, or specific named characters",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Criticism, Textual",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Dramatic production",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use literary works entered under the title for works on various aspects of stage presentation, e.g. acting, costume, stage setting, and scenery, etc.",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Film adaptations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Film and video adaptations",
+      "subfield": "",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See “Film adaptations” and “Television adaptations”",
+      "see_also": [
+        "--Film adaptations",
+        "--Television adaptations"
+      ],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Illustrations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "individual literary works entered under title for works about pictorial representation of those works",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Language",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Manuscripts",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "individual works entered under title for works about manuscripts of those titles",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Parodies, imitations, etc.",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "individual literary works entered under title for works about imitations, either comic or distorted, of those titles",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Style",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Television adaptations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Translations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "individual literary works entered under title for works about translations",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Translations--History and criticism",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Translations into French, [German, etc.]--History and criticism",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Versification",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "literary works entered under title for works on the author’s technique of writing verse",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Adaptations",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "literary works entered under title and individual literatures for collections of adaptations of those works",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Film adaptations",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "individual literary works entered under title for collections of film adaptations of those works",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Film and video adaptations",
+      "subfield": "",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See “Film adaptations” and “Television adaptations”",
+      "see_also": [
+        "--Film adaptations",
+        "--Television adaptations"
+      ],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Illustrations",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "individual literary works entered under title for collections of pictorial representations of those works",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Language--Glossaries, etc.",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Manuscripts--Facsimiles",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "literary works entered under title for facsimile editions of manuscripts of those works",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Parodies, imitations, etc.",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "individual literary works entered under title for imitations, either comic or distorted, of those titles",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Television adaptations",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "individual literary works entered under title for collections of television adaptations of those works",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Translations",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "individual literary works entered under title for collections of translated works",
+      "notes": "Do not use for single translations.",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    }
+  ]
+}

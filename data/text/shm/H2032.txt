@@ -1,0 +1,199 @@
+
+
+<<<PAGE 1>>>
+ 
+Sermons  H 2032 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2032 Page 1 
+ 
+August 2020 
+BACKGROUND:  Sermons are homilies or discourses for the purpose of religious instruction 
+or exhortation, often based on texts of sacred works and delivered as part of religious services.  
+This instruction sheet provides guidelines for assigning headings to individual sermons and 
+collections of sermons to bring out the religion, denomination, language, topic, and occasion of 
+the sermons, and to critical works about sermons. 
+ 
+ 
+1.  General.  Assign the form heading Sermons to collections of sermons by two or more 
+authors, not limited to one language or religion. 
+ 
+Assign a heading of the type Sermons, [language] to collections of sermons in one language not 
+limited to one religion, establishing each phrase heading with language qualifier as needed, for 
+example, Sermons, English; Sermons, French. 
+ 
+Note:  Sermons, American is used for English sermons of the United States.  However, 
+headings with other national qualifiers should not be established. 
+ 
+Establish subdivisions for special classes of authors, if appropriate, for example, Sermons, 
+American–Women authors. 
+ 
+Establish chronological subdivisions without interposition of the subdivision –History, for 
+example, Sermons, English—21st century. 
+ 
+ 
+2.  Christianity. 
+ 
+a.  General collections.  Assign the form heading Sermons to collections of Christian 
+sermons not limited to one language, topic, occasion, or Christian denomination. 
+ 
+Assign this heading to Christian sermons only in those exceptional cases where it is not 
+possible to use a more specific heading. 
+ 
+ 
+b.  By language.  Assign headings of the type Sermons, [language] to individual 
+sermons or collections of Christian sermons in one language, for example, Sermons, 
+Welsh; Sermons, Spanish. 
+ 
+Establish subdivisions for special classes of authors, if appropriate, for example, 
+Sermons, English–Women authors. 
+ 
+
+
+<<<PAGE 2>>>
+H 2032  Sermons 
+ 
+ 
+ 
+H 2032 Page 2 
+Subject Headings Manual 
+August 2020 
+2.  Christianity.  (Continued) 
+ 
+ 
+c.  By denomination.  In accordance with H 1187, assign a heading of the type 
+[denomination]–Sermons to individual sermons or collections of sermons by one or 
+more authors from that denomination, for example, Catholic Church–Sermons. 
+ 
+Do not add a language qualifier to headings of this type.  Assign an additional heading 
+to bring out the language of the sermons, as indicated in sec. 2.b. 
+ 
+ 
+ 
+ 
+d.  By topic.  To individual sermons or collections of sermons about a topic, individual 
+person, or sacred work, assign a heading for the topic, uniform title for the sacred work, 
+or the name of the person subdivided by the free-floating form subdivision –Sermons.  
+Examples: 
+ 
+ 
+630 00 $a Bible. $p Genesis $v Sermons. 
+600 00 $a Francis, $c of Assisi, Saint, $d 1182-1226  
+            $v Sermons. 
+650 #0 $a Hope $x Religious aspects $x Christianity  
+            $v Sermons. 
+650 #0 $a Salvation $v Sermons. 
+ 
+ 
+When assigning –Sermons as a free-floating subdivision under names of individual 
+persons, do not interpose a topical subdivision between the name of the person and the 
+subdivision –Sermons.  Establish any heading needed for sermons on a specific topic 
+about a person, for example, Jesus Christ–Passion–Sermons. 
+ 
+ 
+ 
+ 
+e.  By occasion.  Assign an appropriate phrase heading for individual or collections of 
+sermons delivered on a special occasion or prepared for a specific audience, for example, 
+Children’s sermons; Christmas sermons; Funeral sermons. 
+
+
+<<<PAGE 3>>>
+ 
+Sermons  H 2032 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2032 Page 3 
+ 
+August 2020 
+3.  Other religions. 
+ 
+a.  General collections.  Assign a phrase heading of the type [religion] sermons to 
+collections of sermons from a religion other than Christianity by two or more authors not 
+limited to one language, for example, Buddhist sermons; Jewish sermons. 
+ 
+ 
+b.  By language.  Establish a phrase heading with language qualifier for individual 
+sermons or collections of sermons of a particular religion in one language, for example, 
+Buddhist sermons, Korean; Islamic sermons, Indonesian. 
+ 
+ 
+c.  By sect.  In accordance with H 1185, assign a heading of the type [name of sect]– 
+Sermons to individual sermons or collections of sermons by authors from that sect. 
+ 
+Do not add a language qualifier to headings of this type.  Assign an additional heading 
+to bring out the language, as indicated in sec. 3.b. 
+ 
+ 
+d.  By topic.  To individual sermons or collections of sermons on a topic, assign a 
+heading for the topic subdivided by the free-floating form subdivision –Sermons, for 
+example, Joy–Religious aspects–Hinduism–Sermons. 
+ 
+ 
+e.  By occasion.  Assign a phrase heading for an individual sermon or collection of 
+sermons delivered on a special occasion or prepared for a specific audience, for example, 
+Jewish occasional sermons; Rosh ha-Shanah sermons. 
+ 
+ 
+ 
+4.  Assigning an array of headings.  To individual sermons or collections of sermons, assign an 
+array of headings to bring out the religion, denomination, language, topic, and occasion of the 
+sermons.  Examples: 
+ 
+Title:  Wesley's standard sermons. 
+650 #0 $a Methodist Church $v Sermons. 
+650 #0 $a Sermons, English. 
+
+
+<<<PAGE 4>>>
+H 2032  Sermons 
+ 
+ 
+ 
+H 2032 Page 4 
+Subject Headings Manual 
+August 2020 
+4.  Assigning an array of headings. 
+ 
+Examples:  (Continued) 
+ 
+Title:  Jewish funeral sermons. 
+650 #0 $a Jewish funeral sermons. 
+650 #0 $a Jewish sermons, Hebrew. 
+ 
+Title:  Women and the word. 
+650 #0 $a Sermons, American $x Women authors. 
+ 
+Title:  Thoughts for special occasions and days. 
+650 #0 $a Jewish occasional sermons. 
+650 #0 $a Jewish sermons, American. 
+ 
+Title:  Jesus never said everyone was lovable. 
+650 #0 $a Love $x Religious aspects $x Christianity  
+            $v Sermons. 
+650 #0 $a Methodist Church $v Sermons. 
+650 #0 $a Sermons, American. 
+ 
+Title:  Sermons on the prophecies of Micah. 
+630 00 $a Bible. $p Micah $v Sermons. 
+610 20 $a United Church of Canada $v Sermons. 
+650 #0 $a Sermons, English $z Canada. 
+ 
+Title:  Marian sermons. 
+600 00 $a Mary, $c Blessed Virgin, Saint $v Sermons. 
+610 20 $a Catholic Church $v Sermons. 
+650 #0 $a Sermons, American. 
+ 
+ 
+5.  History and criticism.  Assign the free-floating subdivision –History and criticism under 
+any type of heading or subdivision for sermons to works that critically evaluate the style and/or 
+the contents of individual or collections of sermons, for example, Sermons, French–History 
+and criticism. 
+ 
+Do not assign this type of heading to works on methods of writing and delivering sermons.  To 
+these works assign the appropriate heading for preaching, for example, Preaching; Buddhist 
+preaching; Islamic preaching; Methodist preaching. 

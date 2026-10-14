@@ -1,0 +1,48 @@
+
+
+<<<PAGE 1>>>
+ 
+Dates in Subdivisions for Specific Events  H 1078 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1078 Page 1 
+ 
+February 2019 
+BACKGROUND:  Certain headings for specific events are constructed by using subdivisions 
+of the type B[name of event], [date] under corporate bodies, or BHistoryB[name of event], [date] 
+under names of places, for example, BExplosion, [date]; BEruption, [date]; etc.  Subdivisions 
+of this type, including the date element, are free-floating as authorized by H 1105 and H 1140.  
+Similar subdivisions appear under certain pattern headings and are therefore free-floating 
+under individual headings covered by the pattern, for example, United States. NavyBCruise, 
+[date].  This instruction sheet provides guidelines for formulating the date element in headings 
+of this type.  For an explanation of subfield coding of subdivisions of this type, see H 620, sec. 
+1.e(1). 
+ 
+ 
+ 
+1.  Events within a single year.  When formulating a heading with a subdivision for an event 
+that occurred in a single year, specify only the year, provided that there is no conflict with 
+another actual or potential heading.  In case of conflict, see sec. 3, below.  Example: 
+ 
+610 20 $a Triangle Shirtwaist Company $x Fire, 1911.  
+ 
+2.  Events spanning more than one year.  If the event spanned a period of more than one year, 
+specify the full range of years.  Example: 
+ 
+610 10 $a United States. $b Navy $x Cruise, 1907-1909. 
+ 
+Provide this full span of dates even if the work being cataloged focuses on only one year, or one 
+part, of the span. 
+ 
+3.  Two or more events within the same year.  If it is necessary to specify a month and day, or 
+span of days, in order to distinguish between two or more similar events occurring in the same 
+year, add the additional information in parentheses following the year.  Examples: 
+ 
+651 #0 $a Colima (Mexico : Volcano) $x Eruption, 2016 (September 25) 
+651 #0 $a Colima (Mexico : Volcano) $x Eruption, 2016 (December 18) 
+ 
+Note:  In headings of this type, even the month and day, or time span, may be 
+constructed on a free-floating basis.  Do not abbreviate names of months when 
+formulating headings of this type. 

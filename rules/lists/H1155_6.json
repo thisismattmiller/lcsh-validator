@@ -1,0 +1,63 @@
+{
+  "sheet": "H 1155.6",
+  "title": "Pattern Headings: Literary Works Entered Under Author",
+  "kind": "pattern",
+  "scope": "Free-floating subdivisions for use under author-title uniform titles of literary works, or parts of works, entered under author; pattern heading Shakespeare, William, 1564-1616. Hamlet.",
+  "pattern_headings": [
+    "Shakespeare, William, 1564-1616. Hamlet"
+  ],
+  "pattern_category": "uniform titles of literary works, or parts of a work, entered under author",
+  "general_notes": [
+    "Uniform titles of literary works, or parts of a work, that are entered under author. Examples: Dante Alighieri, 1265-1321. Divina commedia; Tolstoy, Leo, graf, 1828-1910. Voĭna i mir; Goethe, Johann Wolfgang von, 1749-1832. Faust. 1. Theil; Hemingway, Ernest, 1899-1961. Sun also rises.",
+    "For subdivisions used under literary works entered directly under title, with no author designation, including anonymous and multi-authored works, see H 1155.8.",
+    "Any subdivision listed here can be used as a free-floating subdivision under any heading belonging to the category if it is appropriate and no conflict exists in the subject authority file.",
+    "The subdivisions listed in H 1095 are authorized for use under subjects in general, for example, --Bibliography or --Exhibitions, or under individual works (author-title or title entries), for example, --Concordances or --Sources, are also free-floating under literary works. The subdivisions used under literary works entered under author are closely related to the subdivisions used under names of individual literary authors (H 1110). For general criticism and interpretation of a work, assign the unsubdivided heading: [author]. [title]. To bring out any other aspect of literary analysis pertaining to an individual work, assign an additional heading for the author with the appropriate subdivision, along with companion headings, if any, as indicated elsewhere in this manual.",
+    "LC practice: As stated in H 1075, Library of Congress catalogers will no longer use form subdivisions. Instead assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT) to bring out the form(s) and/or genre(s) of the resource being cataloged. The form subdivisions maintained on this list are not available for use by LC catalogers. Catalogers at institutions external to LC may use them as dictated by their own institutional policies."
+  ],
+  "entries": [
+    {
+      "subdivision": "--Criticism, Textual",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Illustrations",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "individual literary works entered under author for works about pictorial representation of those works",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Illustrations",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "individual literary works entered under author for collections of pictorial representations of those works",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Pictorial works",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "individual literary works entered under author for works consisting of pictures or other visual images pertaining to the work as a physical object or, in the case of dramatic works, to productions of the work",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    }
+  ]
+}

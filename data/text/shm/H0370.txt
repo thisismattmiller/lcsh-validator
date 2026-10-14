@@ -1,0 +1,677 @@
+
+
+<<<PAGE 1>>>
+ 
+Broader Terms, Narrower Terms, and Related Terms  H 370 
+ 
+ 
+ 
+Subject Headings Manual 
+H 370 Page 1 
+ 
+September 2023 
+BACKGROUND:  Broader term, narrower term, and related term references for subject 
+headings are created according to the following principles: 
+ 
+ 
+Hierarchical references.  A narrower term reference is made to a given subject heading from 
+the next broader heading so that terms are arranged in a hierarchy.  The following 
+relationships are considered hierarchical: 
+ 
+ 
+• Genus/species (or class/class member): 
+ 
+Apes 
+ 
+ 
+ 
+ 
+ 
+Buildings, Prefabricated 
+  BT Primates 
+ 
+ 
+ 
+  BT Buildings 
+ 
+Women executives 
+ 
+ 
+ 
+Cinematography 
+  BT Executives 
+ 
+ 
+ 
+  BT Photography 
+ 
+Dental anthropology 
+  BT Physical anthropology  
+ 
+ 
+ 
+ 
+• Whole/part: 
+ 
+Toes 
+ 
+ 
+ 
+ 
+ 
+Ethnology 
+  BT Foot 
+ 
+ 
+ 
+ 
+  BT Anthropology 
+ 
+ 
+ 
+• Instance (or generic topic/proper-named example): 
+ 
+Whitewater Lake (Wis.)  
+ 
+ 
+[Whitewater Lake is an instance of a lake 
+  BT Lakes–Wisconsin 
+ 
+ 
+  in Wisconsin] 
+ 
+Belleau Wood, Battle of, France,         [The battle of Belleau Wood in 1914 is an  
+       1918  
+ 
+ 
+ 
+  instance of a campaign in France during  
+   BT World War, 1914-1918– 
+ 
+  World War I] 
+  Campaigns–France 
+
+
+<<<PAGE 2>>>
+H 370  Broader Terms, Narrower Terms, and Related Terms 
+ 
+ 
+ 
+H 370 Page 2 
+Subject Headings Manual 
+September 2023 
+BACKGROUND:  (Continued) 
+ 
+ 
+Related term references.  In order to link two headings that are neither broader nor narrower 
+than each other, a related term (RT) reference is made from each to the other.  Examples: 
+ 
+ 
+ 
+ 
+Rugs  
+ 
+ 
+Carpets 
+  RT Carpets  
+ 
+  RT Rugs 
+ 
+ 
+ 
+Athletes 
+ 
+ 
+Sports 
+  RT Sports  
+ 
+  RT Athletes 
+ 
+ 
+ 
+ 
+Even though headings linked in this way are not hierarchically related, they are mentally 
+associated to such an extent that the link is made explicit in order to reveal alternative headings 
+that might be of interest.  In order to avoid subjective judgments, a general guideline for 
+making related term reference links in the subject authority file is that one of the headings 
+should be strongly implied, according to the frames of reference of LCSH users, whenever the 
+other is considered.  Frequently the concept represented by one of the headings is a necessary 
+component in the definition of the other.  For example, Birds is a necessary part of the 
+definition of Ornithology. 
+ 
+ 
+ 
+These principles for making references have been applied to new subject headings beginning in 
+1985.  Headings that conform to these principles are coded as “evaluated” with value a in field 
+008/29 (the box labeled Reference Evaluation on the 008 input screen in the LC ILS).  
+References for those headings established before 1985 that have the value b (“not evaluated”) or 
+n (“not applicable” [no references present]) in field 008/29 do not necessarily conform to these 
+principles.  References on these older headings are reviewed, revised, and recoded as “evaluated” 
+on a case-by-case basis. 
+
+
+<<<PAGE 3>>>
+ 
+Broader Terms, Narrower Terms, and Related Terms  H 370 
+ 
+ 
+ 
+Subject Headings Manual 
+H 370 Page 3 
+ 
+September 2023 
+1.  Hierarchical references. 
+ 
+a.  General rule.  When establishing a new heading, follow the principle described above 
+in creating its reference structure, making appropriate BT reference(s) when establishing a 
+new heading.  Also follow the guidelines for making references for particular types of 
+headings that are given in specific instruction sheets on those topics, for example, H 690, 
+sec. 10.b and 10.c, for geographic names; H 1332, sec. 4.b., for biological names.  The 
+automated system generates the “reciprocal” NT references using the notation NT in 
+Library of Congress Subject Headings.  Examples: 
+ 
+Hot dog rolls  
+ 
+← narrower heading 
+  BT Bread rolls 
+ 
+←broader heading 
+                                          
+Bread  
+ 
+ 
+←narrower heading 
+  BT Baked products  
+← broader heading 
+ 
+Except in the situations described below, make at least one BT when establishing a new 
+heading.  Make this BT even if both headings begin with the same word.  Example: 
+ 
+Chemistry, Forensic 
+  BT Chemistry 
+ 
+ 
+(1) “Orphan” headings.  “Orphan” headings, that is, headings having no BT, are 
+generally prohibited in the subject authority file.  There are, however, a limited 
+number of situations in which "orphan" headings are permitted, including the 
+following: 
+ 
+ 
+• Headings that are “top terms,” that is, the broadest topic in a given 
+hierarchy, for example, Science. 
+ 
+ 
+• Headings for geographic regions. 
+ 
+ 
+• Headings for family names. 
+
+
+<<<PAGE 4>>>
+H 370  Broader Terms, Narrower Terms, and Related Terms 
+ 
+ 
+ 
+H 370 Page 4 
+Subject Headings Manual 
+September 2023 
+1.  Hierarchical references. 
+ 
+a.  General rule. 
+ 
+(1) “Orphan” headings.  (Continued) 
+ 
+• Inverted headings qualified by names of languages, nationalities, ethnic 
+groups, or terms that designate time periods, when the only appropriate 
+BTs are the identical heading without the qualifier, the identical heading 
+with a broader linguistic, national, or ethnic qualifier, or a broader 
+heading with the identical qualifier.  For example, Painting, French 
+does not have the BT Painting; Painting, European; or Art, French; 
+and Aesthetics, Ancient does not have the BT Aesthetics. 
+ 
+Note however that references are routinely made, especially for belles 
+lettres headings of this type, from broader terms with the qualifier in the 
+initial position, for example, Short stories, German has the BT 
+German fiction. 
+ 
+ 
+(2) “Subdivision-to-subdivision” references.  In general, do not make a reference 
+from one heading with a subdivision to a narrower heading with the same 
+subdivision.  Instead, make the reference link at the level of the unsubdivided 
+headings.  Example: 
+ 
+ 
+Lamas  
+ 
+ 
+  BT Buddhist priests 
+ 
+ 
+ 
+  [not Lamas–Lineage 
+ 
+ 
+  BT Buddhist priests–Lineage] 
+ 
+ 
+(3) General see also references.  Do not make references between individual 
+headings in situations where a general see also reference is appropriate and has been, 
+or should be, made (see H 371). 
+
+
+<<<PAGE 5>>>
+ 
+Broader Terms, Narrower Terms, and Related Terms  H 370 
+ 
+ 
+ 
+Subject Headings Manual 
+H 370 Page 5 
+ 
+September 2023 
+1.  Hierarchical references.  (Continued) 
+ 
+b.  Number of references to be made.  Most single-concept headings belong to only one 
+hierarchy and require only one BT.  Some headings may incorporate more than one 
+concept in more than one hierarchy and require additional BTs, but rarely more than three.  
+Link a new heading only to the next broader heading in the logical hierarchy by means of 
+a BT.  Example: 
+ 
+ 
+Automobiles  
+ 
+ 
+  BT Motor vehicles 
+ 
+ 
+[not  Automobiles 
+  BT Motor vehicles 
+  BT Vehicles] 
+ 
+ 
+If a new heading is a member of more than one hierarchy, link it to the next broader heading 
+in each hierarchy.  Example: 
+ 
+ 
+Women college administrators 
+  BT College administrators 
+  BT Women executives 
+  BT Women in education 
+ 
+ 
+ 
+ 
+c.  Establishing headings to fill hierarchical “gaps.”  When establishing a new heading, 
+establish also the next broader heading to use as a BT, if it has not already been established. 
+ 
+Follow this rule in situations where the missing heading comes readily to mind or becomes 
+apparent after checking dictionaries, other thesauri, etc.  These situations are generally 
+fairly obvious in the sciences, but less obvious in the humanities and social sciences. 
+ 
+
+
+<<<PAGE 6>>>
+H 370  Broader Terms, Narrower Terms, and Related Terms 
+ 
+ 
+ 
+H 370 Page 6 
+Subject Headings Manual 
+September 2023 
+1.  Hierarchical references.  (Continued) 
+ 
+d.  Revising existing reference structures.  When establishing a new heading that is an 
+intermediate term in a hierarchy, add the new heading as a BT to the authority records for 
+all existing narrower headings, and delete any BTs that link the existing headings to 
+headings broader than the newly-established intermediate term.  Example: 
+ 
+ 
+ 
+When the heading Specialty stores was established with the BT Stores, 
+Retail, BT references were also made to the existing headings Jewelry 
+stores and Museum stores.  The BTs linking the latter headings directly 
+to Stores, Retail were cancelled, resulting in the following hierarchy: 
+ 
+ 
+ 
+Specialty stores 
+ 
+[The hierarchy before Specialty stores 
+  BT Stores, Retail 
+ 
+   was established had been: 
+ 
+Jewelry stores  
+ 
+Jewelry stores 
+  BT Specialty stores  
+  BT Stores, Retail 
+ 
+Museum stores 
+ 
+Museum stores 
+  BT Specialty stores  
+  BT Stores, Retail] 
+ 
+ 
+ 
+ 
+e.  Complex situations.  Many subject headings incorporate more than one concept, and 
+therefore do not generally lend themselves to strict hierarchical reference treatment.  
+These include headings modified by prepositional or conjunctional phrases, headings 
+constructed with subdivisions, and headings with certain parenthetical additions.  As a 
+general rule, when establishing a new heading of this type, make a BT from the generic 
+heading for the term that is the second element in the heading even though the reference 
+may not be truly hierarchical.  Example: 
+ 
+Hydrogen as fuel 
+  BT Fuel 
+
+
+<<<PAGE 7>>>
+ 
+Broader Terms, Narrower Terms, and Related Terms  H 370 
+ 
+ 
+ 
+Subject Headings Manual 
+H 370 Page 7 
+ 
+September 2023 
+1.  Hierarchical references. 
+ 
+e.  Complex situations.  (Continued) 
+ 
+A number of different complex situations have been identified for which special decisions 
+regarding the required BTs have been made.  These decisions are reflected in subject 
+authority records in which the references have been coded as “evaluated.”  On the 
+following pages are examples of some of these decisions. 
+ 
+(1) [ . . . ] and [ . . . ] headings.  Make a BT from the heading (or its equivalent) 
+that follows the word and (cf. H 310). 
+ 
+ 
+(2) Subdivisions. 
+ 
+(a) Subdivisions that follow the general rule.  Make a BT from the 
+heading that corresponds to the subdivision.  Example: 
+ 
+[ . . . ]–Contracting out 
+ 
+[ . . . ]–Election 
+  BT Contracting out   
+    
+  BT Elections 
+ 
+[ . . . ]–Transliteration 
+  BT Transliterations 
+ 
+Note:  In some instances this rule is followed only when there is no 
+more specific heading available for use as a BT.  Example: 
+ 
+[ . . . ]–Diagnostic use 
+  BT Diagnosis 
+[or more specific type of  
+   diagnosis, if established] 
+ 
+ 
+(b) Free-floating subdivisions.  Some subdivisions that are normally free-
+floating are occasionally established because of special circumstances. In 
+such situations, make no BT.  For example, when Prisoners– Education 
+(May Subd Geog) was established in order to establish Prisoners–
+Education–Law and legislation (May Subd Geog), no BT was made under 
+Prisoners–Education because –Education is normally free-floating under 
+classes of persons. 
+
+
+<<<PAGE 8>>>
+H 370  Broader Terms, Narrower Terms, and Related Terms 
+ 
+ 
+ 
+H 370 Page 8 
+Subject Headings Manual 
+September 2023 
+1.  Hierarchical references. 
+ 
+e.  Complex situations. 
+ 
+(2) Subdivisions.  (Continued) 
+ 
+(c) Non-free-floating subdivisions for which no BTs are made.  Certain 
+subdivisions must be established each time they are used.  For the 
+following subdivisions of this type, make no BT, since there is no generic 
+heading for the concept represented by the term in the subdivision: 
+ 
+[ . . . ]–Application 
+[ . . . ]–Complications 
+[country]–Foreign relations–[period subdivision] 
+[ . . . ]–Religious aspects 
+[ . . . ]–Utilization 
+ 
+ 
+Note:  Although no BTs are made in these situations, UF 
+references are required in some cases, as reflected in subject 
+authority records in which the references are coded as “evaluated.” 
+ 
+ 
+(d) Topics subdivided by other topics.  Certain topics are constructed in 
+the form of a single heading subdivided by various other topical headings, 
+for example, Advertising–[topic], Conflict of laws–[topic], Selling–[name 
+of product], Strikes and lockouts–[group of workers], etc. In such 
+situations, make no BT.  Example: 
+ 
+Advertising–Bus lines 
+  [no BT] 
+ 
+Note:  Although no BTs are made in this situation, H 373 requires 
+that a UF be made from the reversed form.  Example: 
+ 
+Advertising–Bus lines 
+  UF Bus lines–Advertising 
+ 
+
+
+<<<PAGE 9>>>
+ 
+Broader Terms, Narrower Terms, and Related Terms  H 370 
+ 
+ 
+ 
+Subject Headings Manual 
+H 370 Page 9 
+ 
+September 2023 
+1.  Hierarchical references. 
+ 
+e.  Complex situations.  (Continued) 
+ 
+(3) Prepositional phrases. 
+ 
+(a) Phrases that follow the general rule.  Make a BT from the heading 
+that corresponds to the term(s) following the preposition.  Examples: 
+ 
+Sex instruction for [group of people] 
+  BT [group of people] 
+ 
+Church work with [group of people] 
+  BT [group of people] 
+ 
+Communication in [specific field] 
+  BT [specific field] 
+ 
+[ . . . ] in interior decoration 
+  BT Interior decoration 
+ 
+(b) Special situations involving prepositional phrases.  Case-by-case 
+pattern reference decisions have been made for several types of headings 
+constructed with prepositional phrases, such as diseases or psychological 
+concepts in children.  These decisions are reflected in subject authority 
+records in which the references are coded as “evaluated.”  The following 
+is a representative sample of these decisions: 
+ 
+[group of people] in medicine 
+  BT Medical personnel 
+ 
+[name of sport] for women 
+  BT Sports for women 
+ 
+[ . . . ] in the Bible 
+ 
+   [ . . . ] in art 
+  [no BT] 
+ 
+   
+     [no BT] 
+ 
+[ . . . ] in literature 
+  [no BT] 
+
+
+<<<PAGE 10>>>
+H 370  Broader Terms, Narrower Terms, and Related Terms 
+ 
+ 
+ 
+H 370 Page 10 
+Subject Headings Manual 
+September 2023 
+1.  Hierarchical references. 
+ 
+e.  Complex situations.  (Continued) 
+ 
+(4) Parenthetical qualifiers for legal systems.  Make a BT from the general 
+heading for the legal system.  Example: 
+ 
+[ . . . ] (Roman law) 
+  BT Roman law 
+ 
+ 
+ 
+2.  Related term references.  In order to focus emphasis on hierarchical references, simplify 
+future special projects to revise references in the subject authority file, and reduce the size and 
+complexity of Library of Congress Subject Headings, restrictive rules are in effect for making 
+related term references with the intended effect of minimizing the number of related term 
+references that are made.   Do not make related term references in the following situations: 
+ 
+• To link two headings that begin with the same word or word stem.  For example, do 
+not link Public libraries and Public librarians or Hand presses and Hand-printed 
+books as related terms. 
+ 
+Exception:  Two such headings may be linked as related terms if they are 
+“top terms,” that is, if they stand at the top of the hierarchy of a discipline.  
+For example, Libraries and Librarians may be linked as related terms. 
+ 
+ 
+• To link two headings that have a common broader term at any level of the hierarchy. 
+ 
+Exception:  Two such headings may be linked as related terms if the 
+relationship is so close either that their meanings overlap considerably, or 
+that one is needed to define the other, or that they are frequently used 
+interchangeably.  For example, Carpets and Rugs may be linked as 
+related terms even though they have the common broader term Floor 
+coverings.  Such close relationships between terms rarely occur, however. 
+
+
+<<<PAGE 11>>>
+ 
+Broader Terms, Narrower Terms, and Related Terms  H 370 
+ 
+ 
+ 
+Subject Headings Manual 
+H 370 Page 11 
+ 
+September 2023 
+2.  Related term references.  (Continued) 
+ 
+• To link two headings if terms at higher levels of either of their respective hierarchies 
+are already linked as related terms.  For example, do not link World politics and 
+International organization as related terms, since World politics is linked as a related 
+term to International relations and International relations is at a higher level in the 
+hierarchy for International organization. 
+ 
+ 
+Make related term references only in the following situations, and then only if not prohibited by 
+one of the above rules: 
+ 
+• To link two terms with meanings that overlap to some extent, or terms used somewhat 
+interchangeably.  Example:  
+ 
+Boats and boating 
+ 
+Ships 
+  RT Ships 
+ 
+ 
+  RT Boats and boating 
+ 
+ 
+[but not 
+ 
+Search dogs 
+ 
+ 
+Rescue dogs 
+  RT Rescue dogs 
+ 
+  RT Search dogs 
+ 
+since both headings have the broader term Working dogs] 
+ 
+ 
+• To link a discipline and object studied.  Example: 
+ 
+Ornithology 
+ 
+ 
+Birds 
+  RT Birds 
+ 
+ 
+  RT Ornithology 
+ 
+ 
+[but not 
+ 
+Masks  
+ 
+Mask making 
+  RT Mask making   RT Masks 
+ 
+since both headings begin with the same word] 
+
+
+<<<PAGE 12>>>
+H 370  Broader Terms, Narrower Terms, and Related Terms 
+ 
+ 
+ 
+H 370 Page 12 
+Subject Headings Manual 
+September 2023 
+2.  Related term references.  (Continued) 
+ 
+ 
+• To link persons and their fields of endeavor.  Example: 
+ 
+Medicine 
+ 
+ 
+Physicians 
+  RT Physicians 
+ 
+  RT Medicine 
+ 
+ 
+[but not 
+ 
+Banks and banking 
+ 
+Bankers 
+  RT Bankers  
+    
+  RT Banks and banking 
+ 
+ 
+since both headings begin with the same word stem] 

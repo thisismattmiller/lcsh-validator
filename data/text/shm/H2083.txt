@@ -1,0 +1,82 @@
+
+
+<<<PAGE 1>>>
+ 
+Specifications  H 2083 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2083 Page 1 
+ 
+June 2013 
+BACKGROUND:  Specifications are detailed descriptions or assessments of requirements, 
+dimensions, materials, etc., for a proposed building, structure, product, etc.  This instruction 
+sheet provides guidelines for assigning the heading Specifications and the subdivision 
+BSpecifications. The free-floating subdivision BContracts and specifications, previously used 
+under headings for engineering and construction, was discontinued in 1989.  It was replaced by 
+the free-floating subdivision BSpecifications and by phrase headings for types of contracts, for 
+example, Construction contracts and Road construction contracts. 
+ 
+ 
+ 
+ 
+1.  General.  Assign the heading Specifications (May Subd Geog) to general works on 
+specifications. 
+ 
+ 
+ 
+2.  Special topics.   
+ 
+ 
+a.  Engineering and construction.  Assign the free-floating subdivision BSpecifications 
+(May Subd Geog) as a form or topical subdivision under headings for types of 
+engineering or construction to works that contain or discuss detailed descriptions or 
+assessments of requirements for construction or engineering projects.  Code the 
+subdivision as a $v subfield for works that contain specifications and as an $x subfield 
+for works that discuss specifications.  Examples: 
+ 
+  
+650 #0 $a Bridges $v Specifications. 
+650 #0 $a Bus terminals $x Specifications $z Great Britain. 
+650 #0 $a Engineering $x Specifications $z United States. 
+ 
+ 
+Assign the subdivision BSpecifications under the heading for the object designed or 
+constructed rather than under the construction or engineering process, if both headings 
+exist.  Examples: 
+ 
+ 
+650 #0 $a Bridges, Arched $v Specifications. 
+  [not 650 #0 $a Bridges, Arched $x Design and construction  
+            $x Specifications.]   
+
+
+<<<PAGE 2>>>
+H 2083  Specifications 
+ 
+ 
+ 
+H 2083 Page 2 
+Subject Headings Manual 
+June 2013 
+2.  Special topics.  (Continued) 
+ 
+ 
+b.  Other topics.  Assign the free-floating subdivision BSpecifications (May Subd Geog) 
+as a form or topical subdivision under kinds of products or merchandise, types of 
+industries, etc., to works that contain or discuss detailed descriptions of the requirements 
+for materials, dimensions, etc., to be used in products manufactured or supplied.  Code 
+the subdivision as a $v subfield for works that contain specifications and as an $x 
+subfield for works that discuss specifications.  Examples: 
+ 
+ 
+650 #0 $a Automobiles $x Specifications $z United States. 
+650 #0 $a Construction industry $x Specifications $z Great 
+          Britain. 
+650 #0 $a Optical materials $v Specifications $z France. 
+ 
+ 
+Assign the subdivision under an industry only in those cases where the discussion of 
+specifications is not limited to a single product of the industry. 
+ 

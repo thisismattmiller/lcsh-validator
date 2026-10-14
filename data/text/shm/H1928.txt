@@ -1,0 +1,196 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Personal Narratives H 1928 | Page 1 
+ 
+ 
+Personal Narratives 
+H 1928 
+A. Background ................................................................................................................................. 1 
+B. Recent revisions .......................................................................................................................... 2 
+C. Definitions ................................................................................................................................... 2 
+D. General rule ................................................................................................................................ 2 
+E. National or ethnic qualifier ......................................................................................................... 2 
+F. Assignment of subject headings ................................................................................................. 3 
+F.1. Name heading for the person .............................................................................................. 3 
+F.2. [Class of persons]—Biography .............................................................................................. 3 
+F.3. Other subject headings......................................................................................................... 3 
+G. Order of headings ....................................................................................................................... 4 
+G.1. Narratives that include personal information about the author ........................................ 4 
+G.2. Narratives with little personal information about the author ............................................ 4 
+H. MARC21 biography coding .......................................................... Error! Bookmark not defined. 
+I. Extended examples ...................................................................................................................... 4 
+Revision history ............................................................................................................................... 6 
+A. Background 
+The subdivision *--Personal narratives* is a free-floating form subdivision used under names of 
+events and wars for collective or individual eyewitness reports and/or autobiographical 
+accounts of these events and wars. Prior to 1977, the subdivision was used more widely under 
+classes of persons, types of activities, and diseases. Those uses were replaced by the 
+subdivision *--Biography* under classes of persons.  
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Diaries*. For guidelines on bio-bibliography, see H 1328. For guidelines on assigning headings 
+to personal correspondence, see H 1480. For guidelines on biography, see H 1330. For 
+guidelines on diaries, see H 1538. For guidelines on interviews, see H 1678. For guidelines on 
+genealogy and family histories, see H 1631. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Personal Narratives H 1928 | Page 2 
+ 
+ 
+B. Recent revisions 
+2026-01: Updated template. Added instructions related to LCGFT implementation. 
+C. Definitions 
+Personal narratives: collective or individual eyewitness reports and/or autobiographical 
+accounts of wars or disasters. 
+D. General rule 
+Use the subdivision *--Personal narratives* under names of individual events or wars. 
+If the work being cataloged covers a particular event such as a battle which is part of a larger 
+conflict, assign the heading for the specific event subdivided by *--Personal narratives*. 
+LC practice: Assign the subject headings for the war or event. Do not assign the form 
+subdivision *--Personal narratives*. Assign LCGFT appropriate to the form and/or genre of the 
+resource in hand, e.g. LCGFT *Personal narratives* and/or a more specific term, e.g. *Diaries*. 
+E. National or ethnic qualifier 
+When used under names of wars, battles, etc., qualify the subdivision *--Personal narratives* 
+by a national or ethnic qualifier to bring out the nationality or ethnic background of the 
+narrator(s) of the account(s), for example, *World War, 1939 1945--Personal narratives, 
+American*. Omit the national or ethnic qualifier if it would cause redundancy within the 
+heading. 
+Under names of events not associated with a war or military conflict, omit the national or 
+ethnic qualifier. 
+LC practice: Assign the subject headings for the war or event. If location is limited, subdivide 
+geographically to bring out the location of the events in the narrative. If necessary, bring out 
+the nationality or ethnic background of the narrator(s) through a separate class of persons 
+heading designating nationality, ethnicity, etc., if not covered by the geographic subdivision. If 
+using that separate class of persons heading, subdivide geographically to bring out the location 
+of the events in the personal narrative, unless it would be redundant. If the contents of the 
+personal narrative also include descriptions and explanations of past events related to that 
+class of persons, also use the subdivisions *--History* as instructed in H 1647. Optionally, also 
+assign LCDGT to express the nationality or ethnicity of the creators. Assign LCGFT appropriate 
+to the form and/or genre of the resource in hand, e.g. LCGFT *Personal narratives* and/or a 
+more specific term, e.g. *Diaries*. 
+Examples: 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Personal Narratives H 1928 | Page 3 
+ 
+ 
+651 #0 $a United States $x History $y Revolution, 1775-1783 $v Personal 
+narratives. 
+651 #0 $a United States $x History $y Revolution, 1775-1983 $v Personal 
+narratives, British. 
+[but not 651 #0 $a United States $x History $y Revolution, 1995-1783 $v 
+Personal narratives, American.] 
+LC practice: 
+386 ## $a Americans $2 lcdgt 
+386 ## $a Britons $2 lcdgt 
+651 #0 $a United States $x History $y Revolution, 1775-1783. 
+650 #0 $a British $z United States $x History $y 18th century. 
+650 #0 $a Americans $x History $y 18th century. 
+655 #7 $a Personal narratives. $2 lcgft 
+ 
+650 #0 $a COVID-19 Pandemic, 2020-2023 $z United States $v Personal 
+narratives. 
+650 #0 $a Government physicians $z United States $v Biography. 
+LC practice: 
+386 ## $a Americans $2 lcdgt 
+650 #0 $a COVID-19 Pandemic, 2020-2023 $z United States. 
+650 #0 $a Government physicians $z United States. 
+655 #7 $a Personal narratives. $2 lcgft 
+F. Assignment of subject headings 
+F.1. Name heading for the person 
+For individual personal narratives, assign the name of the author of the work as a subject 
+heading. 
+F.2. [Class of persons]--Biography 
+If an individual personal narrative contains at least 50% autobiographical information, treat it as 
+a biography following the provisions of H 1330. If the work is an eyewitness report containing 
+less than 50% autobiographical details, do not treat it as a biography. 
+F.3. Other subject headings 
+Assign other subject headings as appropriate to the work being cataloged. 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Personal Narratives H 1928 | Page 4 
+ 
+ 
+G. Order of headings 
+G.1. Narratives that include personal information about the author 
+If an individual personal narrative contains a significant amount of personal information 
+regarding the author, assign the name of the author as the first subject heading. 
+G.2. Narratives with little personal information about the author 
+If the narrative is essentially an eyewitness account of what happened with little personal 
+information about the author, assign the name of the war or event as the first subject heading; 
+assign the name of the author as an additional subject heading. 
+H. Extended examples 
+Title: Few eggs and no oranges. 
+[diary about Londoners written by one person during World War II] 
+600 10 $a Hodgson, Vere $v Diaries. 
+650 #0 $a World War, 1939-1945 $v Personal narratives, British. 
+651 #0 $a London (England) $x Social life and customs $y 20th century. 
+651 #0 $a Birmingham (England) $x Social life and customs $y 20th century. 
+LC practice: 
+600 10 $a Hodgson, Vere. 
+650 #0 $a World War, 1939-1945 $z England $z London. 
+651 #0 $a London (England) $x Social life and customs $y 20th century. 
+651 #0 $a Birmingham (England) $x Social life and customs $y 20th century. 
+655 #7 $a Diaries. $2 lcgft 
+655 #7 $a Personal narratives. $2 lcgft 
+ 
+Title: A rumor of war. 
+600 10 $a Caputo, Philip. [name of author] 
+650 #0 $a Vietnam War, 1961-1975 $v Personal narratives, American. 
+650 #0 $a Soldiers $z United States $v Biography. 
+610 10 $a United States. $b Marine Corps $v Biography. 
+LC practice: 
+386 ## $a Americans $2 lcdgt 
+386 ## $a Military personnel $2 lcdgt 
+600 10 $a Caputo, Philip. [name of author] 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Personal Narratives H 1928 | Page 5 
+ 
+ 
+650 #0 $a Vietnam War, 1961-1975. 
+650 #0 $a Americans $z Vietnam. 
+650 #0 $a Soldiers $z United States. 
+610 10 $a United States. $b Marine Corps. 
+655 #7 $a Personal narratives. $2 lcgft 
+ 
+Title: Adventure in diplomacy : our French dilemma. 
+650 #0 $a World War, 1939-1945 $z Africa, North. 
+650 #0 $a World War, 1939-1945 $x Diplomatic history. 
+600 10 $a Pendar, Kenneth, 1906-1972. [name of author] 
+650 #0 $a World War, 1939 1945 $v Personal narratives, American. 
+LC practice: 
+650 #0 $a World War, 1939-1945 $z Africa, North. 
+650 #0 $a World War, 1939-1945 $x Diplomatic history. 
+600 10 $a Pendar, Kenneth, 1906-1972. [name of author] 
+650 #0 $a Americans $z Africa, North $x History $y 20th century. 
+655 #7 $a Personal narratives. $2 lcgft 
+ 
+Title: The year of the buzz bomb; a journal of London, 1944. 
+651 #0 $a London (England) $x History $y Bombardment, 1944 $v Personal 
+narratives, American. 
+600 10 $a Baker, Richard Brown $v Diaries. [name of author] 
+650 #0 $a World War, 1939-1945 $z England $z London. 
+650 #0 $a Guided missiles $x History. 
+LC practice: 
+386 ## $a Americans $2 lcdgt 
+651 #0 $a London (England) $x History $y Bombardment, 1944. 
+650 #0 $a Americans $z England $z London. 
+600 10 $a Baker, Richard Brown. [name of author] 
+650 #0 $a World War, 1939-1945 $z England $z London. 
+650 #0 $a Guided missiles $x History. 
+655 #7 $a Personal narratives. $2 lcgft 
+655 #7 $a Diaries. $2 lcgft 
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | Personal Narratives H 1928 | Page 6 
+ 
+ 
+Revision history 
+2026-01: Updated template. Added instructions related to LCGFT implementation. 

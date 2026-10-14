@@ -1,0 +1,3868 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 1 
+ 
+ 
+Free-floating Subdivisions 
+H 1095 
+A. Definition .................................................................................................................................. 1 
+B. Recent revisions ........................................................................................................................ 2 
+C. Caution regarding use ............................................................................................................... 2 
+D. Types of free-floating subdivisions ........................................................................................... 2 
+E. Procedures for assigning free-floating subdivisions .................................................................. 3 
+E.1. Authorized usage ................................................................................................................ 3 
+E.2. Conflicts .............................................................................................................................. 3 
+E.3. Topics not implied in headings ........................................................................................... 3 
+E.4. Order of subdivisions .......................................................................................................... 4 
+E.5. Geographic subdivisions ..................................................................................................... 4 
+E.6. Subfield coding ................................................................................................................... 4 
+E.7. Updating of LC records ....................................................................................................... 4 
+E.8. New usage .......................................................................................................................... 5 
+F. Topical Subdivisions of general application ............................................................................... 5 
+A-B | C-F | G-L | M-Q | R-Z ........................................................................................................ 5 
+G. Form subdivisions ................................................................................................................... 42 
+A-C | D-L | M-Z ........................................................................................................................ 43 
+Revision history ........................................................................................................................... 64 
+A. Definition 
+The term “free-ﬂoating” refers to a form or topical subdivision that may be used under 
+designated subjects without the usage being established editorially, and, as a consequence, 
+without an authority record being created for each main heading/subdivision combination that 
+might be needed. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 2 
+ 
+ 
+B. Recent revisions 
+2026-01: Updated template. Simpliﬁed text. Added instructions related to LCGFT 
+implementation. 
+C. Caution regarding use 
+Free-ﬂoating status does not allow the indiscriminate assignment of a subdivision under any 
+topic of interest. All free-ﬂoating subdivisions may be assigned only in accordance with 
+common sense and subject cataloging rules, policies, and practices. Most subdivisions are 
+usable only under limited categories of headings in speciﬁcally deﬁned situations. 
+D. Types of free-floating subdivisions 
+Five types of free-ﬂoating subdivisions are in use:  
+1. Form and topical subdivisions of general application. These subdivisions are listed with 
+guidelines for their use in Section F of this instruction sheet. 
+2. Subdivisions used under classes of persons and ethnic groups. These subdivisions are 
+given in two separate lists: H 1100 and H 1103. 
+3. Subdivisions used under names of individual corporate bodies, persons, and families. 
+Subdivisions used under names of corporate bodies are listed in H 1105. Subdivisions 
+used under names of persons are listed in H 1110. Subdivisions used under family 
+names are included in H 1120. 
+4. Subdivisions used under place names. Subdivisions used under names of regions, 
+countries, cities, etc., are listed in H 1140. Subdivisions used under names of bodies of 
+water are listed in H 1145.5. 
+5. Subdivisions controlled by pattern headings. Separate lists of these subdivisions are 
+given in the appropriate instruction sheet for each pattern heading (H 1147-H 1200). 
+General instructions for their use may be found in H 1146. 
+It is also possible to add certain free-ﬂoating terms and phrases to existing headings. For 
+instructions on those terms and phrases, see H 362. 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 3 
+ 
+ 
+E. Procedures for assigning free-floating subdivisions 
+E.1. Authorized usage 
+Before using any free-ﬂoating subdivision, determine that it is being used in accordance with 
+subject cataloging policy, as stated in the Subject Headings Manual, the subject authority ﬁle, 
+etc. Information about the authorized usage of free-ﬂoating subdivisions may be found in: 
+• The Subject Headings Manual -- the lists of free-floating subdivisions in H 1095-H 
+1200, as well as in separate instruction sheets that explain the use of many 
+individual subdivisions. 
+• Subject authority records -- subdivision authority records in which free-floating 
+subdivisions appear in 18X fields, codes identifying their controlling instruction sheet 
+numbers (H 1095-H 1200) appear in 073 fields, and usage statements and 
+instructions appear in 680 and 667 fields; scope notes in 680 fields of subject 
+heading authority records (cf. H 400); general see also references in 360 fields of 
+authority records for generic headings (cf. H 371); and general see references in 260 
+fields of reference records (cf. H 374) when no generic headings exist. 
+• LC Subject Headings Tentative List, Summary of Decisions -- announcements of new 
+free-floating subdivisions and changes to existing ones. 
+Note: Free-floating subdivisions: An Alphabetical Index was published annually from 1989-2011. 
+Because existing copies are out of date, they are not reliable guides to instructions on currently 
+authorized free-floating subdivisions. 
+E.2. Conflicts 
+Determine if the use under consideration conﬂicts with any previously established subject 
+headings. The conﬂict most frequently encountered is the subdivision vs. phrase heading 
+conﬂict, for example, *Schools--Management* vs. *School management and organization*. 
+Use the established heading in each case unless a policy is in place to revise a particular type of 
+heading. For example, in the 1980s, a decision was made to cancel all headings of the type *[X] 
+as a profession* in favor of the free-ﬂoating subdivision *--Vocational guidance*. For 
+subdivisions controlled by pattern headings, generally bring usage into conformity with the 
+pattern lists unless there is a good reason to maintain an exceptional heading. 
+E.3. Topics not implied in headings 
+Use a free-ﬂoating subdivision under a topical heading only when the topic of the subdivision is 
+not already implied in the heading itself. For example, the subdivision *--Government policy* is 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 4 
+ 
+ 
+not used under headings that are inherently governmental in nature (cf. H 1642). The 
+subdivision *--Psychological aspects* should not be used under headings for psychological 
+concepts, such as *Emotions*. 
+E.4. Order of subdivisions 
+Combine subdivisions with main headings in the prescribed order to create meaningful subject 
+heading strings. For a discussion of the two basic orders of subject heading strings, including 
+examples that use Library of Congress Genre/Form Terms in place of form subdivisions, see H 
+1075 Section E. 
+E.5. Geographic subdivisions 
+Free-ﬂoating subdivisions that are authorized for further geographic subdivision have the 
+notation (May Subd Geog) on the lists of free-ﬂoating subdivisions. See H 860 for instructions 
+on subdivisions further subdivided by place and H 870 for instructions on interposition of 
+geographic subdivisions. 
+E.6. Subfield coding 
+On the individual free-ﬂoating subdivision and pattern heading lists, subﬁeld coding is provided 
+for each subdivision listed. Most form subdivisions coded $v on the lists may also be used as 
+topical subdivisions coded $x when assigned to works about the form (see H 1075, sec. 1.d.). 
+(See LC practice note regarding form subdivisions in Section F.) 
+Note: As instruction sheets are updated to the current template, the lists of form and topical 
+subdivisions will be separated. 
+E.7. Updating of LC records 
+When assigning a particular subdivision for the ﬁrst time under a particular heading, check the 
+existing entries in the LC Database under the unsubdivided heading in order to locate those 
+records with headings that require updating. 
+Example: 
+When assigning the subdivision *--Social aspects* (May Subd Geog) for 
+the first time under the heading *Hunting*, examine the other records 
+that have been assigned the heading *Hunting* to determine those 
+records, if any, that should receive this new subdivision (with 
+geographic subdivision, if appropriate). 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 5 
+ 
+ 
+E.8. New usage 
+To use a free-ﬂoating subdivision in a new situation, or in a situation not authorized in the 
+written guidelines here or in the individual free-ﬂoating or pattern heading lists, establish the 
+new usage editorially according to the normal procedures in H 200, submitting a note of 
+explanation at the same time. 
+F. Topical Subdivisions of general application 
+Listed below are general free-ﬂoating form subdivisions and those topical subdivisions having 
+general application, or an application not covered by the pattern and other lists of free-ﬂoating 
+subdivisions outlined on p. 1. For subdivisions having applications governed solely by the other 
+lists, consult the appropriate list(s). On this list, statements are given of the types of headings 
+under which each subdivision may be used along with deﬁnitions of use in some cases. For 
+subdivisions that may be used under all types of headings -- geographic, personal, corporate, 
+title, and topical -- the statement reads, “Use under subjects.” Subdivisions authorized for use 
+under topical headings may be used under appropriate headings tagged 150 as well as under 
+headings with other tags that are divided by topical subdivisions. For subdivisions of general 
+application that also appear on other special lists, all uses are enumerated here. See also 
+references are provided between related subdivisions on this list. See also references to closely 
+related subdivisions on other special lists are also given. Appearing with each subdivision are 
+references to instruction sheets in the Subject Headings Manual which explain or mention its 
+use. 
+LC practice: In 2025, the use of form subdivisions was phased out. Library of Congress 
+catalogers assign Library of Congress Genre/Form Terms (LCGFT) to bring out the form(s) 
+and/or genre(s) of the resource being cataloged. Therefore, the form subdivisions maintained 
+on this list are not available for use by Library of Congress catalogers. Catalogers at institutions 
+external to LC may use them as dictated by their own institutional policies. 
+A-B | C-F | G-L | M-Q | R-Z 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Abbreviations 
+ 
+Use under topical headings for works about 
+abbreviations pertaining to those topics. 
+See also *--Acronyms* 
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 6 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Ability testing 
+Yes 
+Use under topical headings for tests and testing of 
+native aptitude or acquired proﬁciency in a particular 
+topic. 
+See also *--Testing* under phrase headings for types 
+of ability. 
+Consult H 2186. 
+$x Abstracting and indexing 
+Yes 
+Use under names of countries, cities, etc., classes of 
+persons, ethnic groups, and uniform titles of sacred 
+works, and under topical headings for works on how to 
+prepare abstracts or indexes of publications about the 
+subject. Also use under types of publications for works 
+on preparing abstracts or indexes of those types of 
+publications. 
+Consult H 1205 and H 1670. 
+$x Abstracts 
+ 
+Use as a topical subdivision under names of countries, 
+cities, etc., and under classes of persons, ethnic 
+groups, and topical headings for works about lists of 
+publications on the subject and provide full 
+bibliographical information together with substantive 
+summaries or condensations of the facts, ideas, or 
+opinions presented in each publication listed. Use 
+under names of individual persons and corporate 
+bodies for works about abstracts of works by or about 
+the person or corporate body. Also use under types of 
+publications for works about summaries of the 
+contents of those publications. 
+$x Access control 
+Yes 
+Use under types of archives, records, computers, 
+computer networks, and statistical and data-gathering 
+services. 
+$x Accidents 
+Yes 
+Use under names of individual space vehicles, types of 
+industries, and other topical headings. Do not 
+subdivide geographically under names of individual 
+space vehicles. 
+See also *--Wounds and injuries* under classes of 
+persons, ethnic groups, individual animals and groups 
+
+
+<<<PAGE 7>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 7 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+of animals, individual plants and groups of plants, and 
+individual organs and regions of the body. 
+$x Accidents $x Investigation 
+Yes 
+Use under topical headings. 
+$x Accounting 
+ 
+Use under names of individual corporate bodies and 
+under types of corporate bodies and industries, 
+military services, and topical headings. 
+Consult H 1624. 
+$x Accreditation 
+Yes 
+Use under names of individual corporate bodies, 
+especially institutions, educational institutions, and 
+services, and under types of institutions, educational 
+institutions, and services. Do not subdivide 
+geographically under names of corporate bodies. 
+See also *--Study and teaching* under subjects for the 
+accreditation of programs of study in those subjects. 
+See also *--Certiﬁcation*; *--Licenses* 
+$x Acronyms 
+ 
+Use under individual languages other than English, 
+groups of languages, and topical headings for works 
+about acronyms in those languages or pertaining to 
+those topics. 
+Consult H 1206.5. 
+$x Administration 
+ 
+Use under names of individual libraries, schools, and 
+institutions in the spheres of health and social services, 
+under types of such institutions, and under types of 
+education and programs in the ﬁeld of education. Also 
+use under individual drugs and groups of drugs. 
+See also *--Colonies--Administration* under names of 
+countries, cities, etc. 
+See also *--Management* 
+See also *--Politics and government* under names of 
+countries, cities, etc., and under ethnic groups. 
+$x Aerial photographs 
+ 
+Use as a topical subdivision under names of countries, 
+cities, etc., and under topical headings for works about 
+photographs taken from conventional aircraft of a 
+place or topic. 
+
+
+<<<PAGE 8>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 8 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Air conditioning 
+Yes 
+Use under types of buildings, vehicles, and other 
+constructions. 
+$x Air conditioning $x 
+Control 
+Yes 
+Use under types of buildings, vehicles, and other 
+constructions. 
+$x Analysis 
+ 
+Use under substances and chemicals for works on 
+methods of analyzing those items or analyzing a 
+sample to determine the presence or quantity of the 
+items, and for works presenting the results of analyses 
+of substances not produced naturally. 
+See also *--Composition* 
+$x Anniversaries, etc. 
+ 
+Use under names of countries, cities, etc., names of 
+individual persons and corporate bodies, and under 
+historic and social movements, individual Christian 
+denominations, events, classes of persons, and ethnic 
+groups for works on anniversary celebrations or 
+commemorations of signiﬁcant events. Do not use for 
+works merely published on the occasion of an 
+anniversary. 
+See also *--Centennial celebrations, etc. * 
+$x Archival resources 
+ 
+Use under names of countries, cities, etc., and under 
+topical headings for descriptions of the types of 
+documents and historical records about a particular 
+place or topic available in an institution or institutions. 
+Consult 1230. 
+$x Audio-visual aids 
+ 
+Use under topical headings for works on audiovisual 
+materials not speciﬁcally designed for educational 
+purposes. 
+Consult H 2110. 
+$x Auditing 
+ 
+Use under names of individual corporate bodies, 
+under types of corporate bodies, industries, and 
+topical headings. 
+Consult H 1624. 
+$x Authorship 
+ 
+Use under names of individual persons and individual 
+works entered under title, under disciplines, and under 
+
+
+<<<PAGE 9>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 9 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+literary, motion picture, radio, television, and video 
+forms and genres. 
+$x Automatic control 
+ 
+Use under individual technical processes and 
+equipment. 
+$x Automation 
+ 
+Use under names of individual corporate bodies and 
+under types of corporate bodies, industries, buildings, 
+processes, and systems. 
+See also *--Eﬀect of automation on* under 
+occupational groups and types of employees. 
+$x Autonomous 
+communities 
+ 
+Use under headings of the type *[topic]--Spain* for 
+works discussing collectively the autonomous 
+communities of Spain in relation to the topic, for 
+example, *Law--Spain--Autonomous communities*. 
+Consult H 713. 
+$x Autonomous regions 
+ 
+Use under headings of the type *[topic]--China* for 
+works discussing collectively the autonomous regions 
+of China in relation to the topic, for example, 
+*Minorities--China-- Autonomous regions*. 
+Consult H 713. 
+$x Awards 
+Yes 
+Use under names of individual persons, corporate 
+bodies, and military services, and under topical 
+headings. This subdivision may be further subdivided 
+by place only under topical headings. 
+Consult H 1265. 
+$x Barrier-free design 
+Yes 
+Use under types of buildings, structures, and facilities. 
+$x Biblical teaching 
+ 
+Use under religious or secular topics for works on the 
+theological and/or ethical teachings of the Bible, or its 
+individual parts, on that topic.  
+Consult H 1295. 
+$x Bibliography $x 
+Methodology 
+ 
+Use under subjects. 
+$x Biography 
+ 
+Use under names of countries, cities, etc., names of 
+individual corporate bodies, uniform titles of sacred 
+works, and under classes of persons, ethnic groups, 
+
+
+<<<PAGE 10>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 10 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+individual and groups of animals, and historic events 
+for works about collective or individual biography. 
+Consult H 1330, H 1720, and H 1845. 
+$x Biography $x History and 
+criticism 
+ 
+Use under names of countries, cities, etc., names of 
+individual corporate bodies, and under classes of 
+persons, ethnic groups, and historic events. 
+$x Buildings 
+ 
+Use under names of individual corporate bodies and 
+exhibitions for works that discuss collectively the 
+buildings of those corporate bodies or exhibitions. 
+See also *--Buildings, structures, etc.* under names of 
+cities. 
+$x By-products 
+ 
+Use under types of industries and processes. 
+$x Calibration 
+Yes 
+Use under types of scientiﬁc and technical instruments 
+and equipment. 
+$x Cantons 
+ 
+Use under headings of the type *[topic]--[country]* 
+for works discussing collectively the cantons of a 
+country in relation to the topic, for example, 
+*Transportation--Switzerland-- Cantons*. 
+Use under names of individual persons and under 
+individual literatures, wars, and topical headings, 
+especially forms of communication. 
+Consult H 713. 
+$x Censorship 
+ 
+Use under names of individual persons and under 
+individual literatures, wars, and topical headings, 
+especially forms of communication. 
+$x Centennial celebrations, 
+etc. 
+ 
+Use under names of countries, cities, etc., and 
+individual corporate bodies, and under historic events. 
+$x Certiﬁcation 
+Yes 
+Use under types of products and industries, 
+occupational groups, and types of employees for 
+works on oﬃcial conﬁrmation that standards have 
+been met. 
+See also *--Accreditation*; *--Licenses* 
+$x Charitable contributions 
+Yes 
+Use under classes of persons, ethnic groups, and types 
+of organizations. 
+$x Circulation 
+ 
+Use under types of serial publications. 
+
+
+<<<PAGE 11>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 11 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Citizen participation 
+ 
+Use under topical headings for works on the 
+participation of citizens in carrying out an activity. 
+Consult H 1942. 
+$x Cleaning 
+Yes 
+Use under topical headings. 
+$x Cold weather conditions 
+ 
+Use under types of installations, construction 
+activities, and technical processes for works on 
+procedures to be followed during cold weather 
+conditions. 
+$x Collectibles 
+Yes 
+Use under names of individual persons, corporate 
+bodies, titles of works, and ﬁctitious and legendary 
+characters, and under classes of persons, ethnic 
+groups, events, and topical headings, for works on 
+objects depicting or related to those subjects. 
+$x Collection and 
+preservation 
+Yes 
+Use under types of natural objects, including plants, 
+animals, rocks, and minerals, for works on methods of 
+collecting and preserving those objects. 
+See also *--Antiquities--Collection and preservation* 
+under names of countries, cities, etc., and ethnic 
+groups 
+$x Collectors and collecting 
+Yes 
+Use under types of objects, excluding natural objects, 
+for works on collectors and methods of assembling 
+and maintaining collections of those objects. 
+$x Colonies 
+ 
+Use under headings of the type *[topic]--[place]* for 
+works discussing collectively the colonies of a place in 
+relation to the topic, for example, *Education--Great 
+Britain--Colonies*. Also use under names of countries, 
+cities, etc., for works discussing collectively the 
+colonies ruled by the country or city. 
+Consult H 1149.5. 
+$x Communication systems 
+ 
+Use under names of individual corporate bodies and 
+under types of industries, institutions, installations, 
+military services, and disciplines. 
+$x Comparative method 
+ 
+Use under disciplines for works on methods of 
+comparing data relevant to the ﬁeld. 
+$x Competitions 
+Yes 
+Use under topical headings. 
+
+
+<<<PAGE 12>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 12 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Composition 
+ 
+Use under natural substances of unﬁxed composition, 
+including soils, plants, animals, farm products, etc., for 
+the results of chemical analyses of those substances. 
+See also *--Analysis* 
+$x Computer-aided design 
+Yes 
+Use under topical headings. 
+$x Computer-assisted 
+instruction 
+ 
+Use under topical headings for works on an automated 
+method of instruction in which a student interacts 
+directly with instructional materials stored in a 
+computer. 
+$x Computer network 
+resources 
+ 
+Use under subjects for works on computer network 
+resources available for research in various ﬁelds. 
+$x Computer networks 
+Yes 
+Use under subjects. 
+$x Computer networks $x 
+Security measures 
+Yes 
+Use under subjects. 
+$x Computer programs 
+ 
+Use under topical headings for works on computer 
+programs. 
+See also *--Software* 
+Consult H 2070. 
+$x Computer simulation 
+ 
+Use under topical headings. 
+Consult H 2040. 
+$x Congresses 
+ 
+Use under subjects for works about conferences or 
+congresses on those subjects. 
+$x Congresses $x Attendance 
+ 
+Use under subjects. 
+Consult H 1460. 
+$x Conservation and 
+restoration 
+Yes 
+Use under types of art objects, library materials, types 
+of architecture, types of buildings, individual land 
+vehicles and types of vehicles, etc., for works on 
+preserving and restoring those items. 
+See also *--Buildings, structures, etc.--Conservation 
+and restoration* under names of cities and city 
+sections 
+$x Control 
+Yes 
+Use under individual and groups of animals, plants and 
+crops, and pests. 
+$x Cooling 
+Yes 
+Use under topical headings. 
+
+
+<<<PAGE 13>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 13 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Corrosion 
+Yes 
+Use under individual metals and metal compounds, 
+individual materials and types of materials, and types 
+of engineering structures, equipment, and vehicles. 
+$x Corrupt practices 
+Yes 
+Use under names of individual corporate bodies, and 
+under types of organizations, activities, and industries. 
+This subdivision may be further divided by place only 
+under types of organizations, activities, and industries. 
+$x Cost control 
+ 
+Use under types of industries, military services, and 
+topical headings. 
+$x Cost eﬀectiveness 
+ 
+Use under types of industries and topical headings. 
+$x Cost of operation 
+ 
+Use under topical headings. 
+$x Costs 
+ 
+Use under types of industries and topical headings. 
+$x Cult 
+Yes 
+Use under individual deities, divine persons, saints, 
+and persons worshipped for works on systems of 
+beliefs or rituals associated with them. 
+$x Curricula 
+Yes 
+Use under names of individual educational institutions 
+and under types of education and educational 
+institutions for works on courses oﬀered at those 
+institutions or in those ﬁelds. 
+Do not subdivide geographically under names of 
+individual educational institutions. 
+$x Customer services 
+Yes 
+Use under names of individual corporate bodies and 
+under types of organizations and industries. This 
+subdivision may be further divided by place only under 
+types of organizations and industries. 
+$x Data processing 
+ 
+Use under names of individual corporate bodies and 
+under topical headings. 
+$x Dating 
+ 
+Use under types of objects for the techniques of ﬁxing 
+the date of their origination. 
+$x Decision making 
+ 
+Use under topical headings for works on the process of 
+arriving at decisions for action, including attempts to 
+formulate a general theory based on mathematical 
+analysis and psychological experiment. 
+$x Defects 
+Yes 
+Use under types of materials, equipment, structures, 
+products, etc., in which defects may exist. 
+
+
+<<<PAGE 14>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 14 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Defects $x Reporting 
+Yes 
+Use under types of materials, equipment, structures, 
+products, etc. 
+$x Defense measures 
+Yes 
+Use under types of industries, utilities, installations, 
+etc., for measures undertaken for their protection 
+during times of conﬂict. 
+$x Departments 
+ 
+Use under headings of the type *[topic]--[country]* 
+for works discussing collectively the departments of a 
+country in relation to the topic, for example, *Budget--
+France--Departments*. 
+Consult H 713. 
+$x Design 
+ 
+Use under topical headings where *--Design and 
+construction* would not be appropriate. 
+Consult H 1532. 
+$x Design and construction 
+ 
+Use under individual examinations and types of 
+examinations; also use under types of structures, 
+machines, equipment, etc., for works discussing their 
+engineering and/or construction. 
+Consult H 1532. 
+$x Deterioration 
+Yes 
+Use under types of substances, materials, products, 
+etc. 
+$x Digitization 
+Yes 
+Use under types of library materials and museum 
+objects. 
+$x Discipline 
+ 
+Use under names of individual corporate bodies and 
+under types of corporate bodies, classes of persons, 
+individual religions, and Christian denominations for 
+the enforcement of rules aﬀecting conduct or action. 
+$x Documentation 
+Yes 
+Use under topical headings for works on the processes 
+by which documents on those topics are made 
+available. 
+$x Drying 
+Yes 
+Use under individual materials, products, and objects 
+dried. 
+$x Dust control 
+Yes 
+Use under types of industries, industrial plants, and 
+processes. 
+$x Earthquake eﬀects 
+Yes 
+Use under types of buildings, structures, facilities, and 
+equipment. 
+
+
+<<<PAGE 15>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 15 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Econometric models 
+ 
+Use under topical headings for works that employ 
+mathematical or statistical models used to test or 
+measure economic phenomena. 
+Consult 2040. 
+$x Economic aspects 
+Yes 
+Use under individual animals and groups of animals, 
+individual chemicals and groups of chemicals, 
+individual diseases and types of diseases, individual 
+plants and types of plants, individual land vehicles and 
+types of land vehicles, individual wars, and topical 
+headings. Do not use under topics that are inherently 
+economic (e.g., *Bank accounts*; *Depressions*; 
+*Copper industry and trade*) 
+See also *--Economic conditions* under names of 
+countries, cities, etc., and under classes of persons and 
+ethnic groups, including occupational groups, for 
+works discussing the economic history or economic 
+conditions in general of a place, class of persons, or 
+ethnic group. 
+$x Electromechanical 
+analogies 
+ 
+Use under scientiﬁc and technical topics. 
+Consult H 2040. 
+$x Electronic information 
+resources 
+ 
+Use under subjects for works about electronic 
+information resources on those subjects. 
+$x Electronic publishing 
+Yes 
+Use under types of published materials and headings 
+for literature on particular topics. 
+$x Employees 
+ 
+Use under names of individual nongovernmental 
+corporate bodies and under types of industries, 
+services, establishments, and institutions; also use 
+under names of individual persons for works on 
+persons employed by the individual, including 
+household servants, etc.; also use under names of 
+individual educational institutions and non-
+governmental corporate bodies. 
+See also *--Oﬃcials and employees* 
+$x Endowments 
+ 
+Use under names of individual corporate bodies and 
+under types of corporate bodies and disciplines. 
+
+
+<<<PAGE 16>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 16 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Energy conservation 
+Yes 
+Use under types of industries, facilities, etc. 
+$x Energy consumption 
+ 
+Use under types of industries, military services, and 
+topical headings. 
+$x Environmental aspects 
+Yes 
+Use under individual military services, events, and 
+wars, individual chemicals and groups of chemicals, 
+individual materials and types of materials, and under 
+types of industries, processes, machines, facilities, 
+constructions, educational institutions, and events for 
+environmental issues associated with their operation, 
+creation, use, or planning and execution. Also use 
+under individual diseases for environmental aspects of 
+their causation or development. Also use as a topical 
+subdivision under legal topics for environmental issues 
+associated with the topics. 
+See also *--Environmental conditions* under names 
+of countries, cities, etc. 
+$x Equipment and supplies 
+ 
+Use under names of individual corporate bodies and 
+under types of industries, processes, services, 
+activities, institutions, disciplines, animals, plants and 
+crops, vehicles, and wars. 
+See also *--Instruments*; *--Safety appliances* 
+$x Estimates 
+Yes 
+Use under types of engineering, technical processes, 
+industries, etc., for estimates of the cost of 
+construction, installation, etc., or the carrying out of a 
+task to completion. 
+$x Evaluation 
+ 
+Use under names of individual corporate bodies and 
+under types of institutions, products, services, 
+equipment, activities, projects, and programs for 
+works on methods of assessing or appraising those 
+subjects, or for works on both the methods and results 
+of assessing them. 
+See also *--Testing* 
+See also *--Rating* of under classes of persons. 
+Consult H 1591. 
+
+
+<<<PAGE 17>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 17 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Examinations 
+ 
+Use under names of individual corporate bodies, 
+educational institutions, and military services and 
+under types of educational institutions for works 
+discussing examinations given by those organizations; 
+under classes of persons for works discussing 
+examinations for those groups; and under names of 
+individual persons and under topical headings for 
+works discussing examinations given about those 
+persons or topics. 
+$x Experiments 
+ 
+Use under scientiﬁc and technical topics for 
+discussions about experiments and instructions for 
+carrying them out. 
+$x Expertising 
+Yes 
+Use under headings for art forms and under types of 
+art objects, types of architecture, and types of 
+buildings. 
+$x Fieldwork (H 1645) 
+Yes 
+Use under disciplines for discussions of the techniques 
+of carrying out work in the ﬁeld to gain practical 
+experience through ﬁrsthand observation and to 
+collect data. 
+Consult H 1645. 
+$x Finance 
+ 
+Use under names of individual nongovernmental 
+corporate bodies and under types of industries, 
+corporate bodies, services, technical operations, etc., 
+for works on their budgets and the raising and 
+expenditure of funds. Use under names of individual 
+government bodies only for works on their 
+management of non-appropriated funds. Use under 
+ethnic groups for the ﬁnancial aﬀairs of the group as a 
+whole. Also use under individual wars. 
+See also *--Appropriations and expenditures* under 
+names of countries, cities, etc., and individual 
+government agencies. 
+See also *--Finance, Personal* under names of 
+individual persons and under classes of persons and 
+ethnic groups. 
+
+
+<<<PAGE 18>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 18 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+Consult H 1624. 
+$x Fires and ﬁre prevention 
+Yes 
+Use under types of institutions, buildings, industries, 
+materials, and vehicles. 
+$x Food service 
+Yes 
+Use under names of individual legislative bodies and 
+types of institutions, organized activities, etc., for 
+provisions for meals and food in those enterprises. Do 
+not subdivide geographically under legislative bodies. 
+$x Forecasting 
+ 
+Use under names of countries, cities, etc., and under 
+topical headings. 
+Consult H 1628. 
+$z Foreign countries 
+ 
+Use under ethnic groups, individual languages, 
+individual literatures, military services, and types of 
+publications qualiﬁed by language or nationality. 
+Consult H 1919.5. 
+$x Foreign inﬂuences 
+ 
+Use under ethnic groups, individual literatures, art 
+forms, and headings for disciplines further subdivided 
+by place for works on general outside cultural 
+inﬂuences on those groups or topics. 
+Consult H 1675. 
+$x Forgeries 
+Yes 
+Use under names of individual persons and under 
+types of art objects, documents, etc. 
+$x Fuel systems 
+ 
+Use under types of equipment and vehicles. 
+$x Fume control 
+Yes 
+Use under types of industries, industrial plants, and 
+processes. 
+$x Geographic information 
+systems 
+Yes 
+Use under subjects. 
+$x Government policy 
+Yes 
+Use under classes of persons, ethnic groups, and 
+topical headings not inherently governmental for 
+works describing the course of action selected by 
+national, state, or local governments to guide decision-
+making and programs pertaining to the class of 
+persons, ethnic group, or topic. 
+See also headings of the type *[topic] and state* and 
+*[topic] policy*. 
+Consult H 1642. 
+
+
+<<<PAGE 19>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 19 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Governorates 
+ 
+Use under headings of the type *[topic]--[country]* 
+for works discussing collectively the provinces of a 
+country in relation to the topic, e.g., *Economic 
+forecasting--Egypt--Governorates*. 
+Consult H 713. 
+$x Grading 
+Yes 
+Use under individual animals and groups of animals, 
+plants, and individual products or commodities for 
+works on the division of commercial products into 
+categories of uniform quality to facilitate marketing 
+$x Graphic methods 
+ 
+Use under disciplines, types of technical processes, 
+scientiﬁc phenomena, etc., for the technique of solving 
+problems by means of graphs. 
+$x Health aspects 
+Yes 
+Use under types of industries, individual wars, and 
+topical headings. Do not use under topics that are 
+inherently health-related (e.g., *Colonoscopy*; 
+*Diseases*) 
+$x Heating and ventilation 
+Yes 
+Use under types of buildings, vehicles, and other 
+constructions. 
+$x Heating and ventilation $x 
+Control 
+Yes 
+Use under types of buildings, vehicles, and other 
+constructions. 
+$x Heraldry 
+ 
+Use under names of individual corporate bodies, types 
+of industries, and topical headings for the devising, 
+granting, and use of armorial insignia. 
+$x Historiography 
+ 
+Use under names of countries, cities, etc., and 
+individual corporate bodies, uniform titles of sacred 
+works and treaties, and under classes of persons, 
+ethnic groups, individual wars, and topical headings. 
+$x History 
+ 
+Use under names of countries, cities, etc., and 
+individual corporate bodies, uniform titles of sacred 
+works, and under classes of persons, ethnic groups, 
+and topical headings. 
+Consult H 1647 and H 1845. 
+$x History $y To 1500 
+ 
+Use under topical headings. 
+Consult H 1647. 
+
+
+<<<PAGE 20>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 20 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x History $y 16th century 
+ 
+Use under names of countries, cities, etc., individual 
+corporate bodies, and under classes of persons, ethnic 
+groups, and topical headings. 
+Consult H 1647. 
+$x History $y 17th century 
+ 
+Use under names of countries, cities, etc., individual 
+corporate bodies, and under classes of persons, ethnic 
+groups, and topical headings. 
+Consult H 1647. 
+$x History $y 18th century 
+ 
+Use under names of countries, cities, etc., individual 
+corporate bodies, and under classes of persons, ethnic 
+groups, and topical headings. 
+Consult H 1647. 
+$x History $y 19th century 
+ 
+Use under names of countries, cities, etc., individual 
+corporate bodies, and under classes of persons, ethnic 
+groups, and topical headings. 
+Consult H 1647. 
+$x History $y 20th century 
+ 
+Use under names of countries, cities, etc., individual 
+corporate bodies, and under classes of persons, ethnic 
+groups, and topical headings. 
+Consult H 1647. 
+$x History $y 21st century 
+ 
+Use under names of countries, cities, etc., individual 
+corporate bodies, and under classes of persons, ethnic 
+groups, and topical headings. 
+See also *--Chronology* 
+Consult H 1647. 
+$x History $x Philosophy 
+ 
+Use under names of countries, cities, etc., and under 
+topical headings. 
+$x History and criticism 
+ 
+Use under literary, music, ﬁlm, television, and video 
+recording form headings. 
+Consult H 1647. 
+$x History of doctrines 
+ 
+Use under religious topics. 
+$x History of doctrines $y 
+Early church, ca. 30-600 
+ 
+Use under religious topics. 
+$x History of doctrines $y 
+Middle Ages, 600-1500 
+ 
+Use under religious topics. 
+
+
+<<<PAGE 21>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 21 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x History of doctrines $y 
+16th century 
+ 
+Use under religious topics. 
+$x History of doctrines $y 
+17th century 
+ 
+Use under religious topics. 
+$x History of doctrines $y 
+18th century 
+ 
+Use under religious topics. 
+$x History of doctrines $y 
+19th century 
+ 
+Use under religious topics. 
+$x History of doctrines $y 
+20th century 
+ 
+Use under religious topics. 
+$x History of doctrines $y 
+21st century 
+ 
+Use under religious topics. 
+$x Hot weather conditions 
+Yes 
+Use under topical headings for works on procedures to 
+be followed during hot weather conditions. 
+See also *--Tropical conditions* 
+$x Hurricane eﬀects 
+Yes 
+Use under types of buildings, structures, facilities, and 
+equipment. 
+$x Identiﬁcation 
+ 
+Use under classes of persons and topical headings. 
+$x In comics 
+ 
+Use under names of individual persons, families, 
+corporate bodies, and countries, cities etc., Christian 
+denominations and uniform titles of sacred works, and 
+under names of deities, mythological or legendary 
+ﬁgures, and ﬁctitious characters, for works on those 
+persons, organizations, and places in literature. 
+Consult H 1647, Η 1105, Η 1110, Η 1120, Η 1140, H 
+1187, and H 1188. 
+$x In literature 
+ 
+Use under names of individual persons, families, 
+corporate bodies, and countries, cities etc., Christian 
+denominations and uniform titles of sacred works, and 
+under names of deities, mythological or legendary 
+ﬁgures, and ﬁctitious characters, for works on those 
+persons, organizations, and places in literature. 
+Consult H 1647, Η 1105, Η 1110, Η 1120, Η 1140, H 
+1187, and H 1188. 
+
+
+<<<PAGE 22>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 22 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x In mass media 
+ 
+Use under names of individual persons, families, 
+corporate bodies, and countries, cities etc., and under 
+names of deities, mythological or legendary ﬁgures, 
+and ﬁctitious characters, for works on those persons, 
+organizations, and places in mass media. 
+Consult H 1647, Η 1105, Η 1110, Η 1120, Η 1140, H 
+1187, and H 1188. 
+$x In motion pictures 
+ 
+Use under names of individual persons, families, 
+corporate bodies, and Christian denominations, and 
+countries, cities etc., and under names of deities, 
+mythological or legendary ﬁgures, and ﬁctitious 
+characters, for works on those persons, organizations, 
+and places in mass media. 
+Consult H 1647, Η 1105, Η 1110, Η 1120, Η 1140, H 
+1187, and H 1188. 
+$x In opera 
+ 
+Use under names of individual persons, under names 
+of individual deities, mythological and legendary 
+ﬁgures, and ﬁctitious characters, and under names of 
+countries, cities, etc., for works on those persons and 
+places in opera. 
+Consult H 1110 and 1140. 
+$x Industrial applications 
+Yes 
+Use under scientiﬁc topics, individual chemicals, and 
+individual plants and groups of plants. 
+$x Inﬂuence 
+ 
+Use under names of individual persons and corporate 
+bodies, uniform titles of literary, artistic, and sacred 
+works, and under forms and movements in the literary 
+and visual arts, types of organizations, religions, and 
+individual wars for works discussing their inﬂuence. 
+Consult H 1675. 
+$x Information resources 
+ 
+Use under subjects. 
+See also *--Electronic information resources* 
+$x Information resources 
+management 
+Yes 
+Use under names of individual corporate bodies and 
+types of industries and organizations. 
+$x Information services 
+ 
+Use under names of countries, cities, etc., names of 
+individual persons, corporate bodies, and military 
+
+
+<<<PAGE 23>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 23 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+services, and under classes of persons, ethnic groups, 
+and topical headings. 
+Consult H 1675.5. 
+$x Information technology 
+Yes 
+Use under disciplines, types of industries, services, and 
+organizations. 
+$x Insignia 
+ 
+Use under names of individual corporate bodies and 
+military services and under types of corporate bodies. 
+$x Inspection 
+Yes 
+Use under names of individual military services, and 
+under types of merchandise, products, equipment, 
+engineering structures, and buildings, and individual 
+and groups of animals and plants. 
+Consult H 1676.5. 
+$x Installation 
+Yes 
+Use under types of equipment. 
+$x Instruments 
+ 
+Use under scientiﬁc and technical disciplines for 
+discussions of the instruments employed in those 
+ﬁelds and under individual land vehicles and types of 
+land vehicles. 
+$x International cooperation 
+ 
+Use under topical headings. 
+$x Internet marketing 
+Yes 
+Use under types of commodities, products, and 
+services. 
+$x Interpretation 
+ 
+Use under individual tests and types of tests. 
+$x Inventory control 
+Yes 
+Use under names of individual corporate bodies, 
+military services, types of industries, organizations, 
+and facilities. This subdivision may be further 
+subdivided by place only under types of industries, 
+organizations, and facilities. 
+$x Labeling 
+Yes 
+Use under types of products. 
+$x Labor productivity 
+Yes 
+Use under types of industries, occupations, and 
+processes. 
+$x Landscape architecture 
+Yes 
+Use under types of buildings, institutions, and 
+facilities. 
+$x Language 
+ 
+Use under names of individual persons and corporate 
+bodies, individual works entered under title, and 
+
+
+<<<PAGE 24>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 24 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+under classes of persons, disciplines, types of 
+newspapers, and individual wars. 
+See also *--Languages* under names of countries, 
+cities, etc., and under ethnic groups. 
+See also *--Slang* under individual languages and 
+groups of languages and under topical headings. 
+$x Library resources 
+ 
+Use under names of countries, cities, etc., names of 
+individual persons and corporate bodies, and under 
+classes of persons, ethnic groups, and topical headings 
+for works describing the resources and special 
+collections available on those subjects. 
+$x Licenses 
+Yes 
+Use under occupational groups and types of 
+employees, under types of industries, facilities, and 
+institutions, and under individual land vehicles and 
+types of vehicles. 
+See also *--Accreditation*; *--Certiﬁcation* 
+$x Licenses $x Fees 
+Yes 
+Use under occupational groups and types of 
+employees, under types of industries, facilities, and 
+institutions, and under individual land vehicles and 
+types of vehicles. 
+$x Lighting 
+Yes 
+Use under types of vehicles, structures, buildings, 
+rooms, installations, etc. 
+$x Linear programming 
+ 
+Use under topical headings. 
+$x Liturgy 
+ 
+Use under individual Jewish and Christian sects and 
+rites; under names of individual Christian monastic and 
+religious orders; and under individual Jewish and 
+Christian ceremonies, rituals, holidays, etc. 
+$x Location 
+Yes 
+Use under types of industries, business entities, 
+government agencies, and facilities, and under 
+individual plants and groups of plants. 
+$x Maintenance and repair 
+ 
+Use under types of objects, including machinery, 
+vehicles, structures, etc., requiring maintenance and 
+repair. 
+See also *--Repairing* 
+
+
+<<<PAGE 25>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 25 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Management 
+ 
+Use under names of individual corporate bodies, 
+including government agencies, galleries, museums, 
+parks, etc., and under types of industries, industrial 
+plants and processes, special activities, resources, etc. 
+See also *--Administration* 
+$x Manuscripts 
+ 
+Use under names of individual persons and families, 
+individual works entered under title, uniform titles of 
+sacred works, and under classes of persons, ethnic 
+groups, groups of authors, literatures, and topical 
+headings. 
+Consult H 1855. 
+$x Maps $x Symbols 
+ 
+Use under topical headings. 
+$x Marketing 
+ 
+Use under types of commodities, products, services, 
+and institutions providing products or services. 
+Consult H 1870. 
+$x Materials 
+Yes 
+Use under scientiﬁc and technical disciplines and 
+under types of equipment and construction. 
+$x Mathematical models 
+ 
+Use under topical headings. 
+Consult H 2040. 
+$x Mathematics 
+ 
+Use under topical headings for works on the 
+mathematics employed in those ﬁelds; also use under 
+ethnic groups for works on their systems of 
+mathematics. 
+$x Measurement 
+ 
+Use under scientiﬁc and technical topics for works on 
+the technique of making measurements. 
+$x Medals 
+Yes 
+Use under names of individual persons and corporate 
+bodies other than military services, and under classes 
+of persons, ethnic groups, individual wars, and topical 
+headings, for works on commemorative or honorary 
+medals issued or awarded in relation to the subject. 
+This subdivision may be further subdivided by place 
+only under classes of persons, ethnic groups, individual 
+wars, and topical headings. Use *--Medals, badges, 
+decorations, etc.* under military services. 
+
+
+<<<PAGE 26>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 26 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Medical examinations 
+Yes 
+Use under names of individual military services and 
+under classes of persons, ethnic groups, and topical 
+headings for which medical examinations are needed, 
+such as insurance. 
+$x Membership 
+ 
+Use under names of individual corporate bodies and 
+types of corporate bodies for works on the conditions 
+of belonging to those organizations. 
+$x Methodology 
+ 
+Use under disciplines and other topical headings for 
+works on both the theory and practice of procedures 
+to be followed. 
+See also *--Technique* 
+$x Models 
+Yes 
+Use under types of objects and organs and regions of 
+the body for works on physical or working models of 
+those objects or body parts. 
+Consult H 2040. 
+$x Moisture 
+Yes 
+Use under types of farm produce, objects, materials, 
+technical equipment, etc., for works on their moisture 
+content. 
+$x Moral and ethical aspects 
+Yes 
+Use under individual land vehicles and type of land 
+vehicles, individual wars, and non-religious or non-
+ethical topics for works that discuss moral and/or 
+ethical questions regarding the topic. 
+See also *--Professional ethics* under occupational 
+groups and types of employees. 
+Consult H 1998. 
+$x Museums 
+Yes 
+Use under names of individual persons, families, and 
+corporate bodies, and under ethnic groups, individual 
+wars, and topical headings for which phrase headings 
+for the type of museum have not been established. 
+This subdivision may be further subdivided by place 
+only under headings for names of individual persons 
+and families, and ethnic groups, individual wars, and 
+topical headings. 
+Consult H 1916. 
+
+
+<<<PAGE 27>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 27 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Mythology 
+Yes 
+Use under topical headings. Do not use under topics 
+that are inherently mythological (e.g., *Animals, 
+Mythical*; *Wind gods*; headings for individual 
+gods). 
+Consult H 1998. 
+$x Name 
+ 
+Use under names of countries, cities, etc., individual 
+persons, deities, Christian denominations, and 
+corporate bodies, and under ethnic groups and 
+individual wars, events, etc., for works on the name's 
+origin, history, spelling, validity, etc. 
+Consult H 1919. 
+$x Names 
+ 
+Use under types of objects, animals, events, 
+organizations, and educational institutions for the 
+rules, customs, etc., in the naming of those items. 
+Consult H 1919. 
+$x Noise 
+ 
+Use under topical headings. 
+$x Oﬃcials and employees 
+ 
+Use under names of countries, cities, etc., and 
+individual international, governmental, and quasi-
+governmental agencies, and under types of 
+government agencies. This subdivision may be further 
+subdivided by place only when used under names of 
+countries, cities, etc. 
+See also *--Employees* 
+$x On postage stamps 
+ 
+Use under names of individual persons and corporate 
+bodies, under titles of works and under names of 
+countries, cities, etc., and under names of deities, 
+mythological or legendary ﬁgures, and ﬁctitious 
+characters, for works on the portrayal of those entities 
+on postage stamps. 
+Consult H 1945. 
+$x On television 
+ 
+Use under names of countries, cities, etc., under 
+names of deities, mythological or legendary ﬁgures, 
+and ﬁctitious characters, and under names of 
+individual persons and military services for works that 
+discuss television programming about the entity, 
+
+
+<<<PAGE 28>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 28 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+including dramatic or documentary shows, news 
+programming, and advertising. Do not use for works 
+about a person as a television actor, television host, 
+news anchor, etc. 
+Consult H1110 and H 1140. 
+$x Orbit 
+ 
+Use under names of individual artiﬁcial satellites. 
+$x Packaging 
+Yes 
+Use under types of products and merchandise for the 
+techniques of wrapping, sealing, and labeling those 
+items for marketing. 
+$x Packing 
+Yes 
+Use under types of products and commodities for 
+works on the techniques of preparing those items for 
+storage or shipment. 
+$x Personnel management 
+ 
+Use under names of individual corporate bodies and 
+under types of industries and organizations. 
+$x Philosophy 
+ 
+Use under names of individual persons who are not 
+philosophers, and under groups of literary authors, 
+uniform titles of sacred works, and topical headings. 
+Do not use under topics that are inherently 
+philosophical (e.g., *Atheism*; *Ideology*; *War 
+(Philosophy)*). 
+Consult H 1929. 
+$x Physiological aspects 
+ 
+Use under types of activities and mental conditions for 
+works on the relationship between an individual's 
+activity, mental state, etc., and his or her physiology. 
+See also *--Physiology* 
+$x Physiological eﬀect 
+Yes 
+Use under individual and groups/types of chemicals, 
+materials, plants, and environmental phenomena or 
+conditions for works on their eﬀect on the functions of 
+living organisms. 
+$x Planning 
+ 
+Use under names of individual corporate bodies and 
+under types of activities, facilities, industries, services, 
+undertakings, etc., for works that describe or discuss 
+the planning process. 
+$x Political activity 
+Yes 
+Use under names of individual persons, families, 
+corporate bodies, and military services, and under 
+
+
+<<<PAGE 29>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 29 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+classes of persons, individual Christian denominations, 
+and types of corporate bodies for works on the 
+political participation of those persons or 
+organizations. 
+See also *--Politics and government* under ethnic 
+groups 
+See also *--Political and social views* under individual 
+persons and groups of literary authors. 
+Consult H 1942. 
+$x Political aspects 
+Yes 
+Use under individual religious sects and 
+denominations, individual languages and groups of 
+languages, individual literatures, individual plants and 
+groups of plants, and topical headings for works on the 
+political dimensions or implications of nonpolitical 
+topics. 
+See also *--Politics and government* under names of 
+countries, cities, etc., and under ethnic groups. 
+Consult H 1942. 
+$x Power supply 
+Yes 
+Use under types of buildings, installations, equipment, 
+industries, etc. 
+$x Practice 
+Yes 
+Use under types of professions. 
+$x Prayers and devotions $x 
+History and criticism 
+ 
+Use under names of individual religious and monastic 
+orders and under individual religions, individual 
+Christian denominations, classes of persons, and 
+ethnic groups; under names of individual saints, 
+deities, etc.; and under topical headings. 
+$x Preservation 
+Yes 
+Use under individual organs and regions of the body, 
+individual plants and groups of plants, and types of 
+perishable products, including food, drugs, textiles, 
+etc. 
+$x Press coverage 
+Yes 
+Use under names of countries, cities, etc., and 
+individual corporate bodies, and under classes of 
+persons, ethnic groups, individual events, and topical 
+headings. 
+
+
+<<<PAGE 30>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 30 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Prevention 
+ 
+Use under individual or types of diseases and medical 
+conditions, and under situations to be avoided. 
+$x Prices 
+Yes 
+Use under types of products, objects, etc., and under 
+industries where one general heading for the products 
+of that industry is lacking. 
+$x Prices $x Government 
+policy 
+Yes 
+Use under types of products, objects, etc., and under 
+industries where one general heading for the products 
+of that industry is lacking. 
+$x Private collections 
+Yes 
+Use under types of objects, including art and 
+antiquities and excluding natural objects and musical 
+instruments, for works on privately owned collections 
+of those objects. 
+Consult H 1427. 
+$x Privileges and immunities 
+ 
+Use under names of individual international agencies 
+and legislative bodies and under types of organizations 
+and educational institutions. 
+$x Production and direction 
+Yes 
+Use under forms and types of musical compositions, 
+under individual art forms performed on stage or 
+screen, under motion picture, radio, television, and 
+video forms and genres, and under types of 
+programming for the broadcast media. 
+$x Production control 
+Yes 
+Use under types of industries, industrial plants, and 
+processes. 
+$x Production standards 
+Yes 
+Use under types of industries and processes. 
+$x Programming 
+Yes 
+Use under individual and types of computers, 
+microprocessors, and programmable calculators. 
+$x Prophecies 
+ 
+Use under names of individual persons and deities, 
+uniform titles of sacred works, and under classes of 
+persons, ethnic groups, and individual wars. 
+See also *--History--Prophecies* under names of 
+countries, cities, etc. 
+$x Protection 
+Yes 
+Use under types of equipment, structures, individual 
+and groups of plants and crops, organs and regions of 
+the body, and under classes of persons for works on 
+
+
+<<<PAGE 31>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 31 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+preserving these items or persons from physical 
+damage or harm. 
+$x Provinces 
+ 
+Use under headings of the type *[topic]--[country]* 
+for works discussing collectively the provinces of a 
+country in relation to the topic, for example, 
+*Economic forecasting-- Canada--Provinces*. 
+Consult H 713. 
+$x Psychological aspects 
+ 
+Use under individual animals and groups of animals, 
+individual diseases and types of diseases, individual 
+languages and groups of languages, individual 
+literatures, individual wars, and topical headings other 
+than psychological or religious topics for works on the 
+inﬂuence of conditions, activities, objects, etc., on the 
+mental condition or personality of individuals. 
+$x Psychology 
+ 
+Use under uniform titles of sacred works, religions, 
+and religious topics for the psychological aspects of 
+those works or topics. Use under names of individual 
+persons for discussions or interpretations of the 
+person's psychological traits, personality, character, 
+etc. Also use under classes of persons, ethnic groups, 
+and individual and groups of animals for the mental 
+processes or characteristics of those persons or 
+animals. 
+$x Public opinion 
+ 
+Use under names of individual persons and corporate 
+bodies, and under classes of persons, ethnic groups, 
+individual wars, and topical headings for works on 
+public opinion on those persons or topics. 
+See also *--Attitudes* 
+Consult H 1955. 
+$x Public relations 
+Yes 
+Use under names of individual corporate bodies, 
+military services, and topical headings. 
+$x Publishing 
+Yes 
+Use under names of individual corporate bodies, 
+individual Christian denominations, types of corporate 
+bodies, and under types of published materials and 
+headings for literature on particular topics. 
+
+
+<<<PAGE 32>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 32 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+See also *--Publication and distribution* under 
+uniform titles of sacred works. 
+$x Purchasing 
+Yes 
+Use under individual animals and groups of animals 
+and under types of products and services. 
+$x Quality control 
+ 
+Use under types of industries, industrial plants, and 
+processes, and under materials and types of materials. 
+$x Qur’anic teaching 
+ 
+Use under Islamic topics for works on the theological 
+and/or ethical teachings of the Qur’an on that topic, 
+for example, *Islamic education--Qur’anic teaching*; 
+*War--Religious aspects--Islam--Qur’anic teaching*. 
+$x Rates 
+Yes 
+Use under types of services, utilities, transportation 
+systems, etc., for works on prices charged for services 
+provided or items sold according to a speciﬁc ratio, 
+scale, or standard. 
+$x Recreational use 
+Yes 
+Use under types of bodies of water, types of land, 
+types of geographic features, and types of buildings 
+with other functions. 
+$x Reference books 
+ 
+Use under subjects. 
+Consult H 1980. 
+$x Regional disparities 
+ 
+Use under topical headings. 
+See also *--Economic conditions--Regional 
+disparities* under names of countries, etc. 
+$x Regions 
+ 
+Use under headings of the type *[topic]--[country]* 
+for works discussing collectively the regions of a 
+country in relation to a topic, e.g., *Law--Italy--
+Regions*. Use only under countries whose legally 
+designated ﬁrst order divisions are called regions. 
+Consult H 713. 
+$x Reliability 
+ 
+Use under types of equipment, machinery, technical 
+systems, industrial plants, etc. 
+$x Remodeling 
+Yes 
+Use under types of structures and rooms. 
+$x Remodeling for other use 
+ 
+Use under types of buildings and structures. 
+$x Remote sensing 
+ 
+Use under topical headings. 
+$x Repairing 
+Yes 
+Use under types of objects not requiring maintenance. 
+
+
+<<<PAGE 33>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 33 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+See also *--Maintenance and repair* 
+$x Republics 
+ 
+Use under headings of the type *[topic]--[country]* 
+for works discussing collectively the republics of a 
+country in relation to the topic, for example, *Civil 
+law--Soviet Union--Republics*. 
+Consult H 713. 
+$x Research 
+Yes 
+Use under names of countries, cities, etc., individual 
+corporate bodies, and classes of persons, ethnic 
+groups, and topical headings. 
+Consult H 2020. 
+$x Research grants 
+Yes 
+Use under names of individual corporate bodies and 
+under topical headings. This subdivision may be 
+further subdivided by place only under topical 
+headings. 
+$x Risk assessment 
+Yes 
+Use under topical headings with which physical risk is 
+associated. 
+$x Safety appliances 
+Yes 
+Use under types of machines, vehicles, industrial 
+plants, occupations, etc. 
+$x Safety measures 
+ 
+Use under names of military services and topical 
+headings. 
+$x Safety regulations 
+Yes 
+Use under topical headings. 
+$x Sanitation 
+Yes 
+Use under names of individual corporate bodies, types 
+of industries, and topical headings. Do not subdivide 
+geographically under corporate bodies. 
+$x Scholarships, fellowships, 
+etc. 
+Yes 
+Use under classes of persons, ethnic groups, and ﬁelds 
+of study. 
+$x Scientiﬁc applications 
+Yes 
+Use under types of technical devices or processes used 
+to further scientiﬁc advancement. 
+$x Security measures 
+Yes 
+Use under names of individual corporate bodies and 
+under individual and types of computers, networks, 
+and systems, and under types of buildings, 
+installations, industries, and institutions. This 
+subdivision may be further subdivided by place only 
+under individual computers, networks, and systems, 
+
+
+<<<PAGE 34>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 34 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+and under types of buildings, installations, and 
+industries. 
+See also *--Computer networks--Security measures*. 
+$x Sermons $x History and 
+criticism 
+ 
+Use under names of individual persons and under 
+sects of individual religions, Christian denominations, 
+types of educational institutions, uniform titles of 
+sacred works, individual wars, and topical headings for 
+works that critically evaluate the style and/or contents 
+of individual or collections of sermons on those 
+subjects. 
+Consult H 2032. 
+$x Sex diﬀerences 
+Yes 
+Use under topical headings. 
+$x Signers 
+ 
+Use under uniform titles of historic documents. 
+$x Simulation games 
+ 
+Use under topical headings. 
+$x Simulation methods 
+ 
+Use under topical headings. 
+Consult H 2040. 
+$x Slang 
+ 
+Use under individual languages and groups of 
+languages, and under topical headings. 
+$x Social aspects 
+Yes 
+Use under individual animals and groups of animals, 
+individual diseases and types of diseases, types of 
+industries, individual languages and groups of 
+languages, individual literatures, individual plants and 
+groups of plants, individual religions, individual land 
+vehicles and types of land vehicles, individual wars, 
+and topical headings for works that discuss the eﬀect 
+of the item, activity, discipline, etc., and society on 
+each other. Do not use under sociological topics (e.g., 
+*Culture*; *Equality*; *Social ethics*; *Sociology, 
+Military*) 
+See also *--Social conditions* under names of 
+countries, cities, etc., and under classes of persons and 
+ethnic groups for works on the social history or 
+sociology of the place or group. 
+
+
+<<<PAGE 35>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 35 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+See also *--Social life and customs* under names of 
+countries, cities, etc., and under classes of persons and 
+ethnic groups. 
+$x Societies, etc. 
+ 
+Use under names of individual persons, families, and 
+corporate bodies, and under classes of persons, ethnic 
+groups, uniform titles of sacred works, and topical 
+headings for works discussing two or more societies or 
+institutions related to those subjects. 
+See also *--Societies and clubs* under age and sex 
+groups. 
+Consult H 2060. 
+$x Sociological aspects 
+ 
+Use under types of institutions for works discussing 
+the impact of the inherent nature of the institution in 
+question on group interaction within the institution 
+and vice versa. 
+Consult H 2055. 
+$x Songs and music $x 
+History and criticism 
+ 
+Use under names of countries, cities, etc., names of 
+individual persons and corporate bodies, and under 
+classes of persons, ethnic groups, military services, and 
+topical headings. 
+Consult H 2075. 
+$x Soundprooﬁng 
+Yes 
+Use under types of buildings, structures, facilities, and 
+equipment. 
+$x Spectra 
+ 
+Use under individual chemicals, materials, elementary 
+particles, and celestial bodies. 
+$x Stability 
+ 
+Use under types of equipment, individual chemicals 
+and groups of chemicals, and individual land vehicles 
+and types of land vehicles. 
+$x Standards 
+Yes 
+Use under individual chemicals and groups of 
+chemicals, types of industries and educational 
+institutions, and topical headings for descriptions of 
+the example or model set up and established by 
+authority as the measure of quantity, quality, value, 
+extent, weight, etc., to be followed. 
+See also *--Production standards* 
+
+
+<<<PAGE 36>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 36 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x State supervision 
+Yes 
+Use under topical headings and types of industries. 
+$x States 
+ 
+Use under headings of the type *[topic]--[country]* 
+for works discussing collectively the states of a country 
+in relation to the topic, e.g., *Income tax--United 
+States--States*. 
+Consult H 713. 
+$x Statistical methods 
+ 
+Use under topical headings for discussions of the 
+methods of solving problems on those topics through 
+the use of statistics. 
+Consult H 2095. 
+$x Statistical services 
+ 
+Use under names of countries, cities, etc., classes of 
+persons, ethnic groups, types of industries, and under 
+topical headings for works on services that collect 
+numerical data located in those places or about those 
+topics. 
+Consult H 2095. 
+$x Storage 
+Yes 
+Use under types of commodities, foods, materials, 
+industrial products, etc., for their safe keeping in a 
+warehouse or other depository. 
+$x Study and teaching 
+Yes 
+Use under names of individual persons, corporate 
+bodies, and places, and under classes of persons, 
+ethnic groups, and topical headings for works on the 
+study and teaching of those subjects, including 
+methods, institutions, facilities, programs, courses, 
+funding, etc. 
+See also *--Education* under names of individual 
+religious and monastic orders, classes of persons, 
+ethnic groups, and Christian denominations. 
+See also *--Instruction and study* under music 
+headings 
+See also *--Training of* under occupational groups 
+and types of employees. 
+Consult H 2110. 
+$x Study and teaching $x 
+Activity programs 
+Yes 
+Use under subjects. 
+Consult H 2110. 
+
+
+<<<PAGE 37>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 37 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Study and teaching $x 
+Audio-visual aids 
+ 
+Use under subjects for works on the use of audiovisual 
+aids in the learning and teaching of those subjects. 
+Consult H 2110. 
+$x Study and teaching $x 
+Simulation methods 
+ 
+Use under topical headings. 
+Consult H 2110. 
+$x Study and teaching $x 
+Supervision 
+Yes 
+Use under topical headings. 
+$x Study and teaching 
+(Continuing education) 
+Yes 
+Use under subjects. 
+Consult H 2110. 
+$x Study and teaching 
+(Continuing education) $x 
+Audio-visual aids 
+ 
+Use under subjects. 
+$x Study and teaching (Early 
+childhood) 
+Yes 
+Use under subjects. 
+Consult H 2110. 
+$x Study and teaching (Early 
+childhood) $x Activity 
+programs 
+Yes 
+Use under subjects. 
+Consult H 2110. 
+$x Study and teaching (Early 
+childhood) $x Audio-visual 
+aids 
+ 
+Use under subjects. 
+Consult H 2110. 
+$x Study and teaching 
+(Elementary) 
+Yes 
+Use under subjects. 
+Consult H 2110. 
+$x Study and teaching 
+(Elementary) $x Activity 
+programs 
+Yes 
+Use under subjects. 
+Consult H 2110. 
+$x Study and teaching 
+(Elementary) $x Audio-visual 
+aids 
+ 
+Use under subjects. 
+Consult H 2110. 
+$x Study and teaching 
+(Elementary) $x Simulation 
+methods 
+ 
+Use under subjects. 
+Consult H 2110. 
+$x Study and teaching 
+(Graduate) 
+Yes 
+Use under subjects. 
+Consult H 2110. 
+
+
+<<<PAGE 38>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 38 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Study and teaching 
+(Higher) 
+Yes 
+Use under subjects. 
+Consult H 2110. 
+$x Study and teaching 
+(Higher) $x Activity programs Yes 
+Use under subjects. 
+Consult H 2110. 
+$x Study and teaching 
+(Higher) $x Audio-visual aids 
+ 
+Use under subjects. 
+Consult H 2110. 
+$x Study and teaching 
+(Higher) $x Simulation 
+methods 
+ 
+Use under topical headings. 
+Consult H 2110. 
+$x Study and teaching 
+(Internship) 
+Yes 
+Use under subjects. 
+Consult H 2110. 
+$x Study and teaching 
+(Middle school) 
+Yes 
+Use under subjects. 
+Consult H 2110. 
+$x Study and teaching 
+(Middle school) $x Activity 
+programs 
+Yes 
+Use under subjects. 
+Consult H 2110. 
+$x Study and teaching 
+(Middle school) $x Audio-
+visual aids 
+ 
+Use under subjects. 
+Consult H 2110. 
+$x Study and teaching 
+(Preschool) 
+Yes 
+Use under subjects. 
+Consult H 2110. 
+$x Study and teaching 
+(Preschool) $x Activity 
+programs 
+Yes 
+Use under subjects. 
+Consult H 2110. 
+$x Study and teaching 
+(Preschool) $x Audio-visual 
+aids 
+ 
+Use under subjects. 
+Consult H 2110. 
+$x Study and teaching 
+(Primary) 
+Yes 
+Use under subjects. 
+Consult H 2110. 
+$x Study and teaching 
+(Primary) $x Activity 
+programs 
+Yes 
+Use under subjects. 
+Consult H 2110. 
+
+
+<<<PAGE 39>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 39 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Study and teaching 
+(Primary) $x Audio-visual 
+aids 
+ 
+Use under subjects. 
+Consult H 2110. 
+$x Study and teaching 
+(Residency) 
+Yes 
+Use under topical headings. 
+Consult H 2110. 
+$x Study and teaching 
+(Secondary) 
+Yes 
+Use under subjects. 
+Consult H 2110. 
+$x Study and teaching 
+(Secondary) $x Activity 
+programs 
+Yes 
+Use under subjects. 
+Consult H 2110. 
+$x Study and teaching 
+(Secondary) $x Audio-visual 
+aids 
+ 
+Use under subjects. 
+Consult H 2110. 
+$x Study and teaching 
+(Secondary) $x Simulation 
+methods 
+ 
+Use under topical headings. 
+Consult H 2110. 
+$x Taxation 
+Yes 
+Use under topical headings for works on the taxes 
+levied on income-producing activities or articles of 
+value; also use under classes of persons and ethnic 
+groups for taxes levied on those groups. 
+$x Taxation $x Law and 
+legislation 
+Yes 
+Use under topical headings, classes of persons, and 
+ethnic groups. 
+$x Technique 
+ 
+Use under disciplines, especially those involving 
+laboratory routines, for non-theoretical works 
+describing steps to be followed in performing required 
+tasks. Use under names of individual literary authors 
+and under literary form headings for works on writing 
+technique. Also use under individual art forms and 
+headings for national or ethnic art for works on artistic 
+technique. 
+See also *--Methodology* 
+$x Technological innovations 
+Yes 
+Use under individual plants and groups of plants, 
+individual animals and groups of animals, industries, 
+and topical headings for works on fundamental 
+technological improvements or changes in materials, 
+
+
+<<<PAGE 40>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 40 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+production methods, processes, organization, or 
+management which increase eﬃciency or production. 
+$x Terminology $x 
+Pronunciation 
+ 
+Use under individual sacred works and topical 
+headings. 
+$x Territories and 
+possessions 
+ 
+Use under headings of the type *[topic]--[country]* 
+for works discussing collectively the territories and 
+territorial possessions of a country in relation to the 
+topic, e.g., *Postmarks--United States--Territories and 
+possessions*. Also use under names of regions and 
+countries for works discussing collectively the 
+territorial possessions of the region or country. 
+$x Testing 
+ 
+Use under topical headings for works on the 
+construction, application, and results of testing 
+pertaining to those topics. Also use under drugs and 
+individual drugs for works on testing their 
+eﬀectiveness and/or safety, and under types of 
+materials, instruments, equipment, products, 
+chemicals, animals, etc., for works on testing of those 
+items and/or the results of testing. 
+Consult H 2186. 
+$x Themes, motives 
+ 
+Use under names of individual persons and individual 
+literary and art forms. 
+$x Therapeutic use 
+Yes 
+Use under topical headings for works on their use in 
+treating disease. 
+$x Tombs 
+Yes 
+Use under names of individual families, royal houses, 
+dynasties, etc., and under classes of persons. 
+See also *--Tomb* under names of individual persons. 
+$x Toxicology 
+Yes 
+Use under individual chemicals and groups of 
+chemicals, individual materials and types of materials, 
+individual animals and groups of animals, and 
+individual plants and groups of plants for works on 
+their poisonous eﬀects on human beings or animals. 
+$x Translating 
+Yes 
+Use under uniform titles of sacred works, and under 
+individual languages and groups of languages and 
+topical headings. 
+
+
+<<<PAGE 41>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 41 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+Consult H 2219. 
+$x Transportation 
+Yes 
+Use under names of individual military services, and 
+under classes of persons, ethnic groups, types of 
+objects, merchandise, animals, and individual wars for 
+works on transportation of or applied to those topics. 
+This heading may be further subdivided by place only 
+when used under classes of persons, ethnic groups, 
+types of objects, merchandise, animals, and individual 
+wars. 
+Consult H 2225. 
+$x Tropical conditions 
+ 
+Use under topical headings for works on methods or 
+procedures employed when working in a tropical 
+climate. 
+See also *--Hot weather conditions* 
+$x Union territories 
+ 
+Use under headings of the type *[topic]--India* for 
+works discussing collectively the union territories of 
+India in relation to the topic, e.g. *Land use--India--
+Union territories*. 
+Consult H 713. 
+$x Use studies 
+ 
+Use under types of information resources, information 
+services, libraries, library resources, and publications 
+for works about use studies of those resources or 
+services. 
+$x Validity 
+Yes 
+Use under individual tests and types of tests. 
+$x Valuation 
+Yes 
+Use under types of property, businesses, structures, 
+etc., for works on the values set upon those topics or 
+their estimated or determined market value. 
+$x Vibration 
+Yes 
+Use under types of equipment, structures, and 
+vehicles. 
+$x Video games 
+ 
+Use under subjects for works about video games on 
+those subjects. 
+$x Vocational guidance 
+Yes 
+Use under names of individual corporate bodies and 
+military services, and under occupations, ﬁelds of 
+endeavor, and types of industries, trades, etc., for 
+works describing careers in those organizations or 
+
+
+<<<PAGE 42>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 42 
+ 
+ 
+Topical Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+ﬁelds and/or oﬀering advice on how to prepare for, 
+enter, and succeed in those careers. Use under classes 
+of persons or occupational groups only if the heading 
+for the corresponding ﬁeld or activity does not exist or 
+cannot be established. 
+Consult H 2232. 
+$x Voivodeships 
+ 
+Use under headings of the type *[topic]--Poland* for 
+works discussing collectively the voivodeships of 
+Poland in relation to the topic, e.g. *Land use--Poland-
+-Voivodeships*. 
+Consult H 713. 
+$x Waste disposal 
+Yes 
+Use under types of industries, industrial processes, 
+facilities, and institutions. 
+$x Waste minimization 
+Yes 
+Use under types of industries, industrial processes, 
+facilities, and institutions. 
+$x Water-supply 
+ 
+Use under types of industries and topical headings. 
+$x Web-based instruction 
+Yes 
+Use under topical headings. 
+$x Weight 
+ 
+Use under types of objects, substances, individual 
+animals and groups of animals, and organs and regions 
+of the body for works on the techniques of making 
+weight measurements of those items, or for the 
+results of such measurements. 
+$x Weights and measures 
+ 
+Use under types of commodities and merchandise for 
+systems of weights and measures established for 
+those items. 
+G. Form subdivisions 
+LC practice: In early 2026, the use of form subdivisions was phased out. Library of Congress 
+catalogers assign Library of Congress Genre/Form Terms (LCGFT) to bring out the form(s) 
+and/or genre(s) of the resource being cataloged. Therefore, the form subdivisions maintained 
+on this list are not available for use by Library of Congress catalogers. Catalogers at institutions 
+external to LC may use them as dictated by their own institutional policies. 
+
+
+<<<PAGE 43>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 43 
+ 
+ 
+A-C | D-L | M-Z 
+Form Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Abbreviations $v 
+Dictionaries 
+ 
+Use under topical headings for lists of abbreviations 
+pertaining to those topics. 
+$v Abbreviations of titles 
+ 
+Use under types of periodicals for works containing 
+lists of abbreviations of titles of those periodicals, e.g., 
+*English periodicals--Abbreviations of titles*. 
+See also *--Periodicals--Abbreviations of titles* 
+$v Abstracts 
+ 
+Use under names of countries, cities, etc., and under 
+classes of persons, ethnic group, and topical headings 
+for works that list publications on the subject and 
+provide full bibliographical information together with 
+substantive summaries or condensations of the facts, 
+ideas, or opinions presented in each publication listed. 
+Use under names of individual persons and corporate 
+bodies for abstracts of works by or about the person 
+or corporate body. Also use under types of 
+publications for works that summarize the contents of 
+those publications. 
+See also *--Digests* under legal topics. 
+Consult H 1205. 
+$x Acronyms $v Dictionaries 
+ 
+Use under individual languages other than English, 
+groups of languages, and topical headings for lists of 
+acronyms in those languages or pertaining to those 
+topics. 
+Consult H 1206.5. 
+$v Aerial photographs 
+ 
+Use under names of countries, cities, etc., and under 
+topical headings for collections or discussions of aerial 
+photographs, including collections of reproductions, of 
+a place or topic. 
+Consult H 1210.5. 
+$v Amateurs' manuals 
+ 
+Use under technical topics for works of instruction for 
+nonprofessionals on how to acquire a skill or perform 
+an operation. 
+Consult H 1943.5. 
+
+
+<<<PAGE 44>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 44 
+ 
+ 
+Form Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$v Anecdotes 
+ 
+Use under names of countries, cities, etc., names of 
+individual persons, families, and corporate bodies, 
+uniform titles of sacred works, and under classes of 
+persons, ethnic groups, and topical headings for 
+collections of brief narratives of incidents about those 
+subjects. 
+$v Archives 
+ 
+Use under names of individual persons, families, and 
+corporate bodies, and under classes of persons, ethnic 
+groups, types of corporate bodies and educational 
+institutions, and military services for collections of 
+documents or historical records, including notes, 
+correspondence, minutes, photographs, legal papers, 
+etc. 
+Consult H 1230. 
+$x Archives $v Microform 
+catalogs 
+ 
+Use under names of individual persons, families, and 
+corporate bodies, and under classes of persons, ethnic 
+groups, types of corporate bodies and educational 
+institutions, and military services. 
+Consult H 1361. 
+$v Art 
+ 
+Use under names of individual persons who lived 
+before 1400, names of deities and mythological or 
+legendary ﬁgures, individual ﬁctitious characters and 
+groups of ﬁctitious characters collections of art 
+depicting the person, deity, or character; also use 
+under headings of the type *[name heading]--
+[subdivision]* for collections of art depicting those 
+topics. 
+See also *--Portraits* under names of individual 
+persons who lived after 1400 and individual families, 
+and under classes of persons, ethnic groups, and 
+individual wars. 
+See also headings of the type *[topic] in art* and the 
+subdivision *--In art* under names of countries, cities, 
+etc., under names of individual corporate bodies, and 
+under Christian denominations. 
+
+
+<<<PAGE 45>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 45 
+ 
+ 
+Form Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+Consult H 1250. 
+$v Atlases 
+ 
+Use under scientiﬁc and technical topics for works 
+consisting of comprehensive, often systematically 
+arranged collections of illustrative plates, charts, etc., 
+usually with explanatory captions. 
+Consult H 1935. 
+$x Audio-visual aids $v 
+Catalogs 
+ 
+Use under topical headings for catalogs of audiovisual 
+materials. 
+Consult H 1361. 
+$v Audiocassette catalogs 
+ 
+Use under names of countries, cities, etc., names of 
+individual persons and corporate bodies, and under 
+ethnic groups, topical headings, and forms and types 
+of musical compositions, for lists or catalogs of sound 
+recordings on audiocassettes. 
+Consult H 1361. 
+$v Audiotape catalogs 
+ 
+Use under names of countries, cities, etc., names of 
+individual persons and corporate bodies, and under 
+ethnic groups, topical headings, and forms and types 
+of musical compositions, for lists or catalogs of sound 
+recordings on audiotapes. 
+Consult H 1361. 
+$x Authorship $v Style 
+manuals 
+ 
+Use under disciplines. 
+$v Bibliography 
+ 
+Use under subjects for works consisting of 
+bibliographies about the subject. Use under names of 
+individual persons and corporate bodies for lists of 
+works by or about the person or corporate body. 
+See also *--Imprints* under names of countries, cities, 
+etc. 
+Consult H 1205, Η 1322, Η 1325, and Η 1670. 
+$v Bibliography $v Catalogs 
+ 
+Use under subjects for lists of publications about the 
+subject that provide information about their location, 
+availability, etc. 
+Consult H 1361. 
+
+
+<<<PAGE 46>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 46 
+ 
+ 
+Form Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$v Bibliography $v Early 
+ 
+Use under subjects for bibliographies compiled or 
+issued before 1800. 
+Consult H 1576. 
+$v Bibliography $v 
+Exhibitions 
+ 
+Use under subjects. 
+Consult H 1593. 
+$v Bibliography $v 
+Microform catalogs 
+ 
+Use under subjects for catalogs that list works stored 
+in microform editions. 
+See also *--Microform catalogs* 
+Consult H 1361 and H 1965. 
+$v Bibliography $v Union 
+lists 
+ 
+Use under subjects for catalogs of materials on those 
+subjects held by two or more libraries. 
+See also *--Union lists* 
+Consult H 1361. 
+$v Bibliography of 
+bibliographies 
+ 
+Use under subjects for works consisting of lists of 
+bibliographies on those subjects. 
+Consult H 1325. 
+$v Bio-bibliography 
+ 
+Use under names of countries, cities, etc., individual 
+Christian denominations and monastic and religious 
+orders, and under ethnic groups, literatures, and 
+topical headings for works containing both 
+biographical information about persons associated 
+with the subject and bibliographies of writings by 
+and/or about them. 
+Consult H 1328. 
+$v Bio-bibliography $v 
+Dictionaries 
+ 
+Consult H 1328. 
+$v Biography $v Dictionaries 
+ 
+Use under names of countries, cities, etc., names of 
+individual corporate bodies, and under classes of 
+persons, ethnic groups, and historic events. 
+$v Biography $v Dictionaries 
+$x French, [Italian, etc.] 
+ 
+ 
+$v Blogs 
+ 
+Use under names of individual persons, classes of 
+persons, ethnic groups, and topical headings for blogs 
+by those persons or about those persons, groups, or 
+topics. 
+
+
+<<<PAGE 47>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 47 
+ 
+ 
+Form Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$v Book reviews 
+ 
+Use under names of countries, cities, etc., and under 
+classes of persons, ethnic groups, and topical headings 
+for collections of appraisals of books on those places 
+or topics. 
+See also *--Reviews* 
+Consult H 2021. 
+$v By-laws 
+ 
+Use under names of individual corporate bodies and 
+under types of corporate bodies for collections of by-
+laws of those bodies. 
+$v Calendars 
+ 
+Use under names of countries, cities, etc., and 
+individual corporate bodies, and under topical 
+headings for works that list recurring, coming, or past 
+events occurring in those places, associated with those 
+organizations, or relating to those topics, and under 
+names of individual persons for calendars that include 
+information on events associated with the person or 
+quotations from the person. 
+$v Caricatures and cartoons 
+ 
+Use under names of individual persons, families, and 
+corporate bodies, and under classes of persons, ethnic 
+groups, individual wars, and topical headings for 
+collections or discussions of caricatures or pictorial 
+humor about those subjects. 
+$v Case studies 
+ 
+Use under names of individual corporate bodies and 
+under classes of persons, ethnic groups, and topical 
+headings for individual or collected case studies. 
+Consult H 1350. 
+$v Catalogs 
+ 
+Use under types of objects, including types of 
+merchandise, art objects, products, publications, 
+collectors' items, technical equipment, etc., for listings 
+of those objects that have been produced, that are 
+available or located at particular places, or that occur 
+on a particular market, often systematically arranged 
+with descriptive details, prices, etc., accompanying 
+each entry. Use *--Catalogs* under the heading 
+*Excavations (Archaeology)* as well as under 
+
+
+<<<PAGE 48>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 48 
+ 
+ 
+Form Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+headings for individual archaeological sites for works 
+listing objects found. Use *--Catalogs* under names of 
+individual corporate bodies and types of organizations 
+for works listing objects, art works, products, etc., 
+produced by, located in, or available from those 
+organizations. Also use *--Catalogs* under names of 
+individual artists, craftspersons, families of artists or 
+craftspersons, and corporate bodies for works listing 
+their art works or crafts which are available or located 
+in particular institutions or places. Also use under 
+persons or families doing business as sellers under 
+their own names. 
+See also *--Audiocassette catalogs*; *--Audiotape 
+catalogs*; *--CD-ROM catalogs*; *--Compact disc 
+catalogs*; *--Data tape catalogs*; *--Discography*; *-
+-Exhibitions*; *--Film catalogs*; *--Microform 
+catalogs* 
+Consult H 1360 and H 1361. 
+$v Catalogs and collections 
+Yes 
+Use under types of natural objects and musical 
+instruments and families of instruments for catalogs or 
+collections of those objects and instruments. 
+Consult H 1360 and H 1427. 
+$v CD-ROM catalogs 
+ 
+Use under subjects. 
+$v Charts, diagrams, etc. 
+ 
+Use under topical headings for works consisting of 
+miscellaneous charts or diagrams illustrating those 
+topics. 
+$v Chronology 
+ 
+Use under names of individual persons, groups of 
+literary authors, uniform titles of sacred works, 
+headings not divided by *--History*, such as art, 
+music, and literature headings, and headings for wars, 
+and under topical headings that are inherently 
+historical for lists of dates of events pertinent to the 
+subject in order of their occurrence. 
+See also *--History--Chronology* 
+Consult H 1367. 
+
+
+<<<PAGE 49>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 49 
+ 
+ 
+Form Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$v Classiﬁcation 
+ 
+Use under classes of persons and topical headings for 
+works that consist of a systematic breakdown of a 
+subject into its constituent categories or subtopics. 
+$v Code numbers 
+ 
+Use under individual diseases and types of diseases, 
+and topical headings, including medical specialties, for 
+works consisting of lists of code numbers. 
+$v Code words 
+ 
+Use under topical headings for works consisting of lists 
+of code words pertaining to those topics. 
+$v Comic books, strips, etc. 
+ 
+Use under names of individual persons, uniform titles 
+of sacred works, deities, ﬁctitious characters, and 
+mythological and legendary ﬁgures, under animals and 
+historical events and periods, and under topical 
+headings. 
+$v Compact disc catalogs 
+ 
+Use under names of countries, cities, etc., names of 
+individual persons and corporate bodies, and topical 
+headings. 
+Consult H 1361. 
+$v Comparative studies 
+ 
+Use under uniform titles of sacred works, individual 
+Christian denominations, and religious topics. 
+$v Concordances 
+ 
+Use under names of individual persons, individual 
+works (author-title or title entries), uniform titles of 
+sacred works, and under individual literatures and 
+literary genres for indexes to the principal words 
+found in those works. 
+Consult H 1670. 
+$v Congresses 
+ 
+Use under subjects for the proceedings or reports of 
+proceedings of conferences or congresses on those 
+subjects. 
+Consult H 1460. 
+$v Conversion tables 
+ 
+Use under topical headings. 
+Consult H 2160. 
+$v Cross-cultural studies 
+ 
+Use under topical headings for works which report the 
+results of cross-cultural studies on those topics or 
+discuss the methods and techniques of conducting 
+such studies. 
+
+
+<<<PAGE 50>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 50 
+ 
+ 
+Form Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+Consult H 1510. 
+$v Data tape catalogs 
+ 
+Use under subjects. 
+$v Databases 
+ 
+Use under subjects as a form subdivision for databases 
+on these subjects. 
+Consult H 1520. 
+$v Designs and plans 
+ 
+Use under architectural headings, including types of 
+buildings and rooms, and under landscape headings, 
+including types of gardens and parks, for works 
+containing architectural drawings. 
+Consult H 1532. 
+$v Dictionaries 
+ 
+Use under subjects. 
+See also *--Encyclopedias* 
+Consult H 1540. 
+$v Dictionaries $x French, 
+[Italian, etc.] 
+ 
+Use under subjects. 
+Consult H 1540. 
+$v Dictionaries $x Polyglot 
+ 
+Use under subjects. 
+Consult H 1540. 
+$v Dictionaries, Juvenile 
+ 
+Use under subjects. 
+Consult H 1690. 
+$v Directories 
+ 
+Use under names of countries, cities, etc., individual 
+corporate bodies and families, and under classes of 
+persons, ethnic groups, Christian denominations, types 
+of organizations, and topical headings for individual 
+directories containing names, addresses, and other 
+identifying data. 
+See also *--Registers*; *--Telephone directories* 
+Consult H 1558. 
+$v Discography 
+ 
+Use under names of individual persons and under 
+topical headings for lists or catalogs of sound 
+recordings by or about those persons or corporate 
+bodies. 
+See also *--Audiotape catalogs*; *--Songs and music--
+Discography* 
+Consult H 1361. 
+
+
+<<<PAGE 51>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 51 
+ 
+ 
+Form Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$v Drama 
+ 
+Use under names of countries, cities, etc., names of 
+individual persons, families, and corporate bodies, 
+under classes of persons, ethnic groups, names of 
+deities and mythological or legendary ﬁgures, 
+individual and groups of ﬁctitious and legendary 
+characters, and topical headings for plays, musical 
+dramatic works, ﬁctional visual materials, or ﬁctional 
+non-musical sound recordings on those subjects. 
+Consult H 1780. 
+$v Drawings 
+ 
+Use as a form subdivision under technical topics for 
+collections of drawings, plans, etc. 
+$v Early works to 1800 
+ 
+Use under names of countries, cities, etc., and under 
+classes of persons, ethnic groups, and topical headings 
+for individual works written or issued before 1800. 
+Consult H 1576. 
+$v Electronic discussion 
+groups 
+ 
+Use under subjects for electronic discussion groups on 
+those subjects. 
+$v Encyclopedias 
+ 
+Use under subjects. 
+Consult H 1540. 
+$v Encyclopedias, Juvenile 
+ 
+Use under subjects. 
+Consult H 1540. 
+$x Examinations $v Study 
+guides 
+ 
+Use under names of individual corporate bodies, 
+educational institutions, and military services, and 
+under types of educational institutions, classes of 
+persons, and topical headings for study guides for 
+examinations given by those organizations, for those 
+groups, or about those groups or topics. 
+$v Examinations, questions, 
+etc. 
+ 
+Use under classes of persons for compilations of 
+questions and answers for examinations for those 
+groups; and under names of individual persons and 
+titles of works and under topical headings for 
+compilations of questions and answers for 
+examinations about those persons, titles, or topics. 
+See also *--Problems, exercises, etc.* 
+
+
+<<<PAGE 52>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 52 
+ 
+ 
+Form Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$v Excerpts 
+ 
+Use under motion picture forms and genres and under 
+forms and types of musical compositions. 
+$v Exhibitions 
+ 
+Use under subjects for catalogs of exhibitions on those 
+subjects. 
+See also *--Bibliography--Exhibitions* 
+Consult H 1593. 
+$v Facsimiles 
+ 
+Use under headings or subdivisions designating types 
+of printed or written materials, documents, etc. 
+See also *--Manuscripts--Facsimiles*; *--Maps--
+Facsimiles* 
+Consult H 1595. 
+$v Fiction 
+ 
+Use under names of countries, cities, etc., names of 
+individual persons, families, and corporate bodies, 
+under classes of persons, ethnic groups, names of 
+deities and mythological or legendary ﬁgures, 
+individual and groups of ﬁctitious and legendary 
+characters, and topical headings for collections of 
+stories or novels on those topics. Also use under 
+names of individual persons and historic events for 
+individual works of biographical or historical ﬁction, 
+and under animals for individual stories about animals. 
+Consult H 1720 and H 1790. 
+$v Film catalogs 
+ 
+Use under subjects for lists of ﬁlms about those 
+subjects. 
+Consult H 1361. 
+$v Folklore 
+ 
+Use under names of countries, cities, etc., and under 
+classes of persons, ethnic groups, uniform titles of 
+sacred works, and topical headings for works 
+discussing those topics as themes in folklore and for 
+collections of folklore texts on those subjects. 
+Consult H 1627 and H 1720. 
+$v Forms 
+ 
+Use under names of individual corporate bodies, and 
+under topical headings for works consisting of, or 
+containing, substantial numbers of blank forms. 
+
+
+<<<PAGE 53>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 53 
+ 
+ 
+Form Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$v Formulae, receipts, 
+prescriptions 
+ 
+Use under branches and systems of medicine. 
+See also *--Medicine--Formulae, receipts, 
+prescriptions* under ethnic groups. 
+$v Guidebooks 
+ 
+Use under names of countries, cities, etc., individual 
+corporate bodies and parks, etc., and topical headings. 
+See also *--Tours* under names of countries, cities, 
+etc. 
+Consult H 1645. 
+$v Handbooks, manuals, etc. 
+ 
+Use under subjects for concise reference works in 
+which facts and information pertaining to the subject 
+are arranged for ready reference and consultation 
+rather than for continuous reading and study. 
+See also *--Amateurs' manuals*; *--Laboratory 
+manuals*; *--Observers' manuals* 
+Consult H 1646. 
+$x History $v Chronology 
+ 
+Use under names of countries, cities, etc., and 
+individual corporate bodies, and under ethnic groups, 
+and topical headings not inherently historical. 
+Consult H 1367. 
+$x History $v Sources 
+ 
+Use under names of countries, cities, etc., and 
+individual corporate bodies, and under classes of 
+persons, ethnic groups, and topical headings not 
+inherently historical for collections of materials of all 
+types, such as legal documents, letters, diaries, family 
+papers, visual and moving image materials, assembled 
+at a later time to serve as source materials for use by 
+students, scholars, etc., in their research on the 
+subject. 
+Consult H 1647 and H 2080. 
+$v Humor 
+ 
+Use under names of countries, cities, etc., names of 
+individual persons and corporate bodies, names of 
+deities and mythological or legendary ﬁgures, names 
+of individual ﬁctitious characters and groups of 
+ﬁctitious characters, uniform titles of sacred works, 
+
+
+<<<PAGE 54>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 54 
+ 
+ 
+Form Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+and under topical headings for humorous works about 
+those subjects. 
+$v Illustrations 
+ 
+Use under names of individual persons, individual 
+works (author-title or title entries), uniform titles of 
+sacred works, and under individual literatures, literary 
+forms, and types of published materials. 
+Consult H 1659. 
+$v In art 
+ 
+Use under names of countries, cities, etc., individual 
+corporate bodies, and individual Christian 
+denominations, and under uniform titles, for their 
+representation as physical objects in artistic works. 
+Use as a form subdivision for works consisting of 
+reproductions of artistic works that depict the place, 
+body, etc. Use as a topical subdivision for works that 
+discuss the place, body, etc., as a theme in art. 
+Consult H 362; H 910; H 1250; and H 1935. 
+$v Indexes 
+ 
+Use under subjects. 
+See also *--Concordances* 
+Consult H 1670. 
+$v Interactive multimedia 
+ 
+Use under subjects. 
+$v Inventories 
+ 
+Use under types of industries, institutions, and topical 
+headings for lists or discussions of raw materials, 
+supplies, work in process, ﬁnished goods, etc., on hand 
+at a particular time. 
+$v Job descriptions 
+Yes 
+Use under names of individual corporate bodies and 
+military services, and under occupational groups. This 
+subdivision may be further subdivided by place only 
+under occupational groups. 
+$v Juvenile drama 
+ 
+Use under names of countries, cities, etc., names of 
+individual persons and corporate bodies, and under 
+classes of persons, ethnic groups, names of deities and 
+mythological or legendary ﬁgures, individual and 
+groups of ﬁctitious and legendary characters, and 
+topical headings for ﬁction ﬁlms produced especially 
+for children. 
+
+
+<<<PAGE 55>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 55 
+ 
+ 
+Form Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+See also *--Juvenile ﬁlms* 
+Consult H 1690. 
+$v Juvenile ﬁction 
+ 
+Use under names of countries, cities, etc., names of 
+individual persons and corporate bodies, and under 
+classes of persons, ethnic groups, names of deities and 
+mythological or legendary ﬁgures, individual and 
+groups of ﬁctitious and legendary characters, and 
+topical headings. 
+Consult H 1690. 
+$v Juvenile ﬁlms 
+ 
+Use under subjects for nonﬁction ﬁlms produced 
+especially for children. 
+See also *--Juvenile drama* 
+Consult H 1690. 
+$v Juvenile humor 
+ 
+Use under names of countries, cities, etc., names of 
+individual persons and corporate bodies, and under 
+classes of persons, ethnic groups, names of deities and 
+mythological or legendary ﬁgures, individual and 
+groups of ﬁctitious and legendary characters, and 
+topical headings. 
+Consult H 1690. 
+$v Juvenile literature 
+ 
+Use under subjects. 
+Consult H 1690. 
+$v Juvenile poetry 
+ 
+Use under names of countries, cities, etc., names of 
+individual persons and corporate bodies, and under 
+classes of persons, ethnic groups, names of deities and 
+mythological or legendary ﬁgures, individual and 
+groups of ﬁctitious and legendary characters, and 
+topical headings. 
+Consult H 1690. 
+$v Juvenile software 
+ 
+Use under topical headings for actual software items, 
+that is, machine-readable editions. 
+Consult H 2070. 
+$v Juvenile sound recordings 
+ 
+Use under subjects. 
+Consult H 1690. 
+
+
+<<<PAGE 56>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 56 
+ 
+ 
+Form Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$v Laboratory manuals 
+ 
+Use under scientiﬁc and technical topics for 
+workbooks containing concise background information 
+and directions for performing work, including 
+experiments, in the laboratory. 
+Consult H 1646. 
+$v Legends 
+ 
+Use under names of individual persons and legendary 
+characters and uniform titles of sacred works, and 
+under religious topics for collected or individual 
+literary versions of legendary tales about those 
+persons, characters, or topics. 
+Consult H 1627 and h 1795. 
+$v Literary collections 
+ 
+Use under names of countries, cities, etc., names of 
+individual persons, families, and corporate bodies, 
+under classes of persons, ethnic groups, individual 
+wars, names of deities and mythological or legendary 
+ﬁgures, and under individual and groups of ﬁctitious 
+and legendary characters, and topical headings for 
+collections including several literary forms. 
+$x Liturgy $v Texts 
+ 
+Consult H 2190. 
+$v Longitudinal studies 
+ 
+Use under classes of persons, ethnic groups, and 
+topical headings. 
+Consult H 1848. 
+$x Manuscripts $v Catalogs 
+ 
+Consult H 1855. 
+$v Manuscripts $v Facsimiles 
+ 
+Consult H 1595 and H 1855. 
+ 
+ 
+Use under names of individual composers and literary 
+authors and under individual works entered under 
+title. 
+$x Manuscripts $v Indexes 
+ 
+ 
+$x Manuscripts $v 
+Microform catalogs 
+ 
+Consult H 1361. 
+$v Maps 
+ 
+Use under names of countries, cities, etc., individual 
+celestial bodies, individual corporate bodies, and 
+under topical headings for individual maps or 
+collections of maps. 
+
+
+<<<PAGE 57>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 57 
+ 
+ 
+Form Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+See also *--Aerial views* under names of countries, 
+cities, etc., and individual educational institutions. 
+Consult H 1865. 
+$x Maps $v Bibliography 
+ 
+Use under names of countries, cities, etc., and 
+individual corporate bodies, and under topical 
+headings. 
+$v Maps $v Early works to 
+1800 
+ 
+Use under names of countries, cities, etc., and under 
+topical headings. 
+Consult H 1576. 
+$v Maps $v Facsimiles 
+ 
+Use under names of countries, cities, etc., and under 
+topical headings. 
+Consult H 1595. 
+$v Meditations 
+ 
+Use under names of individual persons, uniform titles 
+of sacred works, and under religious topics for works 
+containing collections of thoughts or reﬂections on the 
+spiritual signiﬁcance of the person or topic. 
+$v Microform catalogs 
+ 
+Use under names of individual institutions and 
+collections for catalogs that list works stored in those 
+institutions or collections in microform editions. 
+See also *--Archives--Microform catalogs*; *--
+Bibliography--Microform catalogs* 
+Consult H 1361 and H 1965. 
+$v Miscellanea 
+ 
+Use under subjects. 
+Consult H 1910. 
+$v Newspapers 
+ 
+Use under subjects. 
+Consult H 1920. 
+$v Nomenclature 
+ 
+Use under scientiﬁc and technical disciplines and types 
+of substances, plants, and animals for systematically 
+derived lists of names or designations that have been 
+formally adopted or sanctioned, or for discussions of 
+the principles involved in the creation and application 
+of such names. 
+$v Nomograms 
+ 
+Use under topical headings. 
+
+
+<<<PAGE 58>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 58 
+ 
+ 
+Form Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$v Notation 
+ 
+Use under scientiﬁc and technical topics for works 
+containing the symbols, formulae, or signs employed 
+in the ﬁeld. 
+$v Observations 
+ 
+Use under scientiﬁc topics for works consisting of 
+numerical data obtained by the observation of natural 
+phenomena or for discussions on the processing and 
+use of those data. 
+$v Observers' manuals 
+ 
+Use under scientiﬁc topics for instruction books on 
+making observations of natural phenomena. 
+Consult H 1646. 
+$v Online chat groups 
+ 
+Use under subjects. 
+$v Outlines, syllabi, etc. 
+ 
+Use under names of individual persons, uniform titles 
+of sacred works, classes of persons, ethnic groups, and 
+topical headings for brief statements of the principal 
+elements of a subject to be studied, usually arranged 
+by headings and subheadings. 
+$v Pamphlets 
+ 
+Use under 16th, 17th, and 18th century period 
+subdivisions of European and American history and 
+under individual wars, for short, separately published, 
+usually polemical, essays or treatises regarding 
+controversial issues of contemporary interest, 
+especially political or religious matters. 
+$v Papal documents 
+ 
+Use under topical headings for collections of 
+documents and other papal pronouncements on the 
+topic. 
+$v Parodies, imitations, etc. 
+ 
+Use under names of individual persons, individual 
+works entered under title, and motion picture, 
+television, and video forms and genres. 
+$v Passenger lists 
+ 
+Use under names of individual ships. 
+$v Patents 
+ 
+Use under disciplines and under types of articles and 
+processes patented. 
+$v Periodicals 
+ 
+Use under subjects. 
+Consult H 1927. 
+$x Periodicals $v 
+Abbreviations of titles 
+ 
+Use under subjects. 
+
+
+<<<PAGE 59>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 59 
+ 
+ 
+Form Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Periodicals $v 
+Bibliography 
+ 
+Use under subjects for lists of serials or periodicals on 
+a subject. 
+$x Periodicals $v 
+Bibliography $v Catalogs 
+ 
+Use under subjects for lists of serials or periodicals 
+held by one organization or library, assembled as a 
+private collection, or issued by an individual publisher. 
+Consult H 1361. 
+$x Periodicals $v 
+Bibliography $v Union lists 
+ 
+Use under subjects for catalogs of serials or periodicals 
+on those subjects held by two or more libraries. 
+Consult H 1361. 
+$x Periodicals $v Indexes 
+ 
+Use under subjects. 
+Consult H 1670. 
+$v Personal narratives 
+ 
+Use under names of events and wars. 
+Consult H 1928. 
+$v Photographs 
+ 
+Use under subjects for works that consist of actual 
+photographs, that is, photographic prints or digital 
+photographs, rather than reproductions of 
+photographs. 
+Consult H 1935. 
+$v Photographs from space 
+ 
+Use under names of countries, cities, etc., and under 
+topical headings for collections of photographs taken 
+from outer space. Do not use for cartographic 
+materials. 
+Consult H 1210.5. 
+$v Pictorial works 
+ 
+Use under names of countries, cities, etc., individual 
+persons, families, and corporate bodies, and under 
+classes of persons, ethnic groups, individual wars, and 
+topical headings. Also use under literary works entered 
+under author for works consisting of pictures 
+pertaining to the work as a physical object or, in the 
+case of dramatic works, to productions of the work. 
+See also *--Portraits* under names of individual 
+persons who lived after 1400, individual families, and 
+under classes of persons, ethnic groups, and individual 
+wars. 
+Consult H 1935. 
+
+
+<<<PAGE 60>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 60 
+ 
+ 
+Form Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$v Poetry 
+ 
+Use under names of countries, cities, etc., names of 
+individual persons, families, and corporate bodies, 
+under classes of persons, ethnic groups, names of 
+deities and mythological or legendary ﬁgures, and 
+under individual and groups of ﬁctitious and legendary 
+characters, and topical headings for collections of 
+poetry and individual poems on those subjects. 
+Consult H 1800. 
+$v Popular works 
+ 
+Use under scientiﬁc, technical, and legal headings, etc., 
+for works written for the layperson; and under medical 
+disciplines, individual diseases, and under headings of 
+the type *[part of the body]--Diseases* for materials 
+written for the layperson. 
+Consult H 1943.5. 
+$v Posters 
+ 
+Use under names of countries, cities, etc., individual 
+persons and corporate bodies, classes of persons, 
+ethnic groups, individual wars, and topical headings 
+for individual posters and collections and/or 
+discussions of posters about those subjects. 
+Consult H 1945.5. 
+$v Prayers and devotions 
+ 
+Use under names of individual religious and monastic 
+orders and under individual religions, Christian 
+denominations, classes of persons and ethnic groups 
+for whose use the prayers are intended; under names 
+of individual saints, deities, etc., to whom the 
+devotions are directed; and under topical headings for 
+prayers and devotions on those topics. 
+$v Problems, exercises, etc. 
+ 
+Use under topical headings for compilations of 
+practice problems or exercises pertinent to the study 
+of the topic. 
+See also *--Examinations, questions, etc.* 
+$v Programmed instruction 
+ 
+Use under topical headings for works discussing 
+presequenced instruction in which the learner is able 
+to govern the pacing of the process, sometimes with a 
+
+
+<<<PAGE 61>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 61 
+ 
+ 
+Form Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+teaching machine, or for programmed texts on those 
+topics. 
+$v Quotations, maxims, etc. 
+ 
+Use under names of countries, cities, etc., and under 
+topical headings. 
+See also *--Quotations* under names of individual 
+persons and families, uniform titles of sacred works, 
+and under classes of persons and ethnic groups. 
+Consult H 1969. 
+$v Readings with music 
+ 
+Use under topical headings. 
+$v Records and 
+correspondence 
+ 
+Use under names of individual corporate bodies and 
+types of industries, organizations, etc. 
+$v Registers 
+ 
+Use under names of countries, cities, etc., individual 
+corporate bodies, and families, and under classes of 
+persons, ethnic groups, individual wars, and topical 
+headings for lists of names of persons, organizations, 
+or objects, etc., without addresses or other identifying 
+data. 
+Consult H 1558. 
+$v Reviews 
+ 
+Use under the heading Books and headings for types 
+of books for collections of descriptive and evaluative 
+accounts of books on many subjects. Use under 
+headings for non-book materials for collections of 
+descriptive and evaluative accounts of those materials. 
+Also use under headings for mass media and the 
+performing arts for collections of critical writings about 
+programs, performances, etc. 
+Consult H 2021. 
+$v Romances 
+ 
+Use under names of individual persons and legendary 
+characters for texts of medieval (that is, pre-1501) 
+European tales based chieﬂy on legends of chivalric 
+love and adventure in which those persons or 
+characters are the dominant character. 
+See also *--Legends* 
+Consult H 1795. 
+
+
+<<<PAGE 62>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 62 
+ 
+ 
+Form Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$v Rules 
+ 
+Use under names of individual religious and monastic 
+orders, contests, and sports events and under types of 
+games and activities. 
+$v Rules and practice 
+ 
+Use under types of and names of individual courts, 
+legislative bodies, constitutional conventions, and 
+administrative or regulatory agencies, for works 
+containing the rules and practice of those bodies. 
+See also *--Regulations* under names of individual 
+educational institutions and military services 
+$v Sermons 
+ 
+Use under names of individual persons and under 
+sects of individual religions, Christian denominations, 
+types of educational institutions, uniform titles of 
+sacred works, individual wars, and topical headings. 
+Consult H 2032. 
+$v Slides 
+ 
+Use under names of countries, cities, etc., and 
+individual persons and under topical headings. 
+$v Software 
+ 
+Use under topical headings as a form subdivision for 
+actual computer programs that are tools to perform 
+tasks, for example, systems software, utilities, or 
+applications programs. Do not use for computer ﬁles 
+or electronic resources that are about a given topic, or 
+to indicate only that the item is machine-readable. 
+See also *--Computer games*; *--Computer 
+programs*; *--Databases* 
+Consult H 2070. 
+$v Songs and music 
+ 
+Use under names of individual persons and corporate 
+bodies, and under ethnic groups, individual wars, 
+names of deities and mythological or legendary 
+ﬁgures, individual and groups of ﬁctitious and 
+legendary characters, and topical headings. 
+See also *--Music* under ethnic groups. 
+Consult H 2075. 
+$x Songs and music $v 
+Discography 
+ 
+ 
+$v Songs and music $v Texts 
+ 
+Consult H 2190. 
+
+
+<<<PAGE 63>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 63 
+ 
+ 
+Form Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$v Sources 
+ 
+Use under individual works (author-title or title 
+entries), historical topics, and headings for systems of 
+law, for collections or discussions of source materials 
+of all types compiled for scholars. Also use under 
+names of individual persons for collections of 
+materials that served as the person's sources of ideas 
+or inspiration for his or her endeavors or creative 
+works, and for discussions of those source materials. 
+Also use under types of literatures for works about 
+sources of ideas or inspiration for those literary works. 
+See also *--History--Sources* 
+Consult H 1647 and H 2080. 
+$v Speciﬁcations 
+Yes 
+Use under types of engineering, construction, 
+industries, products, and merchandise. 
+Consult H 2083. 
+$v Specimens 
+ 
+Use under types of publications, printed matter, etc., 
+as a form subdivision for actual specimens of the 
+material. Also use under individual typefaces or groups 
+of typefaces as a form subdivision for works consisting 
+primarily or entirely of samples of printed matter using 
+those typefaces and intended to illustrate their 
+appearance. 
+$v Speeches in Congress 
+ 
+Use under topical headings for single speeches or 
+compilations of speeches on those topics. 
+$v Statistics 
+ 
+Use under names of countries, cities, etc., names of 
+individual corporate bodies, classes of persons, ethnic 
+groups, and topical headings for works consisting of or 
+discussing statistics about those subjects. 
+See also *--Statistics, Medical* under names of 
+countries, cities, etc. 
+See also *--Statistics, Vital* under names of countries, 
+cities, etc., and under ethnic groups for compilations 
+of birth, marriage, and death statistics. 
+Consult H 2095. 
+$v Video games 
+ 
+Use under subjects for video games on those subjects. 
+
+
+<<<PAGE 64>>>
+Subject Headings Manual | Free-floating Subdivision H 1095 | Page 64 
+ 
+ 
+Revision history 
+2026-01: Updated template. Simpliﬁed text. Added instructions related to LCGFT 
+implementation. 

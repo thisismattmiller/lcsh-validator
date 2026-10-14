@@ -1,0 +1,286 @@
+
+
+<<<PAGE 1>>>
+ 
+Religious Aspects of Topics  H 1998 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1998 Page 1 
+ 
+August 2020 
+BACKGROUND:  Until 1981, several different types of headings were used to bring out the 
+religious aspects of an inherently non-religious topic: 
+ 
+ 
+(1) [topic] (in religion, folk-lore, etc.)  
+(2) [topic]–Moral and religious aspects–[particular religion or denomination] 
+(3) [topic] ([particular religion or denomination])  
+(4) [topic] and religion [or vice versa]; or [topic] and [particular religion or 
+denomination]  [or vice versa] 
+ 
+ 
+In 1981, three new subdivisions were created for use under topics.  The purpose was to 
+consolidate the above practices into a uniform method of designating a topic dealt with from the 
+religious standpoint.  For the technique of providing for the folkloric aspect of topics formerly 
+covered by headings of the type [topic] (in religion, folk-lore, etc.), see H 1627. 
+ 
+ 
+1.  General rule.  As the standard means of designating works that discuss the religious or ethical 
+aspects of a topic that is not inherently religious or ethical, use one or more of the following three 
+subdivisions under the topic: 
+ 
+ 
+–Religious aspects–[religion or denomination] 
+The subdivision –Religious aspects is free-floating only under headings that are covered by 
+pattern headings where it is established.  It must be established under all other headings. 
+Each use of a further subdivision by religion or denomination also must be editorially 
+established.  
+–Mythology (May Subd Geog) 
+This subdivision is free-floating under topical headings. 
+–Moral and ethical aspects (May Subd Geog) 
+This subdivision is free-floating under non-religious or non-ethical topical headings. 
+ 
+ 
+Religious and ethical topics.  Do not use these subdivisions under topics that are 
+inherently religious or ethical.  Inherently religious topics may, however, be further 
+subdivided by appropriate free-floating subdivisions from H 1095, or by names of 
+denominations or religions where established (cf. H 2015). 
+ 
+ 
+
+
+<<<PAGE 2>>>
+H 1998  Religious Aspects of Topics 
+ 
+ 
+ 
+H 1998 Page 2 
+Subject Headings Manual 
+August 2020 
+2.  –Religious aspects. 
+ 
+a.  General rule.  Use this subdivision under non-religious or non-ethical topics to 
+designate works that discuss the topic from the religious standpoint, for example, its 
+occurrence as a theme in religious beliefs and practices, its importance in religious 
+doctrines, or the relationship in general between the topic and religion.  Examples: 
+ 
+650 #0 $a Birds $x Religious aspects. 
+650 #0 $a Sex $x Religious aspects. 
+ 
+Do not use –Religious aspects under classes of persons or ethnic groups for works on the 
+religious life or religions of those classes or groups.  For the religious life of specific 
+classes of persons, use the subdivision –Religious life in accordance with instructions in 
+H 2015.5.  For works on the religion(s) of specific ethnic groups, use the subdivision 
+–Religion in accordance with instructions in H 1997. 
+ 
+ 
+Do not interpose geographic subdivisions between the topic and the subdivision 
+–Religious aspects.  Bring out place by assigning an additional heading of the type 
+[topic]–[place].  Example:  
+ 
+ 
+Title:  Christian views on abortion in the United States. 
+650 #0 $a Abortion $x Religious aspects  
+            $x Christianity. 
+650 #0 $a Abortion $z United States. 
+ 
+ 
+For provisions regarding the usage of existing “and” headings involving religion, see sec. 
+5.c., below. 
+ 
+ 
+ 
+b.  Establishing the subdivision in the subject authority file.  Establish each usage of 
+this non-free-floating subdivision, unless free-floating usage is authorized by the lists in 
+H 1147-H 1200. 
+ 
+ 
+Do not make a UF reference from [topic]–Religious aspects to an obsolete form of 
+heading, such as an “and” heading or a heading with a parenthetical qualifier designating 
+a religion or denomination. 
+
+
+<<<PAGE 3>>>
+ 
+Religious Aspects of Topics  H 1998 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1998 Page 3 
+ 
+August 2020 
+2.  –Religious aspects.  
+ 
+b.  Establishing the subdivision in the subject authority file.  (Continued) 
+ 
+ 
+If necessary for the work being cataloged or for existing bibliographic records, also 
+establish a further subdivision for a particular religion or denomination.  
+ 
+Note: Until July 2018, either or both of the following multiple subdivisions were 
+established instead of a subdivision for a particular religion or denomination.  
+ 
+150 ## $a [topic] $x Religious aspects $x Buddhism,  
+            [Christianity, etc.] 
+  
+[The above multiple subdivision authorized the free-floating usage of  
+religions or sects after -Religious aspects.] 
+ 
+ 
+150 ## $a [topic] $x Religious aspects $x Baptists,  
+            [Catholic Church, etc.] 
+ 
+[The above multiple subdivision authorized the free-floating usage of 
+Christian denominations after -Religious aspects.] 
+ 
+ 
+c.  Subdividing by other subdivisions.  Treat headings of the type [topic]–Religious 
+aspects as religious headings.  If required for the work being cataloged, further 
+subdivide these headings by the subdivisions provided for use under religious topics in H 
+1095, such as –Comparative studies; –History of doctrines; –Meditations. 
+ 
+ 
+d.  Assignment of additional headings.  When assigning a heading of the type 
+[topic]–Religious aspects–[name of religion or denomination], assign as an additional 
+heading the name of the religion or denomination with appropriate topical subdivision, if 
+any (cf. H 2015).  Example: 
+ 
+ 
+Title:  Catholic theology pertinent to women's lib. 
+650 #0 $a Feminism $ x Religious aspects $x Catholic 
+            Church.   
+610 20 $a Catholic Church $x Doctrines. 
+ 
+
+
+<<<PAGE 4>>>
+H 1998  Religious Aspects of Topics 
+ 
+ 
+ 
+H 1998 Page 4 
+Subject Headings Manual 
+August 2020 
+ 
+3.  –Mythology.  Use the free-floating subdivision –Mythology (May Subd Geog) under 
+non-religious or non-ethical topics to designate works that discuss the topic as a theme in 
+mythology.  Example: 
+ 
+ 
+650 #0 $a Rice $x Mythology 
+ 
+ 
+Assign headings subdivided by –Mythology rather than –Religious aspects to works that discuss 
+the religious implications of a particular theme in mythology.  If, however, it is necessary to 
+designate a particular religion or denomination, do so by assigning the additional heading 
+[topic]–Religious aspects–[name of religion or denomination].  If the subdivision –Religious 
+aspects has not yet been established under the topic, establish it and also establish the required 
+subdivision for the religion or denomination.   
+ 
+ 
+Bring out the particular mythology discussed by assigning additional headings of the type 
+Mythology, Greek; Jewish mythology. 
+ 
+ 
+ 
+4.  –Moral and ethical aspects.  Use the free-floating subdivision –Moral and ethical aspects 
+(May Subd Geog) under non-religious or non-ethical topics to designate works that discuss moral 
+and/or ethical questions regarding the topic, for example, Dancing–Moral and ethical aspects 
+(May Subd Geog); Terminal care–Moral and ethical aspects (May Subd Geog). 
+ 
+ 
+If a work also discusses the topic from the standpoint of a particular religion or denomination, 
+assign an additional heading of the type [topic]–Religious aspects–[religion or denomination].  
+If the subdivision –Religious aspects has not yet been established under the topic, establish it, as 
+well as the required subdivision for the religion or denomination.  Example: 
+ 
+ 
+Title:  The birth control encyclical. 
+650 #0 $a Birth control $x Moral and ethical aspects.   
+650 #0 $a Birth control $x Religious aspects $x Catholic 
+            Church. 
+610 20 $a Catholic Church $x Doctrines. 
+ 
+ 
+
+
+<<<PAGE 5>>>
+ 
+Religious Aspects of Topics  H 1998 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1998 Page 5 
+ 
+August 2020 
+ 
+5.  When to use and when to cancel existing headings. 
+ 
+a.  Headings with religions or denominations as parenthetical qualifiers.  Do not 
+establish new headings of the following type: 
+ 
+ 
+150 ## $a Amulets (Hinduism) 
+150 ## $a Faith (Judaism) 
+150 ## $a Prophecy (Christianity) 
+150 ## $a Children (Christian theology) 
+ 
+Continue to use existing headings of this type if they are appropriate for the work being 
+cataloged with respect to both the topic and the religion or denomination.  If, however, it 
+becomes necessary to establish a new heading in order to provide for a religion or 
+denomination for which there is not an established heading, establish the new heading in 
+the form [topic]–Religious aspects–[religion or denomination] and cancel all of the 
+parenthetically qualified headings that have been established for the same topic. 
+ 
+ 
+Note:  The headings God (Christianity), God (Hinduism), and other similar 
+headings for God with parenthetical qualifiers are authorized exceptions.  New 
+headings for God with parenthetical qualifiers may be established. 
+ 
+ 
+b.  Religions or denominations under non-religious topics.  Change any existing 
+provisions for subdividing a non-religious topic directly by particular religions or 
+denominations when they are encountered.  For example, the following heading was 
+changed: 
+ 
+ 
+150 ## $a Marriage $x Catholic Church 
+ 
+ 
+Change such headings to incorporate the subdivision –Religious aspects, as described in 
+this instruction sheet and in H 2015. 
+
+
+<<<PAGE 6>>>
+H 1998  Religious Aspects of Topics 
+ 
+ 
+ 
+H 1998 Page 6 
+Subject Headings Manual 
+August 2020 
+5.  When to use and when to cancel existing headings.  (Continued) 
+ 
+c.  “And” headings.  In general, retain and assign only those “and” headings that refer 
+to broad disciplines discussed from the standpoint of religion in general or of specific 
+religions.  Examples: 
+ 
+ 
+150 ## $a Communism and religion 
+150 ## $a Buddhism and politics 
+ 
+ 
+Do not retain any “and” heading that incorporates the name of an individual denomina-
+tion, for example, Theater and the Russian Orthodox Church.  Change such headings 
+to the preferred form [topic]–Religious aspects–[name of religion or denomination].  
+When changing an “and” heading, make a UF reference from the former heading to the 
+new heading. 
+ 
+ 
+“And” headings of this type are now established less frequently than in the past since the 
+preferred method of indicating the religious aspect of an inherently non-religious topic is 
+now [topic]–Religious aspects–[religion or denomination]. 

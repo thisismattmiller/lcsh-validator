@@ -1,0 +1,49 @@
+
+
+<<<PAGE 1>>>
+ 
+Partial Title Added Entries  H 150 
+ 
+ 
+ 
+Subject Headings Manual 
+H 150 Page 1 
+ 
+June 2013 
+BACKGROUND:  Until January 1995, subject catalogers assigned a partial title added entry 
+when a term or phrase embedded in a title contained subject information not adequately 
+represented by the assigned subject headings or a "used for" (UF) reference (4XX field) in the 
+subject authority file.  This practice was designed to bring the term or phrase to the entry 
+position and make it retrievable in card catalogs, print catalogs, or systems dependent on 
+left-match browse rather than keyword searching.  These partial title added entries were 
+assigned in 740 fields with catalogers' notes recorded in 952 fields to justify them.  With the 
+implementation of the second phase of format integration at the Library of Congress in January 
+1995, the 740 field in MARC 21 was redefined and is no longer available to provide added entry 
+access to varying forms of titles.  The 246 field is used for title added entries related to the 245 
+field, for example, portions of titles, parallel titles, and alternate forms, as well as varying forms 
+of title found elsewhere on an item.  However, now that widespread use of keyword searching 
+enables terms in titles to be retrieved whether or not they appear in the left-most position, 
+catalogers no longer make partial title added entries for subject cataloging purposes.      
+ 
+ 
+ 
+ 
+ 
+1.  Partial title added entry not used.  Do not assign a partial title added entry for subject 
+cataloging purposes, either in a 740 field or a 246 field. 
+ 
+ 
+2.  Use of 653 field.  If there are special circumstances that necessitate recording the varying 
+form of a word appearing in a title that is judged to be significant for subject access but not 
+adequately covered by the assigned subject headings, record the term in a 653 field for 
+uncontrolled subject terms following the procedures in H 160.  Do not add a term to the 653 
+field that duplicates a term appearing in another searchable field. 
+ 
+ 
+LC practice: 
+3.  Deletion of partial title added entries.  Make no systematic attempt to delete partial title 
+added entries assigned for subject cataloging purposes from existing bibliographic records 
+cataloged when the practice was in effect.  Delete partial title added entries assigned for subject 
+cataloging purposes when they are covered by newly established subject headings being assigned 
+to existing bibliographic records as part of normal bibliographic file maintenance (cf. H 200, sec. 
+14). 

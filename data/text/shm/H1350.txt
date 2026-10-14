@@ -1,0 +1,103 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Case Studies and Cases H 1350 | Page 1 
+ 
+ 
+Case Studies and Cases 
+H 1350 
+A. Background ............................................................................................................................... 1 
+B. Recent revisions ........................................................................................................................ 1 
+C. Definitions ................................................................................................................................. 2 
+D. Case method ............................................................................................................................. 2 
+E. Case studies .............................................................................................................................. 2 
+F. Cases ......................................................................................................................................... 2 
+G. Methodology ............................................................................................................................ 3 
+H. Authorship ................................................................................................................................ 3 
+Revision history ............................................................................................................................. 3 
+A. Background 
+The subdivision *--Cases*, clinical reports, statistics, formerly used under medical headings, 
+was discontinued in 1979 in favor of the subdivisions *--Case studies* and *--Statistics*. The 
+subdivisions *--Case studies* and *--Cases* are now the only authorized free-floating 
+subdivisions used for descriptions of cases or works about them. This instruction sheet provides 
+guidelines for assigning the subdivisions *--Case studies* and *--Cases* and the heading *Case 
+method*. It also provides guidelines on cataloging works about conducting and writing case 
+studies. 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Case studies*. To replace a form subdivision that includes a demographic group, also assign 
+Library of Congress Demographic Groups Terms (LCDGT) to bring out the audience of the 
+resource being cataloged, e.g. *German speakers* or *Arabic, Students of*. 
+B. Recent revisions 
+2026-07: Updated template. Added instructions related to LCGFT implementation. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Case Studies and Cases H 1350 | Page 2 
+ 
+ 
+C. Definitions 
+Case studies: descriptions of one or more recorded instances illustrating the conditions of a 
+particular field, from which general principles may be drawn 
+D. Case method 
+Use the heading *Case method* as a topical heading for general works on the use of recorded 
+case studies as a method of instruction. 
+E. Case studies 
+Case studies are descriptions of one or more recorded instances illustrating the conditions of a 
+particular field, from which general principles may be drawn. Use the free-floating subdivision *-
+-Case studies* under classes of persons, ethnic groups, and topical headings, except legal 
+headings. 
+Under medical headings, including names of diseases, use this subdivision for professional 
+description or analysis of one or more case histories on the topic. 
+Also use this subdivision under names of individual corporate bodies for case studies involving 
+those corporate bodies. 
+Code the subdivision as a form subdivision ($v) for works consisting of case studies and as a 
+topical subdivision ($x) for works that discuss case studies. 
+LC practice: Assign as subject headings the focus of the case study. Also assign the LCGFT term 
+appropriate to the form and/or genre of the resource in hand, e.g. LCGFT *Case studies*. 
+Examples: 
+650 #0 $a Women farmers $z India $v Case studies. 
+650 #0 $a Juvenile delinquency $x Case studies. 
+650 #0 $a AIDS (Disease) $v Case studies. 
+650 #0 $a Blood-vessels $x Endoscopic surgery $x Case studies. 
+610 20 $a Camden County Children's Shelter $v Case studies. 
+610 20 $a United Nations $x Case studies $v Bibliography. 
+LC practice: 
+650 #0 $a Women farmers $z India. 
+655 #7 $a Case studies. $2 lcgft 
+F. Cases 
+Use the free-floating form subdivision *--Cases* under topical legal headings for compilations of 
+court or regulatory agency decisions on the topic, including reporters or casebooks for students. 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Case Studies and Cases H 1350 | Page 3 
+ 
+ 
+LC practice: Assign as subject headings the appropriate legal headings for compilations of court 
+or regulatory agency decisions on a topic. Also assign the LCGFT term appropriate to the form 
+and/or genre of the resource in hand, e.g. LCGFT *Casebooks (Law)*. 
+Examples: 
+650 #0 $a Estates (Law) $v Cases. 
+LC practice: 
+650 #0 $a Estates (Law) 
+655 #7 $a Court decisions and opinions. $2 lcgft 
+ 
+650 #0 $a Torts $v Cases. 
+LC practice: 
+650 #0 $a Torts. 
+655 #7 $a Casebooks (Law) $2 lcgft 
+Note: For non-topical compilations, use either *Law reports, digests, etc.* (for reporters) or 
+*Law--Cases* (for casebooks), as appropriate. 
+LC practice: For non-topical compilations, assign the LCGFT term appropriate to the form 
+and/or genre of the resource in hand, e.g. LCGFT *Casebooks (Law)*. 
+Also use the free-floating topical subdivision *--Cases* under topical legal headings for works 
+about compilations of court or regulatory agency decisions on the topic, including reporters or 
+casebooks for students. 
+G. Methodology 
+For works on the methodology of conducting case studies on a particular topic, see H 2020. 
+H. Authorship 
+For works on the authorship of case studies in a particular discipline, use the free-floating topical 
+subdivision *--Authorship* under the heading for the discipline (e.g., *Psychiatry--Authorship*). 
+Revision history 
+2026-07: Updated template. Added instructions related to LCGFT implementation. 

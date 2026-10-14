@@ -1,0 +1,309 @@
+
+
+<<<PAGE 1>>>
+ 
+Dynasties, Royal Houses, etc.  H 1574 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1574 Page 1 
+ 
+September 2013 
+BACKGROUND:  In subject heading practice two types of headings have been used for works 
+discussing named dynasties and royal houses: 
+ 
+[ . . . ] dynasty 
+[ . . . ], House of 
+ 
+The terminology used in reference sources usually determines which of the two types of headings 
+to use.  The heading [ . . . ] dynasty is generally used for non-European royal houses; [ . . . ], 
+House of for European royal houses.  The heading [ . . . ], House of is used for an individual 
+royal house, that is, a ruling family of a monarchy.  Works that discuss several royal houses of 
+a region or country are assigned the heading for the region or country in question with the 
+free-floating subdivision BKings and rulers. 
+ 
+Individual aristocratic or noble families are established as [ . . . ] family, for example, Malatesta 
+family; Tokugawa family.  For guidelines concerning establishing family names, see H 1631.  
+For dukes, counts, and earls, see sec. 3, below. 
+ 
+In some instances, named dynasties and royal houses are also used as period subdivisions, for 
+example, ChinaBHistoryBHan dynasty, 202 B.C.-220 A.D.; FranceBHistoryBHouse of Valois, 
+1328-1589.  Since headings of this type emphasize a specific historical period rather than an 
+individual dynasty or royal house, this instruction sheet does not discuss period subdivisions 
+consisting of named dynasties or royal houses. 
+ 
+In the past, some named dynasties were established in a form similar to headings for classes of 
+persons, for example, Abbasids, Buwayhids.  These headings may be changed to the form [ . . . ] 
+dynasty as they are encountered. 
+ 
+ 
+ 
+ 
+1.  [ . . . ] dynasty. 
+ 
+a.  Form and usage of headings.  Establish named dynasties as straight phrase headings 
+consisting of the adjectival form of the name of the dynasty and the English word 
+dynasty.  Do not use the vernacular equivalent of the word dynasty.  Add whenever 
+possible the span of years of a particular dynasty.  Tag these headings 100, with first 
+indicator 3 and second indicator blank. 
+ 
+Do not use BBiography or BHistory after [ . . . ] dynasty headings. 
+
+
+<<<PAGE 2>>>
+H 1574  Dynasties, Royal Houses, etc. 
+ 
+ 
+ 
+H 1574 Page 2 
+Subject Headings Manual 
+September 2013 
+1.  [ . . . ] dynasty.  (Continued) 
+ 
+b.  References.  In addition to appropriate 400 fields, add a 551 (broader term) field 
+with the heading [country]BKings and rulers.   Examples: 
+ 
+ 
+100 3# $a Malla dynasty 
+551 ## $w g $a Nepal $x Kings and rulers 
+ 
+ 
+ 
+100 3# $a Achaemenid dynasty, $d 559-330 B.C. 
+400 3# $a Achaemenians 
+400 3# $a Achaemenidae 
+400 3# $a Achaemenids 
+400 3# $a Hakhamanishiya 
+551 ## $w g $a Iran $x Kings and rulers 
+ 
+ 
+ 
+ 
+2.  [ . . . ], House of. 
+ 
+a.  Form and usage of headings.  Establish individual royal houses as inverted phrase 
+headings consisting of the name of the royal house and the English phrase House of.  
+Do not use the vernacular equivalent of the phrase House of.  Tag these headings 100, 
+with first indicator 3 and second indicator blank. 
+ 
+For works that discuss the members of the ruling family of a monarchy, use either the 
+appropriate [ . . . ], House of heading or [name of ruler]BFamily, if the work discusses 
+solely the immediate family of a particular ruler. 
+ 
+For works that discuss specific types of royalty of a country, use the free-floating 
+subdivision BKings and rulers under the country, or the headings Emperors (May Subd 
+Geog) Queens (May Subd Geog), Princes (May Subd Geog), Princesses (May Subd 
+Geog), or Sultans (May Subd Geog). 
+ 
+For works that discuss persons or offices associated with a royal household, use the 
+heading Royal household (May Subd Geog). 
+ 
+Do not use BBiography or BHistory after [ . . . ], House of headings. 
+
+
+<<<PAGE 3>>>
+ 
+Dynasties, Royal Houses, etc.  H 1574 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1574 Page 3 
+ 
+September 2013 
+2.  [ . . . ], House of. 
+ 
+ 
+b.  References. 
+ 
+ 
+(1) UF references.  Add appropriate 400 fields providing variant forms of the 
+name.  Also add 400 fields with the uninverted form of the heading and its 
+variants. 
+ 
+ 
+ 
+ 
+(2) Broader terms.  Add a 551 (broader term) field with the heading [country of 
+origin]BKings and rulers or [country most closely identified with royal 
+house]BKings and rulers.  Do not make broader terms from [country]BKings 
+and rulers to indicate countries ruled by the particular royal house. 
+ 
+ 
+ 
+Examples: 
+ 
+ 
+ 
+100 3# $a Anjou, House of 
+400 3# $a Angevins 
+400 3# $a Angio, House of 
+400 3# $a House of Angio 
+400 3# $a House of Anjou 
+551 ## $w g $a France $x Kings and rulers 
+ 
+ 
+ 
+ 
+ 
+100 3# $a Saxe-Coburg-Gotha, House of 
+400 3# $a Coburg, House of 
+400 3# $a House of Coburg 
+400 3# $a House of Saxe-Coburg-Gotha 
+551 ## $w g $a Germany $x Kings and rulers 
+ 
+ 
+
+
+<<<PAGE 4>>>
+H 1574  Dynasties, Royal Houses, etc. 
+ 
+ 
+ 
+H 1574 Page 4 
+Subject Headings Manual 
+September 2013 
+3.  [ . . . ], Dukes of; [ . . . ], Counts of; [ . . . ], Earls of. 
+ 
+a.  Form of heading.  Establish individually named houses of dukes, counts, or earls as 
+inverted phrase headings.  Such headings are based on a place name followed by a 
+comma and the phrase Dukes of, Counts of, or Earls of, as appropriate.  Do not use the 
+vernacular equivalents of the phrases Dukes of or Counts of.  Tag these headings 100, 
+with first indicator 3 and second indicator blank. 
+ 
+Although such headings normally include a place name, do not convert the name to an 
+RDA form.  For example, use the form Spoleto, Dukes of rather than Spoleto (Italy), 
+Dukes of. 
+ 
+ 
+b.  References. 
+ 
+(1) UF references.  Add a 400 field with the straight form of the heading for the 
+specific noble house. 
+ 
+(2) Broader terms.  Add a 550 (broader term) field with the heading NobilityB 
+[country]. 
+ 
+Examples: 
+ 
+100 3# $a Devonshire, Dukes of 
+400 3# $a Dukes of Devonshire 
+550 ## $w g $a Nobility $z England 
+ 
+ 
+ 
+100 3# $a Parma, Dukes of 
+400 3# $a Dukes of Parma 
+550 ## $w g $a Nobility $z Italy 
+ 
+ 
+ 
+100 3# $a Toulouse, Counts of 
+400 3# $a Counts of Toulouse 
+550 ## $w g $a Nobility $z France 
+ 
+ 
+ 
+100 3# $a Gloucester, Earls of 
+400 3# $a Earls of Gloucester 
+550 ## $w g $a Nobility $z England 
+
+
+<<<PAGE 5>>>
+ 
+Dynasties, Royal Houses, etc.  H 1574 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1574 Page 5 
+ 
+September 2013 
+4.  Assignment of headings.  In accordance with the provisions of H 1330 and H 1845 for 
+biography and historical materials, generally assign an additional heading for place, with 
+subdivisions designating the special emphasis of the work.  Examples: 
+ 
+ 
+Title:  Biographies of the Shah kings of Nepal. 
+600 30 $a Shah dynasty, $d 1768- 
+651 #0 $a Nepal $x Kings and rulers $v Biography. 
+ 
+ 
+ 
+Title:  Gupta civilization : a study in Indian civilization. 
+600 30 $a Gupta dynasty. 
+651 #0 $a India $x Civilization $y To 1200. 
+ 
+ 
+ 
+Title:  The Romanovs; three centuries of an ill-fated dynasty. 
+600 30 $a Romanov, House of. 
+651 #0 $a Russia $x Kings and rulers $v Biography. 
+ 
+ 
+ 
+Title:  The House of Medici : its rise and fall. 
+600 30 $a Medici, House of. 
+651 #0 $a Florence (Italy) $x History $y 1421-1737. 
+650 #0 $a Nobility $z Italy $z Florence $v Biography. 
+ 
+ 
+ 
+Title:  The iconography of the House of Windsor. 
+600 30 $a Windsor, House of $v Pictorial works. 
+651 #0 $a Great Britain $x Kings and rulers $v Pictorial 
+            works. 
+650 #0 $a Queens $z Great Britain $v Pictorial works. 
+650 #0 $a Princes $z Great Britain $v Pictorial works. 
+650 #0 $a Princesses $z Great Britain $v Pictorial works. 
+ 
+ 
+ 
+Title:  Personal events from the lives of the Coburgs of Belgium. 
+600 30 $a Saxe-Coburg-Gotha, House of.   
+651 #0 $a Belgium $x Kings and rulers $v Biography. 
+
+
+<<<PAGE 6>>>
+H 1574  Dynasties, Royal Houses, etc. 
+ 
+ 
+ 
+H 1574 Page 6 
+Subject Headings Manual 
+September 2013 
+4.  Assignment of headings.  (Continued) 
+ 
+Do not assign an additional heading for place if the subject assigned would be too broad in scope 
+to be of value for retrieval purposes.  For example, the heading EuropeBKings and rulers is 
+not assigned to the following work: 
+ 
+ 
+Title:  Saxe-Coburg-Gotha kings of Europe. 
+600 30 $a Saxe-Coburg-Gotha, House of. 
+ 
+ 
+If [name of ruler]BFamily is assigned because a work discusses solely the immediate family of a 
+ruler, assign the additional heading [ . . . ], House of as well as headings for place with 
+appropriate subdivisions.  Example: 
+ 
+ 
+Title:  The last of the Romanovs : Czar Nicholas II and the murder of his 
+family. 
+600 00 $a Nicholas $b II, $c Emperor of Russia,  
+            $d 1868-1918.   
+600 00 $a Nicholas $b II, $c Emperor of Russia, 
+            $d 1868-1918 $x Family.   
+600 30 $a Romanov, House of. 
+  
+ 
+ 
+ 
+650 #0 $a Emperors $z Russia  $v Biography. 
+651 #0 $a Russia $x History $y Nicholas II, 1894-1917. 
+ 
+ 
+ 
+ 
+5.  Subdivisions used under individual dynasties, royal houses, etc.  See H 1120. 

@@ -1,0 +1,205 @@
+
+
+<<<PAGE 1>>>
+ 
+Natural Language in Topical Subject Headings  H 306 
+ 
+ 
+ 
+Subject Headings Manual 
+H 306 Page 1 
+ 
+June 2013 
+BACKGROUND:  In the past many subject headings were established in inverted form, for 
+example, Chemistry, Analytic; Insurance, Health; Bridges, Concrete.  In 1983 a decision was 
+made to create most new headings in direct form using natural language.  The inverted form 
+was retained for topical or form headings qualified by languages, nationalities, and ethnic 
+groups.  Since 1983 the number and types of headings established in inverted form have been 
+gradually reduced.  This instruction sheet provides guidelines for formulating new topical or 
+form headings in direct or inverted form, but is not intended to prescribe every type of heading 
+or situation. 
+ 
+ 
+1.  Natural language headings.  Except for those headings covered by sec. 2, establish new 
+topical or form headings in straight form, using natural language, even if similar headings 
+previously established are inverted.  Examples: 
+ 
+ 
+150 ## $a Older women 
+   [not 
+150 ## $a Women, Older] 
+ 
+150 ## $a Agricultural chemistry 
+   [not 
+150 ## $a Chemistry, Agricultural] 
+ 
+150 ## $a Anonymous art 
+   [not 
+150 ## $a Art, Anonymous] 
+ 
+150 ## $a Deaf bus drivers 
+   [not 
+150 ## $a Bus drivers, Deaf] 
+ 
+ 
+Apply the above rule also to headings qualified by adjectives indicating religion (including the 
+adjectives Jewish and Islamic), Christian denomination, or monastic or religious order.  
+Examples: 
+ 
+ 
+150 ## $a Catholic hospitals 
+150 ## $a Hindu cave temples 
+150 ## $a Jewish day schools 
+150 ## $a Benedictine art 
+150 ## $a Coptic embroidery 
+150 ## $a Islamic jewelry 
+
+
+<<<PAGE 2>>>
+H 306  Natural Language in Topical Subject Headings 
+ 
+ 
+ 
+H 306 Page 2 
+Subject Headings Manual 
+June 2013 
+2.  Inverted headings. 
+ 
+a.  Language, nationality, or ethnic group qualifiers.  Establish topical or form 
+headings qualified by languages, nationalities, or ethnic groups in inverted form.  
+Examples: 
+ 
+ 
+150 ## $a Art, French 
+150 ## $a Cooking, Chinese 
+150 ## $a National characteristics, Argentine 
+150 ## $a Poets, Kannada 
+150 ## $a Revolutionary poetry, Bulgarian 
+150 ## $a Songs, Greek (Modern) 
+ 
+ 
+ 
+Exceptions:   
+ 
+(1) Language and literature headings.  The following language, literary, 
+and related headings are established in normal word order.  Literary 
+forms not on this list are established in inverted order. 
+ 
+ 
+150 ## $a [...] diaries 
+150 ## $a [...] drama 
+150 ## $a [...] drama (Comedy) 
+150 ## $a [...] drama (Tragedy) 
+150 ## $a [...] drama (Tragicomedy) 
+150 ## $a [...] essays 
+150 ## $a [...] farces 
+150 ## $a [...] fiction 
+150 ## $a [...] imprints 
+150 ## $a [...] language 
+150 ## $a [...] letters 
+150 ## $a [...] literature 
+150 ## $a [...] newspapers 
+150 ## $a [...] periodicals 
+150 ## $a [...] philology 
+150 ## $a [...] poetry 
+150 ## $a [...] prose literature 
+150 ## $a [...] wit and humor 
+150 ## $a [...] wit and humor, Pictorial 
+
+
+<<<PAGE 3>>>
+ 
+Natural Language in Topical Subject Headings  H 306 
+ 
+ 
+ 
+Subject Headings Manual 
+H 306 Page 3 
+ 
+June 2013 
+2.  Inverted headings. 
+ 
+a.  Language, nationality, or ethnic group qualifiers. 
+ 
+Exceptions:  (Continued) 
+ 
+(2) U.S. ethnic groups. Establish topical or form headings qualified by 
+ethnic groups in the United States, or by Indian groups, in direct form.  
+Examples: 
+ 
+ 
+150 ## $a African American college students 
+150 ## $a Chinese American architects 
+150 ## $a Mexican American art 
+150 ## $a Hawaiian philosophy 
+150 ## $a Navajo textile fabrics 
+150 ## $a Aztec art 
+ 
+ 
+ 
+b.  Time period.  Establish headings qualified by time period in inverted form (cf. 
+H 620).  Examples: 
+ 
+ 
+150 ## $a History, Ancient 
+150 ## $a Aesthetics, Modern 
+150 ## $a Prayers, Medieval 
+150 ## $a Fountains, Renaissance 
+ 
+ 
+ 
+c.  Artistic style.  Establish headings with qualifiers for artistic style in inverted form (cf. 
+H 1250).  Examples: 
+ 
+ 
+150 ## $a Painting, Baroque 
+150 ## $a Architecture, Gothic 
+150 ## $a Arts, Primitive 
+150 ## $a Pottery, Renaissance 
+150 ## $a Sculpture, Rococo 
+
+
+<<<PAGE 4>>>
+H 306  Natural Language in Topical Subject Headings 
+ 
+ 
+ 
+H 306 Page 4 
+Subject Headings Manual 
+June 2013 
+2.  Inverted headings.  (Continued) 
+ 
+d.  Fossils.  Establish headings for types of fossils in inverted form (cf. H 1332, sec. 10). 
+ Examples: 
+ 
+150 ## $a Invertebrates, Fossil 
+150 ## $a Teeth, Fossil 
+150 ## $a Decapoda (Crustacea), Fossil 
+ 
+e.  Music headings.  Establish headings with the following qualifiers in inverted form: 
+ 
+150 ## $a [...], Arranged 
+150 ## $a [...], Sacred 
+150 ## $a [...], Secular 
+150 ## $a [...], Unaccompanied 
+ 
+f.  Battles.  See H 1285. 
+ 
+g.  Geographic headings.  See H 690. 
+ 
+h.  Names of fictitious and legendary characters.  See H 1795. 
+ 
+i.  Royal houses, etc.  See H 1574. 
+ 
+ 
+LC practice: 
+3.  Changing existing headings.   
+ 
+If all headings of the type being proposed were established in inverted form, consider the 
+feasibility, if time and workload permit, of changing them when establishing the first instance of 
+heading in straight form in order to avoid introducing inconsistency. 
+ 
+If a mixed pattern exists (that is, if some headings are inverted and some are in straight form), 
+propose new headings in straight form.  Change inverted headings if time and workload permit. 
+Change is especially encouraged if few similar inverted headings with few bibliographical 
+records exist. 

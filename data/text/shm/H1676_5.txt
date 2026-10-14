@@ -1,0 +1,52 @@
+
+
+<<<PAGE 1>>>
+ 
+Inspection  H 1676.5 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1676.5 Page 1 
+ 
+June 2013 
+BACKGROUND:  This instruction sheet provides guidelines for assigning the free-floating 
+subdivision BInspection and for using phrase headings for particular types of inspection. 
+ 
+ 
+ 
+1.  Merchandise and products.  Use the free-floating subdivision BInspection (May Subd 
+Geog) under types of merchandise and products for works on methods of examining them to 
+determine their fitness for marketing.  Example: 
+ 
+650 #0 $a Lumber $x Inspection. 
+ 
+2.  Machines, engineering structures, and types of buildings.  Use the free-floating 
+subdivision BInspection (May Subd Geog) under types of machines, engineering structures, and 
+buildings for works on methods and procedures for determining compliance with safety 
+regulations.  Example: 
+ 
+650 #0 $a Automobiles $x Inspection $z Virginia. 
+ 
+3.  Plants and animals.  Use the free-floating subdivision BInspection (May Subd Geog) under 
+individual and groups of plants and domestic animals for works on procedures for examining 
+them to determine the presence of diseases or pests.  Examples:  
+ 
+650 #0 $a Cattle $x Inspection. 
+650 #0 $a Corn $x Inspection. 
+650 #0 $a Poultry $x Inspection. 
+ 
+4.  Military services.  Assign the free-floating subdivision BInspection under names of 
+individual military services for works on official examinations of the service to determine and 
+report on its state of readiness for duty.  Example: 
+ 
+610 10 $a United States. $b Army $x Inspection. 
+ 
+5.  Phrase headings.  Do not use the free-floating subdivision BInspection under topics if a 
+phrase heading for the concept has already been established.  Examples: 
+ 
+150 ## $a Factory inspection 
+150 ## $a Mine inspection 
+ 
+When assigning phrase headings of this type, verify that a 450 field of the type [topic]B 
+Inspection appears in the authority record.  Make such a reference, if it does not already exist.   

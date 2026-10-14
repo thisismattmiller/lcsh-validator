@@ -1,0 +1,144 @@
+
+
+<<<PAGE 1>>>
+ 
+Census  H 1366 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1366 Page 1 
+ 
+September 2013 
+BACKGROUND:  Subject headings of the type [place]BCensus or [ethnic group]BCensus are 
+assigned to works that consist of, or discuss, data obtained as a result of censuses.  Specific 
+censuses are identified by adding the date, or the number and date, to the subdivision.  Prior to 
+the implementation of AACR2, descriptive catalogers assigned a related-work added entry to 
+works consisting of data obtained as a result of specific censuses, for example, United States.  
+Census Office.  10th census, 1880.  Under RDA, all census publications are entered under title, 
+and related-work added entries are not made.  Subject catalogers are always responsible for 
+identifying and designating specific censuses when cataloging census publications. 
+ 
+ 
+ 
+1.  General rule.  Use the subdivision BCensus under names of places or ethnic groups for 
+works consisting of official counts of the population of a place or group, generally including 
+vital statistics and other classified information relating to social and economic conditions; or for 
+works that discuss censuses.  Code BCensus as a $v subfield if the work consists almost 
+entirely of statistical data from a census, such as an official edition of the census.  Code it as an 
+$x subfield if the work consists primarily of analysis and discussion of the census data, even 
+though it may include some actual statistics as well.  Examples: 
+ 
+Title:  Counting America : the story of the United States census.  
+ 
+651 #0 $a United States $x Census. 
+ 
+Title:  Population changes among the northern Plains Indians. 
+[an analysis of data from various censuses] 
+ 
+ 
+650 #0 $a Indians of North America $z Great Plains  
+          $x Census. 
+ 
+ 
+For works limited to a specific census add the date of the census to the subdivision.  Examples: 
+ 
+Title:  Census of India, 1991 :  historical and world perspective.  
+ 
+651 #0 $a India $x Census, 1991. 
+ 
+Title:  Census of population (1990) : Asian and Pacific Islanders in the United 
+          States.  
+[work consists of data extracted from the 1990 census and published 
+        by the Bureau of the Census] 
+650 #0 $a Asian Americans $v Census, 1990.   
+650 #0 $a Pacific Islander Americans $v Census, 1990. 
+650 #0 $a United States $v Census, 1990. 
+ 
+
+
+<<<PAGE 2>>>
+H 1366  Census 
+ 
+ 
+ 
+H 1366 Page 2 
+Subject Headings Manual 
+September 2013 
+2.  When to assign a census heading.  If a work consists of, or discusses, data abstracted from 
+a census, assign census headings of the above type to the work. 
+ 
+Assign a heading for the jurisdiction conducting the official count.  If the locality surveyed is 
+different from the jurisdiction conducting the count, assign a heading for both.  Designate the 
+specific census if it is possible to do so.  Example: 
+ 
+Title:  The 1990 federal census of California : an analysis of the data. 
+651 #0 $a United States $x Census, 1990. 
+651 #0 $a California $x Census, 1990. 
+ 
+3.  Special topic and a census.  If the work contains information abstracted from a particular 
+census on a special topic, assign a heading for the census and for the topic.  Example: 
+ 
+Title:  Census of housing (1990) 
+650 #0 $a Housing $z United States $v Statistics.   
+651 #0 $a United States $v Census, 1990. 
+ 
+4.  Special topic, census, and locality.  If the work contains information abstracted from a 
+particular national census on a topic and special locality within the country of the census, assign 
+a heading for all three aspects, the national census, the topic, and the special locality.  Example: 
+ 
+Title:  Occupations in Virginia : data from the 1970 census. 
+650 #0 $a Occupations $z Virginia $v Statistics.   
+651 #0 $a Virginia $v Census, 1970.   
+651 #0 $a United States $v Census, 1970. 
+ 
+5.  Genealogical works.  Works belonging to this genre consist of information taken from 
+individual census returns for the sake of its genealogical value.  They are not normally 
+statistical in nature. 
+ 
+To such works assign both the genealogical headings required to bring out their special contents 
+(see, for example, H 1631 and H 1845) and the census headings required by this instruction sheet. 
+ These headings include the following: 
+ 
+650 #0 $a [typical genealogical headings, such as Registers of 
+          births, etc.; Slave records; Military pensions]. 
+651 #0 $a [locality] $v Genealogy. 
+651 #0 $a [national census heading]. 
+651 #0 $a [heading for locality of census]. 
+
+
+<<<PAGE 3>>>
+ 
+Census  H 1366 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1366 Page 3 
+ 
+September 2013 
+5.  Genealogical works.  (Continued) 
+ 
+Examples: 
+ 
+Title:  Free Black heads of household in the New York State federal census, 
+1830. 
+650 #0 $a African Americans $z New York (State)  
+          $v Genealogy.   
+650 #0 $a Heads of households $z New York (State)  
+651 #0 $a New York (State) $v Genealogy.   
+651 #0 $a New York (State) $v Census, 1830.   
+651 #0 $a United States $v Census, 1830. 
+ 
+ 
+Title:  A census of pensioners in Ohio for the Revolutionary War as returned 
+by the marshals during the taking of the 6th federal census in 
+1840. 
+650 #0 $a Military pensions $z United States $y Revolution, 
+          1775-1783.   
+651 #0 $a Ohio $v Genealogy. 
+651 #0 $a United States $x History $y Revolution,  
+          1775-1783 $v Registers.   
+651 #0 $a Ohio $v Census, 1840. 
+651 #0 $a United States $v Census, 1840. 
+ 

@@ -1,0 +1,51 @@
+
+
+<<<PAGE 1>>>
+ 
+Professional Ethics  H 1949 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1949 Page 1 
+ 
+June 2013 
+BACKGROUND:  The heading and subdivision Professional ethics are assigned to works that 
+discuss rules of conduct and moral principles as they apply to all types of occupations and 
+professions and to activities carried out in the workplace.  This instruction sheet provides 
+guidelines for assigning this heading and subdivision. 
+ 
+ 
+ 
+ 
+1.  General.  Assign the heading Professional ethics (May Subd Geog) to general works not 
+limited to a particular occupation that discuss the rules of conduct, moral principles, etc., to be 
+followed by persons in performing their professional duties. 
+ 
+ 
+2.  Occupational groups and types of employees.  In accordance with H 1100, assign the 
+free-floating subdivision BProfessional ethics (May Subd Geog) under occupational groups and 
+types of employees to works that discuss rules of conduct, questions of right and wrong, etc., to 
+be considered by persons in carrying out their duties in a particular field of work.  Examples: 
+ 
+ArchitectsBProfessional ethicsBFrance 
+School librariansBProfessional ethicsBUnited States 
+PlumbersBProfessional ethics 
+ 
+ 
+3.  Moral and ethical aspects.  To works that discuss both the rules of professional conduct in a 
+particular occupation and the broad moral and ethical principles that pertain to the discipline 
+associated with the occupation, assign an additional heading for the discipline subdivided by the 
+free-floating subdivision BMoral and ethical aspects (May Subd Geog), in accordance with H 
+1998.  Example: 
+ 
+Title:  Surgery : ethical dilemmas. 
+650 #0 $a Surgeons $x Professional ethics. 
+650 #0 $a Surgery $x Moral and ethical aspects. 
+ 
+Do not use the subdivision BMoral and ethical aspects under a topic if a phrase heading has 
+been provided instead.  New phrase headings of this type should not be established, but existing 
+ones may still be used.  Examples: 
+ 
+Business ethics 
+Medical ethics 

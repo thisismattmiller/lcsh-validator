@@ -1,0 +1,145 @@
+
+
+<<<PAGE 1>>>
+ 
+Statistics  H 2095 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2095 Page 1 
+ 
+June 2013 
+BACKGROUND:  The heading Statistics and related headings and subdivisions are assigned 
+to works consisting of or discussing numerical data or methods of compiling and using the data. 
+This instruction sheet provides guidelines for assigning this heading and related headings and 
+subdivisions. 
+ 
+1.  Statistics.                                                                
+ 
+a.  General.  Assign the heading Statistics to general works consisting of or discussing 
+statistics not limited to a particular topic or place or to general works on methods of 
+compiling, studying, and using statistics.  
+ 
+b.  Special.  Assign the free-floating subdivision BStatistics under names of countries, 
+cities, etc., individual corporate bodies, classes of  persons, ethnic groups, and topical 
+headings, for works consisting of or discussing statistics about these subjects.  Code the 
+subdivision as a $v subfield for works consisting of statistical data and as an $x subfield 
+for works discussing statistical data.  Examples: 
+ 
+650 #0 $a Asian Americans $x Statistics. 
+610 20 $a Catholic Church $x Statistics. 
+650 #0 $a Construction industry $v Statistics. 
+650 #0 $a Indians of North America $x Statistics. 
+650 #0 $a Universities and colleges $v Statistics. 
+ 
+Do not establish new phrase headings for specific types of statistics.  Existing phrase 
+headings, such as Library statistics, Mathematical statistics, or Medical statistics, 
+may continue to be used. 
+ 
+ 
+2.  Medical statistics. 
+ 
+a.  General.  Assign the heading Medical statistics to general works consisting of or 
+discussing medical statistics and to works on methods of compiling, studying, and using 
+these statistics. 
+ 
+b.  By place.  Assign the free-floating subdivision BStatistics, Medical under countries, 
+cities, etc., to works consisting of or discussing medical statistics from these places.  
+Code the subdivision as a $v subfield for works consisting of statistical data and as an $x 
+subfield for works discussing statistical data.  
+
+
+<<<PAGE 2>>>
+H 2095  Statistics 
+ 
+ 
+ 
+H 2095 Page 2 
+Subject Headings Manual 
+June 2013 
+2.  Medical statistics.  (Continued) 
+ 
+c.  By topic.  Assign the free-floating subdivision BStatistics under special medical 
+topics, including diseases, for works consisting of or discussing statistics pertaining to 
+these topics, for example, CancerBStatistics; Medical careBStatistics.  Code the 
+subdivision as a $v subfield for works consisting of statistical data and as an $x subfield 
+for works discussing statistical data.   
+ 
+ 
+d.  Both.  Assign headings of the type [topic]B[place]BStatistics and [place]BStatistics, 
+Medical to works consisting of or discussing statistics about a medical topic in a 
+particular place. 
+ 
+ 
+3.  Vital statistics.   
+ 
+a.  General.   Assign the heading Vital statistics to works consisting of or discussing 
+birth, marriage, and/or death statistics and to works on methods of compiling, studying, 
+and using these statistics. 
+ 
+ 
+b.  By place or ethnic group.   
+ 
+(1) General.  Assign the free-floating subdivision BStatistics, Vital under names 
+of countries, cities, etc., or under individual ethnic groups for works consisting of 
+or discussing vital statistics from these places or pertaining to these groups.  
+Code the subdivision as a $v subfield for works consisting of statistical data and 
+as an $x subfield for works discussing statistical data.   
+ 
+(2) Both.  Assign a heading of the type [name of ethnic group]B[place]B 
+Statistics, Vital and a heading of the type [place]BStatistics, Vital to works 
+consisting of or discussing statistics pertaining to an ethnic group in a particular 
+place. 
+ 
+ 
+c.  By name of war.  Assign headings of the type [name of war]BCasualtiesBStatistics 
+under individual wars for works consisting of or discussing statistics of military 
+personnel injured, killed, captured, etc., during the war.  The subdivision BCasualties 
+(Statistics, etc.) was discontinued in 1996 (cf. H 1200). 
+
+
+<<<PAGE 3>>>
+ 
+Statistics  H 2095 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2095 Page 3 
+ 
+June 2013 
+4.  Statistical methods.   
+ 
+a.  General.  Assign the heading Statistics to general works on methods of compiling, 
+studying, and using statistics. 
+ 
+b.  Special topics.  Assign the free-floating subdivision BStatistical methods under 
+topics to works on statistical or probabilistic methods as applied to the topic. 
+ 
+Do not establish phrase headings for statistical methods applied to particular topics.  
+However, existing phrase headings may continue to be used, for example, Educational 
+statistics. 
+ 
+ 
+5.  Statistical services.   
+ 
+a.  General.  Assign the heading Statistical services to general works describing 
+services that collect numerical data.  
+ 
+b.  Places and topics.  Assign the free-floating subdivision BStatistical services under 
+names of countries, cities, etc., for works on services located in those places that collect 
+statistical data.  Use this subdivision under topical headings for works on services that 
+collect statistical data on those topics. 
+ 
+ 
+6.  Text vs. numerical data.  If the work being cataloged consists of both text and statistics on a 
+topic, assign headings to bring out both aspects of the work, provided that the work is more than 
+twenty percent statistical and stresses the importance of the numerical data. 
+ 
+ 
+7.  Nature of work/nature of contents codes.  For works whose contents are at least twenty 
+percent statistical, assign the code s in the appropriate position in field 008/24-27 in serial or 
+book records (the boxes labeled Nature of contents on the 008 input screen in the LC ILS) .  Do 
+not assign this code to works that discuss statistics, statistical methods, or statistical services, but 
+do not actually contain numerical data. 

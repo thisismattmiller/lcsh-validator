@@ -1,0 +1,95 @@
+
+
+<<<PAGE 1>>>
+ 
+Surveys  H 2149 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2149 Page 1 
+ 
+June 2013 
+BACKGROUND:  This instruction sheet covers headings for surveys in which relevant data on 
+natural phenomena or human attributes, behavior, or activities are gathered by examination,  
+observation, measurement, counting, sampling, polling, questionnaire, etc.  Examples of such 
+headings are Arts surveys; Bird surveys; Demographic surveys; Drug abuse surveys; 
+Ecological surveys; Family life surveys; Fish surveys; Fishing surveys; Handicraft surveys; 
+Mass media surveys; Nutrition surveys; River surveys; Traffic surveys; Vegetation surveys.   
+Use of the subdivision BSurveys under place names is not covered by this instruction sheet.  
+Headings for surveys of natural or human phenomena are used as both form and topical 
+headings.  When used as form headings, they are assigned in combination with headings that 
+represent the topic or specific focus of the survey. 
+ 
+ 
+ 
+ 
+1.  Survey headings as topical headings.  Use survey headings for works about surveys.  
+Divide the headings by place as needed.  Use the subdivision BMethodology if the work 
+discusses the techniques of gathering or processing data for surveys.  Example: 
+ 
+Title: Conducting small-scale nutrition surveys: a field manual. 
+650 #0 $a Nutrition surveys $x Methodology $v Handbooks, 
+            manuals, etc. 
+ 
+ 
+Assign additional headings or subdivisions as needed for specific methods or techniques.  
+Examples: 
+ 
+Title: Measuring and monitoring biological diversity. Standard methods for 
+amphibians. 
+650 #0 $a Amphibian surveys $x Methodology. 
+   
+650 #0 $a Amphibians $x Monitoring. 
+   
+650 #0 $a Biological diversity $x Measurement. 
+ 
+ 
+Title:  Estimation and sampling variance in health surveys. 
+   
+650 #0 $a Health surveys $x Statistical methods. 
+   
+650 #0 $a Estimation theory. 
+   
+650 #0 $a Sampling (Statistics) 
+ 
+ 
+Title:  On the causes and effects of non-response : Norwegian experiences. 
+         
+650 #0 $a Social surveys $x Response rate $z Norway. 
+
+
+<<<PAGE 2>>>
+H 2149  Surveys 
+ 
+ 
+ 
+H 2149 Page 2 
+Subject Headings Manual 
+June 2013 
+2.  Survey headings as form headings.  Use survey headings also to designate works that 
+contain or report results of surveys.  Divide such headings by place to indicate the locality of 
+the survey.  Assign additional headings as necessary to bring out the specific topic of the survey. 
+ Examples: 
+ 
+ 
+Title:  Soil survey of Bergen County, New Jersey. 
+650 #0 $a Soils $z New Jersey $z Bergen County $v Maps. 
+650 #0 $a Soil surveys $z New Jersey $z Bergen County. 
+ 
+ 
+Title:  Old growth in the East : a survey. 
+650 #0 $a Old growth forests $z East (U.S.) 
+650 #0 $a Forest surveys $z East (U.S.) 
+ 
+ 
+Title:  New Zealanders and the arts : results from a survey of attendance and 
+interest patterns in the performing and visual arts. 
+650 #0 $a Arts audiences $z New Zealand. 
+650 #0 $a Arts surveys $z New Zealand. 
+ 
+ 
+Title:  Time use of rural women : a six-village survey in Bangladesh. 
+650 #0 $a Rural women $x Time management $z Bangladesh. 
+650 #0 $a Time management surveys $z Bangladesh. 
+ 

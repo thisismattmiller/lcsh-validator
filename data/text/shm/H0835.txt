@@ -1,0 +1,94 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Geographic Subdivision in Name Authority Records H 835| Page 1 
+ 
+ 
+Geographic Subdivision in Name Authority 
+Records 
+H 835 
+A. Background ................................................................................................................................. 1 
+B. Recent revisions .......................................................................................................................... 1 
+C. Current practice .......................................................................................................................... 1 
+Revision history ............................................................................................................................... 3 
+A. Background 
+Prior to February 1999, subdivision treatment decisions for selected geographic name headings 
+that fell outside the scope of the standard rules, or whose geographic status was ambiguous or 
+not readily apparent, were recorded in 667 fields in the name authority records for those 
+entities, as in the following examples. 
+Examples: 
+151 ## $a Sabah 
+667 ## $a SUBJECT USAGE: As a geographic subdivision, this heading is used 
+indirectly through Malaysia. 
+ 
+151 ## $a Washington (D.C.) 
+667 ## $a SUBJECT USAGE: As a geographic subdivision, this heading is used 
+directly. 
+B. Recent revisions 
+2025-06: Updated to newest template. 
+C. Current practice 
+In February 1999, the Library of Congress began using the 781 field (Subdivision Heading Linking 
+Entry—Geographic Subdivision) in name authority records for geographic name headings that 
+may also be used as geographic subdivisions. This field is used to record the geographic 
+subdivision form in a format this is both eye-readable and manipulable for purposes of machine 
+validation. 
+Since 1999, the 667 field is also used to record the fact that a geographic name heading is not 
+appropriate for use as a geographic subdivision. Headings for geographic entities within cities 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Geographic Subdivision in Name Authority Records H 835| Page 2 
+ 
+ 
+that are qualified by the name of the city, such as city sections, districts, neighborhoods, etc., 
+may not be used as geographic subdivisions. For such headings, a 667 field with standard text 
+may be added, as in the following example. 
+Example: 
+151 ## $a Hollywood (Los Angeles, Calif.) 
+667 ## $a SUBJECT USAGE: This heading is not valid for use as a geographic 
+subdivision. 
+According to instructions in Descriptive Cataloging Manual Z1, NACO and LC catalogers should 
+include 781 fields in new geographic name authority records for jurisdictions that may be used 
+as geographic subdivisions and 667 fields in new geographic name authority records for 
+geographic headings that are not appropriate for use as geographic subdivisions. They may also 
+add such fields to existing geographic name authority records as needed. In revising an existing 
+name authority record that contains a subject cataloging usage note in a 667 field indicating the 
+proper geographic subdivision form, they may delete the 667 field and replace it with a 781 
+field. 
+For instructions on including the 667 and 781 fields in authority records for proposed new 
+geographic subject headings, see H 836 and H 200, sec. D.8. For instructions on determining the 
+appropriate geographic subdivision form, see H 830. Catalogers should contact the Policy, 
+Training, and Cooperative Programs Division at policy@loc.gov for guidance on complicated or 
+unusual situations.  
+The following are examples of geographic subdivision data in 781 fields in name authority 
+records: 
+Examples: 
+151 ## $a France 
+781 #0 $z France 
+ 
+151 ## $a Paris (France) 
+781 #0 $z France $z Paris 
+ 
+151 ## $a Lycia 
+781 #0 $z Turkey $z Lycia 
+ 
+151 ## $a Sydney (N.S.W.) 
+781 #0 $z Australia $z Sydney (N.S.W.) 
+ 
+151 ## $a Valencia (Spain : Region) 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Geographic Subdivision in Name Authority Records H 835| Page 3 
+ 
+ 
+781 #0 $z Spain $z Valencia (Region) 
+When in doubt as to how a given geographic name heading is to be used as a geographic 
+subdivision, first search the LC Database to determine whether a decision has already been 
+made and recorded in a 667 SUBJECT USAGE field or a 781 field. If either of these fields is found 
+in the authority record for the heading in question, follow the instructions as presented in the 
+record. 
+Revision history 
+2025-06: Updated to newest template. 
+2024-08: Updated to new template, consequent slight rearrangement of text, added examples, 
+and corrected document metadata. 

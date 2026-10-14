@@ -1,0 +1,242 @@
+
+
+<<<PAGE 1>>>
+ 
+Pattern Headings: Musical Instruments  H 1161 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1161 Page 1 
+ 
+August 2020 
+PATTERN:  Piano; Clarinet; Violin 
+ 
+ 
+TYPES OF HEADINGS COVERED BY THE PATTERN:  Headings for individual 
+instruments, including brands and models of instruments, and families of instruments.  
+Examples:  Flute; Fender guitar; Viols; Wind instruments.  This category does not include 
+the general heading Musical instruments. 
+ 
+ 
+CONFLICTS:  Any subdivision listed here can be used as a free-floating subdivision under any 
+heading belonging to the category if it is appropriate and no conflict exists in the subject 
+authority file.  Subject authority records may exist for headings employing variant phrases or 
+subdivisions equivalent to subdivisions on this list. 
+ 
+LC practice: 
+If an exceptional variant form is to be retained, make a UF reference from the equivalent 
+free-floating subdivision form following the procedures in H 195 if the reference does not yet 
+exist.  Otherwise, submit a proposal to change the variant form along with all bibliographic 
+records requiring correction following the procedures in H 193. 
+ 
+ 
+Note:  Most form subdivisions coded $v in this list may also be used as topical 
+subdivisions coded $x when assigned to works about the form (see H 1075, sec. 1.d.). 
+ 
+ 
+$x Acoustics 
+$x Bowing 
+$x Breath control 
+$v Catalogs and collections  (May Subd Geog) 
+$v Chord diagrams 
+$x Construction  (May Subd Geog) 
+$x Customizing  (May Subd Geog) 
+$x Embouchure 
+$x Fingering 
+$x Fingering $v Charts, diagrams, etc. 
+$x Harmonics 
+$x Instruction and study  (May Subd Geog) 
+
+
+<<<PAGE 2>>>
+H 1161  Pattern Headings: Musical Instruments 
+ 
+ 
+ 
+H 1161 Page 2 
+Subject Headings Manual 
+August 2020 
+$x Instruction and study $v Juvenile 
+$x Intonation 
+$x Maintenance and repair 
+$v Manufacturers' catalogs 
+$v Methods 
+$v Methods $v Group instruction 
+$v Methods $v Juvenile 
+$v Methods $v Self-instruction 
+$v Methods (Alternative rock)1 
+$v Methods (Alternative rock) $v Group instruction1  
+$v Methods (Alternative rock) $v Self-instruction1 
+$v Methods (Barrelhouse)1 
+$v Methods (Barrelhouse) $v Group instruction1 
+$v Methods (Big band)1 
+$v Methods (Big band) $v Group instruction1 
+$v Methods (Big band) $v Self-instruction1 
+$v Methods (Bluegrass)1 
+$v Methods (Bluegrass) $v Group instruction1 
+$v Methods (Bluegrass) $v Self-instruction1 
+$v Methods (Blues)1 
+$v Methods (Blues) $v Group instruction1 
+$v Methods (Blues) $v Self-instruction1 
+$v Methods (Blues-rock)1 
+$v Methods (Blues-rock) $v Group instruction1 
+$v Methods (Blues-rock) $v Self-instruction1 
+$v Methods (Boogie woogie)1 
+$v Methods (Boogie woogie) $v Group instruction1 
+$v Methods (Boogie woogie) $v Self-instruction1 
+$v Methods (Bop)1 
+$v Methods (Bop) $v Group instruction1 
+$v Methods (Bop) $v Self-instruction1 
+$v Methods (Celtic)1 
+$v Methods (Celtic) $v Group instruction1 
+$v Methods (Celtic) $v Self-instruction1 
+$v Methods (Country)1 
+$v Methods (Country) $v Group instruction1 
+$v Methods (Country) $v Self-instruction1 
+
+
+<<<PAGE 3>>>
+ 
+Pattern Headings: Musical Instruments  H 1161 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1161 Page 3 
+ 
+August 2020 
+$v Methods (Dixieland)1 
+$v Methods (Dixieland) $v Group instruction1 
+$v Methods (Dixieland) $v Self-instruction1 
+$v Methods (Folk)1 
+$v Methods (Folk) $v Group instruction1 
+$v Methods (Folk) $v Self-instruction1 
+$v Methods (Funk)1 
+$v Methods (Funk) $v Group instruction1 
+$v Methods (Funk) $v Self-instruction1 
+$v Methods (Gospel)1 
+$v Methods (Gospel) $v Group instruction1 
+$v Methods (Gospel) $v Self-instruction1 
+$v Methods (Heavy metal)1 
+$v Methods (Heavy metal) $v Group instruction1 
+$v Methods (Heavy metal) $v Self-instruction1 
+$v Methods (Honky-tonk)1 
+$v Methods (Honky-tonk) $v Group instruction1 
+$v Methods (Honky-tonk) $v Self-instruction1 
+$v Methods (Jazz)1 
+$v Methods (Jazz) $v Group instruction1 
+$v Methods (Jazz) $v Self-instruction1 
+$v Methods (Jazz-rock)1 
+$v Methods (Jazz-rock) $v Group instruction1 
+$v Methods (Jazz-rock) $v Self-instruction1 
+$v Methods (Latin jazz)1 
+$v Methods (Latin jazz) $v Group instruction1 
+$v Methods (Latin jazz) $v Self-instruction1 
+$v Methods (Popular music)1 
+$v Methods (Popular music) $v Group instruction1 
+$v Methods (Popular music) $v Self-instruction1 
+$v Methods (Progressive rock)1 
+$v Methods (Progressive rock) $v Group instruction1 
+$v Methods (Progressive rock) $v Self-instruction1 
+$v Methods (Ragtime)1 
+$v Methods (Ragtime) $v Group instruction1 
+$v Methods (Ragtime) $v Self-instruction1 
+$v Methods (Reggae)1 
+
+
+<<<PAGE 4>>>
+H 1161  Pattern Headings: Musical Instruments 
+ 
+ 
+ 
+H 1161 Page 4 
+Subject Headings Manual 
+August 2020 
+$v Methods (Reggae) $v Group instruction1 
+$v Methods (Reggae) $v Self-instruction1 
+$v Methods (Rhythm and blues)1 
+$v Methods (Rhythm and blues) $v Group instruction1 
+$v Methods (Rhythm and blues) $v Self-instruction1 
+$v Methods (Rock)1 
+$v Methods (Rock) $v Group instruction1 
+$v Methods (Rock) $v Self-instruction1 
+$v Methods (Salsa)1 
+$v Methods (Salsa) $v Group instruction1 
+$v Methods (Salsa) $v Self-instruction1 
+$v Methods (Swing)1 
+$v Methods (Swing) $v Group instruction1 
+$v Methods (Swing) $v Self-instruction1 
+$v Methods (Tangos)1 
+$v Methods (Western swing)1 
+$v Methods (Western swing) $v Group instruction1 
+$v Methods (Western swing) $v Self-instruction1 
+$x Multiphonics 
+$v Orchestral excerpts 
+$x Pedaling 
+$x Performance  (May Subd Geog) 
+$x Religious aspects2   
+$v Studies and exercises 
+$v Studies and exercises $v Juvenile 
+$v Studies and exercises (Alternative rock)1 
+$v Studies and exercises (Big band)1 
+$v Studies and exercises (Bluegrass)1 
+$v Studies and exercises (Blues)1 
+$v Studies and exercises (Blues-rock)1 
+$v Studies and exercises (Boogie woogie)1 
+$v Studies and exercises (Bop)1 
+$v Studies and exercises (Celtic)1 
+$v Studies and exercises (Country)1 
+$v Studies and exercises (Dixieland)1 
+$v Studies and exercises (Folk)1 
+
+
+<<<PAGE 5>>>
+ 
+Pattern Headings: Musical Instruments  H 1161 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1161 Page 5 
+ 
+August 2020 
+$v Studies and exercises (Funk)1 
+$v Studies and exercises (Gospel)1 
+$v Studies and exercises (Heavy metal)1 
+$v Studies and exercises (Honky-tonk)1 
+$v Studies and exercises (Jazz)1 
+$v Studies and exercises (Jazz-rock)1 
+$v Studies and exercises (Latin jazz)1 
+$v Studies and exercises (Left hand) 
+$v Studies and exercises (Popular music)1 
+$v Studies and exercises (Progressive rock)1 
+$v Studies and exercises (Ragtime)1 
+$v Studies and exercises (Reggae)1 
+$v Studies and exercises (Rhythm and blues)1 
+$v Studies and exercises (Right hand) 
+$v Studies and exercises (Rock)1 
+$v Studies and exercises (Salsa)1 
+$v Studies and exercises (Swing)1 
+$v Studies and exercises (Western swing)1 
+$x Tonguing 
+$x Tuning  (May Subd Geog) 
+ 
+ 
+ 
+NOTE 
+ 
+1When using the subdivisions –Methods or –Studies and exercises qualified by a style of music, assign an 
+additional heading for the style of music subdivided by –Instruction and study.  Examples: 
+ 
+650 #0 $a Banjo $v Methods (Bluegrass) 
+650 #0 $a Bluegrass music $x Instruction and study. 
+ 
+ 
+650 #0 $a Guitar $v Studies and exercises (Rock)  
+650 #0 $a Rock music $x Instruction and study. 
+ 
+2May be subdivided topically by a religion or Christian denomination. Editorially establish each heading of the type 
+[instrument]–Religious aspects–[name of religion or denomination]. For instructions, see H 1998. 
+  
+ 

@@ -1,0 +1,219 @@
+
+
+<<<PAGE 1>>>
+ 
+Local History and Genealogical Source Materials  H 1845 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1845 Page 1 
+ 
+June 2013 
+BACKGROUND:  Prior to December 1975, many publications of interest to genealogists and 
+local historians were assigned headings of the type [topic]B[place] but headings of the type 
+[place]B[topic] were not necessarily required.  This instruction sheet presents guidelines to 
+assure that at least one heading of the latter type is assigned to these works.  These provisions 
+apply to all subject areas regardless of where a publication is classified. 
+ 
+ 
+ 
+GENERAL PROVISIONS: 
+ 
+ 
+ 
+1.  General rule.  Assign an additional heading of the type [place]B[topic] to all materials that 
+deal with a particular place and would be of interest to genealogists and local historians if, in 
+accordance with normal cataloging guidelines, the works would receive only headings of the 
+type [topic]B[place]. 
+ 
+ 
+ 
+2.  Subdivisions to be used.  Assign the additional [place]B[topic] heading using a subdivision 
+from the following list, or other appropriate subdivision: 
+ 
+BAntiquities 
+BBiography 
+BChurch history 
+BDescription and travel 
+BEconomic conditions 
+BEthnic relations 
+BGenealogy 
+BHistory [or one of its various modifications, such as BHistory, Military] 
+BPolitics and government 
+BRace relations 
+BReligion 
+BReligious life and customs 
+BSocial conditions 
+BSocial life and customs 
+ 
+If none of the more specific subdivisions is appropriate, use either BGenealogy or 
+BHistory.  Do not assign the place name without subdivision. 
+
+
+<<<PAGE 2>>>
+H 1845  Local History and Genealogical Source Materials 
+ 
+ 
+ 
+H 1845 Page 2 
+Subject Headings Manual 
+June 2013 
+GENEALOGICAL MATERIALS: 
+ 
+1.  General rule.  Assign a heading of the type [place]BGenealogy to works of value in the 
+study of the origin, descent, and relationship of named families, especially to those works which 
+assemble such information from family papers, deeds, wills, public records, parish registers, 
+cemetery inscriptions, ship lists, etc.  The following is a list of typical headings of interest to 
+genealogists which, when assigned to a work, usually require the assignment of the additional 
+heading: 
+ 
+Archives 
+Burial records 
+Business records 
+Church records and registers 
+Court records 
+Criminal registers 
+Death notices 
+Deeds 
+Epitaphs 
+Families of royal descent 
+Heraldry 
+Inscriptions 
+Inventories of decedents' estates 
+Land grants 
+ 
+ 
+Marriage records 
+Mining claims  
+Names 
+Obituaries 
+Probate records 
+Public land records 
+Public records 
+Registers of births, etc. 
+Slave records 
+TaxationBLists 
+Titles of honor and nobility 
+Trials 
+Voting registers 
+Wills 
+ 
+2.  Types of places to bring out.  Assign the additional heading even if the place is a country or 
+larger region such as a continent, for example, Great BritainBGenealogy.  Examples: 
+ 
+Title:  Wills and their whereabouts. 
+650 #0 $a Wills $z Great Britain. 
+add: 
+651 #0 $a Great Britain $x Genealogy. 
+ 
+Title:  Tombstone inscriptions and family records of Jefferson Co. 
+650 #0 $a Registers of births, etc. $z Ohio $z Jefferson 
+          County.   
+650 #0 $a Cemeteries $z Ohio $z Jefferson County.   
+650 #0 $a Inscriptions $z Ohio $z Jefferson County. 
+add: 
+651 #0 $a Jefferson County (Ohio) $v Genealogy. 
+ 
+Title:  Index to Chester County, Pennsylvania, wills and intestate records,  
+ 
+ 
+ 
+1713-1850. 
+650 #0 $a Probate records $z Pennsylvania $z Chester  
+          County $ v Indexes.  
+add: 
+651 #0 $a Chester County (Pa.) $x Genealogy $v Indexes. 
+
+
+<<<PAGE 3>>>
+ 
+Local History and Genealogical Source Materials  H 1845 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1845 Page 3 
+ 
+June 2013 
+HISTORICAL MATERIALS, INCLUDING LOCAL HISTORICAL MATERIALS: 
+ 
+1.  General rule.  Assign an additional [place]B[topic] heading to works of interest to historians 
+and genealogists, provided that the place is below the country level, such as a city, county, state, 
+region of a country, etc. 
+ 
+Identification of materials:  The following list of subject headings is an aid in 
+identifying the types of publications of interest to historians.  If the first heading 
+assigned is a heading listed here, an additional [place]B[topic] heading is usually 
+required. 
+ 
+Activities: 
+ 
+Cattle trade; Country life; Frontier and pioneer life; Fur trade; 
+Mountain life; Plantation life; PrintingBHistory; Ranch life. 
+ 
+Archaeological evidence: 
+ 
+Christian 
+antiquities; 
+Earthworks 
+(Archaeology); 
+Excavations 
+(Archaeology); Industrial archaeology; Kitchen-middens; Mounds. 
+ 
+Classes of persons: 
+ 
+Cowboys; Lawyers; Minorities; Physicians; Pirates; Politicians 
+ 
+Monuments and memorials: 
+ 
+Cemeteries; Epitaphs; Historical markers; Inscriptions; Memorials; 
+Monuments; Sepulchral monuments; Soldiers' monuments; Statues; 
+Tombs; War memorials. 
+ 
+Particular uses of land, historic structures: 
+ 
+Bridges; Churches; Farms; Fountains; Historic sites; Hotels; Taverns 
+(Inns); Mines and mineral resources; Parks; Roads. 
+ 
+Historic events: 
+ 
+Battles; Earthquakes; Epidemics; Fires; Storms; and similar headings. 
+
+
+<<<PAGE 4>>>
+H 1845  Local History and Genealogical Source Materials 
+ 
+ 
+ 
+H 1845 Page 4 
+Subject Headings Manual 
+June 2013 
+HISTORICAL MATERIALS, INCLUDING LOCAL HISTORICAL MATERIALS: 
+ 
+(Continued) 
+ 
+2.  Biographical works.  For biographical works (collective or individual), assign the heading 
+[place]BBiography if the biographees have been closely identified with a particular locality. 
+ 
+Examples illustrating the provisions of sec. 1-2: 
+ 
+Title:  Early German printers of Lancaster. 
+650 #0 $a Printers $z Pennsylvania $z Lancaster  
+          $v Biography. 
+add: 
+651 #0 $a Lancaster (Pa.) $v Biography. 
+ 
+ 
+Title:  Sign posts; place names in the history of Burlington County, New Jersey. 
+650 #0 $a Names, Geographical $z New Jersey $z Burlington 
+          County. 
+add: 
+651 #0 $a Burlington County (N.J.) $x History, Local. 
+ 
+ 
+Title:  Charcoal kilns; historic structures report of Santa Fe. 
+650 #0 $a Charcoal kilns $z New Mexico $z Santa Fe. 
+add: 
+651 #0 $a Santa Fe (N.M.) $x Antiquities. 
+ 

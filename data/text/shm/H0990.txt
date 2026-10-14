@@ -1,0 +1,73 @@
+
+
+<<<PAGE 1>>>
+ 
+New York (N.Y.)  H 990 
+ 
+ 
+ 
+Subject Headings Manual 
+H 990 Page 1 
+ 
+June 2013 
+BACKGROUND:  Until February 1996, following a longstanding tradition, the heading New 
+York (N.Y.) was used as a geographic subdivision directly after topics.  At that time, this 
+exceptional practice was eliminated.  New York City is now treated in the same manner as 
+other cities in the state of New York, that is, it is used as a geographic subdivision through New 
+York (State).  Example: 
+ 
+650 #0 $a Arts $z New York (State) $z New York. 
+ [not 650 #0 $a Arts $z New York (N.Y.)]   
+ 
+Bibliographic records in the Library of Congress database that reflected the previous practice 
+were updated in 1996.  This instruction sheet provides guidelines for the subject heading 
+assignment of New York (N.Y.), related headings for areas associated with the city, and 
+headings for its city sections and boroughs and their coextensive counties. 
+ 
+ 
+1.  General rule.  Assign the heading New York (N.Y.) for works on the city of New York.  
+As a geographic subdivision after topics, use the name of the city indirectly through New York 
+(State).  Example:  
+ 
+650 #0 $a Theater $z New York (State) $z New York. 
+ [not 650 #0 $a Theater $z New York (N.Y.)] 
+ 
+ 
+2.  Geographic qualifier.  Use the form (New York, N.Y.) as a geographic qualifier when 
+establishing headings for features in the city of New York according to provisions of H 1334 for 
+buildings and other structures; H 1925 for parks and gardens; and H 2098 for streets and roads.  
+Include the name of a borough of New York City in the qualifier only if it is necessary to resolve 
+a conflict between two or more features of the same name, for example,  Hudson Street 
+(Manhattan, New York, N.Y.).   
+ 
+ 
+3.  Areas associated with New York City.  Following the definitions given in H 790, the 
+following headings are established to cover various areas associated with the city:  New York 
+Metropolitan Area; New York Suburban Area; and New York Region.  These headings are 
+not qualified because they each encompass a tri-state area consisting of parts of New York, New 
+Jersey, and Connecticut.  As geographic subdivisions, use these headings directly after topics.  
+Examples: 
+ 
+650 #0 $a Housing $z New York Metropolitan Area. 
+650 #0 $a Restaurants $z New York Suburban Area. 
+650 #0 $a Commuting $z New York Region. 
+
+
+<<<PAGE 2>>>
+H 990  New York (N.Y.) 
+ 
+ 
+ 
+H 990 Page 2 
+Subject Headings Manual 
+June 2013 
+4.  City sections, boroughs, counties.  Follow the standard guidelines and procedures given in 
+H 720  for assigning headings from the name authority file for sections of the city, such as 
+Harlem or Greenwich Village, and the five boroughs of New York City:  Bronx, Brooklyn, 
+Manhattan, Queens, and Staten Island. 
+ 
+Name headings for the five counties of New York State that are coextensive with the five 
+boroughs, Bronx County (N.Y.), Kings County (N.Y.), New York County (N.Y.), Queens 
+County (N.Y.), and Richmond County (N.Y.), may be used as subject headings for 
+administrative or legal works that are specifically about, and use the names of, these counties.  
+Assign these headings as geographic subdivisions through New York (State). 

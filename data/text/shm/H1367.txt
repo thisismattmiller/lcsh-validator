@@ -1,0 +1,156 @@
+
+
+<<<PAGE 1>>>
+ 
+Chronology  H 1367 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1367 Page 1 
+ 
+September 2013 
+BACKGROUND:  Chronology is the science of determining the dates and order of events, the 
+arrangement of time in periods, etc., and the actual presentation of events in order of occurrence. 
+This instruction sheet provides guidelines for cataloging works on the science of chronology and 
+works that list events pertaining to a topic, history of a place, etc., in order of occurrence. 
+ 
+ 
+ 
+ 
+ 
+1.  The science of arranging time. 
+ 
+ 
+a.  General.  Assign the heading Chronology to general works on the science of 
+arranging time in fixed periods and of dating events and epochs. 
+ 
+ 
+ 
+b.  Special.  Assign headings of the type Chronology, [adjectival qualifier] or 
+[Adjectival qualifier] chronology to works on the system of chronology practiced in a 
+particular place, civilization, religion, etc.  Examples: 
+ 
+650 #0 $a Chronology, Byzantine. 
+650 #0 $a Jewish chronology. 
+650 #0 $a Chronology, Mexican. 
+ 
+ 
+Exception:  To works on the system of arranging time used by Indians, assign 
+phrase headings in uninverted order, for example, Aztec chronology. 
+ 
+ 
+ 
+2.  Arrangement of events. 
+ 
+ 
+a.  General.  Assign the heading Chronology, Historical to works containing lists of 
+dates and events of world history in order of occurrence. 
+ 
+ 
+Subdivide the heading by the free-floating form subdivision BCharts, diagrams, etc., or 
+by BTables, if appropriate for the work.  
+
+
+<<<PAGE 2>>>
+H 1367  Chronology 
+ 
+ 
+ 
+H 1367 Page 2 
+Subject Headings Manual 
+September 2013 
+2.  Arrangement of events.  (Continued) 
+ 
+b.  Places.  Use the free-floating subdivision BHistoryBChronology under names of 
+regions, countries, cities, etc., for works that contain listings of dates and events in the 
+history of that place, for example, United StatesBHistoryBChronology. 
+ 
+Use the free-floating subdivision BChronology under headings of the type 
+[place]BHistoryB[period subdivision] for chronologies limited to a particular period in 
+the history of a place, for example, Great BritainBHistoryBVictoria, 1837-1901BChro-
+nology. 
+ 
+c.  Topics.  Use the free-floating subdivision BChronology or BHistoryBChronology 
+under topical headings to works containing listings of dates in order of occurrence 
+pertaining to the topic. 
+ 
+If the topic can be divided by BHistory (see H 1647), use BHistoryBChronology, for 
+example, EarthquakesBMexicoBHistoryBChronology.  If the heading is one that is not 
+divided by BHistory, such as headings for music, art, literature, and inherently historical 
+topics, use BChronology without interposing BHistory, for example, Popular mu-
+sicBUnited StatesBChronology; Arts, AmericanBChronology; English dramaB17th 
+centuryBChronology; JapanBEconomic conditionsB1945- BChronology. 
+ 
+Do not use the free-floating subdivision BChronology under a topic if a phrase heading 
+for the concept has been established.  Example: 
+ 
+650 #0 $a Chronology, Historical. 
+ [not 650 #0 $a World history $v Chronology.] 
+ 
+d.  Persons.  Use the free-floating subdivision BChronology under names of individual 
+persons to works that list by date events in the life of the person, or the dates when a 
+person's works were written or published, as well as discussions of the chronology of 
+such events or works. 
+ 
+e.  Corporate bodies.  Use the free-floating subdivision BHistoryBChronology under 
+names of individual corporate bodies for works listing events and dates in the history of 
+the organization.  
+ 
+f.  Ethnic groups.  Use the free-floating subdivision BHistoryBChronology under 
+individual ethnic groups, including Indians, for works listing events and dates in the 
+history of the group.  
+
+
+<<<PAGE 3>>>
+ 
+Chronology  H 1367 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1367 Page 3 
+ 
+September 2013 
+2.  Arrangement of events.  (Continued) 
+ 
+g.  Sacred works.  Use the free-floating subdivision BChronology under uniform titles 
+for sacred works for discussions of the dating and order of occurrence of events 
+mentioned in the sacred work, for example, Book of MormonBChronology.  
+ 
+ 
+ 
+3.  Examples. 
+ 
+Title:  Essays on Jewish chronology. 
+650 #0 $a Jewish chronology. 
+630 00 $a Bible. $p Old Testament $x Chronology. 
+ 
+Title:  Chronology of the first crusade. 
+650 #0 $a Crusades $y First, 1096-1099 $v Chronology. 
+ 
+Title:  Two hundred years of military medicine. 
+610 10 $a United States.  $b Army Medical Department  
+          $x History $v Chronology. 
+650 #0 $a Medicine, Military $z United States $x History  
+          $v Chronology. 
+ 
+Title:  Milestone political events : 1945-1975. 
+650 #0 $a World politics $y 1945- $v Chronology. 
+ 
+Title:  A guide to the published works of Benjamin Constant. 
+600 10 $a Constant, Benjamin, $d 1767-1830 $v Bibliography. 
+600 10 $a Constant, Benjamin, $d 1767-1830 $v Chronology. 
+ 
+Title:  The pages of rock history. 
+650 #0 $a Rock music $v Chronology.  
+ 
+Title:  A chronology of Afro-American history. 
+650 #0 $a African Americans $x History $v Chronology. 
+ 
+Title:  A key to the Mesoamerican reckoning of time. 
+650 #0 $a Indian chronology $z Mexico. 
+650 #0 $a Indian chronology $z Central America. 
+650 #0 $a Maya chronology. 
+650 #0 $a Aztec chronology.  
+ 

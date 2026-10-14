@@ -1,0 +1,68 @@
+
+
+<<<PAGE 1>>>
+ Legal Materials: Law and Legislation and Other Subdivisions  H 1705 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1705 Page 1 
+ 
+January 2014 
+BACKGROUND:  The subdivisions BLaw and legislation; BLegal status, laws, etc.; and 
+BSafety regulations are the authorized subdivisions used to designate the legal aspect of topics.  
+This instruction sheet provides guidelines for the usage of these legal subdivisions.  Any 
+subdivision provided under the pattern heading Labor laws and legislation may be used as a 
+further subdivision under topical headings which use these legal subdivisions, in accordance 
+with H 1154.5. 
+ 
+ 
+ 
+ 
+1.  BLaw and legislation (May Subd Geog).  Use this subdivision under topical headings for 
+works about the legal aspects of the topic, and/or works that contain the text of laws on the topic. 
+ Code the subdivision $x.  Establish new uses of this subdivision editorially, and provide the 
+appropriate reference structure. 
+ 
+Note:  Where BLaw and legislation has been established under a pattern heading, for 
+example, CancerBLaw and legislation, the subdivision is free-floating under headings 
+governed by that pattern. 
+ 
+Do not use BLaw and legislation if: 
+ 
+$ the topical heading itself is inherently legal, for example, Torts; Civil 
+procedure; Domestic relations; Spouse’s share; Adjoining landowners. 
+ 
+Note:  Until 2014, BLaw and legislation was not used under headings for 
+crimes and groups of crimes (e.g., Murder; Computer crimes).  Since 
+works about crimes often discuss their economic, psychological, etc., 
+aspects, and it is useful to explicitly identify works that are about their 
+legal aspects, BLaw and legislation may now be used under headings for 
+crimes and groups of crimes. Each use of the subdivision must be 
+editorially established. 
+ 
+$ a phrase heading exists for the topic, for example, Agricultural laws and 
+legislation; Criminal law; Trade regulation. 
+ 
+$ if the topical heading represents a group of people.  In such cases, use the 
+subdivision BLegal status, laws, etc. 
+ 
+ 
+
+
+<<<PAGE 2>>>
+H 1705  Legal Materials: Law and Legislation and Other Subdivisions 
+ 
+ 
+ 
+H 1705 Page 2 
+Subject Cataloging Manual: Subject Headings 
+January 2014 
+2.  BLegal status, laws, etc. (May Subd Geog).  Use this free-floating subdivision under classes 
+of persons and ethnic groups, for example, Children; Auditors; Japanese Americans. 
+ 
+ 
+3.  BSafety regulations (May Subd Geog).  Use this free-floating subdivision under types of 
+objects, chemicals, materials, machines, installations, industries, or activities, or under names of 
+disciplines, for safety rules or orders which have the force of law, for example, Agricultural 
+machinery; Coal mines and mining; Radiation. 

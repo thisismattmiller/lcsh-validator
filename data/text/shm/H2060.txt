@@ -1,0 +1,101 @@
+
+
+<<<PAGE 1>>>
+ 
+Societies  H 2060 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2060 Page 1 
+ 
+June 2013 
+BACKGROUND:  Past practice in subject cataloging provided several methods to show that a 
+work discussed societies related to a particular subject or to show that a serial was published by 
+a society.  Phrase headings for societies in a particular discipline have been replaced by 
+headings using the subdivision BSocieties, etc. The subdivision BSocieties, periodicals, etc., 
+previously used under names of persons was replaced by the subdivisions BSocieties, etc. and 
+BPeriodicals.  Also discontinued is the practice of using the subdivision BSocieties, etc. to show 
+that a serial publication is issued by a society and contains information about the society. 
+ 
+For classification of society publications, see F 225. 
+ 
+ 
+ 
+ 
+ 
+1.  BSocieties, etc.  Use the subdivision BSocieties, etc. as a free-floating topical subdivision 
+under subjects for works discussing two or more societies or institutions related to those subjects. 
+ Examples: 
+ 
+ 
+ 
+650 #0 $a African Americans $z Massachusetts $x Societies, etc. 
+650 #0 $a Chemistry $x Societies, etc. 
+650 #0 $a Religious literature $x Publishing $x Societies, etc. 
+651 #0 $a United States $x History $y Civil War, 1861-1865  
+          $x Societies, etc. 
+600 10 $a Bolívar, Simón, $d 1783-1830 $x Societies, etc. 
+610 20 $a Catholic Church $z Italy $x Societies, etc. 
+ 
+ 
+ 
+Do not use the subdivision under headings for classes of persons, if the corresponding heading 
+for the discipline can be assigned.  Example:  
+ 
+ 
+ 
+650 #0 $a Engineering $x Societies, etc. 
+  [not 650 #0 $a Engineers $x Societies, etc.] 
+ 
+
+
+<<<PAGE 2>>>
+H 2060  Societies 
+ 
+ 
+ 
+H 2060 Page 2 
+Subject Headings Manual 
+June 2013 
+2.  BSocieties and clubs.  Use the subdivision BSocieties and clubs as a free-floating topical 
+subdivision under headings for age and sex groups for works on organizations devoted to these 
+groups or whose membership is drawn from these groups.  Such works may discuss methods of 
+establishing and conducting these organizations or may discuss specific organizations 
+collectively.  Use the subdivision also under qualified headings for age and sex groups.  
+Examples: 
+ 
+650 #0 $a Boys $x Societies and clubs. 
+650 #0 $a Women $x Societies and clubs. 
+650 #0 $a Rural women $x Societies and clubs. 
+650 #0 $a Jewish women $x Societies and clubs. 
+650 #0 $a Older people $x Societies and clubs. 
+650 #0 $a Minority older people $x Societies and clubs. 
+ 
+ 
+3.  Further subdivision by form subdivision.  The subdivisions BSocieties, etc. and BSocieties 
+and clubs may be further subdivided by any appropriate form subdivision such as BBibliogra-
+phy or BDirectories. 
+ 
+   
+4.  Societies or clubs in a particular place.  For general works on the societies and institutions 
+in a particular place assign the heading Associations, institutions, etc.B[place].  For works 
+discussing collectively the learned institutions or societies of a particular place assign Learned 
+institutions and societiesB[place].  For works discussing collectively the clubs of a particular 
+place assign ClubsB[place]. 
+ 
+ 
+5.  Society publications.  Individual serial publications issued by a society may contain 
+information on business matters of the society and/or information on the topic in which the 
+society specializes.  Assign headings to these works according to the type of information 
+contained. 
+ 
+a.  Business information only.  Assign a heading for the name of the society, with the 
+subdivision BPeriodicals if appropriate. 
+ 
+b.  Topical information only.  Assign the heading or headings for the topic, with the 
+subdivision BPeriodicals if appropriate. 
+ 
+c.  Both business and topical information.  Assign headings for both the society and 
+the topic, with the subdivision BPeriodicals if appropriate. 
+ 

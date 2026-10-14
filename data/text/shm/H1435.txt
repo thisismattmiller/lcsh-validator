@@ -1,0 +1,267 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Commentaries on Individual Works H 1435 | Page 1 
+ 
+ 
+Commentaries on Individual Works 
+H 1435 
+A. Background ............................................................................................................................... 1 
+B. Recent revisions ........................................................................................................................ 2 
+C. Treatment of a work as an edition or as a commentary ........................................................... 2 
+D. Assignment of subject headings to commentaries ................................................................... 2 
+D.1. Name-title or uniform title subject heading ....................................................................... 3 
+D.1.a. General rule ................................................................................................................. 3 
+D.1.b. Determining the correct form ..................................................................................... 3 
+D.1.c. Sacred works (including individual parts) and anonymous classics .............................. 4 
+D.1.d. Commentaries on commentaries ................................................................................ 5 
+D.2. Companion headings .......................................................................................................... 5 
+D.2.a. General rule ................................................................................................................. 5 
+D.2.b. Textual criticism .......................................................................................................... 6 
+D.2.c. Conversion of form headings to topical headings ........................................................ 6 
+D.3. Treatment of works consisting of both original text and commentary .............................. 6 
+D.3.a. If entered under author of original work ..................................................................... 7 
+D.3.b. If entered under the author of the commentary ......................................................... 7 
+Revision history ............................................................................................................................. 7 
+A. Background 
+A commentary is a work that criticizes or comments on another work. It may be published 
+independently or in conjunction with the text of the original work. If a commentary is published 
+with the original work, the decision to treat the item, for subject cataloging purposes, as an 
+edition of the original work or as a commentary should parallel the treatment decision made by 
+the descriptive cataloger in accordance with rule 6.27.1.1 of RDA, which is described below. The 
+central feature in subject cataloging of commentaries is the assignment of a name-title or 
+uniform title subject heading in addition to other headings. This instruction sheet describes the 
+subject headings to be assigned to commentaries and presents criteria for deciding whether to 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Commentaries on Individual Works H 1435 | Page 2 
+ 
+ 
+treat a work as an edition or as a commentary when it consists of a text or texts by one author 
+with commentary by another. For classification of commentaries, see F 570. 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from the Library of Congress Genre/Form Terms (LCGFT), 
+e.g. *Commentaries*. To replace a form subdivision that includes a demographic group, also 
+assign Library of Congress Demographic Groups Terms (LCDGT) to bring out the audience of the 
+resource being cataloged, e.g. *German speakers* or *Arabic, Students of*. 
+B. Recent revisions  
+2026-04: Updated template. Added instructions related to LCGFT implementation. 
+C. Treatment of a work as an edition or as a commentary 
+When a text by one author is published in conjunction with commentary, exegesis, or 
+interpretation by another author, RDA specifies that if the preferred source of information 
+(generally the title page) presents the item as a commentary, the author of the commentary is 
+the foundation of the authorized access point. If the item is presented as an edition, the author 
+or uniform title of the original work is the foundation of the authorized access point. In 
+marginal cases, main entry is made according to the judgment of the descriptive cataloger 
+about the aspect emphasized.  
+This decision generally governs subject cataloging as well: 
+• If the authorized access point is based on the author of the commentary, the work is 
+treated as a commentary. 
+• If the authorized access point is based on the author of the original work or the uniform title 
+appropriate to the original work, the item is treated as an edition of that work. 
+o If 20% or more of the work consists of commentary, the work should be assigned not 
+only those headings, if any, appropriate to the edition of the original work but also 
+the name-title or uniform title subject heading appropriate to commentaries, as 
+described in section D.1, below. 
+D. Assignment of subject headings to commentaries 
+When a work is treated as a commentary, assign the following subject headings: 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Commentaries on Individual Works H 1435 | Page 3 
+ 
+ 
+D.1. Name-title or uniform title subject heading 
+D.1.a. General rule 
+For works entered under an author (personal or corporate), this heading consists of the name 
+of the author followed by a period and the title of the work with any initial article in the 
+nominative case omitted. For works entered under the title, it consists of the uniform title 
+alone. For sacred works and anonymous classics, see section D.1.c. 
+Examples: 
+[These examples are intended to illustrate only this heading; other 
+headings may also be required.] 
+Title: Shakespeare’s English comedy : The merry wives of Windsor in 
+context. 
+600 10 $a Shakespeare, William, $d 1564-1616. $t Merry wives of Windsor. 
+ 
+Title: The church of the poor : a commentary on Paul VI’s encyclical On 
+the development of peoples. 
+610 20 $a Catholic Church. $b Pope (1963-1978 : Paul VI). $t Populorum 
+progressio. 
+ 
+Title: Without fear or favor : the New York times and its times. 
+630 00 $a New York times. 
+With the exception of sacred works, as described in section D.1.c, such elements as language of 
+the text, translator, version, edition, publication date, etc., are not added to this heading. For a 
+commentary on a part of a work, such headings may include part or section designations, for 
+example, *Hippocrates. Epidemics. Book 6.* 
+D.1.b. Determining the correct form 
+LC practice: Generally, catalogers do not create name authority records for name-title 
+combinations or for title-only access points. However, under certain conditions, they may be 
+required to create such records. To ensure that the required heading is formulated correctly, 
+proceed as follows: 
+1. Name authority record exists. Search in the name authority file to determine whether 
+an RDA authority record has been created for the name-title combination or for the 
+uniform title needed. If an RDA authority record exists, assign the heading in the form 
+given in the record, punctuating it as described above. If an authority record has been 
+created for an authorized access point constructed in the form *[author]. [form 
+conventional collective title]. Selections* and a see reference has been made from the 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Commentaries on Individual Works H 1435 | Page 4 
+ 
+ 
+form *[author]. [title page title]*, omit the term *Selections* when assigning the 
+uniform title as a subject heading. 
+2. Name authority record does not exist. If an authority record is not found, request a 
+cataloger with the appropriate skills provide the proper form. 
+3. Name authority record exists but is not RDA. Follow standard name authority 
+cataloging practices to update the record. 
+Note: Once a name-title or uniform title has been formulated by a descriptive cataloger for use 
+as a subject heading in an RDA record, it is not necessary to request the form from the 
+descriptive cataloger each time the heading must be assigned. Therefore, if an RDA 
+bibliographic record exists that uses as a subject heading a name-title combination or a uniform 
+title, assign it in the same form to any new work being cataloged. When in doubt, request the 
+proper form from a descriptive cataloger. 
+D.1.c. Sacred works (including individual parts) and anonymous classics 
+Use as the uniform title subject heading the form of the title that would be used as the main 
+entry for an edition of the work itself. In addition, assign the appropriate form subdivision. 
+LC practice: Do not use a form subdivision of the type *--Commentaries*. Instead, assign an 
+appropriate term or terms from LCGFT, e.g. *Commentaries*, etc.  
+Examples: 
+Title: The Koran : an exegetical commentary. 
+630 00 $a Qur’an $v Commentaries. 
+LC practice: 
+630 00 $a Qur’an. 
+655 #7 $a Commentaries. $2 lcgft 
+ 
+Title: The concept of character in the Apocalypse. 
+630 00 $a Bible. $p Revelation $x Criticism, interpretation, etc. 
+For works discussing versions of sacred works, or of their individual parts, in specific languages, 
+assign the formulation of the uniform title that includes the language. Use the appropriate 
+subdivision after this heading. 
+Example: 
+Title: A history of the English Bible. 
+630 00 $a Bible. $l English $x Versions $x History. 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Commentaries on Individual Works H 1435 | Page 5 
+ 
+ 
+D.1.d. Commentaries on commentaries 
+For a work that is a commentary on another commentary (a phenomenon that occurs most 
+frequently in connection with religious texts), assign the appropriate name-title or uniform title 
+subject heading both for the original work and for the commentary being commented upon. 
+D.2. Companion headings 
+D.2.a. General rule 
+In addition to the name-title or uniform title for the work being discussed, assign, if 
+appropriate, the same topical headings that were or would be assigned to an edition of the 
+work itself. 
+Note: Omit any form subdivisions, such as *--Early works to 1800*, that were added to the 
+headings assigned to the original work, if they are not applicable to the commentary. 
+LC practice: Do not use a form subdivision of the type *--Early works to 1800*. 
+Examples: 
+Original work: Bentham, Jeremy, 1748-1832. The constitutional code. 
+650 #0 $a Constitutional law. 
+Commentary: Rosen, F. Jeremy Bentham and representative democracy : a 
+study of the Constitutional code. 
+600 10 $a Bentham, Jeremy, $d 1748-1832. $t Constitutional code. 
+650 #0 $a Constitutional law. 
+655 #7 $a Commentaries. $2 lcgft 
+ 
+Original work: Berkeley, George, 1685-1753. A treatise concerning the 
+principles of human knowledge. 
+650 #0 $a Knowledge, Theory of $v Early works to 1800. 
+650 #0 $a Idealism $v Early works to 1800. 
+LC practice:  
+650 #0 $a Knowledge, Theory of. 
+650 #0 $a Idealism. 
+655 #7 $a Early works. $2 lcgft 
+Commentary: Luce, A. A. (Arthur Aston), 1882-1977. Berkeley’s 
+immaterialism : a commentary on his A treatise concerning the 
+principles of human knowledge. 
+600 10 $a Berkeley, George, $d 1685-1753. $t Treatise concerning the 
+principles of human knowledge. 
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | Commentaries on Individual Works H 1435 | Page 6 
+ 
+ 
+650 #0 $a Knowledge, Theory of. 
+650 #0 $a Idealism. 
+655 #7 $a Commentaries. $2 lcgft 
+D.2.b. Textual criticism 
+Do not assign such headings if the commentary does not discuss the substantive matter of the 
+original work, but is only a textual criticism. Instead, assign additional headings if needed to 
+bring out the nature or focus of the commentary. 
+Example: 
+Original work: Aristotle. The Nicomachean ethics. 
+Authorized access point: Aristotle. Nicomachean ethics. English 
+650 #0 $a Ethics $v Early works to 1800. 
+LC practice:  
+650 #0 $a Ethics. 
+655 #7 $a Early works. $2 lcgft 
+Commentary: Bywater, Ingram, 1840-1914. Contributions to the textual 
+criticism of Aristotle’s Nicomachean ethics. 
+600 00 $a Aristotle. $t Nicomachean ethics. 
+655 #7 $a Commentaries. $2 lcgft 
+D.2.c. Conversion of form headings to topical headings 
+If the headings assigned to the original work are used only as form headings, convert them to 
+their most appropriate topical equivalents when assigning them as headings to a commentary 
+on the work. 
+Examples: 
+Form heading 
+Topical equivalent 
+651 #0 $a Egypt $x History $v Fiction. 
+651 #0 $a Egypt $x In literature. 
+600 00 $a Yvain $v Legends. 
+600 00 $a Yvain $x Legends $x History and 
+criticism. 
+651 #0 $a United States $x History $y 
+Civil War, 1861-1865 $v Fiction. 
+651 #0 $a United States $x History $y 
+Civil War, 1861-1865 $x Literature and the 
+war. 
+650 #0 $a Agriculture $v Periodicals. 
+650 #0 $a Agriculture $x Periodicals $x 
+History. 
+LC practice:  
+Topical heading with LCGFT 
+Topical equivalent 
+
+
+<<<PAGE 7>>>
+Subject Headings Manual | Commentaries on Individual Works H 1435 | Page 7 
+ 
+ 
+651 #0 $a Egypt $x History. 
+655 #7 $a Political fiction. $2 lcgft 
+651 #0 $a Egypt $x In literature. 
+600 00 $a Yvain. 
+655 #7 $a Legends. $2 lcgft 
+600 00 $a Yvain $x Legends $x History and 
+criticism. 
+651 #0 $a United States $x History $y 
+Civil War, 1861-1865. 
+655 #7 $a Historical fiction. $2 lcgft 
+651 #0 $a United States $x History $y 
+Civil War, 1861-1865 $x Literature and the 
+war. 
+650 #0 $a Agriculture. 
+655 #7 $a Periodicals. $2 lcgft 
+650 #0 $a Agriculture $x Periodicals $x 
+History. 
+D.3. Treatment of works consisting of both original text and commentary 
+D.3.a. If entered under author of original work 
+Assign headings, if any, appropriate to the text of the original work. If the commentary is 20% 
+or more of the work being cataloged, assign also the name-title or uniform title heading 
+appropriate to a commentary on the work. 
+D.3.b. If entered under the author of the commentary 
+Assign the name-title or uniform title heading appropriate to a commentary on the work, and 
+any other headings appropriate to the text of the original work. 
+Revision history 
+2026-04: Updated template. Added instructions related to LCGFT implementation. 

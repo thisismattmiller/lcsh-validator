@@ -1,0 +1,146 @@
+
+
+<<<PAGE 1>>>
+ 
+Training  H 2217 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2217 Page 1 
+ 
+June 2013 
+BACKGROUND:  The subdivisions BTraining of and BIn-service training are assigned under 
+occupational groups and types of employees, including teachers and types of teachers, to works 
+on the history and methods of instructing these groups in order to prepare them for employment 
+or to maintain and upgrade their skills.  The subdivision BTeacher training, formerly used 
+under topical headings, was removed from the free-floating list in 1988.  It is being retained 
+only under Religious education and headings for types of religious education.  This instruction 
+sheet provides guidelines for assigning the subdivisions BTraining of and BIn-service training 
+under occupational groups and types of employees and for assigning the subdivision BTeacher 
+training under Religious education and types of religious education. 
+ 
+ 
+ 
+1.  BTraining of. 
+ 
+a.  General.  Assign the free-floating subdivision BTraining of (May Subd Geog) under 
+headings for occupational groups and types of employees to works on the history and/or 
+methods of instructing persons to prepare them for their occupation. 
+ 
+b.  Language and literature teachers.  Assign the free-floating subdivision BTraining 
+of (May Subd Geog) under the headings Language teachers, Language arts teachers, 
+and headings for types of teachers of language and literature.  Examples: 
+ 
+650 #0 $a English teachers $x Training of $z Southern 
+            States. 
+650 #0 $a French teachers $x Training of $z Canada. 
+ 
+For works on the training of teachers who provide language instruction to foreign 
+speakers, assign an additional heading of the type [...] languageBStudy and 
+teachingBForeign speakers. 
+ 
+c.  Other teachers.  Use the free-floating subdivision BTraining of (May Subd Geog) 
+under Teachers and under headings for specific types of teachers to works on the history 
+and/or methods of instructing teachers to prepare them for their work.  Examples: 
+ 
+650 #0 $a Mathematics teachers $x Training of $z France. 
+650 #0 $a Science teachers $x Training of $z New Jersey. 
+ 
+The practice of assigning BTeacher training as a free-floating subdivision under topical 
+headings has been discontinued. 
+
+
+<<<PAGE 2>>>
+H 2217  Training 
+ 
+ 
+ 
+H 2217 Page 2 
+Subject Headings Manual 
+June 2013 
+1.  BTraining of.  (Continued) 
+ 
+d.  BTraining of vs. BEducation.  Assign the subdivision BEducation (May Subd Geog) 
+ as a free-floating subdivision under occupational groups and types of employees only to 
+works on the general education of these groups or education on special subjects not 
+related to their occupation (cf. H 1579).  Example: 
+ 
+Title:  Political education in the Southern Farmers' Alliance, 1877-1900. 
+610 20 $a National Farmers' Alliance and Industrial 
+            Union $x History. 
+650 #0 $a Farmers $z Southern States $x Political 
+            activity $x History $y 19th century. 
+650 #0 $a Farmers $x Education $z Southern States  
+            $x History $y 19th century. 
+650 #0 $a Civics $x Study and teaching $z Southern 
+            States $x History $y 19th century. 
+650 #0 $a Populism $z Southern States $x History  
+            $y 19th century. 
+ 
+ 
+2.  BIn-service training. 
+ 
+a.  General.  Assign the heading EmployeesBTraining of (May Subd Geog) to general 
+works on training given to employees on the job to help them maintain and upgrade their 
+skills. 
+ 
+ 
+b.  Special.  Assign the free-floating subdivision BIn-service training (May Subd Geog) 
+under occupational groups and types of employees to works on the history and/or 
+methods of providing training for these groups on the job, for example, College 
+teachersBIn-service trainingBUnited States. 
+ 
+ 
+3.  BTeacher training.  Assign the subdivision BTeacher training (May Subd Geog) under 
+Religious education and headings for particular types of religious education to works on the 
+history and methods of training paid employees or volunteers to provide religious instruction in 
+Sunday schools, schools, adult religious education programs, etc. 
+ 
+This subdivision is not free-floating and must be established in the subject authority file for each 
+use. 
+
+
+<<<PAGE 3>>>
+ 
+Training  H 2217 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2217 Page 3 
+ 
+June 2013 
+4.  Examples. 
+ 
+ 
+Title:  Employer involvement in schemes of unified vocational preparation. 
+650 #0 $a Employees $x Training of $z Great Britain. 
+650 #0 $a Occupational training $z Great Britain.  
+ 
+ 
+ 
+Title:  Guide to training needs assessment. 
+650 #0 $a Training needs. 
+650 #0 $a Employees $x Training of. 
+ 
+ 
+ 
+Title:  Diffusion of innovations among training colleges in India. 
+650 #0 $a Teachers $x Training of $z India. 
+650 #0 $a Educational innovations $z India. 
+ 
+ 
+ 
+Title:  Teachers in the arts in Louisiana. 
+650 #0 $a Art teachers $x Training of $z Louisiana. 
+650 #0 $a Art teachers $x In-service training $z Louisiana. 
+650 #0 $a Arts $x Study and teaching $z Louisiana. 
+ 
+ 
+ 
+Title:  Developing leadership for the church's teaching ministry. 
+650 #0 $a Christian education $x Teacher training  
+            $v Handbooks, manuals, etc. 
+650 #0 $a Christian leadership $v Handbooks, manuals, etc. 
+ 

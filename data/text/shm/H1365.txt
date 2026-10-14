@@ -1,0 +1,54 @@
+
+
+<<<PAGE 1>>>
+ 
+Cemeteries  H 1365 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1365 Page 1 
+ 
+September 2013 
+BACKGROUND:  Before August 1996, headings for individual cemeteries were established as 
+geographic headings tagged 151 in either the name authority file or the subject authority file 
+depending upon whether or not they were needed for use as descriptive access points.  After 
+July 1996, all cemeteries are established as corporate name headings tagged 110 in the name 
+authority file.  As a project, CPSO cancelled headings for cemeteries that were established in the 
+subject authority file and replaced them with revised headings in the name authority file.  
+Existing headings for cemeteries in the name authority file have also been retagged to reflect 
+this policy.  For a discussion of the change in policy on establishing headings for cemeteries 
+and other ambiguous named entities, see the background statement in H 405.  Because 
+subject-to-name references are not made in the name authority file, headings for cemeteries no 
+longer have broader term references from CemeteriesB[place] or National cemeteriesB[place].  
+This instruction sheet provides guidelines for assigning names of individual cemeteries as 
+subject headings. 
+ 
+ 
+1.  General rule.  If a heading for an individual cemetery exists in the name authority file in 
+RDA form and is tagged 110, assign it as a subject heading.  If the heading does not exist in the 
+name authority file, or exists but is still tagged 151, establish a new name heading or revise the 
+existing name heading (or refer the work to a descriptive cataloger to do so). 
+ 
+ 
+2.  Assignment of headings.  To works on individual cemeteries, assign an array of headings, if 
+appropriate, to bring out the most important aspects of the work.  Examples: 
+ 
+Title:  Ravenswood Cemetery : tombstone inscriptions. 
+610 20 $a Ravenswood Cemetery (Jackson County, W. Va.) 
+651 #0 $a Jackson County (W. Va.) $v Genealogy. 
+650 #0 $a Registers of births, etc. $z West Virginia  
+            $z Jackson County. 
+650 #0 $a Inscriptions $z West Virginia $z Jackson County. 
+ 
+Title:  Our dead buried in the Chattanooga Confederate Cemetery. 
+651 #0 $a United States $x History $y Civil War, 1861-1865 
+            $v Registers of dead.  
+610 10 $a Confederate States of America. $b Army  
+            $v Registers of dead. 
+651 #0 $a Tennessee $v Genealogy. 
+651 #0 $a Chattanooga (Tenn.) $v Genealogy. 
+650 #0 $a Registers of births, etc. $z Tennessee  
+            $z Chattanooga. 
+610 20 $a Confederate Cemetery (Chattanooga, Tenn.) 
+ 

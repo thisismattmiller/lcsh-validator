@@ -1,0 +1,112 @@
+
+
+<<<PAGE 1>>>
+ 
+Yugoslavia  H 1055 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1055 Page 1 
+ 
+June 2019 
+BACKGROUND:  The country of Yugoslavia came into existence at the end of World War I with 
+the union of the republics of Bosnia and Herzegovina, Croatia, Macedonia, Montenegro, Serbia, 
+and Slovenia.  In 1991 and 1992, four of those republics, Bosnia and Herzegovina, Croatia, 
+Macedonia, and Slovenia, broke away from Yugoslavia and became independent countries, 
+leaving only Serbia and Montenegro as the constituent republics of Yugoslavia.  In 2003, the 
+name of the country was changed to Serbia and Montenegro.  In 2006, Serbia and Montenegro 
+split into two separate, independent countries.  In 2008, the republic of Kosovo declared its 
+independence from Serbia.  In 2019, the name of Macedonia was changed to North Macedonia. 
+This instruction sheet provides guidelines on the usage of the headings Serbia and Montenegro, 
+Yugoslavia, Former Yugoslav republics, and the headings for the independent countries that 
+had been part of Yugoslavia. It also provides guidelines on the usage of the term Macedonian as 
+an adjectival qualifier, and on the assignment of geographic area codes. 
+ 
+ 
+ 
+1.  Yugoslavia.  Assign the heading Yugoslavia, with appropriate topical and period 
+subdivisions, to works on the country of Yugoslavia during the period 1918-1992 as well as to 
+works on the country of Serbia and Montenegro during the period 1992-2003 when it was called 
+Yugoslavia.  
+ 
+ 
+2.  Serbia and Montenegro.  Assign the heading Serbia and Montenegro to works on this 
+country from the time its name changed in 2003 until 2006 when it split into two separate, 
+independent countries. 
+ 
+ 
+3.  Independent countries.  Treat Bosnia and Herzegovina, Croatia, Kosovo (Republic), 
+North Macedonia,  Montenegro, Serbia, and Slovenia as fully independent countries.  As 
+geographic subdivisions, use these headings directly after topics, even for works covering the 
+time period when they were republics of Yugoslavia. 
+ 
+ 
+ 
+4.  Former Yugoslav republics.  Assign the heading Former Yugoslav republics, with 
+appropriate topical subdivisions, to works discussing collectively the independent countries that 
+emerged from the breakup of Yugoslavia in 1991-1992 and 2006, or to works discussing the 
+equivalent area.  When using geographic subdivision, do not divide localities through Former 
+Yugoslav republics.  Divide only through the name of the current country or, in the case of 
+areas that span more than one country, assign the heading directly after topics. 
+
+
+<<<PAGE 2>>>
+H 1055  Yugoslavia 
+ 
+ 
+ 
+H 1055 Page 2 
+Subject Headings Manual 
+June 2019 
+5. Macedonian as an adjectival qualifier. When used as an adjectival qualifier to denote 
+nationality, the term Macedonian refers to ancient country and kingdom of Macedonia (which 
+later became a Roman province), the present-day region of the Balkan Peninsula that has 
+somewhat indefinite boundaries, and/or the country of North Macedonia.  
+ 
+ 
+ 
+6.  Geographic area codes.  Assign the following codes for these countries or regions: 
+ 
+Bosnia and Herzegovina 
+ 
+e-bn--- 
+Croatia 
+ 
+ 
+ 
+e-ci--- 
+Kosovo (Republic) 
+ 
+ 
+e-kv--- 
+Montenegro 
+ 
+ 
+ 
+e-mo--- 
+North Macedonia 
+ 
+ 
+e-xn--- 
+Serbia  
+ 
+ 
+ 
+e-rb--- 
+Serbia and Montenegro 
+ 
+e-yu--- 
+Slovenia 
+ 
+ 
+ 
+e-xv--- 
+Yugoslavia 
+ 
+ 
+ 
+e-yu--- 
+Former Yugoslav republics 
+ 
+e-yu--- 

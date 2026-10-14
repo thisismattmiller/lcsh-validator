@@ -1,0 +1,507 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Formulating Geographic Headings H 690 | Page 1 
+ 
+ 
+Formulating Geographic Headings 
+H 690 
+A. Background ................................................................................................................................. 1 
+B. Recent revisions .......................................................................................................................... 2 
+C. Definitions ................................................................................................................................... 2 
+D. Form of heading ......................................................................................................................... 3 
+D.1. Sources of approved names ................................................................................................ 3 
+D.1.a. Names of the United States .......................................................................................... 3 
+D.1.b. Foreign names other than those of New Zealand ........................................................ 3 
+D.1.c. Names of New Zealand ................................................................................................. 4 
+D.2. Additional authority research .............................................................................................. 4 
+D.3. Selecting the form of name ................................................................................................. 5 
+D.3.a. The BGN decision .......................................................................................................... 5 
+D.3.b. Additional guidelines .................................................................................................... 5 
+E. References ................................................................................................................................... 9 
+E.1. Used For references ............................................................................................................. 9 
+E.2. Broader term references ...................................................................................................... 9 
+E.2.a. General rule ................................................................................................................... 9 
+E.2.b. Named groups as broader terms................................................................................. 10 
+F. Model for heading and references ........................................................................................... 10 
+G. Extended examples .................................................................................................................. 10 
+Revision history ............................................................................................................................. 13 
+A. Background 
+Headings for geographic names fall into two categories: (1) names of political jurisdictions, and 
+(2) non-jurisdictional geographic names. Headings in the first category are established 
+according to descriptive cataloging conventions with authority records that reside in the name 
+authority file. Headings in the second category are established according to guidelines in this 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Formulating Geographic Headings H 690 | Page 2 
+ 
+ 
+instruction sheet with authority records that reside in the subject authority file. Headings for 
+entities having geographic extent, including certain types of engineering constructions, are 
+treated as geographic headings. The following is a representative list of such entities: 
+• Archaeological sites, historic sites, etc. 
+• Areas and regions (when not free-floating) 
+• Canals 
+• Dams 
+• Extinct cities (pre-1500) 
+• Farms, ranches, gardens 
+• Forests, grasslands, etc. 
+• Geographic features (for example, caves, deserts, non-jurisdictional islands, lakes, 
+mountains, ocean currents, plains, rivers, seas, steppes, undersea features) 
+• Geologic basins, geologic formations, etc. 
+• Mines 
+• Parks, reserves, refuges, recreation areas, etc. 
+• Reservoirs 
+• Roads, streets, trails 
+• Valleys 
+Consult H 405 for further guidance on what entities belong in the name authority file vs. the 
+subject authority file. 
+This instruction sheet provides guidelines for formulating the substantive portion of non-
+jurisdictional geographic names established as subject headings. For procedures for qualifying 
+geographic names, see H 810.  
+Note: When a new country is formed or a country changes its name, LC coordinates with the 
+Board on Geographic Names, which gets its information from the State Department. Please 
+refrain from sending proposals or creating authority records that include the new country name 
+until LC has created the name authority record and determined the appropriate LCSH 
+treatment. 
+B. Recent revisions 
+2025-03: Clarified use of BGN. Updated template. 
+C. Definitions 
+BGN: The United States Board on Geographic Names, a Federal body created in 1890 and 
+established in its present form by Public Law in 1947 to maintain uniform geographic name 
+usage throughout the Federal Government.  
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Formulating Geographic Headings H 690 | Page 3 
+ 
+ 
+GeoNames: A global geographical database based in Switzerland with a wiki style edit interface. 
+It is not the same as GNS or GNIS, and it is not a preferred source for geographic information. 
+GNIS: The Geographic Names Information System, a database maintained by the U.S. Geological 
+Survey. The GNIS contains the domestic place names approved by the BGN. It is not the same as 
+GeoNames.  
+GNS: The Geographic Names Server, a database maintained by the National Geospatial-
+Intelligence Agency. The GNS contains the foreign place names approved by the BGN. A 
+previous name for this database was GeoNet. It is not the same as GeoNames. 
+D. Form of heading 
+D.1. Sources of approved names 
+Obtain the approved form of name from the following required reference sources, when 
+possible. 
+D.1.a. Names of the United States 
+For names of the United States, the Geographic Names Information System (GNIS) is available 
+on the Internet. GNIS may be accessed and queried at 
+<https://edits.nationalmap.gov/apps/gaz-domestic/public/search/names>. 
+Always use the approved name from GNIS as the basis for the heading in LCSH. 
+Note: Not all features mentioned in the Background statement are found in GNIS. For features 
+that are not in GNIS, follow the instructions in sections D.2 and D.3 below. 
+D.1.b. Foreign names other than those of New Zealand 
+For foreign geographic names other than those of New Zealand, the Geographic Names Server 
+(GNS) is available on the Internet. GNS may be accessed and queried at 
+<https://geonames.nga.mil/geonames/GeographicNamesSearch/>. 
+Use names from GNS as the basis for LCSH headings in the following order of preference: 
+1. Conventional name, if it exists 
+2. Approved name 
+3. If GNS gives more than one approved name for a geographic feature, use the approved 
+name that is in English. 
+Note: Not all features mentioned in the Background statement are found in GNS. For features 
+that are not in GNS, follow the instructions in sections D.2 and D.3 below. 
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Formulating Geographic Headings H 690 | Page 4 
+ 
+ 
+D.1.c. Names of New Zealand 
+For names of New Zealand, prefer the form found the New Zealand Gazetteer. The Gazetteer 
+may be accessed and queried on the Internet at <https://gazetteer.linz.govt.nz/>. 
+To find Māori place names with macrons, download this .csv file from the Gazetteer: 
+<https://gazetteer.linz.govt.nz/maori_names.csv>. 
+D.2. Additional authority research 
+Although the BGN decision, when it is obtained, is preferred over any other name forms for all 
+names other than those of New Zealand, catalogers should also consult other standard 
+authorities. Recommended resources for geographic names include Merriam-Webster's 
+Geographical Dictionary, Columbia Gazetteer of the World, National Gazetteer of the United 
+States of America, national gazetteers issued by the country where the feature is located, 
+standard encyclopedias, atlases, titles in the database, etc. This additional authority work is 
+required for the following reasons: 
+• The BGN decision may not in itself be sufficient to determine if name conflicts exist 
+and further qualification of the heading is necessary. 
+• In cases of conflict, research can confirm that the BGN decision does in fact refer to 
+the same place discussed in the work being cataloged. 
+• For geographic names in non-English-speaking countries, reference sources may aid 
+in the translation of generic terms. 
+• Variant forms of the geographic name found in reference sources are useful as UF 
+references in addition to the variants provided by BGN. 
+• Not all types of geographic features are included in the BGN database. Examples of 
+features that are not included are: roads, highways, administrative, or cultural 
+features. In 2021, some items were removed from GNIS that had previously been 
+included: airport, bridge, building, cemetery, church, dam, forest, harbor, hospital, 
+mine, oilfield, park, post office, reserve, school, tower, trail, tunnel, and well. These 
+are now considered “administrative” and therefore fall into the list of features that 
+are not included in BGN. 
+Cite the works consulted in 670 fields in the authority record, following the conventions for 
+citation of sources described in H 203. Record in a $b subfield of each 670 field any data that 
+conflicts with, or supplements, the BGN decision. Record any data showing that the name 
+under consideration conflicts with other names. This serves to justify the form of the qualifier 
+constructed in accordance with H 810. 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Formulating Geographic Headings H 690 | Page 5 
+ 
+ 
+D.3. Selecting the form of name 
+D.3.a. The BGN decision 
+If the BGN decision has been obtained, favor it over any other name forms obtained from other 
+sources. (See sec. D.1.b for guidance on the form of name.) Adjust it or choose another name 
+form when necessary to conform with the “Additional guidelines” (sec. D.3.b) provided below. 
+If no BGN decision is obtained, select the form of name found to be in predominant usage in 
+the reference sources that were consulted. 
+D.3.b. Additional guidelines 
+D.3.b.i. English vs. vernacular form 
+Select the English form of the name whenever possible. 
+Examples: 
+Note: These examples omit geographic qualifiers. For rules for qualification, see H 810. 
+Vernacular form 
+English form 
+Passo del San Gottardo 
+Saint Gottard Pass 
+Fujiyama 
+Mount Fuji 
+Øresund 
+The Sound 
+Peipsi järv 
+Lake Peipus 
+If no English form is found, construct an English heading by translating the generic term into 
+English. If, in the case of certain inflected languages, the resulting construction is grammatically 
+awkward, use the noun form of the proper name in the nominative case, rather than either the 
+adjectival form or the noun form in the genitive case. In such situations, provide UF references 
+from the pure vernacular forms, as specified in sec. E.1, below. 
+Examples: 
+151 ## $a Strážov Mountains (Slovakia) 
+451 ## $a Strážovská hornatina (Slovakia) 
+451 ## $a Strážovské vrchy (Slovakia) 
+[not 151 ## $a Strážovská Mountains (Slovakia) or 151 ## $a Strážovské 
+Mountains (Slovakia)] 
+ 
+151 ## $a Gauja River (Latvia and Estonia) 
+451 ## $a Gaujas upe (Latvia and Estonia) 
+[not 151 ## $a Gaujas River (Latvia and Estonia)] 
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | Formulating Geographic Headings H 690 | Page 6 
+ 
+ 
+D.3.b.ii. When to use the vernacular form 
+Select the vernacular form if the generic term is an integral part of the name and cannot be 
+separated from the distinctive portion. For example, the Finnish name Kilpisjärvi includes the 
+generic “järvi”, meaning lake. The approved name for this feature will be *Kilpisjärvi (Finland 
+and Sweden)*. 
+Use the vernacular form when establishing parks, reserves, gardens, trails, streets, and roads. 
+See H 1925 for specific instructions for parks, reserves, gardens, and trails; see H 2098 for 
+streets and roads. 
+Also use the vernacular if the entity in question is best known in the English-speaking world by 
+its vernacular name, for example, *Rio Grande*; *Blanc, Mont (France and Italy)*. 
+Use English-language gazetteers and reference sources to determine whether an entity is 
+known in its vernacular form in the English-speaking world. If a vernacular form is used and it 
+includes the generic term for the feature, do not add the English generic term to the heading. 
+For example, *Tien Shan* is a conventional name which includes the Chinese term for 
+mountains. Do not add “Mountains” to the heading. 
+D.3.b.iii. Arrangement of elements appearing in the name 
+If necessary, rearrange the elements of the name so that the distinctive portion of the name 
+occurs in the initial position. 
+D.3.b.iii.1. Names in English 
+For entities in English-speaking countries, and for entities that have a conventional English 
+name, invert the heading if necessary to put the distinctive portion of the name in the initial 
+position. 
+Examples: 
+Note: These examples omit geographic qualifiers. For rules for qualification, see H 810. 
+English name 
+Inverted form 
+Firth of Forth 
+Forth, Firth of 
+Lake Erie 
+Erie, Lake 
+Mount Abbot 
+Abbot, Mount 
+River Wye 
+Wye, River 
+Strait of Gibraltar 
+Gibraltar, Strait of 
+
+
+<<<PAGE 7>>>
+Subject Headings Manual | Formulating Geographic Headings H 690 | Page 7 
+ 
+ 
+D.3.b.iii.2. Names in foreign languages 
+Translate the generic part of the name and rearrange the elements to put the distinctive 
+portion of the name in the initial position. Since the resulting heading is not inverted, do not 
+put a comma between the elements. 
+Examples: 
+Vernacular form 
+Final form of heading 
+Río Jiloca 
+Jiloca River (Spain) 
+Bahía Mazarredo 
+Mazarredo Bay (Chile) 
+D.3.b.iv. Abbreviations 
+Spell out in full all words in the substantive portion of the name. For provisions on the use of 
+abbreviations in qualifiers, see H 810. 
+Example: 
+151 ## $a Saint Andrew Sound (Ga.) 
+[not 151 ## $a St. Andrew Sound (Ga.)] 
+D.3.b.v. Initial articles 
+Anglicize names of geographic features that are located in non-English-speaking countries and 
+that begin with an article by dropping the initial article and including a generic term in English 
+describing the feature. Retain initial articles for non-English names in English-speaking 
+countries. For English names beginning with the word “The” as an integral part of the name, 
+retain “The” and invert the name. 
+Examples: 
+Name of entity 
+Type of feature 
+Final form of heading 
+La Huasteca  
+[a region in Mexico] 
+Huasteca Region (Mexico) 
+Les Cévennes  
+[mountains in France] 
+Cévennes Mountains (France) 
+Los Olmos Creek  [a stream in Texas] 
+Los Olmos Creek (Tex.) 
+The Fens  
+[a region in England] 
+Fens, The (England) 
+The Sound  
+[conventional English 
+name for a sound 
+between Denmark and 
+Sweden] 
+Sound, The (Denmark and Sweden) 
+
+
+<<<PAGE 8>>>
+Subject Headings Manual | Formulating Geographic Headings H 690 | Page 8 
+ 
+ 
+D.3.b.vi. Transliteration 
+As a general rule, transliterate geographic names in non-roman scripts by means of LC 
+transliteration tables. If BGN provides a romanized form in conflict with LC's policy for the 
+romanization of a particular script, convert the name to the LC form. However, if it is clear that 
+a non-LC-romanized form is more commonly used in English-language reference sources, 
+establish the heading using that form, and add a 451 field with the LC-romanized form. 
+Note: During 1999 the Library of Congress changed a limited number of name and subject 
+headings that contain names of Chinese provinces and major cities from conventional to pinyin 
+romanized forms. In October 2000 the Library discontinued use of the Wade-Giles system of 
+romanization of Chinese in favor of pinyin in name and subject headings except for geographic 
+names of Taiwan, which continued to use Wade-Giles. In May 2012 the Library determined that 
+pinyin romanization will now be used for geographic name and subject headings for places in 
+Taiwan. This decision follows the 2010 decision of the U.S. Board on Geographic Names, which 
+now also uses pinyin romanization for places in Taiwan. 
+D.3.b.vii. Conflicts 
+Conflicts involving geographic names may be resolved by designating the category of the 
+feature in the parenthetical qualifier following a colon (see H 810) or by incorporating the 
+generic term for the feature into the name itself. Prefer the latter method if it will resolve the 
+conflict without causing redundancy. 
+Exception: For named regions that conflict with names of cities, include the term “Region” in 
+the qualifier (cf. H 760, sec. 1.e.(2)). 
+Examples: 
+Situation 
+Final form of heading 
+Skovfjorden is the name of a fjord 
+and of a marine channel in 
+Greenland. 
+Skovfjorden (Greenland : Fjord) 
+Madura is the name of an island and 
+of several cities in Indonesia. 
+Madura Island (Indonesia) 
+[not Madura (Indonesia : Island)] 
+Bresse is the name of a region in 
+France and the name of a French 
+town. 
+Bresse (France : Region) 
+D.3.b.viii. Capitalization 
+When formulating names or references, use the appropriate current rules of capitalization for 
+the language in question (see Appendix B of this manual). 
+
+
+<<<PAGE 9>>>
+Subject Headings Manual | Formulating Geographic Headings H 690 | Page 9 
+ 
+ 
+For English forms of place names, capitalize all nouns and adjectives that are essential parts of 
+the name. For example, in the heading *Tatar Strait (Russia)*, the word “Strait” is capitalized 
+since the heading is in English. However, in the UF reference from the vernacular form, 
+*Tatarskiĭ proliv (Russia)*, the word “proliv” is lowercased in accordance with Russian 
+capitalization rules. 
+E. References 
+E.1. Used For references 
+Add Used For (UF) references for the following alternative forms of names. 
+• Provide UF references for variant name forms supplied by BGN or found in other 
+authorities, and their LC romanized equivalents, if applicable. 
+• Provide a UF reference for the straight form of the name if the heading is 
+established in inverted form. 
+• Provide a UF reference for the name in the vernacular if the name is translated into 
+English or if a conventional English form is adopted. In this reference, a generic term 
+may appear in the initial position. 
+• Provide UF references for other pertinent foreign language forms, for example, 
+forms in other official languages of the country where the feature is located, or the 
+form in the language of countries that previously controlled the feature. Do not add 
+UF references for foreign language forms if the languages are not pertinent to the 
+feature. 
+• Provide a UF reference for the English form of the name, if meaningful, if the 
+selected name is in the vernacular. 
+• Provide UF references for abbreviated forms, if the name commonly occurs with an 
+abbreviated term in the initial position. 
+• Provide UF references for alternative forms after the decision has been reached to 
+include or delete the initial article. 
+• Provide a UF reference for the BGN romanized form if it differs from the LC 
+romanized form and has been supplied as a variant by BGN. 
+E.2. Broader term references 
+E.2.a. General rule 
+Add up to three broader term (BT) references containing the generic heading for the type of 
+feature, structure, etc., subdivided by country, etc. For features in more than three countries or 
+
+
+<<<PAGE 10>>>
+Subject Headings Manual | Formulating Geographic Headings H 690 | Page 10 
+ 
+ 
+first order political divisions of the United States, Canada, and Great Britain, use an appropriate 
+broader geographic name as the subdivision. 
+References are made for some types of entities, such as parks, archaeological sites, early cities, 
+etc., according to pattern provisions. These patterns are described in individual instruction 
+sheets in this manual. 
+E.2.b. Named groups as broader terms 
+Add a BT containing the named group to which an individual feature belongs, if appropriate and 
+if the heading already exists, for example, an individual peak in a mountain range or an 
+individual lake in a group of lakes, such as *Great Lakes (North America)* or *Finger Lakes 
+(N.Y.)*. 
+Do not establish headings for larger groups only to make this kind of reference. Make this 
+reference from the smallest applicable named group. Do not add a BT reference for the name 
+of a region in which a feature is located. 
+Example: 
+151 ## $a Black Mountains (N.C.) 
+551 ## $w g $a Blue Ridge Mountains 
+[not 551 ## $w g $a Appalachian Mountains] 
+F. Model for heading and references 
+The above provisions may be summarized as follows: 
+Model: 
+151 ## $a [distinctive name] [generic term] ([geographic qualifier]) 
+451 ## $a [alternate name(s)] ([geographic qualifier]) 
+550 ## $w g $a [type of feature, structure, etc.] $z [country or first order 
+division] 
+551 ## $w g $a [name of group] ([geographic qualifier]) 
+G. Extended examples 
+Note: The following examples illustrate complete headings, including the proper forms of 
+qualifiers. For rules for qualification, see H 810. 
+ 
+151 ## $a Margeride Mountains (France) 
+451 ## $a Montagnes de la Margeride (France) 
+551 ## $w g $a Massif Central (France) 
+
+
+<<<PAGE 11>>>
+Subject Headings Manual | Formulating Geographic Headings H 690 | Page 11 
+ 
+ 
+550 ## $w g $a Mountains $z France 
+ 
+151 ## $a Ejón Hill (Colombia) 
+451 ## $a Cerrejón (Colombia) 
+451 ## $a El Cerrejón (Colombia) 
+451 ## $a Cerro Ejón (Colombia) 
+550 ## $w g $a Mountains $z Colombia 
+ 
+151 ## $a El Capitan (Calif.) 
+451 ## $a Capitan (Calif.) 
+550 ## $w g $a Mountains $z California 
+551 ## $w g $a Sierra Nevada (Calif. and Nev.) 
+ 
+151 ## $a Erzgebirge (Czech Republic and Germany) 
+451 ## $a Krušé hory (Czech Republic and Germany) 
+451 ## $a Krušnohoří (Czech Republic and Germany) 
+451 ## $a Ore Mountains (Czech Republic and Germany) 
+550 ## $w g $a Mountains $z Czech Republic  
+550 ## $w g $a Mountains $z Germany 
+ 
+151 ## $a Forth, Firth of (Scotland) 
+451 ## $a Bodotria (Scotland) 
+451 ## $a Firth of Forth (Scotland) 
+451 ## $a Forth Estuary (Scotland) 
+451 ## $a Forth, River, Estuary (Scotland) 
+550 ## $w g $a Estuaries $z Scotland 
+ 
+151 ## $a Fuji, Mount (Japan) 
+451 ## $a Fuji san (Japan) 
+451 ## $a Fuji yama (Japan) 
+451 ## $a Fujiyama (Japan) 
+451 ## $a Mount Fuji (Japan) 
+451 ## $a Suji Mountain (Japan) 
+550 ## $w g $a Mountains $z Japan 
+550 ## $w g $a Volcanoes $z Japan 
+ 
+
+
+<<<PAGE 12>>>
+Subject Headings Manual | Formulating Geographic Headings H 690 | Page 12 
+ 
+ 
+151 ## $a Peipus, Lake (Estonia and Russia) 
+451 ## $a Chudskoe ozero (Estonia and Russia) 
+451 ## $a Chudskoye ozero (Estonia and Russia) 
+451 ## $a Lake Peipus (Estonia and Russia) 
+451 ## $a Peipsi järv (Estonia and Russia) 
+550 ## $w g $a Lakes $z Estonia 
+550 ## $w g $a Lakes $z Russia (Federation) 
+ 
+151 ## $a Rio de la Plata (Argentina and Uruguay) 
+451 ## $a Plate River (Argentina and Uruguay)  
+451 ## $a Plata, Rio de la (Argentina and Uruguay) 
+550 ## $w g $a Estuaries $z Argentina 
+550 ## $w g $a Estuaries $z Uruguay 
+ 
+151 ## $a Suiattle River (Wash.) 
+451 ## $a Miner’s Creek (Snohomish County and Skagit County, Wash.) 
+550 ## $w g $a Rivers $z Washington (State) 
+ 
+151 ## $a Saint Gotthard Pass (Switzerland) 
+451 ## $a Gotthard Pass (Switzerland) 
+451 ## $a Pass of Saint Gotthard (Switzerland)  
+451 ## $a Passo del San Gottardo (Switzerland) 
+451 ## $a Saint Gothard Pass (Switzerland) 
+451 ## $a Sankt Gotthardpass (Switzerland)  
+451 ## $a St. Gotthard Pass (Switzerland)  
+550 ## $w g $a Mountain passes $z Switzerland 
+ 
+151 ## $a Sound, The (Denmark and Sweden) 
+451 ## $a Øresund (Denmark and Sweden)  
+451 ## $a Sundet (Denmark and Sweden)  
+451 ## $a The Sound (Denmark and Sweden)  
+550 ## $w g $a Sounds (Geomorphology) $z Denmark  
+550 ## $w g $a Sounds (Geomorphology) $z Sweden 
+ 
+151 ## $a Wye, River (Wales and England) 
+451 ## $a River Wye (Wales and England) 
+
+
+<<<PAGE 13>>>
+Subject Headings Manual | Formulating Geographic Headings H 690 | Page 13 
+ 
+ 
+550 ## $w g $a Rivers $z England 
+550 ## $w g $a Rivers $z Wales 
+ 
+151 ## $a Yellow River (China) 
+451 ## $a Hoang Ho (China) 
+451 ## $a Huang He (China) 
+451 ## $a Huang Ho (China) 
+451 ## $a Hwang Ho (China) 
+550 ## $w g $a Rivers $z China 
+Revision history 
+2025-03: Clarified use of BGN. Updated template. 
+2025-02: Updated instruction sheet to new template. Corrected metadata properties. Added 
+definitions. Updated examples. 

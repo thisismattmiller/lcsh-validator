@@ -1,0 +1,219 @@
+
+
+<<<PAGE 1>>>
+ 
+Civilization  H 1370 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1370 Page 1 
+ 
+June 2013 
+BACKGROUND:  The subject heading Civilization, the free-floating subdivision BCivilization, 
+and headings for particular types of civilization or special topics in relation to civilization are 
+assigned to works that discuss human cultural advances and aspirations in general or of a 
+particular time, place, or people.  Civilization is related closely to other concepts such as 
+culture, history, and social history, but places particular emphasis on cultural advances, 
+including the arts, learning and scholarship, intellectual life, manners and customs, the 
+development and growth of religion, advances in science and technology, etc.  Culture is a term 
+used by social scientists to describe a people's whole way of life, whether simple or complex, 
+consisting of learned ways of acting, feeling, and thinking.  History is the chronological 
+account of specific events, emphasizing political, diplomatic, military, and economic 
+developments.  For instructions on use of the subdivision BHistory, see H 1647.  Social history 
+is the history of social problems, policies, movements, institutions, etc., treated collectively. 
+ 
+ 
+1.  General principle.  Because of the close relationship between civilization and history, it is 
+sometimes difficult to decide whether subject headings for history or civilization should be 
+assigned to a particular work.  In borderline cases, let the intention of the author and the 
+terminology of the text be the guide in determining which type of heading to assign. 
+ 
+ 
+2.  Civilization in general.  Assign the heading Civilization to general works on the concept of 
+civilization.  Assign the heading CivilizationBHistory to comprehensive works on the history 
+of all civilizations in all time periods.  Assign headings of the type Civilization, [broad time 
+period], further subdivided by B[. . .] century, if appropriate, to works on the general history of 
+civilization during a particular period of time.  Examples: 
+ 
+650 #0 $a Civilization, Ancient. 
+650 #0 $a Civilization, Medieval $y 12th century. 
+650 #0 $a Civilization, Modern $y 19th century. 
+ 
+ 
+3.  Types of civilization. 
+ 
+a.  Major civilizations.  Assign headings of the type Civilization, [type of civilization] 
+only to works on the special civilizations of major groups of people not limited to one 
+country.  Do not subdivide these headings by place.  Examples: 
+ 
+650 #0 $a Civilization, Greco-Roman. 
+650 #0 $a Civilization, Oriental. 
+650 #0 $a Civilization, Semitic. 
+
+
+<<<PAGE 2>>>
+H 1370  Civilization 
+ 
+ 
+ 
+H 1370 Page 2 
+Subject Headings Manual 
+June 2013 
+3.  Types of civilization.  (Continued) 
+ 
+b.  Major religious groups.  Assign headings for the civilizations of the world's major 
+religious groups.  Examples: 
+ 
+650 #0 $a Buddhist civilization. 
+650 #0 $a Christian civilization. 
+650 #0 $a Jews $x Civilization. 
+ 
+ 
+c.  Ethnic groups, religious sects, ancient peoples, etc.  To works on the civilizations of 
+groups of people not covered by sec. 3.a. or 3.b., assign the heading for the name of the 
+group.  Do not establish a heading for the civilization or subdivide the name of the 
+group by BCivilization.  Examples: 
+ 
+ 
+650 #0 $a Indians of North America.
+ 
+ [not  650 #0 $a Indians of North America $x Civilization.] 
+ 
+650 #0 $a Lithuanian Americans. 
+ [not  650 #0 $a Lithuanian Americans $x Civilization.] 
+ 
+650 #0 $a Mennonites. 
+ [not  650 #0 $a Mennonites $x Civilization.] 
+ 
+650 #0 $a Minoans. 
+ [not  650 #0 $a Civilization, Minoan.] 
+ 
+ 
+ 
+ 
+4.  Civilization of particular places.  Use the free-floating subdivision BCivilization under 
+names of regions, countries, cities, etc., for works on the history of civilization of a particular 
+place.  Do not subdivide further by BHistory. 
+ 
+a.  Free-floating period subdivisions under the subdivisionBCivilization.  Use 
+free-floating subdivisions for centuries, in accordance with H 1140, under headings of the 
+type [place]BCivilization. 
+
+
+<<<PAGE 3>>>
+ 
+Civilization  H 1370 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1370 Page 3 
+ 
+June 2013 
+4.  Civilization of particular places.  (Continued) 
+ 
+b.  Other period subdivisions.  Establish period subdivisions, if appropriate, under 
+[place]BCivilization in situations not covered by the free-floating subdivisions for 
+centuries.  Establish these subdivisions at broad levels, usually covering forty years or 
+more, and use them only in situations where files are likely to become large.  Examples: 
+ 
+ 
+651 #0 $a Great Britain $x Civilization $y 1945- 
+651 #0 $a United States $x Civilization $y 1970- 
+ 
+ 
+c.  Civilization of narrow time periods.  Headings of the type [place]BCivilization and 
+[place]BHistory usually are not assigned to the same work.  However, if the work deals 
+primarily with the civilization of a country but is tied closely to the events of a narrow 
+time period, such as the reign or term of office of a ruler or head of state, assign an 
+additional heading to bring out the history of the particular period.  Example: 
+ 
+ 
+Title:  The nineteen twenties in Britain. 
+651 #0 $a Great Britain $x Civilization $y 20th 
+            century. 
+651 #0 $a Great Britain $x History $y George V,  
+            1910-1936. 
+ 
+ 
+d.  Special civilizations of particular places.  For works on special civilizations of 
+particular places, assign two headings, as shown in the example below, or, if appropriate, 
+a heading of the type [place]BCivilizationB[...] influences, as described in sec. 5.a.  Do 
+not assign headings of the type [place]BCivilization, [type of civilization].  Example: 
+ 
+ 
+Title:  Indian culture in the days of the Buddha. 
+651 #0 $a India $x Civilization $y To l200. 
+650 #0 $a Buddhist civilization. 
+  [not 651 #0 $a India $x Civilization, Buddhist.] 
+
+
+<<<PAGE 4>>>
+H 1370  Civilization 
+ 
+ 
+ 
+H 1370 Page 4 
+Subject Headings Manual 
+June 2013 
+5.  Influence. 
+ 
+a.  Influence of one civilization.  Assign headings of the type [name of civilization]B[...] 
+influences or [place]BCivilizationB[...] influences to works on the influence of one 
+civilization on another or on civilization as a whole.  When establishing such headings, 
+add a 5XX (broader term) field for the country or group of people providing the influence, 
+subdivided by BCivilization.  Examples: 
+ 
+150 ## $a Civilization $x Hungarian influences 
+551 ## $w g $a Hungary $x Civilization 
+ 
+150 ## $a Islamic civilization $x Greek influences 
+551 ## $w g $a Greece $x Civilization 
+ 
+151 ## $a United States $x Civilization $x African American 
+            influences 
+550 ## $w g $a African Americans 
+ 
+151 ## $a United States $x Civilization $x Spanish  
+            influences 
+551 ## $w g $a Spain $x Civilization 
+ 
+Do not establish B[. . .] influences under [city]BCivilization.  Assign two headings to 
+cover the concept, if necessary.  Example: 
+ 
+Title:  American influences in Paris. 
+651 #0 $a Paris (France) $x Civilization. 
+651 #0 $a France $x Civilization $x American 
+            influences. 
+  [not 651 #0 $a Paris (France) $x Civilization  
+            $x American influences.] 
+ 
+ 
+b.  Influence of several civilizations.  Use the free-floating subdivision BForeign 
+influences under [name of civilization], [name of ethnic group], or under [place]B 
+Civilization for works on the influence of four or more countries on a place or type of 
+civilization.  Examples: 
+ 
+651 #0 $a United States $x Civilization $x Foreign  
+            influences. 
+650 #0 $a Indians of North America $x Foreign influences. 
+ 
+
+
+<<<PAGE 5>>>
+ 
+Civilization  H 1370 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1370 Page 5 
+ 
+June 2013 
+6.  [Topic] and civilization.  Assign headings of the type [topic] and civilization to works that 
+discuss the effect of a particular subject on the history of civilization.  Examples: 
+ 
+650 #0 $a Technology and civilization. 
+650 #0 $a War and civilization. 
+ 

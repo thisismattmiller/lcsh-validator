@@ -1,0 +1,175 @@
+{
+  "sheet": "H 1155.2",
+  "title": "Pattern Headings: Groups of Literary Authors",
+  "kind": "pattern",
+  "scope": "Free-floating period, topical, and form subdivisions for use under headings for groups of literary authors (including adjectivally qualified groups), in addition to H 1100; pattern heading Authors, English.",
+  "pattern_headings": [
+    "Authors, English"
+  ],
+  "pattern_category": "groups of literary authors, including groups established with adjectival qualifiers",
+  "general_notes": [
+    "TYPES OF HEADING COVERED BY THE PATTERN: Headings for groups of literary authors, including groups established with adjectival qualifiers. Examples: Authors; Dramatists; Novelists; Poets; African American authors; Dramatists, French; Women novelists; Blind poets. The category does not include names of individual literary authors, which are covered by H 1110. The category also does not include headings of the type [ . . . ] literature--[ . . . ] authors. These headings represent subordinate bodies of literature written by those author groups (cf. H 1156).",
+    "Note: Groups of literary authors are established with adjectival qualifiers to express nationality, ethnicity, publication language, or geographic location and are authorized for geographic subdivision. Therefore, it is not necessary to subdivide geographically the general headings for groups of literary authors, such as Authors; Novelists; Women poets; Men authors.",
+    "RELATION TO H 1100: Subdivisions on the list of free-floating subdivisions used under classes of persons, H 1100, may also be used under headings for groups of literary authors where there is no conflict. This list contains the additional subdivisions that are specific to literary authors.",
+    "CONFLICTS: Any subdivision listed here can be used as a free-floating subdivision under any heading belonging to the category if it is appropriate and no conflict exists in the subject authority file. Subject authority records may exist for headings employing variant phrases or subdivisions equivalent to subdivisions on this list.",
+    "Note: Do not use period subdivisions under headings for groups of literary authors with geographic subdivisions.",
+    "Note: Most form subdivisions coded $v in this list may also be used as topical subdivisions coded $x when assigned to works about the form (see H 1075, sec. 1.d.).",
+    "The subdivisions below, as well as appropriate subdivisions from H 1100, may also be used under headings of the type Authors, [ . . . ]--[period subdivision]."
+  ],
+  "entries": [
+    {
+      "subdivision": "--Old English, ca. 450-1100",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "headings for groups of literary authors (not when the heading has a geographic subdivision)",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Middle English, 1100-1500",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "headings for groups of literary authors (not when the heading has a geographic subdivision)",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Early modern, 1500-1700",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "headings for groups of literary authors (not when the heading has a geographic subdivision)",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--18th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "headings for groups of literary authors (not when the heading has a geographic subdivision)",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--19th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "headings for groups of literary authors (not when the heading has a geographic subdivision)",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--20th century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "headings for groups of literary authors (not when the heading has a geographic subdivision)",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--21st century",
+      "subfield": "y",
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "headings for groups of literary authors (not when the heading has a geographic subdivision)",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Aesthetics",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Chronology",
+      "subfield": "v",
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Philosophy",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Political activity",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Political and social views",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Relations with men",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    },
+    {
+      "subdivision": "--Relations with women",
+      "subfield": "x",
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": ""
+    }
+  ]
+}

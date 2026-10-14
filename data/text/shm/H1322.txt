@@ -1,0 +1,50 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Bibliographies about Individual Persons H 1322 | Page 1 
+ 
+ 
+Bibliographies about Individual Persons 
+H 1322 
+A. Background ................................................................................................................................. 1 
+B. Recent revisions .......................................................................................................................... 1 
+C. General rule ................................................................................................................................ 1 
+D. Special topics .............................................................................................................................. 1 
+E. Revision history ........................................................................................................................... 2 
+A. Background 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Bibliographies*. 
+For guidelines on abstracts, see H 1205. For guidelines on bio-bibliographies, see H 1328. For 
+guidelines on bibliographies of bibliographies, see H 1325. For catalogs of library materials, see 
+H 1361. For guidelines on digests of legal materials, see H 1550. 
+B. Recent revisions 
+2026-01: Updated template. Added instructions related to LCGFT implementation. 
+C. General rule 
+Use the free-floating subdivision *--Bibliography* under names of individuals for lists of works 
+by or about those persons. 
+For lists of musical works by a person that include musical notation for the opening measures of 
+individual works or sections of works, use the free-floating form subdivision *--Thematic 
+catalogs*. 
+LC practice: Assign the names of individuals for lists of works by or about those persons. Assign 
+LCGFT appropriate to the form and/or genre of the resource in hand, e.g. LCGFT 
+*Bibliographies* and/or a more specific term, e.g. *Thematic catalogs (Music)*. 
+D. Special topics 
+If the bibliography has a topical orientation, assign an additional heading of the type *[topic]--
+Bibliography* to bring out the topic. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Bibliographies about Individual Persons H 1322 | Page 2 
+ 
+ 
+Example: 
+600 10 $a Freud, Sigmund, $d 1856-1939 $v Bibliography 
+650 #0 $a Psychoanalysis $v Bibliography 
+655 #7 $a Bibliographies. $2 lcgft 
+LC practice: If the bibliography has a topical orientation, assign a heading to bring out the topic 
+in addition to the name of the person or persons. Assign LCGFT appropriate to the form and/or 
+genre of the resource in hand, e.g. LCGFT *Bibliographies* and/or a more specific term, e.g. 
+*Thematic catalogs (Music)*. 
+E. Revision history 
+2026-01: Updated template. Added instructions related to LCGFT implementation. 

@@ -1,0 +1,463 @@
+
+
+<<<PAGE 1>>>
+ 
+Chronological Headings and Subdivisions  H 620 
+ 
+ 
+ 
+Subject Headings Manual 
+H 620 Page 1 
+ 
+February 2019 
+BACKGROUND:  This instruction sheet explains general practices relating to chronological 
+headings and subdivisions.  Cataloging practices for specific subjects are explained in 
+instruction sheets for those subjects and in the appropriate lists of free-floating and pattern 
+subdivisions (H 1095-H 1200).  For instructions relating to headings and subdivisions for 
+events, see H 1592.  For dates in subdivisions for specific events, see H 1078.  For 
+abbreviations relating to dates, see Appendix A, sec. 8.  For capitalization of terms attached to 
+dates, see Appendix B, sec. 12.  For classification and time periods, see F 320. 
+ 
+ 
+ 
+ 
+ 
+1.  Methods of expressing chronological focus in subject headings.  The chronological aspect 
+of subjects may be expressed in a variety of ways depending on the patterns that have evolved in 
+the various fields.  The methods used include general headings for time periods, headings 
+inherently chronological because of the concept expressed, adjectival qualifiers, date qualifiers, 
+and subdivisions. 
+ 
+ 
+ 
+a.  General headings for time periods.  To express the concept of a time period not 
+limited by subject, certain general headings for time periods have been established.  
+Examples: 
+ 
+ 
+150 ## $a Iron age 
+150 ## $a Renaissance 
+150 ## $a Eighteenth century 
+150 ## $a Nineteen ninety-one, A.D. 
+ 
+ 
+ 
+b.  Headings with inherent or implied chronological concepts.  Some headings are 
+limited to a specific time period due to the nature of the subject expressed, such as 
+historical movements, artistic styles, or technological developments.  Examples: 
+ 
+ 
+150 ## $a Post-communism 
+150 ## $a Painting, Rococo 
+150 ## $a Silent films 
+
+
+<<<PAGE 2>>>
+H 620  Chronological Headings and Subdivisions 
+ 
+ 
+ 
+H 620 Page 2 
+Subject Headings Manual 
+February 2019 
+1.  Methods of expressing chronological focus in subject headings.  (Continued) 
+ 
+c.  Headings with adjectival qualifier.  Certain broad time periods related to a subject 
+may be expressed with the addition of an adjectival qualifier to the subject.  These 
+headings occur as inverted headings with the adjective following the subject.  
+Examples: 
+ 
+150 ## $a Greek drama, Modern 
+150 ## $a Literature, Ancient 
+150 ## $a Science, Medieval 
+ 
+ 
+d. Headings with date qualifier.  Certain headings for events have dates added to the 
+heading to express the time of occurrence.  Examples: 
+ 
+ 
+150 ## $a Culpeper's Rebellion, 1677-1679 
+150 ## $a Pan Am Flight 103 Bombing Incident, 1988 
+ 
+ 
+e.  Headings with subdivisions.  Time period may be expressed by chronological 
+subdivision in a variety of subdivision forms.  The location of the subdivision in the 
+subject heading may also vary. 
+ 
+ 
+(1) Form of the subdivision.  Several differing methods of formulating 
+chronological subdivisions may occur, depending on the specificity desired. 
+ 
+ 
+!  unspecified starting date: 
+ 
+150 ## $a Libraries $x History $y To 400 
+150 ## $a Brazilian literature $y To 1800 
+151 ## $a Syria $x History $y To 333 B.C. 
+ 
+!  unspecified ending date: 
+ 
+150 ## $a World politics $y 1989- 
+150 ## $a Shinto $x History $y 1945- 
+
+
+<<<PAGE 3>>>
+ 
+Chronological Headings and Subdivisions  H 620 
+ 
+ 
+ 
+Subject Headings Manual 
+H 620 Page 3 
+ 
+February 2019 
+1.  Methods of expressing chronological focus in subject headings. 
+ 
+e.  Headings with subdivisions. 
+ 
+(1) Form of the subdivision.  (Continued) 
+ 
+ 
+!  unspecified starting or ending date (occurs only for geological 
+   periods): 
+ 
+150 ## $a Geology, Stratigraphic $y Devonian 
+150 ## $a Paleobotany $y Jurassic 
+ 
+ 
+!  specific century or centuries: 
+ 
+150 ## $a Wood-engraving $y 17th century 
+151 ## $a Sicily (Italy) $x History $y 15th-18th 
+     centuries 
+ 
+ 
+!  specific date spans with explanatory words: 
+ 
+150 ## $a Christian art and symbolism $y Renaissance, 
+            1450-1600 
+151 ## $a Great Britain $x History $y George V, 
+            1910-1936 
+ 
+ 
+!  specific date spans without explanatory words: 
+ 
+150 ## $a Music $y 500-1400 
+150 ## $a Jews $x History $y 1789-1945 
+151 ## $a China $x Civilization $y 221 B.C.-960 A.D. 
+ 
+ 
+!  single date with explanatory words: 
+ 
+151 ## $a Great Britain $x History $y Edward VIII, 
+            1936 
+151 ## $a Panama $x History $y American Invasion, 1989 
+
+
+<<<PAGE 4>>>
+H 620  Chronological Headings and Subdivisions 
+ 
+ 
+ 
+H 620 Page 4 
+Subject Headings Manual 
+February 2019 
+1.  Methods of expressing chronological focus in subject headings. 
+ 
+e.  Headings with subdivisions. 
+ 
+(1) Form of the subdivision.  (Continued) 
+ 
+!  single date without explanatory words: 
+ 
+150 ## $a Depressions $y 1929 
+150 ## $a Solar eclipses $y 1854 
+ 
+Note:  Some headings for events are formulated with subdivisions that 
+include single dates or date spans without the subdivision BHistory, for 
+example, Vesuvius (Italy)BEruption, 79.  These subdivisions are 
+considered to be topical subdivisions qualified by date.  They use 
+subfield code $x for topical subdivision instead of subfield code $y for 
+chronological subdivision. 
+ 
+ 
+(2) Location of chronological subdivisions in the subject heading.  
+Chronological subdivisions may appear after several different types of headings 
+or subdivisions in the subject heading string.  They may also be followed by 
+different types of subdivisions.  The preferred practice for subdivision order 
+places the chronological subdivision after topical and geographic subdivisions 
+and before form subdivisions.  Existing subject heading strings varying from the 
+recommended order are being changed on a case-by-case basis. 
+ 
+!  following a main heading: 
+ 
+650 #0 $a Economic history $y 1918-1945. 
+650 #0 $a English language $y Early modern, 1500-1700. 
+650 #0 $a Philosophy, Dutch $y 20th century. 
+ 
+!  following the subdivision BHistory (most common method): 
+ 
+650 #0 $a Glassware $x History $y 19th century. 
+651 #0 $a Belgium $x History $y To 1555. 
+610 20 $a Stanford University $x History $y 19th 
+          century. 
+
+
+<<<PAGE 5>>>
+ 
+Chronological Headings and Subdivisions  H 620 
+ 
+ 
+ 
+Subject Headings Manual 
+H 620 Page 5 
+ 
+February 2019 
+1.  Methods of expressing chronological focus in subject headings. 
+ 
+e.  Headings with subdivisions. 
+ 
+(2) Location of chronological subdivisions in the subject heading.  (Continued) 
+ 
+!  following a topical or geographical subdivision: 
+ 
+651 #0 $a Germany $x Religious life and customs  
+         $y Middle Ages, 843-1517. 
+600 10 $a Shakespeare, William, $d 1564-1616 $x Stage 
+         history $y 1800-1950. 
+650 #0 $a Music $z Italy $y 20th century. 
+ 
+ 
+!  following a heading with a broader chronological adjective: 
+ 
+650 #0 $a Literature, Modern $y 15th and 16th 
+         centuries. 
+650 #0 $a Civilization, Medieval $y 14th century. 
+ 
+ 
+!  followed by a form subdivision: 
+ 
+650 #0 $a Authors, African $y 20th century  
+         $v Interviews. 
+651 #0 $a Germany $x History $y 1933-1945 $v Juvenile 
+         literature. 
+ 
+ 
+!  followed by a geographical subdivision: 
+ 
+650 #0 $a Depressions $y 1929 $z United States. 
+ 
+ 
+!  followed by a topical subdivision: 
+ 
+650 #0 $a English language $y Early modern, 1500-1700 
+         $x Pronunciation. 
+651 #0 $a Europe $x History $y 20th century $x Study 
+         and teaching. 
+
+
+<<<PAGE 6>>>
+H 620  Chronological Headings and Subdivisions 
+ 
+ 
+ 
+H 620 Page 6 
+Subject Headings Manual 
+February 2019 
+2.  Assignment of chronological headings and subdivisions. 
+ 
+a.  Content of work and date of imprint.  Assign headings for chronological periods to 
+reflect the contents of the work, not the time of publication.  Earlier practices where 
+imprint date was reflected in subdivisions, primarily to break up large files, have been 
+discontinued.  The free-floating form subdivision BEarly works to 1800 may be used in 
+some cases to segregate older works on a topic.  For specific instructions, see H 1576. 
+ 
+ 
+b.  When to omit chronological subdivision. 
+ 
+(1) Topics limited to a specific century.  Do not assign a chronological 
+subdivision for a century when the topic is limited by its nature to a specific 
+century.  Example: 
+ 
+650 #0 $a Underground Railroad $x History. 
+   [not 
+650 #0 $a Underground Railroad $x History 
+                       $y 19th century.] 
+ 
+ 
+(2) Other situations where chronological subdivisions are omitted.  Do not 
+assign chronological subdivisions where they have not been established or are not 
+covered by free-floating provisions, for example, after certain subdivisions such 
+as BDescription and travel. 
+ 
+ 
+c.  General headings for centuries, years, and other periods.  For certain periods of 
+time, separate headings are established, for example, Renaissance; Eighteenth century; 
+Nineteen thirties; Nineteen sixty-eight, A.D.  Assign these headings only to general 
+works on the time period not limited to specific topics.  Examples: 
+ 
+ 
+Title:  The illustrated encyclopedia of the Renaissance. 
+650 #0 $a Renaissance $v Encyclopedias. 
+ 
+ 
+Title:  And now the news, 1945. 
+650 #0 $a Nineteen forty-five, A.D. $v Chronology. 
+
+
+<<<PAGE 7>>>
+ 
+Chronological Headings and Subdivisions  H 620 
+ 
+ 
+ 
+Subject Headings Manual 
+H 620 Page 7 
+ 
+February 2019 
+2.  Assignment of chronological headings and subdivisions. 
+ 
+c.  General headings for centuries, years, and other periods.  (Continued) 
+ 
+For instructions on use of these headings for forecasts, see H 1628. 
+ 
+For works on specific time periods related to specific topics, assign headings for the 
+topics with appropriate established or free-floating chronological subdivisions.  
+Examples: 
+ 
+ 
+Title:  Before the deluge : a portrait of Berlin in the 1920s. 
+651 #0 $a Berlin (Germany) $x History $y 1918-1945. 
+651 #0 $a Berlin (Germany) $x Intellectual life $y 20th 
+            century. 
+ 
+ 
+Title: San Antonio in the eighteenth century. 
+651 #0 $a San Antonio (Tex.) $x History $y 18th century. 
+ 
+ 
+Title: The nickel and dime decade : American popular culture during the 1930s. 
+650 #0 $a Popular culture $z United States $x History  
+         $y 20th century.   
+651 #0 $a United States $x Social life and customs  
+         $y 1918-1945. 
+ 
+ 
+d.  Doubling of headings.  In some cases when chronological subdivision is not 
+permitted or is restricted, additional headings may be assigned to express the time period 
+discussed.  For specific instructions on this practice see the instruction sheet for the 
+specific topic or subdivision, for example, H 1370, Civilization; H 1530, Description and 
+travel; H 1629, Foreign relations; H 1675, Influence of one topic on another. 
+ 
+ 
+3.  Establishing new chronological headings or subdivisions. 
+ 
+a.  General.  The following instructions apply to proposals for new subject headings or 
+subdivisions.  Existing subject headings may be found in forms varying from the 
+currently-preferred forms.  Existing headings may continue to be used. 
+
+
+<<<PAGE 8>>>
+H 620  Chronological Headings and Subdivisions 
+ 
+ 
+ 
+H 620 Page 8 
+Subject Headings Manual 
+February 2019 
+3.  Establishing new chronological headings or subdivisions.  (Continued) 
+ 
+b.  General headings for centuries, years, etc.  Establish headings for centuries, 
+decades, or years using words, not numbers.  This differs from the practice for 
+subdivisions where numbers are preferred.  Add variant forms as 450 references and 
+broader general headings, if available, as 550 references.  Examples: 
+ 
+ 
+   
+150 ## $a Twelfth century 
+450 ## $a 12th century 
+550 ## $w g $a Middle Ages 
+ 
+150 ## $a Nineteen thirty-nine, A.D. 
+450 ## $a 1939 A.D. 
+450 ## $a Nineteen hundred thirty-nine, A.D. 
+     
+450 ## $a Year nineteen hundred thirty-nine, A.D. 
+550 ## $w g $a Nineteen thirties 
+ 
+ 
+c.  Headings created with adjectival qualifiers.  When a topic has a pattern of using 
+headings with chronological adjectival qualifiers, establish new headings of this type in 
+inverted form, for example, Fountains, Medieval. 
+ 
+ 
+d.  Subdivisions for time periods. 
+ 
+(1) Free-floating subdivisions.  The following subdivisions are free-floating 
+under names of countries, cities, etc., individual corporate bodies, and under 
+classes of persons, ethnic groups, and topical headings, and therefore do not need 
+to be separately established under those headings: 
+ 
+ 
+$x History $y 16th century 
+$x History $y 17th century 
+$x History $y 18th century 
+$x History $y 19th century 
+$x History $y 20th century 
+$x History $y 21st century 
+ 
+Other free-floating subdivisions are given in the free-floating and pattern lists of 
+subdivisions in H 1095-H 1200. 
+
+
+<<<PAGE 9>>>
+ 
+Chronological Headings and Subdivisions  H 620 
+ 
+ 
+ 
+Subject Headings Manual 
+H 620 Page 9 
+ 
+February 2019 
+3.  Establishing new chronological headings or subdivisions. 
+ 
+d.  Subdivisions for time periods.  (Continued) 
+ 
+(2) Selection of appropriate time periods for separately established subdivisions. 
+ Select a period of time that expresses a generally recognized period related to 
+the subject or place as shown by authority research or a period of time frequently 
+treated in works on the subject or place.  Do not propose chronological 
+subdivisions in cases when a policy has been established prohibiting such 
+subdivisions, for example after certain subdivisions such as BDescription and 
+travel. 
+ 
+(3) Relationship of subdivisions under subject.  For subdivisions expressed 
+with specific dates, select dates that coincide with the beginning or ending dates 
+of subdivisions for preceding or subsequent periods.  If a new open-date span is 
+being proposed, consider closing the date on an existing open-date span.  
+Example: 
+ 
+151 ## $a India $x Foreign relations $y 1857-1919 
+151 ## $a India $x Foreign relations $y 1919-1947 
+151 ## $a India $x Foreign relations $y 1947-1984 
+151 ## $a India $x Foreign relations $y 1984- 
+ 
+Note: In exceptional situations in which the change of government 
+occurred at the turn of the year, sequential date spans may be established, 
+e.g. NigeriaBPolitics and governmentB1979-1983 and NigeriaBPolitics 
+and governmentB1984-1993, to account for the government overthrow in 
+Nigeria on December 31, 1983. 
+ 
+(4) Use of words in chronological subdivisions.  Do not combine words with 
+specific dates in new chronological subdivisions except after the subdivision 
+BHistory, after art or literature headings when a well-established pattern exists, or 
+in subdivisions for certain events.  For instructions on establishing subdivisions 
+for events see H 1592.  Example: 
+ 
+151 ## $a France $x History $y Third Republic,  
+         1870-1940 
+but 
+151 ## $a France $x Politics and government  
+         $y 1870-1940 
+ 

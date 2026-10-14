@@ -1,0 +1,78 @@
+
+
+<<<PAGE 1>>>
+ 
+Acronyms  H 1206.5 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1206.5 Page 1 
+ 
+June 2013 
+BACKGROUND:  An acronym is a word formed from the first, or first few, letters of a series of 
+words.  This instruction sheet provides guidelines for assigning the heading Acronyms and the 
+free-floating subdivision BAcronyms. 
+ 
+ 
+ 
+ 
+ 
+1.  General.  Assign the heading Acronyms to general works about acronyms.  Assign the 
+heading AcronymsBDictionaries to works that consist of alphabetical lists of acronyms in 
+multiple languages, together with their meanings. 
+ 
+ 
+ 
+ 
+2.  By language.   
+ 
+ 
+ 
+a.  English.  Assign the heading Acronyms to works about English acronyms.  Assign 
+the heading AcronymsBDictionaries to works that consist of alphabetical lists of 
+acronyms in the English language. 
+ 
+ 
+ 
+b.  Other languages.  Assign the heading [name of language or language group]B 
+Acronyms to works about acronyms in that language or language group.  Assign the 
+heading [name of language or language group]BAcronymsBDictionaries to works that 
+consist of alphabetical lists of acronyms in that language or language group, together 
+with their meanings. 
+ 
+ 
+ 
+ 
+3.  By topic.  Assign the heading for the appropriate topic subdivided by the free-floating 
+subdivision BAcronyms to works about acronyms pertaining to the topic.  For works that 
+consist of alphabetical lists of acronyms pertaining to a topic, further subdivide 
+[topic]BAcronyms by the free-floating subdivision BDictionaries. 
+
+
+<<<PAGE 2>>>
+H 1206.5  Acronyms 
+ 
+ 
+ 
+H 1206.5 Page 2 
+Subject Headings Manual 
+June 2013 
+3.  By topic.  (Continued) 
+ 
+For works about acronyms in a language other than English, assign an additional heading for 
+[language]BAcronyms.  For dictionaries of acronyms in a language other than English, further 
+divide the heading [topic]BAcronymsBDictionaries by the name of the language and assign an 
+additional heading [language]BAcronymsBDictionaries. 
+ 
+Examples: 
+ 
+Title:  Guide to federal government acronyms. 
+650 #0 $a Administrative agencies $z United States  
+          $x Acronyms. 
+650 #0 $a Executive departments $z United States  
+          $x Acronyms. 
+ 
+Title:  Dictionary of medical and health  acronyms. 
+650 #0 $a Medicine $x Acronyms $v Dictionaries. 
+650 #0 $a Health $x Acronyms $v Dictionaries. 

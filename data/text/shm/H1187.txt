@@ -1,0 +1,164 @@
+
+
+<<<PAGE 1>>>
+ 
+Pattern Headings: Christian Denominations  H 1187 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1187 Page 1 
+ 
+May 2022May 2022 
+PATTERN:  Catholic Church 
+ 
+ 
+TYPES OF HEADINGS COVERED BY THE PATTERN:  Headings for all named Christian 
+denominations and sects.  These headings may be headings for corporate bodies established in 
+the name authority file, for example,  United Methodist Church (U.S.), or generic subject 
+headings for larger groupings that are established in the subject authority file, for example, 
+Methodist Church.  Examples: African Methodist Episcopal Church; Baptists; Congrega-
+tional churches; Orthodox Eastern Church.  Also included are headings for individual rites, 
+for example, Catholic Church—Ambrosian rite; Catholic Church—Byzantine rite.  The 
+category does not include the general headings Christian sects and Protestant churches; nor does 
+it cover name headings for individual or local churches, congregations, dioceses, etc.  For 
+subdivisions used under names of individual religious and monastic orders, see H 1186.  For the 
+category representing headings for religions in general, see H 1185.  For names of denominations 
+used as subdivisions, see H 2015. 
+ 
+ 
+CONFLICTS:  Any subdivision listed here can be used as a free-floating subdivision under any 
+heading belonging to the category if it is appropriate and no conflict exists in the subject authority 
+file.  Subject authority records may exist for headings employing variant phrases or subdivisions 
+equivalent to subdivisions on this list. 
+ 
+LC practice: 
+If an exceptional variant form is to be retained, make a UF reference from the equivalent free-
+floating subdivision form following the procedures in H 195 if the reference does not yet exist.  
+Otherwise, submit a proposal to change the variant form along with all bibliographic records 
+requiring correction following the procedures in H 193. 
+ 
+Note:  Most form subdivisions coded $v in this list may also be used as topical 
+subdivisions coded $x when assigned to works about the form (see H 1075, sec. 1.d.). 
+ 
+ 
+$x Adult education  (May Subd Geog) 
+$x Anniversaries, etc. 
+$v Apologetic works 
+$x Apologetic works $x History and criticism 
+$x Benefices  (May Subd Geog) 
+$v Bio-bibliography 
+$x Bishops1 
+$x Bishops $x Appointment, call, and election 
+$v Catechisms 
+
+
+<<<PAGE 2>>>
+H 1187  Pattern Headings: Christian Denominations 
+ 
+ 
+ 
+H 1187 Page 2 
+Subject Headings Manual 
+May 2022 
+$v Catechisms $x English, [French, German, etc.] 
+$x Catechisms $x History and criticism 
+$x Charities 
+$x Clergy1 
+$x Clergy $x Appointment, call, and election 
+$x Clergy $x Degradation 
+$x Clergy $x Deposition 
+$x Clergy $x Deprivation of the clerical garb  (May Subd Geog) 
+$x Clergy $x Installation  (May Subd Geog) 
+$x Clergy $x Secular employment  (May Subd Geog) 
+$v Comparative studies 
+$v Controversial literature 
+$x Controversial literature $x History and criticism 
+$v Creeds 
+$x Creeds $x History and criticism 
+$x Customs and practices 
+$x Dioceses  (May Subd Geog) 
+$x Diplomatic service 
+$x Discipline 
+$x Doctrines 
+$x Doctrines $x History 
+$x Doctrines $x History $y Modern period, 1500- 
+$x Education  (May Subd Geog) 
+$x Employees1 
+$x Finance 
+$x Foreign relations  (May Subd Geog) 
+$x Foreign relations $v Treaties 
+$x Government 
+$x History 
+$x History $y 16th century 
+$x History $y Modern period, 1500- 
+$x History $y 17th century  
+$x History $y 18th century 
+$x History $y 19th century 
+$x History $y 20th century 
+$x History $y 1965- 
+$x History $y 21st century 
+$v Hymns 
+$x Hymns $x History and criticism 
+$v Hymns $v Texts 
+$v In art 
+
+
+<<<PAGE 3>>>
+ 
+Pattern Headings: Christian Denominations  H 1187 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1187 Page 3 
+ 
+May 2022May 2022 
+$x In comics 
+$x In literature 
+$x In motion pictures 
+$x Infallibility 
+$x Influence 
+$x Liturgical objects  (May Subd Geog) 
+$x Liturgy 
+$x Liturgy $v Calendar 
+$x Liturgy $v Texts 
+$x Liturgy $x Texts $v Concordances 
+$x Liturgy $x Texts $x History and criticism 
+$x Liturgy $x Texts $v Illustrations 
+$x Liturgy $v Texts $v Manuscripts 
+$x Liturgy $x Texts $v Rubrics 
+$x Liturgy $x Theology 
+$x Liturgy, Experimental 
+$x Membership 
+$x Missions  (May Subd Geog) 
+$x Museums  (May Subd Geog) 
+$x Name 
+$x On postage stamps 
+$v Pastoral letters and charges 
+$x Political activity  (May Subd Geog) 
+$v Prayers and devotions 
+$x Prayers and devotions $x History and criticism 
+$x Publishing  (May Subd Geog) 
+$x Relations2 
+$v Sermons 
+$x Sermons $x History and criticism 
+$x Teaching office 
+ 
+
+
+<<<PAGE 4>>>
+H 1187  Pattern Headings: Christian Denominations 
+ 
+ 
+ 
+H 1187 Page 4 
+Subject Headings Manual 
+May 2022 
+ 
+NOTES 
+1See H 1100 for further subdivisions used under classes of persons. 
+2For instructions on the use of this subdivision see H 1996 sec. 1 and sec. 3.  
+ 
+ 
+ 

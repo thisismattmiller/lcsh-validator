@@ -1,0 +1,2227 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 1 
+ 
+ 
+Free-Floating Subdivisions: Names of Persons 
+H 1110 
+A. Background ............................................................................................................................... 2 
+B. Recent revisions ........................................................................................................................ 2 
+C. Types of headings covered ........................................................................................................ 2 
+D. General Principle ...................................................................................................................... 2 
+E. Personal name headings ........................................................................................................... 3 
+F. Free-floating subdivisions .......................................................................................................... 3 
+G. Conflicts .................................................................................................................................... 3 
+H. New subdivisions ...................................................................................................................... 3 
+I. Subtopics .................................................................................................................................... 3 
+J. Persons with multifaceted careers ............................................................................................. 4 
+J.1. General Rule ........................................................................................................................ 4 
+J.2. Direct conflicts between subdivisions for use under literary authors and subdivisions used 
+under types of people ............................................................................................................... 4 
+K. Relation to specific disciplines, fields, or topics ........................................................................ 4 
+K.1. Career in a specific field or discipline .................................................................................. 5 
+K.2. Knowledge of a specific topic ............................................................................................. 5 
+K.3. Literary characters .............................................................................................................. 5 
+L. Relations with specific classes of persons or ethnic groups ....................................................... 6 
+M. Assignment of additional headings .......................................................................................... 6 
+N. Implementation ........................................................................................................................ 7 
+O. List of topical subdivisions ........................................................................................................ 7 
+A-B | C | D-E | F-J |K-M | N-P | Q-S | T-Y .................................................................................. 7 
+P. List of form subdivisions .......................................................................................................... 26 
+A-C | D-J | L-P | R-W ................................................................................................................ 26 
+Revision history ........................................................................................................................... 32 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 2 
+ 
+ 
+A. Background 
+In the past, sets of form and topical subdivisions evolved for use under personal name headings 
+belonging to a few broad categories of persons: rulers and statesmen, musicians, philosophers, 
+founders of religions, and literary authors. These subdivisions were established and printed in 
+Library of Congress Subject Headings under representative pattern personal name headings in 
+order to reduce and keep to a minimum the number of personal names included in Library of 
+Congress Subject Headings. Separate lists of the subdivisions were issued and maintained for 
+each category. General subdivisions usable under any personal name heading were included in 
+the list of most commonly used subdivisions (H 1095).  
+This present list is a consolidation and revision of the general subdivisions that could be used 
+under any personal name and the subdivisions used under personal names belonging to the 
+special categories. The separate subdivision list for literary authors (H 1155.4) was discontinued 
+in 1998.  
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead 
+assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. 
+*Textbooks*. To replace a form subdivision that includes a demographic group, also assign 
+Library of Congress Demographic Groups Terms (LCDGT) to bring out the audience of the 
+resource being cataloged, e.g. *German speakers* or *Arabic, Students of*. 
+B. Recent revisions 
+2026-01: Updated template. Separated general and form subdivisions. Added instructions 
+related to LCGFT implementation. 
+C. Types of headings covered 
+The subdivisions listed below may be used, within the limitations of the usage notes, as free-
+floating subdivisions under names of individual persons established as headings in the name 
+authority file. The category includes all personal names established in the name authority file 
+except for names of non-human entities (e.g., names of individual fictitious and legendary 
+characters, individual gods and mythological figures, and individually named animals). For free-
+floating subdivisions that may be used with names of non-human entities, see H 1095.  
+D. General Principle  
+When assigning a name heading for a person, subdivide the name on a free-floating basis by 
+the appropriate form and topical subdivisions listed below. If a topical subdivision is assigned 
+which represents an important approach to the work, also provide direct subject access to that 
+topic by assigning an additional heading to the work. 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 3 
+ 
+ 
+E. Personal name headings 
+Assign an unsubdivided personal name heading for the complete biography of a person, 
+including autobiography, or for general discussion or criticism of the person’s life and/or work. 
+Also use unsubdivided personal name headings for works on more than three separate aspects 
+of an individual’s life or work, or discussing one or more specific topics not covered by 
+subdivisions on this list. Consult H 1330 for guidelines and instructions on assigning subject 
+headings to biographical works. 
+F. Free-floating subdivisions 
+As needed, subdivide personal name headings by appropriate form and topical subdivisions 
+from the list below on a free-floating basis. General form and topical subdivisions listed in H 
+1095 with the statement “Use under subjects” are also available for use under personal name 
+headings. Assign the subdivisions according to the guidelines and scope notes provided. 
+References to instruction sheets that mention or may contain more information about a 
+specific subdivision are included. If a specific subdivision is applicable to the topic of the work 
+being cataloged, use it without regard to the size of the file already accumulated or anticipated 
+about the person in the database. 
+G. Conflicts 
+Varying or conflicting and additional subdivisions have been established under a few unique 
+and highly significant individuals, for example, *Gautama Buddha*; *Muḥammad, Prophet, -
+632*; *Jesus Christ*; and *Shakespeare, William, 1564-1616*. In those cases, the established 
+subdivisions take precedence over this list and should continue to be used.  
+H. New subdivisions 
+Propose as additions to this list only new subdivisions having a wide range of potential 
+application. For specific topics applying only to unique or highly significant persons, establish 
+the subdivision under the name of the pertinent person for inclusion in the subject authority 
+file, for example, *Mary, Blessed Virgin*, Saint--Annunciation*. Do not establish specific topics 
+as subdivisions under the names of persons who are not prominent or well known. Instead 
+assign the closest subdivision from the list as described in sec. O below or use the unsubdivided 
+personal name heading with additional headings to bring out the particular topic. 
+I. Subtopics 
+For works discussing subtopics or aspects of topical subdivisions on the list that are too specific 
+to be separately established, assign the broader subdivision under which the topic is subsumed. 
+Make an additional entry under the specific topic.  
+
+
+<<<PAGE 4>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 4 
+ 
+ 
+Example: 
+Title: The professional ethics of Dr. John Smith, surgeon. 
+600 00 $a Smith, John $x Ethics. 
+650 #0 $a Surgeons $x Professional ethics. 
+Example: 
+Title: The murder trial of Wilbur Jackson 
+600 00 $a Jackson, Wilbur $x Trials, litigation, etc. 
+650 #0 $a Trials (Murder) $z Pennsylvania $z Pittsburgh. 
+J. Persons with multifaceted careers 
+J.1. General Rule 
+Treat persons with multifaceted careers according to the emphasis of the work at hand unless a 
+direct conflict exists between subdivisions on this list. For example, if a person such as *Luce, 
+Clare Boothe, 1903-1987*, is discussed as a diplomat and politician, assign subdivisions from 
+this list that are appropriate for use with that type of person. If another work deals with her as 
+a playwright, assign subdivisions from this list that are specifically designated for use under 
+literary authors.  
+J.2. Direct conflicts between subdivisions for use under literary authors and 
+subdivisions used under types of people 
+In situations where there is a direct conflict between general subdivisions on this list and 
+subdivisions specifically designated for use only under literary authors, assign subdivisions 
+pertinent to the field in which the person is better known. For example, the subdivision *--
+Writing skill* is used only under names of people who are not primarily known as literary 
+authors. This subdivision would not be used under the name of an author such as *Fitzgerald, F. 
+Scott (Francis Scott), 1896-1940*. 
+Once it has been determined that a person is better known in a particular field and a 
+subdivision appropriate for that field has been assigned under that person, continue to use that 
+subdivision for the concept in question. Do not assign a conflicting subdivision even if the work 
+in hand focuses on another field of activity. 
+K. Relation to specific disciplines, fields, or topics 
+In July 2020, three subdivisions on this list that related the person to specific disciplines, fields, 
+or topics were cancelled: * --Career in [specific field or discipline]*, *--Characters--[name of 
+
+
+<<<PAGE 5>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 5 
+ 
+ 
+individual character]*, and *--Knowledge--[specific topic]*. Guidelines on assigning headings 
+to works on a person’s relation to a specific discipline, field, or topic are given below. 
+K.1. Career in a specific field or discipline 
+Assign the name heading for the person without further subdivision to works limited to 
+describing events in a person’s occupational life or participation in a profession or vocation. 
+Also assign the name heading to works that discuss the person’s actual substantive 
+contributions or accomplishments in a specific field or topic, whether made as a result of a 
+vocation or an avocation. Assign an additional heading for the field or discipline. For example, a 
+work on George Washington’s career in surveying is assigned *Washington, George, 1732-
+1799* and *Surveying*. 
+K.2. Knowledge of a specific topic 
+Assign the name heading subdivided by *--Knowledge and learning* to works discussing the 
+person’s knowledge of a specific topic, whether explicitly stated or inferred from his or her life 
+and work, and for discussions of the person’s educational background in a specific topic. Assign 
+an additional heading for the specific topic. Also assign the subdivision *--Knowledge and 
+learning* to works about the person’s formal or informal learning or scholarship in general.  
+Note: In September 2004, two additional subdivisions relating individual persons to specific 
+fields or topics were discontinued with no replacements: *--Contributions in [specific field or 
+topic]* and *--Views on [specific topic]*. In July 2020, the subdivision *--Views on [specific 
+topic]* was also discontinued under the headings where it had been specifically established: 
+*Jesus Christ* and *Lincoln, Abraham, 1809-1865*. 
+For works discussing the person’s actual substantive contributions or accomplishments in a 
+specific field or topic, whether made as a result of a vocation or an avocation, assign the name 
+of the person in combination with a heading for the specific topic, etc. Also assign a heading for 
+the specific topic along with the name of the person for works discussing the person’s 
+philosophy or system of thought on a particular topic that he or she propounded or imparted to 
+others. For works discussing the person’s opinions or attitudes on a specific topic, whether 
+explicitly stated by the person or inferred from his or her life and works, assign the name of the 
+person and a heading for the topic.  
+K.3. Literary characters 
+Assign the name heading for the literary author subdivided by *--Characters* to works 
+discussing a specific group or category of characters of a literary author, or a specific named 
+character of the literary author. Assign an additional heading according to the guidance under 
+
+
+<<<PAGE 6>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 6 
+ 
+ 
+*--Characters* in the list below. Also assign the subdivision *--Characters* to general works on 
+the characters of a literary author. 
+L. Relations with specific classes of persons or ethnic groups 
+In July 2020, the subdivision *--Relations with [specific class of persons or ethnic group]* was 
+cancelled. Assign the personal name heading to works about the person’s relationship with a 
+specific class of persons or ethnic group. Assign an additional heading for the class of persons or 
+ethnic group, with appropriate subdivision if necessary.  
+The free-floating subdivisions *--Relations with men* and *--Relations with women*, which 
+are used under names of persons for works on their intimate relations with men and women, 
+respectively, remain valid. The subdivisions *--Adversaries*, *--Contemporaries*, *--Disciples*, 
+*--Employees*, *--Family*, and *--Friends and associates* also remain valid, and represent the 
+person’s relationships with those groups. Assign those subdivisions in accordance with the 
+guidance and scope notes provided under each. 
+M. Assignment of additional headings 
+Bring out by means of an additional heading the topic of a subdivision representing an 
+important aspect by which the work should be retrieved.  
+Many subdivisions are not important topics in their own right, for example, some form 
+subdivisions such as *--Pictorial works* and topical subdivisions such as *--Childhood and 
+youth*, which express personal aspects of an individual’s life. Other subdivisions, however, do 
+represent significant concepts which should be brought out by both a topical subdivision under 
+the person’s name and a subject heading for the topic itself. Situations requiring such additional 
+headings are noted in the list. 
+Example 
+Title: Goethe the alchemist : a study of alchemical symbolism in 
+Goethe’s literary and scientific works. 
+600 10 $a Goethe, Johann Wolfgang von, $d 1749-1832 $x Knowledge and 
+learning. 
+650 #0 $a Alchemy. 
+Example 
+Title: Voyage to China. 
+651 #0 $a China $x Description and travel. 
+600 10 $a Smith, John $x Travel $z China. 
+
+
+<<<PAGE 7>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 7 
+ 
+ 
+Note: Assign additional headings to biographical works and related material such as anecdotes, 
+correspondence, diaries, interviews, portraits, etc., according to the instructions in H 1330, 
+H 1480, H 1538, H 1678, etc. 
+N. Implementation 
+LC practice: The procedures in this instruction sheet apply mainly to new materials being 
+cataloged. Do not attempt to revise systematically the subject headings assigned to existing 
+records in the LC database. Reevaluate and revise as necessary those existing records 
+encountered during the course of normal cataloging activities. When assigning a new 
+subdivision from this list for the first time under the name of a person, correct records using a 
+conflicting subdivision under that person in the LC database. 
+O. List of topical subdivisions 
+A-B | C | D-E | F-J |K-M | N-P | Q-S | T-Y 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Abdication  
+$x Abstracts  
+Consult H 1205.  
+Acting 
+--  
+See “Dramatic production”; “Stage history”  
+$x Adversaries 
+ 
+Use for discussions of contemporaries who opposed 
+the person’s point of view or work. 
+$x Aesthetics 
+ 
+Use for discussions of the individual’s philosophy of 
+art or beauty, whether explicitly stated or inferred 
+from his or her creative works. For the person’s 
+knowledge of the aesthetics of others, see *--
+Knowledge and  learning*. 
+$x Alcohol use 
+ 
+Use for works about the person’s use or abuse of 
+alcohol. 
+See also *--Drug use*. 
+Allegory 
+ 
+-- 
+See “Symbolism” 
+$x Allusions 
+ 
+Use for contemporary (person’s life span) and early 
+brief references to the person. 
+See also *--Anecdotes*; *--Quotations*. 
+Anecdotes, facetiae, satire, 
+etc. 
+-- 
+See “Humor” 
+
+
+<<<PAGE 8>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 8 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Anniversaries, etc. 
+ 
+Use for works about the anniversary celebration 
+itself. Do not use for works merely published on the 
+occasion of an anniversary. 
+$x Anonyms and 
+pseudonyms 
+ 
+ 
+$x Appreciation 
+Yes 
+Use under persons active in the fine arts, literature, 
+music, and performing arts for works on public 
+response and reception, praise, etc., of the person’s 
+artistic or literary works. For works consisting of 
+critical analysis or interpretation of artistic or literary 
+works without biographical details, see *--Criticism 
+and interpretation*. For works on public opinion 
+about the person, see *--Public opinion*. For works 
+on the person’s impact on other persons, groups, 
+movements, or national literatures, see *--
+Influence*. For works on systems of beliefs and 
+rituals connected with divine persons or saints, see *-
+-Cult*. 
+$x Archaeological collections 
+ 
+Use for works about the person’s collections of 
+archaeological items or artifacts. Consult H 1427. 
+$x Art 
+ 
+Use under persons lived before 1400, and under 
+names of deities, mythological or legendary figures, 
+and fictitious characters for works about art depicting 
+the person, deity, or character. For works about art 
+depicting persons who lived after 1400, use the 
+subdivision Portraits. Also use under headings of the 
+type *[name heading]—[subdivision]* for works 
+about art depicting those topics. 
+$x Art collections 
+ 
+Use for works about the person’s own art collection. 
+Consult H 1427. 
+$x Art patronage 
+ 
+Use for works about the person’s support and 
+patronage of the arts. 
+$x Assassination 
+ 
+ 
+$x Assassination attempts 
+ 
+ 
+Associates 
+ 
+See “Friends and associates” 
+$x Authorship 
+ 
+Use for discussions on the attribution of authorship 
+of works to the person. For discussions of a non-
+literary person’s literary ability and accomplishments, 
+
+
+<<<PAGE 9>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 9 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+see *--Writing skill*. See also *--Spurious and 
+doubtful works*. 
+$x Authorship $x 
+Collaboration 
+ 
+ 
+Autobiography, [Person] 
+-- 
+Use “[name of person]” 
+Autographs, Spurious 
+-- 
+See “Forgeries” 
+$x Awards 
+ 
+ 
+Biography, [Person] 
+-- 
+Use “[name of person]” 
+$x Birth 
+ 
+Use for works discussing the events of an individual’s 
+birth, including birthdays, the date or year of the 
+person’s birth, etc. See also *--Birthplace*. 
+Birthday books 
+-- 
+See “Calendars” 
+$x Birthplace 
+ 
+ 
+$v Blogs 
+ 
+Use for blogs by or about the person. 
+Bones 
+-- 
+See “Relics”; “Tombs” 
+$x Bonsai collections  
+ 
+Use for works about the person’s collection of bonsai. 
+See H 1427. 
+$x Books and reading 
+ 
+Use for works about written material known to have 
+been read by the person, the person’s reading habits 
+and interests, books borrowed from friends or 
+libraries, etc. See also *--Library*. Consult H 1333. 
+Burial 
+-- 
+See “Death and burial” 
+$x Calendars 
+ 
+Use as a topical subdivision under names of 
+countries, cities, etc., names of individual corporate 
+bodies, and topical headings for works about lists of 
+recurring, coming, or past events occurring in those 
+places, associated with those organizations, or 
+relating to those topics. Also use under names of 
+individual persons for works about calendars that 
+include information on events associated with the 
+person or quotations from the person. See also *--
+Quotations*. 
+Canon 
+ 
+See “Authorship”; “Chronology”; “Criticism, Textual” 
+
+
+<<<PAGE 10>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 10 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Captivity 
+ 
+Use for works discussing periods in which the person 
+was held captive in bondage or confinement, 
+especially under house arrest, as a hostage, or in 
+battle. For works discussing periods in which the 
+person was actually imprisoned in a correctional 
+institution or prisoner of war camp, see *--
+Imprisonment*. See also *--Exile*; *--Kidnapping*. 
+Career in [specific field or 
+discipline] 
+-- 
+For works limited to describing events in the person’s 
+occupational life or participation in a profession or 
+vocation, assign the name of the person and an 
+additional heading for the field or discipline. Also 
+assign this combination of headings for works 
+discussing the person’s actual substantive 
+contributions or accomplishments in a specific field 
+or topic, whether made as a result of a vocation or an 
+avocation. See also *--Resignation from office*. 
+Career in politics 
+-- 
+See “Political activity” 
+$x Caricatures and cartoons 
+ 
+Use for works about caricatures or pictorial humor 
+about the person. 
+Cartoons, satire, etc. 
+-- 
+See “Humor”; “Caricatures and cartoons” 
+$x Catalogs 
+ 
+Use under names of individual artists, craftspersons, 
+families of artists and craftspersons, and corporate 
+bodies for works about lists of their art works or 
+crafts which are available or located in particular 
+institutions or places. Also use under persons or 
+families doing business as sellers under their own 
+names. See also; *--Discography*.  
+$x Censorship 
+Yes 
+ 
+$x Censures 
+ 
+ 
+Centennial celebrations, etc. 
+ 
+See “Anniversaries, etc.” 
+Character 
+ 
+See “Ethics”; “Psychology”; “Religion” 
+$x Characters 
+ 
+Use for general works about the characters of a 
+literary author. Also use for works about a specific 
+group or category of an author’s characters and 
+assign an additional heading of the type *[group or 
+category] in literature*. Also use for works about a 
+specific named character of a literary author. If the 
+
+
+<<<PAGE 11>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 11 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+character is a historical person, deity, mythological 
+figure, or legendary character, assign an additional 
+heading of type *[name]--In literature*, using the 
+name as established in the authority file. If the 
+character is fictitious, assign an additional heading for 
+the character, in accordance with H 1610. The 
+subdivisions *--Characters--Children, [Jews, 
+Physicians, etc.]* and *--Characters--[name of 
+individual character]* were discontinued in 2020. 
+$x Childhood and youth 
+ 
+ 
+$x Chronology 
+ 
+Use under names of individual persons and groups of 
+literary authors for works about the chronology of 
+events in the person's life or dates when works were 
+produced. Also use under uniform titles of sacred 
+works for works on the dating or order of occurrence 
+of events mentioned in the sacred work. Consult H 
+1367. 
+$x Cipher 
+ 
+ 
+$x Claims vs. … 
+ 
+Use for works about the legal claims filed by the 
+person. Complete the subdivision with the name of 
+the jurisdiction against which the claim was brought. 
+$x Clothing 
+ 
+ 
+$x Coin collections 
+ 
+Use for works about the person’s coin collection. 
+Consult H 1427. 
+$x Collectibles 
+Yes 
+Use for works about items of interest to collectors 
+that are related to the person or that portray topics 
+associated with the person. See also *--Autographs*; 
+*--Numismatics*; *--Portraits*; *--Posters*. 
+$x Comedies 
+ 
+Use for criticism of comedies by a literary author. Do 
+not use under dramatists who write principally 
+comedies 
+Commentaries 
+-- 
+See “Criticism and interpretation” 
+Companions 
+-- 
+See “Friends and associates” 
+$x Contemporaries 
+ 
+Use for works about other persons flourishing during 
+the person’s life, but not necessarily in close contact 
+with the person. See also *--Adversaries*; *--Friends 
+and associates*. 
+
+
+<<<PAGE 12>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 12 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+Contributions in [specific field 
+or topic] 
+ 
+Use for works discussing the person’s actual 
+substantive contributions or accomplishments in a 
+specific field or topic, whether made as a result of a 
+vocation or an avocation. Assign the name of the 
+person and an additional heading for the specific 
+topic, etc. Also assign this combination of two 
+headings for works discussing the person’s 
+philosophy or system of thought that he or she 
+propounded or imparted to others. 
+$x Coronation 
+ 
+ 
+$x Correspondence 
+ 
+Use for the letters from and/or to the person. Assign 
+an additional heading for individual correspondents. 
+Consult H 1480. 
+Costume 
+-- 
+See “Clothing” 
+$x Criticism, Textual 
+ 
+Use for works that aim to establish authoritative 
+texts, for example, comparison of manuscripts and 
+editions. Do not use for the critical explication of text. 
+$x Criticism and 
+interpretation 
+ 
+Use for works consisting of critical analysis or 
+interpretation of the person’s literary or artistic 
+works or endeavors without biographical details. Use 
+this subdivision only under persons active in the fine 
+arts, literature, music, and performing arts. For works 
+on public response and reception, praise, etc., of the 
+person’s artistic or literary works, see *--
+Appreciation*. 
+$x Criticism and 
+interpretation $x History 
+ 
+ 
+$x Criticism and 
+interpretation $x History $y 
+To 1500 
+ 
+ 
+$x Criticism and 
+interpretation $x History $y 
+16th century 
+ 
+ 
+$x Criticism and 
+interpretation $x History $y 
+17th century 
+ 
+ 
+
+
+<<<PAGE 13>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 13 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Criticism and 
+interpretation $x History $y 
+18th century 
+ 
+ 
+$x Criticism and 
+interpretation $x History $y 
+19th century 
+ 
+ 
+$x Criticism and 
+interpretation $x History $y 
+20th century 
+ 
+ 
+$x Criticism and 
+interpretation $x History $y 
+21st century 
+ 
+ 
+Crowning 
+ 
+See “Coronation” 
+$x Cult 
+Yes 
+Use under divine persons, saints, or persons 
+worshipped for systems of beliefs or rituals 
+associated with the person. 
+Date of birth 
+-- 
+See “Birth” 
+$x Death and burial 
+ 
+Use for works on the person’s death, funeral, or 
+burial, including the person’s last illness. See also *--
+Assassination*; *--Tomb*. 
+$x Death mask 
+ 
+ 
+Devotional literature 
+-- 
+See “Prayers and devotions” 
+$x Diaries 
+ 
+Use for collections or discussions of the person’s 
+diaries. Also use for individual diaries. Consult H 
+1538. 
+$x Disciples 
+ 
+Use for works discussing persons who received 
+instruction from the individual or accepted his or her 
+doctrines or teachings and assisted in spreading or 
+implementing them. 
+$x Discography 
+ 
+Use for lists or catalogs of sound recordings by or 
+about the person. See also *--Audiotape catalogs*. 
+Consult H 1361. 
+Diseases 
+-- 
+See “Health” 
+$x Divorce 
+ 
+ 
+
+
+<<<PAGE 14>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 14 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Dramatic production 
+ 
+ 
+Use under literary authors for various aspects of 
+stage presentation, for example, acting, costume, 
+stage setting and scenery. For historical aspects of 
+dramatic production, see *--Stage history*. For 
+performances of the works of composers, 
+choreographers, and performing artists, see *--
+Performances*. 
+$x Dramatic works 
+ 
+Use for criticism of dramatic works by a literary 
+author. Do not use under authors who write 
+principally drama. See also *--Comedies*; *--Motion 
+picture plays*; *--Radio and television plays*; *--
+Tragedies*; *--Tragicomedies*. 
+$x Dramaturgy 
+ 
+Use under composers for discussions of their 
+technique in writing operas and other dramatic 
+works. 
+$x Drug use 
+ 
+Use for works about the person’s use or abuse of 
+drugs. See also *--Alcohol use*. 
+Dwellings 
+-- 
+See “Homes and haunts” 
+Early life 
+-- 
+See “Childhood and youth” 
+Editions 
+-- 
+See “Bibliography” 
+Education 
+-- 
+See “Knowledge and learning” 
+$x Employees 
+ 
+Use for works discussing persons employed by the 
+individual, including household servants, etc. 
+Enemies 
+-- 
+See “Adversaries” 
+$x Estate 
+ 
+Use for discussions of the aggregate of property or 
+liabilities of all kinds that a person leaves for disposal 
+at his or her death, including discussions or cases of 
+contested estates. See also *--Will* 
+$x Ethics 
+ 
+Use for discussions of the individual’s personal ethics 
+and values. See also *--Religion*. 
+$x Ethnological collections 
+ 
+Use for works about the person’s ethnological 
+collections. Consult H 1427. 
+$x Examinations 
+ 
+ 
+$x Exile 
+Yes 
+ 
+$x Family  
+ 
+Use for discussions of the person’s family or relations 
+with family members. Also use for genealogical 
+works. Assign an additional heading for the name of 
+the family. See also *--Marriage*. Consult H 1631. 
+Fiction 
+ 
+See “In literature” 
+
+
+<<<PAGE 15>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 15 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Fictional works 
+ 
+Use for criticism of fictional works by a literary 
+author. Do not use under authors who write 
+principally fiction. See also *--Prose*.  
+Film and video adaptations 
+-- 
+See “Film adaptations” 
+$x Finance, Personal  
+ 
+Use for discussions of the person’s financial affairs. 
+See also *--Estate*; *--Will*. Consult H 1624. 
+$x First editions 
+ 
+ 
+Folktales 
+ 
+See “Legends” 
+$x Forgeries  
+Yes 
+Use for discussions of forgeries of the person’s 
+creative works or signature. In the case of individual 
+forgeries, assign an additional heading for the name 
+of the forger. 
+$x Freemasonry 
+ 
+Use for works discussing the person’s membership or 
+participation in the Freemasons. Frequented places, 
+see *--Homes and haunts*. 
+$x Friends and associates 
+ 
+Use for discussions of the person’s close and 
+immediate contacts, such as companions, coworkers. 
+See also *--Adversaries*; *--Contemporaries*; *--
+Disciples*; *--Employees*; *--Family*. 
+Funeral 
+-- 
+See “Death and burial” 
+Genealogy 
+-- 
+See “Family” 
+Grave 
+-- 
+See “Tomb” 
+$x Hadith 
+ 
+Use under imams for works on the oral tradition 
+concerning the deeds and saying of the imam. 
+Handwriting 
+-- 
+See “Autographs” 
+$x Harmony 
+ 
+Use under composers for works discussing their uses 
+of harmony. Consult H 1438. 
+Haunts 
+-- 
+See “Homes and haunts” 
+$x Health 
+ 
+Use for works about the person’s state of health, 
+including diseases suffered and accounts of specific 
+diseases. For accounts of specific diseases assign an 
+additional heading of the type: *[disease]--Patients--
+[place]--Biography*. See also *--Alcohol use*; *--
+Drug use*; *--Mental health*. 
+$x Herbarium 
+ 
+Consult H 1427. 
+$x Homes and haunts  
+Yes 
+Use for works discussing the person’s homes or 
+dwellings, favorite places, places he or she habitually 
+frequented, or places associated with the person in 
+some way. See also *--Birthplace*; *--Palaces*; *--
+Shrines*; *--Travel*. 
+
+
+<<<PAGE 16>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 16 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Humor 
+ 
+Use for humorous works about the person as well as 
+for works about the person’s sense of humor or use 
+of humor. For pictorial humor, see *--Caricatures and 
+cartoons*. 
+Iconography 
+ 
+See “Pictorial works” 
+$x Illustrations  
+ 
+Use for works about pictorial representations of their 
+written works. For works of art depicting the person 
+see *--Art*; *--Portraits*. 
+Imitations 
+ 
+See “Parodies, imitations, etc.” 
+$x Impeachment 
+ 
+ 
+$x Imprisonment 
+ 
+Use for works discussing periods in which the person 
+was actually imprisoned in a correctional institution 
+or a prisoner of war camp. For works discussing 
+periods in which the person was held captive in 
+bondage or confinement, especially under house 
+arrest, as a hostage, or in battle, see *--Captivity*. 
+See also *--Exile*. 
+$x In bookplates 
+ 
+ 
+$x In comics 
+ 
+ 
+$x In literature 
+ 
+Use for discussions of the person as a theme in belles 
+lettres, including musical dramatic works and 
+individual literary genres. The free-floating phrase 
+heading [name of person] in fiction, drama, poetry, 
+etc. was discontinued in August 1993. For works of 
+belles lettres about the person, or in which he or she 
+appears as a character, assign the appropriate form 
+subdivision, for example, *--Drama*; *--Fiction*; *--
+Literary collections*; *--Poetry*. Consult H 362; H 
+1780; H 1790; H 1800. 
+$x In mass media 
+ 
+ 
+$x In motion pictures 
+ 
+ 
+$x In opera 
+ 
+ 
+$x Inaugurations  
+ 
+ 
+$x Influence  
+ 
+Use for works discussing the person’s impact on 
+other persons, groups, movements, or national 
+literatures. Assign an additional heading for the 
+person, group, movement, or literature influenced. 
+For works on public response and reception, praise, 
+etc., of the artistic or literary works of persons active 
+
+
+<<<PAGE 17>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 17 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+in the fine arts, literature, music, and performing arts, 
+see *--Appreciation*. Consult H 1675. 
+$x Information services  
+ 
+Consult H 1675.5. 
+Internment 
+-- 
+See “Death and burial” 
+Interpretation 
+-- 
+See “Criticism and interpretation”  
+$x Interviews 
+ 
+Use for works about interviews with the person. 
+Consult H 1678.  
+Journals 
+-- 
+See “Diaries” 
+Journeys 
+-- 
+See “Travel” 
+$x Kidnapping 
+ 
+ 
+$x Knowledge and learning 
+ 
+Use for works about the person’s formal or informal 
+learning or scholarship in general. Also use for works 
+discussing the person’s knowledge of a specific topic, 
+whether explicitly stated or inferred from his or her 
+life and work, and for discussions of the person’s 
+educational background in a specific topic. Assign an 
+additional heading for the specific topic. The 
+subdivision *--Knowledge--[specific topic]* was 
+discontinued in July 2020. For works on the person’s 
+opinions or attitudes on a specific topic, whether 
+explicitly stated or inferred, assign the heading for 
+the person and an additional heading for the specific 
+topic. For discussions of the themes in the person’s 
+creative works, see *--Themes, motives*. 
+$x Language 
+ 
+Use for works on the person’s language in general on 
+the linguistic rather than the artistic level. For works 
+on specific linguistic topics, assign an additional 
+heading for the topic. See also *--Writing skill*; *--
+Literary style*; *--Oratory*; *--Technique*; *--
+Versification*. 
+$x Language $v Glossaries, 
+etc. 
+ 
+Consult H 1540. 
+Last illness 
+-- 
+See “Death and burial” 
+$x Last years 
+ 
+See also *--Death and burial*. 
+Leadership, Military 
+-- 
+See “Military leadership” 
+Learning 
+-- 
+See “Knowledge and learning” 
+$x Legends 
+ 
+Use for stories about literary versions of legendary 
+tales about those persons, characters, or topics. See 
+also *--Romances*. 
+Letters 
+-- 
+See “Correspondence” 
+
+
+<<<PAGE 18>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 18 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Library 
+ 
+Use for works discussing the person’s own library. 
+See also *--Books and reading*. Consult H 1427. 
+$x Library resources 
+ 
+Use for works describing the resources or special 
+collections available in libraries for research or study 
+about the person. 
+Literary art 
+-- 
+See “Writing skill” 
+$x Literary collections 
+ 
+Use for literary anthologies about the person that 
+involve two or more literary forms. For anthologies in 
+one literary form, see the form, for example, *--
+Drama*; *--Fiction*; *--Poetry*. 
+$x Literary style 
+ 
+Use under literary authors for discussions of rhetoric, 
+figures of speech, and artistic use of language in 
+general. See also *--Language*; *--Technique*; *--
+Writing skill*. 
+Litigation 
+-- 
+See “Trials, litigation, etc.” 
+$x Manuscripts 
+ 
+Use for works discussing writings made by hand, 
+typewriter, etc., by or about the person. Do not use 
+for individual works in manuscript form. See also *--
+Archives*; *--Autographs*; *--Correspondence*; *--
+Diaries*; *--Notebooks, sketchbooks, etc.* 
+$x Map collections  
+ 
+Use for works about the person’s collections of maps. 
+Consult H 1427. 
+$x Marriage 
+ 
+See also *--Divorce*. 
+$x Medals 
+ 
+ 
+$x Mental health 
+ 
+Use for works discussing the person’s state of mental 
+health, including mental illness and accounts of 
+specific mental disorders. For accounts of specific 
+disorders or situations, assign an additional heading 
+of the type: *[disease]--Patients--[place]--
+Biography*; *Psychotherapy patients--[place]--
+Biography*; etc. 
+$x Military leadership 
+ 
+ 
+$x Miracles 
+ 
+Use under persons to whom miracles are attributed. 
+$x Monuments  
+Yes 
+Use for works about monuments erected in honor of 
+the person. See also *--Museums*; *--Shrines*; *--
+Tomb*. Consult H 1334. 
+$x Motion picture plays 
+ 
+Use for discussions of film scripts written by a literary 
+author. Do not use under authors who write 
+principally motion picture plays. For discussions of 
+
+
+<<<PAGE 19>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 19 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+motion picture adaptations of the person’s creative 
+works, see *--Film adaptations*. 
+Motives, themes 
+-- 
+See “Themes, motives” 
+$x Museums  
+Yes 
+ Use for works on museums devoted to the person.  
+See also *--Archives*; *--Collectibles*; *--Death 
+mask*; *--Relics*; *--Shrines*; *--Tomb*. 
+Music 
+-- 
+See “Songs and music” 
+$x Musical instrument 
+collections  
+ 
+Use for works about the person’s collections of 
+musical instruments. Consult H 1427. 
+$x Musical settings 
+ 
+Use for works on musical compositions based the 
+person’s written works or words. Also use under 
+individual literatures for works on musical 
+compositions based on texts of those literatures. 
+$x Musical settings $x 
+History and criticism 
+ 
+ 
+$x Name 
+ 
+Use for discussions of the history, orthography, 
+etymology, etc., of the person’s name. See also *--
+Anonyms and pseudonyms*; *--Titles*. 
+Consult H 1919. 
+$x Natural history 
+collections  
+ 
+Use for works about the person’s collections of 
+natural history items or specimens. Consult H 1427. 
+$x Notebooks, sketchbooks, 
+etc. 
+ 
+Use works about notebooks, sketchbooks, etc., of the 
+person.  
+$x Numismatic collections  
+ 
+Use for works about the person’s numismatics 
+collections. See also *--Coin collections*. Consult H 
+1427. 
+$x Numismatics 
+ 
+Use for works discussing the representation of the 
+person on coins, tokens, medals, paper money, etc. 
+See also *--Medals*. 
+Old age 
+-- 
+See “Last years” 
+Opponents 
+-- 
+See “Adversaries 
+$x On postage stamps 
+ 
+Use for works about the portrayal of the person on 
+postage stamps. Consult H 1945. 
+$x On television 
+ 
+Use for works that discuss television programming 
+about the person, including dramatic or documentary 
+shows, news programs, and advertising. Do not use 
+for works on the person as a television actor, 
+television host, news anchor, etc.  
+$x Oratory 
+-- 
+Use for works discussing the person’s public speaking 
+ability.  
+
+
+<<<PAGE 20>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 20 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Palaces 
+Yes 
+ 
+Paraphrases 
+-- 
+See “Adaptations” 
+$x Pardon 
+ 
+Use for works about the person’s legal release from 
+the penalty of an offense. 
+$x Parodies, imitations, etc. 
+ 
+Use for imitations, either comic or distorted, of the 
+person’s creative works. 
+Patronage of the arts 
+-- 
+ See “Art patronage” 
+$x Performances 
+Yes 
+Use under performing artists or performers of all 
+types for works about their performances. Also use 
+under composers, choreographers, etc. for works 
+about performances of their compositions or works. 
+See also *--Dramatic production*; *--Stage history*. 
+Personal finance 
+-- 
+See “Finance, Personal’ 
+Personality 
+-- 
+See “Psychology” 
+$x Philosophy 
+ 
+Use for discussions of the individual's personal 
+philosophy. Do not use under names of philosophers. 
+See also *--Aesthetics*; *--Ethics*; *--Religion*. 
+Consult H 1929. 
+$x Photograph collections  
+ 
+Use for works about the person’s collections of 
+photographs. See H 1427. 
+Pictorial humor 
+-- 
+See “Caricatures and cartoons” 
+Place of birth 
+-- 
+ See “Birthplace” 
+Places frequented 
+-- 
+See “Homes and haunts” 
+Plots 
+-- 
+See “Stories, plots, etc.” 
+$x Poetic works 
+ 
+Use for discussions of poetic works by a literary 
+author. Do not use under authors who write 
+principally poetry. 
+$x Political activity  
+Yes 
+Do not use under persons who are chiefly known as 
+politicians. 
+$x Political and social views 
+ 
+Use for works discussing the person’s political and/or 
+social views in general. Do not assign to works 
+written by the person on political or social topics. For 
+works on specific topics, assign the heading for the 
+topic along with the heading for the person 
+(subdivided by *--Political and social views*, if 
+appropriate). 
+$x Portraits  
+ 
+Use for collections or discussions of portraits of 
+persons living after 1400 A.D. For persons living 
+before 1400, see *--Art*. See also *--Caricatures and 
+cartoons*; *--Death mask*; *--Numismatics*; *--On 
+
+
+<<<PAGE 21>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 21 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+postage stamps*; *--Posters*; *--Self-portraits*; *--
+Statues*. Consult H 1935. 
+$x Poster collections  
+ 
+Use for works about the person’s collections of 
+posters. Consult H 1427. 
+$x Posters  
+ 
+Use for works about posters the person. Consult H 
+1945.5 
+$x Prayers and devotions 
+ 
+Use for works about prayers intended for their use. 
+$x Prayers and devotions $x 
+History and criticism 
+ 
+ 
+$x Pre-existence 
+ 
+Use for works discussing the person’s existence in a 
+previous state or life. 
+Professional life 
+-- 
+See “Career in [specific field or discipline]” 
+$x Prophecies 
+ 
+Use for works about prophecies made by the person. 
+$x Prose 
+ 
+Use for discussions of prose works or passages by a 
+literary author. Do not use under authors who write 
+principally prose. See also *--Fictional works*. 
+Pseudonyms 
+-- 
+See “Anonyms and pseudonyms” 
+$x Psychology 
+ 
+ 
+Use for discussions or interpretations of the person’s 
+psychological traits, personality, character, etc. See 
+also *--Mental health*. 
+$x Public opinion  
+ 
+Use for works about public opinion about the person. 
+For works on public response and reception, praise, 
+etc. of the artistic or literary works of persons active 
+in the fine arts, literature, music, and performing arts, 
+see *--Appreciation*. Consult H 1955. 
+Public speaking 
+-- 
+See “Oratory” 
+$x Quotations 
+ 
+Use for collections or discussions of quotations by or 
+about the person. See also *--Allusions*; *--
+Calendars*. Consult H 1969. 
+$x Radio and television 
+plays 
+ 
+Use for discussions of scripts written by a literary 
+author expressly for radio or television. Do not use 
+under authors who write principally radio or 
+television plays. For discussions of audio or video 
+adaptations of the person’s creative works, see *--
+Audio adaptations*; *--Film adaptations*. 
+Reading habits 
+-- 
+See “Books and reading” 
+Relations with [specific class 
+of persons or ethnic group] 
+-- 
+This subdivision was cancelled in July 2020. Assign the 
+name of the person and an additional heading for the 
+class of persons or ethnic group, with appropriate 
+subdivision if necessary.  
+
+
+<<<PAGE 22>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 22 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+Relations with employees 
+-- 
+See “Employees” 
+Relations with friends and 
+associates 
+-- 
+See “Friends and associates” 
+$x Relations with men 
+ 
+Use for works on intimate associations. For works on 
+relations with an individual man, assign an additional 
+heading for the man. 
+$x Relations with women 
+ 
+Use for works on intimate associations. For works on 
+relations with an individual woman, assign and 
+additional heading for the woman. 
+$x Relics 
+Yes 
+Includes works on disinterred bones. See also *--
+Death mask*. 
+$x Religion 
+ 
+Use for discussions of the person’s religious beliefs 
+and practices. Also includes the person’s knowledge 
+or views on religion in general. Do not use under 
+names of theologians. See also *--Ethics*. Consult H 
+1997. 
+Residences 
+-- 
+See “Homes and haunts” 
+$x Resignation from office 
+ 
+See also *--Abdication*; *--Impeachment*. 
+Rhetoric 
+-- 
+See “Literary art”; “Literary style”; “Oratory” 
+$x Romances 
+ 
+Use for works about texts of medieval (that is, pre-
+1501) European tales based chiefly on legends of 
+chivalric love and adventure in which those persons 
+or characters are the dominant character. Consult H 
+1795. 
+Satires 
+-- 
+See “Humor” 
+Sayings 
+-- 
+See “Quotations” 
+Scholarship 
+-- 
+See “Knowledge and learning” 
+$x Scientific apparatus 
+collections 
+ 
+Use for works about the person’s collections of 
+scientific apparatus. Consult H 1427. 
+Screenplays 
+-- 
+See “Motion picture plays” 
+$x Seal 
+ 
+Use for works discussing the devices, such as 
+emblems, symbols, or words used by an individual to 
+authenticate his or her writings or documents. 
+$x Self-portraits 
+ 
+Use for works about self-portraits by those persons. 
+Sepulchral monument 
+-- 
+See “Tomb” 
+$x Settings 
+ 
+Use under literary authors for discussions of the 
+settings of their works. 
+$x Sexual behavior 
+ 
+ 
+$x Shrines 
+Yes 
+Use for works discussing structures or places 
+consecrated or devoted to the person and serving as 
+
+
+<<<PAGE 23>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 23 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+places of religious veneration or pilgrimage. See also 
+*--Museums*; *--Relics*. 
+Sketchbooks 
+-- 
+See “Notebooks, sketchbooks, etc.” 
+$x Slide collections 
+ 
+Use for works about the person’s collections of slides. 
+Consult H 1427. 
+Social views 
+-- 
+See “Political and social views” 
+$x Societies, etc.  
+ 
+Use for works discussing organizations devoted to or 
+specializing in the person’s life or work. Consult H 
+2060. 
+$x Songs and music  
+ 
+Use for works about vocal or instrumental music 
+about those subjects. Consult H 2075. 
+$x Songs and music $x 
+History and criticism  
+ 
+Consult H 2075. 
+$x Sources 
+ 
+Use for systems of law for works about source 
+materials on those topics or systems. Also use under 
+for works about the individual's sources of ideas or 
+inspiration for their works.  
+Spiritual life 
+-- 
+See “Religion” 
+$x Spiritualistic 
+interpretations 
+ 
+Use for works classed in BF1311.A-Z (Special topics, 
+including names of individual persons). 
+$x Spurious and doubtful 
+works 
+ 
+Use for works that discuss works attributed to a 
+person at a previous time. See also *--Authorship*. 
+$x Stage history 
+Yes 
+Use under literary authors for historical aspects of 
+dramatic production. For general works on stage 
+presentation, see *--Dramatic production*. For 
+performances of the works of composers, 
+choreographers, and performing artists, see *--
+Performances*. 
+$x Stamp collections 
+ 
+Use for works about the person’s stamp collections. 
+For works about the portrayal of the person on 
+postage stamps, see *--On postage stamps*. Consult 
+H1427. 
+$x Statues 
+Yes 
+Use for works discussing or containing reproductions 
+of statues representing the person. 
+Stories of operas 
+ 
+See “Stories, plots, etc.” 
+$x Stories, plots, etc. 
+ 
+Use for works about the stories or plots of those 
+composers, authors, literatures, and compositions. 
+Style, Literary 
+-- 
+See “Writing skill”; “Literary style” 
+$x Symbolism 
+ 
+Use for discussions of the symbols employed by the 
+person in his or her creative works. 
+
+
+<<<PAGE 24>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 24 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+Table-talk 
+-- 
+See “Quotations” 
+Tales 
+-- 
+See “Legends”; “Romances” 
+$x Teachings 
+ 
+Use for works discussing in general the body of 
+knowledge, precepts, or doctrines the person taught 
+to others. 
+$x Technique 
+ 
+Use under literary authors for discussions of 
+structural and formal elements in drama, fiction, and 
+narrative poetry, such as asides, soliloquies, unities, 
+scene structure, and stream-of-consciousness. 
+$x Television adaptations 
+ 
+ 
+Textual criticism  
+-- 
+See “Criticism, Textual” 
+Theology 
+ 
+See “Religion” 
+$x Titles 
+ 
+Use for terms or phrases applied to the person as 
+titles of address, titles of nobility, etc. 
+$x Tomb 
+ 
+Use for works about the person’s grave, interred 
+bones, etc. For works on disinterred bones, see *--
+Relics*. See also *--Death and burial*. 
+$x Tragedies 
+ 
+Use for criticism of tragedies by a literary author. Do 
+not use under dramatists who write principally 
+tragedies. 
+$x Tragicomedies 
+ 
+Use for criticism of tragicomedies by a literary author. 
+Do not use under dramatists who write principally 
+tragicomedies. 
+$x Translations 
+ 
+ 
+$x Translations $x History 
+and criticism 
+ 
+ 
+$x Translations into French, 
+[German, etc.] 
+ 
+ 
+$x Translations into French, 
+[German, etc.] $x History 
+and criticism 
+ 
+ 
+$x Travel 
+Yes 
+Use for works about voyages and travels undertaken 
+by the person whether written by the person or by 
+others. When the subdivision is further subdivided by 
+place, assign an additional heading of the type 
+*[place]--Description and travel*. See also *--Exile*. 
+$x Trials, litigation, etc.  
+ 
+Use for works about civil or criminal actions to which 
+they are parties. Consult H 2228. 
+
+
+<<<PAGE 25>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 25 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Versification 
+ 
+Use for discussions of a literary author's technique of 
+writing verse, including the structural composition of 
+poetry, rhythm, rhyme, alliteration, etc. 
+Video adaptations 
+ 
+See “Film adaptations” 
+Views on [specific topic] 
+-- 
+For works discussing the person’s opinions or 
+attitudes on a specific topic, whether explicitly stated 
+or inferred, assign the heading for the person and an 
+additional heading for the specific topic. For works on 
+the person’s knowledge of a specific topic, whether 
+explicitly stated or inferred from his or her life and 
+works, see *--Knowledge and learning*. 
+Views on aesthetics 
+-- 
+See “Aesthetics” 
+Views on ethics 
+-- 
+See “Ethics” 
+Views on politics and society 
+-- 
+See “Political and social views” 
+Views on religion 
+-- 
+See “Religion” 
+Views on society 
+-- 
+See “Political and social views” 
+Voyages 
+-- 
+See “Travel” 
+Weblogs 
+-- 
+See “Blogs” 
+$x Will 
+ 
+Use for discussions of the person’s legal declaration 
+regarding the disposition of his or her property or 
+estate, including discussions or cases of contested 
+wills. See also *--Estate*. 
+$x Writing skill 
+ 
+Use for discussions of a non-literary person’s literary 
+ability and accomplishments, including discussions of 
+literary works by persons normally identified with 
+another field. Do not use under multi career persons 
+who are also recognized as literary authors. For 
+discussions on the attribution of authorship of 
+specific works to the person, see *--Authorship*. See 
+also *--Literary style*; *--Written works*. 
+$x Written works 
+ 
+Use under persons active in the fine arts, music and 
+performing arts for discussions, listings, etc., of their 
+non-literary textual works. Do not use under persons 
+also known as literary authors.  
+Youth 
+ 
+See “Childhood and youth” 
+ 
+
+
+<<<PAGE 26>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 26 
+ 
+ 
+P. List of form subdivisions 
+A-C | D-J | L-P | R-W 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$v Adaptations 
+ 
+Use under individuals such as literary authors, artists, 
+or composers for collections of adaptations by others 
+of their creative works or for discussions of 
+adaptations. For collections or discussions of an 
+individual's adaptations of themes from others, see 
+*-- Sources*. 
+$v Anecdotes 
+ 
+Use for collections of brief narratives of true 
+incidents from the individual’s life. See also *--
+Allusions*. 
+Anecdotes, facetiae, satire, 
+etc. 
+-- 
+ See “Anecdotes” 
+$v Archives 
+ 
+Use for collections or discussions of documentary 
+materials or records relating to the person’s public or 
+private activities, including manuscripts, diaries, 
+correspondence, photographs, or other items of 
+historical interest. See also *--Correspondence*; *--
+Diaries*; *--Manuscripts*; *--Notebooks, 
+sketchbooks, etc*. Consult H 1230. 
+$v Art 
+ 
+Use under persons living before 1400 A.D. for works 
+consisting of reproductions of works of art depicting 
+the person, or works discussing such art. For persons 
+living after 1400, see *--Portraits*. For pictorial 
+representations of the person’s written works, see *--
+Illustrations*. 
+$v Audio adaptations 
+ 
+Use for discussions or collections of audio 
+adaptations of the person’s creative works. 
+$v Audiocassette catalogs 
+ 
+Consult H 1361 
+$v Audio catalogs 
+ 
+Consult H 1361 
+$v Autographs 
+ 
+Use for collections or discussions of the person’s 
+autographs or handwriting. 
+$v Bibliography 
+ 
+Use for lists of publications by or about the person. 
+Consult H 1322. 
+$v Biography 
+-- 
+Use as a form subdivision under names of countries, 
+cities, etc., names of individual corporate bodies, 
+uniform titles of sacred works, and under classes of 
+
+
+<<<PAGE 27>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 27 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+persons, ethnic groups, types of animals, and historic 
+events for works of collective or individual biography. 
+Birthday books 
+-- 
+See “Calendars” 
+$v Blogs 
+ 
+Use for blogs by or about the person. 
+$v Calendars 
+ 
+See also *--Quotations*. 
+Canon 
+ 
+See “Chronology” 
+$v Caricatures and cartoons 
+ 
+Use for collections or discussions of caricatures or 
+pictorial humor about the person. See also *--Comic 
+books, strips, etc.* 
+Cartoons, satire, etc. 
+-- 
+See “Caricatures and cartoons”; “Humor” 
+$v Catalogs 
+ 
+Use under artists and craftspersons for works listing 
+their art works or crafts which are available or 
+located in particular institutions or places. Also use 
+under persons doing business as sellers under their 
+own names. See also *--Audiocassette catalogs*; *--
+Audiotape catalogs*; *--Catalogues raisonnés*; *--
+Compact disc catalogs*; *--Correspondence--
+Microform catalogs*; *--Discography*; *--Library--
+Microform catalogs*; *--Thematic catalogs*. Consult 
+H 1360. 
+$v Catalogues raisonnés 
+ 
+Use for comprehensive listings of an artist’s or 
+craftperson’s works in one medium or all media, 
+usually chronologically or systematically arranged, 
+and accompanied by descriptive or critical notes. 
+$v Chronology 
+ 
+Use for works that list by date the events in the life of 
+the person or the person’s works, as well as 
+discussions of the chronology of such events or 
+works. Consult H 1367. 
+$v Comic books, strips, etc. 
+ 
+ 
+$v Compact disc catalogs  
+ 
+Consult H 1361. 
+$v Concordances 
+ 
+Use as a form subdivision for indexes to the principal 
+words found in the writings of the person. Consult H 
+1670. 
+$v Correspondence 
+ 
+Use as a form subdivision for the letters from and/or 
+to the person. Assign an additional heading for 
+individual correspondents. Consult H 1480. 
+
+
+<<<PAGE 28>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 28 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$x Correspondence $v 
+Microform catalogs 
+ 
+Use this subdivision combination as a form 
+subdivision under names of individual persons. 
+Consult H 1361. 
+Devotional literature 
+-- 
+See “Prayers and devotions” 
+$v Diaries 
+ 
+Use for collections or discussions of the person’s 
+diaries. Also use for individual diaries. Consult H 
+1538. 
+$v Discography 
+ 
+Use for lists or catalogs of sound recordings by or 
+about the person. See also *--Audiotape catalogs*. 
+Consult H 1361. 
+$v Drama 
+ 
+Use as a form subdivision for plays and musical 
+dramatic works, including operas, ballets, musical 
+comedies, etc., about the person. For criticism or 
+discussions of plays, etc., about an individual, assign 
+*[name of person]--In literature* as a topical 
+heading. 
+$v Dramatic production 
+ 
+ 
+Use under literary authors for various aspects of 
+stage presentation, for example, acting, costume, 
+stage setting and scenery. For historical aspects of 
+dramatic production, see *--Stage history*. For 
+performances of the works of composers, 
+choreographers, and performing artists, see *--
+Performances*. 
+Editions 
+-- 
+See “Bibliography” 
+$v Examinations, questions, 
+etc. 
+ 
+ 
+$v Fiction 
+ 
+Use as a form subdivision for works of fiction about 
+the person. For criticism or discussions of fiction 
+about a person, assign *[name of person]--In 
+literature* as a topical heading. Consult H 1790. 
+$v Film adaptations 
+ 
+Use for discussions or collections of motion picture or 
+video adaptations of the person’s creative works. 
+Film and video adaptations 
+-- 
+See “Film adaptations” 
+$x First editions $v 
+Bibliography 
+ 
+Use this combination as a form subdivision under 
+names of individual persons and individual literatures 
+for lists of first editions of those works and those 
+literatures. 
+Folktales 
+ 
+See “Legends” 
+$v Genealogy 
+ 
+  
+
+
+<<<PAGE 29>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 29 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+Glossaries 
+-- 
+See “Language—Glossaries, etc.” 
+Handwriting 
+-- 
+See “Autographs” 
+$v Humor 
+ 
+Use as a form subdivision for humorous works about 
+the person as well as for works about the person’s 
+sense of humor or use of humor. For pictorial humor, 
+see *--Caricatures and cartoons*. 
+Iconography 
+ 
+See “Pictorial works” 
+$v Illustrations  
+ 
+Use for collections or discussions of pictorial 
+representations of the person’s written works. For 
+works of art depicting the person see *--Art*; *--
+Portraits*. 
+Imitations 
+ 
+See “Parodies, imitations, etc.” 
+$v Interviews 
+ 
+Use for works about interviews or works consisting of 
+transcripts of what was said during the course of 
+interviews or conversations with the person on one 
+or more occasions. Consult H 1678. 
+Journals 
+-- 
+See “Diaries” 
+$v Juvenile drama 
+ 
+ 
+$v Juvenile fiction 
+ 
+ 
+$v Juvenile humor 
+ 
+ 
+$v Juvenile poetry 
+ 
+ 
+$v Legends 
+ 
+Use as a form subdivision for stories about the 
+person which have come down from the past and 
+which are popularly taken as historical though not 
+verifiable. See also *--Romances*. 
+Letters 
+-- 
+See “Correspondence” 
+Litigation 
+-- 
+See “Trials, litigation, etc.” 
+Marginalia 
+-- 
+See “Library--Marginal notes”; “Scholia” 
+$v Meditations 
+ 
+Use as a form subdivision for works containing 
+descriptions of thoughts or reflections on the 
+spiritual significance of the person’s life or deeds. 
+Music 
+-- 
+See “Songs and music” 
+$v Musical settings 
+ 
+Use as a form subdivision for musical scores or sound 
+recordings in which writings or words of the person 
+have been set to music. 
+$v Notebooks, sketchbooks, 
+etc. 
+ 
+Use for collections or discussions of the person’s 
+notebooks, sketchbooks, etc. Also use for individual 
+works.  
+$v Outlines, syllabi, etc. 
+ 
+ 
+Paraphrases 
+-- 
+See “Adaptations” 
+
+
+<<<PAGE 30>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 30 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+$v Parodies, imitations, etc. 
+ 
+Use as both a form and topical subdivision for 
+imitations, either comic or distorted, of the person’s 
+creative works. 
+Pictorial humor 
+-- 
+See “Caricatures and cartoons” 
+$v Pictorial works 
+ 
+Use for works consisting of pictures or visual images 
+relating to the person. See also *--Art*; *--
+Caricatures and cartoons*; *--Comic books, strips, 
+etc.*; *--Illustrations*; *--Monuments*; *--
+Portraits*. Consult H 1935. 
+Plots 
+-- 
+See “Stories, plots, etc.” 
+$v Poetry 
+ 
+Use as a form subdivision for works of poetry about 
+the person. For criticism or discussions of poetry 
+about a person, assign *[name of person]--In 
+literature* as a topical heading. 
+ 
+$v Political activity  
+Yes 
+Do not use under persons who are chiefly known as 
+politicians. 
+$v Portraits  
+ 
+Use for collections or discussions of portraits of 
+persons living after 1400 A.D. For persons living 
+before 1400, see *--Art*. See also *--Caricatures and 
+cartoons*; *--Death mask*; *--Numismatics*; *--On 
+postage stamps*; *--Posters*; *--Self-portraits*; *--
+Statues*. Consult H 1935. 
+$v Posters  
+ 
+Use for collections or discussions of posters depicting 
+the person. Consult H 1945.5 
+$v Prayers and devotions 
+ 
+Use as a form subdivision, particularly under divine 
+persons or saints, for works of devotions directed to 
+those persons whose help or prayers are requested. 
+$v Romances 
+ 
+Use as a form subdivision under names of historical 
+or legendary figures for medieval tales about the 
+person based chiefly on legends of chivalric love and 
+adventure. Do not use for romances written by the 
+person. Consult H 1795. 
+Satires 
+-- 
+See “Humor” 
+Sayings 
+-- 
+See “Quotations” 
+$v Scholia 
+ 
+Use for marginal annotations, explanatory comments 
+or remarks, especially those by early grammarians on 
+the text of a classical work. 
+$v Self-portraits 
+ 
+Use for reproductions or discussions of self-portraits 
+by the artist or photographer. 
+
+
+<<<PAGE 31>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 31 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+Sketchbooks 
+-- 
+See “Notebooks, sketchbooks, etc.” 
+$v Slides 
+ 
+ 
+$v Songs and music  
+ 
+Use as a form subdivision for collections or single 
+works of vocal or instrumental music about the 
+person. For collections or single works in musical 
+dramatic forms, such as operas, ballets, musical 
+comedies, see *--Drama*. Consult H 2075. 
+$v Sources 
+ 
+Use for collections of materials that served as the 
+person’s sources of ideas or inspiration for his or her 
+endeavors or creative works and for discussions of 
+those source materials. For collections or discussions 
+of adaptations by others of an individual's creative 
+works, see *--Adaptations*. 
+$v Spurious and doubtful 
+works 
+ 
+Use for discussions or collections of works attributed 
+to the person at some previous time. Do not use for a 
+single work. See also *--Authorship*. 
+Stories of operas 
+ 
+See “Stories, plots, etc.” 
+$v Stories, plots, etc. 
+ 
+Use under composers, choreographers, and literary 
+authors for works summarizing or discussing the 
+stories or plots of their works. 
+Table-talk 
+-- 
+See “Quotations” 
+Tales 
+-- 
+See “Legends”; “Romances” 
+$v Telephone calls 
+ 
+ 
+$v Television adaptations 
+ 
+ 
+$v Thematic catalogs 
+ 
+Use under composers for lists of their musical 
+compositions that include musical notation for the 
+opening measures of individual works or sections of 
+works. Consult H 1322, H 1438. 
+$v Themes, motives 
+ 
+Use under composers for lists of their musical 
+compositions that include musical notation for the 
+opening measures of individual works or sections of 
+works. 
+$v Translations 
+ 
+Use for collections of translations of a literary author. 
+Do not use as a form heading for single translations. 
+Consult H 2220. 
+$v Translations into French, 
+[German, etc.] 
+ 
+ 
+$v Trials, litigation, etc.  
+ 
+Use for proceedings or discussions of proceedings of 
+civil or criminal actions to which the person is a party. 
+Consult H 2228. 
+
+
+<<<PAGE 32>>>
+Subject Headings Manual | Free-Floating Subdivisions: Names of Persons H 1110 | Page 32 
+ 
+ 
+Subdivision 
+May 
+Subd 
+Geog 
+Notes 
+Video adaptations 
+-- 
+See “Film adaptations” 
+Weblogs 
+-- 
+See “Blogs” 
+Revision history 
+2026-01: Updated template. Separated general and form subdivisions. Added instructions 
+related to LCGFT implementation. 

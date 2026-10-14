@@ -1,0 +1,67 @@
+
+
+<<<PAGE 1>>>
+ 
+Hawaii  H 975 
+ 
+ 
+ 
+Subject Headings Manual 
+H 975 Page 1 
+ 
+June 2013 
+1.  Hawaii as a heading or subdivision.  Assign Hawaii as a subject heading or geographic 
+subdivision for works dealing with the state of Hawaii regardless of the period covered.  
+Examples: 
+ 
+651 #0 $a Hawaii $x Antiquities. 
+650 #0 $a Japanese Americans $z Hawaii. 
+650 #0 $a Housing $z Hawaii $z Hawaii Island. 
+ 
+ 
+ 
+2.  Geographic qualifiers. 
+ 
+a.  Hawaii as a qualifier.  Use (Hawaii) as a qualifier in Hawaiian geographic names.  
+Do not use individual island names except in cases of conflict. 
+ 
+Examples: 
+ 
+151 ## $a Pearl Harbor (Hawaii) 
+151 ## $a Lanai (Hawaii) 
+ 
+b.  Entities in cities.  For entities within a city, add the city name before Hawaii in the 
+qualifier, for example, Hawaii State Capitol (Honolulu, Hawaii). 
+ 
+c.  Conflicts.  In cases of conflict, add the island or island group name before Hawaii in 
+the qualifier.  The main islands are: 
+ 
+Hawaii Island (Hawaii) 
+ 
+ 
+Maui (Hawaii) 
+Kahoolawe (Hawaii)  
+ 
+ 
+Molokai (Hawaii) 
+Kauai (Hawaii) 
+ 
+ 
+ 
+Niihau (Hawaii) 
+Lanai (Hawaii) 
+ 
+ 
+ 
+Oahu (Hawaii) 
+Leeward Islands (Hawaii) 
+ 
+Examples: 
+ 
+151 ## $a Kailua Bay (Oahu, Hawaii)  
+151 ## $a Kailua Bay (Hawaii Island, Hawaii) 
+ 
+151 ## $a Kona (Hawaii Island, Hawaii) 
+151 ## $a Kona (Niihau, Hawaii) 
+151 ## $a Kona (Molokai, Hawaii) 
+ 

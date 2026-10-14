@@ -1,0 +1,44 @@
+
+
+<<<PAGE 1>>>
+ 
+Yearbooks  H 2400 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2400 Page 1 
+ 
+June 2013 
+BACKGROUND:  Until 1986, the subdivision BYearbooks was used as a form subdivision 
+under headings assigned to publications appearing annually, each volume of which summarizes 
+the accomplishments or events of a particular year within a specific discipline or area of 
+endeavor.  This subdivision was discontinued in 1986 in favor of the subdivision BPeriodicals. 
+ 
+For classification of yearbooks, see F 230. 
+ 
+ 
+ 
+1.  General rule.  Do not use the subdivision BYearbooks under headings assigned to any new 
+work being cataloged, except as described in sec. 4, below.  To all serials issued indefinitely at 
+regular or stated intervals, whether weekly, monthly, yearly, biennially, etc., assign headings 
+with the free-floating form subdivision BPeriodicals.  For instructions on using the subdivision 
+BPeriodicals, see H 1927. 
+ 
+ 
+LC practice: 
+2.  Correcting existing bibliographic records.  Do not make any systematic attempt to correct 
+the subdivision on existing bibliographic records.  However, if the subject headings on an 
+individual record are being revised or updated for other reasons, change BYearbooks to 
+BPeriodicals whenever it is encountered. 
+ 
+ 
+LC practice: 
+3.  Serial continuations.  If a continuation of a serial is being cataloged, and earlier titles have 
+been assigned headings with the subdivision BYearbooks, update MARC records of the earlier 
+titles so that the headings on all titles match. 
+ 
+ 
+4.  Student yearbooks.  Use the free-floating subdivision BStudentsBYearbooks under names of 
+individual educational institutions for student yearbooks from those institutions, for example, 
+Bowdoin CollegeBStudentsBYearbooks. 

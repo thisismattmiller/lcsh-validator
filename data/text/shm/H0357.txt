@@ -1,0 +1,105 @@
+
+
+<<<PAGE 1>>>
+ 
+Parenthetical Qualifiers in Subject Headings  H 357 
+ 
+ 
+ 
+Subject Headings Manual 
+H 357 Page 1 
+ 
+June 2013 
+1.  General rules.  When proposing a term or phrase as a new subject heading, it may be 
+necessary to use a parenthetical qualifier if the term or phrase has more than one dictionary 
+definition.  Add the qualifier to the term to indicate which of the several definitions is intended 
+for the heading in question. 
+ 
+a.  Names of disciplines.  In general, qualify the heading by names of disciplines or 
+topics, especially if the heading represents a concept.  Examples: 
+ 
+150 ## $a Analysis (Philosophy) 
+150 ## $a Antennas (Electronics) 
+150 ## $a Indexation (Economics) 
+150 ## $a Slimes (Mining) 
+150 ## $a Candlewicking (Embroidery) 
+150 ## $a Risers (Founding) 
+150 ## $a Hulas (Music) 
+ 
+ 
+b.  Categories of objects.  If the heading designates a kind of object, qualify by the 
+category to which the object belongs, if appropriate.  Examples: 
+ 
+150 ## $a Cuffs (Clothing) 
+150 ## $a Trunks (Luggage) 
+150 ## $a Plates (Tableware) 
+150 ## $a Lasers (Sailboats) 
+ 
+ 
+c.  Phrase headings vs. qualifiers.  In many cases the parenthetical qualifier can be 
+avoided by adding an adjectival qualifier to create a phrase heading instead.   Prefer 
+phrase headings of this type to parenthetical qualifiers.  Examples: 
+ 
+150 ## $a Mathematical analysis 
+  [not 150 ## $a Analysis (Mathematics)] 
+ 
+150 ## $a Chemical bonds 
+  [not 150 ## $a Bonds (Chemistry)] 
+ 
+ 
+d.  Commonly accepted meanings.  Do not add a qualifier to a term used in its 
+commonly accepted meaning even though it may have other meanings as well, although 
+obscure.  For example, the heading Holsters, referring to leather cases for pistols, need 
+not be qualified because this is the commonly understood meaning of the term.  Its other 
+meaning, as used in the field of steel manufacturing, is not widely known. 
+
+
+<<<PAGE 2>>>
+H 357  Parenthetical Qualifiers in Subject Headings 
+ 
+ 
+ 
+H 357 Page 2 
+Subject Headings Manual 
+June 2013 
+2.  Removing ambiguity or elucidating a term or phrase.  A parenthetical qualifier may also be 
+used to remove ambiguity or to make more explicit a word or phrase that is obscure.  A word or 
+phrase is usually not considered to be obscure if it is found in a general English-language 
+dictionary.  Examples: 
+ 
+150 ## $a Duty (The English word) 
+150 ## $a Seal finger (Disease) 
+150 ## $a Atari 400 (Computer) 
+ 
+3.  Categories of headings routinely qualified.  Some categories of headings, particularly for 
+named entities, are routinely qualfied by standard parenthetical qualifiers.  Examples: 
+ 
+150 ## $a Arulo (Artificial language) 
+150 ## $a Hausa (African people) 
+150 ## $a BASIC (Computer program language) 
+ 
+4.  Special applications of general concepts.  Do not add parenthetical qualifiers to a general 
+concept to designate a special application of that concept.  Vibration (Marine engineering); 
+Symmetry (Biology) are examples of headings that violate this rule.  Bring out special 
+applications of a concept by one of the following techniques: 
+ 
+! "In" headings.  Establish an "in" type heading, for example, Radio in education. 
+ 
+Note:  An "in" heading is not always satisfactory, as in the case of those "in" 
+headings where the primary interest centers on the field of application.  For 
+example, Vibration in marine engineering would be a less useful heading than 
+ShipsBVibration, or Marine enginesBVibration. 
+ 
+! Phrase headings.  Establish a phrase heading, for example, Medical 
+thermography. 
+ 
+! Subdivisions.  Subdivide the principal topic, for example, PhotographyBScientific 
+applications. 
+ 
+5.  Geographic headings.  For parenthetical qualification of geographic headings, see H 810. 
+ 
+6.  Buildings and other structures.  For parenthetical qualification of headings for buildings 
+and other structures, see H 1334, sec. 3. 
+ 
+7.  Medium of performance of musical works.  For instructions on the use of parenthetical 
+qualifiers when indicating the medium of performance of musical works, see H 1917.5. 

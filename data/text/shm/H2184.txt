@@ -1,0 +1,80 @@
+
+
+<<<PAGE 1>>>
+ 
+Terms and Phrases  H 2184 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2184 Page 1 
+ 
+June 2013 
+BACKGROUND:  Terms and phrases are groups of words, especially those used in a special 
+field or found in a particular language.  This instruction sheet provides guidelines for assigning 
+the heading Terms and phrases and the subdivisions BTerms and phrases or BTerminology.  
+These subdivisions are not subdivided further by BDictionaries. 
+ 
+ 
+ 
+1.  General.  Assign the heading Terms and phrases  (May Subd Geog) to general works on 
+the discipline of terminology. 
+ 
+ 
+2.  BTerms and phrases.  Assign the free-floating form or topical subdivision BTerms and 
+phrases under individual languages or groups of languages to works that list or discuss 
+expressions, phrases, etc., found in these languages.  Code the subdivision as a $v subfield for 
+works that list expressions, phrases, etc., and as an $x subfield for discussions of them.  
+Example: 
+ 
+ 
+Title:  Heavens to Betsy! and other curious sayings. 
+650 #0 $a English language $x Terms and phrases. 
+650 #0 $a English language $x Etymology. 
+ 
+ 
+Note:  For incomplete lists of the words of a language, with or without definitions, 
+assign the free-floating form subdivision BGlossaries, vocabularies, etc., instead.  
+Example: 
+ 
+Title:  3001 essential words for a perfect vocabulary. 
+650 #0 $a Vocabulary. 
+650 #0 $a English language $v Glossaries,  
+          vocabularies, etc. 
+ 
+For comprehensive, alphabetical lists of the words of a language with definitions, assign 
+the subdivision BDictionaries under the heading for the language.  Example: 
+ 
+Title:  The Random House dictionary of the English language. 
+650 #0 $a English language $v Dictionaries. 
+ 
+For complete instructions on use of the subdivision BDictionaries under languages, see 
+H 1540, sec. 1. 
+
+
+<<<PAGE 2>>>
+H 2184  Terms and Phrases 
+ 
+ 
+ 
+H 2184 Page 2 
+Subject Headings Manual 
+June 2013 
+3.  CTerminology.  Assign the free-floating subdivision CTerminology as a form or topical 
+subdivision under topical headings, classes of persons, name headings for sacred works, and 
+names of individual corporate bodies, to works that list or discuss words and expressions used in 
+these fields or found in these works.  Code the subdivision as a $v subfield for works that list 
+expressions, phrases, etc., and as an $x subfield for discussions of them.  Examples: 
+ 
+ 
+630 00 $a Bible $x Terminology. 
+610 20 $a Catholic Church $x Terminology. 
+650 #0 $a Concrete $v Terminology. 
+650 #0 $a Labor laws and legislation $v Terminology. 
+650 #0 $a Soccer $x Terminology. 
+650 #0 $a Women $v Terminology. 
+ 
+ 
+Do not assign this subdivision to a work that is both alphabetical and comprehensive.  In 
+accordance with H 1540, assign the subdivision CDictionaries instead. 
+ 

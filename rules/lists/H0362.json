@@ -1,0 +1,63 @@
+{
+  "sheet": "H 362",
+  "title": "Free-Floating Terms and Phrases",
+  "kind": "free-floating-phrases",
+  "scope": "Complete list (except free-floating music phrase headings, H 1917.5) of terms and phrases authorized for use on a free-floating basis in constructing phrase headings (geographic headings, MARC 651)",
+  "pattern_headings": [],
+  "pattern_category": "",
+  "general_notes": [
+    "Except for free-floating music phrase headings, the construction of which is explained in H 1917.5, the terms and phrases described in this instruction sheet constitute a complete list of those that have been authorized for use on a free-floating basis in constructing phrase headings.",
+    "The phrase heading [personal name] in fiction, drama, poetry, etc. was discontinued in August 1993 and replaced by the free-floating subdivision --In literature used under names of individual persons and literary authors.",
+    "The phrase heading [name heading (except personal names)] in literature was discontinued in August 1993 and replaced by the free-floating subdivision --In literature used under names of individual families, dynasties, royal houses, corporate bodies, countries, cities, etc., and uniform titles of sacred works.",
+    "The phrase heading [name heading (except personal names)] in art was discontinued in January 1997 and replaced by the free-floating subdivision --In art used under names of individual corporate bodies and under countries, cities, etc.",
+    "The phrase headings [topic] in literature and [topic] in art are no longer free-floating and must now be individually established.",
+    "Use of commas: When constructing headings of this type based on headings that are inverted or that include a comma not enclosed within a parenthetical qualifier, place an additional comma between the basic heading and the free-floating term or phrase. Example: Rudolf, Lake, Region (Kenya and Ethiopia)"
+  ],
+  "entries": [
+    {
+      "pattern": "[name of city] Metropolitan Area ([geographic qualifier])",
+      "subfield": "a",
+      "type": "geographic",
+      "examples": ["Atlanta Metropolitan Area (Ga.)", "Salt Lake City Metropolitan Area (Utah)"],
+      "exceptions": ["Add no geographic qualifier to the following headings for metropolitan areas: Jerusalem Metropolitan Area, New York Metropolitan Area, and Washington Metropolitan Area."],
+      "notes": "",
+      "consult": ["H 790"]
+    },
+    {
+      "pattern": "[name of city] Region ([geographic qualifier])",
+      "subfield": "a",
+      "type": "geographic",
+      "examples": ["Dallas Region (Tex.)"],
+      "exceptions": ["Add no geographic qualifier to the following headings for regions: Jerusalem Region, New York Region, and Washington Region."],
+      "notes": "",
+      "consult": ["H 790"]
+    },
+    {
+      "pattern": "[name of city] Suburban Area ([geographic qualifier])",
+      "subfield": "a",
+      "type": "geographic",
+      "examples": ["Atlanta Suburban Area (Ga.)", "Salt Lake City Suburban Area (Utah)"],
+      "exceptions": ["Add no geographic qualifier to the following headings for suburban areas: Jerusalem Suburban Area, New York Suburban Area, and Washington Suburban Area."],
+      "notes": "",
+      "consult": ["H 790"]
+    },
+    {
+      "pattern": "[name of geographic feature, as established in the subject authority file] Region ([geographic qualifier, if part of the name as established])",
+      "subfield": "a",
+      "type": "geographic",
+      "examples": ["Red Sea Region", "Bull Shoals Lake Region (Ark. and Mo.)", "Rudolf, Lake, Region (Kenya and Ethiopia)", "Himalaya Mountains Region", "Bearpaw Mountains Region (Mont.)"],
+      "exceptions": [],
+      "notes": "If the feature heading is inverted or includes a comma not enclosed within a parenthetical qualifier, place an additional comma before Region (e.g., Rudolf, Lake, Region (Kenya and Ethiopia)).",
+      "consult": ["H 760"]
+    },
+    {
+      "pattern": "[name of river, as established in the subject authority file] Region ([geographic qualifier, if part of the name as established])",
+      "subfield": "a",
+      "type": "geographic",
+      "examples": ["Tweed River Region (Scotland and England)"],
+      "exceptions": [],
+      "notes": "The use of Estuary and Valley as free-floating terms added to names of rivers, and Watershed added to names of rivers and lakes, has been discontinued. Headings for estuaries, valleys, and watersheds are now individually established. See H 800, sec. 7-9 for instructions.",
+      "consult": ["H 800", "H 1145.5"]
+    }
+  ]
+}

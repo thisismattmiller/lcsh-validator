@@ -1,0 +1,94 @@
+
+
+<<<PAGE 1>>>
+ 
+Ethnic Qualifiers  H 351 
+ 
+ 
+ 
+Subject Headings Manual 
+H 351 Page 1 
+ 
+June 2013 
+1.  General rule.  When establishing a topical heading with adjectival qualifier that designates a 
+particular ethnic group, establish it in the inverted form.  Examples: 
+ 
+150 ## $a Architecture, Hittite 
+150 ## $a Artists, Basque 
+150 ## $a Law, Dinka 
+150 ## $a Philosophy, Dogon 
+ 
+Add a 450 field with the uninverted form.  Example: 
+ 
+150 ## $a Architecture, Hittite 
+450 ## $a Hittite architecture 
+ 
+If the name of the ethnic group is established with a parenthetical qualifier, do not routinely 
+retain the parenthetical qualifier in the new heading.  Example: 
+ 
+150 ## $a Art, Kom  
+  [not 150 ## $a Art, Kom (African people)] 
+ 
+Note:  Before 1991, headings were established that included such parenthetical 
+qualifiers.  In 1991, those headings were changed to eliminate the parenthetical 
+qualifier.  In each case, the earlier form of the heading was retained in a 450 field.  Do 
+not add similar 450 fields to newly established headings of this type. 
+ 
+Add a parenthetical qualifier indicating the country or general area where the people are located 
+when it is necessary to distinguish between two or more ethnic groups with the same name.  
+Example: 
+ 
+150 ## $a Art, Tiwi (Australia) 
+[Qualifier needed to distinguish from the African Tiwi] 
+ 
+2.  Exceptions to the rule. 
+ 
+a.  Ethnic groups of the United States and Indian groups.  With the exception noted in 
+sec. b, below, establish headings qualified by names of ethnic groups of the United States, 
+or Indian groups, in direct order, for example, African American mathematicians; 
+Mexican American art; Navajo artists; Aztec painting.  This order enables American 
+library users to find all topics related to a specific American ethnic group filed together in 
+the subject catalog or online browse screen. 
+ 
+Note:  Do not hyphenate these headings. 
+
+
+<<<PAGE 2>>>
+H 351  Ethnic qualifiers 
+ 
+ 
+ 
+H 351 Page 2 
+Subject Headings Manual 
+June 2013 
+2.  Exceptions to the rule. 
+ 
+a.  Ethnic groups of the United States and Indian groups.  (Continued) 
+ 
+Add a 450 field with inverted form and a 550 (broader term) field with the class of 
+persons subdivided by BUnited States.  Example: 
+ 
+ 
+150 ## $a African American mathematicians 
+450 ## $a Mathematicians, African American 
+550 ## $w g $a Mathematicians $z United States 
+ 
+ 
+ 
+b.  Literary collections written by members of an ethnic group.  Follow the special 
+practice for literary authors, using the particular ethnic group as a subdivision under the 
+literary form.  Examples: 
+ 
+ 
+150 ## $a American literature $x Indian authors 
+150 ## $a American poetry $x African American authors 
+ 
+ 
+Add 450 fields with alternative forms.  Example: 
+ 
+ 
+150 ## $a American poetry $x African American authors 
+450 ## $a African American poetry (English) 
+450 ## $a Black poetry (American) 
+ 
+ 

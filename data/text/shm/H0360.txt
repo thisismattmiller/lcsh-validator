@@ -1,0 +1,52 @@
+
+
+<<<PAGE 1>>>
+ 
+[ . . . ] as [ . . . ] Headings  H 360 
+ 
+ 
+ 
+Subject Headings Manual 
+H 360 Page 1 
+ 
+June 2013 
+1.  General rule.  Establish headings for classes of persons qualified by age, sex, sexual 
+orientation, economic status, or physical condition as uninverted phrase headings without the 
+word as.  Examples: 
+ 
+150 ## $a Child actors 
+150 ## $a Women accountants 
+150 ## $a Lesbian teachers 
+150 ## $a Low-income consumers 
+150 ## $a Parents with disabilities 
+ 
+Also omit the word as in headings for classes of persons qualified by ethnic group, for example, 
+African American dentists; Consumers, Black.  For additional information about ethnic 
+qualifiers, see H 351. 
+ 
+Note:  The use of the "as" form for headings qualified by sex, such as Women as 
+lawyers, was discontinued in 1973.  For headings qualified by age, such as Children as 
+actors, the "as" form was discontinued in 1995. 
+ 
+2.  Classes of persons involving two professions.  Use the word as in headings of this type.  
+Examples: 
+ 
+150 ## $a Artists as authors 
+150 ## $a Actors as soldiers 
+ 
+3.  Occupational groups in non-work-related activities.  Use the word as in headings of this 
+type.  Example: 
+ 
+150 ## $a Coal miners as artists 
+ 
+4.  Classes of persons in disciplines.  Headings in this category, such as Women in medicine 
+are broader in scope than "as" headings and are used to designate all of the persons associated 
+with a particular discipline or activity, professional or nonprofessional, in whatever capacity. 
+ 
+5.  [Type of animal] as [ . . . ].  Use the plural form of the animal name even if the basic 
+heading is established in the singular form to represent the species level (cf. H 1332, sec. 2.b.).  
+Examples: 
+ 
+150 ## $a Ferrets as laboratory animals 
+150 ## $a Golden hamsters as pets 
+150 ## $a Old World badgers as carriers of disease 

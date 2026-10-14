@@ -1,0 +1,5567 @@
+{
+  "sheet": "H 1110",
+  "title": "Free-Floating Subdivisions: Names of Persons",
+  "kind": "names-of-persons",
+  "scope": "Free-floating form and topical subdivisions usable, within the limits of the usage notes, under names of individual persons established in the name authority file (all personal names except non-human entities such as individual fictitious and legendary characters, individual gods and mythological figures, and individually named animals). General subdivisions in H 1095 with the statement \"Use under subjects\" are also usable under personal names.",
+  "pattern_headings": [],
+  "pattern_category": "",
+  "general_notes": [
+    "The subdivisions listed below may be used, within the limitations of the usage notes, as free-floating subdivisions under names of individual persons established as headings in the name authority file. The category includes all personal names established in the name authority file except for names of non-human entities (e.g., names of individual fictitious and legendary characters, individual gods and mythological figures, and individually named animals). For free-floating subdivisions that may be used with names of non-human entities, see H 1095. (sec. C)",
+    "General form and topical subdivisions listed in H 1095 with the statement “Use under subjects” are also available for use under personal name headings. (sec. F)",
+    "Varying or conflicting and additional subdivisions have been established under a few unique and highly significant individuals, for example, Gautama Buddha; Muḥammad, Prophet, -632; Jesus Christ; and Shakespeare, William, 1564-1616. In those cases, the established subdivisions take precedence over this list and should continue to be used. (sec. G)",
+    "LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. Instead assign an appropriate term or terms from Library of Congress Genre/Form Terms (LCGFT), e.g. Textbooks. To replace a form subdivision that includes a demographic group, also assign Library of Congress Demographic Groups Terms (LCDGT) to bring out the audience of the resource being cataloged, e.g. German speakers or Arabic, Students of. (sec. A)",
+    "The list has no endnotes. Rows without a $x/$v code are see/use references or cancelled subdivisions; they are recorded in see_references, not entries, and are not valid subdivisions."
+  ],
+  "entries": [
+    {
+      "subdivision": "--Abdication",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Abstracts",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Consult H 1205.",
+      "see_also": [],
+      "consult": [
+        "H 1205"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Adversaries",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for discussions of contemporaries who opposed the person’s point of view or work.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Aesthetics",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for discussions of the individual’s philosophy of art or beauty, whether explicitly stated or inferred from his or her creative works. For the person’s knowledge of the aesthetics of others, see --Knowledge and learning.",
+      "see_also": [
+        "--Knowledge and learning"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Alcohol use",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about the person’s use or abuse of alcohol. See also --Drug use.",
+      "see_also": [
+        "--Drug use"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Allusions",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for contemporary (person’s life span) and early brief references to the person. See also --Anecdotes; --Quotations.",
+      "see_also": [
+        "--Anecdotes",
+        "--Quotations"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Anniversaries, etc.",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about the anniversary celebration itself. Do not use for works merely published on the occasion of an anniversary.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Anonyms and pseudonyms",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Appreciation",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "persons active in the fine arts, literature, music, and performing arts for works on public response and reception, praise, etc., of the person’s artistic or literary works",
+      "notes": "Use under persons active in the fine arts, literature, music, and performing arts for works on public response and reception, praise, etc., of the person’s artistic or literary works. For works consisting of critical analysis or interpretation of artistic or literary works without biographical details, see --Criticism and interpretation. For works on public opinion about the person, see --Public opinion. For works on the person’s impact on other persons, groups, movements, or national literatures, see --Influence. For works on systems of beliefs and rituals connected with divine persons or saints, see --Cult.",
+      "see_also": [
+        "--Criticism and interpretation",
+        "--Public opinion",
+        "--Influence",
+        "--Cult"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Archaeological collections",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about the person’s collections of archaeological items or artifacts. Consult H 1427.",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Art",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "persons lived before 1400, and under names of deities, mythological or legendary figures, and fictitious characters for works about art depicting the person, deity, or character",
+      "notes": "Use under persons lived before 1400, and under names of deities, mythological or legendary figures, and fictitious characters for works about art depicting the person, deity, or character. For works about art depicting persons who lived after 1400, use the subdivision Portraits. Also use under headings of the type [name heading]—[subdivision] for works about art depicting those topics.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Art collections",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about the person’s own art collection. Consult H 1427.",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Art patronage",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about the person’s support and patronage of the arts.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Assassination",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Assassination attempts",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Authorship",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for discussions on the attribution of authorship of works to the person. For discussions of a non-literary person’s literary ability and accomplishments, see --Writing skill. See also --Spurious and doubtful works.",
+      "see_also": [
+        "--Writing skill",
+        "--Spurious and doubtful works"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Authorship--Collaboration",
+      "subfield": "x",
+      "subfield_codes": [
+        "x",
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Awards",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Birth",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works discussing the events of an individual’s birth, including birthdays, the date or year of the person’s birth, etc. See also --Birthplace.",
+      "see_also": [
+        "--Birthplace"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Birthplace",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Blogs",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for blogs by or about the person.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Bonsai collections",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about the person’s collection of bonsai. See H 1427.",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Books and reading",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about written material known to have been read by the person, the person’s reading habits and interests, books borrowed from friends or libraries, etc. See also --Library. Consult H 1333.",
+      "see_also": [
+        "--Library"
+      ],
+      "consult": [
+        "H 1333"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Calendars",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use as a topical subdivision under names of countries, cities, etc., names of individual corporate bodies, and topical headings for works about lists of recurring, coming, or past events occurring in those places, associated with those organizations, or relating to those topics. Also use under names of individual persons for works about calendars that include information on events associated with the person or quotations from the person. See also --Quotations.",
+      "see_also": [
+        "--Quotations"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Captivity",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works discussing periods in which the person was held captive in bondage or confinement, especially under house arrest, as a hostage, or in battle. For works discussing periods in which the person was actually imprisoned in a correctional institution or prisoner of war camp, see --Imprisonment. See also --Exile; --Kidnapping.",
+      "see_also": [
+        "--Imprisonment",
+        "--Exile",
+        "--Kidnapping"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Caricatures and cartoons",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about caricatures or pictorial humor about the person.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Catalogs",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of individual artists, craftspersons, families of artists and craftspersons, and corporate bodies for works about lists of their art works or crafts which are available or located in particular institutions or places",
+      "notes": "Use under names of individual artists, craftspersons, families of artists and craftspersons, and corporate bodies for works about lists of their art works or crafts which are available or located in particular institutions or places. Also use under persons or families doing business as sellers under their own names. See also; --Discography.",
+      "see_also": [
+        "--Discography"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Censorship",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Censures",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Characters",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for general works about the characters of a literary author. Also use for works about a specific group or category of an author’s characters and assign an additional heading of the type [group or category] in literature. Also use for works about a specific named character of a literary author. If the character is a historical person, deity, mythological figure, or legendary character, assign an additional heading of type [name]--In literature, using the name as established in the authority file. If the character is fictitious, assign an additional heading for the character, in accordance with H 1610. The subdivisions --Characters--Children, [Jews, Physicians, etc.] and --Characters--[name of individual character] were discontinued in 2020.",
+      "see_also": [
+        "--Characters--Children, [Jews, Physicians, etc.]",
+        "--Characters--[name of individual character]"
+      ],
+      "consult": [
+        "H 1610"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Childhood and youth",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Chronology",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "names of individual persons and groups of literary authors for works about the chronology of events in the person's life or dates when works were produced",
+      "notes": "Use under names of individual persons and groups of literary authors for works about the chronology of events in the person's life or dates when works were produced. Also use under uniform titles of sacred works for works on the dating or order of occurrence of events mentioned in the sacred work. Consult H 1367.",
+      "see_also": [],
+      "consult": [
+        "H 1367"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Cipher",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Claims vs. …",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about the legal claims filed by the person. Complete the subdivision with the name of the jurisdiction against which the claim was brought.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Clothing",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Coin collections",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about the person’s coin collection. Consult H 1427.",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Collectibles",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "Use for works about items of interest to collectors that are related to the person or that portray topics associated with the person. See also --Autographs; --Numismatics; --Portraits; --Posters.",
+      "see_also": [
+        "--Autographs",
+        "--Numismatics",
+        "--Portraits",
+        "--Posters"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Comedies",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for criticism of comedies by a literary author. Do not use under dramatists who write principally comedies",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Contemporaries",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about other persons flourishing during the person’s life, but not necessarily in close contact with the person. See also --Adversaries; --Friends and associates.",
+      "see_also": [
+        "--Adversaries",
+        "--Friends and associates"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Coronation",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Correspondence",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for the letters from and/or to the person. Assign an additional heading for individual correspondents. Consult H 1480.",
+      "see_also": [],
+      "consult": [
+        "H 1480"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Criticism, Textual",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works that aim to establish authoritative texts, for example, comparison of manuscripts and editions. Do not use for the critical explication of text.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Criticism and interpretation",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works consisting of critical analysis or interpretation of the person’s literary or artistic works or endeavors without biographical details. Use this subdivision only under persons active in the fine arts, literature, music, and performing arts. For works on public response and reception, praise, etc., of the person’s artistic or literary works, see --Appreciation.",
+      "see_also": [
+        "--Appreciation"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Criticism and interpretation--History",
+      "subfield": "x",
+      "subfield_codes": [
+        "x",
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Criticism and interpretation--History--To 1500",
+      "subfield": "x",
+      "subfield_codes": [
+        "x",
+        "x",
+        "y"
+      ],
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Criticism and interpretation--History--16th century",
+      "subfield": "x",
+      "subfield_codes": [
+        "x",
+        "x",
+        "y"
+      ],
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Criticism and interpretation--History--17th century",
+      "subfield": "x",
+      "subfield_codes": [
+        "x",
+        "x",
+        "y"
+      ],
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Criticism and interpretation--History--18th century",
+      "subfield": "x",
+      "subfield_codes": [
+        "x",
+        "x",
+        "y"
+      ],
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Criticism and interpretation--History--19th century",
+      "subfield": "x",
+      "subfield_codes": [
+        "x",
+        "x",
+        "y"
+      ],
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Criticism and interpretation--History--20th century",
+      "subfield": "x",
+      "subfield_codes": [
+        "x",
+        "x",
+        "y"
+      ],
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Criticism and interpretation--History--21st century",
+      "subfield": "x",
+      "subfield_codes": [
+        "x",
+        "x",
+        "y"
+      ],
+      "type": "chronological",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Cult",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "divine persons, saints, or persons worshipped for systems of beliefs or rituals associated with the person",
+      "notes": "Use under divine persons, saints, or persons worshipped for systems of beliefs or rituals associated with the person.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Death and burial",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works on the person’s death, funeral, or burial, including the person’s last illness. See also --Assassination; --Tomb.",
+      "see_also": [
+        "--Assassination",
+        "--Tomb"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Death mask",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Diaries",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for collections or discussions of the person’s diaries. Also use for individual diaries. Consult H 1538.",
+      "see_also": [],
+      "consult": [
+        "H 1538"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Disciples",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works discussing persons who received instruction from the individual or accepted his or her doctrines or teachings and assisted in spreading or implementing them.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Discography",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for lists or catalogs of sound recordings by or about the person. See also --Audiotape catalogs. Consult H 1361.",
+      "see_also": [
+        "--Audiotape catalogs"
+      ],
+      "consult": [
+        "H 1361"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Divorce",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Dramatic production",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "literary authors for various aspects of stage presentation, for example, acting, costume, stage setting and scenery",
+      "notes": "Use under literary authors for various aspects of stage presentation, for example, acting, costume, stage setting and scenery. For historical aspects of dramatic production, see --Stage history. For performances of the works of composers, choreographers, and performing artists, see --Performances.",
+      "see_also": [
+        "--Stage history",
+        "--Performances"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Dramatic works",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for criticism of dramatic works by a literary author. Do not use under authors who write principally drama. See also --Comedies; --Motion picture plays; --Radio and television plays; --Tragedies; --Tragicomedies.",
+      "see_also": [
+        "--Comedies",
+        "--Motion picture plays",
+        "--Radio and television plays",
+        "--Tragedies",
+        "--Tragicomedies"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Dramaturgy",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "composers for discussions of their technique in writing operas and other dramatic works",
+      "notes": "Use under composers for discussions of their technique in writing operas and other dramatic works.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Drug use",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about the person’s use or abuse of drugs. See also --Alcohol use.",
+      "see_also": [
+        "--Alcohol use"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Employees",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works discussing persons employed by the individual, including household servants, etc.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Estate",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for discussions of the aggregate of property or liabilities of all kinds that a person leaves for disposal at his or her death, including discussions or cases of contested estates. See also --Will",
+      "see_also": [
+        "--Will"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Ethics",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for discussions of the individual’s personal ethics and values. See also --Religion.",
+      "see_also": [
+        "--Religion"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Ethnological collections",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about the person’s ethnological collections. Consult H 1427.",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Examinations",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Exile",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Family",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for discussions of the person’s family or relations with family members. Also use for genealogical works. Assign an additional heading for the name of the family. See also --Marriage. Consult H 1631.",
+      "see_also": [
+        "--Marriage"
+      ],
+      "consult": [
+        "H 1631"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Fictional works",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for criticism of fictional works by a literary author. Do not use under authors who write principally fiction. See also --Prose.",
+      "see_also": [
+        "--Prose"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Finance, Personal",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for discussions of the person’s financial affairs. See also --Estate; --Will. Consult H 1624.",
+      "see_also": [
+        "--Estate",
+        "--Will"
+      ],
+      "consult": [
+        "H 1624"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--First editions",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Forgeries",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "Use for discussions of forgeries of the person’s creative works or signature. In the case of individual forgeries, assign an additional heading for the name of the forger.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Freemasonry",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works discussing the person’s membership or participation in the Freemasons. Frequented places, see --Homes and haunts.",
+      "see_also": [
+        "--Homes and haunts"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Friends and associates",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for discussions of the person’s close and immediate contacts, such as companions, coworkers. See also --Adversaries; --Contemporaries; --Disciples; --Employees; --Family.",
+      "see_also": [
+        "--Adversaries",
+        "--Contemporaries",
+        "--Disciples",
+        "--Employees",
+        "--Family"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Hadith",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "imams for works on the oral tradition concerning the deeds and saying of the imam",
+      "notes": "Use under imams for works on the oral tradition concerning the deeds and saying of the imam.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Harmony",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "composers for works discussing their uses of harmony",
+      "notes": "Use under composers for works discussing their uses of harmony. Consult H 1438.",
+      "see_also": [],
+      "consult": [
+        "H 1438"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Health",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about the person’s state of health, including diseases suffered and accounts of specific diseases. For accounts of specific diseases assign an additional heading of the type: [disease]--Patients--[place]--Biography. See also --Alcohol use; --Drug use; --Mental health.",
+      "see_also": [
+        "--Alcohol use",
+        "--Drug use",
+        "--Mental health"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Herbarium",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Consult H 1427.",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Homes and haunts",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "Use for works discussing the person’s homes or dwellings, favorite places, places he or she habitually frequented, or places associated with the person in some way. See also --Birthplace; --Palaces; --Shrines; --Travel.",
+      "see_also": [
+        "--Birthplace",
+        "--Palaces",
+        "--Shrines",
+        "--Travel"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Humor",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for humorous works about the person as well as for works about the person’s sense of humor or use of humor. For pictorial humor, see --Caricatures and cartoons.",
+      "see_also": [
+        "--Caricatures and cartoons"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Illustrations",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about pictorial representations of their written works. For works of art depicting the person see --Art; --Portraits.",
+      "see_also": [
+        "--Art",
+        "--Portraits"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Impeachment",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Imprisonment",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works discussing periods in which the person was actually imprisoned in a correctional institution or a prisoner of war camp. For works discussing periods in which the person was held captive in bondage or confinement, especially under house arrest, as a hostage, or in battle, see --Captivity. See also --Exile.",
+      "see_also": [
+        "--Captivity",
+        "--Exile"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--In bookplates",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--In comics",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--In literature",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for discussions of the person as a theme in belles lettres, including musical dramatic works and individual literary genres. The free-floating phrase heading [name of person] in fiction, drama, poetry, etc. was discontinued in August 1993. For works of belles lettres about the person, or in which he or she appears as a character, assign the appropriate form subdivision, for example, --Drama; --Fiction; --Literary collections; --Poetry. Consult H 362; H 1780; H 1790; H 1800.",
+      "see_also": [
+        "--Drama",
+        "--Fiction",
+        "--Literary collections",
+        "--Poetry"
+      ],
+      "consult": [
+        "H 362",
+        "H 1780",
+        "H 1790",
+        "H 1800"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--In mass media",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--In motion pictures",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--In opera",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Inaugurations",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Influence",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works discussing the person’s impact on other persons, groups, movements, or national literatures. Assign an additional heading for the person, group, movement, or literature influenced. For works on public response and reception, praise, etc., of the artistic or literary works of persons active in the fine arts, literature, music, and performing arts, see --Appreciation. Consult H 1675.",
+      "see_also": [
+        "--Appreciation"
+      ],
+      "consult": [
+        "H 1675"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Information services",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Consult H 1675.5.",
+      "see_also": [],
+      "consult": [
+        "H 1675.5"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Interviews",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about interviews with the person. Consult H 1678.",
+      "see_also": [],
+      "consult": [
+        "H 1678"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Kidnapping",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Knowledge and learning",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about the person’s formal or informal learning or scholarship in general. Also use for works discussing the person’s knowledge of a specific topic, whether explicitly stated or inferred from his or her life and work, and for discussions of the person’s educational background in a specific topic. Assign an additional heading for the specific topic. The subdivision --Knowledge--[specific topic] was discontinued in July 2020. For works on the person’s opinions or attitudes on a specific topic, whether explicitly stated or inferred, assign the heading for the person and an additional heading for the specific topic. For discussions of the themes in the person’s creative works, see --Themes, motives.",
+      "see_also": [
+        "--Knowledge--[specific topic]",
+        "--Themes, motives"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Language",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works on the person’s language in general on the linguistic rather than the artistic level. For works on specific linguistic topics, assign an additional heading for the topic. See also --Writing skill; --Literary style; --Oratory; --Technique; --Versification.",
+      "see_also": [
+        "--Writing skill",
+        "--Literary style",
+        "--Oratory",
+        "--Technique",
+        "--Versification"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Language--Glossaries, etc.",
+      "subfield": "x",
+      "subfield_codes": [
+        "x",
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Consult H 1540.",
+      "see_also": [],
+      "consult": [
+        "H 1540"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Last years",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See also --Death and burial.",
+      "see_also": [
+        "--Death and burial"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Legends",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for stories about literary versions of legendary tales about those persons, characters, or topics. See also --Romances.",
+      "see_also": [
+        "--Romances"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Library",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works discussing the person’s own library. See also --Books and reading. Consult H 1427.",
+      "see_also": [
+        "--Books and reading"
+      ],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Library resources",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works describing the resources or special collections available in libraries for research or study about the person.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Literary collections",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for literary anthologies about the person that involve two or more literary forms. For anthologies in one literary form, see the form, for example, --Drama; --Fiction; --Poetry.",
+      "see_also": [
+        "--Drama",
+        "--Fiction",
+        "--Poetry"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Literary style",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "literary authors for discussions of rhetoric, figures of speech, and artistic use of language in general",
+      "notes": "Use under literary authors for discussions of rhetoric, figures of speech, and artistic use of language in general. See also --Language; --Technique; --Writing skill.",
+      "see_also": [
+        "--Language",
+        "--Technique",
+        "--Writing skill"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Manuscripts",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works discussing writings made by hand, typewriter, etc., by or about the person. Do not use for individual works in manuscript form. See also --Archives; --Autographs; --Correspondence; --Diaries; --Notebooks, sketchbooks, etc.",
+      "see_also": [
+        "--Archives",
+        "--Autographs",
+        "--Correspondence",
+        "--Diaries",
+        "--Notebooks, sketchbooks, etc"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Map collections",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about the person’s collections of maps. Consult H 1427.",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Marriage",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See also --Divorce.",
+      "see_also": [
+        "--Divorce"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Medals",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Mental health",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works discussing the person’s state of mental health, including mental illness and accounts of specific mental disorders. For accounts of specific disorders or situations, assign an additional heading of the type: [disease]--Patients--[place]--Biography; Psychotherapy patients--[place]--Biography; etc.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Military leadership",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Miracles",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "persons to whom miracles are attributed",
+      "notes": "Use under persons to whom miracles are attributed.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Monuments",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "Use for works about monuments erected in honor of the person. See also --Museums; --Shrines; --Tomb. Consult H 1334.",
+      "see_also": [
+        "--Museums",
+        "--Shrines",
+        "--Tomb"
+      ],
+      "consult": [
+        "H 1334"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Motion picture plays",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for discussions of film scripts written by a literary author. Do not use under authors who write principally motion picture plays. For discussions of motion picture adaptations of the person’s creative works, see --Film adaptations.",
+      "see_also": [
+        "--Film adaptations"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Museums",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "Use for works on museums devoted to the person. See also --Archives; --Collectibles; --Death mask; --Relics; --Shrines; --Tomb.",
+      "see_also": [
+        "--Archives",
+        "--Collectibles",
+        "--Death mask",
+        "--Relics",
+        "--Shrines",
+        "--Tomb"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Musical instrument collections",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about the person’s collections of musical instruments. Consult H 1427.",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Musical settings",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works on musical compositions based the person’s written works or words. Also use under individual literatures for works on musical compositions based on texts of those literatures.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Musical settings--History and criticism",
+      "subfield": "x",
+      "subfield_codes": [
+        "x",
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Name",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for discussions of the history, orthography, etymology, etc., of the person’s name. See also --Anonyms and pseudonyms; --Titles. Consult H 1919.",
+      "see_also": [
+        "--Anonyms and pseudonyms",
+        "--Titles"
+      ],
+      "consult": [
+        "H 1919"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Natural history collections",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about the person’s collections of natural history items or specimens. Consult H 1427.",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Notebooks, sketchbooks, etc.",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use works about notebooks, sketchbooks, etc., of the person.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Numismatic collections",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about the person’s numismatics collections. See also --Coin collections. Consult H 1427.",
+      "see_also": [
+        "--Coin collections"
+      ],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Numismatics",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works discussing the representation of the person on coins, tokens, medals, paper money, etc. See also --Medals.",
+      "see_also": [
+        "--Medals"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--On postage stamps",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about the portrayal of the person on postage stamps. Consult H 1945.",
+      "see_also": [],
+      "consult": [
+        "H 1945"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--On television",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works that discuss television programming about the person, including dramatic or documentary shows, news programs, and advertising. Do not use for works on the person as a television actor, television host, news anchor, etc.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Oratory",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works discussing the person’s public speaking ability.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--"
+    },
+    {
+      "subdivision": "--Palaces",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Pardon",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about the person’s legal release from the penalty of an offense.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Parodies, imitations, etc.",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for imitations, either comic or distorted, of the person’s creative works.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Performances",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "performing artists or performers of all types for works about their performances",
+      "notes": "Use under performing artists or performers of all types for works about their performances. Also use under composers, choreographers, etc. for works about performances of their compositions or works. See also --Dramatic production; --Stage history.",
+      "see_also": [
+        "--Dramatic production",
+        "--Stage history"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Philosophy",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for discussions of the individual's personal philosophy. Do not use under names of philosophers. See also --Aesthetics; --Ethics; --Religion. Consult H 1929.",
+      "see_also": [
+        "--Aesthetics",
+        "--Ethics",
+        "--Religion"
+      ],
+      "consult": [
+        "H 1929"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Photograph collections",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about the person’s collections of photographs. See H 1427.",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Poetic works",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for discussions of poetic works by a literary author. Do not use under authors who write principally poetry.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Political activity",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "Do not use under persons who are chiefly known as politicians.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Political and social views",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works discussing the person’s political and/or social views in general. Do not assign to works written by the person on political or social topics. For works on specific topics, assign the heading for the topic along with the heading for the person (subdivided by --Political and social views, if appropriate).",
+      "see_also": [
+        "--Political and social views"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Portraits",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for collections or discussions of portraits of persons living after 1400 A.D. For persons living before 1400, see --Art. See also --Caricatures and cartoons; --Death mask; --Numismatics; --On postage stamps; --Posters; --Self-portraits; --Statues. Consult H 1935.",
+      "see_also": [
+        "--Art",
+        "--Caricatures and cartoons",
+        "--Death mask",
+        "--Numismatics",
+        "--On postage stamps",
+        "--Posters",
+        "--Self-portraits",
+        "--Statues"
+      ],
+      "consult": [
+        "H 1935"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Poster collections",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about the person’s collections of posters. Consult H 1427.",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Posters",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about posters the person. Consult H 1945.5",
+      "see_also": [],
+      "consult": [
+        "H 1945.5"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Prayers and devotions",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about prayers intended for their use.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Prayers and devotions--History and criticism",
+      "subfield": "x",
+      "subfield_codes": [
+        "x",
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Pre-existence",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works discussing the person’s existence in a previous state or life.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Prophecies",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about prophecies made by the person.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Prose",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for discussions of prose works or passages by a literary author. Do not use under authors who write principally prose. See also --Fictional works.",
+      "see_also": [
+        "--Fictional works"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Psychology",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for discussions or interpretations of the person’s psychological traits, personality, character, etc. See also --Mental health.",
+      "see_also": [
+        "--Mental health"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Public opinion",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about public opinion about the person. For works on public response and reception, praise, etc. of the artistic or literary works of persons active in the fine arts, literature, music, and performing arts, see --Appreciation. Consult H 1955.",
+      "see_also": [
+        "--Appreciation"
+      ],
+      "consult": [
+        "H 1955"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Quotations",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for collections or discussions of quotations by or about the person. See also --Allusions; --Calendars. Consult H 1969.",
+      "see_also": [
+        "--Allusions",
+        "--Calendars"
+      ],
+      "consult": [
+        "H 1969"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Radio and television plays",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for discussions of scripts written by a literary author expressly for radio or television. Do not use under authors who write principally radio or television plays. For discussions of audio or video adaptations of the person’s creative works, see --Audio adaptations; --Film adaptations.",
+      "see_also": [
+        "--Audio adaptations",
+        "--Film adaptations"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Relations with men",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works on intimate associations. For works on relations with an individual man, assign an additional heading for the man.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Relations with women",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works on intimate associations. For works on relations with an individual woman, assign and additional heading for the woman.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Relics",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "Includes works on disinterred bones. See also --Death mask.",
+      "see_also": [
+        "--Death mask"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Religion",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for discussions of the person’s religious beliefs and practices. Also includes the person’s knowledge or views on religion in general. Do not use under names of theologians. See also --Ethics. Consult H 1997.",
+      "see_also": [
+        "--Ethics"
+      ],
+      "consult": [
+        "H 1997"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Resignation from office",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See also --Abdication; --Impeachment.",
+      "see_also": [
+        "--Abdication",
+        "--Impeachment"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Romances",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about texts of medieval (that is, pre-1501) European tales based chiefly on legends of chivalric love and adventure in which those persons or characters are the dominant character. Consult H 1795.",
+      "see_also": [],
+      "consult": [
+        "H 1795"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Scientific apparatus collections",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about the person’s collections of scientific apparatus. Consult H 1427.",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Seal",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works discussing the devices, such as emblems, symbols, or words used by an individual to authenticate his or her writings or documents.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Self-portraits",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about self-portraits by those persons.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Settings",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "literary authors for discussions of the settings of their works",
+      "notes": "Use under literary authors for discussions of the settings of their works.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Sexual behavior",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Shrines",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "Use for works discussing structures or places consecrated or devoted to the person and serving as places of religious veneration or pilgrimage. See also --Museums; --Relics.",
+      "see_also": [
+        "--Museums",
+        "--Relics"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Slide collections",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about the person’s collections of slides. Consult H 1427.",
+      "see_also": [],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Societies, etc.",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works discussing organizations devoted to or specializing in the person’s life or work. Consult H 2060.",
+      "see_also": [],
+      "consult": [
+        "H 2060"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Songs and music",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about vocal or instrumental music about those subjects. Consult H 2075.",
+      "see_also": [],
+      "consult": [
+        "H 2075"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Songs and music--History and criticism",
+      "subfield": "x",
+      "subfield_codes": [
+        "x",
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Consult H 2075.",
+      "see_also": [],
+      "consult": [
+        "H 2075"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Sources",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for systems of law for works about source materials on those topics or systems. Also use under for works about the individual's sources of ideas or inspiration for their works.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Spiritualistic interpretations",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works classed in BF1311.A-Z (Special topics, including names of individual persons).",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Spurious and doubtful works",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works that discuss works attributed to a person at a previous time. See also --Authorship.",
+      "see_also": [
+        "--Authorship"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Stage history",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "literary authors for historical aspects of dramatic production",
+      "notes": "Use under literary authors for historical aspects of dramatic production. For general works on stage presentation, see --Dramatic production. For performances of the works of composers, choreographers, and performing artists, see --Performances.",
+      "see_also": [
+        "--Dramatic production",
+        "--Performances"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Stamp collections",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about the person’s stamp collections. For works about the portrayal of the person on postage stamps, see --On postage stamps. Consult H1427.",
+      "see_also": [
+        "--On postage stamps"
+      ],
+      "consult": [
+        "H 1427"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Statues",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "Use for works discussing or containing reproductions of statues representing the person.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Stories, plots, etc.",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about the stories or plots of those composers, authors, literatures, and compositions.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Symbolism",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for discussions of the symbols employed by the person in his or her creative works.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Teachings",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works discussing in general the body of knowledge, precepts, or doctrines the person taught to others.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Technique",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "literary authors for discussions of structural and formal elements in drama, fiction, and narrative poetry, such as asides, soliloquies, unities, scene structure, and stream-of-consciousness",
+      "notes": "Use under literary authors for discussions of structural and formal elements in drama, fiction, and narrative poetry, such as asides, soliloquies, unities, scene structure, and stream-of-consciousness.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Television adaptations",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Titles",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for terms or phrases applied to the person as titles of address, titles of nobility, etc.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Tomb",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about the person’s grave, interred bones, etc. For works on disinterred bones, see --Relics. See also --Death and burial.",
+      "see_also": [
+        "--Relics",
+        "--Death and burial"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Tragedies",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for criticism of tragedies by a literary author. Do not use under dramatists who write principally tragedies.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Tragicomedies",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for criticism of tragicomedies by a literary author. Do not use under dramatists who write principally tragicomedies.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Translations",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Translations--History and criticism",
+      "subfield": "x",
+      "subfield_codes": [
+        "x",
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Translations into French, [German, etc.]",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Translations into French, [German, etc.]--History and criticism",
+      "subfield": "x",
+      "subfield_codes": [
+        "x",
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Travel",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "Use for works about voyages and travels undertaken by the person whether written by the person or by others. When the subdivision is further subdivided by place, assign an additional heading of the type [place]--Description and travel. See also --Exile.",
+      "see_also": [
+        "--Exile"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Trials, litigation, etc.",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about civil or criminal actions to which they are parties. Consult H 2228.",
+      "see_also": [],
+      "consult": [
+        "H 2228"
+      ],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Versification",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for discussions of a literary author's technique of writing verse, including the structural composition of poetry, rhythm, rhyme, alliteration, etc.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Will",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for discussions of the person’s legal declaration regarding the disposition of his or her property or estate, including discussions or cases of contested wills. See also --Estate.",
+      "see_also": [
+        "--Estate"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Writing skill",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for discussions of a non-literary person’s literary ability and accomplishments, including discussions of literary works by persons normally identified with another field. Do not use under multi career persons who are also recognized as literary authors. For discussions on the attribution of authorship of specific works to the person, see --Authorship. See also --Literary style; --Written works.",
+      "see_also": [
+        "--Authorship",
+        "--Literary style",
+        "--Written works"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Written works",
+      "subfield": "x",
+      "subfield_codes": [
+        "x"
+      ],
+      "type": "topical",
+      "may_subd_geog": false,
+      "use_under": "persons active in the fine arts, music and performing arts for discussions, listings, etc., of their non-literary textual works",
+      "notes": "Use under persons active in the fine arts, music and performing arts for discussions, listings, etc., of their non-literary textual works. Do not use under persons also known as literary authors.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "O (topical)"
+    },
+    {
+      "subdivision": "--Adaptations",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "individuals such as literary authors, artists, or composers for collections of adaptations by others of their creative works or for discussions of adaptations",
+      "notes": "Use under individuals such as literary authors, artists, or composers for collections of adaptations by others of their creative works or for discussions of adaptations. For collections or discussions of an individual's adaptations of themes from others, see --Sources.",
+      "see_also": [
+        "--Sources"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Anecdotes",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for collections of brief narratives of true incidents from the individual’s life. See also --Allusions.",
+      "see_also": [
+        "--Allusions"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Archives",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for collections or discussions of documentary materials or records relating to the person’s public or private activities, including manuscripts, diaries, correspondence, photographs, or other items of historical interest. See also --Correspondence; --Diaries; --Manuscripts; --Notebooks, sketchbooks, etc. Consult H 1230.",
+      "see_also": [
+        "--Correspondence",
+        "--Diaries",
+        "--Manuscripts",
+        "--Notebooks, sketchbooks, etc"
+      ],
+      "consult": [
+        "H 1230"
+      ],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Art",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "persons living before 1400 A.D. for works consisting of reproductions of works of art depicting the person, or works discussing such art",
+      "notes": "Use under persons living before 1400 A.D. for works consisting of reproductions of works of art depicting the person, or works discussing such art. For persons living after 1400, see --Portraits. For pictorial representations of the person’s written works, see --Illustrations.",
+      "see_also": [
+        "--Portraits",
+        "--Illustrations"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Audio adaptations",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for discussions or collections of audio adaptations of the person’s creative works.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Audiocassette catalogs",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Consult H 1361",
+      "see_also": [],
+      "consult": [
+        "H 1361"
+      ],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Audio catalogs",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Consult H 1361",
+      "see_also": [],
+      "consult": [
+        "H 1361"
+      ],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Autographs",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for collections or discussions of the person’s autographs or handwriting.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Bibliography",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for lists of publications by or about the person. Consult H 1322.",
+      "see_also": [],
+      "consult": [
+        "H 1322"
+      ],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Biography",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use as a form subdivision under names of countries, cities, etc., names of individual corporate bodies, uniform titles of sacred works, and under classes of persons, ethnic groups, types of animals, and historic events for works of collective or individual biography.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)",
+      "geog_column_raw": "--"
+    },
+    {
+      "subdivision": "--Blogs",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for blogs by or about the person.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Calendars",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "See also --Quotations.",
+      "see_also": [
+        "--Quotations"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Caricatures and cartoons",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for collections or discussions of caricatures or pictorial humor about the person. See also --Comic books, strips, etc.",
+      "see_also": [
+        "--Comic books, strips, etc"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Catalogs",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "artists and craftspersons for works listing their art works or crafts which are available or located in particular institutions or places",
+      "notes": "Use under artists and craftspersons for works listing their art works or crafts which are available or located in particular institutions or places. Also use under persons doing business as sellers under their own names. See also --Audiocassette catalogs; --Audiotape catalogs; --Catalogues raisonnés; --Compact disc catalogs; --Correspondence--Microform catalogs; --Discography; --Library--Microform catalogs; --Thematic catalogs. Consult H 1360.",
+      "see_also": [
+        "--Audiocassette catalogs",
+        "--Audiotape catalogs",
+        "--Catalogues raisonnés",
+        "--Compact disc catalogs",
+        "--Correspondence--Microform catalogs",
+        "--Discography",
+        "--Library--Microform catalogs",
+        "--Thematic catalogs"
+      ],
+      "consult": [
+        "H 1360"
+      ],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Catalogues raisonnés",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for comprehensive listings of an artist’s or craftperson’s works in one medium or all media, usually chronologically or systematically arranged, and accompanied by descriptive or critical notes.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Chronology",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works that list by date the events in the life of the person or the person’s works, as well as discussions of the chronology of such events or works. Consult H 1367.",
+      "see_also": [],
+      "consult": [
+        "H 1367"
+      ],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Comic books, strips, etc.",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Compact disc catalogs",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Consult H 1361.",
+      "see_also": [],
+      "consult": [
+        "H 1361"
+      ],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Concordances",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use as a form subdivision for indexes to the principal words found in the writings of the person. Consult H 1670.",
+      "see_also": [],
+      "consult": [
+        "H 1670"
+      ],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Correspondence",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use as a form subdivision for the letters from and/or to the person. Assign an additional heading for individual correspondents. Consult H 1480.",
+      "see_also": [],
+      "consult": [
+        "H 1480"
+      ],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Correspondence--Microform catalogs",
+      "subfield": "x",
+      "subfield_codes": [
+        "x",
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use this subdivision combination as a form subdivision under names of individual persons. Consult H 1361.",
+      "see_also": [],
+      "consult": [
+        "H 1361"
+      ],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Diaries",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for collections or discussions of the person’s diaries. Also use for individual diaries. Consult H 1538.",
+      "see_also": [],
+      "consult": [
+        "H 1538"
+      ],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Discography",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for lists or catalogs of sound recordings by or about the person. See also --Audiotape catalogs. Consult H 1361.",
+      "see_also": [
+        "--Audiotape catalogs"
+      ],
+      "consult": [
+        "H 1361"
+      ],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Drama",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use as a form subdivision for plays and musical dramatic works, including operas, ballets, musical comedies, etc., about the person. For criticism or discussions of plays, etc., about an individual, assign [name of person]--In literature as a topical heading.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Dramatic production",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "literary authors for various aspects of stage presentation, for example, acting, costume, stage setting and scenery",
+      "notes": "Use under literary authors for various aspects of stage presentation, for example, acting, costume, stage setting and scenery. For historical aspects of dramatic production, see --Stage history. For performances of the works of composers, choreographers, and performing artists, see --Performances.",
+      "see_also": [
+        "--Stage history",
+        "--Performances"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Examinations, questions, etc.",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Fiction",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use as a form subdivision for works of fiction about the person. For criticism or discussions of fiction about a person, assign [name of person]--In literature as a topical heading. Consult H 1790.",
+      "see_also": [],
+      "consult": [
+        "H 1790"
+      ],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Film adaptations",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for discussions or collections of motion picture or video adaptations of the person’s creative works.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--First editions--Bibliography",
+      "subfield": "x",
+      "subfield_codes": [
+        "x",
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use this combination as a form subdivision under names of individual persons and individual literatures for lists of first editions of those works and those literatures.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Genealogy",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Humor",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use as a form subdivision for humorous works about the person as well as for works about the person’s sense of humor or use of humor. For pictorial humor, see --Caricatures and cartoons.",
+      "see_also": [
+        "--Caricatures and cartoons"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Illustrations",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for collections or discussions of pictorial representations of the person’s written works. For works of art depicting the person see --Art; --Portraits.",
+      "see_also": [
+        "--Art",
+        "--Portraits"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Interviews",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works about interviews or works consisting of transcripts of what was said during the course of interviews or conversations with the person on one or more occasions. Consult H 1678.",
+      "see_also": [],
+      "consult": [
+        "H 1678"
+      ],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Juvenile drama",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Juvenile fiction",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Juvenile humor",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Juvenile poetry",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Legends",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use as a form subdivision for stories about the person which have come down from the past and which are popularly taken as historical though not verifiable. See also --Romances.",
+      "see_also": [
+        "--Romances"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Meditations",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use as a form subdivision for works containing descriptions of thoughts or reflections on the spiritual significance of the person’s life or deeds.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Musical settings",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use as a form subdivision for musical scores or sound recordings in which writings or words of the person have been set to music.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Notebooks, sketchbooks, etc.",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for collections or discussions of the person’s notebooks, sketchbooks, etc. Also use for individual works.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Outlines, syllabi, etc.",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Parodies, imitations, etc.",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use as both a form and topical subdivision for imitations, either comic or distorted, of the person’s creative works.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Pictorial works",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for works consisting of pictures or visual images relating to the person. See also --Art; --Caricatures and cartoons; --Comic books, strips, etc.; --Illustrations; --Monuments; --Portraits. Consult H 1935.",
+      "see_also": [
+        "--Art",
+        "--Caricatures and cartoons",
+        "--Comic books, strips, etc",
+        "--Illustrations",
+        "--Monuments",
+        "--Portraits"
+      ],
+      "consult": [
+        "H 1935"
+      ],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Poetry",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use as a form subdivision for works of poetry about the person. For criticism or discussions of poetry about a person, assign [name of person]--In literature as a topical heading.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Political activity",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": true,
+      "use_under": "",
+      "notes": "Do not use under persons who are chiefly known as politicians.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Portraits",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for collections or discussions of portraits of persons living after 1400 A.D. For persons living before 1400, see --Art. See also --Caricatures and cartoons; --Death mask; --Numismatics; --On postage stamps; --Posters; --Self-portraits; --Statues. Consult H 1935.",
+      "see_also": [
+        "--Art",
+        "--Caricatures and cartoons",
+        "--Death mask",
+        "--Numismatics",
+        "--On postage stamps",
+        "--Posters",
+        "--Self-portraits",
+        "--Statues"
+      ],
+      "consult": [
+        "H 1935"
+      ],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Posters",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for collections or discussions of posters depicting the person. Consult H 1945.5",
+      "see_also": [],
+      "consult": [
+        "H 1945.5"
+      ],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Prayers and devotions",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use as a form subdivision, particularly under divine persons or saints, for works of devotions directed to those persons whose help or prayers are requested.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Romances",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use as a form subdivision under names of historical or legendary figures for medieval tales about the person based chiefly on legends of chivalric love and adventure. Do not use for romances written by the person. Consult H 1795.",
+      "see_also": [],
+      "consult": [
+        "H 1795"
+      ],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Scholia",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for marginal annotations, explanatory comments or remarks, especially those by early grammarians on the text of a classical work.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Self-portraits",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for reproductions or discussions of self-portraits by the artist or photographer.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Slides",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Songs and music",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use as a form subdivision for collections or single works of vocal or instrumental music about the person. For collections or single works in musical dramatic forms, such as operas, ballets, musical comedies, see --Drama. Consult H 2075.",
+      "see_also": [
+        "--Drama"
+      ],
+      "consult": [
+        "H 2075"
+      ],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Sources",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for collections of materials that served as the person’s sources of ideas or inspiration for his or her endeavors or creative works and for discussions of those source materials. For collections or discussions of adaptations by others of an individual's creative works, see --Adaptations.",
+      "see_also": [
+        "--Adaptations"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Spurious and doubtful works",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for discussions or collections of works attributed to the person at some previous time. Do not use for a single work. See also --Authorship.",
+      "see_also": [
+        "--Authorship"
+      ],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Stories, plots, etc.",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "composers, choreographers, and literary authors for works summarizing or discussing the stories or plots of their works",
+      "notes": "Use under composers, choreographers, and literary authors for works summarizing or discussing the stories or plots of their works.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Telephone calls",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Television adaptations",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Thematic catalogs",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "composers for lists of their musical compositions that include musical notation for the opening measures of individual works or sections of works",
+      "notes": "Use under composers for lists of their musical compositions that include musical notation for the opening measures of individual works or sections of works. Consult H 1322, H 1438.",
+      "see_also": [],
+      "consult": [
+        "H 1322",
+        "H 1438"
+      ],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Themes, motives",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "composers for lists of their musical compositions that include musical notation for the opening measures of individual works or sections of works",
+      "notes": "Use under composers for lists of their musical compositions that include musical notation for the opening measures of individual works or sections of works.",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Translations",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for collections of translations of a literary author. Do not use as a form heading for single translations. Consult H 2220.",
+      "see_also": [],
+      "consult": [
+        "H 2220"
+      ],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Translations into French, [German, etc.]",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "",
+      "see_also": [],
+      "consult": [],
+      "endnote": "",
+      "list_section": "P (form)"
+    },
+    {
+      "subdivision": "--Trials, litigation, etc.",
+      "subfield": "v",
+      "subfield_codes": [
+        "v"
+      ],
+      "type": "form",
+      "may_subd_geog": false,
+      "use_under": "",
+      "notes": "Use for proceedings or discussions of proceedings of civil or criminal actions to which the person is a party. Consult H 2228.",
+      "see_also": [],
+      "consult": [
+        "H 2228"
+      ],
+      "endnote": "",
+      "list_section": "P (form)"
+    }
+  ],
+  "see_references": [
+    {
+      "term": "--Acting",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Dramatic production”; “Stage history”",
+      "targets": [
+        "--Dramatic production",
+        "--Stage history"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Allegory",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Symbolism”",
+      "targets": [
+        "--Symbolism"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Anecdotes, facetiae, satire, etc.",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Humor”",
+      "targets": [
+        "--Humor"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Associates",
+      "list_section": "O (topical)",
+      "geog_column_raw": "",
+      "reference": "See “Friends and associates”",
+      "targets": [
+        "--Friends and associates"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Autobiography, [Person]",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "Use “[name of person]”",
+      "targets": [
+        "[name of person]"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Autographs, Spurious",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Forgeries”",
+      "targets": [
+        "--Forgeries"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Biography, [Person]",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "Use “[name of person]”",
+      "targets": [
+        "[name of person]"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Birthday books",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Calendars”",
+      "targets": [
+        "--Calendars"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Bones",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Relics”; “Tombs”",
+      "targets": [
+        "--Relics",
+        "--Tombs"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Burial",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Death and burial”",
+      "targets": [
+        "--Death and burial"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Canon",
+      "list_section": "O (topical)",
+      "geog_column_raw": "",
+      "reference": "See “Authorship”; “Chronology”; “Criticism, Textual”",
+      "targets": [
+        "--Authorship",
+        "--Chronology",
+        "--Criticism, Textual"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Career in [specific field or discipline]",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "For works limited to describing events in the person’s occupational life or participation in a profession or vocation, assign the name of the person and an additional heading for the field or discipline. Also assign this combination of headings for works discussing the person’s actual substantive contributions or accomplishments in a specific field or topic, whether made as a result of a vocation or an avocation. See also --Resignation from office.",
+      "targets": [
+        "--Resignation from office"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": true
+    },
+    {
+      "term": "--Career in politics",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Political activity”",
+      "targets": [
+        "--Political activity"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Cartoons, satire, etc.",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Humor”; “Caricatures and cartoons”",
+      "targets": [
+        "--Humor",
+        "--Caricatures and cartoons"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Centennial celebrations, etc.",
+      "list_section": "O (topical)",
+      "geog_column_raw": "",
+      "reference": "See “Anniversaries, etc.”",
+      "targets": [
+        "--Anniversaries, etc."
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Character",
+      "list_section": "O (topical)",
+      "geog_column_raw": "",
+      "reference": "See “Ethics”; “Psychology”; “Religion”",
+      "targets": [
+        "--Ethics",
+        "--Psychology",
+        "--Religion"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Commentaries",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Criticism and interpretation”",
+      "targets": [
+        "--Criticism and interpretation"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Companions",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Friends and associates”",
+      "targets": [
+        "--Friends and associates"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Contributions in [specific field or topic]",
+      "list_section": "O (topical)",
+      "geog_column_raw": "",
+      "reference": "Use for works discussing the person’s actual substantive contributions or accomplishments in a specific field or topic, whether made as a result of a vocation or an avocation. Assign the name of the person and an additional heading for the specific topic, etc. Also assign this combination of two headings for works discussing the person’s philosophy or system of thought that he or she propounded or imparted to others.",
+      "targets": [],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": true
+    },
+    {
+      "term": "--Costume",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Clothing”",
+      "targets": [
+        "--Clothing"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Crowning",
+      "list_section": "O (topical)",
+      "geog_column_raw": "",
+      "reference": "See “Coronation”",
+      "targets": [
+        "--Coronation"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Date of birth",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Birth”",
+      "targets": [
+        "--Birth"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Devotional literature",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Prayers and devotions”",
+      "targets": [
+        "--Prayers and devotions"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Diseases",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Health”",
+      "targets": [
+        "--Health"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Dwellings",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Homes and haunts”",
+      "targets": [
+        "--Homes and haunts"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Early life",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Childhood and youth”",
+      "targets": [
+        "--Childhood and youth"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Editions",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Bibliography”",
+      "targets": [
+        "--Bibliography"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Education",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Knowledge and learning”",
+      "targets": [
+        "--Knowledge and learning"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Enemies",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Adversaries”",
+      "targets": [
+        "--Adversaries"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Fiction",
+      "list_section": "O (topical)",
+      "geog_column_raw": "",
+      "reference": "See “In literature”",
+      "targets": [
+        "--In literature"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Film and video adaptations",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Film adaptations”",
+      "targets": [
+        "--Film adaptations"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Folktales",
+      "list_section": "O (topical)",
+      "geog_column_raw": "",
+      "reference": "See “Legends”",
+      "targets": [
+        "--Legends"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Funeral",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Death and burial”",
+      "targets": [
+        "--Death and burial"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Genealogy",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Family”",
+      "targets": [
+        "--Family"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Grave",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Tomb”",
+      "targets": [
+        "--Tomb"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Handwriting",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Autographs”",
+      "targets": [
+        "--Autographs"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Haunts",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Homes and haunts”",
+      "targets": [
+        "--Homes and haunts"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Iconography",
+      "list_section": "O (topical)",
+      "geog_column_raw": "",
+      "reference": "See “Pictorial works”",
+      "targets": [
+        "--Pictorial works"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Imitations",
+      "list_section": "O (topical)",
+      "geog_column_raw": "",
+      "reference": "See “Parodies, imitations, etc.”",
+      "targets": [
+        "--Parodies, imitations, etc."
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Internment",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Death and burial”",
+      "targets": [
+        "--Death and burial"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Interpretation",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Criticism and interpretation”",
+      "targets": [
+        "--Criticism and interpretation"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Journals",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Diaries”",
+      "targets": [
+        "--Diaries"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Journeys",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Travel”",
+      "targets": [
+        "--Travel"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Last illness",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Death and burial”",
+      "targets": [
+        "--Death and burial"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Leadership, Military",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Military leadership”",
+      "targets": [
+        "--Military leadership"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Learning",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Knowledge and learning”",
+      "targets": [
+        "--Knowledge and learning"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Letters",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Correspondence”",
+      "targets": [
+        "--Correspondence"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Literary art",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Writing skill”",
+      "targets": [
+        "--Writing skill"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Litigation",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Trials, litigation, etc.”",
+      "targets": [
+        "--Trials, litigation, etc."
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Motives, themes",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Themes, motives”",
+      "targets": [
+        "--Themes, motives"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Music",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Songs and music”",
+      "targets": [
+        "--Songs and music"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Old age",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Last years”",
+      "targets": [
+        "--Last years"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Opponents",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Adversaries",
+      "targets": [
+        "--Adversaries"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Paraphrases",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Adaptations”",
+      "targets": [
+        "--Adaptations"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Patronage of the arts",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Art patronage”",
+      "targets": [
+        "--Art patronage"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Personal finance",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Finance, Personal’",
+      "targets": [
+        "--Finance, Personal"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Personality",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Psychology”",
+      "targets": [
+        "--Psychology"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Pictorial humor",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Caricatures and cartoons”",
+      "targets": [
+        "--Caricatures and cartoons"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Place of birth",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Birthplace”",
+      "targets": [
+        "--Birthplace"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Places frequented",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Homes and haunts”",
+      "targets": [
+        "--Homes and haunts"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Plots",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Stories, plots, etc.”",
+      "targets": [
+        "--Stories, plots, etc."
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Professional life",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Career in [specific field or discipline]”",
+      "targets": [
+        "--Career in [specific field or discipline]"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Pseudonyms",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Anonyms and pseudonyms”",
+      "targets": [
+        "--Anonyms and pseudonyms"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Public speaking",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Oratory”",
+      "targets": [
+        "--Oratory"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Reading habits",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Books and reading”",
+      "targets": [
+        "--Books and reading"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Relations with [specific class of persons or ethnic group]",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "This subdivision was cancelled in July 2020. Assign the name of the person and an additional heading for the class of persons or ethnic group, with appropriate subdivision if necessary.",
+      "targets": [],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": true
+    },
+    {
+      "term": "--Relations with employees",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Employees”",
+      "targets": [
+        "--Employees"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Relations with friends and associates",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Friends and associates”",
+      "targets": [
+        "--Friends and associates"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Residences",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Homes and haunts”",
+      "targets": [
+        "--Homes and haunts"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Rhetoric",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Literary art”; “Literary style”; “Oratory”",
+      "targets": [
+        "--Literary art",
+        "--Literary style",
+        "--Oratory"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Satires",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Humor”",
+      "targets": [
+        "--Humor"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Sayings",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Quotations”",
+      "targets": [
+        "--Quotations"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Scholarship",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Knowledge and learning”",
+      "targets": [
+        "--Knowledge and learning"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Screenplays",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Motion picture plays”",
+      "targets": [
+        "--Motion picture plays"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Sepulchral monument",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Tomb”",
+      "targets": [
+        "--Tomb"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Sketchbooks",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Notebooks, sketchbooks, etc.”",
+      "targets": [
+        "--Notebooks, sketchbooks, etc."
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Social views",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Political and social views”",
+      "targets": [
+        "--Political and social views"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Spiritual life",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Religion”",
+      "targets": [
+        "--Religion"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Stories of operas",
+      "list_section": "O (topical)",
+      "geog_column_raw": "",
+      "reference": "See “Stories, plots, etc.”",
+      "targets": [
+        "--Stories, plots, etc."
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Style, Literary",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Writing skill”; “Literary style”",
+      "targets": [
+        "--Writing skill",
+        "--Literary style"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Table-talk",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Quotations”",
+      "targets": [
+        "--Quotations"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Tales",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Legends”; “Romances”",
+      "targets": [
+        "--Legends",
+        "--Romances"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Textual criticism",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Criticism, Textual”",
+      "targets": [
+        "--Criticism, Textual"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Theology",
+      "list_section": "O (topical)",
+      "geog_column_raw": "",
+      "reference": "See “Religion”",
+      "targets": [
+        "--Religion"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Video adaptations",
+      "list_section": "O (topical)",
+      "geog_column_raw": "",
+      "reference": "See “Film adaptations”",
+      "targets": [
+        "--Film adaptations"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Views on [specific topic]",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "For works discussing the person’s opinions or attitudes on a specific topic, whether explicitly stated or inferred, assign the heading for the person and an additional heading for the specific topic. For works on the person’s knowledge of a specific topic, whether explicitly stated or inferred from his or her life and works, see --Knowledge and learning.",
+      "targets": [
+        "--Knowledge and learning"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": true
+    },
+    {
+      "term": "--Views on aesthetics",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Aesthetics”",
+      "targets": [
+        "--Aesthetics"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Views on ethics",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Ethics”",
+      "targets": [
+        "--Ethics"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Views on politics and society",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Political and social views”",
+      "targets": [
+        "--Political and social views"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Views on religion",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Religion”",
+      "targets": [
+        "--Religion"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Views on society",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Political and social views”",
+      "targets": [
+        "--Political and social views"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Voyages",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Travel”",
+      "targets": [
+        "--Travel"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Weblogs",
+      "list_section": "O (topical)",
+      "geog_column_raw": "--",
+      "reference": "See “Blogs”",
+      "targets": [
+        "--Blogs"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Youth",
+      "list_section": "O (topical)",
+      "geog_column_raw": "",
+      "reference": "See “Childhood and youth”",
+      "targets": [
+        "--Childhood and youth"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Anecdotes, facetiae, satire, etc.",
+      "list_section": "P (form)",
+      "geog_column_raw": "--",
+      "reference": "See “Anecdotes”",
+      "targets": [
+        "--Anecdotes"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Birthday books",
+      "list_section": "P (form)",
+      "geog_column_raw": "--",
+      "reference": "See “Calendars”",
+      "targets": [
+        "--Calendars"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Canon",
+      "list_section": "P (form)",
+      "geog_column_raw": "",
+      "reference": "See “Chronology”",
+      "targets": [
+        "--Chronology"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Cartoons, satire, etc.",
+      "list_section": "P (form)",
+      "geog_column_raw": "--",
+      "reference": "See “Caricatures and cartoons”; “Humor”",
+      "targets": [
+        "--Caricatures and cartoons",
+        "--Humor"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Devotional literature",
+      "list_section": "P (form)",
+      "geog_column_raw": "--",
+      "reference": "See “Prayers and devotions”",
+      "targets": [
+        "--Prayers and devotions"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Editions",
+      "list_section": "P (form)",
+      "geog_column_raw": "--",
+      "reference": "See “Bibliography”",
+      "targets": [
+        "--Bibliography"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Film and video adaptations",
+      "list_section": "P (form)",
+      "geog_column_raw": "--",
+      "reference": "See “Film adaptations”",
+      "targets": [
+        "--Film adaptations"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Folktales",
+      "list_section": "P (form)",
+      "geog_column_raw": "",
+      "reference": "See “Legends”",
+      "targets": [
+        "--Legends"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Glossaries",
+      "list_section": "P (form)",
+      "geog_column_raw": "--",
+      "reference": "See “Language—Glossaries, etc.”",
+      "targets": [
+        "--Language--Glossaries, etc."
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Handwriting",
+      "list_section": "P (form)",
+      "geog_column_raw": "--",
+      "reference": "See “Autographs”",
+      "targets": [
+        "--Autographs"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Iconography",
+      "list_section": "P (form)",
+      "geog_column_raw": "",
+      "reference": "See “Pictorial works”",
+      "targets": [
+        "--Pictorial works"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Imitations",
+      "list_section": "P (form)",
+      "geog_column_raw": "",
+      "reference": "See “Parodies, imitations, etc.”",
+      "targets": [
+        "--Parodies, imitations, etc."
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Journals",
+      "list_section": "P (form)",
+      "geog_column_raw": "--",
+      "reference": "See “Diaries”",
+      "targets": [
+        "--Diaries"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Letters",
+      "list_section": "P (form)",
+      "geog_column_raw": "--",
+      "reference": "See “Correspondence”",
+      "targets": [
+        "--Correspondence"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Litigation",
+      "list_section": "P (form)",
+      "geog_column_raw": "--",
+      "reference": "See “Trials, litigation, etc.”",
+      "targets": [
+        "--Trials, litigation, etc."
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Marginalia",
+      "list_section": "P (form)",
+      "geog_column_raw": "--",
+      "reference": "See “Library--Marginal notes”; “Scholia”",
+      "targets": [
+        "--Library--Marginal notes",
+        "--Scholia"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Music",
+      "list_section": "P (form)",
+      "geog_column_raw": "--",
+      "reference": "See “Songs and music”",
+      "targets": [
+        "--Songs and music"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Paraphrases",
+      "list_section": "P (form)",
+      "geog_column_raw": "--",
+      "reference": "See “Adaptations”",
+      "targets": [
+        "--Adaptations"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Pictorial humor",
+      "list_section": "P (form)",
+      "geog_column_raw": "--",
+      "reference": "See “Caricatures and cartoons”",
+      "targets": [
+        "--Caricatures and cartoons"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Plots",
+      "list_section": "P (form)",
+      "geog_column_raw": "--",
+      "reference": "See “Stories, plots, etc.”",
+      "targets": [
+        "--Stories, plots, etc."
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Satires",
+      "list_section": "P (form)",
+      "geog_column_raw": "--",
+      "reference": "See “Humor”",
+      "targets": [
+        "--Humor"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Sayings",
+      "list_section": "P (form)",
+      "geog_column_raw": "--",
+      "reference": "See “Quotations”",
+      "targets": [
+        "--Quotations"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Sketchbooks",
+      "list_section": "P (form)",
+      "geog_column_raw": "--",
+      "reference": "See “Notebooks, sketchbooks, etc.”",
+      "targets": [
+        "--Notebooks, sketchbooks, etc."
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Stories of operas",
+      "list_section": "P (form)",
+      "geog_column_raw": "",
+      "reference": "See “Stories, plots, etc.”",
+      "targets": [
+        "--Stories, plots, etc."
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Table-talk",
+      "list_section": "P (form)",
+      "geog_column_raw": "--",
+      "reference": "See “Quotations”",
+      "targets": [
+        "--Quotations"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Tales",
+      "list_section": "P (form)",
+      "geog_column_raw": "--",
+      "reference": "See “Legends”; “Romances”",
+      "targets": [
+        "--Legends",
+        "--Romances"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Video adaptations",
+      "list_section": "P (form)",
+      "geog_column_raw": "--",
+      "reference": "See “Film adaptations”",
+      "targets": [
+        "--Film adaptations"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    },
+    {
+      "term": "--Weblogs",
+      "list_section": "P (form)",
+      "geog_column_raw": "--",
+      "reference": "See “Blogs”",
+      "targets": [
+        "--Blogs"
+      ],
+      "valid_subdivision": false,
+      "cancelled_or_discontinued": false
+    }
+  ]
+}

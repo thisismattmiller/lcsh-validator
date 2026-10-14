@@ -1,0 +1,97 @@
+
+
+<<<PAGE 1>>>
+Subject Headings Manual | Cross-cultural Studies H 1510 | Page 1 
+ 
+Cross-cultural Studies 
+H 1510 
+Table of Contents 
+Cross-cultural Studies .................................................................................................................... 1 
+A. Background ........................................................................................................................... 1 
+B. Recent revisions .................................................................................................................... 1 
+C. Definitions ............................................................................................................................. 1 
+D. General rule .......................................................................................................................... 2 
+E. Restrictions on usage ............................................................................................................. 2 
+E.1. General ........................................................................................................................... 2 
+E.2. Ethnic groups .................................................................................................................. 3 
+Revision history ......................................................................................................................... 3 
+ 
+A. Background 
+Cross-cultural studies are studies in which comparable data on cultural traits or behavior from 
+two or more cultures or societies are presented. These studies may assess similarities or 
+diversities occurring in those cultures or test hypotheses concerning individual or group 
+behavior. This instruction sheet provides guidelines on the usage of the free-floating 
+subdivision *–Cross-cultural studies*. 
+LC practice: As stated in H 1075, LC catalogers will no longer use form subdivisions. For 
+resources that would use form subdivisions, assign the LCGFT term appropriate to the form 
+and/or genre of the resource in hand. 
+B. Recent revisions 
+2025-02: Updated template. Added alternative instructions for LCGFT implementation. 
+C. Definitions 
+Cross-cultural studies: works that report the results of cross-cultural studies or discuss the 
+methods and techniques of conducting such studies. 
+
+
+<<<PAGE 2>>>
+Subject Headings Manual | Cross-cultural Studies H 1510 | Page 2 
+ 
+D. General rule 
+Use the free-floating subdivision *–Cross-cultural studies* as a form subdivision under topical 
+headings for works that report the results of cross-cultural studies on those topics or as a 
+topical subdivision for works that discuss the methods and techniques of conducting such 
+studies. 
+LC practice: Assign the appropriate subject headings for the topical focus of the resource. Do 
+not use the free-floating subdivision *–Cross-cultural studies* as a form subdivision for works 
+that report the results of cross-cultural studies. Instead, assign the LCGFT term appropriate to 
+the form and/or genre of the resource in hand, e.g. LCGFT *Cross-cultural studies*. 
+Example: 
+Title: Suicide in different cultures. 
+650 $0 $a Suicide $v Cross-cultural studies. 
+LC practice: 
+650 #0 $a Suicide. 
+655 #7 $a Cross-cultural studies. $2 lcgft 
+ 
+Title: Studying in the family cross-culturally. 
+650 #0 $a Family $x Cross-cultural studies. 
+LC practice: 
+No change. 
+E. Restrictions on usage 
+E.1. General 
+Reserve use of the subdivision *–Cross-cultural studies* to designate works that compare 
+cultural traits or culturally modifiable phenomena. 
+Topics such as physiological processes may be compared, but the topic in question should be 
+one that is modifiable by the social environment or through the socialization process. 
+LC practice: Assign the appropriate subject headings for the topical focus of the resource. Also 
+assign the LCGFT term appropriate to the form and/or genre of the resource in hand, e.g. LCGFT 
+*Cross-cultural studies*. 
+Examples: 
+650 #0 $a Breastfeeding $v Cross-cultural studies. 
+LC practice: 
+
+
+<<<PAGE 3>>>
+Subject Headings Manual | Cross-cultural Studies H 1510 | Page 3 
+ 
+650 #0 $a Breastfeeding. 
+655 #7 Cross-cultural studies. $2 lcgft 
+ 
+650 #0 $a Childbirth $v Cross-cultural studies. 
+LC practice: 
+650 #0 $a Childbirth. 
+655 #7 Cross-cultural studies. $2 lcgft 
+ 
+650 #0 $a Memory in children $v Cross-cultural studies. 
+LC practice: 
+650 #0 $a Memory in children. 
+655 #7 Cross-cultural studies. $2 lcgft 
+ 
+650 #0 $a Visual perception $v Cross-cultural studies. 
+LC practice: 
+650 #0 $a Visual perception. 
+655 #7 Cross-cultural studies. $2 lcgft 
+E.2. Ethnic groups 
+Do not use the subdivision *–Cross-cultural studies* under names of individual ethnic groups 
+or for works that discuss a single ethnic group. The work must compare traits in at least two or 
+more cultures or societies in order to designate it a cross-cultural study. 
+Revision history 
+2025-02: Updated template. Added alternative instructions for LCGFT implementation. 

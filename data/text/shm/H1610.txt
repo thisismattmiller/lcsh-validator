@@ -1,0 +1,225 @@
+
+
+<<<PAGE 1>>>
+ 
+Fictitious Characters  H 1610 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1610 Page 1 
+ 
+February 2021 
+BACKGROUND:  Fictitious characters may have names that resemble personal names or they 
+may have names that are descriptive phrases or nicknames. Traditionally, all headings for 
+fictitious characters were established in LCSH because fictitious characters could not be used as 
+descriptive access points under AACR2.  However, RDA permits names of individual fictitious 
+characters to be used as descriptive access points when the character is credited with the 
+creation of a work. In 2012 the decision was made to allow for two headings for fictitious 
+characters.  Headings established in LCSH under the guidelines in this instruction sheet were 
+assigned as subject headings.  Headings established in the name authority file were used as 
+descriptive access points and could not be used as subjects.   
+ 
+In 2013, a revision to RDA made it possible to establish all headings for individual fictitious 
+characters in the name authority file.  All headings for individual fictitious characters are now 
+established in the name authority file in the 100 field of the MARC 21 authority record.  The 
+name headings may be used as subjects, tagged 600.  Headings for groups of fictitious 
+characters (e.g., the Hardy Boys, the Teenage Mutant Ninja Turtles) continue to be established 
+in LCSH and are tagged 150. 
+ 
+As time permits, the Policy, Training, and Cooperative Programs Division will undertake a 
+project to create RDA name headings for the fictitious characters that are already established in 
+LCSH, and cancel the subject heading records.  
+ 
+This instruction sheet provides guidelines for establishing groups of fictitious characters in 
+LCSH and assigning subject headings for individual fictitious characters and groups of fictitious 
+characters.  It also describes the procedures for cancelling subject headings for individual 
+fictitious characters when name authority records have been created.   
+ 
+For more specific instructions on comic and cartoon characters see H 1430; for legendary 
+characters see H 1795. 
+ 
+ 
+1.  Form of heading.  Establish named groups of characters in direct form in the 150 field.  
+Add the parenthetical qualifier (Fictitious characters).  Examples: 
+ 
+150 ## $a Hardy Boys (Fictitious characters) 
+150 ## $a Holt family (Fictitious characters) 
+150 ## $a Mystery Kids (Fictitious characters) 
+150 ## $a Teletubbies (Fictitious characters) 
+ 
+
+
+<<<PAGE 2>>>
+H 1610  Fictitious Characters 
+ 
+ 
+ 
+H 1610 Page 2 
+Subject Headings Manual 
+February 2021 
+1.  Form of heading.  (Continued) 
+ 
+Do not establish individual characters, including married couples, who appear together in a 
+fictional work, as a group.  Instead, establish them as separate characters in the name authority 
+file.   
+ 
+ 
+a.  Characters with the same names.  Differentiate groups of characters having the 
+same names by adding the creator’s name to the qualifier following a space, a colon, and 
+another space. Example: 
+ 
+150 ## $a Logan family (Fictitious characters : Andrews) 
+150 ## $a Logan family (Fictitious characters : Taylor) 
+ 
+ 
+b.  Characters with names that differ according to the language of the work.  
+Establish groups of characters that have different names in English and foreign-language 
+editions, or that have different names in various literary traditions, under the name used in 
+English, regardless of the original language of the works. Provide 450 fields from the 
+foreign-language names. Examples: 
+ 
+150 ## $a Looney Bay All-Stars (Fictitious characters) 
+450 ## $a Étoiles de Baie-des-Coucous (Fictitious characters) 
+ 
+ 
+2.  References. 
+ 
+a.  UF references.  Add 450 fields with other names by which the character may be 
+known.  Examples: 
+ 
+150 ## $a Cartwright family (Fictitious characters) 
+450 ## $a Cartwright clan (Fictitious characters) 
+450 ## $a Cartwrights (Fictitious characters) 
+ 
+ 
+b.  Broader terms.  Do not add a broader term for headings for groups of fictitious 
+characters. 
+ 
+ 
+3.  Geographic subdivision.  Code headings for fictitious characters as Not Subdivided 
+Geographically. 
+ 
+
+
+<<<PAGE 3>>>
+ 
+Fictitious Characters  H 1610 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1610 Page 3 
+ 
+February 2021 
+4.  Existing LCSH headings for individual characters. Existing LC subject headings for 
+individual fictitious characters remain valid for use as subjects until name authority records for 
+the characters are created and the subject authority records are cancelled. Follow the instructions 
+below when creating a new name authority record for an individual fictitious character. 
+ 
+a.  Name heading needed for use as a descriptive access point. Create a name authority 
+record according to the instructions in RDA and the LC-PCC Policy Statements. Search 
+LCSH to determine whether the heading has been established there, and if it has, submit a 
+proposal to cancel the heading, following the instructions in H 193 sec. 14. 
+ 
+Note: Catalogers in PCC libraries who do not submit SACO proposals should 
+make a name authority record and then request the Policy, Training, and 
+Cooperative Programs Division (policy@loc.gov) to create a proposal to cancel 
+the subject heading. 
+ 
+b.  Heading needed for subject use only.  Optionally, an RDA name authority record 
+may be created even if the heading is needed only for use as a subject heading.  Create a 
+name authority record according to the instructions in RDA and the LC-PCC Policy 
+Statements. Submit a proposal to cancel the existing subject heading, following the 
+instructions in H 193 sec. 14. 
+ 
+c.  Phrase headings based on headings for fictitious characters.  Make proposals to 
+cancel phrase headings based on the heading for the character when the phrase will be 
+replaced by a [heading]—[free-floating subdivision] combination, unless the heading is 
+needed for hierarchy (i.e., is a BT for another heading).  Example: 
+ 
+150 ## $a Bond, James (Fictitious character) 
+682 ##  $i This authority record has been deleted because the subject 
+heading is covered by an identical name heading $0 
+(DLC)no2014075438 
+ 
+150 ## $a Bond, James (Fictitious character) in art 
+682 ## $i This authority record has been deleted because the heading 
+is replaced by the heading $a Bond, James (Fictitious 
+character)—Art, $i a heading for which a subject authority 
+record is not made because it uses a free-floating subdivision. 
+ 
+Make proposals to revise phrase headings based on the heading for the character when 
+the phrase will be replaced by a [heading]—[subdivision] combination in which the 
+subdivision is not free-floating.   
+ 
+ 
+
+
+<<<PAGE 4>>>
+H 1610  Fictitious Characters 
+ 
+ 
+ 
+H 1610 Page 4 
+Subject Headings Manual 
+February 2021 
+5.  Assignment of headings. 
+ 
+a.  Literary texts.  Assign a subject heading for a fictitious character to collections of 
+literary texts featuring the character, using the subdivisions –Fiction, –Drama, –Poetry, 
+or –Literary collections as appropriate. 
+ 
+For individual plays or poems, assign a subject heading only if the character has been 
+borrowed by the author from another author or source and used in the creation of a new 
+work.  For subject cataloging purposes, the borrowed character’s identity is considered 
+the same as that of the character created by the original author.  Do not create a separate 
+name heading for the borrowed character.  Instead, assign the same heading that would 
+have been assigned to the original work.  
+ 
+Do not assign a subject heading for works that are simply adaptations of another author's 
+work. 
+ 
+ 
+LC practice: 
+Do not assign a subject heading for a fictitious character to an individual work of fiction, 
+except for records that are cataloged according to special provisions for increased access 
+to fiction (see H 1790). 
+ 
+ 
+b.  Works about the character or the named group of characters.  Assign a subject 
+heading without further subdivision to general nonfiction works about a fictitious 
+character or group of characters. 
+ 
+For works limited to characters in specific media, subdivide the subject heading by the 
+free-floating subdivisions –Art, –In literature, –In mass media, etc. 
+ 
+Exception:  Do not use –In literature for literary characters or –Art for 
+characters that originated in art. Use the subdivisions –In literature and –Art 
+only for characters borrowed from other media, e.g., Snoopy—In literature; 
+Laertes—Art; Simpsons (Fictitious characters)—In literature; Hobbits 
+(Fictitious characters)—Art. 
+ 
+For works on the use of a fictitious character by an individual author, assign also a 
+heading of the type [name of author]—Characters (cf. H 1110). 
+ 
+
+
+<<<PAGE 5>>>
+ 
+Fictitious Characters  H 1610 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1610 Page 5 
+ 
+February 2021 
+5.  Assignment of headings.  (Continued) 
+ 
+c. Free-floating subdivisions from H 1110. Free-floating subdivisions listed in H 1110, 
+Free-Floating Subdivisions: Names of Persons, may not be used under headings for 
+fictitious characters.  Subdivisions from H 1110 that are needed for use under an 
+individual heading may be editorially established under the specific heading. 
+ 
+ 

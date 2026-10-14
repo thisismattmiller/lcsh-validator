@@ -1,0 +1,127 @@
+
+
+<<<PAGE 1>>>
+ 
+Pattern Headings: Types of Educational Institutions  H 1151.5 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1151.5 Page 1 
+ 
+June 2013 
+PATTERN:  Universities and colleges 
+ 
+ 
+TYPES OF HEADINGS COVERED BY THE PATTERN:  Headings for types of schools and 
+educational institutions at all levels.  Examples:  Agricultural colleges; Boarding schools; 
+Community colleges; Elementary schools; Schools of architecture; Women's colleges.  The 
+category does not include the heading Schools or headings for names of individual educational 
+institutions, which are covered by H 1151. 
+ 
+CONFLICTS:  Any subdivision listed here can be used as a free-floating subdivision under any 
+heading belonging to the category if it is appropriate and no conflict exists in the subject 
+authority file.  Subject authority records may exist for headings employing variant phrases or 
+subdivisions equivalent to subdivisions on this list. 
+ 
+LC practice: 
+If an exceptional variant form is to be retained, make a UF reference from the equivalent 
+free-floating subdivision form following the procedures in H 195 if the reference does not yet 
+exist.  Otherwise, submit a proposal to change the variant form along with all bibliographic 
+records requiring correction following the procedures in H 193. 
+ 
+Note:  Most form subdivisions coded $v in this list may also be used as topical 
+subdivisions coded $x when assigned to works about the form (see H 1075, sec. 1.d.). 
+ 
+$x Accounting 
+$x Accreditation  (May Subd Geog) 
+$x Administration 
+$x Administration $x Law and legislation1  (May Subd Geog) 
+$x Admission 
+$x Admission $x Law and legislation1  (May Subd Geog) 
+$x Alumni and alumnae2  (May Subd Geog) 
+$v Archives 
+$x Auditing 
+$x Auditing $x Law and legislation1  (May Subd Geog) 
+$x Business management 
+$v Chapel exercises 
+$x Communication systems 
+$x Communication systems $x Contracting out  (May Subd Geog) 
+$x Complaints against  (May Subd Geog) 
+$x Corrupt practices  (May Subd Geog) 
+$x Curricula  (May Subd Geog)  
+
+
+<<<PAGE 2>>>
+H 1151.5  Pattern Headings: Types of Educational Institutions 
+ 
+ 
+ 
+H 1151.5 Page 2 
+Subject Headings Manual 
+June 2013 
+$x Curricula $v Catalogs 
+$x Decentralization  (May Subd Geog) 
+$x Departments 
+$x Elective system 
+$x Employees2 
+$x Entrance examinations 
+$x Entrance examinations $x Law and legislation1  (May Subd Geog) 
+$x Entrance examinations $v Study guides 
+$x Entrance requirements 
+$x Environmental aspects (May Subd Geog) 
+$x Evaluation 
+$x Examinations 
+$x Examinations $x Law and legislation1  (May Subd Geog) 
+$x Examinations $x [subject] 
+$x Faculty2 
+$x Finance 
+$x Finance $x Law and legislation1  (May Subd Geog) 
+$x Food service  (May Subd Geog) 
+$x Graduate work 
+$x Graduate work $x Examinations 
+$x Graduation requirements 
+$x Health promotion services  (May Subd Geog) 
+$x Honors courses  (May Subd Geog) 
+$x Insignia 
+$x Law and legislation1  (May Subd Geog) 
+$x Mergers  (May Subd Geog) 
+$x Names 
+$x Open admission  (May Subd Geog) 
+$x Planning 
+$v Prayers 
+$x Privileges and immunities 
+$x Professional staff2 
+$x Public services 
+$x Ratings and rankings  (May Subd Geog) 
+$x Religion 
+$x Residence requirements  (May Subd Geog) 
+$x Safety measures 
+$x Sanitary affairs 
+$x Security measures  (May Subd Geog) 
+$v Sermons 
+
+
+<<<PAGE 3>>>
+ 
+Pattern Headings: Types of Educational Institutions  H 1151.5 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1151.5 Page 3 
+ 
+June 2013 
+ 
+$x Services for  (May Subd Geog) 
+$x Services for $x Contracting out  (May Subd Geog) 
+$x Sociological aspects 
+$x Standards  (May Subd Geog) 
+$x Waste disposal  (May Subd Geog) 
+$x Waste minimization  (May Subd Geog) 
+ 
+ 
+ 
+NOTES 
+1See H 1154.5 for further subdivisions used under legal topics. 
+2See H 1100 for further subdivisions used under classes of persons. 

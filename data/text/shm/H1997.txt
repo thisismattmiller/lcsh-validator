@@ -1,0 +1,236 @@
+
+
+<<<PAGE 1>>>
+ 
+Religion  H 1997 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1997 Page 1 
+ 
+August 2020 
+BACKGROUND:  The subdivision –Religion is used under names of countries, cities, etc., 
+ethnic groups, types of educational institutions, names of individual corporate bodies, and 
+names of individual persons, for general works on the religions or religious history of those 
+places, institutions, or people.  This instruction sheet provides guidelines for assigning this 
+subdivision. For instructions on assigning the subdivision –Religious life and customs, see H 
+2016. 
+ 
+ 
+1.  Countries, cities, etc. 
+ 
+a.  General.  Assign the free-floating subdivision –Religion under names of countries, 
+cities, etc., for works that discuss the religions or religious history of these places.  
+Examples: 
+ 
+651 #0 $a Boston (Mass.) $x Religion. 
+651 #0 $a France $x Religion. 
+651 #0 $a Latin America $x Religion. 
+ 
+Do not subdivide –Religion by –History. 
+ 
+b.  By period.  Assign free-floating period subdivisions, in accordance with H 1140, 
+under headings of the type [place]–Religion for works on the history of religion in a 
+place during a particular time period.  Examples: 
+ 
+651 #0 $a Saint Petersburg (Russia) $x Religion $y 20th 
+            century. 
+651 #0 $a United States $x Religion $y 19th century. 
+ 
+If the place in question is a region or country, more specific period subdivisions may be 
+established under –Religion, using date spans that correspond to important events or 
+trends in the religious history of the place.  Example: 
+ 
+651 #0 $a United States $x Religion $y 1960- 
+ 
+c.  Individual religions.  For works describing an individual religion or denomination or 
+presenting the history of that religion in a place, assign a heading or a subdivision for the 
+religion instead of a heading of the type [place]–Religion.  Examples: 
+ 
+650 #0 $a Baptists $z Pennsylvania $x History. 
+650 #0 $a Christianity $z Africa. 
+650 #0 $a Islam $z India $x History. 
+650 #0 $a Pure Land Buddhism $z Japan $x History. 
+651 #0 $a United States $x Church history $y 20th century. 
+
+
+<<<PAGE 2>>>
+H 1997  Religion 
+ 
+ 
+ 
+H 1997 Page 2 
+Subject Headings Manual 
+August 2020 
+2.  Ethnic groups. 
+ 
+a.  General.  Assign the free-floating subdivision –Religion under headings for 
+individual ethnic groups, including groups of Indians, for works on the religion of these 
+groups.  Examples: 
+ 
+ 
+650 #0 $a African Americans $x Religion. 
+650 #0 $a Germans $z Canada $x Religion. 
+650 #0 $a Xhosa (African people) $x Religion. 
+650 #0 $a Mapuche Indians $x Religion. 
+ 
+Do not subdivide –Religion by –History. 
+ 
+Note:  The subdivision –Religion and mythology was discontinued under groups 
+of Indians in 1994. 
+ 
+ 
+b.  Individual religions.  For works on the participation of an ethnic group in an 
+individual religion or denomination, assign two headings.  Example: 
+ 
+ 
+Title:  The Hispanic revolution in the American church. 
+650 #0 $a Hispanic Americans $x Religion. 
+610 20 $a Catholic Church $z United States. 
+ 
+ 
+ 
+3.  Types of educational institutions and names of individual corporate bodies.  Assign the 
+free-floating subdivision –Religion under headings for types of educational institutions and 
+under names of individual corporate bodies, including educational institutions, for works on 
+religion in these organizations or institutions.  Example: 
+ 
+650 #0 $a Private schools $x Religion. 
+610 20 $a Harvard University $x Religion. 
+ 
+Do not subdivide –Religion by –History. 
+ 
+Do not use this subdivision under headings for types of religious institutions or under names of 
+individual religious organizations. 
+
+
+<<<PAGE 3>>>
+ 
+Religion  H 1997 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1997 Page 3 
+ 
+August 2020 
+4.  Individual persons. 
+ 
+ 
+a.  Literary authors.  Assign the free-floating subdivision –Religion under names of 
+individual literary authors for works on the author's beliefs, practices, knowledge, views, 
+etc., of religion, and for religion as a theme in the author's works. 
+ 
+ 
+b.  Other persons. 
+ 
+ 
+(1) General.  Assign the free-floating subdivision –Religion under names of 
+persons, except individual theologians, for general works on the individual's 
+religious beliefs, practices, knowledge, views, etc. 
+ 
+For individual theologians, assign the name heading for the person, without 
+further subdivision. 
+ 
+ 
+(2) Special topics.  For works on the individual’s knowledge of a special aspect 
+of religion, assign a heading of the type [name of person]–Knowledge and 
+learning, along with an additional heading for the special aspect.  For works on 
+other aspects of a religious topic in relation to a person, including the person's 
+views on a topic, accomplishments in a religious field, or contributions to a 
+religious topic, assign the heading for the person and an additional heading for the 
+religious topic.  Examples: 
+ 
+ 
+Title:  Nietzsche's investigations into mysticism. 
+600 10 $a Nietzsche, Friedrich Wilhelm, $d 1844-1900 
+ 
+  $x Knowledge and learning. 
+650 #0  $a Mysticism. 
+ 
+Title:  The clearest promises of God : the development of Calvin's 
+eucharistic teaching. 
+600 10 $a Calvin, Jean, $d 1509-1564. 
+650 #0 $a Lord's Supper $x History of doctrines 
+            $y 16th century. 
+ 
+
+
+<<<PAGE 4>>>
+H 1997  Religion 
+ 
+ 
+ 
+H 1997 Page 4 
+Subject Headings Manual 
+August 2020 
+5.  Assigning appropriate headings.  Works on the religion of places, institutions, and people 
+are sometimes multi-faceted, requiring an array of headings to bring out the major aspects of the 
+subject matter.  Assign additional headings, if appropriate, to cover the important topics 
+discussed in a work.  Examples: 
+ 
+Title:  Shakespeare's religious background. 
+600 10 $a Shakespeare, William, $d 1564-1616 $x Religion. 
+650 #0 $a Religion in literature. 
+651 #0 $a Great Britain $x Church history $y 16th century. 
+ 
+ 
+Title:  Chi, the true god in the Igbo religion. 
+650 #0 $a Chi (Igbo deity) 
+650 #0 $a Igbo (African people) $x Religion. 
+651 #0 $a Africa, Sub-Saharan $x Religion. 
+ 
+ 
+Title:  A history of Marxist-Leninist atheism and Soviet anti-religious policies. 
+650 #0 $a Persecution $z Soviet Union $x History. 
+650 #0 $a Atheism $z Soviet Union $x History.  
+651 #0 $a Soviet Union $x Religion. 
+ 
+ 
+Title:  Kafka : Judaism, politics, and literature. 
+600 10 $a Kafka, Franz, $d 1883-1924 $x Religion. 
+600 10 $a Kafka, Franz, $d 1883-1924 $x Political and social 
+            views. 
+650 #0 $a Judaism in literature. 
+ 
+ 
+Title:  Protestant reformers at Oxford. 
+610 20 $a University of Oxford $x Religion. 
+650 #0 $a Reformation $z England $z Oxford. 
+651 #0 $a Oxford (England) $x Church history $y 16th  
+            century. 
+651 #0 $a England $x Church history $y 16th century. 
+ 
+ 
+Title:  Black Pentecostalism : Southern religion in an urban world. 
+610 20 $a Mt. Calvary Holy Church of America (Boston, Mass.) 
+650 #0 $a African Americans $z Massachusetts $z Boston  
+            $x Religion. 
+651 #0 $a Boston (Mass.) $x Church history. 
+ 
+
+
+<<<PAGE 5>>>
+ 
+Religion  H 1997 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1997 Page 5 
+ 
+August 2020 
+5.  Assigning appropriate headings.  Examples:  (Continued)           
+ 
+ 
+Title:  Irish famine refugees in New England. 
+650 #0 $a Irish Americans $z New England $x History $y 19th 
+            century. 
+650 #0 $a Irish Americans $z New England $x Religion. 
+650 #0 $a Immigrants $z New England $x History $y 19th  
+            century. 
+651 #0 $a Ireland $x Emigration and immigration $x History 
+            $y 19th century. 
+651 #0 $a New England $x Emigration and immigration  
+            $x History $y 19th century. 

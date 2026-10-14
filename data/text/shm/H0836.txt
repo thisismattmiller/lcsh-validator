@@ -1,0 +1,96 @@
+
+
+<<<PAGE 1>>>
+ 
+Geographic Subdivision Information  H 836 
+                                in Subject Authority Records        
+      
+ 
+ 
+Subject Headings Manual 
+H 836 Page 1 
+ 
+January 2020 
+BACKGROUND:  In February 1999, the Library of Congress began using the 781 field 
+(Subdivision Heading Linking EntryBGeographic Subdivision) in subject authority records for 
+new geographic subject headings that may also be used as geographic subdivisions.  This field 
+is used to record the geographic subdivision form in a format that is both eye-readable and 
+manipulable for purposes of machine validation.  For geographic subject headings that are not 
+appropriate for use as geographic subdivisions, the Library began adding a 667 field stating 
+that the heading is not valid for use as a geographic subdivision to their subject authority 
+records. 
+ 
+ 
+Prior to February 1999, subdivision treatment decisions for selected geographic subject 
+headings that fell outside the scope of the standard rules, or whose geographic status was 
+ambiguous or not readily apparent, were recorded in 680 fields in the subject authority records 
+for those entities, as in the following example: 
+ 
+ 
+151 #0 $a Samoan Islands 
+680 ## $i As a geographic subdivision, this heading is used 
+          directly. 
+ 
+ 
+A project was begun in 1999 to convert 680 fields of this type that appear in subject authority 
+records created prior to February 1999 to 781 fields, and to add either a 667 or 781 field to all 
+other subject authority records for geographic headings established before that date.  If 
+geographic subject authority records are encountered that lack either a 667 or 781 field, 
+catalogers may report them by sending a printout to the Policy, Training, and Cooperative 
+Programs Division. 
+ 
+ 
+For all newly proposed geographic subject headings that may be used as geographic 
+subdivisions, catalogers are now required to add the 781 field. For those headings that are not 
+appropriate for use as geographic subdivisions, such as celestial bodies and certain entities 
+located in cities, catalogers are required to add a 667 field to the record stating that the 
+heading is not valid for use as a geographic subdivision. 
+ 
+ 
+This instruction sheet describes the procedure for adding this 781 or 667 field to a newly 
+proposed geographic subject heading.  Instructions on adding this field to records for 
+jurisdictional names that are established as name headings are provided in H 835. 
+
+
+<<<PAGE 2>>>
+H 836  Geographic Subdivision Information  
+        in Subject Authority Records 
+ 
+ 
+ 
+H 836 Page 2 
+Subject Headings Manual 
+January 2020 
+1.  781 field.  When establishing a new geographic subject heading that may be used as a 
+geographic subdivision, determine the form in which the heading is used as a geographic 
+subdivision following the guidelines in H 830.  Enter the text of the geographic subdivision 
+form in a 781 field with second indicator 0.  For a geographic heading that is used directly, 
+enter the data in a single $z subfield.  For a geographic heading that is used indirectly through a 
+larger geographic entity, enter the data in two successive $z subfields.   Examples:  
+ 
+ 
+151 ## $a Arabah Valley (Israel and Jordan) 
+781 #0 $z Arabah Valley (Israel and Jordan) 
+ 
+ 
+151 ## $a Halkyn Mountain (Wales) 
+781 #0 $z Wales $z Halkyn Mountain 
+ 
+ 
+2.  667 field.  For a geographic subject heading that may not be used as a  geographic 
+subdivision, such as a celestial body, a structure or park in a city, etc., add a 667 field to the 
+record containing the following text: 
+ 
+667 ## $a This heading is not valid for use as a geographic 
+            subdivision. 
+ 
+Examples: 
+ 
+151 ## $a Andromeda Galaxy 
+667 ## $a This heading is not valid for use as a geographic 
+            subdivision. 
+ 
+ 
+151 ## $a Roosevelt Drive (Bedford Hills, N.Y.) 
+667 ## $a This heading is not valid for use as a geographic 
+            subdivision. 

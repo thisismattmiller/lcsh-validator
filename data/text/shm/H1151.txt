@@ -1,0 +1,136 @@
+
+
+<<<PAGE 1>>>
+ 
+Pattern Headings: Individual Educational Institutions  H 1151 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1151 Page 1 
+ 
+September 2013 
+PATTERN:  Harvard University 
+ 
+ 
+TYPES OF HEADINGS COVERED BY THE PATTERN:  Headings for names of individual 
+educational institutions at all levels and of all types, including systems, which are established as 
+corporate bodies in the name authority file.  Examples:  Anne Arundel Community College; 
+Muleshoe Junior High School; Medical University of South Carolina; Union Theological 
+Seminary (New York, N.Y.); University of California (System).  The category does not 
+include headings for types of educational institutions, which are covered by H 1151.5. 
+ 
+ 
+RELATION TO H 1105:  Subdivisions on the list of free-floating subdivisions used under 
+names of individual corporate bodies, H 1105, are also free-floating under individual educational 
+institutions where there is no conflict.  This list contains additional subdivisions appropriate for 
+educational institutions. 
+ 
+ 
+CONFLICTS:  Any subdivision listed here can be used as a free-floating subdivision under any 
+heading belonging to this category if it is appropriate and no conflict exists in the subject 
+authority file.  Subject authority records may exist for headings employing variant phrases or 
+subdivisions equivalent to subdivisions on this list. 
+ 
+LC practice: 
+If an exceptional variant form is to be retained, make a UF reference from the equivalent 
+free-floating subdivision form following the procedures in H 195 if the reference does not yet 
+exist.  Otherwise, submit a proposal to change the variant form along with all bibliographic 
+records requiring correction following the procedures in H 193. 
+ 
+Note:  Most form subdivisions coded $v in this list may also be used as topical 
+subdivisions coded $x when assigned to works about the form (see H 1075, sec. 1.d.). 
+ 
+$x Administration 
+$x Admission 
+$v Aerial views 
+$x Alumni and alumnae1  (May Subd Geog) 
+$x Bands 
+$x Baseball 
+
+
+<<<PAGE 2>>>
+H 1151  Pattern Headings: Individual Educational Institutions 
+ 
+ 
+ 
+H 1151 Page 2 
+Subject Headings Manual 
+September 2013 
+$x Basketball 
+$x Benefactors1 
+$x Buildings 
+$x Buildings $x Barrier-free design 
+$x Buildings $x Remodeling for other use 
+$x Choral organizations 
+$x Curricula 
+$x Curricula $v Catalogs 
+$x Degrees 
+$x Dissertations 
+$x Dissertations $v Style manuals 
+$x Employees1 
+$x Entrance examinations 
+$x Entrance requirements 
+$x Entrance requirements $x [subject] 
+$x Examinations 
+$x Examinations $x [subject] 
+$x Faculty1 
+$x Faculty housing 
+$x Finance 
+$x Football 
+$x Foreign students1 
+$x Freshmen1 
+$x Funds and scholarships 
+$x Golf 
+$x Graduate students1 
+$x Graduate work 
+$x Gymnastics 
+$x Hockey 
+$x Honor system 
+$x Lacrosse 
+$x Language 
+$x Mascots 
+$x Open admission 
+$x Orchestras 
+$x Parking 
+$x Professional staff1 
+
+
+<<<PAGE 3>>>
+ 
+Pattern Headings: Individual Educational Institutions  H 1151 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1151 Page 3 
+ 
+September 2013 
+ 
+$x Public services 
+$v Regulations 
+$x Riot, [date]2 
+$x Riots 
+$x Rowing 
+$x Rugby football 
+$x Sanitary affairs 
+$x Soccer 
+$x Softball
+$x Sports 
+$x Student housing 
+$x Student strike, [date]2 
+$x Students1 
+$x Students $v Yearbooks 
+$x Swimming 
+$x Tennis 
+$x Track and field 
+$x Tuition 
+$x Undergraduates 
+$x Volleyball 
+$x Wrestling 
+ 
+ 
+ 
+NOTES 
+1See H 1100 for further subdivisions used under classes of persons. 
+2See H 1078 for instructions on dates in subdivisions for specific events. 

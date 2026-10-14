@@ -1,0 +1,52 @@
+
+
+<<<PAGE 1>>>
+ 
+Vocational Guidance  H 2232 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2232 Page 1 
+ 
+June 2013 
+BACKGROUND:  The free-floating subdivision BVocational guidance is used under 
+occupations, fields of endeavor, industries, names of corporate bodies, and individual military 
+services, for works describing careers in these fields or organizations and/or offering advice on 
+how to prepare for, enter, and succeed in these careers.  This instruction sheet provides 
+guidelines for assigning this subdivision. 
+ 
+ 
+ 
+ 
+1.  Professions, fields of knowledge, industries, etc.  Assign the free-floating subdivision 
+BVocational guidance (May Subd Geog) under occupations, fields of endeavor, types of 
+industries, trades, etc., for works on careers in these fields.  Examples: 
+ 
+ 
+650 #0 $a Automobiles $x Maintenance and repair $x Vocational 
+            guidance. 
+650 #0 $a Bioengineering $x Vocational guidance. 
+650 #0 $a Dentistry $x Vocational guidance $z United States. 
+ 
+ 
+The former practice of establishing phrase headings of the type [...] as a profession for 
+vocational guidance in professional fields was discontinued in 1975. 
+ 
+ 
+2.  Classes of persons.  Assign the free-floating subdivision BVocational guidance (May Subd 
+Geog) under classes of persons or occupational groups only if the heading for the corresponding 
+field or activity does not exist and cannot be established.  Example: 
+ 
+ 
+650 #0 $a Allied health personnel $x Vocational guidance. 
+ 
+ 
+3.  Corporate bodies and individual military services.  Assign the free-floating subdivision 
+BVocational guidance (May Subd Geog) under names of individual corporate bodies and 
+individual military services for works on careers in those organizations or services.  Examples:  
+ 
+610 10 $a United States. $b National Aeronautics and Space 
+            Administration $x Vocational guidance. 
+610 10 $a United States. $b Army $x Vocational guidance. 
+ 

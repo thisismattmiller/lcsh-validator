@@ -1,0 +1,143 @@
+
+
+<<<PAGE 1>>>
+ 
+Religious Denominations or Religions as Subdivisions  H 2015 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2015 Page 1 
+ 
+August 2020 
+BACKGROUND: Provision has been made in numerous instances in the subject authority file 
+for the use of names of individual religions, churches, denominations, etc., as subdivisions under 
+inherently religious headings or under other topical headings with the subdivision –Religious 
+aspects, as in the following examples of headings from bibliographic records: 
+ 
+ 
+650 #0 $a Fasts and feasts $x Buddhism. 
+650 #0 $a Birth control $x Religious aspects $x Catholic Church. 
+650 #0 $a Ordination $x Methodist Church. 
+ 
+ 
+This provision may appear in the subject authority file as a multiple subdivision, for example, 
+ 
+ 
+150 ## $a Baptism $x Anglican Communion, [Catholic Church, etc.] 
+150 ## $a Public worship $x Judaism, [Buddhism, etc.] 
+ 
+ 
+This instruction sheet describes the use of these names as subdivisions and the requirements for 
+assigning additional headings when a heading of this type is assigned. For more information 
+about multiple subdivisions, see sec. 2 below and H 1090. 
+ 
+ 
+ 
+Note: The provisions of this instruction sheet apply only to those situations where the 
+names of religions or denominations are used as subdivisions.  Where other currently 
+acceptable patterns exist, such as the use of adjectival qualifiers, each new heading must 
+be established individually according to the established pattern, for example, 
+ 
+150 ## $a Lutheran preaching 
+150 ## $a Orthodox Eastern press 
+ 
+ 
+ 
+1.  General rule.  As necessary in current cataloging, divide inherently religious headings by 
+religions or denominations if they have not yet been divided, rather than by using parenthetical 
+qualifiers.  If the heading represents a concept that is not limited to the field of religion, 
+establish the subdivision –Religious aspects under the topic, and also establish the subdivision to 
+bring out the specific religion or denomination.  For a fuller discussion of the subdivision 
+–Religious aspects, see H 1998. 
+
+
+<<<PAGE 2>>>
+H 2015  Religious Denominations or Religions as Subdivisions 
+ 
+ 
+ 
+H 2015 Page 2 
+Subject Headings Manual 
+August 2020 
+2. Multiple subdivisions.   
+ 
+ 
+As of July 2018, proposals for new multiple subdivisions are not being accepted and 
+individual strings that formerly would have been authorized by a multiple are 
+individually established. Also in 2018, the Policy and Standards Division began a project 
+to separately establish each valid heading string that was created based on a multiple 
+subdivision and to cancel the multiple subdivisions. Multiples that already exist remain 
+valid for use until they have been cancelled. For additional information, see H 1090. 
+ 
+ 
+a. Multiple already established.  If an appropriate multiple subdivision has been provided in 
+the subject authority file under the required topic, assign the topic using the name of the 
+pertinent religion or denomination as a free-floating subdivision. 
+ 
+ 
+Note:  One multiple is normally provided for religions and sects, and a second for 
+individual Christian denominations.  Example: 
+ 
+Baptism–Hinduism, [Judaism, etc.] 
+Baptism–Anglican Communion, [Catholic Church, etc.] 
+ 
+ 
+The multiple for religions and sects does not authorize the use of Christian denomina-
+tions.  If a denomination is to be used under the topic, a multiple specifically for 
+denominations is required. 
+ 
+ 
+Multiple subdivisions for Christian denominations authorize the use of either corporate 
+name headings for denominations, for example, Church of England, or generic subject 
+headings for larger groupings, for example, Anglican Communion or Protestant 
+churches. 
+ 
+ 
+ 
+
+
+<<<PAGE 3>>>
+ 
+Religious Denominations or Religions as Subdivisions  H 2015 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2015 Page 3 
+ 
+August 2020 
+2. Multiple subdivisions.  (Continued)  
+ 
+ 
+b.  Multiple not yet established.  In order to subdivide a religious topic for the first time by 
+religions or Christian denominations, establish the full heading string as required for the work 
+being cataloged. Examples: 
+ 
+150 ## $a [topic] $x Baptists. 
+150 ## $a [topic] $x Catholic Church. 
+150 ## $a [topic] $x Buddhism. 
+150 ## $a [topic] $x Christianity. 
+ 
+If a heading has been subdivided in the subject authority file by one or more names without 
+provision for a multiple or an authority record for the specific heading, for example, Pastoral 
+medicine–Methodist Church, establish the specific heading as required for the work being 
+cataloged. 
+ 
+ 
+3. Assignment of headings.  When any heading is assigned in accordance with the guidelines 
+above, assign as an additional heading the name of the religion or Christian denomination with 
+appropriate topical subdivision, if any.  Example: 
+ 
+650 #0 $a Ordination $x Catholic Church. 
+610 20 $a Catholic Church $x Clergy. 
+ 
+ 
+Do not interpose geographic subdivisions between the topic and the subdivision for religion or 
+denomination.  Assign two headings instead.  Example: 
+ 
+ 
+650 #0 $a Church and state $x Catholic Church. 
+650 #0 $a Church and state $z Italy. 
+ 
+ [not 650 #0 $a Church and state $z Italy $x Catholic Church.]  

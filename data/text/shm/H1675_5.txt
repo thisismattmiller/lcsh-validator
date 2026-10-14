@@ -1,0 +1,78 @@
+
+
+<<<PAGE 1>>>
+ 
+Information Services  H 1675.5 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1675.5 Page 1 
+ 
+June 2013 
+BACKGROUND:  Information centers are organizations that collect, organize, store, retrieve, 
+and disseminate information and provide special services for their clients, such as literature 
+searches, abstracting and indexing, compiling of bibliographies, selective dissemination of 
+information, etc.  This instruction sheet provides guidelines for assigning headings to works on 
+these centers and their services. 
+ 
+ 
+ 
+ 
+1.  General.  Assign the heading Information services (May Subd Geog) to general works on 
+information centers and the services they provide to their clients.  Example: 
+ 
+ 
+ 
+Title:  Information services in Boston. 
+650 #0 $a Information services $z Massachusetts $z Boston. 
+ 
+ 
+ 
+ 
+2.  Special topics.   
+ 
+ 
+a.  General.  Use the free-floating subdivision BInformation services under names of 
+countries, cities, etc., names of individual corporate bodies, including individual 
+legislative bodies and military services, names of individual persons, and topical 
+headings, for works on information centers devoted to collecting and disseminating 
+information about these subjects.  Examples: 
+ 
+ 
+ 
+650 #0 $a Medicine $x Information services. 
+651 #0 $a Middle East $x Information services. 
+610 10 $a United States. $b Army $x Information services. 
+610 10 $a United States. $b Congress $x Information  
+            services. 
+600 10 $a Jung, C. G. $q (Carl Gustav), $d 1875-1961  
+            $x Information services. 
+
+
+<<<PAGE 2>>>
+H 1675.5  Information Services 
+ 
+ 
+ 
+H 1675.5 Page 2 
+Subject Headings Manual 
+June 2013 
+2.  Special topics.  (Continued) 
+ 
+b.  By place.  BInformation services was formerly further subdivided by place.  That 
+practice was discontinued in 1990.  If the location of the information services is judged 
+to be significant, bring it out by assigning Information servicesB[place] as an additional 
+heading.  Example: 
+ 
+Title:  Directory of Northern Canadian and Indian information centres in 
+Hull. 
+650 #0 $a Indians of North America $z Canada  
+            $x Information services $v Directories. 
+650 #0 $a Parks $z Canada $x Information services  
+            $v Directories. 
+651 #0 $a Canada, Northern $x Information services  
+            $v Directories. 
+650 #0 $a Information services $z Québec (Province)  
+            $z Hull $v Directories. 
+ 

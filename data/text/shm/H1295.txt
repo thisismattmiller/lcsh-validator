@@ -1,0 +1,146 @@
+
+
+<<<PAGE 1>>>
+ 
+Bible: Special Topics  H 1295 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1295 Page 1 
+ 
+September 2013 
+BACKGROUND:  This instruction sheet provides guidelines for cataloging works about the 
+Bible, works on special topics discussed in the Bible, and works on the theological and ethical 
+teachings of the Bible. 
+ 
+ 
+ 
+ 
+1.  BibleB[subdivision].  Assign headings of the type BibleB[subdivision], in accordance with H 
+1188, for historical and critical works about the Bible, including works on the history, 
+interpretation, influence, inspiration, use, etc., of the Bible, for example, BibleBCriticism, 
+interpretation, etc.  
+ 
+Subdivisions of this type may also be used under individual parts of the Bible. 
+  
+ 
+ 
+2.  Topics in the Bible. 
+ 
+a.  Form of heading.  Establish and assign headings in the form described below for 
+works containing discussions of topics, persons, and places in the Bible and/or lists of 
+Bible verses in which a specific topic, person, or place is mentioned.  
+ 
+(1)  [Topic] in the Bible.  For works about a topic in the Bible, establish and 
+assign phrase headings of the type [topic] in the Bible, e.g., Colors in the Bible; 
+Teenagers in the Bible. 
+ 
+(2)  [Person]—In the Bible.  For works about an individual person in the Bible, 
+establish and assign subdivided headings of the type [person]—In the Bible, e.g., 
+Cyrus, King of Persia, -529 B.C.—In the Bible. 
+ 
+(3)  [Place]—In the Bible.  For works about a particular place in the Bible, 
+establish and assign subdivided headings of the type [place]—In the Bible, e.g., 
+Tiberias, Lake (Israel)—In the Bible. 
+ 
+Do not establish headings in the form Bible—[subdivision] for works on special topics 
+discussed in the Bible.  However, existing headings of this type found in the subject 
+authority file may be used and need not be cancelled. 
+ 
+ 
+ 
+
+
+<<<PAGE 2>>>
+H 1295  Bible: Special Topics 
+ 
+ 
+ 
+H 1295 Page 2 
+Subject Headings Manual 
+September 2013 
+2.  Topics in the Bible.  (Continued) 
+ 
+b.  References.  Do not make any "used for," broader term, or related term references.   
+ 
+c.  Additional headings.  If the work is limited to a discussion of part of the Bible, such 
+as the Old Testament, New Testament, or an individual book, assign an additional 
+heading for the portion of the Bible discussed, subdivided further, if appropriate in 
+accordance with H 1188, for example, Bible. Psalms--Criticism, interpretation, etc.  
+ 
+Do not assign a heading of this type if the work discusses the topic in relation to the 
+whole Bible. 
+ 
+3.  Biblical theology and ethics. 
+ 
+a.  General.  Assign the subdivision –Theology under Bible or its individual parts to 
+general works on the theological teachings of the Bible.  Assign the heading Ethics in 
+the Bible to works on the general ethical teachings of the Bible or its individual parts. 
+ 
+b.  Biblical teaching.  Assign the free-floating subdivision –Biblical teaching under 
+religious or secular topics for works on the theological and/or ethical teachings of the 
+Bible, or its individual parts, on that subject, for example, Family—Biblical teaching; 
+Salvation—Biblical teaching. 
+ 
+c.  Additional headings.  If the work is limited to a discussion of part of the Bible, 
+assign an additional heading, if appropriate, following the instructions in sec. 2.c. 
+ 
+ 
+4.  Examples. 
+ 
+Title:  Coins of the ancient world. 
+650 #0 $a Coins, Ancient. 
+650 #0 $a Coins in the Bible. 
+ 
+ 
+Title:  Eating and drinking with Jesus. 
+650 #0 $a Lord's Supper $x Biblical teaching. 
+650 #0 $a Food in the Bible. 
+650 #0 $a Drinking in the Bible. 
+630 00 $a Bible. $p Gospels $x Criticism, interpretation, etc. 
+
+
+<<<PAGE 3>>>
+ 
+Bible: Special Topics  H 1295 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1295 Page 3 
+ 
+September 2013 
+4.  Examples.  (Continued) 
+ 
+Title:  God's conflict with the dragon and the sea. 
+650 #0 $a Dragons in the Bible. 
+650 #0 $a Sea in the Bible. 
+630 00 $a Bible. $p Old Testament $x Criticism,  
+         interpretation, etc. 
+ 
+ 
+Title:  Salvation in the Gospel of John. 
+650 #0 $a Salvation $x Biblical teaching. 
+630 00 $a Bible. $p John $x Criticism, interpretation, etc. 
+ 
+ 
+Title:  Christians and Roman rule in the New Testament 
+630 00 $a Bible. $b New Testament $x Criticism, interpretation, 
+etc. 
+651 #0 $a Rome $x In the Bible. 
+ 
+ 
+Title:  The Bible and popular culture in America. 
+630 00 $a Bible $x Influence $x History. 
+650 #0 $a Popular culture $z United States $x History. 
+ 
+ 
+Title:  The effective father. 
+650 #0 $a Father and child. 
+650 #0 $a Fathers in the Bible. 
+650 #0 $a Fathers $x Religious life.  
+   
+ 
+ 
+ 

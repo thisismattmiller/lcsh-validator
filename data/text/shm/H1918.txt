@@ -1,0 +1,517 @@
+
+
+<<<PAGE 1>>>
+ 
+Musical Instruments  H 1918 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1918 Page 1 
+ 
+June 2013 
+BACKGROUND:   This instruction sheet provides guidance in the establishment and use of 
+headings for the names of musical instruments and families of instruments.  For free-floating 
+subdivisions used with headings for musical instruments see H 1161.  For musical instruments 
+as the medium of performance in form/genre headings for musical compositions, see H 1917.5. 
+ 
+ 
+1.  Establishing headings. 
+ 
+a.  General guidelines.  Establish names of musical instruments, parts of instruments, 
+accessories, and families of instruments.  Use the standard term in English.  Omit the 
+key of an instrument, as in AD@ trumpet, from its heading, but include the range if the 
+generic heading does not represent that particular pitch or range of the instrument.  
+When establishing a heading for the instrument, also establish a heading for music of the 
+instrument, which authorizes the instrument to be used in bibliographic records as a 
+medium of performance.  Include in that proposal a see also reference that incorporates 
+the plural if there is one, and a scope note.  If information about whether a foreign term 
+(see sec. 1.a.(1), below) lacks a plural is unavailable, formulate a plural according to the 
+practice for English. Examples: 
+ 
+150 ## $a Flute 
+ 
+150 ## $a Flute music 
+360 ## $i headings for forms and types of music that include 
+            "flute" or "flutes" and headings with medium of 
+            performance that include "flute" or "flutes" 
+680 ## $i Here are entered compositions not in a specific 
+            form or of a specific type for solo flute, and 
+            collections of compositions in several forms or 
+            types for solo flute. 
+ 
+ 
+150 ## $a Clarinet  [used for the E flat, A, and B flat clarinets but not the bass 
+clarinet] 
+ 
+150 ## $a Bass clarinet 
+ 
+ 
+150 ## $a Saxophone  [used for the soprano, alto, tenor, and baritone saxophones] 
+ 
+Exception: Do not establish a heading for music of a brand or model number of an 
+instrument.   Brands and models of instruments may not be used as a medium of 
+performance in headings for musical works (see below, sec. 5.c). 
+
+
+<<<PAGE 2>>>
+H 1918  Musical Instruments 
+ 
+ 
+ 
+H 1918 Page 2 
+Subject Headings Manual 
+June 2013 
+1.  Establishing headings. 
+ 
+a.  General guidelines.  (Continued) 
+ 
+(1)  Foreign terms.  If there is no standard term in English, establish the heading 
+using a foreign term, in accordance with H 315.  If the name of the instrument is 
+not unique to the language of the item being cataloged, use the term found in a 
+source in the language of the place where the instrument is played.  For terms in 
+non-Roman scripts, use a romanized form.  If a romanized form appears in a 
+standard English language source, prefer that form and make a UF reference if 
+necessary from the spelling that would result using the designated romanization 
+scheme for that language. 
+ 
+Exception:  Use pinyin romanization for terms in Chinese. 
+ 
+Examples: 
+ 
+ 
+150 ## $a Oboe d'amore 
+ 
+150 ## $a Oboe d'amore music 
+360 ## $i headings for forms and types of music that include 
+            "oboe d'amore" or "oboi d'amore" and headings with 
+            medium of performance that include "oboe d'amore" 
+            or "oboi d'amore" 
+680 ## $i Here are entered compositions not in a specific 
+            form or of a specific type for solo oboe d'amore, 
+            and collections of compositions in several forms 
+            or types for solo oboe d'amore. 
+ 
+ 
+ 
+ 
+150 ## $a Er hu 
+ 
+150 ## $a Er hu music 
+360 ## $i headings for forms and types of music that include 
+            "er hu" and headings with medium of performance  
+            that include "er hu" 
+680 ## $i Here are entered compositions not in a specific 
+            form or of a specific type for er hu, and 
+            collections of compositions in several forms or 
+            types for solo er hu. 
+
+
+<<<PAGE 3>>>
+ 
+Musical Instruments  H 1918 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1918 Page 3 
+ 
+June 2013 
+1.  Establishing headings. 
+ 
+a.  General guidelines.  (Continued) 
+ 
+(2)  Singular or plural.  Establish the name of the instrument in the singular 
+unless the plural form is generally preferred because more than one of the 
+instruments is usually played at a time by a single performer.  Examples:  
+ 
+150 ## $a Castanets 
+150 ## $a Timpani 
+ 
+  
+ 
+Establish families of instruments in the plural.  Examples:   
+ 
+150 ## $a Brass instruments  
+150 ## $a Viols 
+ 
+(3)  Parenthetical qualifiers.  Following the provisions of H 357, use the 
+parenthetical qualifier (Musical instrument) to distinguish names of instruments 
+from other common terms or to clarify ambiguous terms.  However, use the 
+qualifier (Music) with general terms for accessories and parts of instruments.  
+Examples: 
+ 
+150 ## $a Organ (Musical instrument) 
+150 ## $a Wind controller (Musical instrument) 
+ 
+150 ## $a Keyboards (Music) 
+150 ## $a Mouthpieces (Music) 
+ 
+Use a parenthetical qualifier also to distinguish between different instruments 
+with the same name when one does not clearly predominate.   
+ 
+150 ## $a Tar (Lute) [Atar@ is also the name of several types of drum] 
+ 
+  [not 150 ## $a Tar (Musical instrument)] 
+ 
+When the same term is used for two or more instruments and one usage is clearly 
+better known, that heading does not need a qualifier.  Example: 
+ 
+150 ## $a Guiro [predominantly a scraper] 
+ 
+150 ## $a Atcheré 
+450 ## $a Guiro (Rattle)  [alternate name for the atcheré, a rattle] 
+
+
+<<<PAGE 4>>>
+H 1918  Musical Instruments 
+ 
+ 
+ 
+H 1918 Page 4 
+Subject Headings Manual 
+June 2013 
+1.  Establishing headings. 
+ 
+a.  General guidelines.  (Continued) 
+ 
+(4)  Exceptional term: The topical subdivision BOrgans.  For works about 
+organs associated with corporate bodies, especially churches, concert halls, etc., 
+the free-floating topical subdivision BOrgans is used under the heading.  
+Example: 
+ 
+610 20 $a Notre-Dame de Paris (Cathedral) $x Organs. 
+ 
+ 
+b.  Definition.  For instruments not widely known or that need to be distinguished from 
+others of a similar name or type, give a brief definition in a 670 citation.  Obtain the 
+definition from an authoritative music source, if possible. 
+ 
+ 
+c.  References. 
+ 
+(1)  AUsed for@ references.  Add as UFs to a new heading all other equivalent 
+terms and phrases found while conducting authority research.  Apply additional 
+provisions of H 373 as appropriate. 
+ 
+(2)  Broader terms.  Add as broader terms: 
+ 
+! The family of instruments to which the instrument belongs or the generic 
+type of which the instrument is a subtype. Examples:  
+ 
+150 ## $a Trumpet 
+550 ## $a Brass instruments 
+ 
+ 
+150 ## $a Timbales criollos 
+550 ## $a Drum 
+ 
+! The heading  Musical instrumentsB[place] if the instrument is identified 
+with a particular geographic area. 
+ 
+ 
+d.  Geographic subdivision.  Headings for musical instruments are authorized for 
+geographic subdivision. 
+
+
+<<<PAGE 5>>>
+ 
+Musical Instruments  H 1918 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1918 Page 5 
+ 
+June 2013 
+1.  Establishing headings.  (Continued) 
+ 
+ 
+e.  Library of Congress Classification numbers. When establishing a heading, include a 
+classification number in an 053 field according to the provisions of H 365.  To numbers 
+in ML, add the qualifier AHistory;@ to numbers in MT, add the qualifier AInstruction.@  
+Do not establish a classification number solely for the purpose of recording it in a subject 
+authority record. 
+ 
+f.  Establishing collateral headings that incorporate the name of the instrument.  
+When establishing collateral headings that incorporate the name of an instrument, 
+generally use the same form of its name as in the heading for the instrument.  Examples: 
+ 
+150 ## $a Saxophone 
+150 ## $a Saxophone in advertising 
+ 
+150 ## $a Panpipes 
+150 ## $a Panpipes in art 
+ 
+ 
+ 
+2.  Brand names and models of musical instruments. 
+ 
+a.  Brand names.  Establish brand names of instruments by company name followed by 
+the established generic term for the instrument.  Examples: 
+ 
+150 ## $a Baldwin organ 
+150 ## $a Korg keyboard synthesizer 
+150 ## $a Moog synthesizer 
+150 ## $a Steinway piano 
+150 ## $a Telecaster guitar 
+ 
+b.  Model numbers.  Establish model number classes and specific model numbers by 
+company name, then number, then type of instrument.  Examples: 
+ 
+150 ## $a Casio CZ synthesizer 
+150 ## $a Korg DDD-1 drum machine  
+150 ## $a Yamaha WX7 wind controller 
+ 
+c.  Geographic subdivision.  Headings for brand and model names of musical 
+instruments are not authorized for geographic subdivision. 
+
+
+<<<PAGE 6>>>
+H 1918  Musical Instruments 
+ 
+ 
+ 
+H 1918 Page 6 
+Subject Headings Manual 
+June 2013 
+3.   Non-musical objects used as musical instruments.  When it is appropriate to establish a 
+heading for music written for a non-musical object so that the object can be used as a medium of 
+performance in a bibliographic record, in addition to creating a heading for the music of the 
+object, also create a general see reference for the object to demonstrate how it may be used. Give 
+at least one example. All examples must be authorized headings, so establish such as heading for 
+the resource being cataloged to use in the general see reference, even when establishing the 
+heading would not normally be necessary according to H 1917.5.  Examples:   
+ 
+ 
+150 ## $a Electronic music 
+ 
+150 ## $a Electronics (Musical medium of performance) 
+260 ## $i headings for musical compositions containing the word 
+“electronics” as a medium of performance, e.g., $a Piano 
+and electronics with orchestra; Septets (Electronics, 
+percussion); Songs (High voice) with electronics; Suites 
+(Electronics) 
+ 
+ 
+150 ## $a Tin can music 
+ 
+150 ## $a Tin cans (Musical medium of performance) 
+260 ## $a headings for musical compositions containing the words  
+“tin can” or “tin cans” as a medium of performance, e.g., 
+$a Tin can music; Overtures (Tin cans (4)) 
+ 
+ 
+4.  Parts of instruments and accessories.  Establish terms for parts of instruments and 
+accessories in the plural.  To assure appropriate specificity in headings for parts and accessories 
+of individual instruments or families of instruments, generally use terminology that incorporates 
+the generic name of the instrument or family.   
+ 
+Examples: 
+ 
+150 ## $a Mutes (Music) 
+ 
+150 ## $a Clarinet mouthpieces 
+150 ## $a Guitar frets 
+150 ## $a Stringed instrument bows 
+150 ## $a Violin bows 
+ 
+ 
+ 
+
+
+<<<PAGE 7>>>
+ 
+Musical Instruments  H 1918 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1918 Page 7 
+ 
+June 2013 
+5.  Choice of terms for various types of headings. 
+ 
+a.  Singular and plural.   Names of musical instruments established in the singular may 
+also be used in the plural to indicate medium of performance in form/genre headings for 
+musical works.  The plural is formed according to English usage except for certain 
+terms in foreign languages. 
+ 
+For instruments established in foreign languages, the general see also reference in the 
+authority record for music of the instrument indicates either the authorized form of the 
+plural or that the same term is used for both singular and plural.  Examples: 
+ 
+ 
+150 ## $a Oboe d=amore music 
+360 ## $i headings for forms and types of music that include "oboe 
+     d'amore" or "oboi d'amore" and headings with medium of 
+     performance that include "oboe d'amore" or "oboi          
+     d'amore" 
+ 
+but: 
+ 
+150 ## $a Jing hu music 
+360 ## $i headings for forms and types of music that include "jing 
+     hu" and headings with medium of performance that include 
+     "jing hu" 
+ 
+b.  Parenthetical qualifiers.  Omit the parenthetical qualifier (Musical instrument) in 
+form/genre headings for musical compositions where the instrument appears as a medium 
+of performance.  Example: 
+ 
+150 ## $a Horn (Musical instrument) 
+ 
+but: 
+ 
+150 ## $a Horn music 
+650 #0 $a Wind quintets (Bassoon, clarinet, flute, horn, 
+          oboe) 
+ 
+
+
+<<<PAGE 8>>>
+H 1918  Musical Instruments 
+ 
+ 
+ 
+H 1918 Page 8 
+Subject Headings Manual 
+June 2013 
+5.  Choice of terms for various types of headings. 
+ 
+b.  Parenthetical qualifiers.  (Continued) 
+ 
+Also omit it in other headings where the meaning of the term as a musical instrument or 
+part is clear.   Example: 
+ 
+150 ## $a Organ (Musical instrument) 
+ 
+but: 
+ 
+150 ## $a Organ stops 
+ 
+ 
+However, when the qualifier is used to distinguish between different instruments with the 
+same name, retain the qualifier when the instrument is used in a form/genre heading as a 
+medium of performance.  Example: 
+ 
+ 
+150 ## $a Tar (Lute) 
+150 ## $a Tar (Lute) and zarb music 
+ 
+ 
+c.  Brand names and model numbers of musical instruments. 
+ 
+(1) Musical compositions.  When a brand name or model number is indicated as 
+a medium of performance in a notated or performed musical work, do not include 
+the brand or model number in form/genre headings assigned to the work where 
+the instrument appears as a medium of performance.  Instead, use the generic 
+name for the instrument, which is generally shown as a broader term in the 
+authority record for the brand or model.  Examples: 
+ 
+ 
+Authority record: 
+ 
+ 
+ 
+150 ## $a Hammond organ 
+550 ## $w g $a Electronic organ 
+ 
+Bibliographic records: 
+650 #0 $a Sonatas (Electronic organ) 
+650 #0 $a Sacred songs (High voice) with electronic 
+     organ. 
+ 
+ 
+
+
+<<<PAGE 9>>>
+ 
+Musical Instruments  H 1918 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1918 Page 9 
+ 
+June 2013 
+5.  Choice of terms for various types of headings. 
+ 
+c.  Brand names and model numbers of musical instruments. 
+ 
+(1) Musical compositions. 
+ 
+Examples:  (Continued)  
+ 
+Authority record: 
+ 
+ 
+ 
+150 ## $a Sohmer piano  
+550 ## $w g $a Piano 
+ 
+Bibliographic records: 
+650 ## $a Flute and piano music. 
+650 #0 $a Piano quartets. 
+ 
+Authority record: 
+150 ## $a Yamaha WX7 wind controller 
+ 
+550 ## $w g $a Wind controller (Musical instrument) 
+ 
+Bibliographic records: 
+650 #0 $a Concertos (Wind controller with string 
+     orchestra) 
+ 
+(2) Instructional and topical works.  Headings for brands and models of musical 
+instruments and devices may be used for instructional works on the technical 
+features or operation of the instrument or device and for literature about the brand 
+or model.  Examples: 
+ 
+Title:  600 sons pour DX7 
+650 #0 $a Yamaha DX7 synthesizer $x Instruction and 
+     study. 
+ 
+Title: Hammond organ drawbars made easy 
+650 #0 $a Hammond organ $x Registration. 
+ 
+Title:  Song Dex Organmaster code for the Lowrey Lincolnwood 
+650 #0 $a Lowrey organ $x Registration. 
+ 
+Title:  How to make your drum machine sound like a drummer, with the 
+ 
+ 
+Korg DDD-5 
+650 #0 $a Korg DDD-5 drum machine $x Programming. 
+ 
+
+
+<<<PAGE 10>>>
+H 1918  Musical Instruments 
+ 
+ 
+ 
+H 1918 Page 10 
+Subject Headings Manual 
+June 2013 
+5.  Choice of terms for various types of headings. 
+ 
+c.  Brand names and model numbers of musical instruments. 
+ 
+(2) Instructional and topical works.  (Continued) 
+ 
+Do not use headings for brands and models for instructional works on how to play 
+the instrument.  Instead use the instrument=s generic name.  Examples: 
+ 
+Title:  Chord system of organ playing for spinet model Hammond organ 
+650 #0 $a Electronic organ $x Instruction and study. 
+ 
+Title:  87 superstar sounds on a stompbox budget; 87 "Sound F/X" 
+ 
+ 
+columns 
+650 #0 $a Electric guitar $v Methods $v Self- 
+     instruction. 
+ 
+Title:  Arlen Roth's Masters of the Telecaster 
+650 #0 $a Electric guitar $v Methods. 

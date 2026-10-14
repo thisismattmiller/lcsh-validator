@@ -1,0 +1,47 @@
+
+
+<<<PAGE 1>>>
+ 
+[Topic]B[Place] Broader Term References  H 375 
+ 
+ 
+ 
+Subject Headings Manual 
+H 375 Page 1 
+ 
+June 2013 
+BACKGROUND:  Many headings, particularly those representing ethnic groups or named 
+entities such as structures, parks, geographic features, etc., require broader term references of 
+the "instance" type consisting of a generic heading subdivided by the name of a place.  Such 
+references are often constructed at a level of geographic specificity different from that used in 
+constructing actual headings being assigned to a work cataloged.  This instruction sheet 
+describes the provisions for formulating references of this type for subject headings.  For 
+provisions applicable to references for headings representing geographic entities, see the 
+appropriate instruction sheet in H 690-H 807. 
+ 
+ 
+ 
+ 
+ 
+1.  General rule.  When constructing broader term references of the type described above, divide 
+the generic heading only by the name of the relevant country, or first order political division in 
+the case of the United States, Great Britain, and Canada.  Do not further subdivide the reference 
+by the specific locality. 
+ 
+Note:  If provision has not yet been made to divide the generic heading by place, submit 
+a proposal to do so according to the procedures in H 194 in order to construct the 
+required reference properly. 
+ 
+Examples: 
+ 
+110 20 $a Palacio Arzobispal (Seville, Spain) 
+550 #0 $w gnnn $a Palaces $z Spain 
+ 
+110 20 $a Stanton Hall (Natchez, Miss.) 
+550 #0 $w gnnn $a Dwellings $z Mississippi 
+ 
+ 
+ 
+2.  [City]BBuildings, structures, etc.  Do not make references of the type [city]BBuildings, 
+structures, etc. to headings for entities located in cities.  Instead, when appropriate, assign this 
+as a heading to the work being cataloged (cf. H 1334). 

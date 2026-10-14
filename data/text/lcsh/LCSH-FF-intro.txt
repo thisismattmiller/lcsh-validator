@@ -1,0 +1,98 @@
+
+
+<<<PAGE 1>>>
+SD-i 
+ 
+ 
+ 
+ 
+ 
+ 
+Introduction to Free-Floating Subdivisions 
+ 
+ 
+ 
+ 
+ 
+This is a list of subdivisions that are authorized for free-
+floating use in the Library of Congress Subject Heading system. 
+This current list was generated from data gleaned from 
+subdivision authority records that are online in the LCSH Master 
+Database at the Library of Congress. The Library of Congress 
+began to create subdivision authority records to control free-
+floating topical, form, and chronological subdivisions in 1999. 
+The list represents the full set of free-floating subdivisions in 
+existence as of April 2026 and includes one geographic 
+subdivision, —Foreign countries. New subdivisions are added 
+and existing subdivisions are revised at editorial meetings at the 
+Library of Congress. Announcements of new and revised free-
+floating subdivisions are made in the Summary of Decisions 
+accompanying the L.C. Subject Headings Monthly Lists that are 
+posted 
+to 
+the 
+World 
+Wide 
+Web 
+at 
+https://www.loc.gov/aba/cataloging/subject/weeklylists/. 
+New 
+and revised subdivision authority records are distributed to 
+subscribers in the weekly MARC Distribution Service—Subject 
+Authorities. More information on free-floating subdivisions and 
+their use may be found in the Subject Headings Manual. 
+Questions on free-floating subdivisions may be sent to the Policy, 
+Training, and Cooperative Programs Division at policy@loc.gov.  
+ 
+ 
+Authorized subdivisions appear in boldface type 
+following a long dash, e.g., —Anatomy; —Civilization. Some 
+subdivisions consist of more than one subfield, e.g., —
+Antiquities—Collection 
+and 
+preservation. 
+For 
+those 
+subdivisions that are authorized for further geographic 
+subdivision, the legend (May Subd Geog) appears following the 
+subdivision, e.g., —Commerce (May Subd Geog). Indented 
+under the subdivision in the next line are the code(s) that identify 
+the controlling instruction sheet number(s) for the subdivision in 
+the Subject Headings Manual (H 1095-H 1200).  
+ 
+A usage note that identifies the category of the subdivision 
+(topical, form, or chronological) and the types of headings with 
+which its use is authorized appears with each subdivision entry. 
+Dual entries have been made for the many form subdivisions that 
+can also function as topical subdivisions. For some subdivisions, 
+there is an additional note with further information or restrictions 
+on use of the subdivision, e.g., “Further subdivide by subdivisions 
+used under classes of persons;” “Do not subdivide geographically 
+under names of individual persons.”  
+ 
+ 
+Cross-references similar to those made to subject 
+headings appear with subdivision entries in this list. USE 
+references are made from an unauthorized or non-preferred 
+subdivision term to an authorized or preferred subdivision, e.g., 
+—Anniversary celebrations USE —Anniversaries, etc.; —
+Assimilation, Cultural USE —Cultural assimilation. Under 
+authorized subdivisions, tracings of those references appear 
+following the code UF (Used For). UF references that represent 
+earlier forms of a subdivision are identified by the legend [Former 
+subdivision]. Authorized subdivisions are linked to each other 
+hierarchically by reciprocal BT/NT references. BT references 
+represent broader term subdivisions while NT references 
+represent narrower term subdivisions.  
+ 
+CONTACT 
+ 
+ 
+Questions and comments may be sent to: 
+ 
+Policy, Training, and Cooperative Programs Division 
+Library of Congress 
+101 Independence Avenue, S.E. 
+Washington, DC 20540-4262 
+Email: policy@loc.gov  
+ 

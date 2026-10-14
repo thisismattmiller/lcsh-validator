@@ -1,0 +1,289 @@
+
+
+<<<PAGE 1>>>
+ 
+Catalogs of Library Materials  H 1361 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1361 Page 1 
+ 
+June 2013 
+BACKGROUND:  This instruction sheet provides guidelines for assigning headings to works 
+that are catalogs of various types of library materials.  These guidelines follow, whenever 
+possible, the more general principles for catalogs presented in H 1360.  For provisions 
+applicable to publishers' catalogs, including publishers' catalogs of works in microform, see 
+H 1965. 
+ 
+Note:  The order of headings used in the text and examples below is not 
+significant since the arrangement of headings depends largely upon the class 
+number assigned to the work being cataloged (cf. H 80). 
+ 
+ 
+ 
+1.  Library catalogs of printed works on a subject. 
+ 
+ 
+a.  General rule.  Assign the following combination of headings to library catalogs of 
+printed works on a specific topic: 
+ 
+650 #0 $a [topic of the works listed] $v Bibliography  
+            $v Catalogs.   
+   or, if the catalog is limited to periodicals: 
+650 #0 $a [topic of the works listed] $x Periodicals  
+            $v Bibliography $v Catalogs. 
+ 
+610 X0 $a [name of the institution] $v Catalogs.   
+ 
+6XX X0 $a [name of the collection, if any] $v Catalogs. 
+ 
+ 
+Example: 
+ 
+ 
+650 #0 $a Medicine $v Bibliography $v Catalogs.   
+ 
+610 #0 $a John Smith Medical Library $v Catalogs.   
+ 
+600 10 $a Doe, John $x Library $v Catalogs. 
+ 
+ 
+Note:  Following the provisions of H 1427, the name of a private book collection 
+is normally a personal name with the subdivision BLibrary. 
+
+
+<<<PAGE 2>>>
+H 1361  Catalogs of Library Materials 
+ 
+ 
+ 
+H 1361 Page 2 
+Subject Headings Manual 
+June 2013 
+1.  Library catalogs of printed works on a subject.  (Continued) 
+ 
+b.  Union catalogs.  If the catalog is a union catalog, assign the following two headings: 
+ 
+650 #0 $a [topic] $v Bibliography $v Union lists. 
+   (or 650 #0 $a [topic] $x Periodicals $v Bibliography $v Union 
+            lists.) 
+650 #0 $a Union catalogs $z [place] 
+ 
+c.  Imprints.  For catalogs listing imprints, that is, works published in a particular place 
+or in a particular language, see H 1660. 
+ 
+ 
+2.  General library catalogs of printed works.  To library catalogs not limited to a specific 
+topic, assign one or both of the following headings, as appropriate: 
+ 
+610 X0 $a [name of the institution] $v Catalogs.   
+6XX X0 $a [name of the collection, if any] $v Catalogs. 
+ 
+ 
+3.  Catalogs of specific types or categories of books.  To catalogs limited to a specific type or 
+category of books, assign the heading for the type of books with the subdivision BBibliographyB 
+Catalogs.  Examples: 
+ 
+650 #0 $a Early printed books $v Bibliography $v Catalogs.   
+650 #0 $a Private press books $v Bibliography $v Catalogs. 
+ 
+ 
+4.  Catalogs of audiovisual materials. 
+ 
+a.  General rule.  Assign to catalogs of audiovisual materials (all forms treated 
+collectively) on a topic the following combination of headings:  
+ 
+650 #0 $a [topic] $x Audio-visual aids $v Catalogs. 
+   (or 650 #0 $a [topic] $x Study and teaching $x Audio-visual aids 
+          $v Catalogs.) 
+   (or 650 #0 $a Audio-visual materials $v Catalogs.) 
+          [Assign this heading if the catalog is nontopical.] 
+610 X0 $a [name of the institution] $v Catalogs.   
+6XX X0 $a [name of the collection, if any] $v Catalogs. 
+
+
+<<<PAGE 3>>>
+ 
+Catalogs of Library Materials  H 1361 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1361 Page 3 
+ 
+June 2013 
+4.  Catalogs of audiovisual materials.  (Continued) 
+ 
+b.  Special forms.  For works that list only one form of audiovisual materials, such as  
+films, use, under topical heading, the free-floating subdivision appropriate for that form, 
+for example,  BDiscography, BFilm catalogs, BAudiocassette catalogs, BAudiotape 
+catalogs, BCD-ROM catalogs, or BCompact disc catalogs.  Under the headings for the 
+name of the institution in which the materials are housed and the name of the collection, 
+use the subdivision BCatalogs rather than the more specific form heading used under the 
+topic.  Example: 
+ 
+Title:  Catalogue of engineering films in the John Doe Film Collection at 
+the Smith Library. 
+650 #0 $a Engineering $v Film catalogs.   
+610 20 $a Smith Library $v Catalogs.   
+610 20 $a John Doe Film Collection $v Catalogs. 
+ 
+If the work is not topical, assign, instead of Audio-visual materialsBCatalogs, the more 
+specific form heading with the subdivision BCatalogs, for example, Video 
+tapesBCatalogs. 
+ 
+Note: For classification of discographies, see F 582. 
+ 
+c.  Microform catalogs.  Use the subdivision BMicroform catalogs to refer to 
+microforms in general or to any specific type of microform, such as microfilms.  Assign 
+the following combination of headings to microform catalogs: 
+ 
+650 #0 $a [topic of the works listed] $v Bibliography  
+            $v Microform catalogs. 
+[Omit BBibliography if the heading Manuscripts or the subdivision  BManuscripts 
+is used.] 
+ 
+610 X0 $a [name of the institution] $v Microform catalogs.   
+ 
+6XX X0 $a [name of the collection, if any] $v Microform 
+            catalogs. 
+ 
+When possible, assign an additional heading for the form of the material stored in a 
+particular type of microform, for example, PamphletsBBibliographyBMicroform 
+catalogs; PeriodicalsBBibliographyBMicroform catalogs.  Otherwise, assign the 
+general heading MicroformsBCatalogs as the additional heading. 
+
+
+<<<PAGE 4>>>
+H 1361  Catalogs of Library Materials 
+ 
+ 
+ 
+H 1361 Page 4 
+Subject Headings Manual 
+June 2013 
+4.  Catalogs of audiovisual materials. 
+ 
+c.  Microform catalogs.  (Continued) 
+ 
+Examples: 
+ 
+Title:  Guide to the Doe Collection of geographical materials in  
+microform in the Smith Library.   
+650 #0 $a Geography $v Bibliography $v Microform 
+            catalogs.   
+610 20 $a Smith Library $v Microform catalogs.   
+600 10 $a Doe, John $x Library $v Microform catalogs.  
+ 
+ 
+ 
+ 
+650 #0 $a Microforms $v Bibliography $v Catalogs. 
+ 
+Title:  Early printed books on microfilm in the Smith Library. 
+[collection has no specific topic]  
+650 #0 $a Early printed books $v Bibliography  
+            $v Microform catalogs. 
+610 20 $a Smith Library $v Microform catalogs 
+ 
+ 
+5.  Catalogs of manuscripts.  Assign the following combination of headings to catalogs of 
+manuscripts and catalogs of types of manuscript materials: 
+ 
+650 #0 $a [topic] $x Manuscripts $v Catalogs.   
+[Omit this heading if the manuscript collection has no specific topic.] 
+ 
+650 #0 $a Manuscripts, [language or nationality, if pertinent]  
+            $z [place where presently located] $v Catalogs. 
+   (or 650 #0 $a [type of manuscript material], [place, if pertinent]  
+            $v Catalogs.) 
+ 
+610 X0 $a [name of the institution] $v Catalogs.   
+[If the institution designated is not a library or archive in its own right, and the manuscripts 
+listed represent archival materials, interpose the subdivision BArchives between the name and 
+the subdivision BCatalogs.] 
+ 
+6XX X0 $a [name of the collection] $v Catalogs. 
+[If the manuscript collection represents the archives of an individual person, assign as the 
+name of the collection a heading of the type [name of person]BArchivesBCatalogs.] 
+ 
+Note: For classification of catalogs of manuscripts, see F 495, sec. 3. 
+
+
+<<<PAGE 5>>>
+ 
+Catalogs of Library Materials  H 1361 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1361 Page 5 
+ 
+June 2013 
+5.  Catalogs of manuscripts.  (Continued) 
+ 
+Examples: 
+ 
+Title:  Catalog of Americana, 1500-1800, in the manuscript collection 
+compiled by John Doe in the Historical Society, Baltimore. 
+651 #0 $a United States $x History $x Manuscripts  
+            $v Catalogs.   
+651 #0 $a United States $x History $x Sources  
+            $x Manuscripts $v Catalogs.  
+  
+ 
+ 
+ 
+650 #0 $a Manuscripts, American $z Maryland $z Baltimore  
+            $v Catalogs.  
+  
+ 
+ 
+ 
+610 20 $a Historical Society $x Archives $v Catalogs.   
+600 10 $a Doe, John $x Library $v Catalogs. 
+ 
+Title:  Early science; a collection of manuscripts from the Smith Library: 
+an index to the microfilm collection. 
+650 #0 $a Science $x Manuscripts $v Microform catalogs.   
+650 #0 $a Science $x History $x Sources $x Manuscripts 
+            $v Microform catalogs. 
+650 #0 $a Manuscripts $z Maryland $z Baltimore $v Microform 
+            catalogs.   
+650 #0 $a Manuscripts on microfilm $v Catalogs.   
+610 20 $a Smith Library $v Microform catalogs. 
+ 
+Title:  Inventory of the personal papers of John Smith, botanist, of 
+Washington. 
+600 10 $a Smith, John $x Archives $v Catalogs. 
+650 #0 $a Botanists $z Washington (D.C.) $x Archives  
+            $v Catalogs. 
+650 #0 $a Botany $x Manuscripts $v Catalogs.   
+650 #0 $a Manuscripts, American $z Washington (D.C.)  
+            $v Catalogs.   
+ 
+Title:  Calendar of patent rolls 35 Elizabeth I. 
+650 #0 $a Letters patent $z Great Britain $v Catalogs. 
+651 #0 $a Great Britain $x Charters, grants, privileges 
+            $v Catalogs. 
+610 10 $a Great Britain $b Court of Chancery $x Archives 
+            $v Catalogs. 
+610 10 $a Great Britain $b Public Record Office $v Catalogs. 
+651 #0 $a Great Britain $x History $y Elizabeth, 1558-1603 
+            $x Sources $v Bibliography $v Catalogs.   
+
+
+<<<PAGE 6>>>
+H 1361  Catalogs of Library Materials 
+ 
+ 
+ 
+H 1361 Page 6 
+Subject Headings Manual 
+June 2013 
+6.  Comprehensive library catalogs.  For a catalog of a library in which holdings in all forms 
+are listed, assign a combination of the headings discussed above, bringing out the particular 
+forms listed, and using collective designations when practical.  For example, for a catalog 
+listing all types of printed publications, use the subdivision BBibliographyBCatalogs; for one 
+listing audiovisual materials use the subdivision BAudio-visual aidsBCatalogs. 

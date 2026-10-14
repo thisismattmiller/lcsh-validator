@@ -1,0 +1,154 @@
+
+
+<<<PAGE 1>>>
+ 
+Testing  H 2186 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2186 Page 1 
+ 
+September 2013 
+BACKGROUND:  Testing is a process or method of trying or demonstrating something to 
+determine its quality, genuineness, or suitability, or the use of questions, problems, or tasks to 
+measure and evaluate skills, abilities, traits, capacities, etc.  This instruction sheet provides 
+guidelines for assigning the headings Testing and Psychological tests and the subdivisions 
+BTesting, BPsychological testing, BIntelligence testing, and BAbility testing.  For instructions 
+on assigning the heading and subdivision Evaluation, see H 1591. 
+ 
+ 
+ 
+ 
+1.  General works.  Assign the heading Testing to general works on processes or methods of 
+testing.   
+ 
+ 
+2.  Psychology. 
+ 
+a.  General.  Assign the heading Psychological tests (May Subd Geog) to general works 
+on psychological tests and testing, including methods of test construction and application. 
+ 
+b.  Psychological topics.  Assign the free-floating subdivision BTesting under specific 
+psychological topics, traits, etc., for works on the construction, application, and results of 
+testing pertaining to these topics, for example, Motivation (Psychology)BTesting. 
+ 
+c.  Classes of persons, ethnic groups, and animals.  Assign the free-floating 
+subdivision BPsychological testing (May Subd Geog) under classes of persons, ethnic 
+groups, and animals to works on methods and results of conducting psychological tests of 
+these groups, for example, People with mental disabilitiesBPsychological testing.   
+ 
+Assign the free-floating subdivision BIntelligence testing (May Subd Geog) under 
+classes of persons and ethnic groups for works on methods and results of conducting 
+intelligence tests of these groups, for example, ChildrenBIntelligence testing. 
+ 
+ 
+3.  Ability. 
+ 
+a.  General.  Assign the heading AbilityBTesting to general works on tests and testing 
+of ability, aptitude, or proficiency. 
+
+
+<<<PAGE 2>>>
+H 2186  Testing 
+ 
+ 
+ 
+H 2186 Page 2 
+Subject Headings Manual 
+September 2013 
+3. Ability.  (Continued) 
+ 
+b.  BAbility testing.  Assign the free-floating subdivision BAbility testing (May Subd 
+Geog) under topical headings for works on tests and testing of native aptitude or acquired 
+proficiency in a particular topic, for example, ReadingBAbility testing; SoccerBAbility 
+testing. 
+ 
+c.  Phrase headings for ability.  Where phrase headings have been established for 
+particular types of ability, for example, Athletic ability, Creative ability, Mathematical 
+ability, use the free-floating subdivision BTesting under the heading for type of ability 
+for works on tests and testing of these abilities instead of the subdivision BAbility testing 
+under the heading for the corresponding topic.  Example: 
+ 
+650 #0 $a Athletic ability $x Testing. 
+  [not
+ 
+650 #0 $a Athletics $x Ability testing.] 
+ 
+4.  Drugs.  Assign the free-floating subdivision BTesting under Drugs and individual drugs to 
+works on testing their effectiveness and/or safety, for example, AspirinBTesting. 
+ 
+Assign the free-floating subdivision BTherapeutic useBTesting under other chemicals when 
+their use as drugs is being tested, for example, LithiumBTherapeutic useBTesting.  
+ 
+To works on testing to identify the personal use or misuse of drugs, assign the general heading 
+Drug testing (May Subd Geog) or the free-floating subdivision BDrug testing (May Subd Geog) 
+under classes of persons being tested, for example, EmployeesBDrug testing. 
+ 
+ 
+5.  Other topics.  Assign the free-floating subdivision BTesting under headings for materials, 
+instruments, equipment, products, chemicals, domestic animals, etc., to works on the testing of 
+these items and/or the results of testing.  Examples: 
+ 
+650 #0 $a Automobiles $x Testing. 
+650 #0 $a Concrete $x Testing. 
+650 #0 $a Copper $x Testing. 
+650 #0 $a Corn $x Varieties $x Testing. 
+650 #0 $a Road materials $x Testing. 
+ 
+Do not use this subdivision for works on examinations given on a particular subject or 
+administered by an institution.  To these works, assign a heading of the type [topic or 
+individual corporate body]BExaminations. 
+
+
+<<<PAGE 3>>>
+ 
+Testing  H 2186 
+ 
+ 
+ 
+Subject Headings Manual 
+H 2186 Page 3 
+ 
+September 2013 
+6.  Subdivisions vs. phrase headings.  Before assigning a heading of the type [topic]BTesting 
+or [class of persons or ethnic group]BPsychological testing, search the subject authority file to 
+determine whether a phrase heading already exists for the concept.  If a phrase heading has 
+been established, assign the heading instead of using the free-floating subdivision BTesting or 
+BPsychological testing under the topic or group.  Examples: 
+ 
+ 
+650 #0 $a Intelligence tests. 
+650 #0 $a Psychological tests for children. 
+650 #0 $a Toxicity testing. 
+ 
+ 
+  
+7.  Assigning headings.  Assign several headings, if appropriate, to bring out the most 
+important aspects of the work being cataloged.  Examples: 
+ 
+ 
+Title:  The testing of concrete in structures. 
+650 #0 $a Concrete $x Testing. 
+650 #0 $a Concrete construction $x Testing. 
+ 
+ 
+Title:  Passenger comfort and safety : test tools and procedures. 
+650 #0 $a Automobiles $x Testing. 
+650 #0 $a Automobiles $x Safety measures. 
+ 
+ 
+Title:  Assessment of exceptional students. 
+650 #0 $a Children with disabilities $x Education $z United 
+            States. 
+650 #0 $a Children with disabilities $x Psychological 
+            testing $z United States. 
+650 #0 $a Educational tests and measurements $z United 
+            States. 
+650 #0 $a Special education $z United States. 
+ 
+ 
+Title:  How to test your dog's IQ. 
+650 #0 $a Dogs $x Psychological testing. 
+650 #0 $a Animal intelligence $x Testing. 
+ 

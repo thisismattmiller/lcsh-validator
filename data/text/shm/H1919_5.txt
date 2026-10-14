@@ -1,0 +1,189 @@
+
+
+<<<PAGE 1>>>
+ 
+Nationalities  H 1919.5 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1919.5 Page 1 
+ 
+May 2022 
+BACKGROUND:  Until 1981, headings for nationalities living in specific places outside their 
+native country were formulated as [nationality] in [place]; a nationality living in several 
+countries was expressed as [nationality] in foreign countries.  Headings of the type 
+[nationality] in [place] and [nationality] in foreign countries have been converted to [topic]—
+[place].  The geographic subdivision —Foreign countries has replaced the phrase [ . . . ] in 
+foreign countries.  This instruction sheet provides guidelines for establishing and assigning 
+headings for nationalities. 
+ 
+ 
+1.  General procedures. 
+ 
+a.  Establishing headings for nationalities.  Establish nationality headings according to 
+the following model: 
+ 
+150 ## $a [nationality] 
+450 ## $a [variant form(s), if any]  
+550 ## $w g $a Ethnology $z [country of origin] 
+ 
+Provide for geographic subdivision of these headings by selecting the May Subd Geog 
+radio button in the Subject Heading Proposal System template.   
+ 
+Example: 
+ 
+150 ## $a Canadians 
+550 ## $w g $a Ethnology $z Canada 
+ 
+ 
+b.  Use of geographic subdivision.  These headings are used only to designate the presence 
+of nationalities outside their native countries.  Therefore, they are never assigned without 
+local subdivision.  Whenever a nationality heading is assigned, further subdivide it by the 
+place where the presence of the nationality is being discussed, for example, Germans—
+Brazil. 
+ 
+With the exception of American ethnic groups, specific nationalities in foreign countries 
+are designated in this manner, rather than by composite names such as German Brazilians. 
+ 
+Note:  Do not confuse this type of prohibited composite nationality name with 
+names for true ethnic groups, i.e. groups with a common cultural and linguistic 
+heritage, whose names are by chance in composite form, such as French-
+Canadians. 
+
+
+<<<PAGE 2>>>
+H 1919.5  Nationalities 
+ 
+ 
+ 
+H 1919.5 Page 2 
+Subject Headings Manual 
+May 2022 
+1.  General procedures.  (Continued) 
+ 
+c.  Nationalities within their own countries.  Do not use nationality headings for works 
+that discuss the people of a country actually residing within that country.  Instead, use 
+either the name of the country with an appropriate subdivision, a [topic]—[place] heading, 
+or a combination of both.  Examples: 
+ 
+ 
+651 #0 $a United States $x Social life and customs. 
+  [not 650 #0 $a Americans $x Social life and customs.] 
+ 
+650 #0 $a Anthropometry $z Sweden. 
+  [not 650 #0 $a Swedes $x Anthropometry.] 
+ 
+ 
+d.  Ethnic group subdivisions under nationality headings.  Within the restrictions of sec. 
+1.c., above, treat nationality headings as ethnic groups, assigning subdivisions used under 
+ethnic groups when appropriate, for example, Iranians—France—Economic conditions 
+(cf. H 1103). 
+ 
+ 
+e.  Position of geographic subdivision.  When using, under a nationality heading, a 
+subdivision that is itself further subdivided by place, assign the geographic subdivision as 
+the final element, for example, French—Employment—Germany. 
+ 
+ 
+f.  Nationalities in more than one foreign country.  For works that discuss a specific 
+nationality in several countries, use the subdivision —Foreign countries under the 
+appropriate nationality heading.  Examples: 
+ 
+ 
+650 #0 $a Italians $z Foreign countries. 
+650 #0 $a Americans $x Employment $z Foreign countries. 
+ 
+ 
+Note:  The subdivision —Foreign countries is free-floating when used under 
+nationality headings. 
+
+
+<<<PAGE 3>>>
+ 
+Nationalities  H 1919.5 
+ 
+ 
+ 
+Subject Headings Manual 
+H 1919.5 Page 3 
+ 
+May 2022 
+2.  Procedures for nationalities in the United States. 
+ 
+a.  Establishing and assigning headings.  Establish headings for individual nationalities 
+living in the United States in the composite form [ . . . ] Americans (May Subd Geog), for 
+example, Japanese Americans (May Subd Geog), German Americans (May Subd Geog).  
+Do not hyphenate these headings. 
+ 
+ 
+These headings represent the permanent residents of the United States, including natural-
+ized citizens.  For aliens noncitizens living in the United States, students from abroad, etc., 
+assign a heading of the type described in the general procedures section on pp. 1-2 of this 
+instruction sheet, for example, Japanese—United States, Germans—United States. 
+ 
+ 
+Do not use —United States as a geographic subdivision directly after headings of the type 
+[ . . . ] Americans, nor after subdivisions used under these headings that are further 
+subdivided by place.  Do not use —United States after headings qualified by the 
+adjective [ . . . ] American.  Names of states or localities within the United States may, 
+however, be used as geographic subdivisions under these headings.  Examples: 
+ 
+ 
+650 #0 $a Asian Americans. 
+  [not 650 #0 $a Asian Americans $z United States.] 
+ 
+ 
+650 #0 $a Asian Americans $z Maryland. 
+ 
+ 
+650 #0 $a Asian Americans $x Education. 
+  [not 650 #0 $a Asian Americans $x Education $z United States.] 
+ 
+ 
+650 #0 $a Asian Americans $x Education $z California $z San 
+            Francisco. 
+ 
+ 
+650 #0 $a Mexican American teachers. 
+  [not 650 #0 $a Mexican American teachers $z United States.] 
+ 
+ 
+650 #0 $a Mexican American teachers $z Texas. 
+
+
+<<<PAGE 4>>>
+H 1919.5  Nationalities 
+ 
+ 
+ 
+H 1919.5 Page 4 
+Subject Headings Manual 
+May 2022 
+2.  Procedures for nationalities in the United States.  (Continued) 
+ 
+b.  Reference pattern.  Provide the following references for [ . . . ] Americans headings: 
+ 
+150 ## $a [...] Americans 
+450 ## $a [...] Americans $z United States  
+550 ## $w g $a Ethnology $z United States  
+550 ## $w g $a [nationality] $z United States 
+ 
+Example: 
+ 
+150 ## $a German Americans 
+450 ## $a German Americans $z United States  
+550 ## $w g $a Ethnology $z United States  
+550 ## $w g $a Germans $z United States 
+ 
+ 
+ 
+c.  Ethnic groups with composite names.  Do not establish names for groups of Americans 
+already identified with ethnic groups whose names are in composite form.  For example, 
+use Russian Germans—United States [not Russian German Americans]; use French 
+Canadians—United States [not French Canadian Americans]. 
+ 
+ 
+ 
+d.  —Foreign countries.  Use the subdivision —Foreign countries under headings of this 
+type in accordance with the guidelines described in sec. 1.f, above. 
