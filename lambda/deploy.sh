@@ -55,7 +55,8 @@ if ! aws iam get-role --role-name "$ROLE" >/dev/null 2>&1; then
   fi
 fi
 ROLE_ARN="$(aws iam get-role --role-name "$ROLE" --query Role.Arn --output text)"
-ENV_JSON="{\"Variables\":{\"ANTHROPIC_API_KEY\":\"$ANTHROPIC_KEY\",\"LCSH_MODEL\":\"${LCSH_MODEL:-claude-haiku-5-5}\"}}"
+# LCSH_STABILIZE=1: a valid/invalid verdict below LCSH_STABILIZE_BELOW gets a second independent pass; disagreement -> questionable
+ENV_JSON="{\"Variables\":{\"ANTHROPIC_API_KEY\":\"$ANTHROPIC_KEY\",\"LCSH_MODEL\":\"${LCSH_MODEL:-claude-haiku-5-5}\",\"LCSH_STABILIZE\":\"${LCSH_STABILIZE:-1}\",\"LCSH_STABILIZE_BELOW\":\"${LCSH_STABILIZE_BELOW:-0.86}\"}}"
 
 # --- function ------------------------------------------------------------------------------------
 if aws lambda get-function --function-name "$NAME" --region "$REGION" >/dev/null 2>&1; then

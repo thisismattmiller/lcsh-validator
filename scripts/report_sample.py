@@ -13,6 +13,17 @@ recs = []
 for p in inputs:
     with open(p, encoding="utf-8") as fh:
         recs.extend(json.loads(l) for l in fh if l.strip())
+# cost and tokens count every run; the verdict table and the flagged list use the latest record per heading (later files override)
+total_cost = sum(r.get("cost") or 0 for r in recs if "error" not in r)
+total_usage = Counter()
+for r in recs:
+    for k, v in (r.get("usage") or {}).items():
+        if isinstance(v, (int, float)):
+            total_usage[k] += v
+latest = {}
+for r in recs:
+    latest[r["heading"]] = r
+recs = list(latest.values())
 
 ORDER = {"invalid": 0, "questionable": 1, "uncertain": 2, "error": 3}
 verdicts = Counter()
@@ -41,9 +52,9 @@ lines.append("|---|---|")
 for k in ("valid", "questionable", "uncertain", "invalid", "error"):
     if verdicts[k]:
         lines.append(f"| {k} | {verdicts[k]} |")
-lines += ["", f"- total cost: ${cost:.4f} (avg ${cost / max(n, 1):.4f} per heading)",
-          f"- tokens: input {usage['input_tokens']:,}, cache read {usage['cache_read_input_tokens']:,}, "
-          f"cache write {usage['cache_creation_input_tokens']:,}, output {usage['output_tokens']:,}",
+lines += ["", f"- total cost over all runs: ${total_cost:.4f} (avg ${total_cost / max(n, 1):.4f} per distinct heading)",
+          f"- tokens over all runs: input {total_usage['input_tokens']:,}, cache read {total_usage['cache_read_input_tokens']:,}, "
+          f"cache write {total_usage['cache_creation_input_tokens']:,}, output {total_usage['output_tokens']:,}",
           f"- wall time per heading (sequential within a runner): {secs / max(n, 1):.1f} s", ""]
 
 for label, code in (("INVALID", 0), ("QUESTIONABLE (review)", 1), ("UNCERTAIN", 2), ("ERRORS", 3)):

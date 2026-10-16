@@ -493,3 +493,13 @@
 - The string Bugau is a single main element with no subdivisions and no authorized form in the LCSH or LCNAF authority data reviewed. The LCNAF candidates are different names and do not match the string. No free-floating phrase pattern from H 362 applies to a bare term. Its validity cannot be confirmed without the intended entity, so the verdict is uncertain rather than invalid. The cataloger should identify the entity and check the authorized form before using the string.
 - [warning] Bugau: The heading is not established in LCSH or LCNAF and has no free-floating basis. Because the string is a bare main heading with no subdivisions, it can be validated only if it is an authorized heading, and the tools cannot confirm that it is. (H 1095 sec. E.8; H 362 sec. 1 (no free-floating phrase pattern applies)). Fix: Confirm the intended entity and its form. If it is a personal name, check LCNAF for the exact authorized form (surname, forenames, dates) or the name that the source uses. If it is a place, check the 151 form and its qualifier. Use a verified authorized heading in place of the bare string if this is a variant or a misspelling.
 - alternatives: Bugault, Guy; Bugaut, M. (Maurice), 1945-
+
+## Corrections after the open-date parser fix
+
+These headings were originally run through a parser that collapsed the open date's hyphen into the `--` separator (`2002---Biography` became `2002--Biography`), so the model was judging a mangled string. Re-run with the fixed parser:
+
+- Madhukānta, 1949---Fictional works → **questionable** (0.6): The usage statement permits --Fictional works only under individual literary authors, and the authority record prohibits use under authors who write principally fiction. The facts do not establish Madhukānta's output. Kn
+- Lošić, Dubravka, 1964---Catalogs → **questionable** (0.6): The $v form subdivision --Catalogs is free-floating under names of individual persons only for artists and craftspersons (H 1110). The name authority facts give no occupation or field of activity, and the place associati
+- Schoch, Julia, 1974---Criticism and interpretation. → **valid** (0.88)
+- Richter, Daniel, 1962---Exhibitions → **valid** (0.9)
+- Neophytos, Metropolitan of Morphou, 1962---Sermons → **valid** (0.93)

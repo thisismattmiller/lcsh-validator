@@ -54,6 +54,13 @@ CATEGORY_ROOTS = {
     "War": ("H 1200", "wars"), "World War, 1939-1945": ("H 1200", "wars"), "Military history": ("H 1200", "wars"),
     "Armed Forces": ("H 1159", "military services"), "Armies": ("H 1159", "military services"), "Navies": ("H 1159", "military services"),
     "Legislative bodies": ("H 1155", "legislative bodies"),
+    "Persons": ("H 1100", "classes of persons"), "Prisoners": ("H 1100", "classes of persons"), "Students": ("H 1100", "classes of persons"),
+    "Women": ("H 1100", "classes of persons"), "Men": ("H 1100", "classes of persons"), "Children": ("H 1100", "classes of persons"),
+    "Females": ("H 1100", "classes of persons"), "Males": ("H 1100", "classes of persons"), "Patients": ("H 1100", "classes of persons"),
+    "Employees": ("H 1100", "classes of persons"), "Clergy": ("H 1100", "classes of persons"), "Youth": ("H 1100", "classes of persons"),
+    "Older people": ("H 1100", "classes of persons"), "Artists": ("H 1100", "classes of persons"), "Scholars": ("H 1100", "classes of persons"),
+    "Ethnology": ("H 1103", "ethnic groups"), "Ethnic groups": ("H 1103", "ethnic groups"), "Indigenous peoples": ("H 1103", "ethnic groups"),
+    "Disasters": ("H 1095", "historic events"), "Epidemics": ("H 1095", "historic events"), "Riots": ("H 1095", "historic events"),
     "Colonies": ("H 1149.5", "colonies of individual countries"),
     "Art": ("H 1148", "art (headings qualified by nationality)"), "Art, Chinese": ("H 1148", "art"), "Art, Japanese": ("H 1148", "art"),
     "Ethnology": ("H 1103", "ethnic groups"), "Ethnic groups": ("H 1103", "ethnic groups"), "Indigenous peoples": ("H 1103", "ethnic groups"),
@@ -65,6 +72,21 @@ HEADING_COLS = ["id", "label", "tag", "kind", "marc_key", "authorized", "depreca
                 "pattern_collections", "collections", "gac", "lcc", "scope_note", "editorial_note", "history_note", "example_note",
                 "deletion_note", "use_instead", "broader", "narrower", "related", "earlier_forms", "generated_from", "record_date"]
 JSON_COLS = {"pattern_collections", "collections", "lcc", "use_instead", "broader", "narrower", "related", "earlier_forms"}
+
+
+def geog_tristate(d: dict) -> bool | None:
+    """True: coded (May Subd Geog) (008/06 'i' or 'd'). False: LC coded the record not subdivided geographically
+    (008/06 blank or 'n'), or it is a single-element heading without the coding (H 364: only headings coded
+    (May Subd Geog) take a place). None: an established string with subdivisions that LC never evaluated
+    (008/06 '|', e.g. the 2008-2010 validation records) or whose MARC code is unknown: the coding of its last
+    subdivision (free-floating list entry or 180 record) governs."""
+    if d.get("may_subd_geog"):
+        return True
+    if d.get("geog_code") in (" ", "n"):
+        return False
+    if "--" not in (d.get("label") or ""):
+        return False
+    return None
 
 
 class LCSHDB:
@@ -90,6 +112,8 @@ class LCSHDB:
                 except json.JSONDecodeError:
                     pass
         d["kind_label"] = KIND_LABEL.get(d.get("kind", ""), d.get("kind", ""))
+        if "may_subd_geog" in d:
+            d["may_subd_geog"] = geog_tristate(d)
         return d
 
     def get(self, hid: str) -> dict | None:
@@ -111,6 +135,15 @@ class LCSHDB:
         rows = [self._row(r) for r in self.con.execute(q, (n,))]
         rows.sort(key=lambda d: (d["deprecated"], not d["authorized"], d["is_complex"]))
         return rows
+
+    def lookup_loose(self, label: str) -> list[dict]:
+        """Authorized headings that differ from the label only in hyphenation or spacing ('Water supply' -> 'Water-supply')."""
+        n = normalize_label(label).replace("-", " ")
+        n = " ".join(n.split())
+        if "-" not in normalize_label(label) and " " not in n:
+            return []
+        rows = self.con.execute("select * from headings where replace(norm,'-',' ') = ? and authorized=1 and deprecated=0 and is_subdivision=0", (n,)).fetchall()
+        return [d for d in (self._row(r) for r in rows) if d and normalize_label(d["label"]) != normalize_label(label)]
 
     def lookup_variant(self, label: str) -> list[dict]:
         """Headings for which `label` is a UF (variant / see-from) reference."""
@@ -155,6 +188,19 @@ class LCSHDB:
             seen[nxt]["count"] += 1
         return list(seen.values())[:limit]
 
+    def strings_using_subdivision(self, main: str, sub: str, limit: int = 5) -> list[str]:
+        """Established strings that begin with `main--` and contain `--sub` as a later element (any position)."""
+        n = normalize_label(main) + "--"
+        target = normalize_label(sub)
+        out = []
+        for r in self.con.execute("select label, norm from headings where is_complex=1 and authorized=1 and norm >= ? and norm < ? order by norm limit 400",
+                                  (n, n + "\uffff")):
+            if target in r["norm"].split("--")[1:]:
+                out.append(r["label"])
+                if len(out) >= limit:
+                    break
+        return out
+
     def complex_components(self, hid: str) -> list[dict]:
         return [dict(r) for r in self.con.execute("select pos, component_id, component_type, component_label from complex_components where complex_id=? order by pos", (hid,))]
 
@@ -186,11 +232,51 @@ class LCSHDB:
             m = re.search(r"PatternHeadingH([\d.]+)", pc)
             if m:
                 hints[f"H {m.group(1)}"] = {"sheet": f"H {m.group(1)}", "category": "declared via usePatternCollection", "via": h["label"]}
-        for path in self.broader_chain(hid, max_depth=5):
+        if h["label"] in CATEGORY_ROOTS and h["label"] not in ("Nobility", "Working class", "Families", "Clans"):
+            sheet, cat = CATEGORY_ROOTS[h["label"]]
+            hints[sheet] = {"sheet": sheet, "category": cat, "via": h["label"]}
+        persons_via = None  # a BT path that reaches a classes-of-persons root (e.g. Persons) without passing through Social classes
+        for path in self.broader_chain(hid, max_depth=6):
             for anc in path:
-                if anc in CATEGORY_ROOTS:
-                    sheet, cat = CATEGORY_ROOTS[anc]
+                if anc == "Social classes" or h["label"] in ("Nobility", "Working class", "Families", "Clans"):
+                    # H 1100 sec. D: the classes-of-persons list does not apply to social classes or collective social groupings
+                    hints["H 1100"] = {"sheet": "H 1100", "category": "social class / collective social grouping: H 1100 sec. D says the classes-of-persons list does NOT apply",
+                                       "excluded": True, "via": " > ".join([h["label"]] + path[:path.index(anc) + 1] if anc in path else [h["label"]])}
+                    break
+                root = anc.split("--")[0]  # BT "Ethnology--South Asia" (Dalits) counts as the Ethnology root
+                if root in CATEGORY_ROOTS:
+                    sheet, cat = CATEGORY_ROOTS[root]
+                    if sheet == "H 1100" and persons_via is None and h["label"] not in ("Nobility", "Working class", "Families", "Clans"):
+                        persons_via = " > ".join([h["label"]] + path[:path.index(anc) + 1])
                     hints.setdefault(sheet, {"sheet": sheet, "category": cat, "via": " > ".join([h["label"]] + path[:path.index(anc) + 1])})
+        if hints.get("H 1100", {}).get("excluded") and persons_via:
+            # e.g. Intellectuals: BT Persons and BT Social classes. LC treats such headings as classes of persons in practice
+            # (Intellectuals--Interviews, Intellectuals--Biography are established), so the exclusion is a doubt, not a bar.
+            hints["H 1100"]["mixed"] = True
+            hints["H 1100"]["also_classes_of_persons_via"] = persons_via
+            hints["H 1100"]["category"] += "; but it is also a class of persons by another BT path, so treat the exclusion as a doubt, not a bar"
+        # literatures and literary genres never reach a 'Literature' root (their BTs end in 'Balkan literature', 'Cyprus--Literatures'):
+        # recognise them by the form of the label (H 1156: [...] literature, [...] poetry, [...] fiction, [...] drama, [...] essays, [...] prose literature)
+        art = re.compile(r"^(Art|Arts|Painting|Sculpture|Drawing|Prints|Engraving|Decorative arts|Pottery|Ceramics|Jewelry|Mosaics|Illumination of books and manuscripts|Photography, Artistic|Folk art|Textile fabrics|Bronzes|Calligraphy|Wood-carving), [A-Z]")
+        if "H 1148" not in hints and art.match(h["label"]):
+            hints["H 1148"] = {"sheet": "H 1148", "category": "art forms qualified by nationality, ethnic group or religion (recognised by the form of the label)", "via": h["label"]}
+        if "H 1160" not in hints and (h["label"] == "Music" or re.search(r"\bmusic$|\(Music\)$", h["label"], re.I)):
+            hints["H 1160"] = {"sheet": "H 1160", "category": "music / musical compositions (recognised by the form of the label)", "via": h["label"]}
+        if "H 1160" not in hints and not re.search(r"--| and | in ", h["label"]):
+            # a heading whose direct BT is a type of music (Musicals > Dramatic music; Polkas > Dance music) is a music form or type (H 1160)
+            for path in self.broader_chain(hid, max_depth=1):
+                if path and path[0] != "Music" and re.search(r"\b\w+ music$", path[0], re.I):
+                    hints["H 1160"] = {"sheet": "H 1160", "category": "musical compositions (the broader term is a type of music)", "via": f"{h['label']} > {path[0]}"}
+                    break
+        # groups of literary authors (H 1155.2) qualified by language/nationality have no BT (Authors, Urdu; Poets, Urdu; Women authors, French)
+        authors = re.compile(r"^(?:[A-Z][a-z' ]* )?(Authors|Poets|Novelists|Dramatists|Playwrights|Essayists|Humorists|Satirists|Short story writers|Prose writers|Children's authors|Science fiction writers|Women authors|Women poets|Women novelists|Women dramatists), [A-Z]")
+        if "H 1155.2" not in hints and authors.match(h["label"]):
+            hints["H 1155.2"] = {"sheet": "H 1155.2", "category": "groups of literary authors (recognised by the form of the label)", "via": h["label"]}
+        lit = re.compile(r"\b(literature|literatures|poetry|fiction|drama|essays|prose literature)$", re.I)
+        if "H 1156" not in hints and (lit.search(h["label"]) or any(lit.search(anc) for path in self.broader_chain(hid, max_depth=3) for anc in path)):
+            hints["H 1156"] = {"sheet": "H 1156", "category": "literatures / literary genres (recognised by the form of the label)", "via": h["label"]}
+        if hints.get("H 1100", {}).get("excluded"):
+            hints.pop("H 1103", None)
         return list(hints.values())
 
     def pattern_subdivisions(self, sheet: str) -> list[dict]:
@@ -199,7 +285,7 @@ class LCSHDB:
         out = []
         for r in self.con.execute("select * from headings where is_subdivision=1 and collections like ?", (f'%"{key}"%',)):
             d = self._row(r)
-            out.append({"label": d["label"], "tag": d["tag"], "may_subd_geog": bool(d["may_subd_geog"]), "note": d["scope_note"]})
+            out.append({"label": d["label"], "tag": d["tag"], "may_subd_geog": d["may_subd_geog"], "note": d["scope_note"]})
         return out
 
     def geographic_subdivision_form(self, label: str) -> list[dict]:
@@ -211,6 +297,9 @@ class LCSHDB:
         for r in self.con.execute(q, (n, "%--" + n, *ids)):
             d = self._row(r)
             out.append({"form": d["label"], "chain": d["label"].split("--"), "generated_from": d["generated_from"], "id": d["id"]})
+        # the 181 generated from the heading itself comes first ('Andes Region' before 'Venezuela--Andes Region',
+        # which belongs to the differently qualified 'Andes Region (Venezuela)')
+        out.sort(key=lambda f: (f["generated_from"] not in ids, normalize_label(f["form"]) != n))
         return out
 
     # ---------- id.loc.gov name authority file ----------
@@ -233,6 +322,32 @@ class LCSHDB:
         except Exception as e:  # noqa: BLE001
             return 0, "", str(e)
 
+    def fill_geog_code(self, d: dict | None) -> dict | None:
+        """Complete the three-valued may_subd_geog of a record whose MARC 008/06 code is unknown locally.
+
+        The bulk codes come from LC's 2015-12-29 MARC snapshot (scripts/extract_marc_008.py) and from a per-record
+        backfill (scripts/fetch_marc_008.py); a record created or changed after the last backfill has geog_code NULL.
+        When that matters (a multi-element string not in collection_SubdivideGeographically, so may_subd_geog is None)
+        the code is read from the record's MARCXML on id.loc.gov and cached."""
+        if not d or d.get("may_subd_geog") is not None or d.get("geog_code") is not None or not self.online:
+            return d
+        hid = d.get("id") or ""
+        if not hid.startswith("sh") or "-" in hid:
+            return d
+        key = "geog:" + hid
+        code = self._cached(key)
+        if code is None:
+            st, _, xml = self._http(f"https://id.loc.gov/authorities/subjects/{hid}.marcxml.xml")
+            m = re.search(r'tag="008"[^>]*>([^<]*)<', xml) if st == 200 else None
+            if not m or len(m.group(1)) < 7:
+                return d
+            code = m.group(1)[6]
+            self._store(key, code)
+        d["geog_code"] = code
+        d["may_subd_geog"] = geog_tristate({**d, "may_subd_geog": code in ("i", "d")})
+        d["geog_code_source"] = "id.loc.gov"
+        return d
+
     def lookup_name(self, label: str) -> dict:
         """Look up a heading in the LC Name Authority File (LCNAF) via id.loc.gov.
 
@@ -240,8 +355,8 @@ class LCSHDB:
         """
         key = "name:" + normalize_label(label)
         c = self._cached(key)
-        if c is not None:
-            return c
+        if c is not None and ((c.get("found") and c.get("v", 0) >= 2) or (not c.get("found") and c.get("v", 0) >= 3)):
+            return c  # positives before v2 (occupation/372/374/670/008 fields) and negatives before v3 (dateless-name candidates) are refetched once
         if not self.online:
             return {"found": False, "offline": True}
         q = urllib.parse.quote(label.strip().rstrip("."), safe="")
@@ -261,6 +376,30 @@ class LCSHDB:
                 result["candidates"] = [{"label": h.get("aLabel"), "uri": h.get("uri")} for h in hits if h.get("aLabel")]
             except Exception:  # noqa: BLE001
                 result["candidates"] = []
+            # a personal name supplied with dates the record does not carry (or vice versa): offer the dateless form as a candidate
+            if not result["candidates"]:
+                mb = re.match(r"^(?P<base>[^,]+,[^,]+?)(?:,\s*(?:approximately |ca\. |active |fl\. |b\. |d\. )?\d{3,4}.*)?$", label.strip().rstrip("."))
+                base = mb.group("base").strip() if mb and mb.group("base") and mb.group("base").strip() != label.strip().rstrip(".") else None
+                if base:
+                    _, _, body2 = self._http(f"https://id.loc.gov/authorities/names/suggest2?q={urllib.parse.quote(base, safe='')}&count=5")
+                    try:
+                        hits2 = json.loads(body2).get("hits", [])
+                        result["candidates"] = [{"label": h.get("aLabel"), "uri": h.get("uri"), "note": "found by the name without its dates; compare the dates/qualifier with the authorized form"}
+                                                for h in hits2 if h.get("aLabel") and normalize_label(h["aLabel"]).startswith(normalize_label(base))]
+                    except Exception:  # noqa: BLE001
+                        pass
+            # the label service misses some records (punctuation, recent additions); an exact suggest hit is the same thing
+            n = normalize_label(label)
+            exact = next((c for c in result["candidates"] if normalize_label(c["label"] or "") == n), None)
+            m2 = re.search(r"/authorities/names/(n[a-z]*\d+)", (exact or {}).get("uri") or "")
+            if m2:
+                nid = m2.group(1)
+                st, _, xml = self._http(f"https://id.loc.gov/authorities/names/{nid}.marcxml.xml")
+                parsed = _parse_marcxml(xml) if st == 200 else {}
+                if parsed.get("label"):
+                    result = {"found": True, "id": nid, "uri": f"http://id.loc.gov/authorities/names/{nid}", **parsed,
+                              "matched_as": "authorized label (exact suggest hit)"}
+            result.setdefault("v", 3)
         self._store(key, result)
         return result
 
@@ -280,11 +419,15 @@ class LCSHDB:
         """Geographic name-authority candidates whose label begins with `text` (e.g. 'Buffalo' -> 'Buffalo (N.Y.)'), with their 781 forms."""
         key = "cand:" + normalize_label(text)
         c = self._cached(key)
-        if c is not None:
-            return c
+        if c:
+            return c  # an empty cached list predates the qualifier-aware search; retry it
         if not self.online:
             return []
-        q = urllib.parse.quote(text.strip(), safe="")
+        # 'Hasa (Province)' is written with a type qualifier only; the authority label is 'Hasa (Saudi Arabia : Province)'
+        mq = re.match(r"^(?P<base>.+?)\s*\((?P<qual>[^()]+)\)\s*$", text.strip())
+        base = mq.group("base").strip() if mq else text.strip()
+        qual_words = {w for w in re.sub(r"[:,;]", " ", normalize_label(mq.group("qual"))).split() if w} if mq else set()
+        q = urllib.parse.quote(base, safe="")
         _, _, body = self._http(f"https://id.loc.gov/authorities/names/suggest2?q={q}&count={limit}&rdftype=Geographic&searchtype=keyword")
         out = []
         try:
@@ -292,10 +435,17 @@ class LCSHDB:
         except Exception:  # noqa: BLE001
             hits = []
         n = normalize_label(text)
+        nb = normalize_label(base)
         for h in hits:
             lab = h.get("aLabel") or ""
-            if not (normalize_label(lab) == n or normalize_label(lab).startswith(n + " (")):
+            nl = normalize_label(lab)
+            if not (nl == n or nl.startswith(n + " (") or nl == nb or nl.startswith(nb + " (")):
                 continue
+            if qual_words and nl != n:
+                # keep only candidates whose own qualifier contains the supplied qualifier words (e.g. 'province')
+                mql = re.search(r"\(([^()]+)\)\s*$", nl)
+                if not mql or not qual_words <= set(re.sub(r"[:,;]", " ", mql.group(1)).split()):
+                    continue
             token = (h.get("token") or "").replace("-781", "")
             rec = self.name_record(token) if token else {}
             out.append({"label": lab, "id": token, "geographic_subdivision_form": rec.get("geographic_subdivision_form"), "entity_type": rec.get("entity_type", "")})
@@ -331,6 +481,11 @@ def _parse_marcxml(xml: str) -> dict:
         subs = re.findall(r'<(?:marcxml:)?subfield code="(\w)">(.*?)</(?:marcxml:)?subfield>', m.group(2), re.S)
         fields.append((m.group(1), [(c, _unescape(v)) for c, v in subs]))
     out = {"label": "", "kind": "", "geographic_subdivision_form": None, "variants": [], "notes": [], "gac": ""}
+    m008 = re.search(r'<(?:marcxml:)?controlfield tag="008"[^>]*>([^<]*)</(?:marcxml:)?controlfield>', xml)
+    if m008 and len(m008.group(1)) > 6:
+        code = m008.group(1)[6]
+        out["geog_subdiv_code_008_06"] = {"d": "d (may be subdivided geographically, direct)", "i": "i (may be subdivided geographically, indirect)",
+                                          "n": "n (not subdivided geographically)", " ": "blank (no information)"}.get(code, code)
     for tag, subs in fields:
         if tag in ("100", "110", "111", "130", "150", "151", "155"):
             out["label"] = " ".join(v for c, v in subs if c not in "0123456789eiw")
@@ -349,6 +504,15 @@ def _parse_marcxml(xml: str) -> dict:
             out["entity_type"] = ", ".join(v for c, v in subs if c in "abcd")
         elif tag == "370":
             out["place_associated"] = ", ".join(f"${c} {v}" for c, v in subs if c in "aceft")
+        elif tag == "372":
+            out.setdefault("field_of_activity", []).extend(v for c, v in subs if c == "a")
+        elif tag == "374":
+            out.setdefault("occupation", []).extend(v for c, v in subs if c == "a")
+        elif tag == "670":
+            out.setdefault("sources_670", []).append(" ".join(v for c, v in subs if c in "ab")[:300])
+    if "sources_670" in out:
+        out["sources_670"] = out["sources_670"][:4]
+    out["v"] = 2
     return out
 
 

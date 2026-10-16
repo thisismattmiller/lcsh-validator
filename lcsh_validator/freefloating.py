@@ -82,8 +82,11 @@ class FreeFloating:
                         self.list_multiples.append((pat, n))
 
     def _match_multiple(self, n: str, table: list[tuple[re.Pattern, str]]) -> str | None:
+        """A multiple's slot holds a language, name, denomination, war etc.; a value that is itself a listed
+        subdivision (e.g. 'history' in 'study and teaching--history') is not filling the slot."""
         for pat, key in table:
-            if pat.fullmatch(n):
+            m = pat.fullmatch(n)
+            if m and normalize_label(m.group("slot")) not in self.by_norm and normalize_label(m.group("slot")) not in self.list_by_norm:
                 return key
         return None
 
@@ -92,12 +95,13 @@ class FreeFloating:
         n = normalize_label(label.lstrip("-"))
         matched_pattern = None
         ff = self.by_norm.get(n, [])
-        if not ff:
+        literal = bool(ff) or n in self.list_by_norm
+        if not literal:
             key = self._match_multiple(n, self.multiples)
             if key:
                 ff = self.by_norm[key]
                 matched_pattern = ff[0]["label"]
-        list_key = n if n in self.list_by_norm else self._match_multiple(n, self.list_multiples)
+        list_key = n if n in self.list_by_norm else (None if literal else self._match_multiple(n, self.list_multiples))
         if list_key and list_key != n and not matched_pattern:
             matched_pattern = (self.list_by_norm[list_key][0][1].get("subdivision") or self.list_by_norm[list_key][0][1].get("pattern"))
         auth = [e for e in ff if not e.get("reference")]

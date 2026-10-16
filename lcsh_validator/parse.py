@@ -13,7 +13,10 @@ from dataclasses import dataclass, field
 
 SUBFIELD_RE = re.compile(r"[\$‡]([a-z0-9])")
 TAG_RE = re.compile(r"^=?\s*(6\d\d)\s*([ _#\\0-9]{0,2})\s*(?=[\$‡])")
-DASH_SPLIT = re.compile(r"\s*(?:--|—|–|\s-\s)\s*")
+# '--' followed by a third hyphen is an open date's hyphen running into the separator ('Clark, Caitlin, 2002---Biography'):
+# split after the first hyphen so the date keeps it.
+# a spaced hyphen before a year that follows a comma is a (mis-typed) RDA death date, 'Weaver, Cheryl, - 2005', not a separator
+DASH_SPLIT = re.compile(r"\s*(?:(?<=\d-)--|--(?!-)|—|–|(?<!,)\s-\s(?!\d))\s*")
 
 # subfields that belong to the main heading (name headings use several)
 MAIN_CODES = set("abcdefghjklmnopqrstu")
@@ -65,7 +68,9 @@ def normalize_label(s: str) -> str:
     """Normalization used for lookups: NFKD, strip diacritics, lower, collapse whitespace, dashes -> '--'."""
     s = unicodedata.normalize("NFKD", s)
     s = "".join(c for c in s if not unicodedata.combining(c))
-    s = s.replace("—", "--").replace("–", "--").replace("ʻ", "").replace("ʼ", "")
+    # ALA-LC ayn/alif (ʻ ʼ) and the look-alike modifier letters ʿ ʾ are dropped; curly quotes become the plain apostrophe
+    s = s.replace("—", "--").replace("–", "--").replace("ʻ", "").replace("ʼ", "").replace("ʿ", "").replace("ʾ", "")
+    s = s.replace("\u2019", "'").replace("\u2018", "'")
     s = re.sub(r"\s*--\s*", "--", s)
     s = re.sub(r"\s+", " ", s).strip().lower()
     return s.rstrip(".") if not s.endswith("etc.") else s
@@ -79,7 +84,8 @@ def _strip_trailing_period(text: str, notes: list[str]) -> str:
     return t
 
 
-SEPARATOR_VARIANTS = re.compile(r"\s*(?:--+|—|–|\u2011\u2011|(?<=\S)\s+-\s+(?=\S))\s*")
+OPEN_DATE_SEP = re.compile(r"(\d-)\s*--(?!-)\s*(?=\S)")
+SEPARATOR_VARIANTS = re.compile(r"\s*(?:--+|—|–|\u2011\u2011|(?<=[^\s,])\s+-\s+(?=[^\d\s]))\s*")
 
 
 def normalize_separators(s: str) -> tuple[str, str | None]:
@@ -92,7 +98,9 @@ def normalize_separators(s: str) -> tuple[str, str | None]:
     """
     if SUBFIELD_RE.search(s):
         return s, None  # MARC subfield form: separators are the subfield codes
-    cleaned = SEPARATOR_VARIANTS.sub("--", s)
+    # an open date followed by the separator is legitimately three hyphens ('1974---Criticism'); keep that hyphen
+    protected = OPEN_DATE_SEP.sub("\\1\x00", s)
+    cleaned = SEPARATOR_VARIANTS.sub("--", protected).replace("\x00", "--")
     cleaned = cleaned.replace("\u2011", "-")
     if cleaned == s:
         return s, None

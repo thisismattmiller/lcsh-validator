@@ -49,6 +49,10 @@
     if (st.startsWith("uncertain") || st.startsWith("questionable")) return "unsure";
     return "ok";
   }
+  // rule citations ("H 1095 sec. E.3") become hover targets showing the sheet text (rules.js)
+  function rules(text) {
+    return window.LcshRules ? window.LcshRules.renderText(text) : document.createTextNode(String(text ?? ""));
+  }
   function fmtTokens(u) {
     if (!u) return "";
     return `tokens in ${u.input_tokens} · cache read ${u.cache_read_input_tokens} · cache write ${u.cache_creation_input_tokens} · out ${u.output_tokens}`;
@@ -110,7 +114,7 @@
     for (const t of transcript) {
       if (t.type === "text") {
         if (t.final) continue; // the final JSON verdict is rendered above
-        container.append(el("div", { class: "turn model" }, el("div", { class: "who", text: `turn ${t.turn} · model` }), el("div", { class: "text", text: t.text })));
+        container.append(el("div", { class: "turn model" }, el("div", { class: "who", text: `turn ${t.turn} · model` }), el("div", { class: "text" }, rules(t.text))));
       } else {
         const input = Object.entries(t.input || {}).map(([k, v]) => `${k}=${JSON.stringify(v)}`).join(", ");
         const d = el("details", { class: "turn tool" },
@@ -134,28 +138,28 @@
     if (v.normalized_string && v.normalized_string !== data.heading.replace(/\.$/, "")) {
       norm.append(el("span", { class: "hint", text: v.verdict === "valid" ? "normalized form: " : "suggested form: " }), el("code", { text: v.normalized_string }));
     }
-    $(".explanation", node).textContent = v.explanation || "";
+    $(".explanation", node).replaceChildren(rules(v.explanation || ""));
     const tb = $("table.elements tbody", node);
     for (const e of v.elements || []) {
       tb.append(el("tr", {}, el("td", { text: e.element }), el("td", { text: e.role }),
-        el("td", {}, el("span", { class: "st " + statusClass(e.status), text: e.status })), el("td", { text: e.basis })));
+        el("td", {}, el("span", { class: "st " + statusClass(e.status), text: e.status })), el("td", {}, rules(e.basis))));
     }
     if (!(v.elements || []).length) $("table.elements", node).remove();
     const issues = $("ul.issues", node);
     for (const i of v.issues || []) {
       issues.append(el("li", {}, el("span", { class: "sev " + i.severity, text: (i.severity || "").toUpperCase() }),
-        el("span", {}, `${i.element ? i.element + ": " : ""}${i.problem}`),
-        i.rule ? el("span", { class: "rule", text: ` (${i.rule})` }) : null,
-        i.fix ? el("div", { class: "hint", text: "Fix: " + i.fix }) : null));
+        el("span", {}, rules(`${i.element ? i.element + ": " : ""}${i.problem}`)),
+        i.rule ? el("span", { class: "rule" }, " (", rules(i.rule), ")") : null,
+        i.fix ? el("div", { class: "hint" }, "Fix: ", rules(i.fix)) : null));
     }
-    for (const n of v.lc_practice_notes || []) $("ul.lc-practice", node).append(el("li", { text: n }));
+    for (const n of v.lc_practice_notes || []) $("ul.lc-practice", node).append(el("li", {}, rules(n)));
+    if (v.verdict_note) $("ul.lc-practice", node).append(el("li", { class: "verdict-note" }, "Validator note: ", rules(v.verdict_note)));
     for (const s of v.suggested_alternatives || []) $("ul.alternatives", node).append(el("li", { text: s }));
     renderTranscript($(".transcript", node), data.transcript);
     $(".facts pre", node).textContent = JSON.stringify(data.facts, null, 1);
-    $(".raw pre", node).textContent = JSON.stringify(data, null, 1);
+    $(".raw pre", node).textContent = JSON.stringify(Object.fromEntries(Object.entries(data).filter(([k]) => k !== "cost")), null, 1);
     const tools = (data.transcript || []).filter((t) => t.type === "tool").map((t) => t.tool);
-    const cost = data.cost && data.cost.usd != null ? ` · cost $${data.cost.usd.toFixed(4)}` : "";
-    $(".stats", node).textContent = `effort ${data.effort} · ${data.turns} turns · ${tools.length} tool calls · ${data.elapsed}s · ${fmtTokens(data.usage)}${cost}`;
+    $(".stats", node).textContent = `effort ${data.effort} · ${data.turns} turns · ${tools.length} tool calls · ${data.elapsed}s · ${fmtTokens(data.usage)}`;
     $(".report", node).hidden = false;
     wireReport(node, data);
   }

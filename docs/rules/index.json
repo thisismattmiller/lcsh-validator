@@ -1,0 +1,1572 @@
+{
+"Appendix A": {
+"file": "Appenda",
+"title": "Abbreviations",
+"relevance": "high"
+},
+"Appendix B": {
+"file": "Appendb",
+"title": "Capitalization",
+"relevance": "high"
+},
+"Appendix C": {
+"file": "Appendc",
+"title": "Diacritics and Special Characters",
+"relevance": "high"
+},
+"Appendix D": {
+"file": "Appendd",
+"title": "Punctuation",
+"relevance": "high"
+},
+"Appendix E": {
+"file": "Appende",
+"title": "Geographic Area Codes",
+"relevance": "low"
+},
+"Appendix F": {
+"file": "Appendf",
+"title": "Subject-Related Codes in Field 008 - Books",
+"relevance": "low"
+},
+"Appendix G": {
+"file": "Appendg",
+"title": "Subject-Related Codes in Field 008 - Continuing Resources (Serials)",
+"relevance": "low"
+},
+"Free-Floating Subdivisions Introduction": {
+"file": "LCSH-FF-intro",
+"title": "Introduction to Free-Floating Subdivisions",
+"relevance": "high"
+},
+"Glossary": {
+"file": "Glossary",
+"title": "Glossary",
+"relevance": "medium"
+},
+"H 1023": {
+"file": "H1023",
+"title": "Soviet Union",
+"relevance": "medium"
+},
+"H 1045": {
+"file": "H1045",
+"title": "Vatican City",
+"relevance": "medium"
+},
+"H 1050": {
+"file": "H1050",
+"title": "Washington (D.C.)",
+"relevance": "medium"
+},
+"H 1055": {
+"file": "H1055",
+"title": "Yugoslavia",
+"relevance": "medium"
+},
+"H 1075": {
+"file": "H1075",
+"title": "Subdivisions",
+"relevance": "high"
+},
+"H 1078": {
+"file": "H1078",
+"title": "Dates in Subdivisions for Specific Events",
+"relevance": "high"
+},
+"H 1090": {
+"file": "H1090",
+"title": "Multiple Subdivisions",
+"relevance": "high"
+},
+"H 1095": {
+"file": "H1095",
+"title": "Free-floating Subdivisions",
+"relevance": "high"
+},
+"H 1100": {
+"file": "H1100",
+"title": "Free-floating Subdivisions: Classes of Persons",
+"relevance": "high"
+},
+"H 1103": {
+"file": "H1103",
+"title": "Free-Floating Subdivisions: Ethnic Groups",
+"relevance": "high"
+},
+"H 1105": {
+"file": "H1105",
+"title": "Free-floating Subdivisions: Corporate Bodies",
+"relevance": "high"
+},
+"H 1110": {
+"file": "H1110",
+"title": "Free-Floating Subdivisions: Names of Persons",
+"relevance": "high"
+},
+"H 1120": {
+"file": "H1120",
+"title": "Free-Floating Subdivisions: Names of Families",
+"relevance": "high"
+},
+"H 1140": {
+"file": "H1140",
+"title": "Free-Floating Subdivisions: Names of Places",
+"relevance": "high"
+},
+"H 1145.5": {
+"file": "H1145_5",
+"title": "Free-floating Subdivisions: Bodies of Water",
+"relevance": "high"
+},
+"H 1146": {
+"file": "H1146",
+"title": "Subdivisions Controlled by Pattern Headings",
+"relevance": "high"
+},
+"H 1147": {
+"file": "H1147",
+"title": "Pattern Headings: Animals",
+"relevance": "high"
+},
+"H 1148": {
+"file": "H1148",
+"title": "Pattern Headings: Art",
+"relevance": "high"
+},
+"H 1149": {
+"file": "H1149",
+"title": "Pattern Headings: Chemicals",
+"relevance": "high"
+},
+"H 1149.5": {
+"file": "H1149_5",
+"title": "Pattern Headings: Colonies",
+"relevance": "high"
+},
+"H 1149.7": {
+"file": "H1149_7",
+"title": "Pattern Headings: Comics and Graphic Novels",
+"relevance": "high"
+},
+"H 1150": {
+"file": "H1150",
+"title": "Pattern Headings: Diseases",
+"relevance": "high"
+},
+"H 1151": {
+"file": "H1151",
+"title": "Pattern Headings: Individual Educational Institutions",
+"relevance": "high"
+},
+"H 1151.5": {
+"file": "H1151_5",
+"title": "Pattern Headings: Types of Educational Institutions",
+"relevance": "high"
+},
+"H 1153": {
+"file": "H1153",
+"title": "Pattern Headings: Industries",
+"relevance": "high"
+},
+"H 1154": {
+"file": "H1154",
+"title": "Pattern Headings: Languages",
+"relevance": "high"
+},
+"H 1154.5": {
+"file": "H1154_5",
+"title": "Pattern Headings: Legal Topics",
+"relevance": "high"
+},
+"H 1155": {
+"file": "H1155",
+"title": "Pattern Headings: Legislative Bodies",
+"relevance": "high"
+},
+"H 1155.2": {
+"file": "H1155_2",
+"title": "Pattern Headings: Groups of Literary Authors",
+"relevance": "high"
+},
+"H 1155.6": {
+"file": "H1155_6",
+"title": "Pattern Headings: Literary Works Entered Under Author",
+"relevance": "high"
+},
+"H 1155.8": {
+"file": "H1155_8",
+"title": "Pattern Headings: Literary Works Entered Under Title",
+"relevance": "high"
+},
+"H 1156": {
+"file": "H1156",
+"title": "Pattern Headings: Literatures",
+"relevance": "high"
+},
+"H 1158": {
+"file": "H1158",
+"title": "Pattern Headings: Materials",
+"relevance": "high"
+},
+"H 1159": {
+"file": "H1159",
+"title": "Pattern Headings: Military Services",
+"relevance": "high"
+},
+"H 1160": {
+"file": "H1160",
+"title": "Pattern Headings: Musical Compositions",
+"relevance": "high"
+},
+"H 1161": {
+"file": "H1161",
+"title": "Pattern Headings: Musical Instruments",
+"relevance": "high"
+},
+"H 1164": {
+"file": "H1164",
+"title": "Pattern Headings: Organs and Regions of the Body",
+"relevance": "high"
+},
+"H 1180": {
+"file": "H1180",
+"title": "Pattern Headings: Plants and Crops",
+"relevance": "high"
+},
+"H 1185": {
+"file": "H1185",
+"title": "Pattern Headings: Religions",
+"relevance": "high"
+},
+"H 1186": {
+"file": "H1186",
+"title": "Pattern Headings: Religious and Monastic Orders",
+"relevance": "high"
+},
+"H 1187": {
+"file": "H1187",
+"title": "Pattern Headings: Christian Denominations",
+"relevance": "high"
+},
+"H 1188": {
+"file": "H1188",
+"title": "Pattern Headings: Sacred Works",
+"relevance": "high"
+},
+"H 1195": {
+"file": "H1195",
+"title": "Pattern Headings: Land Vehicles",
+"relevance": "high"
+},
+"H 1200": {
+"file": "H1200",
+"title": "Pattern Headings: Wars",
+"relevance": "high"
+},
+"H 1205": {
+"file": "H1205",
+"title": "Abstracts",
+"relevance": "medium"
+},
+"H 1206.5": {
+"file": "H1206_5",
+"title": "Acronyms",
+"relevance": "medium"
+},
+"H 1210": {
+"file": "H1210",
+"title": "Addresses, Essays, Lectures",
+"relevance": "high"
+},
+"H 1210.5": {
+"file": "H1210_5",
+"title": "Aerial and Space Photography",
+"relevance": "medium"
+},
+"H 1211": {
+"file": "H1211",
+"title": "Airports",
+"relevance": "medium"
+},
+"H 1223": {
+"file": "H1223",
+"title": "Arabs",
+"relevance": "high"
+},
+"H 1225": {
+"file": "H1225",
+"title": "Archaeological Works",
+"relevance": "high"
+},
+"H 1230": {
+"file": "H1230",
+"title": "Archives and Archival Resources",
+"relevance": "medium"
+},
+"H 1250": {
+"file": "H1250",
+"title": "Art and Fine Art",
+"relevance": "high"
+},
+"H 1255": {
+"file": "H1255",
+"title": "Artistic Photography",
+"relevance": "medium"
+},
+"H 1265": {
+"file": "H1265",
+"title": "Awards",
+"relevance": "medium"
+},
+"H 1285": {
+"file": "H1285",
+"title": "Battles",
+"relevance": "high"
+},
+"H 1295": {
+"file": "H1295",
+"title": "Bible: Special Topics",
+"relevance": "high"
+},
+"H 1300": {
+"file": "H1300",
+"title": "Bible and Other Sacred Works",
+"relevance": "high"
+},
+"H 1322": {
+"file": "H1322",
+"title": "Bibliographies about Individual Persons",
+"relevance": "medium"
+},
+"H 1325": {
+"file": "H1325",
+"title": "Bibliography of Bibliographies",
+"relevance": "medium"
+},
+"H 1328": {
+"file": "H1328",
+"title": "Bio-bibliography",
+"relevance": "high"
+},
+"H 1330": {
+"file": "H1330",
+"title": "Biography",
+"relevance": "high"
+},
+"H 1332": {
+"file": "H1332",
+"title": "Biological Names",
+"relevance": "medium"
+},
+"H 1333": {
+"file": "H1333",
+"title": "Books and Reading",
+"relevance": "medium"
+},
+"H 1333.5": {
+"file": "H1333_5",
+"title": "Boundaries",
+"relevance": "high"
+},
+"H 1334": {
+"file": "H1334",
+"title": "Buildings and Other Structures",
+"relevance": "high"
+},
+"H 1334.5": {
+"file": "H1334_5",
+"title": "Buildings and Structures in Cities: Assignment of Headings",
+"relevance": "medium"
+},
+"H 1350": {
+"file": "H1350",
+"title": "Case Studies and Cases",
+"relevance": "medium"
+},
+"H 1360": {
+"file": "H1360",
+"title": "Catalogs",
+"relevance": "medium"
+},
+"H 1361": {
+"file": "H1361",
+"title": "Catalogs of Library Materials",
+"relevance": "medium"
+},
+"H 1365": {
+"file": "H1365",
+"title": "Cemeteries",
+"relevance": "medium"
+},
+"H 1366": {
+"file": "H1366",
+"title": "Census",
+"relevance": "high"
+},
+"H 1366.5": {
+"file": "H1366_5",
+"title": "Choreographic Works",
+"relevance": "medium"
+},
+"H 1367": {
+"file": "H1367",
+"title": "Chronology",
+"relevance": "high"
+},
+"H 1370": {
+"file": "H1370",
+"title": "Civilization",
+"relevance": "high"
+},
+"H 1412": {
+"file": "H1412",
+"title": "Classical and Ancient Works",
+"relevance": "low"
+},
+"H 1425": {
+"file": "H1425",
+"title": "Collected Works and Collections",
+"relevance": "high"
+},
+"H 1427": {
+"file": "H1427",
+"title": "Collections of Objects",
+"relevance": "high"
+},
+"H 1430": {
+"file": "H1430",
+"title": "Comics and Comic Characters",
+"relevance": "high"
+},
+"H 1435": {
+"file": "H1435",
+"title": "Commentaries on Individual Works",
+"relevance": "medium"
+},
+"H 1438": {
+"file": "H1438",
+"title": "Composers and Works about Music of Individual Composers",
+"relevance": "medium"
+},
+"H 1460": {
+"file": "H1460",
+"title": "Congresses",
+"relevance": "high"
+},
+"H 1465": {
+"file": "H1465",
+"title": "Constitutions",
+"relevance": "high"
+},
+"H 1468": {
+"file": "H1468",
+"title": "Contracts",
+"relevance": "medium"
+},
+"H 1472": {
+"file": "H1472",
+"title": "Controversial Literature",
+"relevance": "high"
+},
+"H 1475": {
+"file": "H1475",
+"title": "Cooking and Cookbooks",
+"relevance": "high"
+},
+"H 1480": {
+"file": "H1480",
+"title": "Correspondence of Individual Persons",
+"relevance": "medium"
+},
+"H 150": {
+"file": "H0150",
+"title": "Partial Title Added Entries",
+"relevance": "low"
+},
+"H 1510": {
+"file": "H1510",
+"title": "Cross-cultural Studies",
+"relevance": "medium"
+},
+"H 1520": {
+"file": "H1520",
+"title": "Databases",
+"relevance": "medium"
+},
+"H 1530": {
+"file": "H1530",
+"title": "Description and Travel",
+"relevance": "medium"
+},
+"H 1532": {
+"file": "H1532",
+"title": "Design and Construction",
+"relevance": "medium"
+},
+"H 1538": {
+"file": "H1538",
+"title": "Diaries",
+"relevance": "medium"
+},
+"H 1540": {
+"file": "H1540",
+"title": "Dictionaries",
+"relevance": "high"
+},
+"H 1550": {
+"file": "H1550",
+"title": "Digests",
+"relevance": "medium"
+},
+"H 1558": {
+"file": "H1558",
+"title": "Directories",
+"relevance": "medium"
+},
+"H 1560": {
+"file": "H1560",
+"title": "Disasters, Riots, Demonstrations, etc.",
+"relevance": "high"
+},
+"H 1564": {
+"file": "H1564",
+"title": "Discovery and Exploration",
+"relevance": "medium"
+},
+"H 1570": {
+"file": "H1570",
+"title": "Dissertations and Theses",
+"relevance": "medium"
+},
+"H 1572": {
+"file": "H1572",
+"title": "Dwellings with Extensive Grounds",
+"relevance": "low"
+},
+"H 1574": {
+"file": "H1574",
+"title": "Dynasties, Royal Houses, etc.",
+"relevance": "high"
+},
+"H 1576": {
+"file": "H1576",
+"title": "Early Works",
+"relevance": "high"
+},
+"H 1578": {
+"file": "H1578",
+"title": "Economic Conditions",
+"relevance": "high"
+},
+"H 1579": {
+"file": "H1579",
+"title": "Education",
+"relevance": "high"
+},
+"H 1580": {
+"file": "H1580",
+"title": "Effect of One Topic on Another",
+"relevance": "high"
+},
+"H 1580.5": {
+"file": "H1580_5",
+"title": "Electronic Serials",
+"relevance": "medium"
+},
+"H 1581": {
+"file": "H1581",
+"title": "Emigration and Immigration",
+"relevance": "high"
+},
+"H 1591": {
+"file": "H1591",
+"title": "Evaluation",
+"relevance": "medium"
+},
+"H 1592": {
+"file": "H1592",
+"title": "Events",
+"relevance": "high"
+},
+"H 1593": {
+"file": "H1593",
+"title": "Exhibitions",
+"relevance": "high"
+},
+"H 1595": {
+"file": "H1595",
+"title": "Facsimiles",
+"relevance": "medium"
+},
+"H 160": {
+"file": "H0160",
+"title": "Uncontrolled Subject Terms in the 653 Field",
+"relevance": "low"
+},
+"H 1600": {
+"file": "H1600",
+"title": "Festschriften",
+"relevance": "low"
+},
+"H 1610": {
+"file": "H1610",
+"title": "Fictitious Characters",
+"relevance": "high"
+},
+"H 1624": {
+"file": "H1624",
+"title": "Finance",
+"relevance": "medium"
+},
+"H 1627": {
+"file": "H1627",
+"title": "Folklore",
+"relevance": "high"
+},
+"H 1628": {
+"file": "H1628",
+"title": "Forecasting",
+"relevance": "medium"
+},
+"H 1629": {
+"file": "H1629",
+"title": "Foreign Relations",
+"relevance": "high"
+},
+"H 1629.5": {
+"file": "H1629_5",
+"title": "Forenames and Surnames",
+"relevance": "medium"
+},
+"H 1630": {
+"file": "H1630",
+"title": "Gazetteers",
+"relevance": "medium"
+},
+"H 1631": {
+"file": "H1631",
+"title": "Genealogy and Family Names",
+"relevance": "medium"
+},
+"H 1631.5": {
+"file": "H1631_5",
+"title": "Family Names: Headings and References",
+"relevance": "high"
+},
+"H 1635": {
+"file": "H1635",
+"title": "Gods and Mythological Figures",
+"relevance": "high"
+},
+"H 1636": {
+"file": "H1636",
+"title": "Gods of Greek and Roman Mythology",
+"relevance": "low"
+},
+"H 1642": {
+"file": "H1642",
+"title": "Government Policy",
+"relevance": "high"
+},
+"H 1643": {
+"file": "H1643",
+"title": "Government Publications",
+"relevance": "medium"
+},
+"H 1645": {
+"file": "H1645",
+"title": "Guidebooks",
+"relevance": "medium"
+},
+"H 1646": {
+"file": "H1646",
+"title": "Handbooks, Manuals, etc.",
+"relevance": "medium"
+},
+"H 1647": {
+"file": "H1647",
+"title": "History",
+"relevance": "high"
+},
+"H 165": {
+"file": "H0165",
+"title": "Subject Heading Changes in Bibliographic Records",
+"relevance": "low"
+},
+"H 1659": {
+"file": "H1659",
+"title": "Illustrations",
+"relevance": "medium"
+},
+"H 1660": {
+"file": "H1660",
+"title": "Imprints",
+"relevance": "high"
+},
+"H 1670": {
+"file": "H1670",
+"title": "Indexes",
+"relevance": "high"
+},
+"H 1673": {
+"file": "H1673",
+"title": "Industries Based on Products",
+"relevance": "high"
+},
+"H 1675": {
+"file": "H1675",
+"title": "Influence of One Topic on Another",
+"relevance": "high"
+},
+"H 1675.5": {
+"file": "H1675_5",
+"title": "Information Services",
+"relevance": "medium"
+},
+"H 1676": {
+"file": "H1676",
+"title": "Inquisition",
+"relevance": "high"
+},
+"H 1676.5": {
+"file": "H1676_5",
+"title": "Inspection",
+"relevance": "medium"
+},
+"H 1678": {
+"file": "H1678",
+"title": "Interviews",
+"relevance": "medium"
+},
+"H 1680": {
+"file": "H1680",
+"title": "Islam",
+"relevance": "medium"
+},
+"H 1690": {
+"file": "H1690",
+"title": "Juvenile Materials",
+"relevance": "high"
+},
+"H 170": {
+"file": "H0170",
+"title": "CONSER & BIBCO Standard Records",
+"relevance": "low"
+},
+"H 1705": {
+"file": "H1705",
+"title": "Legal Materials: Law and Legislation and Other Subdivisions",
+"relevance": "high"
+},
+"H 1710": {
+"file": "H1710",
+"title": "Legal Materials: Legal Research",
+"relevance": "high"
+},
+"H 1715": {
+"file": "H1715",
+"title": "Legal Materials: Legislation",
+"relevance": "medium"
+},
+"H 1718": {
+"file": "H1718",
+"title": "Legal Materials: Systems of Law",
+"relevance": "high"
+},
+"H 1720": {
+"file": "H1720",
+"title": "Legends and Stories about Animals",
+"relevance": "medium"
+},
+"H 175": {
+"file": "H0175",
+"title": "Editions",
+"relevance": "low"
+},
+"H 1775": {
+"file": "H1775",
+"title": "Literature: General",
+"relevance": "high"
+},
+"H 178": {
+"file": "H0178",
+"title": "Serials",
+"relevance": "medium"
+},
+"H 1780": {
+"file": "H1780",
+"title": "Literature: Drama",
+"relevance": "high"
+},
+"H 1790": {
+"file": "H1790",
+"title": "Literature: Fiction",
+"relevance": "high"
+},
+"H 1795": {
+"file": "H1795",
+"title": "Literature: Legends and Romances",
+"relevance": "high"
+},
+"H 180": {
+"file": "H0180",
+"title": "Assigning and Constructing Subject Headings",
+"relevance": "medium"
+},
+"H 1800": {
+"file": "H1800",
+"title": "Literature: Poetry",
+"relevance": "medium"
+},
+"H 181": {
+"file": "H0181",
+"title": "Arabic/Persian Subject Headings",
+"relevance": "low"
+},
+"H 182": {
+"file": "H0182",
+"title": "Chinese/Japanese/Korean Subject Headings",
+"relevance": "low"
+},
+"H 1828": {
+"file": "H1828",
+"title": "Literature from One Place in Multiple Languages",
+"relevance": "medium"
+},
+"H 184": {
+"file": "H0184",
+"title": "Subject Headings Identical to Descriptive Access Points",
+"relevance": "low"
+},
+"H 1845": {
+"file": "H1845",
+"title": "Local History and Genealogical Source Materials",
+"relevance": "low"
+},
+"H 1848": {
+"file": "H1848",
+"title": "Longitudinal Studies",
+"relevance": "medium"
+},
+"H 1855": {
+"file": "H1855",
+"title": "Manuscripts",
+"relevance": "high"
+},
+"H 1865": {
+"file": "H1865",
+"title": "Maps and Atlases",
+"relevance": "medium"
+},
+"H 187": {
+"file": "H0187",
+"title": "When to Establish a New Topical Subject Heading",
+"relevance": "low"
+},
+"H 1870": {
+"file": "H1870",
+"title": "Marketing",
+"relevance": "medium"
+},
+"H 1890": {
+"file": "H1890",
+"title": "Mental Health and Mental Health Services",
+"relevance": "medium"
+},
+"H 1893": {
+"file": "H1893",
+"title": "Microforms",
+"relevance": "low"
+},
+"H 1895": {
+"file": "H1895",
+"title": "Miniature Books",
+"relevance": "medium"
+},
+"H 1910": {
+"file": "H1910",
+"title": "Miscellanea",
+"relevance": "medium"
+},
+"H 1913": {
+"file": "H1913",
+"title": "Moving Image Genre/Form Terms",
+"relevance": "low"
+},
+"H 1916": {
+"file": "H1916",
+"title": "Museums",
+"relevance": "medium"
+},
+"H 1916.3": {
+"file": "H1916_3",
+"title": "Music: General",
+"relevance": "high"
+},
+"H 1916.5": {
+"file": "H1916_5",
+"title": "Music: Jazz and Popular Music",
+"relevance": "high"
+},
+"H 1917": {
+"file": "H1917",
+"title": "Music of Ethnic, National, and Religious Groups",
+"relevance": "high"
+},
+"H 1917.5": {
+"file": "H1917_5",
+"title": "Music Form/Genre Headings: Medium of Performance",
+"relevance": "high"
+},
+"H 1918": {
+"file": "H1918",
+"title": "Musical Instruments",
+"relevance": "high"
+},
+"H 1919": {
+"file": "H1919",
+"title": "Name and Names",
+"relevance": "medium"
+},
+"H 1919.5": {
+"file": "H1919_5",
+"title": "Nationalities",
+"relevance": "high"
+},
+"H 1920": {
+"file": "H1920",
+"title": "Newspapers",
+"relevance": "high"
+},
+"H 1922": {
+"file": "H1922",
+"title": "Offensive Words",
+"relevance": "medium"
+},
+"H 1925": {
+"file": "H1925",
+"title": "Parks, Reserves, National Monuments, etc.",
+"relevance": "high"
+},
+"H 1927": {
+"file": "H1927",
+"title": "Periodicals",
+"relevance": "high"
+},
+"H 1928": {
+"file": "H1928",
+"title": "Personal Narratives",
+"relevance": "high"
+},
+"H 1929": {
+"file": "H1929",
+"title": "Philosophy",
+"relevance": "medium"
+},
+"H 193": {
+"file": "H0193",
+"title": "Changing or Deleting a Subject Authority Record",
+"relevance": "low"
+},
+"H 193.5": {
+"file": "H0193_5",
+"title": "Deleted Heading Information",
+"relevance": "low"
+},
+"H 1935": {
+"file": "H1935",
+"title": "Pictorial Works",
+"relevance": "high"
+},
+"H 194": {
+"file": "H0194",
+"title": "Providing for Geographic Subdivision of Existing Subject Headings",
+"relevance": "low"
+},
+"H 1942": {
+"file": "H1942",
+"title": "Politics and Government",
+"relevance": "high"
+},
+"H 1943.5": {
+"file": "H1943_5",
+"title": "Popular Works",
+"relevance": "medium"
+},
+"H 1945": {
+"file": "H1945",
+"title": "Postage Stamps on Specific Topics",
+"relevance": "high"
+},
+"H 1945.5": {
+"file": "H1945_5",
+"title": "Posters",
+"relevance": "medium"
+},
+"H 1949": {
+"file": "H1949",
+"title": "Professional Ethics",
+"relevance": "medium"
+},
+"H 195": {
+"file": "H0195",
+"title": "Changing References in Subject Authority Records",
+"relevance": "low"
+},
+"H 1955": {
+"file": "H1955",
+"title": "Public Opinion",
+"relevance": "high"
+},
+"H 196": {
+"file": "H0196",
+"title": "Changing Class Numbers in Subject Authority Records",
+"relevance": "low"
+},
+"H 1965": {
+"file": "H1965",
+"title": "Publishers' Catalogs",
+"relevance": "medium"
+},
+"H 1969": {
+"file": "H1969",
+"title": "Quotations and Maxims",
+"relevance": "high"
+},
+"H 1969.5": {
+"file": "H1969_5",
+"title": "Radio Genre/Form Terms",
+"relevance": "low"
+},
+"H 1970": {
+"file": "H1970",
+"title": "Railroads",
+"relevance": "medium"
+},
+"H 1975": {
+"file": "H1975",
+"title": "Readers",
+"relevance": "high"
+},
+"H 1980": {
+"file": "H1980",
+"title": "Reference Books",
+"relevance": "high"
+},
+"H 1995": {
+"file": "H1995",
+"title": "Regimental Histories",
+"relevance": "high"
+},
+"H 1996": {
+"file": "H1996",
+"title": "Relations and Military Relations",
+"relevance": "high"
+},
+"H 1997": {
+"file": "H1997",
+"title": "Religion",
+"relevance": "high"
+},
+"H 1998": {
+"file": "H1998",
+"title": "Religious Aspects of Topics",
+"relevance": "high"
+},
+"H 200": {
+"file": "H0200",
+"title": "Preparation of Subject Heading Proposals",
+"relevance": "medium"
+},
+"H 2015": {
+"file": "H2015",
+"title": "Religious Denominations or Religions as Subdivisions",
+"relevance": "high"
+},
+"H 2015.5": {
+"file": "H2015_5",
+"title": "Religious Life",
+"relevance": "medium"
+},
+"H 2016": {
+"file": "H2016",
+"title": "Religious Life and Customs",
+"relevance": "high"
+},
+"H 202": {
+"file": "H0202",
+"title": "Authority Research for Subject Heading Proposals",
+"relevance": "low"
+},
+"H 2020": {
+"file": "H2020",
+"title": "Research",
+"relevance": "medium"
+},
+"H 2021": {
+"file": "H2021",
+"title": "Reviews",
+"relevance": "high"
+},
+"H 203": {
+"file": "H0203",
+"title": "Citation of Sources",
+"relevance": "low"
+},
+"H 2032": {
+"file": "H2032",
+"title": "Sermons",
+"relevance": "high"
+},
+"H 204": {
+"file": "H0204",
+"title": "Evaluating Subject Proposals",
+"relevance": "low"
+},
+"H 2040": {
+"file": "H2040",
+"title": "Simulation Methods in Special Fields",
+"relevance": "medium"
+},
+"H 205": {
+"file": "H0205",
+"title": "Establishing New Subdivisions Having General Application",
+"relevance": "low"
+},
+"H 2055": {
+"file": "H2055",
+"title": "Social Conditions",
+"relevance": "high"
+},
+"H 2057": {
+"file": "H2057",
+"title": "Social Life and Customs",
+"relevance": "high"
+},
+"H 2060": {
+"file": "H2060",
+"title": "Societies",
+"relevance": "high"
+},
+"H 2070": {
+"file": "H2070",
+"title": "Software and Works about Software",
+"relevance": "medium"
+},
+"H 2075": {
+"file": "H2075",
+"title": "Songs and Music",
+"relevance": "high"
+},
+"H 2080": {
+"file": "H2080",
+"title": "Sources",
+"relevance": "high"
+},
+"H 2083": {
+"file": "H2083",
+"title": "Specifications",
+"relevance": "medium"
+},
+"H 2095": {
+"file": "H2095",
+"title": "Statistics",
+"relevance": "high"
+},
+"H 2098": {
+"file": "H2098",
+"title": "Streets and Roads",
+"relevance": "high"
+},
+"H 2100": {
+"file": "H2100",
+"title": "Strikes and Lockouts",
+"relevance": "high"
+},
+"H 2110": {
+"file": "H2110",
+"title": "Study and Teaching",
+"relevance": "high"
+},
+"H 2145": {
+"file": "H2145",
+"title": "Supplementary Works",
+"relevance": "low"
+},
+"H 2149": {
+"file": "H2149",
+"title": "Surveys",
+"relevance": "medium"
+},
+"H 2160": {
+"file": "H2160",
+"title": "Tables",
+"relevance": "high"
+},
+"H 2184": {
+"file": "H2184",
+"title": "Terms and Phrases",
+"relevance": "high"
+},
+"H 2185": {
+"file": "H2185",
+"title": "Territories and Possessions",
+"relevance": "high"
+},
+"H 2186": {
+"file": "H2186",
+"title": "Testing",
+"relevance": "high"
+},
+"H 2187": {
+"file": "H2187",
+"title": "Textbooks",
+"relevance": "high"
+},
+"H 2190": {
+"file": "H2190",
+"title": "Texts",
+"relevance": "high"
+},
+"H 2217": {
+"file": "H2217",
+"title": "Training",
+"relevance": "high"
+},
+"H 2219": {
+"file": "H2219",
+"title": "Translating",
+"relevance": "high"
+},
+"H 2220": {
+"file": "H2220",
+"title": "Translations",
+"relevance": "high"
+},
+"H 2225": {
+"file": "H2225",
+"title": "Transportation",
+"relevance": "high"
+},
+"H 2227": {
+"file": "H2227",
+"title": "Treaties",
+"relevance": "high"
+},
+"H 2228": {
+"file": "H2228",
+"title": "Trials",
+"relevance": "high"
+},
+"H 2230": {
+"file": "H2230",
+"title": "Visual Materials and Non-Music Sound Recordings",
+"relevance": "medium"
+},
+"H 2232": {
+"file": "H2232",
+"title": "Vocational Guidance",
+"relevance": "medium"
+},
+"H 225": {
+"file": "H0225",
+"title": "History Notes",
+"relevance": "low"
+},
+"H 2400": {
+"file": "H2400",
+"title": "Yearbooks",
+"relevance": "high"
+},
+"H 250": {
+"file": "H0250",
+"title": "Music Heading Authority Records",
+"relevance": "medium"
+},
+"H 285": {
+"file": "H0285",
+"title": "Singular vs. Plural Forms in Subject Headings",
+"relevance": "high"
+},
+"H 290": {
+"file": "H0290",
+"title": "Articles in the Initial Position",
+"relevance": "high"
+},
+"H 306": {
+"file": "H0306",
+"title": "Natural Language in Topical Subject Headings",
+"relevance": "high"
+},
+"H 310": {
+"file": "H0310",
+"title": "[...] and [...] Headings",
+"relevance": "high"
+},
+"H 315": {
+"file": "H0315",
+"title": "Foreign Terms",
+"relevance": "high"
+},
+"H 320": {
+"file": "H0320",
+"title": "Headings Qualified by Nationality, Ethnic Group, Language, etc.",
+"relevance": "high"
+},
+"H 350": {
+"file": "H0350",
+"title": "Nationality Designation of Classes of Persons",
+"relevance": "high"
+},
+"H 351": {
+"file": "H0351",
+"title": "Ethnic Qualifiers",
+"relevance": "high"
+},
+"H 357": {
+"file": "H0357",
+"title": "Parenthetical Qualifiers in Subject Headings",
+"relevance": "high"
+},
+"H 360": {
+"file": "H0360",
+"title": "[...] as [...] Headings",
+"relevance": "high"
+},
+"H 362": {
+"file": "H0362",
+"title": "Free-Floating Terms and Phrases",
+"relevance": "high"
+},
+"H 364": {
+"file": "H0364",
+"title": "Authorization for Geographic Subdivision",
+"relevance": "medium"
+},
+"H 365": {
+"file": "H0365",
+"title": "Library of Congress Classification Numbers in Subject Authority Records",
+"relevance": "low"
+},
+"H 370": {
+"file": "H0370",
+"title": "Broader Terms, Narrower Terms, and Related Terms",
+"relevance": "low"
+},
+"H 371": {
+"file": "H0371",
+"title": "General See Also References",
+"relevance": "low"
+},
+"H 373": {
+"file": "H0373",
+"title": "\"Used For\" References",
+"relevance": "medium"
+},
+"H 374": {
+"file": "H0374",
+"title": "General See References",
+"relevance": "medium"
+},
+"H 375": {
+"file": "H0375",
+"title": "[Topic]--[Place] Broader Term References",
+"relevance": "low"
+},
+"H 40": {
+"file": "H0040",
+"title": "Library of Congress Subject Authority Records",
+"relevance": "medium"
+},
+"H 400": {
+"file": "H0400",
+"title": "Scope Notes",
+"relevance": "low"
+},
+"H 405": {
+"file": "H0405",
+"title": "Establishing Certain Entities in the Name or Subject Authority File",
+"relevance": "medium"
+},
+"H 430": {
+"file": "H0430",
+"title": "Name Headings as Subjects",
+"relevance": "medium"
+},
+"H 432": {
+"file": "H0432",
+"title": "Subject Usage Information in Name Authority Records",
+"relevance": "medium"
+},
+"H 436": {
+"file": "H0436",
+"title": "Provisional Name Headings",
+"relevance": "low"
+},
+"H 460": {
+"file": "H0460",
+"title": "Name Changes in Non-Jurisdictional Corporate Bodies",
+"relevance": "low"
+},
+"H 475": {
+"file": "H0475",
+"title": "Subdividing Corporate Name Headings by Place",
+"relevance": "high"
+},
+"H 620": {
+"file": "H0620",
+"title": "Chronological Headings and Subdivisions",
+"relevance": "high"
+},
+"H 690": {
+"file": "H0690",
+"title": "Formulating Geographic Headings",
+"relevance": "high"
+},
+"H 708": {
+"file": "H0708",
+"title": "Linear Jurisdictional Name Changes in Name Authority Records",
+"relevance": "high"
+},
+"H 710": {
+"file": "H0710",
+"title": "Jurisdictional Mergers and Splits",
+"relevance": "medium"
+},
+"H 713": {
+"file": "H0713",
+"title": "First Order Political Divisions of Countries",
+"relevance": "high"
+},
+"H 715": {
+"file": "H0715",
+"title": "Extinct Cities",
+"relevance": "high"
+},
+"H 720": {
+"file": "H0720",
+"title": "City Sections",
+"relevance": "medium"
+},
+"H 760": {
+"file": "H0760",
+"title": "Geographic Regions",
+"relevance": "high"
+},
+"H 790": {
+"file": "H0790",
+"title": "Areas Associated with Cities",
+"relevance": "high"
+},
+"H 80": {
+"file": "H0080",
+"title": "Order of Subject Headings",
+"relevance": "low"
+},
+"H 800": {
+"file": "H0800",
+"title": "Rivers, Valleys, Watersheds, etc.",
+"relevance": "high"
+},
+"H 807": {
+"file": "H0807",
+"title": "Islands",
+"relevance": "high"
+},
+"H 810": {
+"file": "H0810",
+"title": "Qualification of Geographic Headings",
+"relevance": "high"
+},
+"H 830": {
+"file": "H0830",
+"title": "Geographic Subdivision",
+"relevance": "high"
+},
+"H 832": {
+"file": "H0832",
+"title": "Geographic Subdivision to the City Level",
+"relevance": "high"
+},
+"H 835": {
+"file": "H0835",
+"title": "Geographic Subdivision in Name Authority Records",
+"relevance": "high"
+},
+"H 836": {
+"file": "H0836",
+"title": "Geographic Subdivision Information in Subject Authority Records",
+"relevance": "high"
+},
+"H 860": {
+"file": "H0860",
+"title": "Subdivisions Further Subdivided by Place",
+"relevance": "high"
+},
+"H 870": {
+"file": "H0870",
+"title": "Interposition of Geographic Subdivisions",
+"relevance": "high"
+},
+"H 910": {
+"file": "H0910",
+"title": "Place as a Theme in Art, Literature, Motion Pictures, etc.",
+"relevance": "medium"
+},
+"H 925": {
+"file": "H0925",
+"title": "China and Taiwan",
+"relevance": "medium"
+},
+"H 928": {
+"file": "H0928",
+"title": "Congo",
+"relevance": "medium"
+},
+"H 945": {
+"file": "H0945",
+"title": "Germany",
+"relevance": "medium"
+},
+"H 955": {
+"file": "H0955",
+"title": "Great Britain",
+"relevance": "medium"
+},
+"H 975": {
+"file": "H0975",
+"title": "Hawaii",
+"relevance": "medium"
+},
+"H 978": {
+"file": "H0978",
+"title": "Hong Kong",
+"relevance": "medium"
+},
+"H 980": {
+"file": "H0980",
+"title": "Jerusalem, Gaza Strip, Golan Heights, West Bank, and Palestine",
+"relevance": "medium"
+},
+"H 985": {
+"file": "H0985",
+"title": "Latin America",
+"relevance": "medium"
+},
+"H 987": {
+"file": "H0987",
+"title": "Malaysia and Malaya",
+"relevance": "medium"
+},
+"H 990": {
+"file": "H0990",
+"title": "New York (N.Y.)",
+"relevance": "medium"
+},
+"LCSH Introduction": {
+"file": "LCSH-Main-intro",
+"title": "Introduction to Library of Congress Subject Headings",
+"relevance": "high"
+}
+}

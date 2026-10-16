@@ -5,13 +5,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>LCSH Heading Validator</title>
 <meta name="description" content="Checks whether a Library of Congress Subject Heading string is validly constructed under the Subject Headings Manual, with the model's reasoning and rule citations.">
-<link rel="stylesheet" href="style.css?v=7">
+<link rel="stylesheet" href="style.css?v=8">
 <script src="config.js?v=2"></script>
 </head>
 <body>
 <header>
   <h1>LCSH Heading Validator</h1>
-  <p class="tagline">Checks whether a subject heading string is constructed correctly under the <em>Subject Headings Manual</em>: deterministic lookups in the LCSH/LCNAF authority files, then a model's pass over the SHM rules, with every tool call and citation shown.</p>
+  <p class="tagline">Checks whether a subject heading string is constructed correctly under the <em>Subject Headings Manual</em>: deterministic lookups in the LCSH/LCNAF authority files, then a model's pass over the SHM rules, with every tool call and citation shown. Hover a citation such as <span class="rule-ref-demo">H 1095 sec. E.3</span> to read the rule.</p>
 </header>
 
 <main>
@@ -90,6 +90,7 @@
   </article>
 </template>
 
-<script src="app.js?v=12"></script>
+<script src="rules.js?v=1"></script>
+<script src="app.js?v=14"></script>
 </body>
 </html>

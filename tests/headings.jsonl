@@ -62,3 +62,41 @@
 {"heading": "Indians of South America--Ecuador--Philosophy", "expect": "invalid", "why": "H 1929 sec. 2 explicitly bars [group]--Philosophy under ethnic and Indian groups (use the uninverted form, e.g. Maya philosophy); an explicit prohibition, so invalid rather than questionable"}
 {"heading": "Ferroelectricity--Materials", "expect": "questionable", "why": "--Materials usage covers scientific/technical disciplines and equipment; a physical phenomenon is a borderline fit and nothing forbids it: review, not invalid"}
 {"heading": "Bible. Psalms--Paraphrases, French", "expect": "valid", "note": "H 1188 multiple --Paraphrases, English, [French, German, etc.] admits any language"}
+{"heading": "Horsemanship--History--To 1500", "expect": "valid", "note": "--History--To 1500 is a two-element free-floating string on H 1095 (topical headings)"}
+{"heading": "Sullivan, Kathy, 1951---Juvenile literature.", "expect": "valid", "note": "open date hyphen followed by the -- separator is three hyphens; the parser must keep the date hyphen"}
+{"heading": "Lima (Peru)--Social conditions--History--17th century", "expect": "invalid", "note": "H 1647 sec. 9: --History not used after --Social conditions"}
+{"heading": "Agriculture--Government policy--India", "expect": "invalid", "note": "H 1642: Agriculture and state is established"}
+{"heading": "Social justice--In motion pictures", "expect": "invalid", "note": "H 1095 sec. E.2: phrase heading Social justice in motion pictures is established"}
+{"heading": "Ulama--Saudi Arabia--Hasa (Province)--Biography", "expect": "valid", "note": "province qualifier resolves to Hasa (Saudi Arabia : Province), 781 Saudi Arabia--Hasa (Province)"}
+{"heading": "Peru--Politics and government--21st century", "expect": "invalid", "note": "H 1647 sec. 2.b: free-floating century conflicts with established periods 1980-, 2000- under Peru--Politics and government"}
+{"heading": "Art--Mongolia--Study and teaching", "expect": "invalid", "note": "H 860 sec. 2: --Study and teaching is May Subd Geog, so Art--Study and teaching--Mongolia"}
+{"heading": "Justice, Administration of--China, Northwest--History--To 1500", "expect": "valid", "note": "topical heading stays topical after place; --History--To 1500 free-floating string"}
+{"heading": "Women--Employment--Social aspects--Chile", "expect": "valid", "note": "Women is a class of persons (category root); --Social aspects (May Subd Geog) under topical headings"}
+{"heading": "Authors--United States--Biography", "expect": "invalid", "note": "Authors is not May Subd Geog (H 1155.2: Authors, American)"}
+{"heading": "Cemeteries--Tunisia--Mediterranean Coast", "expect": "valid", "note": "Mediterranean Coast has one 181 per country (sh88001497 is Tunisia--Mediterranean Coast); the chain given is checked against the matching one"}
+{"heading": "Travel writing--Germany--21st century--History and criticism", "expect": "invalid", "note": "bare century after place under a topical heading (H 620 sec. 3.d)"}
+{"heading": "Naranja de Tapia (Michoacán de Ocampo, Mexico)--History", "expect": "valid", "note": "place as main heading keeps its full qualified NAF form"}
+{"heading": "Caregivers--Social conditions--United States", "expect": "invalid", "note": "--Social conditions is not May Subd Geog; place goes before it"}
+{"heading": "Drugs--Overdose--Fiction", "expect": "valid", "note": "--Fiction under any topical heading (H 1790)"}
+{"heading": "Lewis, Sinclair, 1885-1951--Criticism and interpretation", "expect": "valid", "note": "name facts carry occupation (Novelists); --Criticism and interpretation under a literary author"}
+{"heading": "Indigenous women--Abuse of--Andes Region", "expect": "valid", "note": "Andes Region has its own 781; not Venezuela--Andes Region"}
+{"heading": "Spies--Soviet Union", "expect": "valid", "note": "H 1023 period limits are assignment advice, not a string defect"}
+{"heading": "Japan--Relations--Singapore", "expect": "valid", "note": "--Relations is an authorized alternative to --Foreign relations"}
+{"heading": "Quechua Indians--Peru--Sierra", "expect": "valid", "note": "bare 'Sierra' has two 181s; the one matching the chain given (Peru--Sierra) is used"}
+{"heading": "Bronze age--Czech Republic--Prague Region", "expect": "valid", "note": "H 362 '[city] Region' phrase used as $z in the city's chain"}
+{"heading": "Canetti, Elias, 1905-1994. Masse und Macht--Congresses", "expect": "valid", "note": "work heading confirmed by its language-qualified expressions in LCNAF"}
+{"heading": "Moldova--Relations--Romania", "expect": "valid", "note": "--Relations (H 1996) is a valid string; --Foreign relations is an assignment choice"}
+{"heading": "Music--Indonesia--History and criticism--21st century", "expect": "invalid", "note": "H 1160 order: period before --History and criticism"}
+{"heading": "Water supply--Ethiopia", "expect": "invalid", "note": "hyphenation defect: the LCSH form is Water-supply (near match reported)"}
+{"heading": "Intellectuals--India--Tamil Nadu--Interviews", "expect": "valid", "note": "H 1100 sec. D exclusion is a doubt only: Intellectuals is also BT Persons and LC established Intellectuals--Interviews"}
+{"heading": "Authors, Urdu--Pakistan--20th century--Biography", "expect": "invalid", "note": "H 1155.2: no period subdivision under a literary-author group that has a geographic subdivision (label-form hint)"}
+{"heading": "Murder--Investigation--Brazil--Alagoas--Case studies", "expect": "valid", "note": "established prefix Murder--Investigation is coded May Subd Geog"}
+{"heading": "Art, Mexican--History--20th century", "expect": "invalid", "note": "H 1647 sec. 1: no --History under nationally qualified art; use Art, Mexican--20th century"}
+{"heading": "Literacy--England--History--To 1500", "expect": "valid", "note": "H 955 bars --History only under England as main heading; [topic]--England--History is standard"}
+{"heading": "Districts", "expect": "invalid", "note": "untraced-reference record, not a heading"}
+{"heading": "Markiewka, Anna", "expect": "valid", "note": "a bare authorized LCNAF name is valid; thin documentation is not a defect"}
+{"heading": "Copyright--Art--Australia", "expect": "valid", "note": "Copyright--Art (sh85032450) is coded (May Subd Geog) although the H 1095 list entry for --Art is not; the record governs"}
+{"heading": "Outer space--In literature", "expect": "valid", "note": "Outer space is a 151; --In literature is free-floating under places (H 1095), as in the 85 established [place]--In literature strings"}
+{"heading": "Musicals--Australia--21st century--History and criticism", "expect": "valid", "note": "Musicals (BT Dramatic music) is an H 1160 music form: the century subdivision is free-floating (sec. 4) and the order place, period, topic is the H 1160 sec. 7 order"}
+{"heading": "Bible. Genesis, IX, 18-29--Criticism, interpretation, etc.", "expect": "valid", "note": "a part of the Bible is formulated (RDA 6.23.2.9.5: Roman chapter, Arabic verses) and needs no authority record; --Criticism, interpretation, etc. is free-floating under parts of sacred works (H 1188)"}
+{"heading": "Great Britain--Foreign relations--Europe--History--17th century", "expect": "invalid", "note": "H 1629 sec. 2: a bilateral --Foreign relations--[place] heading takes no period subdivision and no --History; bring out the period with [place]--Foreign relations--[established period]"}
