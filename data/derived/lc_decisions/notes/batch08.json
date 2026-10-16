@@ -1,0 +1,799 @@
+[
+ {
+  "source_id": "psd-100721",
+  "date": "2010-07-21",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100721.html",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Subject headings, French"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "The language-qualified heading Subject headings, French was not given geographic subdivision; since Subject headings may be subdivided geographically, catalogers should post-coordinate Subject headings--[place] with Subject headings, [language] for works on subject headings in a given language and region."
+ },
+ {
+  "source_id": "psd-100804",
+  "date": "2010-08-04",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100804.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Interviews"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1100",
+   "H 1103",
+   "H 1105",
+   "H 1110"
+  ],
+  "decision": "added to list",
+  "note": "The subdivision --Interviews was added to the free-floating lists for classes of persons (H 1100), ethnic groups (H 1103), corporate bodies (H 1105) and individual persons (H 1110)."
+ },
+ {
+  "source_id": "psd-100804",
+  "date": "2010-08-04",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100804.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Doctrines",
+   "--History"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1185"
+  ],
+  "decision": "added to list",
+  "note": "The subdivisions --Doctrines--History were added to the free-floating list for religions (H 1185)."
+ },
+ {
+  "source_id": "psd-100804",
+  "date": "2010-08-04",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100804.html",
+  "kind": "heading",
+  "subdivisions": [
+   "--Foreign relations",
+   "--21st century"
+  ],
+  "patterns": [],
+  "headings": [
+   "France"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "France--Foreign relations--1995- already covers the period, so France--Foreign relations--21st century is not made as a heading; it is a UF of the existing heading."
+ },
+ {
+  "source_id": "psd-100811",
+  "date": "2010-08-11",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100811.html",
+  "kind": "heading",
+  "subdivisions": [
+   "--Coptic Church"
+  ],
+  "patterns": [],
+  "headings": [
+   "Monasticism and religious orders for women"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "Because the multiple subdivision --Anglican Communion, [Lutheran Church, etc.] exists under Monasticism and religious orders for women, the base heading is subdivided by denomination, e.g. Monasticism and religious orders for women--Coptic Church, rather than creating a new heading."
+ },
+ {
+  "source_id": "psd-100811",
+  "date": "2010-08-11",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100811.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Topic A] and [Topic B] in literature"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 310"
+  ],
+  "decision": "not approved",
+  "note": "Headings of the form [Topic A] and [Topic B] (SHM H 310) are not combined with phrases such as in literature, in art or in motion pictures; separate headings for each concept are assigned instead."
+ },
+ {
+  "source_id": "psd-100818",
+  "date": "2010-08-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100818.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Topic] and [Topic] in literature"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "The phrase in literature is not used with 'and' headings designating a reciprocal relationship between two topics (e.g. Children and death in literature); assign two separate headings such as Children in literature and Death in literature."
+ },
+ {
+  "source_id": "psd-100818",
+  "date": "2010-08-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100818.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Philosophy"
+  ],
+  "patterns": [],
+  "headings": [
+   "Cuban literature"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "The subdivision --Philosophy is free-floating under topical headings, so a proposal to establish Cuban literature--Philosophy was unnecessary."
+ },
+ {
+  "source_id": "psd-100825",
+  "date": "2010-08-25",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100825.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Urban residence"
+  ],
+  "patterns": [],
+  "headings": [
+   "Indians of North America"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Urban Indians is handled with Indians of [...]--Urban residence--[place] and/or Indians of North America--[place] (e.g. Indians of North America--Arizona--Phoenix); the subdivision --Urban residence is established for use under many individual tribes, and a separate heading Urban Indians was not approved."
+ },
+ {
+  "source_id": "psd-100908",
+  "date": "2010-09-08",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100908.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Christian authors"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1156"
+  ],
+  "decision": "added to list",
+  "note": "The subdivision --Christian authors was added to the free-floating list for literatures (H 1156)."
+ },
+ {
+  "source_id": "psd-100922",
+  "date": "2010-09-22",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100922.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Vocational education"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1100",
+   "H 1103"
+  ],
+  "decision": "added to list",
+  "note": "The subdivision --Vocational education (May Subd Geog) was added to the free-floating lists for classes of persons (H 1100) and ethnic groups (H 1103)."
+ },
+ {
+  "source_id": "psd-100922",
+  "date": "2010-09-22",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100922.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--History and criticism"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "The subdivision --History and criticism is free-floating under music form headings, so a proposal for Boleros (Music)--History and criticism was unnecessary."
+ },
+ {
+  "source_id": "psd-100922",
+  "date": "2010-09-22",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100922.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Fire"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "approved",
+  "note": "Headings for fires in individual buildings are formulated with the free-floating subdivision --Fire, [date] under the building heading (e.g. Richmond Theater (Richmond, Va.)--Fire, 1811) rather than as a separate heading for the fire."
+ },
+ {
+  "source_id": "psd-101006",
+  "date": "2010-10-06",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-101006.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "Islands of the [gulf]"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 807 sec. 1.c"
+  ],
+  "decision": "not approved",
+  "note": "Islands of the ... headings are established only for island groups in oceans and seas, not gulfs; for islands in a gulf use Islands--[country]--[gulf], e.g. Islands--Mexico--Gulf of California."
+ },
+ {
+  "source_id": "psd-101020",
+  "date": "2010-10-20",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-101020.html",
+  "kind": "heading",
+  "subdivisions": [
+   "--History"
+  ],
+  "patterns": [],
+  "headings": [
+   "Estonia"
+  ],
+  "shm_cited": [
+   "H 620 sec. 3.d.2"
+  ],
+  "decision": "resubmit",
+  "note": "A chronological subdivision such as Estonia--History--1200-1561 must express a generally recognized period of the place's history as shown by standard reference sources, not a period drawn from a book chapter title."
+ },
+ {
+  "source_id": "psd-101110",
+  "date": "2010-11-10",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-101110.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Calvinist authors"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1156"
+  ],
+  "decision": "added to list",
+  "note": "The subdivision --Calvinist authors was added to the free-floating list for literatures (H 1156)."
+ },
+ {
+  "source_id": "psd-101110",
+  "date": "2010-11-10",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-101110.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Topic] in folk literature"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "[Topic] in ... phrase headings are not made for individual genres of literature; the general pattern [Topic] in literature is used instead (e.g. Astronomy in literature)."
+ },
+ {
+  "source_id": "psd-101117",
+  "date": "2010-11-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-101117.html",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Composers"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "The heading Composers is not qualified by nationality adjectives (no Composers, Armenian); local subdivision is used instead, e.g. Composers--Armenia."
+ },
+ {
+  "source_id": "psd-101201",
+  "date": "2010-12-01",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-101201.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Reporting",
+   "--Monitoring"
+  ],
+  "patterns": [],
+  "headings": [
+   "Gays",
+   "Hate crimes"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "LC will not begin establishing the subdivisions --Reporting or --Monitoring under individual crimes (e.g. Gays--Violence against--Monitoring); post-coordinate headings such as Human rights monitoring or Citizen crime reporting with the crime heading."
+ },
+ {
+  "source_id": "psd-101208",
+  "date": "2010-12-08",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-101208.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Name of religion] philosophy--[period]"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1647 sec. 6"
+  ],
+  "decision": "changed",
+  "note": "SHM H 1647 sec. 6 on period subdivisions under philosophy headings will be revised to cover uninverted headings of the type [name of religion] philosophy (e.g. Jewish philosophy) as well as inverted headings."
+ },
+ {
+  "source_id": "psd-101208",
+  "date": "2010-12-08",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-101208.html",
+  "kind": "heading",
+  "subdivisions": [
+   "--History",
+   "--To 1763 (New France)",
+   "--To 1803"
+  ],
+  "patterns": [],
+  "headings": [
+   "Canada",
+   "Mississippi River Valley"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Works on New France continue to receive Canada--History--To 1763 (New France) and/or Mississippi River Valley--History--To 1803 rather than a separate New France--History heading."
+ },
+ {
+  "source_id": "psd-101215",
+  "date": "2010-12-15",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-101215.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Larvae",
+   "--Color",
+   "--Sex ratio"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1147"
+  ],
+  "decision": "added to list",
+  "note": "The subdivisions --Larvae--Color and --Sex ratio were added to the free-floating list for animals (H 1147)."
+ },
+ {
+  "source_id": "psd-101215",
+  "date": "2010-12-15",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-101215.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Fingering",
+   "--Positions"
+  ],
+  "patterns": [],
+  "headings": [
+   "Guitar"
+  ],
+  "shm_cited": [
+   "H 1161"
+  ],
+  "decision": "not approved",
+  "note": "The free-floating subdivision --Fingering under musical instruments (H 1161) includes the concept of positions, so Guitar--Fingering is used instead of Guitar--Positions; the existing Violin--Positions and Violoncello--Instruction and study--Positions were cancelled."
+ },
+ {
+  "source_id": "psd-110105",
+  "date": "2011-01-05",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-110105.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Seedlings",
+   "--Effect of flooding on"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1180"
+  ],
+  "decision": "added to list",
+  "note": "The subdivisions --Seedlings--Effect of flooding on (May Subd Geog) were added to the free-floating list for plants and crops (H 1180)."
+ },
+ {
+  "source_id": "psd-110105",
+  "date": "2011-01-05",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-110105.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Uzbek influences"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1156"
+  ],
+  "decision": "added to list",
+  "note": "The subdivision --Uzbek influences was added to the free-floating list for literatures (H 1156)."
+ },
+ {
+  "source_id": "psd-110105",
+  "date": "2011-01-05",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-110105.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--European influences"
+  ],
+  "patterns": [],
+  "headings": [
+   "Chinese poetry"
+  ],
+  "shm_cited": [
+   "H 1156",
+   "H 1675"
+  ],
+  "decision": "not necessary",
+  "note": "The subdivision --European influences is free-floating under headings for literary genres (H 1156), so a proposal for Chinese poetry--European influences was unnecessary; SHM H 1675 will be revised to clarify this."
+ },
+ {
+  "source_id": "psd-110105",
+  "date": "2011-01-05",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-110105.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Law and legislation"
+  ],
+  "patterns": [],
+  "headings": [
+   "Human trafficking"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "The subdivision --Law and legislation is not used under headings for individual crimes."
+ },
+ {
+  "source_id": "psd-110119",
+  "date": "2011-01-19",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-110119.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Individual species] culture"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Headings of the form [individual species] culture are not established; post-coordinate a general heading (e.g. Shrimp culture) with the heading for the specific organism."
+ },
+ {
+  "source_id": "psd-110119",
+  "date": "2011-01-19",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-110119.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Climatic factors",
+   "--Catch effort"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "The subdivisions --Climatic factors and --Catch effort are not established under headings for fisheries of individual species; use a general fishery heading with the subdivision post-coordinated with the species fishery, and existing species-level headings with these subdivisions will be cancelled."
+ },
+ {
+  "source_id": "psd-110202",
+  "date": "2011-02-02",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-110202.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[River] ([County] and [County], [State])"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 800 sec. 2.b"
+  ],
+  "decision": "changed",
+  "note": "In the qualifier of a river heading, counties are sequenced starting with the county where the river originates, and GNIS lists the mouth first and source last; Richland Creek was changed to (Greene County and Monroe County, Ind.)."
+ },
+ {
+  "source_id": "psd-110209",
+  "date": "2011-02-09",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-110209.html",
+  "kind": "heading",
+  "subdivisions": [
+   "--Collections",
+   "--20th century",
+   "--21st century"
+  ],
+  "patterns": [],
+  "headings": [
+   "American drama"
+  ],
+  "shm_cited": [
+   "H 1425",
+   "H 1780"
+  ],
+  "decision": "not approved",
+  "note": "American drama--20th century--Collections and --21st century--Collections conflict with SHM H 1425 and H 1780 and were not approved."
+ },
+ {
+  "source_id": "psd-110209",
+  "date": "2011-02-09",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-110209.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Officers' handbooks",
+   "--Soldiers' handbooks"
+  ],
+  "patterns": [],
+  "headings": [
+   "Military art and science"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Proposals to change the form subdivisions --Officers' handbooks and --Soldiers' handbooks were deferred pending the ALA SAC Genre/Form Implementation Subcommittee's review of form subdivisions."
+ },
+ {
+  "source_id": "psd-110216",
+  "date": "2011-02-16",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-110216.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Planning"
+  ],
+  "patterns": [],
+  "headings": [
+   "Municipal government"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Goal setting in the sense of strategic planning is expressed with the subdivision --Planning under the topic (Municipal government--Planning), not with a heading like Goal setting in municipal government."
+ },
+ {
+  "source_id": "psd-110216",
+  "date": "2011-02-16",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-110216.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Petty officers' handbooks"
+  ],
+  "patterns": [],
+  "headings": [
+   "United States. Navy"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "A proposal to change the form subdivision --Petty officers' handbooks was deferred pending the ALA SAC Genre/Form Implementation Subcommittee's review of form subdivisions."
+ },
+ {
+  "source_id": "psd-110223",
+  "date": "2011-02-23",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-110223.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--History",
+   "--To 1500",
+   "--15th century"
+  ],
+  "patterns": [],
+  "headings": [
+   "Accounting",
+   "Finance, Public"
+  ],
+  "shm_cited": [
+   "H 620 sec. 3.d.2"
+  ],
+  "decision": "not approved",
+  "note": "The 15th century is not a generally recognized period in the history of accounting or public finance, so use the free-floating --History--To 1500 rather than a new chronological subdivision such as --History--15th century."
+ },
+ {
+  "source_id": "psd-110223",
+  "date": "2011-02-23",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-110223.html",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Photography, Artistic"
+  ],
+  "shm_cited": [],
+  "decision": "changed",
+  "note": "Photography, Artistic is Not Subd Geog; a recent change to May Subd Geog was a mistake and was reversed."
+ },
+ {
+  "source_id": "psd-110223",
+  "date": "2011-02-23",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-110223.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "Exercise for [class of persons]"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Headings for exercise for special classes of persons are made only when the exercise itself differs substantially for the group and are not made by educational level; otherwise use Exercise for children or a similar heading with a heading for the class."
+ },
+ {
+  "source_id": "psd-110302",
+  "date": "2011-03-02",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-110302.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Motors (Diesel)",
+   "--Exhaust systems"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1109"
+  ],
+  "decision": "added to list",
+  "note": "The subdivisions --Motors (Diesel)--Exhaust systems were added to the free-floating list for land vehicles (H 1109)."
+ },
+ {
+  "source_id": "psd-110302",
+  "date": "2011-03-02",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-110302.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Catch effort",
+   "--Limited entry licenses"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "LC will not establish --Catch effort or --Limited entry licenses under headings for individual species fisheries; use a general fishery heading with the subdivision post-coordinated with the species fishery, and existing species-level headings will be cancelled."
+ },
+ {
+  "source_id": "psd-110302",
+  "date": "2011-03-02",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-110302.html",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Authors, Arab"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Authors, Arab may be subdivided geographically, which suffices; no nationality-specific headings or references such as Authors, Saudi Arabian are made for each country."
+ },
+ {
+  "source_id": "psd-110309",
+  "date": "2011-03-09",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-110309.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Planetary feature]--Geological mapping"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "LC does not wish to establish the pattern [planetary feature]--Geological mapping; post-coordinate the feature heading with Geological mapping."
+ },
+ {
+  "source_id": "psd-110309",
+  "date": "2011-03-09",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-110309.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Topic] and [Topic]"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 310"
+  ],
+  "decision": "not approved",
+  "note": "Headings in the form [topic] and [topic] are for relationships between two very general topics treated broadly from both perspectives (SHM H 310); other works are cataloged by post-coordinating the two topic headings, e.g. Religion and Cognitive science."
+ },
+ {
+  "source_id": "psd-110323",
+  "date": "2011-03-23",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-110323.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "College orations, [nationality]"
+  ],
+  "headings": [
+   "College orations"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "College orations is not qualified by nationality and LC will not start doing so; post-coordinate College orations with Speeches, addresses, etc., American."
+ },
+ {
+  "source_id": "psd-110323",
+  "date": "2011-03-23",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-110323.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Tomb"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1110"
+  ],
+  "decision": "not approved",
+  "note": "The free-floating subdivision --Tomb may be used under names of individual persons (H 1110), e.g. Mama Hatun, Queen of Erzurum, d. ca. 1201--Tomb, rather than establishing a separate heading for the tomb."
+ },
+ {
+  "source_id": "psd-110323",
+  "date": "2011-03-23",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-110323.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Selecting and serving"
+  ],
+  "patterns": [],
+  "headings": [
+   "Wine"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "The subdivision --Selecting and serving has never been used in LCSH and LC will not establish it (e.g. Wine--Selecting and serving)."
+ },
+ {
+  "source_id": "psd-110330",
+  "date": "2011-03-30",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-110330.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Sport or class of institution] qualified by type of institution"
+  ],
+  "headings": [
+   "College football"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "LCSH does not qualify headings for individual sports or kinds of schools by type of institution or ethnic group (e.g. College football, African American private universities and colleges); post-coordinate the separate headings."
+ },
+ {
+  "source_id": "psd-110330",
+  "date": "2011-03-30",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-110330.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Food"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1100"
+  ],
+  "decision": "not approved",
+  "note": "The subdivision --Food was not added to the list of topical subdivisions under classes of persons (H 1100); it may be proposed for use under a specific heading if needed."
+ },
+ {
+  "source_id": "psd-110330",
+  "date": "2011-03-30",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-110330.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Morale"
+  ],
+  "patterns": [],
+  "headings": [
+   "United States. Air Force"
+  ],
+  "shm_cited": [
+   "H 1159"
+  ],
+  "decision": "not approved",
+  "note": "The subdivision --Morale was not added to the pattern subdivision list for military services (H 1159); assign the military branch heading together with Military morale instead."
+ },
+ {
+  "source_id": "psd-110406",
+  "date": "2011-04-06",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-110406.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Research",
+   "--Law and legislation"
+  ],
+  "patterns": [],
+  "headings": [
+   "Blue crab fisheries"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Blue crab fisheries--Research--Law and legislation was not approved; post-coordinate Blue crab fisheries with Fisheries--Research--Law and legislation."
+ }
+]

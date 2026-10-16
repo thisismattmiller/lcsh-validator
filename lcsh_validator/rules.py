@@ -38,6 +38,68 @@ def sheet_key(s: str) -> str:
     return s
 
 
+_HEAD_RE = re.compile(r"^(#{2,4})\s*(.*?)\s*$", re.M)
+_LABEL_RE = re.compile(r"^([A-Z]|\d{1,2}|[a-z]|[ivx]+)(?:\.(\d{1,2}|[a-z]|\(\d+\)|[ivx]+))*\.?(?=\s)")
+
+
+def section_label(heading: str) -> str | None:
+    """'E.1. Authorized usage' -> 'E.1'; 'F. Topical Subdivisions' -> 'F'; '2. Use of ...' -> '2'; 'a. General' -> 'a'."""
+    m = _LABEL_RE.match(heading + " ")
+    return m.group(0).rstrip(".").strip() if m else None
+
+
+def label_rank(label: str) -> int:
+    """SHM outline order: A. > 1. > a. > (1)/i. ; a dotted label ('E.1') ranks by its last component."""
+    last = label.rsplit(".", 1)[-1]
+    if re.fullmatch(r"[A-Z]", last):
+        return 0
+    if re.fullmatch(r"\d{1,2}", last):
+        return 1
+    if re.fullmatch(r"[a-z]", last):
+        return 2
+    return 3
+
+
+def sheet_outline(body: str) -> list[dict]:
+    """Every heading of a sheet with its full outline id and the span of its text including its subsections:
+    [{id, own, heading, level, start, end, text_end}]. Subsections nest by deeper heading level or by a
+    lower-ranking label at the same level ('### 2.' then '### a.' -> '2.a'). `text_end` is where the section's
+    own text stops (the next heading); `end` is where its last descendant stops."""
+    heads = list(_HEAD_RE.finditer(body))
+    out: list[dict] = []
+    stack: list[tuple[int, int, int]] = []  # (level, rank, index into out)
+    for i, h in enumerate(heads):
+        level, title = len(h.group(1)), h.group(2)
+        text_end = heads[i + 1].start() if i + 1 < len(heads) else len(body)
+        label = section_label(title) if level >= 3 else None
+        if level == 2:
+            stack = []
+            full = None
+            rank = -1
+        elif label and "." in label:
+            while stack and not label.startswith((out[stack[-1][2]]["id"] or "") + "."):
+                stack.pop()
+            full, rank = label, label_rank(label)
+        elif label:
+            rank = label_rank(label)
+            while stack and (stack[-1][0] > level or (stack[-1][0] == level and stack[-1][1] >= rank)):
+                stack.pop()
+            full = f"{out[stack[-1][2]]['id']}.{label}" if stack else label
+        else:
+            full, rank = None, 3
+            while stack and stack[-1][0] >= level:
+                stack.pop()
+        node = {"id": full, "own": label, "heading": title, "level": level, "start": h.start(), "text_end": text_end, "end": text_end}
+        for _, _, j in stack:
+            out[j]["end"] = text_end
+        if level >= 3 and label:
+            stack.append((level, rank, len(out)))
+        out.append(node)
+    for o in out:
+        o["content_start"] = body.find("\n", o["start"]) + 1 if body.find("\n", o["start"]) >= 0 else len(body)
+    return out
+
+
 class Rules:
     def __init__(self):
         self.sheets: dict[str, dict] = {}
@@ -70,18 +132,19 @@ class Rules:
 
     @staticmethod
     def _section(body: str, name: str) -> str | None:
-        pat = re.compile(r"^(#{2,4})\s*(.*)$", re.M)
-        heads = list(pat.finditer(body))
-        for i, h in enumerate(heads):
-            if name.lower() in h.group(2).lower():
-                level = len(h.group(1))
-                end = len(body)
-                for h2 in heads[i + 1:]:
-                    if len(h2.group(1)) <= level:
-                        end = h2.start()
-                        break
-                return body[h.start():end].strip()
-        return None
+        """A section of a sheet by its outline id ('2.b', 'E.1'), its own label ('b', 'E') or a heading substring
+        ('Validation rules'). The text runs through the section's subsections, including those that the sheet marks
+        only by label style at the same heading level ('### 2.' followed by '### a.', '### b.')."""
+        outline = sheet_outline(body)
+        want = name.strip().rstrip(".").lower()
+        hit = next((o for o in outline if (o["id"] or "").lower() == want), None)
+        if not hit:
+            hit = next((o for o in outline if (o["own"] or "").lower() == want), None)
+        if not hit:
+            hit = next((o for o in outline if want in o["heading"].lower()), None)
+        if not hit:
+            return None
+        return body[hit["start"]:hit["end"]].strip()
 
     def toc(self) -> list[dict]:
         seen = set()

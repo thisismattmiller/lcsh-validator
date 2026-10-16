@@ -1,4 +1,4 @@
-/* LCSH Heading Validator web UI. Talks to the Lambda Function URL (config.js / Settings) and to
+/* Library of Congress Subject Heading Validator web UI. Talks to the Lambda Function URL (config.js / Settings) and to
    id.loc.gov directly (it sends Access-Control-Allow-Origin: *) for LCCN -> record -> subjects. */
 (() => {
   "use strict";
@@ -53,6 +53,8 @@
   function rules(text) {
     return window.LcshRules ? window.LcshRules.renderText(text) : document.createTextNode(String(text ?? ""));
   }
+  // the static intro's example citation gets the same hover target
+  document.querySelectorAll(".rule-ref-demo").forEach((d) => d.replaceChildren(rules(d.textContent)));
   function fmtTokens(u) {
     if (!u) return "";
     return `tokens in ${u.input_tokens} · cache read ${u.cache_read_input_tokens} · cache write ${u.cache_creation_input_tokens} · out ${u.output_tokens}`;

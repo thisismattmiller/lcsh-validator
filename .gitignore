@@ -15,3 +15,5 @@ data/raw/lcsh_marc2016/
 data/derived/geog_code_008_06.tsv
 data/derived/geog_code_008_06_idloc.tsv
 data/derived/lcsh_hidden.sqlite
+data/derived/lc_decisions/raw/
+data/derived/lc_decisions/text/

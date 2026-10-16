@@ -52,6 +52,21 @@ at the first clause that excludes the heading; a warning that doubts the usage w
 that clause is pushed back the same way. The verdict records what happened under `guardrails`
 (`pushback`, `rounds`, `unresolved`, `citations_removed`) and in `verdict_note`.
 
+LC decisions as practice notes (`rules/lc_decisions.json`). LC's subject policy office (PTCP; earlier PSD and
+CPSO) publishes a Summary of Decisions for every SACO list, weekly in 2005-2011 and monthly since, at
+https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoeditorial.html. Most entries are about whether a proposed
+heading should exist; a few per month decide how a subdivision or pattern may be used ("--Mixed descent
+is largely limited to headings for Indigenous people groups", "post-coordinate Satellites--Magnetic fields
+rather than start a [Named planetary body]--Magnetic fields pattern", additions to the free-floating
+lists). `scripts/fetch_lc_decisions.py` caches the summaries as text under `data/derived/lc_decisions/`;
+the string-construction decisions were extracted from them (one JSON list per batch, reviewed) and merged
+by `scripts/merge_lc_decisions.py` into `rules/lc_decisions.json`, each note keyed by the subdivisions,
+main headings or `--`-joined patterns it concerns and dated to its summary. When a heading under test uses
+one of those keys the analyzer attaches the note to the facts as `lc_decisions`, and the prompt tells the
+model to report it as an `lc_practice_note` citing "LC Summary of Decisions, <date>" and to raise a
+warning only when the decision bars the use the string makes. These are LC practice, not SHM rules, and
+are never cited as an H sheet.
+
 Lookups fold case, diacritics and the apostrophe-like characters ʻ ʼ ʿ ʾ ’ (so `Shīʿah` finds
 `Shīʻah`) and the facts then state the exact authorized spelling; a bare place name that also exists
 as differently qualified jurisdictions (`Rome` vs. `Rome (Italy)`) lists the other `$z` forms; a bare
@@ -100,6 +115,8 @@ uv run -I scripts/extract_marc_008.py data/raw/lcsh_marc2016/Subjects.2016.part0
 uv run python -I scripts/fetch_marc_008.py   # the 2016 files are a 2015-12-29 snapshot: reads the records created or changed since from id.loc.gov (MARCXML, 2 requests/s, resumable; ~5 h)
 uv run scripts/apply_geog_codes.py        # adds headings.geog_code to lcsh.sqlite (blank / i / | / n) from both files, see "Guardrails"
 uv run scripts/export_rules_json.py       # docs/rules/*.json: the SHM sheets and lists for the web page's rule popups
+uv run --with pypdf scripts/fetch_lc_decisions.py   # cache LC's Summaries of Decisions as text (sequential, polite)
+uv run scripts/merge_lc_decisions.py      # data/derived/lc_decisions/notes/*.json -> rules/lc_decisions.json
 uv run scripts/parse_free_floating.py     # SUBDIVISIONS.pdf text -> data/derived/free_floating_subdivisions.json
 uv run scripts/parse_shm_index.py         # SHM-Index.pdf -> rules/index/shm_index.json
 uv run scripts/lint_rules.py              # sanity-check rules/shm/*.md and rules/lists/*.json
@@ -272,6 +289,7 @@ rules/FORMAT.md                spec for the LLM-friendly rule files
 rules/shm/<sheet>.md           one file per sheet: YAML frontmatter, "Validation rules", "Full text"
 rules/lists/<sheet>.json       structured subdivision lists (H 1095, H 1100-H 1145.5, pattern lists H 1147-H 1200, H 362, H 1917.5)
 rules/index/shm_index.json     the SHM index as term -> sheets
+rules/lc_decisions.json        dated LC Summary-of-Decisions notes keyed by subdivision / heading / pattern
 lcsh_validator/parse.py        heading string / MARC parser
 lcsh_validator/db.py           SQLite access + id.loc.gov name authority (781 forms) with cache
 lcsh_validator/freefloating.py free-floating list + SHM list lookups
@@ -290,6 +308,7 @@ tests/headings.jsonl           headings with expected verdicts (eval set)
 tests/benchmarks/              known_valid.tsv / known_invalid.tsv from LC's validation records (see Benchmarks)
 scripts/build_benchmark.py     known-valid / known-invalid sets from LC's validation records (+ hidden DB copy)
 scripts/score_benchmark.py     false-positive rate and per-class recall -> reports/benchmark.md
+scripts/fetch_lc_decisions.py, merge_lc_decisions.py   LC Summaries of Decisions -> text cache -> rules/lc_decisions.json
 ```
 
 ## What the data can and cannot tell you

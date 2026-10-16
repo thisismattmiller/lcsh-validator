@@ -1,0 +1,1895 @@
+[
+ {
+  "source_id": "ptcp-221014",
+  "date": "2022-10-14",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-221014.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Early life",
+   "--Childhood and youth"
+  ],
+  "patterns": [],
+  "headings": [
+   "Muḥammad, Prophet, -632"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "The subdivision --Early life is a UF reference to the free-floating subdivision --Childhood and youth, so Muḥammad, Prophet, -632--Biography--Early life was not approved; use Muḥammad, Prophet, -632--Childhood and youth."
+ },
+ {
+  "source_id": "ptcp-221014",
+  "date": "2022-10-14",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-221014.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Genealogy",
+   "--Family"
+  ],
+  "patterns": [],
+  "headings": [
+   "Muḥammad, Prophet, -632"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "The subdivision --Genealogy is a UF reference to the free-floating subdivision --Family, so Muḥammad, Prophet, -632--Genealogy was not approved; use --Family."
+ },
+ {
+  "source_id": "ptcp-221014",
+  "date": "2022-10-14",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-221014.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Heisei period, 1989-",
+   "--Heisei period, 1989-2019"
+  ],
+  "patterns": [
+   "Japanese fiction--Heisei period",
+   "Japanese literature--Heisei period",
+   "Japanese poetry--Heisei period",
+   "Authors, Japanese--Heisei period",
+   "Japan--History--Heisei period"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "resubmit",
+  "note": "Proposals to close the date of the Heisei period (1989-2019) under Japanese fiction, Japanese literature, Japanese poetry, Authors, Japanese, and Japan--History should be submitted together and each must cite a work justifying the change; they were returned for resubmission."
+ },
+ {
+  "source_id": "ptcp-221014",
+  "date": "2022-10-14",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-221014.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Topic A] and [Topic B]"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "resubmit",
+  "note": "New headings of the form [Topic] and [Topic] must show reciprocal influence between the two topics; parallel developments alone are not enough (Television programs and comic books was returned for resubmission)."
+ },
+ {
+  "source_id": "ptcp-221118",
+  "date": "2022-11-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-221118.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Jewish authors",
+   "--Women authors"
+  ],
+  "patterns": [],
+  "headings": [
+   "Autobiographical comic books, strips, etc."
+  ],
+  "shm_cited": [
+   "H 1156"
+  ],
+  "decision": "not necessary",
+  "note": "Comic books, strips, etc. does not fall under the literature hierarchy and is not a major genre of literature, so author-group subdivisions such as --Jewish authors and --Women authors may not be used under it per H 1156."
+ },
+ {
+  "source_id": "ptcp-221118",
+  "date": "2022-11-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-221118.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Religious aspects"
+  ],
+  "patterns": [],
+  "headings": [
+   "Graphic novels"
+  ],
+  "shm_cited": [
+   "H 1998"
+  ],
+  "decision": "not necessary",
+  "note": "--Religious aspects is usually used to indicate that the topic plays some role in the practice of the religion (H 1998); Graphic novels--Religious aspects--Judaism was not necessary and Judaism in comics was suggested instead."
+ },
+ {
+  "source_id": "ptcp-221118",
+  "date": "2022-11-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-221118.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Religious aspects"
+  ],
+  "patterns": [],
+  "headings": [
+   "Virtue"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "--Religious aspects applies only to headings with no religious implications; Virtue--Religious aspects--Judaism was not necessary and the headings Virtue and Jewish ethics should be post-coordinated."
+ },
+ {
+  "source_id": "ptcp-221118",
+  "date": "2022-11-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-221118.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Law and legislation"
+  ],
+  "patterns": [],
+  "headings": [
+   "Islands",
+   "Fishery law and legislation"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "--Law and legislation applies to both domestic and international law, so Islands (International law) is not needed and Islands--Law and legislation should be used; likewise Fishery law and legislation covers both international and domestic fisheries, making the Fishery ... International--Law and legislation proposals unnecessary."
+ },
+ {
+  "source_id": "ptcp-221118",
+  "date": "2022-11-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-221118.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Seeds",
+   "--Collection and preservation"
+  ],
+  "patterns": [],
+  "headings": [
+   "Endemic plants"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Native seeds and Native seeds--Protection were not approved because the topic is covered by existing headings and free-floating subdivisions: Endemic plants--Seeds and Endemic plants--Seeds--Collection and preservation."
+ },
+ {
+  "source_id": "ptcp-221118",
+  "date": "2022-11-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-221118.html",
+  "kind": "pattern",
+  "subdivisions": [
+   "--Educational applications"
+  ],
+  "patterns": [
+   "Online social networks in education"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "resubmit",
+  "note": "For a work about educational practice, Online social networks--Educational applications was not accepted and the form Online social networks in education was suggested for a new proposal."
+ },
+ {
+  "source_id": "ptcp-221118",
+  "date": "2022-11-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-221118.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "Leadership, Asian Australian"
+  ],
+  "headings": [
+   "Leadership"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "LCSH does not use ethnic qualifiers of the form Leadership, Asian Australian for nations other than the United States."
+ },
+ {
+  "source_id": "ptcp-221118",
+  "date": "2022-11-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-221118.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Topic A] and [Topic B]"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 310 sec. 1"
+  ],
+  "decision": "not approved",
+  "note": "Per H 310 sec. 1, headings of the form [Topic A] and [Topic B] are established only when the work discusses the relationship from both perspectives in broad terms that a main heading and subdivision could not describe (Geological time and literature not approved; Judaism and comics unnecessary since influence ran one way)."
+ },
+ {
+  "source_id": "ptcp-221216",
+  "date": "2022-12-16",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-221216.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Specimens"
+  ],
+  "patterns": [],
+  "headings": [
+   "Artists' books"
+  ],
+  "shm_cited": [],
+  "decision": "changed",
+  "note": "Artists' books is now used only for works about books produced by artists as visual art objects; actual specimens of such books are entered under Artists' books--Specimens, following the pattern already established by Miniature books."
+ },
+ {
+  "source_id": "ptcp-221216",
+  "date": "2022-12-16",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-221216.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Study and teaching (Early childhood)"
+  ],
+  "patterns": [],
+  "headings": [
+   "Art"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "The subdivision --Study and teaching (Early childhood) is free-floating under subjects, so Art--Study and teaching (Early childhood) needs no proposal."
+ },
+ {
+  "source_id": "ptcp-221216",
+  "date": "2022-12-16",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-221216.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--History and criticism",
+   "--History"
+  ],
+  "patterns": [],
+  "headings": [
+   "Calligraphy, Korean"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Calligraphy, Korean--History and criticism overlaps significantly with the existing Calligraphy, Korean--History; catalogers should use --History."
+ },
+ {
+  "source_id": "ptcp-221216",
+  "date": "2022-12-16",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-221216.pdf",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Topic] in board games"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "There is no precedent in LCSH for headings of the type [topic] in board games and LC did not wish to begin the pattern; assign Board games and the topic heading (e.g. Imperialism) instead."
+ },
+ {
+  "source_id": "ptcp-221216",
+  "date": "2022-12-16",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-221216.pdf",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--In video games"
+  ],
+  "patterns": [],
+  "headings": [
+   "West (U.S.)"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "LC preferred not to establish a new free-floating subdivision --In video games (proposed as West (U.S.)--In video games); a heading such as Western stories in video games could be considered instead."
+ },
+ {
+  "source_id": "ptcp-221216",
+  "date": "2022-12-16",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-221216.pdf",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Uzbekistan"
+  ],
+  "shm_cited": [],
+  "decision": "resubmit",
+  "note": "Proposals for new period subdivisions (e.g. Uzbekistan--Intellectual life--1970-1991) need 670 citations showing why the dates were chosen and how they relate to the history or conditions of the place."
+ },
+ {
+  "source_id": "ptcp-221216",
+  "date": "2022-12-16",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-221216.pdf",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Nineteen twenty-three, A.D."
+  ],
+  "shm_cited": [
+   "H 620 sec. 2.c"
+  ],
+  "decision": "not approved",
+  "note": "A specific year heading is not assigned when the work has a topical focus (H 620 sec. 2.c); a work on Germany in 1923 gets Germany--History--1918-1933 instead."
+ },
+ {
+  "source_id": "ptcp-221216",
+  "date": "2022-12-16",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-221216.pdf",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Topic A] and [Topic B]"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 310"
+  ],
+  "decision": "resubmit",
+  "note": "Social justice and sports was returned because it did not adequately justify a new heading of the form [Topic A] and [Topic B]; H 310 gives the instructions for such headings."
+ },
+ {
+  "source_id": "ptcp-2301",
+  "date": "2023-01",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2301.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Vocational guidance"
+  ],
+  "patterns": [],
+  "headings": [
+   "Street food vendors"
+  ],
+  "shm_cited": [
+   "H 2232"
+  ],
+  "decision": "resubmit",
+  "note": "Street food vendors, as a class of person, cannot take the free-floating subdivision --Vocational guidance per H 2232, so Street food vendors--Vocational guidance is not a valid string for a vocational guide for street-food businesses."
+ },
+ {
+  "source_id": "ptcp-2302",
+  "date": "2023-02",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2302.pdf",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Law, Čālo (African people)"
+  ],
+  "shm_cited": [],
+  "decision": "resubmit",
+  "note": "The heading for the law of a people group should be formulated as Law, Čālo, without the parenthetical qualifier of the people-group heading."
+ },
+ {
+  "source_id": "ptcp-2302",
+  "date": "2023-02",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2302.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Religious aspects",
+   "--Religious life"
+  ],
+  "patterns": [],
+  "headings": [
+   "Deafblind people"
+  ],
+  "shm_cited": [
+   "H 1100",
+   "H 2015.5"
+  ],
+  "decision": "not approved",
+  "note": "Deafblind people--Religious aspects--Judaism was not approved; per H 1100 and H 2015.5 the topic receives Deafblind people--Religious life and Jewish way of life."
+ },
+ {
+  "source_id": "ptcp-2302",
+  "date": "2023-02",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2302.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Religious aspects"
+  ],
+  "patterns": [],
+  "headings": [
+   "Eggs"
+  ],
+  "shm_cited": [
+   "H 1998"
+  ],
+  "decision": "resubmit",
+  "note": "H 1998 says --Religious aspects applies to works discussing a topic from the religious standpoint, such as its occurrence as a theme in religious beliefs and practices, its importance in doctrine, or the general relationship between the topic and religion; Eggs--Religious aspects--Judaism was doubtful for a work on eggs in synagogue architectural details."
+ },
+ {
+  "source_id": "ptcp-2302",
+  "date": "2023-02",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2302.pdf",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Topic A] and [Topic B]"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "resubmit",
+  "note": "Language and age was returned because it did not treat the relationship at a broad level from the perspective of both topics (age groups' use of language as well as how language treats age groups); [Topic A] and [Topic B] headings require reciprocal treatment."
+ },
+ {
+  "source_id": "ptcp-2302",
+  "date": "2023-02",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2302.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Pronunciation"
+  ],
+  "patterns": [],
+  "headings": [
+   "Language and languages",
+   "Languages, Modern"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "Language and languages--Pronunciation is not used; assign Languages, Modern--Pronunciation instead."
+ },
+ {
+  "source_id": "ptcp-2302",
+  "date": "2023-02",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2302.pdf",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Name of event], Korea, [date span]"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1592"
+  ],
+  "decision": "resubmit",
+  "note": "A heading for an event or series of events such as Korean literati purges should be established per H 1592 in the form [Name of event], Korea, [date span], with broader terms such as Korea--History--1392-1637 or Korea--Intellectual life--1392-1910."
+ },
+ {
+  "source_id": "ptcp-2302",
+  "date": "2023-02",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2302.pdf",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Literary form], Spanish American",
+   "[Literary form], Latin American"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "resubmit",
+  "note": "Hypertext poetry, Spanish American is appropriate only if all the poems are in Spanish and from Latin America; otherwise the heading should be Hypertext poetry, Latin American."
+ },
+ {
+  "source_id": "ptcp-2303",
+  "date": "2023-03",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2303.pdf",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Clergy"
+  ],
+  "shm_cited": [
+   "H 350"
+  ],
+  "decision": "not necessary",
+  "note": "African clergy is unnecessary per H 350, and Clergy--Africa needs no proposal because Clergy may be subdivided geographically; use Clergy--Africa and Clergy--Europe."
+ },
+ {
+  "source_id": "ptcp-2303",
+  "date": "2023-03",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2303.pdf",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Banks and banking",
+   "Youth"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "For a work about banking in Kyrgyzstan use Banks and banking--Kyrgyzstan, not an ethnic-adjective heading such as Banks and banking, Kyrgyz, which fits only banks or bankers of that group outside the country; likewise Uzbek youth in Uzbekistan is Youth--Uzbekistan."
+ },
+ {
+  "source_id": "ptcp-2303",
+  "date": "2023-03",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2303.pdf",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[People group]--[People group] influences"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Chuvash (Turkic people)--Mari influences and Mari (European people)--Chuvash influences were not approved; for interaction of two cultures post-coordinate the two people-group headings with Ethnic relations."
+ },
+ {
+  "source_id": "ptcp-2303",
+  "date": "2023-03",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2303.pdf",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Euboea Island (Greece : Region)"
+  ],
+  "shm_cited": [
+   "H 760"
+  ],
+  "decision": "not approved",
+  "note": "H 760 instructs not to construct regional headings based on islands, so a region heading based on Euboea Island was not approved."
+ },
+ {
+  "source_id": "ptcp-2303",
+  "date": "2023-03",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2303.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Wars"
+  ],
+  "patterns": [],
+  "headings": [
+   "Metis"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "LCSH does not use people groups subdivided by --Wars (e.g. Metis--Wars) as broader terms on headings for wars or battles."
+ },
+ {
+  "source_id": "ptcp-2304",
+  "date": "2023-04",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2304.pdf",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Benga (Music)"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "Music headings of the type Benga (Music) are already geographically subdividable, so a proposal to establish Benga (Music)--Nairobi Area (Kenya) was not necessary."
+ },
+ {
+  "source_id": "ptcp-2304",
+  "date": "2023-04",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2304.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Relations with women"
+  ],
+  "patterns": [],
+  "headings": [
+   "Drug dealers"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "The subdivision --Relations with women is meant to be used only under names of individual persons or groups of literary authors; although free-floating subdivisions can be editorially established under topical headings, Drug dealers--Relationships with women was not approved and post-coordination with Interpersonal relations was advised."
+ },
+ {
+  "source_id": "ptcp-2304",
+  "date": "2023-04",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2304.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--On postage stamps"
+  ],
+  "patterns": [],
+  "headings": [
+   "Azerbaijan"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "A work about a place on postage stamps is covered by the existing free-floating structure, e.g. Azerbaijan--On postage stamps, so a separate heading was not necessary."
+ },
+ {
+  "source_id": "ptcp-2304",
+  "date": "2023-04",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2304.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Religious aspects"
+  ],
+  "patterns": [
+   "[Topic A] and [Topic B]"
+  ],
+  "headings": [
+   "National security"
+  ],
+  "shm_cited": [
+   "H 310"
+  ],
+  "decision": "not necessary",
+  "note": "Headings of the form [Topic A] and [Topic B] must show a two-way relationship (H 310); a work on the influence of religion on national security is described by National security--Religious aspects, so Religion and national security was not necessary."
+ },
+ {
+  "source_id": "ptcp-2304",
+  "date": "2023-04",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2304.pdf",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Topic] in comics"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "resubmit",
+  "note": "A standard requirement to establish a [Topic] in comics heading is that the topic heading itself is already established; White race identity in comics was returned pending a proposal for White race identity."
+ },
+ {
+  "source_id": "ptcp-2304",
+  "date": "2023-04",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2304.pdf",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Topic] in art"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "[Topic] in art headings convey a theme in art; they are inappropriate where the cited work merely used the topic (e.g. clippings) as material in creating the artwork."
+ },
+ {
+  "source_id": "ptcp-2305",
+  "date": "2023-05",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2305.pdf",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "Discrimination against [class of persons]"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "The pattern Discrimination against [class of persons] does not extend to groups that are not classes of persons, so Discrimination against labor unions was not approved."
+ },
+ {
+  "source_id": "ptcp-2305",
+  "date": "2023-05",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2305.pdf",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "World music"
+  ],
+  "shm_cited": [],
+  "decision": "changed",
+  "note": "The geographic subdivision coding of World music was changed from indirect to no attempt, and the heading was kept rather than changed to Global music."
+ },
+ {
+  "source_id": "ptcp-2305",
+  "date": "2023-05",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2305.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Bicycle industry"
+  ],
+  "patterns": [],
+  "headings": [
+   "Strikes and lockouts"
+  ],
+  "shm_cited": [
+   "H 2100"
+  ],
+  "decision": "resubmit",
+  "note": "For a work about a particular strike, propose the individual strike as its own heading (H 2100 has instructions for a strike against a single company) rather than Strikes and lockouts--Bicycle industry."
+ },
+ {
+  "source_id": "ptcp-2305",
+  "date": "2023-05",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2305.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Folklore"
+  ],
+  "patterns": [],
+  "headings": [
+   "Uzbeks"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "The subdivision --Folklore is free-floating and may be used under ethnic groups without editorial establishment (Uzbeks--Folklore)."
+ },
+ {
+  "source_id": "ptcp-2306",
+  "date": "2023-06",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2306.pdf",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Fingerpicking"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1161",
+   "H 1916.3 sec. 3.k"
+  ],
+  "decision": "added to list",
+  "note": "Per H 1916.3 sec. 3.k, specific performance techniques are expressed as subdivisions under musical instrument headings, so Fingerpicking was not approved as a heading and --Fingerpicking was added to the H 1161 pattern list for musical instruments."
+ },
+ {
+  "source_id": "ptcp-2306",
+  "date": "2023-06",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2306.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Participation, Chinese",
+   "--Participation"
+  ],
+  "patterns": [],
+  "headings": [
+   "Olympics"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Following the existing pattern, when Olympics--Participation is followed by a comma the nationality, not the nation, is used: Olympics--Participation, Chinese, not Olympics--Participation, Hong Kong (China)."
+ },
+ {
+  "source_id": "ptcp-2306",
+  "date": "2023-06",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2306.pdf",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Merchant mariners"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "Merchant mariners is already authorized for geographic subdivision, so Merchant mariners--Africa, West needs no editorial establishment."
+ },
+ {
+  "source_id": "ptcp-2306",
+  "date": "2023-06",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2306.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Social life and customs"
+  ],
+  "patterns": [],
+  "headings": [
+   "Korea"
+  ],
+  "shm_cited": [
+   "H 620 sec. 3"
+  ],
+  "decision": "resubmit",
+  "note": "A proposal for a new period subdivision such as Korea--Social life and customs--1637-1864 must give the dates of the period (here the late Chosun Dynasty); see H 620 sec. 3 for establishing period subdivisions."
+ },
+ {
+  "source_id": "ptcp-2307",
+  "date": "2023-07",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2307.pdf",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Symbolic aspects"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1180"
+  ],
+  "decision": "added to list",
+  "note": "--Symbolic aspects was added to the H 1180 pattern list for plants and crops (established under the pattern heading Corn)."
+ },
+ {
+  "source_id": "ptcp-2307",
+  "date": "2023-07",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2307.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Symbolic aspects"
+  ],
+  "patterns": [],
+  "headings": [
+   "Kola nuts"
+  ],
+  "shm_cited": [
+   "H 1180"
+  ],
+  "decision": "not necessary",
+  "note": "Kola nuts falls within the scope of the H 1180 pattern list for plants and crops, so a subdivision such as --Symbolic aspects is established under the pattern heading Corn and Kola nuts--Symbolic aspects needs no proposal."
+ },
+ {
+  "source_id": "ptcp-2307",
+  "date": "2023-07",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2307.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Violence against"
+  ],
+  "patterns": [],
+  "headings": [
+   "Indians of North America"
+  ],
+  "shm_cited": [
+   "H 1103"
+  ],
+  "decision": "not necessary",
+  "note": "--Violence against is free-floating under ethnic groups per H 1103, so Indians of North America--Violence against needs no proposal."
+ },
+ {
+  "source_id": "ptcp-2307",
+  "date": "2023-07",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2307.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Crimes against",
+   "--Violence against"
+  ],
+  "patterns": [],
+  "headings": [
+   "Indigenous children",
+   "Indigenous women"
+  ],
+  "shm_cited": [
+   "H 1100"
+  ],
+  "decision": "not necessary",
+  "note": "--Crimes against and --Violence against are free-floating under classes of persons per H 1100, so they need no proposal under Indigenous children or Indigenous women."
+ },
+ {
+  "source_id": "ptcp-2307",
+  "date": "2023-07",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2307.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Crimes against",
+   "--Violence against"
+  ],
+  "patterns": [],
+  "headings": [
+   "Missing children",
+   "Missing persons",
+   "Murder victims"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "LCSH has no precoordinated headings for missing persons, missing children or murder victims under ethnic, national, religious, sexual or gendered classes; works on missing and murdered Indigenous women, girls or persons are assigned several headings, often with --Crimes against and --Violence against under Missing persons, Murder victims, Indigenous women and similar headings."
+ },
+ {
+  "source_id": "ptcp-2307",
+  "date": "2023-07",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2307.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Boiler technicians",
+   "--Chaplains",
+   "--Flight surgeons"
+  ],
+  "patterns": [],
+  "headings": [
+   "Military linguists"
+  ],
+  "shm_cited": [
+   "H 1159"
+  ],
+  "decision": "resubmit",
+  "note": "Specialized military professions such as --Boiler technicians, --Chaplains and --Flight surgeons are subdivisions on the H 1159 pattern list for military services; a new one should be proposed as a pattern subdivision, or as a subdivision under one branch if unique to it, e.g. United States. Navy--Cryptologic technicians."
+ },
+ {
+  "source_id": "ptcp-2307",
+  "date": "2023-07",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2307.pdf",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Topic] in technology"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "LCSH has no pattern [Topic] in technology and LC does not wish to begin one; post-coordinate, e.g. Human rights with Information technology--Social aspects or Technology and law."
+ },
+ {
+  "source_id": "ptcp-2307",
+  "date": "2023-07",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2307.pdf",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Topic] in art"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "[Topic] in art headings are assigned to discussions of the topic as a theme in art works or to reproductions of art works depicting it, not to works where the topic's physical object is the medium (petri dishes) or to an artist's book that is itself the artwork (Whirlpools in art), which gets the topic heading plus the genre term Artists' books."
+ },
+ {
+  "source_id": "ptcp-2307",
+  "date": "2023-07",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2307.pdf",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Topic A] and [Topic B]"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 310"
+  ],
+  "decision": "not approved",
+  "note": "Headings in the form [Topic] and [topic] are for works discussing the relationship between two very general topics at a broad level and from the perspectives of both topics (H 310); a one-sided critique such as Sexual minorities and musicals is post-coordinated (e.g. Musicals--History and criticism, Queer theory, Sexual minorities in literature)."
+ },
+ {
+  "source_id": "ptcp-2307",
+  "date": "2023-07",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2307.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Film adaptations"
+  ],
+  "patterns": [],
+  "headings": [
+   "Comic books, strips, etc."
+  ],
+  "shm_cited": [],
+  "decision": "withdrawn",
+  "note": "Proposals for Comic books, strips, etc. and Comic books, strips, etc.--Film adaptations were withdrawn because a new pattern instruction sheet for comics is being created and they will be reviewed in that wider context."
+ },
+ {
+  "source_id": "ptcp-2308",
+  "date": "2023-08",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2308.pdf",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Strikes and lockouts"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Event headings must be for one named event at a discrete point in time and place; several coal miners' strikes over multiple years cannot be grouped into one event heading (Coal Miners' Strike, Batu Arang, Malaysia, 1936-1947) and each identifiable strike needs its own proposal."
+ },
+ {
+  "source_id": "ptcp-2308",
+  "date": "2023-08",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2308.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Civilization",
+   "--Social life and customs"
+  ],
+  "patterns": [],
+  "headings": [
+   "Estonia"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "Estonia--Social life and customs--20th century and Estonia--Civilization--20th century can be formed with free-floating subdivisions; considerably more justification is required to establish a specific time period under --Civilization (Estonia--Civilization--1918-1940 was not necessary)."
+ },
+ {
+  "source_id": "ptcp-2308",
+  "date": "2023-08",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2308.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--History"
+  ],
+  "patterns": [],
+  "headings": [
+   "Glass art"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Glass art is a type of fine art and therefore should not use the subdivision --History, so Glass art--China--History and Glass art--China--History--To 221 B.C. were not approved."
+ },
+ {
+  "source_id": "ptcp-2308",
+  "date": "2023-08",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2308.pdf",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Topic] in literature"
+  ],
+  "headings": [
+   "Human beings"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "A [Topic] in literature heading cannot be built on Human beings--Extinction (not even from its UF reference), so Human extinction in literature was not approved and post-coordination was suggested."
+ },
+ {
+  "source_id": "ptcp-2308",
+  "date": "2023-08",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2308.pdf",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Nigeria, Northeast"
+  ],
+  "shm_cited": [
+   "H 760 sec. 1.e"
+  ],
+  "decision": "resubmit",
+  "note": "Per H 760 sec. 1.e, a region based on a directional qualifier must be well defined and recognized as such in English-language reference sources; the extent of Nigeria, Northeast was not documented."
+ },
+ {
+  "source_id": "ptcp-2308",
+  "date": "2023-08",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2308.pdf",
+  "kind": "pattern",
+  "subdivisions": [
+   "--Specimens"
+  ],
+  "patterns": [
+   "[Topic] in art"
+  ],
+  "headings": [
+   "Artists' books"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "[Topic] in art is for discussions of the topic as a theme in art works or reproductions of such works; where the cataloged work is itself an artist's book, assign the topic heading with the genre term Artists' books or the subject heading Artists' books--Specimens."
+ },
+ {
+  "source_id": "ptcp-2309",
+  "date": "2023-09",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2309.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--History",
+   "--To 935"
+  ],
+  "patterns": [],
+  "headings": [
+   "Decoration and ornament",
+   "Sculpture, Korean"
+  ],
+  "shm_cited": [
+   "H 1148"
+  ],
+  "decision": "not approved",
+  "note": "H 1148 provides specific period subdivisions for Korean art forms; use Decoration and ornament--Korea--History--To 935 and Sculpture, Korean--To 935 rather than the ancient-art forms Decoration and ornament, Ancient--Korea or Sculpture, Ancient--Korea."
+ },
+ {
+  "source_id": "ptcp-2309",
+  "date": "2023-09",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2309.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Diseases and pests",
+   "--Control",
+   "--Sterilization"
+  ],
+  "patterns": [],
+  "headings": [
+   "Grapefruit"
+  ],
+  "shm_cited": [
+   "H 1180"
+  ],
+  "decision": "not necessary",
+  "note": "Sterilization of plants to control pests falls under the H 1180 pattern subdivisions for plants and crops, giving Grapefruit--Diseases and pests--Control and Grapefruit--Diseases and pests--Control--Law and legislation; Grapefruit--Sterilization is not needed."
+ },
+ {
+  "source_id": "ptcp-2309",
+  "date": "2023-09",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2309.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Books and reading"
+  ],
+  "patterns": [],
+  "headings": [
+   "Intellectuals"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "The subdivision --Books and reading (May Subd Geog) is free-floating under classes of persons, so Intellectuals--Books and reading--Brazil needs no proposal."
+ },
+ {
+  "source_id": "ptcp-2310",
+  "date": "2023-10",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2310.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--White authors",
+   "--Male authors"
+  ],
+  "patterns": [],
+  "headings": [
+   "American fiction",
+   "Feminist poetry"
+  ],
+  "shm_cited": [
+   "H 1156 sec. II"
+  ],
+  "decision": "not necessary",
+  "note": "Per H 1156 section II, --White authors and --Male authors are free-floating under any literature or major genre of a literature; use American fiction--White authors or Feminist poetry--Male authors rather than Authors, White or an Authors-style heading."
+ },
+ {
+  "source_id": "ptcp-2310",
+  "date": "2023-10",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2310.pdf",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Class of persons], [Ethnic qualifier]"
+  ],
+  "headings": [
+   "Motion picture actors and actresses"
+  ],
+  "shm_cited": [
+   "H 351 sec. 2.a",
+   "H 350 sec. 1"
+  ],
+  "decision": "not approved",
+  "note": "Only ethnic groups of the United States and Indian groups take ethnic qualifiers in direct order (H 351 sec. 2.a), and H 350 sec. 1 says not to use adjectival qualifiers for jurisdictions or regions with classes of persons; use geographic subdivision instead, e.g. Motion picture actors and actresses--Arab countries."
+ },
+ {
+  "source_id": "ptcp-2310",
+  "date": "2023-10",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2310.pdf",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Cagayan River Watershed (Luzon, Philippines)"
+  ],
+  "shm_cited": [
+   "H 800 sec. 9"
+  ],
+  "decision": "not approved",
+  "note": "Headings for river basins use the term watershed; basin is reserved for geological basins (H 800 sec. 9), so Cagayan River Basin was not approved because Cagayan River Watershed (Luzon, Philippines) exists."
+ },
+ {
+  "source_id": "ptcp-2310",
+  "date": "2023-10",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2310.pdf",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Topic A] and [Topic B]"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 310 sec. 1"
+  ],
+  "decision": "not approved",
+  "note": "New [Topic A] and [Topic B] headings are proposed only when the work discusses the relationship from both perspectives (H 310 sec. 1); one-way influence (youth on civil society, social media on musical theater) is handled by post-coordination, e.g. Civil society--Uzbekistan with Young adults--Uzbekistan."
+ },
+ {
+  "source_id": "ptcp-2310",
+  "date": "2023-10",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2310.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--History",
+   "--To 935"
+  ],
+  "patterns": [
+   "[Art form], Silla"
+  ],
+  "headings": [
+   "Goldwork",
+   "Relief (Sculpture)"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Instead of Goldwork, Silla or Relief (Sculpture), Silla, use the subject arrays Goldwork--Korea--History--To 935 and Relief (Sculpture)--Korea--To 935, each with Silla (Kingdom)--Civilization; the Ancient and Korean form headings were not needed."
+ },
+ {
+  "source_id": "ptcp-2310",
+  "date": "2023-10",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2310.pdf",
+  "kind": "pattern",
+  "subdivisions": [
+   "--History"
+  ],
+  "patterns": [
+   "[Place]--History--[Event], [date]"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1592 sec. 5"
+  ],
+  "decision": "resubmit",
+  "note": "Per H 1592 sec. 5, events that represent a momentous occurrence in the history of a place are formulated as subdivisions in the form [Place]--History--[Name of event], [date] (e.g. for the Hirak movement in Algeria)."
+ },
+ {
+  "source_id": "ptcp-2310",
+  "date": "2023-10",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2310.pdf",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "Dwellings--[place]"
+  ],
+  "headings": [
+   "Dwellings"
+  ],
+  "shm_cited": [
+   "H 1334 sec. 4.b"
+  ],
+  "decision": "not necessary",
+  "note": "Because determining what is a mansion is subjective, use Dwellings--[place] rather than Mansions--[place] for dwellings that may be described as mansions (H 1334 sec. 4.b)."
+ },
+ {
+  "source_id": "ptcp-2310",
+  "date": "2023-10",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2310.pdf",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Popular music"
+  ],
+  "shm_cited": [
+   "H 870 sec. 3.a"
+  ],
+  "decision": "not necessary",
+  "note": "Per H 870 sec. 3.a, a geographic subdivision may be interposed between the main heading and a chronological subdivision to represent the music of a place in a certain time, so Popular music--Vietnam--2011-2020 is formed from Popular music--2011-2020 and needs no proposal."
+ },
+ {
+  "source_id": "ptcp-2310",
+  "date": "2023-10",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2310.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Rating of"
+  ],
+  "patterns": [],
+  "headings": [
+   "Translators"
+  ],
+  "shm_cited": [
+   "H 1100"
+  ],
+  "decision": "not necessary",
+  "note": "--Rating of is a free-floating subdivision under classes of persons (H 1100), so Translators--Rating of can be used without editorial establishment."
+ },
+ {
+  "source_id": "ptcp-2311",
+  "date": "2023-11",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2311.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Study and teaching"
+  ],
+  "patterns": [],
+  "headings": [
+   "Korea (South)"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "The subdivision --Study and teaching is free-floating under names of places, so Korea (South)--Study and teaching needs no proposal."
+ },
+ {
+  "source_id": "ptcp-2311",
+  "date": "2023-11",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2311.pdf",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Legends"
+  ],
+  "shm_cited": [
+   "H 1627 sec. 2.c"
+  ],
+  "decision": "not approved",
+  "note": "Legends, qualified by the name of a religion, may be subdivided geographically (H 1627 sec. 2.c), so ethnic-adjective headings such as Oirat legends or Kalmyk legends were not approved."
+ },
+ {
+  "source_id": "ptcp-2311",
+  "date": "2023-11",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2311.pdf",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Dance",
+   "Marriage customs and rites",
+   "Wedding dances"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "Because these headings may be subdivided geographically, use Dance--Uzbekistan, Marriage customs and rites--Uzbekistan and Wedding dances--Uzbekistan instead of nationality-adjective headings such as Uzbek dance."
+ },
+ {
+  "source_id": "ptcp-2311",
+  "date": "2023-11",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2311.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Social life and customs",
+   "--Customs and practices"
+  ],
+  "patterns": [],
+  "headings": [
+   "Uzbeks"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "Works on the customs of a nationality within its own country can be assigned a heading of the type [place]--Social life and customs, so Uzbeks--Customs and practices was not necessary."
+ },
+ {
+  "source_id": "ptcp-2311",
+  "date": "2023-11",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2311.pdf",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Topic A] and [Topic B]"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 310"
+  ],
+  "decision": "resubmit",
+  "note": "A proposal for a [Topic] and [Topic] heading (Science and youth, Tourism and crafts) must support the reciprocal relationship between both topics; see H 310."
+ },
+ {
+  "source_id": "ptcp-2311",
+  "date": "2023-11",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2311.pdf",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Tajikistan, Northern"
+  ],
+  "shm_cited": [
+   "H 760 sec. 1.e.(6)"
+  ],
+  "decision": "resubmit",
+  "note": "Region headings with directional qualifiers must meet H 760 sec. 1.e.(6), including citing English-language reference sources and not only the non-English work being cataloged."
+ },
+ {
+  "source_id": "ptcp-2312",
+  "date": "2023-12",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2312.pdf",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Painting, Abstract",
+   "Painters"
+  ],
+  "shm_cited": [
+   "H 1250"
+  ],
+  "decision": "not approved",
+  "note": "Per H 1250 a work on Korean abstract painters gets Painting, Abstract--Korea--20th century--Exhibitions and Painters--Korea (South)--Exhibitions; headings for painters are not based on style, since the art form is what is qualified by the style or movement."
+ },
+ {
+  "source_id": "ptcp-2312",
+  "date": "2023-12",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2312.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Diaries",
+   "--Patients"
+  ],
+  "patterns": [],
+  "headings": [
+   "Cancer"
+  ],
+  "shm_cited": [
+   "H 1538"
+  ],
+  "decision": "resubmit",
+  "note": "H 1538 gives the instructions for headings for diaries; a patient's diary is assigned strings such as Cancer--Patients--Diaries (not a Cancer patients' writings, Japanese heading), optionally with the genre term Diaries."
+ },
+ {
+  "source_id": "ptcp-2312",
+  "date": "2023-12",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2312.pdf",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Topic] in sociology"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "[Topic] in sociology headings have been used for works about the methodology of the discipline; for the influence of a topic on the field of sociology assign an array such as Imperialism, Sociology--Philosophy, Postcolonialism."
+ },
+ {
+  "source_id": "ptcp-2312",
+  "date": "2023-12",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2312.pdf",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Topic A] and [Topic B]"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 310"
+  ],
+  "decision": "not approved",
+  "note": "Music and yoga and Copyright and artificial intelligence were not approved because the reciprocal relationship between the two topics was not shown (H 310); post-coordinate, e.g. Copyright with Artificial intelligence--Law and legislation."
+ },
+ {
+  "source_id": "ptcp-2312",
+  "date": "2023-12",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2312.pdf",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Subject] scholars"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "In the pattern for [Class of persons] scholars headings, the qualifier indicates the topic of the person's scholarship, not nationality, ethnicity or identity, so Uighur women scholars was not approved."
+ },
+ {
+  "source_id": "ptcp-2312",
+  "date": "2023-12",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2312.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Underground movements"
+  ],
+  "patterns": [],
+  "headings": [
+   "World War, 1939-1945"
+  ],
+  "shm_cited": [
+   "H 1592 sec. 4.c"
+  ],
+  "decision": "not approved",
+  "note": "Per H 1592 sec. 4.c, a broader term for a type of event should be a topical heading subdivided by the country where the event occurred; an underground movement is not an event type, so World War, 1939-1945--Underground movements--Malaysia was not approved as a broader term."
+ },
+ {
+  "source_id": "ptcp-2401",
+  "date": "2024-01",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2401.pdf",
+  "kind": "pattern",
+  "subdivisions": [
+   "--Government policy"
+  ],
+  "patterns": [
+   "[Topic] and state"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1642"
+  ],
+  "decision": "not approved",
+  "note": "Do not establish new [Topic] and state phrase headings; since 1980 the free-floating subdivision --Government policy is used in lieu of such phrase headings (H 1642)."
+ },
+ {
+  "source_id": "ptcp-2401",
+  "date": "2024-01",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2401.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Boiler technicians",
+   "--Chaplains",
+   "--Flight surgeons"
+  ],
+  "patterns": [],
+  "headings": [
+   "Linguists"
+  ],
+  "shm_cited": [
+   "H 1159",
+   "H 1146"
+  ],
+  "decision": "resubmit",
+  "note": "Specialized military professions are entered under the H 1159 pattern subdivisions for military services; a new one may be proposed as a pattern subdivision (see H 1146) or, if unique to a branch, as a subdivision under that branch, e.g. United States. Navy--Cryptologic technicians."
+ },
+ {
+  "source_id": "ptcp-2401",
+  "date": "2024-01",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2401.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Aids and devices",
+   "--Study and teaching"
+  ],
+  "patterns": [],
+  "headings": [
+   "Physics",
+   "Teaching"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Physics--Study and teaching--Aids and devices was not approved; post-coordinate Physics--Study and teaching with Teaching--Aids and devices."
+ },
+ {
+  "source_id": "ptcp-2401",
+  "date": "2024-01",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2401.pdf",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Topic A] and [Topic B]"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 310"
+  ],
+  "decision": "not approved",
+  "note": "People with mental disabilities and music and Women and land tenure lacked a demonstrated reciprocal relationship between the topics (H 310); Women--Effect of land tenure on was suggested instead."
+ },
+ {
+  "source_id": "ptcp-2402",
+  "date": "2024-02",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2402.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Models"
+  ],
+  "patterns": [],
+  "headings": [
+   "Castles",
+   "Mosques",
+   "Stūpas",
+   "Toranas"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "The free-floating subdivision --Models applies only to select types of subject headings (works on physical or working models); with other base headings the combination must be editorially established, and the work cataloged must show that the LCSH definition of models is represented, which was not shown for Castles, Mosques, Stūpas or Toranas."
+ },
+ {
+  "source_id": "ptcp-2403",
+  "date": "2024-03",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2403.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Psychology"
+  ],
+  "patterns": [
+   "[Psychological concept] in [class of persons]"
+  ],
+  "headings": [
+   "Sexual minority men"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Precoordinated headings for psychological concepts in specific classes of persons are established only for men, women, and age groups; assign Body image in men and Sexual minority men--Psychology, since --Psychology is free-floating under classes of persons."
+ },
+ {
+  "source_id": "ptcp-2403",
+  "date": "2024-03",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2403.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Education",
+   "--Home care"
+  ],
+  "patterns": [],
+  "headings": [
+   "Children with cerebral palsy",
+   "People with cerebral palsy"
+  ],
+  "shm_cited": [
+   "H 1100"
+  ],
+  "decision": "cancelled",
+  "note": "Established headings such as Children with cerebral palsy--Education and --Home care were deleted because --Education and --Home care are free-floating under classes of persons (H 1100)."
+ },
+ {
+  "source_id": "ptcp-2403",
+  "date": "2024-03",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2403.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Economic conditions",
+   "--Employment",
+   "--Institutional care",
+   "--Social conditions"
+  ],
+  "patterns": [],
+  "headings": [
+   "Deaf people",
+   "Teachers of deaf people"
+  ],
+  "shm_cited": [
+   "H 1100"
+  ],
+  "decision": "cancelled",
+  "note": "Headings such as Deaf people--Employment, Deaf people--Institutional care and Teachers of deaf people--Economic conditions/--Social conditions were deleted because those subdivisions are free-floating under classes of persons (H 1100)."
+ },
+ {
+  "source_id": "ptcp-2403",
+  "date": "2024-03",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2403.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Periodicals"
+  ],
+  "patterns": [],
+  "headings": [
+   "Deaf people"
+  ],
+  "shm_cited": [],
+  "decision": "cancelled",
+  "note": "Deaf people--Periodicals was deleted because the form subdivision --Periodicals is free-floating under subjects."
+ },
+ {
+  "source_id": "ptcp-2403",
+  "date": "2024-03",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2403.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Study and teaching"
+  ],
+  "patterns": [],
+  "headings": [
+   "Contraception"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Works on the study of a subject are generally assigned headings of the type [topic]--Study and teaching, so Contraception--Study and teaching is used rather than a heading such as Contraceptive education."
+ },
+ {
+  "source_id": "ptcp-2403",
+  "date": "2024-03",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2403.pdf",
+  "kind": "pattern",
+  "subdivisions": [
+   "--Words for"
+  ],
+  "patterns": [
+   "[Topic]--Words for",
+   "[Topic], Words for"
+  ],
+  "headings": [
+   "Crusades"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "LC prefers not to continue the patterns [Topic]--Words for and [Topic], Words for; assign Crusades--History and Language and languages--Etymology instead."
+ },
+ {
+  "source_id": "ptcp-2403",
+  "date": "2024-03",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2403.pdf",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Baseball"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "There is no precedent for establishing historical eras for individual sports (Deadball Era, 1901-1919 was not approved); assign Baseball--United States--History--20th century."
+ },
+ {
+  "source_id": "ptcp-2403",
+  "date": "2024-03",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2403.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Politics and government"
+  ],
+  "patterns": [],
+  "headings": [
+   "Pakistan"
+  ],
+  "shm_cited": [
+   "H 620 sec. 3.d.2"
+  ],
+  "decision": "resubmit",
+  "note": "Separately established chronological subdivisions (e.g. Pakistan--Politics and government--1988-2001 and --2001-) may be proposed only for a generally recognized period shown by authority research or frequently treated in works on the place (H 620 sec. 3.d.2)."
+ },
+ {
+  "source_id": "ptcp-2405",
+  "date": "2024-05",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2405.pdf",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Copula"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1154"
+  ],
+  "decision": "added to list",
+  "note": "--Copula was added to the H 1154 pattern list for languages."
+ },
+ {
+  "source_id": "ptcp-2405",
+  "date": "2024-05",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2405.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--In bookplates"
+  ],
+  "patterns": [],
+  "headings": [
+   "Egypt"
+  ],
+  "shm_cited": [
+   "H 1140"
+  ],
+  "decision": "not necessary",
+  "note": "The free-floating subdivision --In bookplates may be used under countries (H 1140), so Egypt--In bookplates needs no proposal."
+ },
+ {
+  "source_id": "ptcp-2405",
+  "date": "2024-05",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2405.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Songs and music"
+  ],
+  "patterns": [],
+  "headings": [
+   "Rotary International"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "Songs of a corporate body are covered by the free-floating subdivision --Songs and music under the name of the body, so use Rotary International--Songs and music rather than a heading such as Rotary songs."
+ },
+ {
+  "source_id": "ptcp-2405",
+  "date": "2024-05",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2405.pdf",
+  "kind": "pattern",
+  "subdivisions": [
+   "--Therapeutic use"
+  ],
+  "patterns": [
+   "[Element] in music therapy"
+  ],
+  "headings": [
+   "Sound recordings"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "LCSH has no pattern combining a specific element with the phrase in music therapy and PTCP does not wish to start one; use Sound recordings--Therapeutic use together with Music therapy."
+ },
+ {
+  "source_id": "ptcp-2406",
+  "date": "2024-06",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2406.pdf",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Nineteen twenty-four, A.D."
+  ],
+  "shm_cited": [
+   "H 620 sec. 2.c"
+  ],
+  "decision": "not necessary",
+  "note": "General headings for centuries, years and other periods are used only for general works on the time period, not works limited to a specific topic (H 620 sec. 2.c); a work on musical theater in 1924 does not take the year heading."
+ },
+ {
+  "source_id": "ptcp-2406",
+  "date": "2024-06",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2406.pdf",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "Racial profiling in law enforcement",
+   "[Type of] profiling in law enforcement"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "LC does not want to continue the Racial profiling in law enforcement pattern for religious, ethnic or other types of profiling (Religious profiling in law enforcement not approved); use Discrimination in law enforcement with post-coordinated headings."
+ },
+ {
+  "source_id": "ptcp-2407",
+  "date": "2024-07",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2407.pdf",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Topic] in art"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 910",
+   "H 1250",
+   "H 1935"
+  ],
+  "decision": "not approved",
+  "note": "The [Topic] in art phrase technique designates textual materials that discuss or illustrate a subject as an artistic theme; applying it to original pictorial materials (e.g. Reindeer in art, Sleds in art) implies a value judgment and is too specific for LCSH, so such proposals should go to the Thesaurus for Graphic Materials; PTCP will review H 910, H 1250 and H 1935 against TGM."
+ },
+ {
+  "source_id": "ptcp-2407",
+  "date": "2024-07",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2407.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Mixed descent",
+   "--Ethnic identity"
+  ],
+  "patterns": [],
+  "headings": [
+   "Hawaiians"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Because of conflicting and pejorative definitions of Hapa, proposals for --Ethnic identity strings under Asians, Hawaiians, Pacific Islanders and Racially mixed people were not approved; PTCP suggested proposing Hawaiians--Mixed descent for the cited work."
+ },
+ {
+  "source_id": "ptcp-2408",
+  "date": "2024-08",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2408.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Religious aspects"
+  ],
+  "patterns": [],
+  "headings": [
+   "Animal sacrifice"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Animal sacrifice is inherently religious, so there is no need to establish it editorially with the free-floating subdivision --Religious aspects (e.g. Animal sacrifice--Religious aspects--Islam); Animal sacrifice (Islamic law), Animal sacrifice--Islam or Islam--Customs and practices can be used."
+ },
+ {
+  "source_id": "ptcp-2408",
+  "date": "2024-08",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2408.pdf",
+  "kind": "pattern",
+  "subdivisions": [
+   "--Influence on English literature"
+  ],
+  "patterns": [
+   "[Language]--Influence on [Literature]"
+  ],
+  "headings": [
+   "English literature"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "LCSH has no pattern in which a language heading is subdivided by the literature it influences, and PTCP does not wish to create one, particularly for a free-floating pattern subdivision under all literatures; English literature--Hebrew influences and similar strings remain the form."
+ },
+ {
+  "source_id": "ptcp-2408",
+  "date": "2024-08",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2408.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Influence"
+  ],
+  "patterns": [],
+  "headings": [
+   "English literature"
+  ],
+  "shm_cited": [
+   "H 1675"
+  ],
+  "decision": "not approved",
+  "note": "H 1675: the free-floating subdivision --Influence may be used only under names of individual persons and authors, corporate bodies, sects or religions, uniform titles of works, forms and movements in the literary and visual arts, types and individual organizations and individual wars; English literature--Influence was not approved and strings like Short stories, Russian--American influences were suggested."
+ },
+ {
+  "source_id": "ptcp-2408",
+  "date": "2024-08",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2408.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Religious life",
+   "--Religious aspects"
+  ],
+  "patterns": [],
+  "headings": [
+   "Sexual minorities",
+   "Sexual orientation"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "The free-floating subdivision --Religious life should be used with classes of persons, so Sexual minorities--Religious aspects--Buddhism was not approved; consider Sexual minorities--Religious life--Southeast Asia post-coordinated with Buddhism--Customs and practices."
+ },
+ {
+  "source_id": "ptcp-2408",
+  "date": "2024-08",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/ptcp-2408.pdf",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Slurs"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "changed",
+  "note": "Resources about words considered slurs are assigned the heading for the language subdivided by --Slurs; such strings must be editorially established because --Slurs is not a free-floating subdivision."
+ }
+]

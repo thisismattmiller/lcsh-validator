@@ -113,7 +113,7 @@ footer { margin-top: 24px; color: var(--muted); }
 }
 
 /* rule citation popups (rules.js) */
-.rule-ref, .rule-ref-demo { text-decoration: underline dotted; text-underline-offset: 2px; cursor: help; border-radius: 3px; }
+.rule-ref { text-decoration: underline dotted; text-underline-offset: 2px; cursor: help; border-radius: 3px; }
 .rule-ref:hover, .rule-ref:focus { background: var(--code-bg); outline: none; }
 #rule-pop { position: absolute; z-index: 50; max-height: 70vh; overflow: auto; background: var(--card); color: var(--ink); border: 1px solid var(--line);
   border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.18); padding: 12px 14px; font-size: 0.88rem; line-height: 1.45; }
@@ -128,3 +128,4 @@ footer { margin-top: 24px; color: var(--muted); }
 #rule-pop .rp-rules li { margin: 2px 0; }
 #rule-pop .rp-foot { color: var(--muted); font-size: 0.78rem; margin-top: 8px; border-top: 1px solid var(--line); padding-top: 6px; }
 ul.lc-practice .verdict-note { color: var(--muted); }
+#rule-pop .rp-sub-sec { margin-top: .6em; font-size: .92em; padding-left: .8em; border-left: 2px solid var(--line, #ddd); }

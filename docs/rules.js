@@ -64,6 +64,17 @@
     if (!hit) { const first = want.split(".")[0]; hit = doc.sections.find((s) => (s.id || "").toLowerCase() === first); }
     return hit || null;
   }
+  function secHead(sec) {
+    const h = sec.heading || "";
+    const own = sec.own || "";
+    const title = h.startsWith(own + ".") ? h.slice(own.length + 1).trim() : h;
+    return `sec. ${sec.id}` + (title ? ` — ${title}` : "");
+  }
+  /* direct subsections of `id`: '2' -> 2.a, 2.b, 2.c (not 2.a.(1)) */
+  function children(doc, id) {
+    const depth = String(id).split(".").length + 1;
+    return (doc.sections || []).filter((s) => s.id && s.id.startsWith(id + ".") && s.id.split(".").length === depth);
+  }
   function findEntry(doc, subdivision) {
     if (!subdivision || !doc.list || !doc.list.entries) return null;
     const ents = doc.list.entries;
@@ -139,8 +150,22 @@
       }
     }
     if (sec && !(entry && /^[FG]$/.test(sec.id || ""))) {
-      p.append(el("div", "rp-sec", `sec. ${sec.id}` + (sec.heading && !sec.heading.startsWith(sec.own + ".") ? ` — ${sec.heading}` : ` — ${sec.heading.slice(sec.own.length + 1).trim()}`)));
-      p.append(md(clip(sec.text, 2400)));
+      p.append(el("div", "rp-sec", secHead(sec)));
+      if ((sec.text || "").trim()) p.append(md(clip(sec.text, 2400)));
+      // a section that only introduces its subsections ("2. Chronological subdivisions." then a./b./c.), or a
+      // cited label that was not found and fell back to its parent: show the subsections too
+      const exact = !ref.section || (sec.id || "").toLowerCase() === ref.section.toLowerCase();
+      if (!exact) p.append(el("p", "rp-warn", `Section "${ref.section}" was not found on this sheet; showing sec. ${sec.id}.`));
+      if (!exact || !(sec.text || "").trim()) {
+        let budget = 3000;
+        for (const k of children(doc, sec.id)) {
+          if (budget <= 0) break;
+          p.append(el("div", "rp-sec rp-sub-sec", secHead(k)));
+          const t = clip(k.text, Math.min(1400, budget));
+          budget -= t.length;
+          p.append(md(t));
+        }
+      }
     } else if (!entry) {
       if (ref.section) p.append(el("p", "rp-warn", `Section "${ref.section}" was not found on this sheet; showing the sheet summary.`));
       if (doc.summary) p.append(el("p", null, doc.summary));

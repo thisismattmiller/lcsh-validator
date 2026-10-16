@@ -4,6 +4,9 @@ Produces a JSON-serializable "facts" report that the Haiku agent reasons over.
 """
 from __future__ import annotations
 
+import json
+from pathlib import Path
+
 import re
 
 from .db import LCSHDB
@@ -71,6 +74,25 @@ def _summ(h: dict) -> dict:
                                   "example_note", "editorial_note", "deletion_note", "pattern_collections", "use_instead", "earlier_forms", "gac") if h.get(k) not in (None, "", [], 0)}
 
 
+
+def _pattern_matches(pattern: str, norm_elements: list[str]) -> bool:
+    parts = [normalize_label(p) for p in pattern.split("--")]
+    if not parts or len(parts) > len(norm_elements) or all(p.startswith("[") for p in parts):
+        return False  # a template with no literal element ("[Nationality]--[Foreign country]") would match everything
+
+    def one(p: str, e: str) -> bool:
+        m = re.fullmatch(r"\[[^\]]*\]\s*(.*)", p)
+        if m:
+            tail = m.group(1).strip()
+            return True if not tail else e.endswith(" " + tail) or e == tail
+        return p == e
+
+    for start in range(len(norm_elements) - len(parts) + 1):
+        if all(one(p, norm_elements[start + k]) for k, p in enumerate(parts)):
+            return True
+    return False
+
+
 class Analyzer:
     ART_STYLE_QUALIFIERS = {"Modern", "Medieval", "Ancient", "Abstract", "Baroque", "Renaissance", "Gothic", "Romanesque", "Primitive", "Prehistoric",
                             "Classical", "Rococo", "Victorian", "Colonial", "Byzantine", "Early Christian", "Outsider", "Naive", "Erotic", "Psychedelic",
@@ -81,6 +103,14 @@ class Analyzer:
     def __init__(self, db: LCSHDB, ff: FreeFloating):
         self.db = db
         self.ff = ff
+        # dated LC decisions on SACO proposals (Summaries of Decisions) tied to a subdivision, heading or pattern
+        self.lc_decisions_notes: list[dict] = []
+        path = Path(__file__).resolve().parent.parent / "rules/lc_decisions.json"
+        if path.exists():
+            try:
+                self.lc_decisions_notes = json.loads(path.read_text(encoding="utf-8")).get("notes", [])
+            except (OSError, ValueError):
+                self.lc_decisions_notes = []
 
     # ------------------------------------------------------------------ main heading
     def main_heading(self, text: str, tag: str | None) -> dict:
@@ -519,6 +549,7 @@ class Analyzer:
                 if e.get("established") and e.get("record_id"):
                     e["next_element_note"] = f"--{given[1]} continues the indirect geographic chain {'--'.join(given)} (one place, H 830 sec. C); the geographic coding of {e['record_id']} does not bar it."
         report["rule_checks"] = self.rule_checks(parsed, report, subs)
+        report["lc_decisions"] = self.lc_decisions(elements)
         return report
 
     # ------------------------------------------------------------------ explicit prohibitions (deterministic)
@@ -533,6 +564,45 @@ class Analyzer:
     PHRASE_SUBDIVS = {"in literature": "in literature", "in art": "in art", "in motion pictures": "in motion pictures", "in mass media": "in mass media",
                       "in music": "in music", "in popular culture": "in popular culture", "on television": "on television",
                       "on postage stamps": "on postage stamps", "in the bible": "in the Bible", "in the press": "in the press"}
+
+    LC_DECISIONS_MAX = 6
+
+    def lc_decisions(self, elements: list[str]) -> list[dict]:
+        """Summaries-of-Decisions notes whose subdivision, heading or pattern occurs in this string. A pattern is
+        a '--'-joined template: a literal element must match exactly, '[Topic]' matches any element and
+        '[Field] applications' matches an element ending in those words; the template's elements must be consecutive."""
+        norm = [normalize_label(e) for e in elements]
+        out = []
+        for n in self.lc_decisions_notes:
+            matched = []
+            kind = n.get("kind")
+            # a decision about specific headings attaches only to those headings; one about a pattern only by the pattern
+            if kind not in ("heading", "pattern"):
+                for sub in n.get("subdivisions") or []:
+                    k = normalize_label(sub.lstrip("-"))
+                    if k in norm[1:]:
+                        matched.append(sub)
+            if kind != "pattern":
+                for h in n.get("headings") or []:
+                    if normalize_label(h) == norm[0] or normalize_label(h) == normalize_label("--".join(elements[:2])):
+                        matched.append(h)
+            if kind in ("pattern", None, "other"):
+                for pat in n.get("patterns") or []:
+                    if _pattern_matches(pat, norm):
+                        matched.append(pat)
+            if matched:
+                heading_hit = any(not m.startswith("--") and "--" not in m for m in matched)
+                out.append({"matched_on": matched, "date": n.get("date"), "source": n.get("source_id"), "url": n.get("url"),
+                            "kind": n.get("kind"), "decision": n.get("decision"), "shm_cited": n.get("shm_cited") or [], "note": n.get("note"),
+                            "_rank": (heading_hit, len(matched), n.get("date") or "")})
+        # a common subdivision (--History) carries dozens of decisions: keep the most specific and recent few
+        out.sort(key=lambda x: x["_rank"], reverse=True)
+        kept = out[:self.LC_DECISIONS_MAX]
+        for x in kept:
+            x.pop("_rank")
+        if len(out) > len(kept):
+            kept.append({"note": f"{len(out) - len(kept)} further decisions on these subdivisions not shown (older or less specific).", "omitted": len(out) - len(kept)})
+        return kept
 
     def rule_checks(self, parsed: ParsedHeading, report: dict, subs: list[dict]) -> list[dict]:
         """Explicit prohibitions from the SHM that can be tested mechanically. Each hit is a finding the model must address;

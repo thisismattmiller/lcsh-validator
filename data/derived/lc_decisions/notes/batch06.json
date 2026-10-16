@@ -1,0 +1,563 @@
+[
+ {
+  "source_id": "090211",
+  "date": "2009-02-11",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090211.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Quarantine"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1147"
+  ],
+  "decision": "added to list",
+  "note": "--Quarantine (May Subd Geog) is added to the free-floating list for animals."
+ },
+ {
+  "source_id": "090211",
+  "date": "2009-02-11",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090211.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Prohibited books"
+  ],
+  "patterns": [],
+  "headings": [
+   "Latin America"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Latin America--Discovery and exploration--Prohibited books was not approved; the two topics are to be brought out with two separate headings rather than pre-coordinated in one string."
+ },
+ {
+  "source_id": "090225",
+  "date": "2009-02-25",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090225.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Relations with heterosexuals"
+  ],
+  "patterns": [
+   "[Specific sexual minority]--Relations with heterosexuals"
+  ],
+  "headings": [
+   "Sexual minorities"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Sexual minorities--Relations with heterosexuals was not approved as inherently contradictory; the --Relations with heterosexuals pattern is used under specific sexual minorities (e.g., Gay men--Relations with heterosexuals) and more may be proposed."
+ },
+ {
+  "source_id": "090304",
+  "date": "2009-03-04",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090304.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Scottish, [Spanish, Welsh, etc.]"
+  ],
+  "patterns": [],
+  "headings": [
+   "Names, Personal"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "Because the multiple subdivision --Scottish, [Spanish, Welsh, etc.] is established under Names, Personal, constructions such as Names, Personal--Japanese are free-floating and need no proposal."
+ },
+ {
+  "source_id": "090311",
+  "date": "2009-03-11",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090311.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Social aspects",
+   "--Humor",
+   "--Social conditions",
+   "--Social life and customs"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1095",
+   "H 1100",
+   "H 1103",
+   "H 1140"
+  ],
+  "decision": "added to list",
+  "note": "The subdivision --Humor is added as a form subdivision after --Social aspects (H 1095) and after --Social conditions and --Social life and customs on the lists for classes of persons (H 1100), ethnic groups (H 1103) and places (H 1140)."
+ },
+ {
+  "source_id": "090311",
+  "date": "2009-03-11",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090311.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Buildings",
+   "--Remodeling for other use"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1151"
+  ],
+  "decision": "added to list",
+  "note": "--Buildings--Remodeling for other use is added to the free-floating list for individual schools."
+ },
+ {
+  "source_id": "090311",
+  "date": "2009-03-11",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090311.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Officials and employees"
+  ],
+  "patterns": [],
+  "headings": [
+   "Labor unions"
+  ],
+  "shm_cited": [
+   "H 1095"
+  ],
+  "decision": "changed",
+  "note": "The note for --Officials and employees in H 1095 is amended: use it under countries, cities, etc., individual international and governmental agencies, types of government agencies and types of labor unions, and further subdivide by place only when used under countries, cities, etc."
+ },
+ {
+  "source_id": "090318",
+  "date": "2009-03-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090318.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Operating room technicians"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1159"
+  ],
+  "decision": "added to list",
+  "note": "--Operating room technicians is added to the free-floating list for military services."
+ },
+ {
+  "source_id": "090318",
+  "date": "2009-03-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090318.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Census, [date]"
+  ],
+  "patterns": [],
+  "headings": [
+   "United States"
+  ],
+  "shm_cited": [
+   "H 1366"
+  ],
+  "decision": "changed",
+  "note": "Under United States use --Census, [date] without an ordinal number (not --Census, 1st, 1970), in line with censuses of other countries; H 1366 is being revised."
+ },
+ {
+  "source_id": "090401",
+  "date": "2009-04-01",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090401.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Ayurvedic treatment"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1150"
+  ],
+  "decision": "added to list",
+  "note": "--Ayurvedic treatment (May Subd Geog) is added to the free-floating list for diseases."
+ },
+ {
+  "source_id": "090401",
+  "date": "2009-04-01",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090401.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Substance] in [process]"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Headings combining any substance with its role in a process (e.g., Amino acids in fermentation) are not desirable because they could be formed for every instance; assign the substance heading post-coordinated with the process heading."
+ },
+ {
+  "source_id": "090422",
+  "date": "2009-04-22",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090422.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Relations with heterosexuals"
+  ],
+  "patterns": [],
+  "headings": [
+   "Gays"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Gays--Relations with heterosexuals was not needed because Gay men--Relations with heterosexuals and Lesbians--Relations with heterosexuals are both established and can be assigned instead."
+ },
+ {
+  "source_id": "090429",
+  "date": "2009-04-29",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090429.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "Songs ([Voice]) with [instrument]"
+  ],
+  "headings": [
+   "Songs (Medium voice)"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "Music headings combining a vocal term with an instrument as medium of performance (e.g., Songs (Medium voice) with mandolin) generally do not need to be established."
+ },
+ {
+  "source_id": "090506",
+  "date": "2009-05-06",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090506.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Environmental aspects"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1151.5"
+  ],
+  "decision": "added to list",
+  "note": "--Environmental aspects is added to the free-floating list for types of schools."
+ },
+ {
+  "source_id": "090513",
+  "date": "2009-05-13",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090513.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Identity"
+  ],
+  "patterns": [],
+  "headings": [
+   "Jews"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Jews, Syrian--Identity was not approved; the practice of assigning Jews--Identity post-coordinated with a heading for the specific group of Jews is sufficient."
+ },
+ {
+  "source_id": "090520",
+  "date": "2009-05-20",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090520.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Quantifiers"
+  ],
+  "patterns": [],
+  "headings": [
+   "Spanish language"
+  ],
+  "shm_cited": [
+   "H 1154"
+  ],
+  "decision": "not necessary",
+  "note": "Under H 1154 the subdivision --Quantifiers free-floats under headings for individual languages and groups of languages, so Spanish language--Quantifiers needs no proposal."
+ },
+ {
+  "source_id": "090603",
+  "date": "2009-06-03",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090603.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Seedlings"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1180"
+  ],
+  "decision": "added to list",
+  "note": "--Seedlings (with --Diseases and pests following it) is added to the free-floating list for plants."
+ },
+ {
+  "source_id": "090617",
+  "date": "2009-06-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090617.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Quantifiers"
+  ],
+  "patterns": [],
+  "headings": [
+   "Spanish language"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "The subdivision --Quantifiers is free-floating under individual languages, so Spanish language--Quantifiers needs no proposal."
+ },
+ {
+  "source_id": "090624",
+  "date": "2009-06-24",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090624.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [],
+  "patterns": [
+   "Popular music--[place]"
+  ],
+  "headings": [
+   "Popular music"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Headings of the type [topic]--[place], such as Popular music--Brazil, are not coded May Subd Geog; authorization for geographic subdivision is given only in the main heading."
+ },
+ {
+  "source_id": "090701",
+  "date": "2009-07-01",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090701.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Psychological aspects"
+  ],
+  "patterns": [],
+  "headings": [
+   "Music"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "--Psychological aspects is free-floating under most topical headings, and LC does not wish to start a pattern of UFs in the form Psychology of [topic] on every heading using it; a general see reference is made instead."
+ },
+ {
+  "source_id": "090715",
+  "date": "2009-07-15",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090715.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Readings with music"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1095"
+  ],
+  "decision": "added to list",
+  "note": "The form subdivision --Readings with music is added to the H 1095 free-floating list."
+ },
+ {
+  "source_id": "090715",
+  "date": "2009-07-15",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090715.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Readings with music"
+  ],
+  "patterns": [],
+  "headings": [
+   "Latvian poetry"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "Latvian poetry--Readings with music needs no proposal because --Readings with music is free-floating."
+ },
+ {
+  "source_id": "090729",
+  "date": "2009-07-29",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090729.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--20th century"
+  ],
+  "patterns": [],
+  "headings": [
+   "Netherlands Antilles fiction (Dutch)",
+   "Netherlands Antilles fiction (English)",
+   "Netherlands Antilles fiction (Spanish)"
+  ],
+  "shm_cited": [
+   "H 1156 sec. I"
+  ],
+  "decision": "not approved",
+  "note": "Period subdivisions are not used under headings for literary genres modified by a parenthetical language qualifier, so Netherlands Antilles fiction (Dutch)--20th century and similar strings were not approved."
+ },
+ {
+  "source_id": "090819",
+  "date": "2009-08-19",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090819.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--In motion pictures"
+  ],
+  "patterns": [],
+  "headings": [
+   "Andalusia (Spain)"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "--In motion pictures is free-floating under places, so Andalusia (Spain)--In motion pictures needs no proposal."
+ },
+ {
+  "source_id": "090819",
+  "date": "2009-08-19",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090819.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Civilians"
+  ],
+  "patterns": [],
+  "headings": [
+   "Arab-Israeli conflict",
+   "Lebanon War, 2008"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "--Civilians is not to be established under individual wars because it overlaps existing subdivisions such as --Civilian relief, --War work, --Social aspects, --Social conditions and --Economic conditions, despite the approval of Civilians in war."
+ },
+ {
+  "source_id": "090826",
+  "date": "2009-08-26",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090826.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Inspection",
+   "--Sanitation"
+  ],
+  "patterns": [],
+  "headings": [
+   "Cruise ships"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "--Inspection and --Sanitation are free-floating and valid under Cruise ships, so both can be assigned and a combined heading Sanitation inspections of cruise ships is not needed."
+ },
+ {
+  "source_id": "090902",
+  "date": "2009-09-02",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090902.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Land tenure"
+  ],
+  "patterns": [],
+  "headings": [
+   "Alaska Natives"
+  ],
+  "shm_cited": [
+   "H 1103"
+  ],
+  "decision": "not approved",
+  "note": "The concept of Alaska Native land transfers is covered by Alaska Natives--Land tenure, which follows the H 1103 ethnic-group subdivision list; assign that string instead."
+ },
+ {
+  "source_id": "090909",
+  "date": "2009-09-09",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090909.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Virus diseases",
+   "--Viruses"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1180"
+  ],
+  "decision": "added to list",
+  "note": "--Virus diseases (May Subd Geog) and --Viruses (May Subd Geog) are added to the free-floating list for plants and crops."
+ },
+ {
+  "source_id": "090909",
+  "date": "2009-09-09",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090909.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Fuel tanks",
+   "--Motors",
+   "--Thermodynamics"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1995"
+  ],
+  "decision": "added to list",
+  "note": "--Fuel tanks and --Motors--Thermodynamics (May Subd Geog) are added to the free-floating list for land vehicles."
+ },
+ {
+  "source_id": "090916",
+  "date": "2009-09-16",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090916.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Political activity"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1095",
+   "H 1100",
+   "H 1105",
+   "H 1110",
+   "H 1120",
+   "H 1153",
+   "H 1155.2",
+   "H 1159",
+   "H 1187"
+  ],
+  "decision": "changed",
+  "note": "--Political activity is made May Subd Geog on the free-floating lists for classes of persons, corporate bodies, individual persons, families, industries, groups of literary authors, military services and Christian denominations, and in H 1095."
+ },
+ {
+  "source_id": "090923",
+  "date": "2009-09-23",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-090923.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Juvenile fiction"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1690"
+  ],
+  "decision": "not approved",
+  "note": "Per H 1690, children's belles lettres get juvenile form headings (e.g., Children's stories); where none exist assign the unsubdivided adult heading, and do not assign [Topic]--Juvenile fiction when an adult form heading exists (e.g., not Christmas--Juvenile fiction)."
+ },
+ {
+  "source_id": "091014",
+  "date": "2009-10-14",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-091014.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Class of persons] (International law)"
+  ],
+  "headings": [
+   "Minorities"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "The qualifier (International law) is used only after Women and Children and is not extended to other classes of persons; use Minorities--Legal status, laws, etc. for comparative and international legal aspects."
+ },
+ {
+  "source_id": "091021",
+  "date": "2009-10-21",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-091021.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Carbon content",
+   "--Effect of forest management on"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1180"
+  ],
+  "decision": "added to list",
+  "note": "--Carbon content and --Effect of forest management on are added to the free-floating list for plants and crops."
+ }
+]

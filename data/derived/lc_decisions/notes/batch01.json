@@ -1,0 +1,1082 @@
+[
+ {
+  "source_id": "cpsoed-050629",
+  "date": "2005-06-29",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050629.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Reparations"
+  ],
+  "patterns": [
+   "[Ethnic group]--Reparations"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1103"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list for ethnic groups: --Reparations (May Subd Geog)."
+ },
+ {
+  "source_id": "cpsoed-050629",
+  "date": "2005-06-29",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050629.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Effect of forest management on",
+   "--Effect of logging on"
+  ],
+  "patterns": [
+   "[Animal]--Effect of forest management on",
+   "[Animal]--Effect of logging on"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1147"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list for animals: --Effect of forest management on and --Effect of logging on, both May Subd Geog."
+ },
+ {
+  "source_id": "cpsoed-050629",
+  "date": "2005-06-29",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050629.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Participation, Communist"
+  ],
+  "patterns": [
+   "[War]--Participation, Communist"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1200"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating pattern list for wars: --Participation, Communist (no geographic subdivision)."
+ },
+ {
+  "source_id": "cpsoed-050629",
+  "date": "2005-06-29",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050629.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [],
+  "patterns": [
+   "[Literature heading]--To [date]"
+  ],
+  "headings": [
+   "Albanian literature"
+  ],
+  "shm_cited": [],
+  "decision": "resubmit",
+  "note": "Chronological subdivisions under literature headings, other than free-floating ones, must be supported by research documenting the significance of the date. Albanian literature--To 1700 was not approved without that research; it may be resubmitted."
+ },
+ {
+  "source_id": "cpsoed-050629",
+  "date": "2005-06-29",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050629.html",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Arts, South American"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Arts, South American is not authorized for geographic subdivision; more specific regions or countries are expressed by headings such as Arts, Brazilian."
+ },
+ {
+  "source_id": "cpsoed-050706",
+  "date": "2005-07-06",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050706.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Internet marketing"
+  ],
+  "patterns": [
+   "[Commodity, product, or service]--Internet marketing"
+  ],
+  "headings": [
+   "Wine"
+  ],
+  "shm_cited": [
+   "H 1095"
+  ],
+  "decision": "added to list",
+  "note": "New free-floating --Internet marketing (May Subd Geog), used under types of commodities, products, and services, replacing a proposed heading for the Internet in wineries; Wine--Internet marketing may be assigned."
+ },
+ {
+  "source_id": "cpsoed-050706",
+  "date": "2005-07-06",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050706.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--In opera",
+   "--On television"
+  ],
+  "patterns": [
+   "[Individual person]--In opera",
+   "[Individual person]--On television"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1110"
+  ],
+  "decision": "added to list",
+  "note": "Added to the list for individual persons: --In opera and --On television. --On television is for works on television programming about the person (dramatic or documentary shows, news, advertising), not for the person as television actor, host, or news anchor."
+ },
+ {
+  "source_id": "cpsoed-050706",
+  "date": "2005-07-06",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050706.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Aftershocks"
+  ],
+  "patterns": [
+   "[Named earthquake]--Aftershocks"
+  ],
+  "headings": [
+   "Earthquake aftershocks"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "The subdivision --Aftershocks under individual earthquakes was not approved. Use the name of the earthquake plus Earthquake aftershocks--[place] (May Subd Geog)."
+ },
+ {
+  "source_id": "cpsoed-050720",
+  "date": "2005-07-20",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050720.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Vapor pressure"
+  ],
+  "patterns": [
+   "[Chemical]--Vapor pressure"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1149"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list for chemicals: --Vapor pressure (May Subd Geog)."
+ },
+ {
+  "source_id": "cpsoed-050720",
+  "date": "2005-07-20",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050720.html",
+  "kind": "pattern",
+  "subdivisions": [
+   "--Law and legislation",
+   "--Religious aspects"
+  ],
+  "patterns": [
+   "War on Terrorism, 2001---[Pattern war subdivision]"
+  ],
+  "headings": [
+   "War on Terrorism, 2001-",
+   "September 11 Terrorist Attacks, 2001"
+  ],
+  "shm_cited": [
+   "H 1200"
+  ],
+  "decision": "not necessary",
+  "note": "War on Terrorism, 2001- is not a war in the conventional sense and is outside the scope of the H 1200 wars pattern list. Only specifically established subdivisions such as --Law and legislation and --Religious aspects may be used; other pattern subdivisions require a proposal. The same applies to September 11 Terrorist Attacks, 2001 and similar headings."
+ },
+ {
+  "source_id": "cpsoed-050727",
+  "date": "2005-07-27",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050727.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Effect of odors on",
+   "--Recolonization"
+  ],
+  "patterns": [
+   "[Animal]--Effect of odors on",
+   "[Animal]--Recolonization"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1147"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list for animals: --Effect of odors on and --Recolonization, both May Subd Geog."
+ },
+ {
+  "source_id": "cpsoed-050803",
+  "date": "2005-08-03",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050803.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Mulching"
+  ],
+  "patterns": [
+   "[Plant]--Mulching"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1180"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list for plants: --Mulching (May Subd Geog)."
+ },
+ {
+  "source_id": "cpsoed-050810",
+  "date": "2005-08-10",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050810.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Development--Endocrine aspects",
+   "--Larvae--Endocrinology"
+  ],
+  "patterns": [
+   "[Animal]--Development--Endocrine aspects",
+   "[Animal]--Larvae--Endocrinology"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1147"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list for animals: --Development--Endocrine aspects and --Larvae--Endocrinology."
+ },
+ {
+  "source_id": "cpsoed-050810",
+  "date": "2005-08-10",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050810.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Study and teaching"
+  ],
+  "patterns": [
+   "[Ethnic group]--[Place]--Study and teaching"
+  ],
+  "headings": [
+   "Chinese"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "When --Study and teaching is authorized for further geographic division, a geographic subdivision may not be placed between the heading and --Study and teaching. Chinese--Malaysia--Study and teaching was refused; use Chinese--Study and teaching--Malaysia, Chinese--Malaysia, and Malaysia--Study and teaching."
+ },
+ {
+  "source_id": "cpsoed-050810",
+  "date": "2005-08-10",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050810.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "Piano--Methods (Jazz, [Rock, Bluegrass, etc.])",
+   "Piano--Studies and exercises (Jazz, [Rock, Bluegrass, etc.])"
+  ],
+  "headings": [
+   "Piano"
+  ],
+  "shm_cited": [
+   "H 1161"
+  ],
+  "decision": "cancelled",
+  "note": "The multiple subdivisions --Methods (Jazz, [Rock, Bluegrass, etc.]) and --Studies and exercises (Jazz, [Rock, Bluegrass, etc.]) were cancelled and replaced by individual subdivisions under the pattern heading Piano. H 1161 is to be revised with a complete list of valid subdivisions."
+ },
+ {
+  "source_id": "cpsoed-050817",
+  "date": "2005-08-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050817.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Audiocassette catalogs"
+  ],
+  "patterns": [
+   "[Subject]--Audiocassette catalogs"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1095",
+   "H 1103",
+   "H 1105",
+   "H 1110",
+   "H 1140",
+   "H 1160"
+  ],
+  "decision": "added to list",
+  "note": "Form subdivision --Audiocassette catalogs added to the free-floating lists for general subjects, ethnic groups, corporate bodies, individual persons, places, and musical compositions; --Audiotape catalogs was also added under musical compositions."
+ },
+ {
+  "source_id": "cpsoed-050817",
+  "date": "2005-08-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050817.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Effect of water acidification on"
+  ],
+  "patterns": [
+   "[Animal]--Effect of water acidification on"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1147"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list for animals: --Effect of water acidification on (May Subd Geog)."
+ },
+ {
+  "source_id": "cpsoed-050817",
+  "date": "2005-08-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050817.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Effect of lasers on"
+  ],
+  "patterns": [
+   "[Material]--Effect of lasers on"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1158"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list for materials: --Effect of lasers on (May Subd Geog)."
+ },
+ {
+  "source_id": "cpsoed-050817",
+  "date": "2005-08-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050817.html",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [
+   "[Class of persons], [Regional or national adjective]"
+  ],
+  "headings": [
+   "Gay men, Asian"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Headings for classes of persons are not qualified by regional or national adjectives; that concept is expressed with geographic subdivision."
+ },
+ {
+  "source_id": "cpsoed-050817",
+  "date": "2005-08-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050817.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Graphic novels",
+   "--Comic books, strips, etc."
+  ],
+  "patterns": [
+   "[Topic]--Comic books, strips, etc."
+  ],
+  "headings": [
+   "Graphic novels"
+  ],
+  "shm_cited": [],
+  "decision": "changed",
+  "note": "LC form subdivisions are often broad. The proposed subdivision --Graphic novels was not established; the broader --Comic books, strips, etc. covers graphic novels on specific topics."
+ },
+ {
+  "source_id": "cpsoed-050817",
+  "date": "2005-08-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050817.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Teacher training",
+   "--Training of"
+  ],
+  "patterns": [
+   "[Class of teachers]--Training of"
+  ],
+  "headings": [
+   "Health education"
+  ],
+  "shm_cited": [],
+  "decision": "resubmit",
+  "note": "--Teacher training is used only in the field of religious education. For teachers in other fields use --Training of under the heading for the class of teachers."
+ },
+ {
+  "source_id": "cpsoed-050824",
+  "date": "2005-08-24",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050824.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Conversation and phrase books (for fire fighters)"
+  ],
+  "patterns": [
+   "[Language]--Conversation and phrase books (for fire fighters)"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1154"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list for languages: --Conversation and phrase books (for fire fighters)."
+ },
+ {
+  "source_id": "cpsoed-050824",
+  "date": "2005-08-24",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050824.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Bowing"
+  ],
+  "patterns": [
+   "[Musical instrument]--Bowing"
+  ],
+  "headings": [
+   "Violin"
+  ],
+  "shm_cited": [
+   "H 1161"
+  ],
+  "decision": "added to list",
+  "note": "--Bowing added to the instrument list, and Violin added as a pattern heading in H 1161; subdivisions not suitable for Piano or Clarinet but appropriate for stringed instruments may be established under Violin."
+ },
+ {
+  "source_id": "cpsoed-050831",
+  "date": "2005-08-31",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050831.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Remodeling for other use"
+  ],
+  "patterns": [
+   "[Type of building or structure]--Remodeling for other use"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1095"
+  ],
+  "decision": "added to list",
+  "note": "New free-floating --Remodeling for other use (May Subd Geog), used under types of buildings and structures."
+ },
+ {
+  "source_id": "cpsoed-050914",
+  "date": "2005-09-14",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050914.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Circulation"
+  ],
+  "patterns": [
+   "[Type of serial publication]--Circulation"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1095"
+  ],
+  "decision": "added to list",
+  "note": "New free-floating --Circulation, used under types of serial publications."
+ },
+ {
+  "source_id": "cpsoed-050914",
+  "date": "2005-09-14",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050914.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Electronic publishing"
+  ],
+  "patterns": [
+   "[Type of published material]--Electronic publishing"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1095"
+  ],
+  "decision": "added to list",
+  "note": "New free-floating --Electronic publishing (May Subd Geog), used under types of published materials and headings for literature on particular topics."
+ },
+ {
+  "source_id": "cpsoed-050914",
+  "date": "2005-09-14",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050914.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Excerpts"
+  ],
+  "patterns": [
+   "[Motion picture form or genre]--Excerpts"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1095"
+  ],
+  "decision": "added to list",
+  "note": "New free-floating form subdivision --Excerpts, used under motion picture forms and genres."
+ },
+ {
+  "source_id": "cpsoed-050914",
+  "date": "2005-09-14",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050914.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Newspapers"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1095"
+  ],
+  "decision": "changed",
+  "note": "The usage note for --Newspapers on the H 1095 list was revised to read: use under subjects."
+ },
+ {
+  "source_id": "cpsoed-050921",
+  "date": "2005-09-21",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050921.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Cross-sectional imaging"
+  ],
+  "patterns": [
+   "[Organ of body]--Cross-sectional imaging"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1164"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list for organs of the body: --Cross-sectional imaging (May Subd Geog)."
+ },
+ {
+  "source_id": "cpsoed-050928",
+  "date": "2005-09-28",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050928.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--In art",
+   "--In literature",
+   "--In motion pictures"
+  ],
+  "patterns": [
+   "[Geographic heading]--In art",
+   "[Geographic heading]--In literature",
+   "[Geographic heading]--In motion pictures"
+  ],
+  "headings": [
+   "Polar regions"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "--In art, --In literature, and --In motion pictures are free-floating under geographic headings tagged 151, so Polar regions in art and similar headings need not be established."
+ },
+ {
+  "source_id": "cpsoed-050928",
+  "date": "2005-09-28",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050928.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Disease] in animals",
+   "[Animal]--Diseases"
+  ],
+  "headings": [
+   "Obesity in animals",
+   "Nutrition disorders in animals"
+  ],
+  "shm_cited": [],
+  "decision": "changed",
+  "note": "Headings of the type [disease] in [type of animal] are made only for conditions generally regarded as animal diseases. For conditions common to humans and animals, use [disease] in animals plus [type of animal]--Diseases, e.g. Obesity in animals with Horses--Diseases."
+ },
+ {
+  "source_id": "cpsoed-050928",
+  "date": "2005-09-28",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-050928.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Regional literature]--[Country]--[Region]"
+  ],
+  "headings": [
+   "Tanzanian literature",
+   "Tanzanian literature (English)"
+  ],
+  "shm_cited": [],
+  "decision": "changed",
+  "note": "Because Zanzibar is part of Tanzania, literature of Zanzibar is expressed as Tanzanian literature--Tanzania--Zanzibar (and similarly for the English-language and wit and humor headings), not as a Zanzibari literature heading."
+ },
+ {
+  "source_id": "cpsoed-051005",
+  "date": "2005-10-05",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-051005.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Kings and rulers--Deposition"
+  ],
+  "patterns": [
+   "[Place]--Kings and rulers--Deposition"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1140"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list for places: --Kings and rulers--Deposition."
+ },
+ {
+  "source_id": "cpsoed-051005",
+  "date": "2005-10-05",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-051005.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Subject]--[Netherlands Antilles]--[Island]",
+   "[Subject]--[Country]--[Island]"
+  ],
+  "headings": [
+   "Netherlands Antilles"
+  ],
+  "shm_cited": [
+   "H 807 sec. 2.c.",
+   "H 810 sec. 2.d.(2)"
+  ],
+  "decision": "changed",
+  "note": "Policy change: Caribbean islands south of the Virgin Islands are no longer assigned directly after subjects. Islands independent as countries (Dominica, Martinique) are assigned directly; islands that are part of a multi-island country (Bonaire, Curacao) are assigned indirectly through the country, e.g. Marine algae--Netherlands Antilles--Bonaire. Features on those islands are likewise indirect through the country. Qualifiers for such features use the larger jurisdiction, not the island."
+ },
+ {
+  "source_id": "cpsoed-051005",
+  "date": "2005-10-05",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-051005.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Comic books, strips, etc."
+  ],
+  "patterns": [
+   "[Topic]--Comic books, strips, etc."
+  ],
+  "headings": [
+   "War"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Comic books or strips on a particular topic are expressed with free-floating --Comic books, strips, etc. after the topical heading, e.g. War--Comic books, strips, etc. Spy and War comic books headings were not approved; form headings for comic books stay limited to existing fictional genres."
+ },
+ {
+  "source_id": "cpsoed-051005",
+  "date": "2005-10-05",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-051005.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Condition] in [age or sex group]",
+   "[Condition]",
+   "[Group of persons]--Diseases"
+  ],
+  "headings": [
+   "Weight loss"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Specific headings for conditions in groups of people exist only for general age and sex groups (children, women). For other groups assign the condition heading plus the group heading with a subdivision such as --Diseases or --Physiology, e.g. Weight loss with Nursing home patients--Diseases."
+ },
+ {
+  "source_id": "cpsoed-051005",
+  "date": "2005-10-05",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-051005.html",
+  "kind": "pattern",
+  "subdivisions": [
+   "--Effect of [. . .] on"
+  ],
+  "patterns": [
+   "[Type of geographic area]--Effect of grazing on"
+  ],
+  "headings": [
+   "Wetlands"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "--Effect of [...] on is not extended beyond existing patterns (plants, animals, materials, body parts, some business topics). Wetlands--Effect of grazing on was refused; assign Grazing--Environmental aspects with the geographic area heading."
+ },
+ {
+  "source_id": "cpsoed-051012",
+  "date": "2005-10-12",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-051012.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Comic books, strips, etc."
+  ],
+  "patterns": [
+   "[Form heading for fictional genre]--Comic books, strips, etc."
+  ],
+  "headings": [
+   "Science fiction",
+   "Erotic stories",
+   "Horror tales"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "LC does not use --Comic books, strips, etc. under form headings, and makes no distinction between fictional and nonfiction comic books and strips. UF references from Science fiction--Comic books, strips, etc. and similar strings were refused."
+ },
+ {
+  "source_id": "cpsoed-051019",
+  "date": "2005-10-19",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-051019.html",
+  "kind": "pattern",
+  "subdivisions": [
+   "--Fiction"
+  ],
+  "patterns": [
+   "[Class of persons]--Fiction"
+  ],
+  "headings": [
+   "Gay love stories",
+   "Lesbian love stories"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Subgenres of love stories based on character attributes were not approved. Love stories featuring a class of characters may get an added entry for the class of persons with --Fiction."
+ },
+ {
+  "source_id": "cpsoed-051102",
+  "date": "2005-11-02",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-051102.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Taxation--Law and legislation"
+  ],
+  "patterns": [
+   "[Topic]--Taxation--Law and legislation"
+  ],
+  "headings": [
+   "Farm corporations"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "--Taxation--Law and legislation was authorized for free-floating use under topical headings (WL02-47), so Farm corporations--Taxation--Law and legislation needs no proposal."
+ },
+ {
+  "source_id": "cpsoed-051109",
+  "date": "2005-11-09",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-051109.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Fires and fire prevention"
+  ],
+  "patterns": [
+   "[Material]--Fires and fire prevention"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1158"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list for materials: --Fires and fire prevention (May Subd Geog)."
+ },
+ {
+  "source_id": "cpsoed-051109",
+  "date": "2005-11-09",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-051109.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Instrument]--[Instrument] with orchestra"
+  ],
+  "headings": [
+   "Electric violoncello with orchestra"
+  ],
+  "shm_cited": [
+   "H 250 sec. 2"
+  ],
+  "decision": "not necessary",
+  "note": "Electric violoncello with orchestra can be constructed without an authority record once Electric violoncello and Electric violoncello music exist. A music heading is required as a companion to a new instrument heading (H 1918)."
+ },
+ {
+  "source_id": "cpsoed-051109",
+  "date": "2005-11-09",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-051109.html",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [
+   "[Name], ([Ethnic group] people)"
+  ],
+  "headings": [
+   "Yawarawarga (Australian people)"
+  ],
+  "shm_cited": [],
+  "decision": "changed",
+  "note": "The plural form peoples is not used in qualifiers for LCSH headings; Yawarawarga (Australian peoples) was changed to (Australian people)."
+ },
+ {
+  "source_id": "cpsoed-051207",
+  "date": "2005-12-07",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-051207.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "Concertos ([Instrument])"
+  ],
+  "headings": [
+   "Concertos (Maracas)",
+   "Concertos (Steel drum)"
+  ],
+  "shm_cited": [
+   "H 250"
+  ],
+  "decision": "not necessary",
+  "note": "Concertos (Maracas) and Concertos (Steel drum) can be constructed without subject authority records."
+ },
+ {
+  "source_id": "cpsoed-060111",
+  "date": "2006-01-11",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-060111.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Antiquities, Armenian"
+  ],
+  "patterns": [
+   "[Ethnic group]--[Place]--Antiquities",
+   "[Place]--Antiquities"
+  ],
+  "headings": [
+   "Armenians",
+   "Armenia"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "A subdivision --Antiquities, Armenian was not created; the concept is covered by free-floating Armenians--[place]--Antiquities and Armenia--Antiquities."
+ },
+ {
+  "source_id": "cpsoed-060118",
+  "date": "2006-01-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-060118.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Place]--Flood, [date]",
+   "Floods--[place]"
+  ],
+  "headings": [
+   "Netherlands"
+  ],
+  "shm_cited": [
+   "H 1560"
+  ],
+  "decision": "cancelled",
+  "note": "Headings of the type [place]--Flood, [date] were discontinued in 1985 in favor of Floods--[place]. Netherlands--Flood, 1570 was cancelled and Netherlands--Flood, 1953 was not approved."
+ },
+ {
+  "source_id": "cpsoed-060125",
+  "date": "2006-01-25",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-060125.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Kings and rulers--Assassination"
+  ],
+  "patterns": [
+   "[Place]--Kings and rulers--Assassination"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1140"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list for places: --Kings and rulers--Assassination."
+ },
+ {
+  "source_id": "cpsoed-060201",
+  "date": "2006-02-01",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-060201.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Sexual behavior"
+  ],
+  "patterns": [
+   "[Class of persons]--Sexual behavior",
+   "[Ethnic group]--Sexual behavior",
+   "[Animal]--Sexual behavior"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1100",
+   "H 1103",
+   "H 1147"
+  ],
+  "decision": "changed",
+  "note": "The free-floating subdivision --Sexual behavior now carries (May Subd Geog) on the lists for classes of persons, ethnic groups, and animals."
+ },
+ {
+  "source_id": "cpsoed-060201",
+  "date": "2006-02-01",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-060201.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Fluid capacities"
+  ],
+  "patterns": [
+   "[Land vehicle]--Fluid capacities"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1195"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list for land vehicles: --Fluid capacities (May Subd Geog)."
+ },
+ {
+  "source_id": "cpsoed-060201",
+  "date": "2006-02-01",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-060201.html",
+  "kind": "pattern",
+  "subdivisions": [
+   "--Effect of [concept] on"
+  ],
+  "patterns": [
+   "[Animal]--Effect of water currents on"
+  ],
+  "headings": [
+   "Fishes"
+  ],
+  "shm_cited": [],
+  "decision": "resubmit",
+  "note": "Subdivisions of the type --Effect of [concept] on are derivative: a heading for the concept must exist in LCSH before the subdivision is proposed, using the same terminology. Fishes--Effect of water currents on requires a heading for water currents first."
+ },
+ {
+  "source_id": "cpsoed-060208",
+  "date": "2006-02-08",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-060208.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Professional staff"
+  ],
+  "patterns": [
+   "[Individual school]--Professional staff",
+   "[Type of school]--Professional staff"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1151",
+   "H 1151.5"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating lists for individual schools and types of schools: --Professional staff."
+ },
+ {
+  "source_id": "cpsoed-060208",
+  "date": "2006-02-08",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-060208.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "Quotations, [Language]--[Place]"
+  ],
+  "headings": [
+   "Quotations, Philippine (English)"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Quotation headings are qualified by language but not by nationality (except American quotations). Quotations from the Philippines in English are expressed as Quotations, English--Philippines."
+ },
+ {
+  "source_id": "cpsoed-060208",
+  "date": "2006-02-08",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-060208.html",
+  "kind": "pattern",
+  "subdivisions": [
+   "--Homes and haunts"
+  ],
+  "patterns": [
+   "[Fictitious character]--Homes and haunts"
+  ],
+  "headings": [
+   "Simpsons (Fictitious characters)"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Headings for fictitious characters take only subdivisions widely used under topical headings, such as --Exhibitions or --Fiction, not subdivisions restricted to real persons or groups. Simpsons (Fictitious characters)--Homes and haunts was refused."
+ },
+ {
+  "source_id": "cpsoed-060215",
+  "date": "2006-02-15",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-060215.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Simulation games"
+  ],
+  "patterns": [
+   "[Topic]--Simulation games"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1095"
+  ],
+  "decision": "added to list",
+  "note": "New free-floating --Simulation games, used under topical headings."
+ },
+ {
+  "source_id": "cpsoed-060222",
+  "date": "2006-02-22",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-060222.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Blogs"
+  ],
+  "patterns": [
+   "[Subject]--Blogs"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1095",
+   "H 1100",
+   "H 1103",
+   "H 1110"
+  ],
+  "decision": "added to list",
+  "note": "Form subdivision --Blogs added to the free-floating lists for general subjects, classes of persons, ethnic groups, and individual persons."
+ },
+ {
+  "source_id": "cpsoed-060222",
+  "date": "2006-02-22",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-060222.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Weblogs"
+  ],
+  "patterns": [
+   "[Subject]--Weblogs"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1095",
+   "H 1100",
+   "H 1103",
+   "H 1110"
+  ],
+  "decision": "cancelled",
+  "note": "Form subdivision --Weblogs was deleted from the free-floating lists for general subjects, classes of persons, ethnic groups, and individual persons, replaced by --Blogs."
+ },
+ {
+  "source_id": "cpsoed-060301",
+  "date": "2006-03-01",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-060301.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Deterioration"
+  ],
+  "patterns": [
+   "[Subject]--Deterioration",
+   "[Material]--Deterioration"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 1095",
+   "H 1158"
+  ],
+  "decision": "added to list",
+  "note": "Added --Deterioration (May Subd Geog) to the free-floating lists for general subjects and materials."
+ },
+ {
+  "source_id": "cpsoed-060301",
+  "date": "2006-03-01",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/cpsoed-060301.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Geographical distribution"
+  ],
+  "patterns": [
+   "[Geographic feature]--Geographical distribution"
+  ],
+  "headings": [
+   "Wetlands"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "--Geographical distribution is used only under entities not in fixed locations, such as plants and animals, not under immovable geographic features. Wetlands--Geographical distribution was refused; use Wetlands--[place]."
+ }
+]

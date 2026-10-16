@@ -17,46 +17,28 @@ sys.path.insert(0, str(ROOT))
 
 from lcsh_validator.freefloating import FreeFloating  # noqa: E402
 from lcsh_validator.parse import normalize_label  # noqa: E402
-from lcsh_validator.rules import Rules  # noqa: E402
+from lcsh_validator.rules import Rules, sheet_outline  # noqa: E402
 
 OUT = ROOT / "docs/rules"
-HEAD = re.compile(r"^(#{2,4})\s*(.*?)\s*$", re.M)
-LABEL = re.compile(r"^([A-Z]|\d{1,2}|[a-z]|[ivx]+)(?:\.(\d{1,2}|[a-z]|\(\d+\)|[ivx]+))*\.?(?=\s)")
 MAX_SECTION = 6000
 
 
-def section_label(heading: str) -> str | None:
-    """'E.1. Authorized usage' -> 'E.1'; 'F. Topical Subdivisions' -> 'F'; '2. Use of existing ...' -> '2'; 'a. General' -> 'a'."""
-    m = LABEL.match(heading + " ")
-    if not m:
-        return None
-    return m.group(0).rstrip(".").strip()
-
-
 def split_sections(body: str) -> tuple[list[str], list[dict]]:
-    heads = list(HEAD.finditer(body))
+    """The numbered validation rules and the full-text sections of a sheet, using the same outline as the model's
+    get_rule tool (lcsh_validator.rules.sheet_outline) so a citation resolves to the same text in both places."""
     rules: list[str] = []
     sections: list[dict] = []
-    stack: list[tuple[int, str]] = []  # (level, label) for nesting: '2' then 'b' -> '2.b'
-    for i, h in enumerate(heads):
-        level, title = len(h.group(1)), h.group(2)
-        end = heads[i + 1].start() if i + 1 < len(heads) else len(body)
-        text = body[h.end():end].strip()
+    for o in sheet_outline(body):
+        text = body[o["content_start"]:o["text_end"]].strip()
+        title = o["heading"]
         if title.lower().startswith("validation rules"):
             rules = [re.sub(r"^\d+\.\s*", "", ln).strip() for ln in text.splitlines() if re.match(r"^\d+\.\s", ln)]
             continue
-        if title.lower().startswith("full text") or level == 2:
-            stack = []
+        if title.lower().startswith("full text") or o["level"] == 2:
             continue
-        label = section_label(title)
-        while stack and stack[-1][0] >= level:
-            stack.pop()
-        full = ".".join([s[1] for s in stack] + [label]) if label else None
-        if label:
-            stack.append((level, label))
         if len(text) > MAX_SECTION:
             text = text[:MAX_SECTION].rstrip() + "\n[... section truncated; the full sheet is in rules/shm]"
-        sections.append({"id": full, "own": label, "heading": title, "level": level, "text": text})
+        sections.append({"id": o["id"], "own": o["own"], "heading": title, "level": o["level"], "text": text})
     return rules, sections
 
 

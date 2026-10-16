@@ -1,0 +1,1156 @@
+[
+ {
+  "source_id": "psd-091028",
+  "date": "2009-10-28",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-091028.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Hebrew influences"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1156"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under literatures (H 1156), with a footnote 2 restriction."
+ },
+ {
+  "source_id": "psd-091104",
+  "date": "2009-11-04",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-091104.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Solo with piano (4 hands)"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1160"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under musical compositions (H 1160)."
+ },
+ {
+  "source_id": "psd-091112",
+  "date": "2009-11-12",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-091112.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Effect of global warming on"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1147"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under animals (H 1147); it may be subdivided geographically (May Subd Geog)."
+ },
+ {
+  "source_id": "psd-091112",
+  "date": "2009-11-12",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-091112.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Growth"
+  ],
+  "patterns": [],
+  "headings": [
+   "Junior high school athletes",
+   "Junior high school students"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "The subdivision --Growth has been used only under general headings for age groups such as Children and Teenagers. LC declined to extend it to more specific classes of persons such as junior high school athletes or students."
+ },
+ {
+  "source_id": "psd-091118",
+  "date": "2009-11-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-091118.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Age differences"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1154"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under languages (H 1154); it may be subdivided geographically (May Subd Geog)."
+ },
+ {
+  "source_id": "psd-091118",
+  "date": "2009-11-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-091118.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Mountain warfare"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1200"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under wars (H 1200)."
+ },
+ {
+  "source_id": "psd-091202",
+  "date": "2009-12-02",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-091202.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Dialects--Mutual intelligibility"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1154"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under languages (H 1154) as a subdivision of --Dialects."
+ },
+ {
+  "source_id": "psd-091202",
+  "date": "2009-12-02",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-091202.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Statistics"
+  ],
+  "patterns": [],
+  "headings": [
+   "High school graduates"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Graduation rates are expressed in LCSH with the subdivision --Statistics under headings for types of graduates, e.g. High school graduates--Statistics, not by a separate heading."
+ },
+ {
+  "source_id": "psd-091216",
+  "date": "2009-12-16",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-091216.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Collection and preservation--Licenses"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1147"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under animals (H 1147)."
+ },
+ {
+  "source_id": "psd-091216",
+  "date": "2009-12-16",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-091216.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Effect of mining on"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1147"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under animals (H 1147)."
+ },
+ {
+  "source_id": "psd-091216",
+  "date": "2009-12-16",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-091216.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "War on Terrorism, 2001-2009"
+  ],
+  "shm_cited": [
+   "H 1200"
+  ],
+  "decision": "not necessary",
+  "note": "The free-floating subdivisions valid under wars cannot be applied to the heading War on Terrorism, 2001-2009 (see the first paragraph of H 1200)."
+ },
+ {
+  "source_id": "psd-091223",
+  "date": "2009-12-23",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-091223.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Utilization"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1147"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under animals (H 1147); it may be subdivided geographically (May Subd Geog)."
+ },
+ {
+  "source_id": "psd-091223",
+  "date": "2009-12-23",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-091223.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "Trials ([Crime])"
+  ],
+  "headings": [
+   "Trials"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "The heading Trials may be qualified by types of crimes, not by classes of persons. Trials (Pimps) was an anomalous heading and was cancelled; Trials (Prostitution) is used for trials of pimps, procuresses or prostitutes."
+ },
+ {
+  "source_id": "psd-100113",
+  "date": "2010-01-13",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100113.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Behavior--Genetic aspects"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1147"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under animals (H 1147)."
+ },
+ {
+  "source_id": "psd-100120",
+  "date": "2010-01-20",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100120.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Behavior--Genetic aspects"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1147"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under animals (H 1147)."
+ },
+ {
+  "source_id": "psd-100120",
+  "date": "2010-01-20",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100120.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Spoken Catalan"
+  ],
+  "patterns": [],
+  "headings": [
+   "Catalan language"
+  ],
+  "shm_cited": [
+   "H 1154"
+  ],
+  "decision": "not necessary",
+  "note": "H 1154 lists --Spoken French [Japanese, etc.] under languages, so --Spoken Catalan under Catalan language is free-floating and needs no proposal."
+ },
+ {
+  "source_id": "psd-100127",
+  "date": "2010-01-27",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100127.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Collection and preservation--Law and legislation"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1147"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under animals (H 1147)."
+ },
+ {
+  "source_id": "psd-100127",
+  "date": "2010-01-27",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100127.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "Economic assistance, [Nationality adjective]"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "A heading of the form Economic assistance, Zambian is for aid from Zambia to other countries. Aid to Zambia is expressed by Economic assistance--Zambia."
+ },
+ {
+  "source_id": "psd-100203",
+  "date": "2010-02-03",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100203.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Law and legislation"
+  ],
+  "patterns": [],
+  "headings": [
+   "AIDS (Disease)"
+  ],
+  "shm_cited": [
+   "H 1718"
+  ],
+  "decision": "changed",
+  "note": "Islamic law is expressed as a qualifier: AIDS (Disease)--Law and legislation (Islamic law) was changed to AIDS (Disease) (Islamic law) per H 1718 sec. 2.a."
+ },
+ {
+  "source_id": "psd-100203",
+  "date": "2010-02-03",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100203.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Law and legislation"
+  ],
+  "patterns": [],
+  "headings": [
+   "Climate change mitigation",
+   "Climatic changes"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Law and legislation on climate change mitigation and on climatic changes are so closely related that only Climatic changes--Law and legislation is used, with Climate change mitigation--Law and legislation as a UF."
+ },
+ {
+  "source_id": "psd-100203",
+  "date": "2010-02-03",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100203.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Geographic feature] Region"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 760"
+  ],
+  "decision": "not necessary",
+  "note": "Per H 760 sec. 1.a, regions based on geographic features may be created free-floating by adding the word Region to the heading for the feature."
+ },
+ {
+  "source_id": "psd-100210",
+  "date": "2010-02-10",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100210.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Film adaptations"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1110"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list at H 1110; it replaces --Film and video adaptations, which was deleted from the list."
+ },
+ {
+  "source_id": "psd-100210",
+  "date": "2010-02-10",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100210.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Film adaptations"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1155.8"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list at H 1155.8; it replaces --Film and video adaptations, which was deleted from the list."
+ },
+ {
+  "source_id": "psd-100210",
+  "date": "2010-02-10",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100210.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Film adaptations"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1156"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list at H 1156; it replaces --Film and video adaptations, which was deleted from the list."
+ },
+ {
+  "source_id": "psd-100210",
+  "date": "2010-02-10",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100210.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Film adaptations"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1160"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list at H 1160; it replaces --Film and video adaptations, which was deleted from the list."
+ },
+ {
+  "source_id": "psd-100210",
+  "date": "2010-02-10",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100210.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Film and video adaptations"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1110",
+   "H 1155.8",
+   "H 1156",
+   "H 1160"
+  ],
+  "decision": "cancelled",
+  "note": "--Film and video adaptations was deleted from the free-floating lists H 1110, H 1155.8, H 1156 and H 1160 in favor of --Film adaptations."
+ },
+ {
+  "source_id": "psd-100210",
+  "date": "2010-02-10",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100210.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Video recordings for foreign speakers",
+   "--Video recordings for French, [Spanish, etc.] speakers"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1154"
+  ],
+  "decision": "cancelled",
+  "note": "These subdivisions were deleted from the free-floating list under languages (H 1154)."
+ },
+ {
+  "source_id": "psd-100218",
+  "date": "2010-02-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100218.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Nationality]--[Foreign country]"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "approved",
+  "note": "For American, Chinese, French etc. expatriates, a general see reference directs catalogers to headings of the type Americans--[name of foreign country], Chinese--[name of foreign country]."
+ },
+ {
+  "source_id": "psd-100218",
+  "date": "2010-02-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100218.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Vandalism"
+  ],
+  "patterns": [],
+  "headings": [
+   "Church buildings"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Rather than creating headings for buildings of each denomination subdivided by --Vandalism, post-coordinate Church buildings--Vandalism with the heading for the denomination's buildings."
+ },
+ {
+  "source_id": "psd-100224",
+  "date": "2010-02-24",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100224.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Radio antennas"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1195"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under land vehicles (H 1195)."
+ },
+ {
+  "source_id": "psd-100303",
+  "date": "2010-03-03",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100303.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Television adaptations"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1110"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under individual persons (H 1110) as a form subdivision ($v)."
+ },
+ {
+  "source_id": "psd-100303",
+  "date": "2010-03-03",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100303.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Television adaptations"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1155.8"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under literary works/titles (H 1155.8) as a form subdivision ($v)."
+ },
+ {
+  "source_id": "psd-100303",
+  "date": "2010-03-03",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100303.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Television adaptations"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1156"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under literatures (H 1156) as a form subdivision ($v)."
+ },
+ {
+  "source_id": "psd-100303",
+  "date": "2010-03-03",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100303.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Television adaptations"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1160"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under musical compositions (H 1160) as a form subdivision ($v)."
+ },
+ {
+  "source_id": "psd-100303",
+  "date": "2010-03-03",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100303.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Musical groups"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1151"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under individual educational institutions (H 1151)."
+ },
+ {
+  "source_id": "psd-100303",
+  "date": "2010-03-03",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100303.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Musical groups"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1159"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under military services (H 1159)."
+ },
+ {
+  "source_id": "psd-100303",
+  "date": "2010-03-03",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100303.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "Decimal system on postage stamps"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Phrase headings of the type [topic] on postage stamps refer to depiction of the topic on stamps, not to the effect of a topic on stamps. Postage stamps--India and Decimal system--India were suggested instead."
+ },
+ {
+  "source_id": "psd-100310",
+  "date": "2010-03-10",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100310.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Gambling"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1100"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under classes of persons (H 1100); it may be subdivided geographically (May Subd Geog)."
+ },
+ {
+  "source_id": "psd-100310",
+  "date": "2010-03-10",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100310.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Class of persons] files"
+  ],
+  "headings": [
+   "Artist files"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "LC declined to establish Artist files because it would set a precedent for headings of the type [Class of persons] files; use headings such as Art archives and personal name--Archives."
+ },
+ {
+  "source_id": "psd-100310",
+  "date": "2010-03-10",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100310.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Digital libraries"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "LC declined to make --Digital libraries free-floating under subjects; each use must be individually proposed and established."
+ },
+ {
+  "source_id": "psd-100310",
+  "date": "2010-03-10",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100310.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Region based on international organization]"
+  ],
+  "headings": [
+   "ASEAN"
+  ],
+  "shm_cited": [
+   "H 760 sec. 1.e.4"
+  ],
+  "decision": "not approved",
+  "note": "Headings for regions based on international organizations are established only where no regional geographic heading representing the countries exists; Southeast Asia is used for ASEAN countries."
+ },
+ {
+  "source_id": "psd-100317",
+  "date": "2010-03-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100317.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Romanian authors"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1156"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under literatures (H 1156)."
+ },
+ {
+  "source_id": "psd-100317",
+  "date": "2010-03-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100317.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--21st century"
+  ],
+  "patterns": [],
+  "headings": [
+   "Swedish literature"
+  ],
+  "shm_cited": [
+   "H 1156"
+  ],
+  "decision": "not necessary",
+  "note": "The chronological subdivision --21st century is free-floating under literatures (H 1156), so Swedish literature--21st century needs no proposal."
+ },
+ {
+  "source_id": "psd-100317",
+  "date": "2010-03-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100317.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "Bible stories, [Language]--[Book]"
+  ],
+  "headings": [
+   "Bible stories, English"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "Such constructions, e.g. Bible stories, English--N.T. John, are free-floating per the note under Bible stories."
+ },
+ {
+  "source_id": "psd-100324",
+  "date": "2010-03-24",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100324.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Larvae--Behavior"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1147"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under animals (H 1147); it may be subdivided geographically (May Subd Geog)."
+ },
+ {
+  "source_id": "psd-100324",
+  "date": "2010-03-24",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100324.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Larvae--Defenses"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1147"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under animals (H 1147); it may be subdivided geographically (May Subd Geog)."
+ },
+ {
+  "source_id": "psd-100324",
+  "date": "2010-03-24",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100324.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Larvae--Effect of temperature on"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1147"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under animals (H 1147); it may be subdivided geographically (May Subd Geog)."
+ },
+ {
+  "source_id": "psd-100324",
+  "date": "2010-03-24",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100324.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Larvae--Physiology"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1147"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under animals (H 1147); it may be subdivided geographically (May Subd Geog)."
+ },
+ {
+  "source_id": "psd-100324",
+  "date": "2010-03-24",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100324.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Denominative"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1154"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under languages (H 1154)."
+ },
+ {
+  "source_id": "psd-100324",
+  "date": "2010-03-24",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100324.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Diseases and pests--Geographical distribution"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1180"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under plants and crops (H 1180)."
+ },
+ {
+  "source_id": "psd-100331",
+  "date": "2010-03-31",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100331.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Foreign students"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1151"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under individual educational institutions (H 1151)."
+ },
+ {
+  "source_id": "psd-100331",
+  "date": "2010-03-31",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100331.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Jumping"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1147"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under animals (H 1147) (from WL 1008); it may be subdivided geographically (May Subd Geog)."
+ },
+ {
+  "source_id": "psd-100407",
+  "date": "2010-04-07",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100407.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Citizen participation"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "--Citizen participation may be used free-floating under topical headings for the participation of citizens in carrying out an activity."
+ },
+ {
+  "source_id": "psd-100407",
+  "date": "2010-04-07",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100407.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Valuation"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "--Valuation means estimating the worth of property; LC does not wish to extend it to the valuation of human activities, e.g. Conservation of natural resources--Citizen participation--Valuation."
+ },
+ {
+  "source_id": "psd-100407",
+  "date": "2010-04-07",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100407.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Orthography and spelling",
+   "--Problems, exercises, etc."
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1156",
+   "H 1095"
+  ],
+  "decision": "not necessary",
+  "note": "--Orthography and spelling is free-floating under individual languages (H 1156) and --Problems, exercises, etc. is free-floating under topical headings (H 1095), so Portuguese language--Orthography and spelling--Problems, exercises, etc. needs no proposal."
+ },
+ {
+  "source_id": "psd-100407",
+  "date": "2010-04-07",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100407.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Year or century], A.D."
+  ],
+  "headings": [
+   "Nineteen ten, A.D."
+  ],
+  "shm_cited": [
+   "H 620 sec. 2c"
+  ],
+  "decision": "not approved",
+  "note": "General headings for centuries, years and other periods may be assigned only to general works on the time period, not to works limited to specific topics; use topical headings with chronological subdivisions instead."
+ },
+ {
+  "source_id": "psd-100414",
+  "date": "2010-04-14",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100414.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "Coastal [name of place]"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "UFs of the type Coastal [place] could be made for any specific coast, so a general reference from Coastal [name of place] was made instead of individual UFs."
+ },
+ {
+  "source_id": "psd-100512",
+  "date": "2010-05-12",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100512.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Effect of soil moisture on"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1180"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under plants and crops (H 1180); it may be subdivided geographically (May Subd Geog)."
+ },
+ {
+  "source_id": "psd-100512",
+  "date": "2010-05-12",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100512.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Art"
+  ],
+  "patterns": [],
+  "headings": [
+   "Icarus (Greek mythology)"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "The subdivision --Art is free-floating under mythological characters."
+ },
+ {
+  "source_id": "psd-100519",
+  "date": "2010-05-19",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100519.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Campaigns"
+  ],
+  "patterns": [],
+  "headings": [
+   "World War, 1939-1945"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "The subdivision --Campaigns under World War, 1939-1945 may be subdivided geographically, so World War, 1939-1945--Campaigns--Scandinavia needs no proposal."
+ },
+ {
+  "source_id": "psd-100519",
+  "date": "2010-05-19",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100519.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Tree] in art"
+  ],
+  "headings": [
+   "Peach in art"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "In LCSH the heading for the fruit of a tree is often also used for the tree itself, so Flowering peaches in art is covered by Peach in art."
+ },
+ {
+  "source_id": "psd-100609",
+  "date": "2010-06-09",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100609.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Functional genomics"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1147"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under animals (H 1147)."
+ },
+ {
+  "source_id": "psd-100609",
+  "date": "2010-06-09",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100609.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Physiological genomics"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1147"
+  ],
+  "decision": "cancelled",
+  "note": "Deleted from the free-floating list under animals (H 1147)."
+ },
+ {
+  "source_id": "psd-100609",
+  "date": "2010-06-09",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100609.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Military relations--Foreign countries",
+   "--Relations--Foreign countries"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1140",
+   "H 1996"
+  ],
+  "decision": "cancelled",
+  "note": "These were deleted from the list for names of places (H 1140) because the further geographic subdivision is redundant. Use [region or jurisdiction]--Relations or --Military relations without geographic subdivision for relations with three or more other jurisdictions."
+ },
+ {
+  "source_id": "psd-100609",
+  "date": "2010-06-09",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100609.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Buddhism"
+  ],
+  "patterns": [],
+  "headings": [
+   "Sacrifice"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "Sacrifice in specific religions is represented by Sacrifice--[religion], e.g. Sacrifice--Islam, rather than by a qualified heading such as Sacrifice (Islam)."
+ },
+ {
+  "source_id": "psd-100616",
+  "date": "2010-06-16",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100616.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "Exiles--[place]"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "There are no headings for exiled religious, ethnic or national groups; the practice is to assign two headings, Exiles--[place] and [group]--[place]."
+ },
+ {
+  "source_id": "psd-100616",
+  "date": "2010-06-16",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100616.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Physiological aspects"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "--Physiological aspects is free-floating under types of activities."
+ },
+ {
+  "source_id": "psd-100630",
+  "date": "2010-06-30",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100630.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Bedouin authors"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1156"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating list under literatures (H 1156)."
+ },
+ {
+  "source_id": "psd-100630",
+  "date": "2010-06-30",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100630.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "Tunisia, Southern"
+  ],
+  "headings": [],
+  "shm_cited": [
+   "H 760 sec. 1.d(6)"
+  ],
+  "decision": "not approved",
+  "note": "Regions with directional qualifiers may be proposed only if the region is well-defined and generally recognized by that name in English-language reference sources."
+ },
+ {
+  "source_id": "psd-100707",
+  "date": "2010-07-07",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100707.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "Folk songs, [people]"
+  ],
+  "headings": [
+   "Folk songs, Kanaka"
+  ],
+  "shm_cited": [
+   "H 1917 sec. 2.c.(1)"
+  ],
+  "decision": "not approved",
+  "note": "The appropriate heading is Kanaka (New Caledonian people)--Music per H 1917, not a Folk songs heading qualified by the people."
+ },
+ {
+  "source_id": "psd-100707",
+  "date": "2010-07-07",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100707.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "Folk literature, [Language]"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "resubmit",
+  "note": "Literature headings may not be proposed using qualifiers for languages not yet established in LCSH; propose the language heading together."
+ },
+ {
+  "source_id": "psd-100707",
+  "date": "2010-07-07",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-100707.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Law and legislation"
+  ],
+  "patterns": [],
+  "headings": [
+   "Securities"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Securities is treated as an interdisciplinary heading used for both legal and financial works; legal works are also covered by Securities industry--Law and legislation."
+ }
+]

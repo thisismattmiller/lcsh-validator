@@ -508,6 +508,47 @@ def test_rules_json_export_matches_the_corpus():
     assert "topical headings" in h1095["list"]["entries"]["--directories"][0]["use_under"]
     h1558 = json.loads((root / "docs/rules/H1558.json").read_text(encoding="utf-8"))
     assert "2.b" in [s["id"] for s in h1558["sections"]] and h1558["validation_rules"]
+    # same-level subsections marked only by label style ("### 2." then "### a.") nest: H 1647 sec. 2.b
+    h1647 = json.loads((root / "docs/rules/H1647.json").read_text(encoding="utf-8"))
+    ids = [s["id"] for s in h1647["sections"]]
+    assert ids[:5] == ["1", "2", "2.a", "2.b", "2.c"] and "Free-floating" in h1647["sections"][3]["heading"]
+    h225 = json.loads((root / "docs/rules/H0225.json").read_text(encoding="utf-8"))
+    assert not any(".".join(i.split(".")[:2]) + "." + ".".join(i.split(".")[:2]) in i for i in [s["id"] for s in h225["sections"] if s["id"]])
+
+
+def test_get_rule_section_lookup_follows_the_outline():
+    from lcsh_validator.rules import Rules
+    r = Rules()
+    whole = r.get("H 1647")["text"]
+    b = r.get("H 1647", section="2.b")["text"]
+    assert b.startswith("### b. Free-floating chronological subdivisions.") and "Historical periods may also be brought out" in b
+    two = r.get("H 1647", section="2")["text"]
+    assert "### a. Established" in two and "### b. Free-floating" in two and "### c. Establishing" in two and "### 3." not in two
+    assert r.get("H 1095", section="E.3")["text"].startswith("### E.3")
+    assert r.get("H 1647", section="Validation rules")["text"].startswith("## Validation rules")
+    assert r.get("H 1647", section="no such section")["text"] == whole
+
+
+def test_lc_decisions_notes_attach_by_subdivision_heading_and_pattern(analyzer):
+    from lcsh_validator.analysis import _pattern_matches
+    from lcsh_validator.parse import normalize_label as n
+    assert _pattern_matches("[Named planetary body]--Magnetic fields", [n("Europa (Satellite)"), n("Magnetic fields")])
+    assert _pattern_matches("Generative artificial intelligence--[Field] applications", [n("Generative artificial intelligence"), n("Medical applications")])
+    assert not _pattern_matches("Generative artificial intelligence--[Field] applications", [n("Artificial intelligence"), n("Medical applications")])
+    saved = analyzer.lc_decisions_notes
+    analyzer.lc_decisions_notes = [
+        {"source_id": "ptcp-2601", "date": "2026-01", "kind": "subdivision_usage", "subdivisions": ["--Mixed descent"], "patterns": [], "headings": [], "decision": "not necessary", "note": "limited to Indigenous people groups"},
+        {"source_id": "ptcp-2601", "date": "2026-01", "kind": "pattern", "subdivisions": [], "patterns": ["[Named planetary body]--Oceans"], "headings": [], "decision": "not necessary", "note": "post-coordinate"},
+        {"source_id": "ptcp-2601", "date": "2026-01", "kind": "heading", "subdivisions": [], "patterns": [], "headings": ["Periodicals"], "decision": "not necessary", "note": "scope note"},
+    ]
+    try:
+        hits = analyzer.lc_decisions(["Chinese", "Mixed descent"])
+        assert [h["matched_on"] for h in hits] == [["--Mixed descent"]] and hits[0]["date"] == "2026-01"
+        assert analyzer.lc_decisions(["Europa (Satellite)", "Oceans"])[0]["kind"] == "pattern"
+        assert analyzer.lc_decisions(["Periodicals", "Bibliography"])[0]["kind"] == "heading"
+        assert analyzer.lc_decisions(["Mixed descent"]) == []  # a main heading is not a subdivision
+    finally:
+        analyzer.lc_decisions_notes = saved
 
 
 def test_citation_parser_in_the_browser_script():

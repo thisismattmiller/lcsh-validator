@@ -1,0 +1,1513 @@
+[
+ {
+  "source_id": "psd-140120",
+  "date": "2014-01-20",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140120.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Nationality] clothing and dress"
+  ],
+  "headings": [
+   "Clothing and dress"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "LCSH has no headings of the type [Nationality] clothing and dress. Because Clothing and dress may be subdivided geographically, a work on dress in the Byzantine Empire is given Clothing and dress--Byzantine Empire."
+ },
+ {
+  "source_id": "psd-140120",
+  "date": "2014-01-20",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140120.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Archives"
+  ],
+  "patterns": [],
+  "headings": [
+   "Sexual minorities"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "The subdivision --Archives may be used as a form or topical subdivision under classes of persons for the records of that class, so Sexual minorities--Archives is assigned rather than a new heading Sexual minority archives."
+ },
+ {
+  "source_id": "psd-140217",
+  "date": "2014-02-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140217.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Law and legislation"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "changed",
+  "note": "Policy change: --Law and legislation may now be used under headings for crimes and categories of crimes (e.g., Murder--Law and legislation; Computer crimes--Law and legislation). It is not free-floating in this context, so each new use must be established editorially by proposal."
+ },
+ {
+  "source_id": "psd-140217",
+  "date": "2014-02-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140217.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--21st century"
+  ],
+  "patterns": [],
+  "headings": [
+   "Ecuadorian literature"
+  ],
+  "shm_cited": [
+   "H 1156"
+  ],
+  "decision": "not necessary",
+  "note": "Ecuadorian literature--21st century is a free-floating combination under H 1156, so no proposal was needed to establish it."
+ },
+ {
+  "source_id": "psd-140217",
+  "date": "2014-02-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140217.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Art patronage"
+  ],
+  "patterns": [],
+  "headings": [
+   "Napoleon I, Emperor of the French, 1769-1821"
+  ],
+  "shm_cited": [
+   "H 1110"
+  ],
+  "decision": "not approved",
+  "note": "The subdivision --Art patronage free-floats under names of persons (H 1110, which since 1985 combined the older separate pattern lists for founders of religions, musicians, philosophers and rulers). The existing individually established combinations remain valid and were not cancelled."
+ },
+ {
+  "source_id": "psd-140217",
+  "date": "2014-02-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140217.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "Art, [Ethnic group]"
+  ],
+  "headings": [
+   "Art, Tonga (Nyasa)"
+  ],
+  "shm_cited": [],
+  "decision": "resubmit",
+  "note": "Art headings are qualified by the ethnic group, not by the language. A work on the art of an unestablished ethnic group needs a proposal for the group first; a work covering several groups gets one heading per group."
+ },
+ {
+  "source_id": "psd-140317",
+  "date": "2014-03-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140317.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Drum brakes"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1195"
+  ],
+  "decision": "added to list",
+  "note": "Added to the H 1195 land vehicles pattern list: --Drum brakes (May Subd Geog)."
+ },
+ {
+  "source_id": "psd-140317",
+  "date": "2014-03-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140317.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Motors--Cylinders--Fluid dynamics"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1195"
+  ],
+  "decision": "added to list",
+  "note": "Added to the H 1195 land vehicles pattern list: --Motors--Cylinders--Fluid dynamics (May Subd Geog)."
+ },
+ {
+  "source_id": "psd-140317",
+  "date": "2014-03-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140317.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Italian influences",
+   "--American influences"
+  ],
+  "patterns": [],
+  "headings": [
+   "Architecture"
+  ],
+  "shm_cited": [
+   "H 1675 sec. 2.b"
+  ],
+  "decision": "not necessary",
+  "note": "Once a specific influences subdivision has been established under a heading, it may be used with geographic subdivision interposed (e.g., Architecture--United States--Italian influences) without creating a new authority record."
+ },
+ {
+  "source_id": "psd-140317",
+  "date": "2014-03-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140317.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Palekh"
+  ],
+  "patterns": [],
+  "headings": [
+   "Miniature painting"
+  ],
+  "shm_cited": [
+   "H 1250",
+   "H 1148"
+  ],
+  "decision": "not approved",
+  "note": "Art headings are qualified by nationality, region, ethnic or religious group, or time period, so a locality is handled by geographic subdivision: Miniature painting--Russia--Palekh, not a heading Palekh miniature painting."
+ },
+ {
+  "source_id": "psd-140317",
+  "date": "2014-03-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140317.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Topic]--India--States"
+  ],
+  "headings": [
+   "Indian states"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Works on topics of the Indian states are adequately cataloged with headings of the form [topic]--India--States, so Indian states--Economic conditions, --Economic policy and --Politics and government were not approved."
+ },
+ {
+  "source_id": "psd-140317",
+  "date": "2014-03-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140317.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Foreign relations"
+  ],
+  "patterns": [],
+  "headings": [
+   "Great Britain"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "Great Britain--Foreign relations--21st century was not needed; a work on Anglo-American intelligence cooperation from World War I to the present is covered by Great Britain--Foreign relations--1997- ."
+ },
+ {
+  "source_id": "psd-140421",
+  "date": "2014-04-21",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140421.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Disc brakes"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1195"
+  ],
+  "decision": "added to list",
+  "note": "Added to the H 1195 land vehicles pattern list: --Disc brakes."
+ },
+ {
+  "source_id": "psd-140421",
+  "date": "2014-04-21",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140421.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Raphael (Archangel)"
+  ],
+  "shm_cited": [
+   "H 1110",
+   "H 1095"
+  ],
+  "decision": "changed",
+  "note": "The subdivisions in H 1110 (names of persons) cannot be used with angels that have proper names; subdivisions needed for an angel must be proposed under the specific heading. For individually named angels, fictitious and legendary characters, mythological figures and deities, the free-floating subdivisions are those in H 1095."
+ },
+ {
+  "source_id": "psd-140421",
+  "date": "2014-04-21",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140421.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--In literature"
+  ],
+  "patterns": [],
+  "headings": [
+   "Raphael (Archangel)"
+  ],
+  "shm_cited": [
+   "H 1095",
+   "H 1110"
+  ],
+  "decision": "changed",
+  "note": "The subdivision --In literature does not free-float under names of angels, so Raphael (Archangel) in literature is revised to Raphael (Archangel)--In literature and retained in LCSH."
+ },
+ {
+  "source_id": "psd-140421",
+  "date": "2014-04-21",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140421.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Cult"
+  ],
+  "patterns": [],
+  "headings": [
+   "Dionysus (Greek deity)",
+   "Demeter (Greek deity)"
+  ],
+  "shm_cited": [
+   "H 1095"
+  ],
+  "decision": "changed",
+  "note": "The subdivision --Cult free-floats under names of deities, so subdivided headings like Dionysus (Greek deity)--Cult are normally cancelled; one is kept only when needed as a broader term, as with Demeter (Greek deity)--Cult."
+ },
+ {
+  "source_id": "psd-140421",
+  "date": "2014-04-21",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140421.html",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Autistic peoples' writings"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Autistic peoples' writings stays Not Subd Geog: geography is brought out through a nationality or language qualifier, as in Autistic peoples' writings, French, not by geographic subdivision."
+ },
+ {
+  "source_id": "psd-140421",
+  "date": "2014-04-21",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140421.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Topic]--Religious aspects--[Religion]"
+  ],
+  "headings": [
+   "Values (Judaism)"
+  ],
+  "shm_cited": [
+   "H 1998 sec. 5"
+  ],
+  "decision": "changed",
+  "note": "New headings with a religion or denomination as a parenthetical qualifier are no longer established; the form is [topic]--Religious aspects--[religion or denomination]. Values (Islam) is revised to Values--Religious aspects--Islam, and Values--Religious aspects--Judaism is used."
+ },
+ {
+  "source_id": "psd-140519",
+  "date": "2014-05-19",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140519.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Youth"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1200"
+  ],
+  "decision": "added to list",
+  "note": "Added to the H 1200 wars pattern list: --Youth (May Subd Geog)."
+ },
+ {
+  "source_id": "psd-140519",
+  "date": "2014-05-19",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140519.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Language]--Papyri"
+  ],
+  "headings": [
+   "Arabic language"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Headings of the type [Language]--Papyri are not used; the established form is Manuscripts, [language] (Papyri), so Manuscripts, Arabic (Papyri) is assigned rather than Arabic language--Papyri."
+ },
+ {
+  "source_id": "psd-140519",
+  "date": "2014-05-19",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140519.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Religious aspects"
+  ],
+  "patterns": [],
+  "headings": [
+   "Wheat"
+  ],
+  "shm_cited": [
+   "H 1180"
+  ],
+  "decision": "not necessary",
+  "note": "Wheat falls under Plants and crops (H 1180), with Corn as the pattern heading, so subdivisions established under Corn, such as --Religious aspects--Buddhism, [Christianity, etc.], apply to Wheat without a proposal."
+ },
+ {
+  "source_id": "psd-140519",
+  "date": "2014-05-19",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140519.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Wars"
+  ],
+  "patterns": [],
+  "headings": [
+   "Indians of Central America"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Headings for Indians are grouped regionally, so Indians of Nicaragua--Wars is not used; the authorized form is Indians of Central America--Wars--Nicaragua."
+ },
+ {
+  "source_id": "psd-140519",
+  "date": "2014-05-19",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140519.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Women authors"
+  ],
+  "patterns": [],
+  "headings": [
+   "Kanshi (Japanese poetry)",
+   "Japanese poetry"
+  ],
+  "shm_cited": [
+   "H 1156 sec. 2"
+  ],
+  "decision": "not approved",
+  "note": "The author-group subdivisions in H 1156 sec. 2 are used under a literature or major genre, not a minor genre; Kanshi--Women authors was refused and Japanese poetry--Women authors is assigned."
+ },
+ {
+  "source_id": "psd-140616",
+  "date": "2014-06-16",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140616.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Childhood"
+  ],
+  "patterns": [],
+  "headings": [
+   "Zeus (Greek deity)"
+  ],
+  "shm_cited": [
+   "H 1110"
+  ],
+  "decision": "not approved",
+  "note": "Subdivisions used under classes of persons are not free-floating under names of individual deities (H 1110 background), so the established Zeus (Greek deity)--Childhood must be retained rather than cancelled."
+ },
+ {
+  "source_id": "psd-140616",
+  "date": "2014-06-16",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140616.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Aerodynamics",
+   "--Passing"
+  ],
+  "patterns": [],
+  "headings": [
+   "Automobile driving"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Automobile driving--Passing--Aerodynamics was not approved; the topic is brought out by assigning Automobiles--Aerodynamics and Automobile driving--Passing together."
+ },
+ {
+  "source_id": "psd-140721",
+  "date": "2014-07-21",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140721.html",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Creole dialects, Malay"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "A dialect named only for the place where it is spoken is not given its own heading; general policy is geographic subdivision, as in Creole dialects, Malay--Indonesia--Bekasi (Kabupaten)."
+ },
+ {
+  "source_id": "psd-140721",
+  "date": "2014-07-21",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140721.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Language"
+  ],
+  "patterns": [],
+  "headings": [
+   "Families"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "The non-free-floating subdivision --Language has been used with ethnic groups and classes of persons but never with a social group such as Families, and LC chose not to extend it to social groups."
+ },
+ {
+  "source_id": "psd-140721",
+  "date": "2014-07-21",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140721.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Muscles",
+   "--Effect of temperature on",
+   "--Physiology"
+  ],
+  "patterns": [],
+  "headings": [
+   "Foot"
+  ],
+  "shm_cited": [
+   "H 1164"
+  ],
+  "decision": "not approved",
+  "note": "To limit new free-floating subdivisions under the Organs and Regions of the Body pattern (H 1164), combinations like Foot--Muscles--Effect of temperature on were refused in favor of post-coordinating [part of body]--Muscles with other headings."
+ },
+ {
+  "source_id": "psd-140721",
+  "date": "2014-07-21",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140721.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--History"
+  ],
+  "patterns": [],
+  "headings": [
+   "Grenada"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "History subdivisions containing \"colony\" (e.g., --History--French colony, 1649-1763) are established only for jurisdictions with very complicated colonial histories such as Brazil, Florida and Mexico; for Grenada use Grenada--History--17th century and --18th century."
+ },
+ {
+  "source_id": "psd-140721",
+  "date": "2014-07-21",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140721.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--1945-2000",
+   "--20th century"
+  ],
+  "patterns": [],
+  "headings": [
+   "Korean literature",
+   "Korean fiction",
+   "Korean poetry"
+  ],
+  "shm_cited": [],
+  "decision": "resubmit",
+  "note": "Chronological subdivisions for a literature follow significant events in that literature, not the breakdowns in the classification schedule, so --1945-2000 needs support; alternatives are an open span (--1945- ) or continuing to use --20th century."
+ },
+ {
+  "source_id": "psd-140721",
+  "date": "2014-07-21",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140721.html",
+  "kind": "heading",
+  "subdivisions": [
+   "--Politics and government"
+  ],
+  "patterns": [],
+  "headings": [
+   "Missouri Territory",
+   "Missouri"
+  ],
+  "shm_cited": [
+   "H 710 sec. 3"
+  ],
+  "decision": "not necessary",
+  "note": "--Politics and government free-floats under names of jurisdictions, so Missouri Territory--Politics and government needs no proposal; Missouri--Politics and government--To 1865 is kept and used for the area that became the state, even before statehood."
+ },
+ {
+  "source_id": "psd-140721",
+  "date": "2014-07-21",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140721.html",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Iraq War, 2003-2011"
+  ],
+  "shm_cited": [],
+  "decision": "resubmit",
+  "note": "A proposal to add May Subd Geog to Iraq War, 2003-2011 was returned: the cataloger must supply evidence that geographic subdivision is needed."
+ },
+ {
+  "source_id": "psd-140818",
+  "date": "2014-08-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140818.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Juvenile drama",
+   "--Juvenile fiction",
+   "--Juvenile humor",
+   "--Juvenile poetry"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1095"
+  ],
+  "decision": "added to list",
+  "note": "These four subdivisions were already in H 1095; their use is expanded to names of deities, mythological or legendary figures, and fictitious characters."
+ },
+ {
+  "source_id": "psd-140818",
+  "date": "2014-08-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140818.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Philosophy and aesthetics"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1160"
+  ],
+  "decision": "added to list",
+  "note": "Added to the H 1160 musical compositions list: --Philosophy and aesthetics."
+ },
+ {
+  "source_id": "psd-140818",
+  "date": "2014-08-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140818.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Effect of calcium on"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1180"
+  ],
+  "decision": "added to list",
+  "note": "Added to the H 1180 plants and crops list: --Effect of calcium on (May Subd Geog)."
+ },
+ {
+  "source_id": "psd-140818",
+  "date": "2014-08-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140818.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Motors--Gaskets"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1195"
+  ],
+  "decision": "added to list",
+  "note": "Added to the H 1195 land vehicles list: --Motors--Gaskets."
+ },
+ {
+  "source_id": "psd-140818",
+  "date": "2014-08-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140818.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Art"
+  ],
+  "patterns": [],
+  "headings": [
+   "Bond, James (Fictitious character)"
+  ],
+  "shm_cited": [
+   "H 1095"
+  ],
+  "decision": "not approved",
+  "note": "The subdivision --Art free-floats under names of fictitious characters (H 1095), so the phrase heading Bond, James (Fictitious character) in art should be cancelled, not revised."
+ },
+ {
+  "source_id": "psd-140818",
+  "date": "2014-08-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140818.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Persecutions"
+  ],
+  "patterns": [
+   "[Group persecuted]--Persecutions"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Persecution headings take the form [group persecuted]--Persecutions, sometimes naming the persecutor in the subdivision (Gays--Nazi persecution). LC would not start a pattern focused on the group doing the persecuting; use Political persecution--[place] with Communists--[place]."
+ },
+ {
+  "source_id": "psd-140818",
+  "date": "2014-08-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140818.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "Catalan literature--[Place]"
+  ],
+  "headings": [
+   "Moroccan literature (Catalan)"
+  ],
+  "shm_cited": [
+   "H 1156 sec. 2"
+  ],
+  "decision": "not approved",
+  "note": "National literatures qualified by language are made only for colonial-power languages or major literatures of linguistically diverse countries. For external author groups use simple geographic subdivision, e.g., Catalan literature--Morocco."
+ },
+ {
+  "source_id": "psd-140915",
+  "date": "2014-09-15",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-140915.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Treaties",
+   "--Foreign relations"
+  ],
+  "patterns": [
+   "[Jurisdiction]--Foreign relations--Treaties"
+  ],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Subject-area treaties are handled by assigning the subject (e.g., Environmental law, International) with the free-floating [jurisdiction]--Foreign relations--Treaties, plus the form term Treaties for a treaty itself; no new subject-area treaty headings (like Environmental treaties) are established."
+ },
+ {
+  "source_id": "psd-141020",
+  "date": "2014-10-20",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-141020.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Effect of altitude on"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1180"
+  ],
+  "decision": "added to list",
+  "note": "Added to the H 1180 plants and crops list: --Effect of altitude on (May Subd Geog)."
+ },
+ {
+  "source_id": "psd-141020",
+  "date": "2014-10-20",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-141020.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Transmission devices--Parts"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1195"
+  ],
+  "decision": "added to list",
+  "note": "Added to the H 1195 vehicles list: --Transmission devices--Parts (May Subd Geog)."
+ },
+ {
+  "source_id": "psd-141020",
+  "date": "2014-10-20",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-141020.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Transmission devices, Automatic--Cooling systems"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1195"
+  ],
+  "decision": "added to list",
+  "note": "Added to the H 1195 vehicles list: --Transmission devices, Automatic--Cooling systems (May Subd Geog)."
+ },
+ {
+  "source_id": "psd-141020",
+  "date": "2014-10-20",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-141020.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Industries"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1103"
+  ],
+  "decision": "cancelled",
+  "note": "The subdivision --Industries, formerly limited to preliterate peoples under ethnic groups, is deleted from H 1103 and removed from LCSH altogether, including established combinations like Indians of North America--Industries; assign headings specific to the work (e.g., Basket making; Industries, Primitive) instead."
+ },
+ {
+  "source_id": "psd-141020",
+  "date": "2014-10-20",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-141020.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--In motion pictures"
+  ],
+  "patterns": [],
+  "headings": [
+   "Scheherazade (Legendary character)"
+  ],
+  "shm_cited": [
+   "H 1095"
+  ],
+  "decision": "not approved",
+  "note": "The subdivision --In motion pictures free-floats under names of individual legendary characters (H 1095), so the existing phrase heading is cancelled rather than revised. The current H 1095 PDF on the LC site is the most up-to-date list of subdivisions for characters, deities and named animals."
+ },
+ {
+  "source_id": "psd-141117",
+  "date": "2014-11-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-141117.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Motors--Fuel injection systems--Fluid dynamics"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1195"
+  ],
+  "decision": "added to list",
+  "note": "Added to the H 1195 land vehicles list: --Motors--Fuel injection systems--Fluid dynamics."
+ },
+ {
+  "source_id": "psd-141117",
+  "date": "2014-11-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-141117.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Motors--Lubrication systems--Fluid dynamics"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1195"
+  ],
+  "decision": "added to list",
+  "note": "Added to the H 1195 land vehicles list: --Motors--Lubrication systems--Fluid dynamics."
+ },
+ {
+  "source_id": "psd-141117",
+  "date": "2014-11-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-141117.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--In-service training",
+   "--Professional development"
+  ],
+  "patterns": [],
+  "headings": [
+   "Counselors"
+  ],
+  "shm_cited": [
+   "H 2217"
+  ],
+  "decision": "not necessary",
+  "note": "Under H 2217 the subdivision for continuing training of a class of persons is --In-service training, so Counselors--In-service training is used rather than Counselors--Professional development."
+ },
+ {
+  "source_id": "psd-141215",
+  "date": "2014-12-15",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-141215.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Minors"
+  ],
+  "patterns": [],
+  "headings": [
+   "Wages"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Wages may be subdivided by an industry or a class of persons; Minors is a legal concept, neither of those. Use Wages--Children and/or Wages--Youth."
+ },
+ {
+  "source_id": "psd-150119",
+  "date": "2015-01-19",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-150119.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Industries"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1103"
+  ],
+  "decision": "cancelled",
+  "note": "The project to cancel the individually established [ethnic group]--Industries combinations (following the deletion of --Industries from H 1103) is completed and published on List 1501."
+ },
+ {
+  "source_id": "psd-150119",
+  "date": "2015-01-19",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-150119.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "Chronology, [Nationality]"
+  ],
+  "headings": [
+   "Chronology, Persian"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "In LCSH Persian denotes language and Iranian denotes nationality; in Chronology, [qualifier] headings the qualifier is nationality, so the existing Chronology, Iranian is used rather than Chronology, Persian."
+ },
+ {
+  "source_id": "psd-150216",
+  "date": "2015-02-16",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-150216.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Parturition grounds"
+  ],
+  "patterns": [],
+  "headings": [
+   "Cattle"
+  ],
+  "shm_cited": [
+   "H 1146 sec. 3"
+  ],
+  "decision": "resubmit",
+  "note": "A subdivision not appropriate under the pattern heading of a category (here Cattle for animals) cannot be added to the pattern list or free-float; --Parturition grounds must be established under the specific headings that need it."
+ },
+ {
+  "source_id": "psd-150216",
+  "date": "2015-02-16",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-150216.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Tropics"
+  ],
+  "patterns": [],
+  "headings": [
+   "Interior decoration"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "Interior decoration may be geographically subdivided, so Interior decoration--Tropics did not need a proposal."
+ },
+ {
+  "source_id": "psd-150316",
+  "date": "2015-03-16",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-150316.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Examinations"
+  ],
+  "patterns": [],
+  "headings": [
+   "Chinese teachers",
+   "Computer science teachers"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "The --Examinations subdivision carries a note against use with classes of persons unless the topic cannot be established. A study guide for a teaching test is cataloged under the subject, e.g., Chinese language--Examinations--Study guides, plus Teachers--Examinations."
+ },
+ {
+  "source_id": "psd-150316",
+  "date": "2015-03-16",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-150316.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "Names, Personal--[Nationality or ethnic group]"
+  ],
+  "headings": [
+   "Names, Personal"
+  ],
+  "shm_cited": [],
+  "decision": "not necessary",
+  "note": "Headings like Names, Hmong and Names, Kirghiz for works limited to personal names are not needed; Names, Personal--Hmong and Names, Personal--Kirghiz free-float on the model of Names, Personal--Scottish, [Spanish, Welsh, etc.]."
+ },
+ {
+  "source_id": "psd-150316",
+  "date": "2015-03-16",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-150316.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Political activity"
+  ],
+  "patterns": [],
+  "headings": [
+   "Bahai Faith"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "The subdivision --Political activity should not free-float under headings for religious sects without corporateness (e.g., Bahai Faith, Buddhism), though it does under Christian denominations; for members of such faiths use a class-of-persons heading like Bahai Faith members."
+ },
+ {
+  "source_id": "psd-150420",
+  "date": "2015-04-20",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-150420.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Environmental aspects",
+   "--Economic aspects",
+   "--Political aspects"
+  ],
+  "patterns": [],
+  "headings": [
+   "Climatic changes"
+  ],
+  "shm_cited": [
+   "H 1095 sec. 3"
+  ],
+  "decision": "cancelled",
+  "note": "Do not use a free-floating subdivision when the topic is already implied in the heading. Climatic changes--Environmental aspects was cancelled, and Depressions--Economic aspects and [...] policy--Political aspects are cited as other invalid combinations."
+ },
+ {
+  "source_id": "psd-150420",
+  "date": "2015-04-20",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-150420.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Spoken [name of language]"
+  ],
+  "patterns": [],
+  "headings": [
+   "Chattisgarhi dialect"
+  ],
+  "shm_cited": [
+   "H 1154"
+  ],
+  "decision": "not necessary",
+  "note": "The subdivision --Spoken [name of language] is free-floating under headings for languages (H 1154), so no proposal is needed."
+ },
+ {
+  "source_id": "psd-150420",
+  "date": "2015-04-20",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-150420.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Literary genre], [Language]--Translations into [Language]"
+  ],
+  "headings": [
+   "Christian drama, Xhosa"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Literary genre headings qualified by language refer to the original language of the work. A Xhosa translation of an English drama is Christian drama, English--Translations into Xhosa."
+ },
+ {
+  "source_id": "psd-150420",
+  "date": "2015-04-20",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-150420.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Dialects"
+  ],
+  "patterns": [],
+  "headings": [
+   "Arabic language"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Works on Arabic as spoken in a particular country get Arabic language--[country] and/or Arabic language--Dialects--[country]; no separate heading such as Sudanese Arabic language."
+ },
+ {
+  "source_id": "psd-150518",
+  "date": "2015-05-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-150518.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Romani authors"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1156"
+  ],
+  "decision": "added to list",
+  "note": "Added to the H 1156 literatures list: --Romani authors."
+ },
+ {
+  "source_id": "psd-150518",
+  "date": "2015-05-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-150518.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "Japanese literature--[Place]",
+   "Japanese poetry--[Place]"
+  ],
+  "headings": [
+   "Canadian literature (Japanese)",
+   "Canadian poetry (Japanese)"
+  ],
+  "shm_cited": [
+   "H 1156 sec. 2"
+  ],
+  "decision": "not necessary",
+  "note": "For external author groups, those living outside the country associated with the literature, use simple geographic subdivision: Japanese literature--Canada and Japanese poetry--Canada, not Canadian literature (Japanese)."
+ },
+ {
+  "source_id": "psd-150518",
+  "date": "2015-05-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-150518.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--1500-1800"
+  ],
+  "patterns": [],
+  "headings": [
+   "Rajasthani literature"
+  ],
+  "shm_cited": [],
+  "decision": "resubmit",
+  "note": "Chronological subdivisions are based on significant periods in the history of the topic; no evidence was given that 1800 is a significant date in Rajasthani literature."
+ },
+ {
+  "source_id": "psd-150615",
+  "date": "2015-06-15",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-150615.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Palestinian Arab authors"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1156"
+  ],
+  "decision": "added to list",
+  "note": "Added to the H 1156 literatures list: --Palestinian Arab authors."
+ },
+ {
+  "source_id": "psd-150615",
+  "date": "2015-06-15",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-150615.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--History"
+  ],
+  "patterns": [],
+  "headings": [
+   "Buddhism"
+  ],
+  "shm_cited": [],
+  "decision": "resubmit",
+  "note": "Chronological subdivisions need not match the classification schedule breakdowns; Buddhism--Korea--History--1910-1945 and --1945- were returned because no evidence showed 1945 is a significant date for Korean Buddhism. Continuing --20th century was suggested."
+ },
+ {
+  "source_id": "psd-150615",
+  "date": "2015-06-15",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-150615.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Muscles",
+   "--Physiology"
+  ],
+  "patterns": [],
+  "headings": [
+   "Muscles"
+  ],
+  "shm_cited": [
+   "H 1146"
+  ],
+  "decision": "not approved",
+  "note": "Muscles--Physiology is a free-floating combination and takes no BT or UFs. Since --Muscles cannot be used under Heart, --Muscles--Physiology cannot be added to the organs-and-regions pattern list."
+ },
+ {
+  "source_id": "psd-150720",
+  "date": "2015-07-20",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-150720.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Mechanical properties"
+  ],
+  "patterns": [],
+  "headings": [
+   "Crystals"
+  ],
+  "shm_cited": [
+   "H 1158"
+  ],
+  "decision": "not necessary",
+  "note": "The subdivision --Mechanical properties free-floats under Materials (H 1158) and crystals are materials, so Crystals--Mechanical properties needed no proposal."
+ },
+ {
+  "source_id": "psd-150720",
+  "date": "2015-07-20",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-150720.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Law and legislation"
+  ],
+  "patterns": [],
+  "headings": [
+   "Internet and children"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Headings of the form [topic A] and [topic B] indicate a reciprocal relationship and are generally not eligible for topical subdivision, so Internet and children--Law and legislation was refused; assign Internet governance--Law and legislation with Child welfare or Internet and children."
+ },
+ {
+  "source_id": "psd-150817",
+  "date": "2015-08-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-150817.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Relocation"
+  ],
+  "patterns": [],
+  "headings": [
+   "Choctaw Indians"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "The free-floating subdivision Choctaw Indians--Relocation covers the removal of the Choctaw to Indian Territory; a separate phrase heading Choctaw Trail of Tears was refused since a concept gets only one heading."
+ },
+ {
+  "source_id": "psd-150817",
+  "date": "2015-08-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-150817.html",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Bantu-speaking peoples"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Bantu-speaking peoples stays May Subd Geog; it is standard LCSH practice to allow geographic subdivision of ethnic groups and classes of persons, and LC will not change the coding without a strong argument."
+ },
+ {
+  "source_id": "psd-150817",
+  "date": "2015-08-17",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-150817.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Topic] in the workplace"
+  ],
+  "headings": [
+   "Online social networks in the workplace"
+  ],
+  "shm_cited": [],
+  "decision": "resubmit",
+  "note": "The construction [topic] in the workplace refers to non-business activity in business settings; business use of a topic would instead be [topic] in business."
+ },
+ {
+  "source_id": "psd-150921",
+  "date": "2015-09-21",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-150921.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Habitat--Conservation"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1180"
+  ],
+  "decision": "added to list",
+  "note": "Added to the H 1180 plants list: --Habitat--Conservation (May Subd Geog)."
+ },
+ {
+  "source_id": "psd-150921",
+  "date": "2015-09-21",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-150921.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "Television broadcasting, [Nationality]",
+   "[Language] television broadcasting"
+  ],
+  "headings": [
+   "Television broadcasting, Hungarian"
+  ],
+  "shm_cited": [],
+  "decision": "resubmit",
+  "note": "LC wants to know whether works are about programming produced in the country or in the language before approving both [language] television broadcasting and Television broadcasting, [adjective for nationality]; Spanish television broadcasting is the first of its type."
+ },
+ {
+  "source_id": "psd-151019",
+  "date": "2015-10-19",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-151019.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Songs and music"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1095"
+  ],
+  "decision": "added to list",
+  "note": "Added to H 1095 free-floating subdivisions: --Songs and music."
+ },
+ {
+  "source_id": "psd-151019",
+  "date": "2015-10-19",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-151019.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Demonyms"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1154"
+  ],
+  "decision": "added to list",
+  "note": "Added to the H 1154 languages list: --Demonyms."
+ },
+ {
+  "source_id": "psd-151019",
+  "date": "2015-10-19",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-151019.html",
+  "kind": "heading",
+  "subdivisions": [
+   "--History"
+  ],
+  "patterns": [],
+  "headings": [
+   "El Salvador"
+  ],
+  "shm_cited": [
+   "H 1200"
+  ],
+  "decision": "not approved",
+  "note": "Revising El Salvador--History--1979-1992 to El Salvador--History--Civil War, 1979-1992 was refused: sources do not consistently call it a civil war, and it would shift the heading from a general period to the wars pattern list (H 1200), requiring recataloging of 130+ works."
+ },
+ {
+  "source_id": "psd-151019",
+  "date": "2015-10-19",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-151019.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Class of persons] in the Bible"
+  ],
+  "headings": [
+   "Prophets in the Old Testament"
+  ],
+  "shm_cited": [],
+  "decision": "resubmit",
+  "note": "The preferred form for headings for classes of persons in the Bible is [class of persons] in the Bible, not \"in the Old Testament\"."
+ },
+ {
+  "source_id": "psd-151212",
+  "date": "2015-12-12",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-151212.html",
+  "kind": "heading",
+  "subdivisions": [],
+  "patterns": [],
+  "headings": [
+   "Indigenous peoples",
+   "Blacks"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Indigenous peoples--South Africa and --Angola were not replaced by Blacks--South Africa and --Angola: Blacks is an ethnic group, Indigenous peoples a class of persons. Indigenous peoples is valid for colonial and apartheid periods, not post-1975 Angola or post-1994 South Africa."
+ },
+ {
+  "source_id": "psd-160118",
+  "date": "2016-01-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-160118.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Civil rights--Religious aspects"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1100"
+  ],
+  "decision": "added to list",
+  "note": "Added to the H 1100 classes of persons list: --Civil rights--Religious aspects."
+ },
+ {
+  "source_id": "psd-160118",
+  "date": "2016-01-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-160118.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Civil rights--Religious aspects"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1103"
+  ],
+  "decision": "added to list",
+  "note": "Added to the H 1103 ethnic groups list: --Civil rights--Religious aspects."
+ },
+ {
+  "source_id": "psd-160118",
+  "date": "2016-01-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-160118.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Bakhtiari authors",
+   "--Korean influences"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1156"
+  ],
+  "decision": "added to list",
+  "note": "Added to the H 1156 literatures list: --Bakhtiari authors and --Korean influences."
+ },
+ {
+  "source_id": "psd-160118",
+  "date": "2016-01-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-160118.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "[Class of persons] Holocaust survivors"
+  ],
+  "headings": [
+   "Holocaust survivors"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "LCSH has no headings of the type [class of persons] Holocaust survivors (e.g., Child Holocaust survivors); works are given Holocaust survivors with headings like Jewish children in the Holocaust."
+ },
+ {
+  "source_id": "psd-160118",
+  "date": "2016-01-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-160118.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Olfaction"
+  ],
+  "patterns": [],
+  "headings": [
+   "Fishes"
+  ],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "Long-standing practice for senses in animals is to post-coordinate [animal]--Physiology and/or [animal]--Behavior with a heading for the sense (e.g., Smell), so Fishes--Olfaction was not approved."
+ },
+ {
+  "source_id": "psd-160215",
+  "date": "2016-02-15",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-160215.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Diseases--Climatic factors"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1147"
+  ],
+  "decision": "added to list",
+  "note": "Added to the H 1147 animals list: --Diseases--Climatic factors."
+ },
+ {
+  "source_id": "psd-160418",
+  "date": "2016-04-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-160418.html",
+  "kind": "pattern",
+  "subdivisions": [],
+  "patterns": [
+   "Dadaist literature, French--[Place]"
+  ],
+  "headings": [
+   "Dadaist literature, Romanian (French)"
+  ],
+  "shm_cited": [
+   "H 1156 sec. 2"
+  ],
+  "decision": "not approved",
+  "note": "National literatures qualified by language are for colonial-power languages and major literatures of diverse countries; Romanian literature is neither. For external author groups use simple geographic subdivision, e.g., Dadaist literature, French--Romania."
+ },
+ {
+  "source_id": "psd-160418",
+  "date": "2016-04-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-160418.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Law and legislation"
+  ],
+  "patterns": [],
+  "headings": [
+   "Intersexuality"
+  ],
+  "shm_cited": [
+   "H 1150"
+  ],
+  "decision": "not necessary",
+  "note": "The subdivision --Law and legislation free-floats under headings for diseases and other medical conditions, including abnormalities, functional disorders, mental disorders, manifestations of disease, and wounds and injuries (H 1150)."
+ },
+ {
+  "source_id": "psd-160418",
+  "date": "2016-04-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-160418.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Defenses"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [],
+  "decision": "not approved",
+  "note": "The concept of rearmament is covered by the free-floating subdivision --Defenses after names of countries (e.g., Germany--Defenses), with a general see reference, so no Rearmament heading was established."
+ },
+ {
+  "source_id": "psd-160516",
+  "date": "2016-05-16",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-160516.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [
+   "--Garifuna authors"
+  ],
+  "patterns": [],
+  "headings": [
+   "English poetry",
+   "English literature"
+  ],
+  "shm_cited": [
+   "H 1156"
+  ],
+  "decision": "resubmit",
+  "note": "Literary form headings are not qualified by ethnic group; Garifuna poetry in English is English poetry--Garifuna authors. The subdivision --Garifuna authors (under English literature) must itself be proposed for H 1156."
+ },
+ {
+  "source_id": "psd-160620",
+  "date": "2016-06-20",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-160620.html",
+  "kind": "subdivision_usage",
+  "subdivisions": [],
+  "patterns": [
+   "World War, 1939-1945--[Ethnic group] [class of persons]"
+  ],
+  "headings": [
+   "World War, 1939-1945"
+  ],
+  "shm_cited": [
+   "H 1200"
+  ],
+  "decision": "not approved",
+  "note": "H 1200 has subdivisions for classes of persons and for ethnic groups but none combining the two, and LC would not break precedent: World War, 1939-1945--Japanese American gardeners was refused in favor of separate headings."
+ },
+ {
+  "source_id": "psd-160718",
+  "date": "2016-07-18",
+  "url": "https://www.loc.gov/aba/pcc/saco/cpsoed/psd-160718.html",
+  "kind": "free_floating_addition",
+  "subdivisions": [
+   "--Case studies"
+  ],
+  "patterns": [],
+  "headings": [],
+  "shm_cited": [
+   "H 1095",
+   "H 1100",
+   "H 1103",
+   "H 1105"
+  ],
+  "decision": "added to list",
+  "note": "Added to the free-floating lists H 1095, H 1100 (classes of persons), H 1103 (ethnic groups) and H 1105 (corporate bodies): --Case studies."
+ }
+]
